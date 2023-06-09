@@ -108,8 +108,8 @@ To use, run the following command: <br>
 
   
 ## Credits
+* **Miloy Minar Ajmera (Project Manager)**
 * Aditya Dua
 * Shivam Patel
 * Wan-Tien (Candice) Chiang
-* Miloy Minar Ajmera
 * Yash Jahagirdar
