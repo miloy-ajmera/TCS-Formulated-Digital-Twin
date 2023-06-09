@@ -1,0 +1,764 @@
+Document Name: role of Dow Corning 200 Fluid (100~s) in Protective Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4505343/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safety Evaluation of Polyethylene Glycol (PEG) Compounds for Cosmetic Use - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Toxicol Res
+
+
+v.31(2); 2015 Jun
+
+
+                    PMC4505343
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (370K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Toxicol Res
+
+
+v.31(2); 2015 Jun
+
+
+                    PMC4505343
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Toxicol Res. 2015 Jun; 31(2): 105–136.  doi: 10.5487/TR.2015.31.2.105PMCID: PMC4505343PMID: 26191379Safety Evaluation of Polyethylene Glycol (PEG) Compounds for Cosmetic UseHyun-Jun Jang,1 Chan Young Shin,2 and  Kyu-Bong Kim1Hyun-Jun Jang1College of Pharmacy, Dankook University, Cheonan, KoreaFind articles by Hyun-Jun JangChan Young Shin2Department of Neuroscience, School of Medicine, Konkuk University, Seoul, KoreaFind articles by Chan Young ShinKyu-Bong Kim1College of Pharmacy, Dankook University, Cheonan, KoreaFind articles by Kyu-Bong KimAuthor information Article notes Copyright and License information Disclaimer1College of Pharmacy, Dankook University, Cheonan, Korea2Department of Neuroscience, School of Medicine, Konkuk University, Seoul, KoreaCorresponding author.Kyu-Bong Kim, College of Pharmacy, Dankook University, 119 Dandae-ro, Cheonan, Chungnam 330-714, Korea E-mail: rk.ca.kooknad@gnobuykAbbreviation: CIR, Cosmetic Ingredient Review; IgG, immunoglobulin G; PEGs, polyethylene glycols; PEO, polyethylene oxide; POE, polyoxyethylene; PPG, polypropylene glycol; S-D, Sprague-Dawley.Received 2015 Jun 10; Revised 2015 Jun 17; Accepted 2015 Jun 29.Copyright  © 2015, The Korean Society Of ToxicologyThis is an Open-Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.AbstractPolyethylene glycols (PEGs) are products of condensed ethylene oxide and water that can have various derivatives and functions. Since many PEG types are hydrophilic, they are favorably used as penetration enhancers, especially in topical dermatological preparations. PEGs, together with their typically nonionic derivatives, are broadly utilized in cosmetic products as surfactants, emulsifiers, cleansing agents, humectants, and skin conditioners. The compounds studied in this review include PEG/PPG-17/6 copolymer, PEG-20 glyceryl triisostearate, PEG-40 hydrogenated castor oil, and PEG-60 hydrogenated castor oil. Overall, much of the data available in this review are on PEGylated oils (PEG-40 and PEG-60 hydrogenated castor oils), which were recommended as safe for use in cosmetics up to 100% concentration. Currently, PEG-20 glyceryl triisostearate and PEGylated oils are considered safe for cosmetic use according to the results of relevant studies. Additionally, PEG/PPG-17/6 copolymer should be further studied to ensure its safety as a cosmetic ingredient.Keywords: Polyethylene glycol (PEG), PEG compound, Safety evaluationINTRODUCTIONPolyethylene glycols (PEGs) are composed of polyether compounds repeating ethylene glycol units according to the constituent monomer or parent molecule (as ethylene glycol, ethylene oxide, or oxyethylene) (Fig. 1). Most PEGs are commonly available commercially as mixtures of different oligomer sizes in broadly- or narrowly-defined molecular weight (MW) ranges. For instance, PEG-10,000 typically designates a mixture of PEG molecules (n = 195 to 265) having an average MW of 10,000. PEG is also known as polyethylene oxide (PEO) or polyoxyethylene (POE), with the three names being chemical synonyms. However, PEGs mainly refer to oligomers and polymers with molecular masses below 20,000 g/mol, while PEOs are polymers with molecular masses above 20,000 g/mol, and POEs are polymers of any molecular mass. Relatively small molecular weight PEGs are produced by the chemical reaction between ethylene oxide and water or ethylene glycol (or other ethylene glycol oligomers), as catalyzed by acidic or basic catalysts. To produce PEO or high-molecular weight PEGs, synthesis is performed by suspension polymerization. It is necessary to hold the growing polymer chain in solution during the course of the poly-condensation process. The reaction is catalyzed by magnesium-, aluminum-, or calcium-organoelement compounds. To prevent coagulation of polymer chains in the solution, chelating additives such as dimethylglyoxime are used (1).Open in a separate windowFig. 1.Polimerization of ethylene glycol.PEGs, together with their derivatives, do not have definite chemical entities, rather, they are compound mixtures having different chain lengths. PEGs are used in cosmetics “as is” or in combination with their derivatives in which their 2 terminal primary hydroxyl groups can create mono-, di- and poly-esters, amines, ethers and acetals. Furthermore, PEGs can create additional compounds and complexes through a reaction in their ether bridges. Overall, PEG derivatives may include PEG ethers (e.g. laureths, ceteths, ceteareths, oleths, and PEG ethers of glyceryl cocoates), PEG fatty acids (e.g. PEG laurates, dilaurates, stearates, and distearates), PEG castor oils, PEG amine ethers (PEG cocamines), PEG propylene glycols, and other derivates (e.g., PEG soy sterols and PEG beeswax). Since many PEG types are hydrophilic, they are favorably used as penetration enhancers, especially in topical dermatological preparations (2). Polyethylene glycols (PEGs) and their derivatives are widely used in cosmetics as surfactants, cleansing agents, emulsifiers, skin conditioners, and humectants.Adding to their use in cosmetics, many PEG compounds also have other applications. Available information from these uses is included in this assessment where relevant. In the pharmaceutical industry, for instance, they are used as ointment bases or vehicles for drugs in capsules, tablet and pill binders, suppositories, and liquid prescriptions; and in veterinary drugs as part of parenteral, topical, ophthalmic, oral, and rectal preparations. Further various applications were found in soaps and detergents, wood preservation, printing, chemical mixtures, as well as in industries that produces textiles, leather, plastics, resins, paper, ceramics, glass, rubber, petroleum, and metal. Polyoxyethylene sorbitan esters (polysorbates) and polyethylene glycol, with an average molecular weight of 6,000, are permitted as food additives in various food products (3,4).In previous studies, PEGs and various PEG compounds have been reviewed and assessed well to be concluded as relatively safe for use in cosmetics under the present conditions of intended use (3,5,6). However, all PEG compounds were not covered in the previous studies due to their wide variety, and the introduction of new entities currently used in cosmetics suggests supplementary evaluation. Thus, it is essential to continuously monitor the safety and risks of PEG-derived products being exposed to consumers using cosmetic products to ensure that no potential health threats will arise, especially when used extensively and chronically. In this review, we searched for and enumerated the PEG polymers and their derivatives that are used in cosmetics (Table 1) in order to evaluate the safety of their application according to the currently available information in the literature.Table 1.PEG polymers and their derivatives in cosmeticPolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients
+
+PEG-2Almond GlyceridesMULSIFAN CAO 02Co-emulsifier. It is an ethoxylated, virgin almond oil with non-ionic character used for the preparation of w/o emulsions.Castor Oil61791-12-6; 107853-28-1Emulsifying agents and surfactants.Cocamine61791-14-8; 12610-15-0PEG-2 COCAMINESabopal NC 2Alkaline emulsions like hair-dye creams or gels.Dilaurate9005-02-01PegosperseTM 200 DLNonionic emulsifier for neutral and mildly alkaline and acidic systems. It is a fluid emulsifier, dispersant and spreading agent.Dimeadowfoamamido ethylmonium MethosulfatePEG-2 DIMEADOWFOAMA MIDOETHYLMONIU M METHOSULFATEMeadowquat® HGProduced by reacting meadowfoam seed oil to form this sulfated (nonchloride) quaternium compound for enhancing the conditioning effects of meadowfoamate.Distearate109-30-8PEG-2 DISTEARATEDub DSDEGEmulsifier. Used in cosmetic products.Hydrogenated Castor Oil61788-85-0; 113148-98-4Emulsifier.Hydrogenated TallowaminePEG-2 HYDROGENATED TALLOW AMINEProtox T-2Used in shampoos. Emulsifier, anti-irritant, neutralizing agent, anti-static agent, a foam booster and a mild detergent.Laurate SEEmulsifiers.Milk SolidGALACTENEEmollient. Used for delicate and dry skins, soaps, syndets, shampoos. Available in powder form.OleaminePEG-2 OLEAMINESabopal NO 2Used for alkaline emulsions like hair-dye creams or gels.Oleate106-12-7PEG-2 OLEATENikkol MYO-2Lipophilic emulsifier obtained by the addition of ethylene oxide to fatty acids.Soyamine61791-24-0PEG-2 SOYAMINEProtox S-2; Ethomeen® SV/12Used in shampoos. Emulsifier, anti-irritant, neutralizing agent, anti-static agent, a foam booster and a mild detergent.Stearate106-11-6PEG-2 STEARATENikkol MYS-2Lipophilic emulsifier obtained by the addition of ethylene oxide to fatty acids.Stearyl Ether9005-00-9Acconon® SA-2Used in the formulation of cosmetic O/W or W/O emulsions in combination with other emulsifiers.Tallowamine61791-26-2PEG-2 TALLOW AMINEHetoxamine T-2; Sabopal NS 2Anti-static agent and as emulsifier for waxes and oils. It is formed by the reaction of fatty primary amines with ethylene oxide.PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.
+
+Disodium oleamido PEG-2SulfosuccinateCola® Mate OPA-30Characterized by mildness and the ability to moderate the irritation of anionics on the skin.PEG-3C12-18 AlcoholISOXAL -5O/W and w/o emulsifier and solubilizer. Used in skin oils, anhydrous preprations, microemulsions, bath oils and decorative cosmetics.Castor Oil61791-12-6; 107853-28-1Emulsifiers and surfactants.Dicaprylate/Dicaprate68583-52-8PEG-3 DICAPRYLATE/CAPRATEDub 810 TEGEmollient. Used in cosmetic products.DimethiconeEmulsil® S-391Water soluble silicone copolyol surfactant used as plasticizer and solubilizer in cosmetic systems. Used in hair, skin and body care.Distearate91031-45-7; 9005-08-7; 25062-49-1PPG-5-LAURETH-5; PEG-3 DISTEARATECutina® TS; Tegin® D1102; Nikkol Estepearl 30V; Genapol® TS PowderOpacifying agent and pearlieser for the preparation of surfactant washing and cleansing preparations.Lauryl EtherGLYCOLENEO/w type emulsifier, solubilizer, emollient and humectant. It is non-sticky and soluble in water, glycerin as well as in glycols. Used in lotions, tonics and gel.Stearate9005-08-7; 155833-47-9Emulsifying agents.Magnesium PEG-3Cocamide Sulfate122998-71-4MAGNESIUM PEG-3 COCAMIDE SULFATEHydriosul® AMG.30Thickener. Used in cosmetics.PEG-425322-68-3PEG-4Sabopeg 200; POGOL® 200; Jeechem 200Humectant. Used in shower and bath products, creams and lotions, shampoos, shaving products and liquid soaps.CelluloseALCORAMNOSANRheology modifier. It is a gelling agent only for water/ethanol systems. It does not form any dry film on the surface of the skin (artificial desquamation).DiheptanoatePEG-4 DIHEPTANOATELiponate® 2-DHSkincare anti-aging, skincare anti-acne, skincare treatment, skincare moisturization, skincare protection, sun care, color cosmetics and hair care.Efa Proline EsterAMINOEFADERMANourishing agent for skin suppleness, hair treatment and conditioning. Offers anticellulitic-, local anti-inflammatoryand bioenergetic properties.PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.
+
+PEG-4Laurate9004-81-3PEG-4 LAURATEPegosperse® 200 MLVersatile mild HLB range surface active agent. For use in products with high clarity. Emulsions Liquid products Lotions Liquid products Oils.Oleate9004-96-0; 10108-25-5PEG-4 OLEATEJeemate 200-OC; Hydriol® OP.2Used as emulsifiers and dispersing agents for creams, lotions and bath oils.Olivate226708-41-4PEG-4 OLIVATEOlivem 700Used in cosmetic formulations.Polyglyceryl-2 Stearate72828-11-6PEG-4 POLYGLYCERYL-2 STEARATEHostacerin® DGSBUsed in liquid and creamy oil-in-water emulsions. Acts as an emulsifier and co-emulsifier with special emulsifying effect on vegetable oils.Rapeseedamide85536-23-8PEG-4 RAPESEEDAMIDEAmidet® N; Masamide® R-4Liquid non-ionic surfactant with good thickening and foaming properties. Also acts as co-surfactant, thickener, emulsifier, moisturizers and solubilizer.Stearate9004-99-3; 106-07-0PEG-4 STEARATEJeemate 200-DPS; Nikkol MYS-4; Sabowax SE 4Used as emulsifiers and dispersing agents for creams, lotions and bath oils.Stearyl Ether9005-00-9Acconon® SA-4Nonionic emulsifier and wetting agent. Used in bath products as well as cleansing products such as cold creams and cleansing lotions.PEG-5C12-C18 AlcoholISOXAL -12O/W non-ionic co-emulsifier and solubilizer. It is solid and soluble in triglycerides, glycerol, propylene glycol as well as partially soluble in mineral oils.Castor Oil61791-12-6PEG-5 CASTOR OILEtocasTM 5; Surfactol® 318O/W co-emulsifier, w/o coemulsifier and dispersing agent. Used in skin care creams, lotions, bath products, sprayable emulsions, eyecare, feet, hands, nails and sun protection.CocaminePEG-5 COCAMINEProtox C-5Acts as emulsifer, anti-irritant, neutralizing agent, anti-static agent, a foam booster and a mild detergent.Laurate9004-81-3Jeemate 200-MLEmulsifiers and dispersing agents for creams, lotions and bath oils.Oleammonium Methosulfate64611-81-0PEG-5 OLEAMMONIUM METHOSULFATEAccoquat® OMS-5An easy-to-use organic quaternary ammonium compound derived from oleic acid. Acts as water-soluble conditioning and light moisturizing agent.OleatePEG-5 OLEATEHETOXAMATE MO - 5Emulsifier, surfactant and coupling agent.Rapeseed Sterol68441-03-2PPG-5-LAURETH-5Generol® R E5Nonionic co-emulsifier for the preparation of cosmetic emulsions of the type W/O.Soyamine61791-24-0Ethomeen® SV/25Resin neutralizer, rheology modifier, surfactant, emulsifier and wetting agent. It is used in a variety of hair care application areas.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-5Stearate9004-99-3PEG-5 STEARATEHetoxamate SA-5Surfactant/emulsifier for ointments, creams, lotions, face moisturizers, and other skin care products.Stearyl Ammonium Lactate55896-85-0PEG-5 STEARYL AMMONIUM LACTATEGenamin® KSLAntistatic agent. Used in hair finishing rinses, liquid setting lotions, conditioning shampoos, hair colourants, hair tonics and all hair after-treatment products.Dihydroxypropyl PEG-5Linoleammonium Chloride168677-75-6DIHYDROXYPROPYL PEG-5 LINOLEAMMONIUM CHLORIDEIncroquatTM SL-5; Cola® Quat SLCCConditioning agent. Gives lubricity and has very good wet comb properties. Compatible with anionics. Used in bath & shower products.PEG-625322-68-2; 25322-68-3PEG-6Pluracare® E 300; Sabopeg 300; Jeechem 300Cosmetic formulations. Acts as a solvent and humectant. Possesses nonirritating and moisturizing properties.Caprylic/Capric Glycerides52504-24-2PEG-6 CAPRYLIC/CAPRIC GLYCERIDESSaboderm CC; Oxypon CC6; Tegosoft® GMC 6; DERMAROL 6CCOintments, creams, milks and toiletries.CocamideAmidet® A/18Non-ionic surfactant used as emulsifier and detergent. Used in hair care.Dioleate9005-07-06PEG-6 DIOLEATEDub DO PEG-6Emulsifier. Used in cosmetic products.OleaminePEG-6 OLEAMINESabopal NO 6Alkaline emulsions like hair-dye creams or gels.Oleate9004-99-0; 60344-26-5; 9004-96-0PEG-6 OLEATEJeemate 300-OC; Hydriol® OP.3; Nikkol MYO-6Emulsifiers and dispersing agents for creams, lotions and bath oils.Sorbitan Oleate9005-65-6PEG-6 SORBITAN OLEATENikkol TO-106VUsed in cosmetics.Sorbitan Stearate9005-67-8PEG-6 SORBITAN STEARATENikkol TS-106VUsed in cosmetics.StearatePEG-6 STEARATEJeemate 300-DPS; Sabowax SE 6Emulsifiers and dispersing agents for creams, lotions and bath oils.Almond oil PEG-6EstersALMOND OIL PEG-6 ESTERSSaboderm AMDOintments, creams, milks and toiletries.Hydrogenated palm/palm kernel oil PEG-6EstersHYDROGENATED PALM/PALM KERNEL OIL PEG-6 ESTERSDub G1218 AEmollient. Increasing penetration. Used in milk and cream.PEG-7AmodimethiconePEG-7 AMODIMETHICONESILSENSETM A-21 SPECIALTY SILICONEUsed in aqueous systems including shampoos, rinse-out conditioners, leave-in conditioners, styling products, body washes, bath gels, liquid soaps and bubble baths, body washes.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-7Dimeticone BeeswaxBeeswax 6423 WDO/W-emulsions and lipsticks.Glyceryl Cocoate68553-03-7; 68201-46-7; 68105-29-1PEG-7 GLYCERYL COCOATEEmanon® HE; Jeechem GC-7; Saboderm HE; Sterol LG/492; CETAROL HE 7Emollient. Is non-ionic surfactant, perfumes and extracts solubilizer. Used in hair care, men’s grooming products, skin care, bath and shower products.Glyceryl SoyatePEG-7 GLYCERYL SOYATECHEMONICTM SI-7 SURFACTANTUsed in shampoos, body washes, shower gel formulations and other personal care formulations. Acts as a nonionic surfactant derived from soy oil.Hydrogenated Castor Oil61788-85-0PEG-7 HYDROGENATED CASTOR OILCroduretTM 7; Cremophor® Wo 7W/O emulsifer, particulary recommended for lotions. Used for baby care, body care, facial care, sun care, eye products, facial make-up, lip products, shower gel/body.Olivate226708-41-4PEG-7 OLIVATEOlivem 300Used in cosmetic formulations.Ammonium dimethicone PEG-7SulfateAMMONIUM DIMETHICONE PEG-7 SULFATESILSENSETM SA-1Used in shampoos, conditioners, body washes, gels, mousses and styling products. Acts as a solubilizer, conditioning and complexing agent.Dimethicone PEG-7AvocadoateDIMETHICONE PEG-7 AVOCADOATESILSENSETM DW-AVUsed in hair and skin care. Acts as an emollient, co-emulsifier and a surfactant. Possesses conditioning and spreading properties.CocoateDIMETHICONE PEG-7 COCOATESILSENSE® SW-12 SPECIALTY SILICONEUsed in hair and skin and may be used in products including creams, body lotions, after-shave balms and gels, shampoos and conditioners. Acts as a conditioning agent.IsostearateDIMETHICONE PEG-7 ISOSTEARATESILSENSE® DW-18 SPECIALTY SILICONEUsed in creams, body lotions, after-shave balms and gels, shampoos and conditioners. Acts as a lubricant and emollient.OlivateDIMETHICONE PEG-7 OLIVATESILSENSETM DW-OUsed in skin care and hair care like shampoos and conditioners. Acts as a co-emulsifier and an emollient.Phosphate132207-31-9DIMETHICONE PEG-7 PHOSPHATEPecosil® PS-150Provide greater substantivity, enhanced smoothing and slip while retaining its water-solubility property for ease of formulation.PhthalateDIMETHICONE PEG-7 PHTHALATESILSENSETM CA-1Used in shampoos, conditioners, body washes, gels, mousses and styling products. Acts as a conditioning and complexing agent.SuccinateDIMETHICONE PEG-7 SUCCINATESILSENSETM CA-2Used in shampoos, conditioners, body washes, gels, mousses and styling products. Acts as a conditioning and complexing agent.Olive oil PEG-7Esters103819-46-1OLIVE OIL PEG-7 ESTERSBeautyolea S3; Olivatis 1Acts as a secondary surfactant and emulsifier or co-emulsifier in O/W systems. It is obtained from pure italian olive oil.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.Sodium PEG-7Olive Oil Carboxylate226416-05-3SODIUM PEG-7 OLIVE OIL CARBOXYLATEOlivem 400Used as mild surfactant in hair and skin care products.Steardimonium Hydroxypropyl PEG-7Dimethicone Phosphate Chloride220714-63-6STEARDIMONIUM HYDROXYPROPYL PEG-7 DIMETHICONE PHOSPHATE CHLORIDEPecosil® PSQ-418Film forming and emollient. Used in shampoos and conditioners.PEG-825322-68-3PEG-8Sympatens PEG-400; Pluracare® E 400; Jeechem 400; Sabopeg 400Polyethylenglycol with approx molecular weight 400 (8 EO). Re-fatting agent. Emulsions Liquid products Lotions.BeewaxPEG-8 BEESWAXWax -PEG-8 Beeswax; Corum 2680; Dub CIRE AUsed in creams, lotions, make-ups, hair care, mascaras, lipsticks, lip-balms and sunscreen products.C12-C20 Alkyl EsterXALIFIN -15; XALIFIN 15 N-PO/W and w/o emulsifier as well as solubilizer. It is the most histophilic of known emulsifiers. Used in o/w emulsions.CelluloseIDRORAMNOSANGelling agent, humectant and viscosity regulator for emulsions (easily dispersed in water, relatively short dissolving time).DiisostearatePEG-8 DIISOSTEARATENikkol CDIS-400Emulsifier.Dilaurate9005-02-01PEG-8 DILAURATEHallStar® PEG 400 DL; Jeemate 400 DL; Saboderm PDCBiodegradable emulsifier (o/w), co-emulsifier, emollient, lubricant and spreading agent. Used in bath additives, facial cleansers, facial skin care and hand & body care.Dimethicone OlivateDIMETHICONE PEG-8 AVOCADOATESilwax® WD-AVUsed in creams, body lotions, after-shave balms and gels, shampoos and conditioners. Possesses tack reducer and gloss enhancer.Dioleate9005-07-06PEG-8 DIOLEATEHallStar® PEG 400 DO; Jeemate 400-DO; Cithrol 4DOEmollient, emulsifying agent (o/w) and lubricant. Used in eye area color cosmetics, facial skin care as well as in hand & body care.Distearate9005-08-07PEG-8 DISTEARATEHallStar® PEG 400 DS; Jeemate 400 DS; Pegosperse® 400 DS; Nikkol CDS-400Emulsifier (o/w), emollient, opacifying agent and/or conditioning agent in various products. Is biodegradable and plant derived / vegetal based.DodecenylsuccinatePEG-8 DODECENYLSUCCIN ATESurfine SM 2030Used in shower gels, baby products, hypoallergenic products, make up removers, bubble baths, shampoos and body washes. Acts as surfactant and an emulsifier.Glyceryl LauratePEG-8 GLYCERYL LAURATEGlyceroxTM L8O/W emulsifier. Superfatting agent and solubiliser in aqueous and aqueous alcoholic preparations. Emollient in creams and lotions. Dispersant and wetting agent.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-8Isocetyl/Isostearyl Ether StearateISOXAL -EO/W emulsifier and solubilizer. It is solid and soluble in triglycerides, mineral oils and fatty esters.Laurate9004-81-3PEG-8 LAURATEHallStar® PEG 400 ML; Jeemate 400-MLEmulsifier (o/w), emollient and lubricant. Is biodegradable and plant derived / vegetal based. Used in after sun skin care, beach wear sun care, daily wear sun care.Oleate9004-96-0; 61791-00-2PEG-8 OLEATEJeemate 400-OC; Hydriol® OP.4; Alkamuls® 400 MOEmulsifiers and dispersing agents for creams, lotions and bath oils.SilanePEG-8 METHYL ETHER TRIETHOXYSILANEBGBO-SW2Hydrophilic coating for pigments and powders.StearatePEG-8 STEARATEJeemate 400-DPS; Sabowax SE 8Emulsifiers and dispersing agents for creams, lotions and bath oils.TrisiloxaneSM3340PWetting agent and surfactant having very low surface tension. Compatible for Oil and water coupling. Imparts soft silky feel, long-lasting color protection.Apricot Kernel Oil PEG-8EstersAPRICOT KERNEL OIL PEG-8 ESTERSViatenza® Apricot PE8Obtained by trans-esterification between PEG-8 and apricot kernel oil. Used in shampoos for dry and damaged hair, bath products, creams for face.Argan Oil PEG-8EstersARGAN OIL PEG-8 ESTERSViatenza® Argan PE8Used in shampoos for dry and damaged hair, bath products, face hygiene, hand care and care creams.Avocado Oil PEG-8EstersAVOCADO OIL PEG-8 ESTERSViatenza® Avocado PE8Used in shampoos for damaged hair, bath products, products for aging skin and products for around the eyes.Babassu oil PEG-8EstersViatenza® Cupuacu PE8Used in shampoos for damaged hair, bath products, cleansing wipes and milks, personal and face hygeine products.Baobab Oil PEG-8EstersViatenza® Baobab PE8Used in bath products, shampoos, cleansing wipes and milks, hand care products, personal and face hygeine products.Bertholletia Excelsa Seed Oil - PEG 8EstersBERTHOLLETIA EXCELSA SEED OIL PEG-8 ESTERSHydramazon ExcelsaUsed in shampoos, liquid and bar soaps, skin cleansers and toners, anti-wrinkle creams and lotions, baby products and hair conditioning gels.Bitter Cherry Seed Oil PEG-8EstersBITTER CHERRY SEED OIL PEG-8 ESTERSViatenza® Cherry PE8Used in shampoos for dry hair, bath products, sun care, face hygiene and in creams for dry.Borage Seed Oil PEG-8EstersBORAGE SEED OIL POLYGLYCERYL-6 ESTERSViatenza® Borage PO6Used in shampoos for dry and damaged hair, bath products, care creams for dry and damaged skin.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.Buriti Oil PEG-8EstersViatenza® Buriti PE8Used in shampoos for damaged hair, bath products, personal and face hygeine products, cleansing wipes and milks.Cocoa butter PEG-8EstersViatenza® Cocoa PE8Used in shampoos for damaged hair, bath products, cleansing wipes and milks, personal and face hygeine product.Dimethicone PEG-8AmineSilamine® C-300It is silicone active, a unique patented water dispersible silicone amine, which provides conditioning, lubricity, softening, improved combability and manageability to hair.BeeswaxDIMETHICONE PEG-8 BEESWAXULTRABEE® WD SILICONEUsed in aftershave balms, mild cleansers, makeup removers, creams and lotions, shampoos and conditioners. Acts as an emollient and surfactant.LanolateDIMETHICONE PEG-8 LANOLATELanosil®Acts as an excellent skin conditioning emollient and an effective hair conditioning agent. Provides good shine with an excellent soft and velvety after feel.MeadowfoamateDIMETHICONE PEG-8 MEADOWFOAMATEFancorsil® LIM-1Is manufactured by complexing the fatty acid of the natural triglyceride meadowfoam seed oil (Limnanthes Alba) with silicone.PolyacrylateSilsoftTM SurfaceActs as a film former. Possesses non-transfer capabilities with excellent feel and water resistance. May improve wearability in cosmetic applications.SuccinateDIMETHICONE PEG-8 SUCCINATESilube® CS-IUsed in deodorant sticks, fragrance oils, hair conditioner, creams and lotions. Reduces tack and soapy feel. Aids in reducing tack and stickiness.Disodium PEG-8Palm Glycerides SulfosuccinateDISODIUM PEG-8 PALM GLYCERIDES SULFOSUCCINATESabosol RSSUsed in shampoos, bubble-baths and mild detergents. Provides soft and uniform foam. Possesses good skin feel.Grape Seed Oil PEG-8EstersGRAPE SEED OIL PEG-8 ESTERSViatenza® Grape PE8Used in shampoos for dry and damaged hair, bath products, face care, hand care, daily and emollient cream.Hazel Seed Oil PEG-8EstersHAZEL SEED OIL PEG-8 ESTERSViatenza® Hazel PE8Used in shampoos for dry and damaged hair bath products, dry face and hand creams and in personal.Hemp Seed Oil PEG-8EstersViatenza® Hemp PE8Used in shampoos for dry and damaged hair, bath products, face care, personal hygeine and day creams.Macadamia Ternifolia Seed Oil PEG-8EstersMACADAMIA TERNIFOLIA SEED OIL PEG-8 ESTERSViatenza® Macadamia PE8Used in shampoos for damaged hair, bath products, creams for dry and aged skin.Mafura Butter PEG-8EstersViatenza® Mafura PE8Used in shampoos, bath products, personal and face hygeine products, cleansing wipes and milks.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.Mongongo Nut Oil PEG-8EstersViatenza® Mongongo PE8Used in shampoos, bath products, personal and face hygeine products, cleansing wipes and milks.Olive Oil PEG-8EstersOLIVE OIL PEG-8 ESTERSViatenza® Olive PE8Used in shampoos for dry and damaged hair, bath products, face care, day creams, emollient, personal and face.Orbignya Oleifera Seed Oil - PEG 8EstersORBIGNYA OLEIFERA SEED OIL PEG-8 ESTERSHydramazon OleiferaUsed in shampoos, liquid and bar soaps, skin toning and cleansing emulsions. Acts as a natural, vegetable-derived surfactant, anti-irritant and emollient.Pumpkin Seed Oil PEG-8EstersPUMPKIN SEED OIL PEG-8 ESTERSViatenza® Pumpkin PE8Used in shampoos for dry and damaged hair, bath products, body and face creams and in personal.Rosa Rubiginosa Seed Oil PEG-8EstersROSA RUBIGINOSA SEED OIL PEG-8 ESTERSViatenza® Rose PE8Used in shampoos for dry and damaged hair, bath products, day creams for dry and damaged skin.Safflower Seed Oil PEG-8EstersSAFFLOWER SEED OIL PEG-8 ESTERSViatenza® Safflower PE8Used in shampoos for dry and damaged hair, bath products, face care, creams for dry skin.Sclerocarya Birrea Seed Oil PEG-8EstersSCLEROCARYA BIRREA SEED OIL PEG-8 ESTERSViatenza® Marula PE8Used in shampoos, bath products, personal and face hygeine products, cleansing wipes and milks.Sesame Oil PEG-8EstersSESAME SEED OIL PEG-8 ESTERSViatenza® Sesame PE8Used in shampoos, bath products, personal and face hygeine products, cleansing wipes and milks, face care product.Shea Butter PEG-8EstersSHEA BUTTER PEG-8 ESTERSViatenza® Shea PE8Used in shampoos for damaged hair, bath products, body products, personal and face hygeine products.Soybean Oil PEG-8EstersSOYBEAN OIL PEG-8 ESTERSViatenza® Soybean PE8Used in shampoos, bath products, body products, personal and face hygeine products, cleansing wipes and milks.Sunflower Seed Oil PEG-8EstersSUNFLOWER SEED OIL PEG-8 ESTERSViatenza® Sunflower PE8Used in shampoos for dry and damaged hair, bath products, personal and face hygiene and day creams.Sweet Almond Oil PEG-8EstersSWEET ALMOND OIL PEG-8 ESTERSViatenza® Almond PE8Used in shampoos, bath products, personal hygeine and face hygeine and emollient creams for face.Watermelon Seed Oil PEG-8EstersWATERMELON SEED OIL PEG-8 ESTERSViatenza® Kalahari Melon PE8Used in shampoos for damaged hair, bath products, personal and face hygeine products.Wheat Germ Oil PEG-8EstersWHEAT GERM OIL PEG-8 ESTERSViatenza® Wheat PE8Used in shampoos for dry and damaged hair, bath products, face hygiene, emollient creams for face.Ximenia Oil PEG-8EstersViatenza® Ximenia PE8Used in shampoos, bath products, body products, personal and face hygeine products, baby care products.PEG-9Castor Oil61791-12-6PEG-9 CASTOR OILHetoxide C-9Non-ionic surfactant. It is based on hydrophobe which is then reacted with ethylene oxide to accomplish specific tasks of wetting, emulsification, detergency, etc.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-9Isostearate56002-14-3PEG-9 ISOSTEARATEHETOXAMATE MI - 9Surfactant, emulsifier and coupling agent.Laurate9004-81-3PEG-9 LAURATEHETOXAMATE LA - 9O/W emulsifier, surfactant and coupling agent. Polyoxylated derivatives of lauric, oleic, or stearic acid are emulsifiers, humectants, and coupling agents.Lauryl EtherBrijTM L9Anti-irritant ingredient for use in skin soothing and local anaesthetic medicated creams.Stearate9004-99-3PEG-9 STEARATEHetoxamate SA-9It is generally used as a surfactant/emulsifier for ointments, creams, lotions, face moisturizers, and other skin care products.Lauryl PEG-9Polydimethylsiloxyethyl DimethiconeA water soluble silicone copolyol surfactant used as plasticizer and solubilizer in cosmetic systems. Used in hair, skin and body care.Polydimethylsiloxyethy Dimethicone/Isooctyl PalmitateCETYL PEG/PPG-10/1 DIMETHICONESilok® 2216CA highly efficient w/o emulsifier and a great water repellent. Possesses excellent stability for emulsion.PEG-10C12-C18 AlcoholISOXAL -11; ISOXAL -11 P-FO/W non-ionic co-emulsifier and solubilizer. It is solid and soluble in triglycerides, mineral oils, glycerol and water.DimethiconePEG-10 DIMETHICONEGransurf 77; Emulsil® S-397Used in hair care. Offers lubricious feeling and substantivity. Adds gloss and reduces static.Laurate9004-81-3PEG-10 LAURATENikkol MYL-10Hydrophilic emulsifier obtained by the addition of ethylene oxide to fatty acids.OleaminePEG-10 OLEAMINESabopal NO 10Used for alkaline emulsions like hair-dye creams or gels.Oleate9004-96-0PEG-10 OLEATENikkol MYO-10Hydrophilic emulsifier obtained by the addition of ethylene oxide to fatty acids.Polyglyceryl-2 LauratePEG-10 POLYGLYCERYL-2 LAURATEHostacerin® DGLUsed in liquid and creamy oil-in-water emulsions. Acts as a liquid emulsifier with allround emulsifying effect and as solubilizer for ethereal oils.Rapeseed Sterol68441-03-2PPG-5-LAURETH-5Generol® R E10Used in cosmetic emulsions of the type O/W. Acts as a nonionic co-emulsifier.Sorbitan LauratePEG-10 SORBITAN LAURATELiposorb® L-10Used for cosmetics. Offers emulsifying, thickening, lubricating, and anti-static effects.Stearate9004-99-3PEG-10 STEARATENikkol MYS-10Hydrophilic emulsifier obtained by the addition of ethylene oxide to fatty acids.Sunflower Glycerides180254-52-8PEG-10 SUNFLOWER GLYCERIDESFLORASOLVS® PEG-10 SUNFLOWERCo-emulsifying agent, emollient, feel modification/enhancement agent, fragrance solubilizer and transfer, and superfatting agent.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.Dihydroxypropyl PEG-10Stearammonium ChlorideVegeshineTM Q10Used for skin care, hair shampoos, conditioners, styling gels, other hair care products.Dimethicone PEG-10Phosphate132207-31-9DIMETHICONE PEG-10 PHOSPHATEPecosil® PS-200Can be a "structural" component of a formulation and is ideally suited for solid delivery systems like lipsticks, makeup and anti-perspirants/deodorants.Lauryl PEG-10Methyl Ether DimethiconeLAURYL PEG-10 METHYL ETHER DIMETHICONESilok® 2205Acts as an emulsifier for o/w system and water-in-silicone oil system. Also acts as a resin plasticizer for hair styling products.Tris(Trimethylsiloxy) Silylethyl DimethiconeDow Corning® ES-5300 Formulation AidActs as a silicone w/o and w/si emulsifier and dispersing agent. It is a non-diluted and low viscosity silicone surfactant.PEG-11Methyl Ether DimethiconePEG-11 METHYL ETHER DIMETHICONEGransurf 71Used in hair care. Offers lubricious feeling. Adds gloss and reduces static.PEG-1225322-68-3PEG-12Sabopeg 600; Pluracare® E 600; Pluracare® E 600 NF; Jeechem 600Used in cosmetic preparations. Acts as a solvent and a humectant. Possesses nonirritating and moisturizing properties.CelluloseActs as a gelling agent, humectant and viscosity regulator for emulsions (easily dispersed in water with a relatively short dissolving time).Dilaurate9005-02-01PEG-12 DILAURATEHallStar® PEG 600 DL; Jeemate 600-DLEmulsifier (o/w), co-emulsifier and emollient. Is biodegradable and plant derived / vegetal based. Used in after sun skin care, foot care as well as in hand & body care.DimethiconePEG-12 DIMETHICONEBRB 526; FM-E193Surfactant. Offers smooth and silky feel, spreadability in body care as well as in color cosmetics. Also provides soft & silky feel, wet- & dry combing in hair care.Dioleate9005-07-06PEG-12 DIOLEATEHallStar® PEG 600 DO; Jeemate 600 DOEmulsifier (o/w), co-emulsifier and emollient. Is biodegredable and plant derived / vegetal based. Used in bath additives, facial skin care, foot care, hand & body care.Distearate9005-08-07PEG-12 DISTEARATEHallStar® PEG 600 DS; Jeemate 600 DS; Hetoxamate 600 DSEmulsifier (o/w), co-emulsifier and emollient. Is biodegredable and plant derived / vegetal based. Possesses hair cuticle protection.Ditallate61791-01-3PEG-12 DITALLATEPegosperse® 600 DOTTall oil based surfactant.Laurate9005-02-01PEG-12 LAURATEHallStar® PEG 600 ML; Pegosperse® 600 MLEmulsifier (o/w), emollient and co emulsifying agent. Is biodegradable and plant derived / vegetal based. Used in after sun skin care, facial skin care, hand & body care.Oleate9004-96-0PEG-12 OLEATEJeemate 600-OCEmulsifiers and dispersing agents for creams, lotions and bath oils.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-12Stearate9004-99-3PEG-12 STEARATEJeemate 600-DPSEmulsifiers and dispersing agents for creams, lotions and bath oils.Disodium PEG-12Dimethicone Sulfosuccinate157090-37-4Cola® Mate SIExtra mild surfactant derived from watersoluble silicone copolymer. Is useful in non-irritating skin cleansing and specialty applications.PEG-14DimethiconePEG-14 DIMETHICONEAbil® B 8843Used in hair styling formulations, liquid foundations, shampoos, shower and bath preparations and shaving foam. Offers good foaming properties.Isostearate56002-14-3HETOXAMATE MI - 14Surfactant, emulsifier and coupling agent. Polyoxylated derivatives of lauric, oleic, or stearic acid are emulsifiers, humectants, and coupling agents.OleatePEG-14 OLEATEHETOXAMATE MO - 14O/W emulsifier, surfactant and coupling agent.Pentaerythritol Tetra Caprylate/Caprate (Proposed)AXIMOL PTC-14Emollient. Belonging to a new class of esters that have a very low viscosity for their molecular weights.StearatePEG-14 STEARATEHETOXAMATE MS - 14Humectant, solubilizer, surfactant, and coupling agent.PEG-15Castor Oil61791-12-6PEG-15 CASTOR OILEtocasTM 15; ALKEST® CSO 150Dispersing agent, o/w emulsifier, solubiliser and w/o coemulsifier. Used in skin care creams, lotions, bath products, shower gel/body wash, liquid soaps, facial wash.CocaminePEG-15 COCAMINESabopal NC 15Alkaline emulsions, like hair-dye creams or gels.Cocomonium ChloridePEG-15 COCOMONIUM CHLORIDEMaquat® C-15Used in 2-in-1 shampoos, restorative conditioners, conditioning hairspray, crèmes and lotions, hair conditioners and rinses.Cocomonium MethosulfatePEG-15 COCOMONIUM METHOSULFATEMaquat® C-15MSUsed in 2-in-1 shampoos, restorative conditioners, conditioning hairspray, crèmes and lotions, hair conditioners and rinses.Glyceryl IsostearatePEG-15 GLYCERYL ISOSTEARATEOxypon 2145Used in shampoos, foam baths, shower gels, intimate cleansers, baby care products.Glyceryl LauratePEG-15 GLYCERYL LAURATEGlycerox L15Used in shampoos, bath foams and oils, skin care creams and lotions, colognes, aftershaves and other alcoholic systems, colour cosmetics and antiperspirants.Glyceryl StearatePEG-15 GLYCERYL STEARATENikkol TMGS-15VUsed in cosmetics.Hydrogenated TallowaminePEG-15 HYDROGENATED TALLOW AMINEProtox T-15Used in shampoos. Acts as emulsifer, anti-irritant, neutralizing agent, anti-static agent, a foam booster and a mild detergent.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-15Laurate61791-29-5Jeemate 600 MLEmulsifier and dispersing agent for creams, lotions and bath oils.MonomerateHETOXAMATE MA - 15Surfactant, emulsifier and coupling agent. Polyoxylated derivatives of lauric, oleic, or stearic acid are emulsifiers, humectants, and coupling agents.Tallow AminePEG-15 TALLOW AMINESabopal NS 15Alkaline emulsions like hair-dye creams or gels.PEG-1625322-68-3PEG-16Polyglykol 800Used in tooth pastes and perfumes. Acts as a humectant, solubilizer, antistatic agent and fixative. Posesses softening, non-irritating and cleansing properties.Almond GlyceridesMULSIFAN CAO 16Co-emulsifier. It is an ethoxylated, virgin almond oil with non-ionic character supporting both, the formation of stable w/o as well as o/w emulsions.Hydrogenated Castor OilPEG-16 HYDROGENATED CASTOR OILProtachem CAH-16Used in personal care products. Acts as non-ionic surfactant, emulsifier, solubilizer and conditioner.Macadamia Glycerides220459-99-4PEG-16 MACADAMIA GLYCERIDESFLORASOLVS® PEG-16 MACADAMIACo-emulsifying agent, emollient, fragrance solubilizer, moisturizing agent, solubilizing agent, and superfatting agent.PEG-2025322-68-3PEG-20Polyglykol 1000Used in tooth pastes and perfumes. Acts as a humectant, solubilizer, antistatic agent and fixative. Posesses softening, non-irritating and cleansing properties.Almond Glycerides124046-50-0PEG-20 ALMOND GLYCERIDESCrovol A-40Used in soap formulations, bath oil products, styling mousses, water-based aerosols, antiperspirants and astringents. Acts as a high HLB nonionic emulsifier and conditioner.Glyceryl LauratePEG-20 GLYCERYL LAURATETagat® L2Surfactant and solubilizer in shampoos, shower and foam bath preparations and O/W emulsions. Possesses foam enhancing properties.Glyceryl OleatePEG-20 GLYCERYL OLEATETagat® O 2 VUsed in shampoos, shower and foam bath preparations and O/W emulsions.Glyceryl Stearate68153-76-4PEG-20 GLYCERYL STEARATE; PPG-5-LAURETH-5Tagat® S 2; Cutina® E 24Emulsifier and solubilizer for shampoos, shower and foam bath preparations and O/W emulsions.Hydrogenated LanolinPEG-20 HYDROGENATED LANOLINFancol® HL-20Super-fatting agent and a solubilizer. Helps for micro emulsions. A gelling agent for transparent gels. Used in creams, lotions and decorative cosmetics.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-20Methyl Glucose SesquistearatePEG-20 METHYL GLUCOSE SESQUISTEARATEGLUCAMATETM SSE-20 EMULSIFIERUsed in makeup and in skin care like creams and lotions. Acts as an oil in water emulsifier, cleanser and stabilizer.OleaminePEG-20 OLEAMINESabopal NO 20Used for alkaline emulsions like hair-dye creams or gels.Oleate9004-96-0PEG-20 OLEATEHydriol® OP.10Emulsifier. Used in cosmetics.Sorbitan Isostearate66794-58-9PEG-20 SORBITAN ISOSTEARATENikkol TI-10VUsed in cosmetics.Stearate9004-99-3PEG-20 STEARATECerasynt® 840; Sabowax SE 20Used in personal care. Acts as an emulsifier and superfatting agent. Offers increased viscosity and stability.Bis-PEG-20DimethiconeBIS-PEG-20 DIMETHICONESF 1388Enhances the soft silky feel and boosting foam in water base products such as shampoos, conditioners and body wash as well as wash ability of antiperspirants.Tribehenin PEG-20EstersTRIBEHENIN PEG-20 ESTERSEmulium® 22Used in skin care, sun care, hair care and makeup applications. Offers evanescent feel. Improves spreadability and boosts SPF.PEG-22Laurate61791-29-5Jeemate 1000-MLEmulsifiers and dispersing agents for creams, lotions and bath oils.Oleate9004-96-0Jeemate 1000-OCEmulsifiers and dispersing agents for creams, lotions and bath oils.Stearate9004-99-3Jeemate 1000-DPSEmulsifiers and dispersing agents for creams, lotions and bath oils.Tallow AmineSabopal NS 22Alkaline emulsions like hair-dye creams or gels.PEG-23Lauryl EtherLAURETH-23BrijTM L23; Polyoxyl lauryl ether NFNonionic surfactant, solubiliser and wetting agent.PEG-24DimethiconeFM-2501; Cosmethicone® SF-230Emulsifiable and imparts soft and glossy feel in product.Hydrogenated Lanolin68648-27-1PEG-24 HYDROGENATED LANOLINFancol® HL-24; Supersat AWS-24Super-fatting agent and a solubilizer. Helps for micro emulsions. A gelling agent for transparent gels. Used in creams, lotions, decorative cosmetics.PEG-25Hydrogenated Castor OilPEG-25 HYDROGENATED CASTOR OILCrodureTM 25Co-solubiliser and w/o emulsifier. Helps to control the consistency of gel. Used in bath as well as shower products, conditioners, shampoos and styling products.OleaminePEG-25 OLEAMINESabopal NO 25Alkaline emulsions like hair-dye creams or gels.Paba113010-52-9PEG-25 PABAUvinul® P25Used in skin cosmetics, hair care like gels and shampoos, colorant, setting lotions, normal and gloss hair sprays. Acts as a UV-B filter.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-25Stearate9004-99-3PEG-25 STEARATENikkol MYS-25Hydrophilic emulsifier obtained by the addition of ethylene oxide to fatty acids.Tallow AmineSabopal NS 25Alkaline emulsions like hair-dye creams or gels.PEG-26GlycerineGLYCERETH-26Emollients, emulsifiers, thickeners, stabilizers, opacifiers and pearlescent agents for such products as creams, lotions, shaving creams and cream shampoos.PEG-27LanolinPEG-27 LANOLINSuper-fatting conditioner and moisturizer. Restores lost lipids and imparts sheen. Used in hair care and skin care formulations.PEG-29Castor OilPEG-29 CASTOR OILEtocasTM 29Dispersing agent, o/w emulsifier, solubiliser, w/o co-emulsifier. Used in skin care creams, lotions, bath products, shower gel/body wash, liquid soaps and facial wash.PEG-30Almond GlyceridesMULSIFAN CAO 30Co-emulsifier. It is an ethoxylated, virgin almond oil with non-ionic character used for the preparation of o/w emulsions.Castor Oil61791-12-6PEG-30 CASTOR OILSabowax EL 30; Alkamuls® BUsed in toiletries, ointments and in transparent gels.DipolyhydroxystearatePEG-30 DIPOLYHYDROXYST EARATESabowax PIS; Simaline WO; CithrolTM DPHSUsed for medium viscosity creams. Acts as a water-in-oil emulsifier, to stabilize all types of oil effectively at low concentrations with textures ranging from lotion to thick cream.Glyceryl CocoatePEG-30 GLYCERYL COCOATERewoderm® LI 63Used in baby shampoo formulations, oil and bath formulations. Possesses very mild. Offers good skin compatibility and mucous membrane compatibility.Glyceryl Cocoate68201-46-7PEG-30 GLYCERYL COCOATEJeechem GC-30Used in baby shampoos, baby washes, sensitive skin formulations, fragrances and oils.Glyceryl SoyatePEG-30 GLYCERYL SOYATECHEMONICTM SI-63 SURFACTANTUsed in baby shampoos, baby washes, sensitive skin formulations, fragrances and oils and other mild personal care formulations. Acts as a nonionic surfactant.Glyceryl StearatePEG-30 GLYCERYL STEARATETagat® SUsed in shampoos, shower and foam bath preparations and O/W emulsions.Lanolin61790-81-6PEG-30 LANOLINBELLPOL L-30Non-ionic emolliating surfactant that can be used as a hydrophilic emulsifier. It is obtained from secretion of sheep’s sebaceous glands.OleaminePEG-30 OLEAMINESabopal NO 30Alkaline emulsions like hair-dye creams or gels.Tallow AminePEG-30 TALLOW AMINESabopal NS 30Alkaline emulsions like hair-dye creams or gels.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-3225322-68-3PEG-32Sympatens PEG-1500 G;
+RenexTM PEG 1500; Jeechem 1450; Sabopeg 1500; Pluracare® E 1450 N NFPolyethylenglycol with approx. molecular weight 1500 (32 EO). Emulsions Liquid products Lotions.StearateJeemate 1540-DPSEmulsifiers and dispersing agents for creams, lotions and bath oils.Sunflower Seed Oil PEG-32EstersSUNFLOWER SEED OIL PEG-32 ESTERSViatenza® Oleic Sunflower PE32Used in shampoos for damaged hair, bath products, face care, personal and face hygeine.PEG-35Castor OilPEG-35 CASTOR OILEtocasTM 35O/W emulsifier, w/o coemulsifier, solubiliser and dispersing agent. Used in skin care creams, lotions, bath products, shower gel/body wash, liquid soaps and facial wash.Soy Glycerides61791-23-9PEG-35 SOY GLYCERIDESAcconon® S-35Low-melt solid, water soluble vegetable oil derivative obtained from refined soybean oil. It is nonionic and compatible with other ionic species in formulation.PEG-36Castor Oil61791-12-6PEG-36 CASTOR OILAlpicare CO 36; ALKEST® CSO 360Nonionic solubilizing agent for fragrances, essential oils, lipophilic actives and vitamins.PEG-4025322-68-3PEG-40Polyglykol 2000 SHumectant, solubilizer, antistatic agent and a fixative. Posesses softening, cleansing and non-irritating properties.Castor Oil61791-12-6PEG-40 CASTOR OILJeechem CA-40; Sabowax EL 40Used for lotions, creams, hair care and lipsticks. Possesses perfume solubilizer, emollient, emulsifier, lubricant, and dispersant.Hydrogenated Castor Oil61788-85-0PEG-40 HYDROGENATED CASTOR OIL; PPG-5-LAURETH-5Findet® ARH/52; Akypo® ROX CO 400; Sabowax ELH 40; Cremophor® CO 40; Eumulgin® HRE 40Non-ionic surfactant acts as extracts, perfumes and vitamins solubilizer. Used in hair care, men’s grooming products, skin care, bath and shower products.Lanolin8051-82-9; 61790-81-6PEG-40 LANOLINLaneto 40Used in shampoos, conditioners, bath preparations, creams, lotions, as well as soap and detergent systems. Acts as an emollient, lubricant and solubilizer.Sorbitan PerisostearatePEG-40 SORBITAN PERISOSTEARATETego® SIS 40Used in W/O skin care lotions and creams and bath products. Offers good emulsifying and solubilizing properties.Sorbitan PeroleatePEG-40 SORBITAN PEROLEATEArlatoneTM TVSpreading agent of exceptionally high efficiency as well as liquid W/O co-emulsifier. Used in bath & shower products, baby care, body care, facial care and sun care.Stearate9004-99-3PEG-40 STEARATEJeemate 2000-DPS Flake; Nikkol MYS-40; Ritox 52;
+Sabowax SE 40Emulsifiers and dispersing agents for creams, lotions and bath oils.
+
+PolymerFunctional Group/CompoundCAS No.CAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-42Babassu GlyceridesPEG-42 BABASSU GLYCERIDESCrovol PK-70Used in skin care products, detergent cleansers, bath and shower products, shampoos and conditioners, styling products, aftershaves, colognes and body sprays.PEG-45Palm Kernel Glycerides124046-52-2PEG-45 PALM KERNEL GLYCERIDESCrovol PK-70Used in skin care products, bath and shower products, shampoos and conditioners, styling products, aftershaves, colognes and body sprays, antiperspirants and deodorants.Stearate9004-99-3PEG-45 STEARATENikkol MYS-45Hydrophilic emulsifier obtained by the addition of ethylene oxide to fatty acids.PEG-50Hydrogenated Castor OilPEG-50 HYDROGENATED CASTOR OILProtachem CAH-50Used in personal care products. Acts as non-ionic surfactant, emulsifier, solubilizer and conditioner.Hydrogenated Palmamide544-31-0Ethomid® HP/60Rheology modifier, wetting agent. It is an ethoxylated amide which is used in a variety of applications to provide dispersability and rheology.Lanolin61790-81-6PEG-50 LANOLINBELLPOL L-50Non-ionic emolliating surfactant that can be used as a hydrophilic emulsifier. It is obtained from secretion of sheep’s sebaceous glands.Shea ButterPEG-50 SHEA BUTTERShebu WSUsed in water-based products, such as shampoos, conditioners, creams, lotions and other products. Acts as an emollient.Stearate9004-99-3PEG-50 STEARATEMyrjTM S50; Ritox 53Co-emulsifier for o/w systems and conditioning agent. Used in body care, facial care, baby care, creams, lotions, cleaners, toners, skin treatments, feet, hands.Tallowamine61791-26-2 (g)Hetoxamine T-50Anti-static agent and as emulsifier for waxes and oils. It is formed by the reaction of fatty primary amines with ethylene oxide.PEG-54Castor Oil61791-12-6PEG-54 CASTOR OILALKEST® CSO 540Emulsifier, solubilizer, emollient, dispersing agent and humectant. It is a non-ionic surfactant.Hydrogenated Castor OilPEG-40 HYDROGENATED CASTOR OILCroduretTM 54Effective solubiliser of perfumes, essential oils and lipophilic actives for use in microemulsions. Imparts superfatting benefits in detergent systems.PEG-55Stearate9004-99-3PEG-55 STEARATENikkol MYS-55Hydrophilic emulsifier obtained by the addition of ethylene oxide to fatty acids.PEG-6025322-68-3PEG-60Polyglykol 3000 SActs as a slip and mold-release agent, solubilizer, carrier, thickener and antistatic agent. Posesses binding, softening and non-irritating properties.Almond Glycerides124046-50-0PEG-60 ALMOND GLYCERIDESCrovolTM A-70Non-ionic surfactant, emulsion stabiliser, dispersant, emollient, plasticiser, solubiliser, superfatting agent and wetting agent.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-60Castor Oil61791-12-6PEG-60 CASTOR OILJeechem CA-60Used for lotions, creams, hair care and lipsticks. Possesses perfume solubilizer, emollient, emulsifier, lubricant, and dispersant.Corn GlyceridesPEG-60 CORN GLYCERIDESCrovol M-70Used in skin care products, shampoos and conditioners, bath and shower products, styling products, aftershaves, colognes and body sprays, antiperspirants and deodorants.Evening Primrose GlyceridesPEG-60 EVENING PRIMROSE GLYCERIDESCrovol EP70Used in skin care products, detergent cleansers, bath and shower products, shampoos and conditioners, styling products, aftershaves and colognes.Hydrogenated Castor Oil61788-85-0PEG-60 HYDROGENATED CASTOR OIL; PPG-5-LAURETH-5Sabowax ELH 60; Cremophor® CO 60; Eumulgin® HRE 60Used in toiletries, ointments and transparent gels.Lanolin8039-09-06PEG-60 LANOLINJeelan L-60Emulsifiers, stabilizers, emollients, moisturizers and absorption bases for creams, lotions, liquid make-up and general purpose cosmetics.Maracuja GlyceridesCrovolTM MaracujaPlasticiser, solubiliser, superfatting agent, water soluble emollient and counter irritant.PEG-7525322-68-3PEG-75Sympatens PEG-4000 G; Sabopeg 4000Polyethylenglycol with approx. molecular weight 4000 (75 EO). Emulsions Liquid products Lotions.Lanolin61790-81-6; 8039-09-6; 61790-81-7; 61790-81-8PEG-75 LANOLINPromollient® AL PEG-75; Jeelan L-75; Jeelan L-75/50; Findet® LN/8750Ethoxylated derivative of lanolin which has emulsifying, solubilizing, wetting and cleansing properties and is an ideal product for soaps and cleansing gel.Meadowfoam Seed OilPEG-75 MEADOWFOAM OILMeadowsol® 75:75Emulsifier. Helps disperse and wet pigments. Boosts and stabilizes the foam. Provides the emolliency, conditioning and superfatting properties.Shea Butter GlyceridesPEG-75 SHEA BUTTER GLYCERIDESCrovol SB75/50Emulsion stabiliser, wetting agent, dispersant and superfatting agent. Possesses emollient, plasticiser and solubiliser properties.PEG-78Glyceryl Cocoate68201-46-7PEG-78 GLYCERYL COCOATEDUB CG 7Emulsifier. Used in bath preparation, alcoholic lotion, shampoo, clear cream and surfactant for microemulsion.PEG-80Glyceryl CocoatePEG-80 GLYCERYL COCOATECorum 9860; CHEMONICTM LI-6875 SURFACTANTSuper-fatting agent, easily soluble in water, alcohol and the majority of organic solvents.Sorbitan Laurate9005-64-5; 68154-33-6PEG-80 SORBITAN LAURATEHetsorb L-80-72%; TweenTM 28; Alkamuls® PSML-80/72Emulsifier for oils, lubricant, solvent and viscosity control agent. It is an ethoxylated sorbitan ester ideal for cosmetics and personal care formulations.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-81Castor OilHETOXIDE C - 81Humectant and solubilizer.PEG-9025322-68-3PEG-90Pluracare® E 4000 FlakesUsed in cosmetics formulations. Acts as a humectant, binder, solubilizer and absorption promoter. Possesses nonirritating and moisturizing properties.Apricot Kernel GlyceridesUsed in skin care products, detergent cleansers, bath and shower products, shampoos and conditioners, styling products, aftershaves, colognes and body sprays.Diisostearate36493-25-1PEG-90 DIISOSTEARATEHYDRAMOLTM PGDS ESTERUsed in hair treatment, antiperspirant and deodorant and in creamy gels. Acts as an emollient. Possesses conditioning and viscosity building properties.PEG-100Almond GlyceridesMULSIFAN CAO 100Emulsifier. It is an ethoxylated, virgin sweet almond oil with non-ionic character used for the preparation of o/w emulsions.Stearate9004-99-3 (generic)PEG-100 STEARATEHallStar® PEG 4400 MS; Jeemate 4400 DPS; Sabowax SE 100Non-ionic emulsifier (o/w) from petrochemical and vegetal sources. Used in after sun skin care, antiperspirants, beach wear sun care, cleansing wipes.PEG-120Methyl Glucose Dioleate86893-19-8PEG-120 METHYL GLUCOSE DIOLEATEAntil® 120 Plus; Rethick DOE120Used in hair shampoo, shower gel, foam bath, liquid soap or hand wash paste. Offers very good thickening properties. Reduces the irritation potential of surfactants.PEG-15025322-68-3PEG-150Sabopeg 6000; Pluracare® E 6000 FlakesUsed in cosmetic formulations. Acts as a humectant, binder, solubilizers and absorption promoter. Possesses nonirritating and moisturizing properties.Distearate9005-08-07PEG-150 DISTEARATERewopal® PEG 6000 DS; HallStar® PEG 6000 DS; REWOPAL® PEG 6000 DS A; HallStar® PEG 6000 DS C; Jeemate 6000-DS; Nikkol CDS-6000PUsed in baby shampoos, mild hair shampoos, foam baths and shower shampoos and skin cleansing lotions. Offers distinctive viscosity modifying effect.Pentaerythrityl Tetrastearate130249-48-8PEG-150 PENTAERYTHRITYL TETRASTEARATECrothixTMRheology modifier or thickening agent. Used in hair shampoos, antidandruff shampoos, shower gels and foam baths.Polyglyceryl-2 Tristearate72828-11-6PEG-150 POLYGLYCERYL-2 TRISTEARATEGenapol® DAT 100Used in shampoos, body washes and shower gels. Acts as an easy to handle, liquid associative thickener and conditioning agent.Stearate9004-99-3PEG-150 STEARATEHallStar® PEG 6000 MSCleansing agent, co-emulsifying agent, emulsifying agent (w/o), solubilizing agent and thickener. Used in foot care, hair conditioners and hand & body care.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-175DiisostearatePEG-175 DIISOSTEARATEHEST HVBExcellent viscosity builder for shampoo, shower gel, bubble bath.PEG-18025322-68-3PEG-180Pluracare® E 8000 FlakesUsed in cosmetics formulations. Acts as a humectant, binder, solubilizer and absorption promoter. Possesses nonirritating and moisturizing properties.PEG-200Humectant, shower and bath products, creams and lotions, shampoos, shaving products and liquid soaps.Castor OilPEG-200 CASTOR OILEtocasTM 200; Protachem CA-200O/W emulsifier. Used in bath products, liquid soaps, facial wash, hair treatments, sun protection, male grooming, baby care and hair styling.Glyceryl StearateSimulsol 220Thickening, non-ionic surfactant foaming agent used in foaming formulas. Reduces irritation. Is preservative-free.Hydrogenated Glyceryl PalmitatePEG-200 HYDROGENATED GLYCERYL PALMATECorum 9926; Rewoderm® LI 520-70Vegetable based emulsifier with solubilizing and thickening properties. It is very compatible to skin, mucous membrane.LaurateNon-ionic wetting and dispersing agent in color cosmetics solubilizers & stabilizers.PEG-200 USP25322-68-3PEG-4Perfume fixative. Moisture-stabilizing effect in creams. Leaves a pleasant feel on the skin. In lotions, acts as a cleansing agent.PEG-22025322-68-3PEG-220Polyglykol 10000 PUsed in skin care. Acts as a slip and mold-release agent, solubilizer, carrier, thickener and antistatic agent. Posesses binding, softening and non-irritating properties.PEG-24025322-68-3PEG-240Polyglykol 12000 PUsed in skin care. Acts as a slip and mold-release agent, solubilizer, carrier, thickener and antistatic agent. Posesses binding, softening and non-irritating properties.PEG-300PEG-6PEG-6Humectant, hower and bath products, creams and lotions, shampoos, shaving products and liquid soaps.PEG-300 USPPEG-6Humectant. Used in shower and bath products, creams and lotions, shampoos, shaving products and liquid soaps.PEG-400PEG-400Protachem 400Used in personal care products. Acts as emollient, lubricant, solvent, emulsifier and stabilizer. Posesses thickening, opacifying and surfactant properties.PEG-400 USPPEG-8Humectant. Used in shower and bath products, creams and lotions, shampoos, shaving products and liquid soaps.PEG-45025322-68-3PEG-450Polyglykol 20000 PUsed in skin care. Acts as a slip and mold-release agent, solubilizer, carrier, thickener and antistatic agent. Posesses binding, softening and non-irritating properties.
+
+PolymerFunctional Group/CompoundCAS No.PEG-12Commercial nameDescription as cosmetic ingredients.PEG-60025322-68-3PEG-12Humectant, shower and bath products, creams and lotions, shampoos, shaving products and liquid soaps.PEG-600 USPPEG-12Humectant. Used in shower and bath products, creams and lotions, shampoos, shaving products and liquid soaps.PEG-80025322-68-3PEG-800Polyglykol 35000 SUsed in skin care. Acts as a slip and mold-release agent, solubilizer, carrier, thickener and antistatic agent. Posesses binding, softening and non-irritating properties.PEG-600025322-68-3PEG-150Slip and mold-release agent. Water-soluble carrier substance. Softener. Moisture-stabilizing effect in creams. Leaves a pleasant feel on the skin.PEG-100025322-68-3PEG-20Perfume fixative. Softener. Moisture-stabilizing effect in creams. Leaves a pleasant feel on the skin. In lotions, acts as a cleansing agent.PEG-200025322-68-3PEG-40Perfume fixative. Softener. Non-greasy lubricant. Moisturestabilizing effect in creams. Leaves a pleasant feel on the skin. In lotions, acts as a cleansing agent.PEG-150025322-68-3PEG-32Perfume fixative. Softener. Non-greasy lubricant. Moisturestabilizing effect in creams. Leaves a pleasant feel on the skin. In lotions, acts as a cleansing agent.PEG-1500FPEG-32Humectant. Used in shower and bath products, creams and lotions, shampoos, shaving products and liquid soaps.PEG-300025322-68-3PEG-60Slip and mold-release agent. Water-soluble carrier substance. Moisture-stabilizing effect in creams. Leaves a pleasant feel on the skin.PEG-335025322-68-3PEG-75Protachem 75Softener. Slip and mold-release agent. Moisture-stabilizing effect in creams. Leaves a pleasant feel on the skin. Can be used in transparent toothpastes.PEG-400025322-68-3PEG-90Slip and mold-release agent. Water-soluble carrier substance. Softener. Moisture-stabilizing effect in creams. Leaves a pleasant feel on the skin.PEG-800025322-68-3PEG-180Slip and mold-release agent. Water soluble carrier substance. Softener. Moisture-stabilizing effect in creams.
+Leaves a pleasant feel on the skin.PEG-1000025322-68-3PEG-220Slip and mold-release agent. Water soluble carrier substance. Softener. Moisture-stabilizing effect in creams.
+Leaves a pleasant feel on the skin.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-1200025322-68-3PEG-240Slip and mold-release agent. Softener.Water soluble carrier substances. Moisture-stabilizing effect in creams. Leaves a pleasant feel on the skin.PEG-2000025322-68-3PEG-350Slip and mold-release agent. Softener. Water-soluble carrier substances. Moisture-stabilizing effect in creams. Leaves a pleasant feel on the skin.PEG-3500025322-68-3PEG-800Slip and mold-release agent. Water-soluble carrier substance. Softener. Moisture-stabilizing effect in creams. Leaves a pleasant feel on the skin.PEG-2M25322-68-3PEG-2MALKOX® L-11Emollient and lubricant. Improves wet combing and provides skin conditioning, foam stability and retention. Used in shampoos, conditioners, soap bar/liquid, lotions, creams.PEG-5M25322-68-3PEG-5MRita PEO-1Used in personal care products. Offers mildness, lubricity and film forming properties.PEG-7M25322-68-3PEG-7MALKOX® E-20GEmollient and lubricant. Improves wet combing and provides skin conditioning, foam stability and retention. Used in shampoos, conditioners, soap bar/liquid, lotions and creams.PEG-9M25322-68-3PEG-9MRita PEO-2Used in personal care products. Offers mildness, lubricity and film forming properties.PEG-14M25322-68-3PEG-14MALKOX® E-45GEmollient and lubricant. Improves wet combing and provides skin conditioning, foam stability and retention. Used in shampoos, conditioners, soap bar/liquid, lotions, creams.PEG-20M25322-68-3PEG-20MALKOX® E-60GEmollient and lubricant. Improves wet combing and provides skin conditioning, foam stability and retention. Used in shampoos, conditioners, soap bar/liquid, lotions, creams.PEG-23M25322-68-3PEG-23MRita PEO-3Used in personal care. Offers mildness, lubricity and film forming properties.PEG-45M25322-68-3PEG-45MALKOX® E-75GActs as an emollient and lubricant. Improves wet combing and provides skin conditioning, foam stability and retention. Used in shampoos, conditioners, soap bar/liquid, lotions, creams.PEG-65M25322-68-3PEG-65MALKOX® E-100Emollient and lubricant. Improves wet combing and provides skin conditioning, foam stability and retention. Used in shampoos, conditioners, soap bar/liquid, lotions, creams.PEG-90M25322-68-3PEG-90MRita PEO-18Used in personal care products. Offers mildness, lubricity and film forming properties.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG-115M25322-68-3PEG-115MALKOX® E-240Emollient and lubricant. Improves wet combing and provides skin conditioning, foam stability and retention. Used in shampoos, conditioners, soap bar/liquid, lotions and creams.PEG-160M25322-68-3PEG-160MRita PEO-27Used in personal care. Offers mildness, lubricity and film forming properties.Cetyl PEG/PPG 10/1 DimethiconeCETYL PEG/PPG-10/1 DIMETHICONESeraSol® SC 83-EEmulsifier for W/O emulsion, for multiple emulsions (W/O/W) and co-emulsifier for O/W emulsions.Cetyl PEG/PPG-7/3 DimethiconeCETYL PEG/PPG-7/3 DIMETHICONESeraSol® SC 82Silicone emulsifier for W/O emulsions. Also works as a coemulsifier for O/W emulsions & for multiple emulsions (W/ O/W).DIMETHICONE PEG/PPG-7/4 PHOSPHATE132207-31-9DIMETHICONE PEG/PPG-7/4 PHOSPHATEPecosil® WDS-100Allows for improved deposition of silicone onto skin and hair.HYDROLYZED WHEAT PROTEIN/PEG-20 ACETATE COPOLYMER175893-70-6HYDROLYZED WHEAT PROTEIN/PEG-20 ACETATE COPOLYMERNeopro® W-40It is the diester reaction product of hydrolyzed wheat protein and PEG-20 and is offered as a 40% solution in water. Optimize substantivity to hair.Jojoba Oil PEG-150 Esters329360-70-5JOJOBA OIL PEG-150 ESTERSFLORASOLVS® PEG-150 HYD JOJOBABodying agent, clarifying agent, co-emulsifying agent, emollient, film former, fragrance solubilizer, hair fixative, lubricant, plasticizer and solubilizing agent.JOJOBA WAX PEG-120 ESTERS159518-81-7JOJOBA WAX PEG-120 ESTERSFLORASOLVS® PEG-120 JOJOBA; Jojoba Aqua Sol PEG-120Bodying agent, clarifying agent, cleansing agent, co-emulsifying agent, emollient, feel modification/enhancement, film former, fragrance solubilizer and hair fixative.Jojoba Wax PEG-80 Esters159518-81-7JOJOBA WAX PEG-80 ESTERSFLORASOLVS® PEG-80 JOJOBABodying agent, cleansing agent, co-emulsifying agent, emollient, feel modification/enhancement agent, fragrance solubilizer, lubricant and solubilizing agent.Lauryl PEG/PPG-18/18 MethiconeLAURYL PEG/PPG-18/18 METHICONEDow Corning® 5200 Formulation AidUsed in skin care products such as protective cream, cleansing lotion, night cream, sunscreen cream, baby cream, dry skin cream and lotion and moisturizing cream.Methoxy PEG-17/Methoxy PEG-11/HDI Isocyanurate Trimer CrosspolymerPOLYURETHANE-34Baycusan® C 1005Filler. In rinse off and leave on products, it imparts a powdery velvety feeling to skin.PEG/PPG-14/14 DimethiconeSeraSol® SC 89Pro-foamer, O/W co-emulsifier, styling resin plasticizer, wetting agent, wet-conditioning agent and humectant.
+
+PolymerFunctional Group/CompoundCAS No.INCI nameCommercial nameDescription as cosmetic ingredients.PEG/PPG-15/15 DimethiconePEG/PPG-15/15 DIMETHICONEDow Corning® 5330 FluidClear and opaque conditioning shampoos, rinse-off conditioners, leave-in conditioning treatments like detanglers, hair masques, mousses.PEG/PPG-15/5 DimethiconePEG/PPG-15/5 DIMETHICONESeraSol® SC 91Pro-foamer, O/W co-emulsifier, styling resin plasticizer, wetting agent, wet-conditioning agent and humectant.PEG/PPG-17/6 CopolymerUconTM 75-H-450Moisturizing body lotions and eye make-up removers. Acts as an emollient, solvent and deposition agent.PEG/PPG-18/18 DimethiconePEG/PPG-18/18 DIMETHICONEPCM -7919; BRB 523It is used in hair care formulations to add silkiness, shine, lubricity, and detangling.PEG/PPG-20/15 DimethiconePEG/PPG-20/15 DIMETHICONESF 1188AUsed in personal care products such as hair sprays, hand lotion, antiperspirants, shaving aids and shampoos.PEG/PPG-25/25 DimethiconePEG/PPG-25/25 DIMETHICONESi-TecTM DMC 6031Used in personal cleansing products, sun care and skin care. Possesses foam stabilizing, wetting, plasticizing and emulsification properties.PEG/PPG-6/2 Glyceryl Cocoate72245-11-5PEG/PPG-6/2 GLYCERYL COCOATEStepan® 745 GCConditioning agent, viscosity builder and emulsifier. It is a 100% active non-ionic liquid emollient. It is an alkoxylated derivative of glyceryl cocoate.PEG/PPG-6/4 DimethiconePEG/PPG-6/4 DIMETHICONESeraSol® SC 90Pro-foamer, O/W co-emulsifier, styling resin plasticizer, wetting agent, wet-conditioning agent and humectant.PEG-180/Laureth-50/TMMG Copolymer373609-46-2PURE THIX® 1450Thickening, emulsifying agent, film former and humectant.PEG-33/Adipic Acid/HMDA/Glycol Copolymer (Proposed).AXIOM ACT-33AEffective hair conditioner. It is available in either non-ionic or mildly anionic form.PPG-12-PEG-65 Lanolin Oil68648-38-4PPG-12-PEG-65 LANOLIN OILRitalan AWSUsed in cosmetic formulations. Leaves a softer, smoother emollient film than other water soluble lanolins.PPG-1-PEG-9 Lauryl Glycol Ether154248-98-3PPG-5-LAURETH-5Eumulgin® LUsed in aqeous cosmetic preparations. Acts as a non-ionic O/W-emulsifier and/or solubiliser.Wax PEG-3 Beeswax136097-93-3Hydrophilic derivative of natural beeswax. Used in cosmetic emulsions (o/w and w/o type), oil gel products and decorative cosmetics. Offers improved oil gelling and oil retention capability.Open in a separate windowThe data were extracted from SpecialChem (http://cosmetics.specialchem.com/).PEG COMPOUNDS FOR COSMETIC USEPEG/PPG-17/6 copolymer. PEG/PPG-17/6 copolymer is a randomly produced chemical comprised of an average of 17 ethylene glycol repeats and 6 propylene glycol repeats (7). This mixture does not have a specific CAS number, rather, it is found to be included in the generic CAS number 9003-11-6, belonging to the general group of “poloxamers”. A cosmetic ingredient review regarding alkyl PEG-PPG ethers has been conducted, however it was not specified whether PEG/PPG-17/6 copolymer is a related mixture based on the given list (8). Accordingly, little is known about the toxicological properties of PEG/PPG-17/6 copolymer and thus, studies reflected in this review may be related to the general properties of its related mixtures, unless specific studies can be found. As much as we would like to know the specific effects of PEG/PPG-17/6 copolymer both in animal and human studies, we suggest that further evaluation should be needed if safety issues are found in its analogue mixtures. PEG/PPG-17/6 copolymer belongs to a group of copolymers of ethylene and propylene glycols with a variety of mixed names from a generic formula of “PPG-n-PEG-m”, where n and m signify their average respective monomer units bound to each other randomly. Non-random or block copolymers have specifically assigned denominations with rules that include “poloxamer”, “meroxapol” and “poloxamine” (9). Since very little is known about the specific properties of PEG/PPG-17/6 copolymer, the generic “poloxamer” will be described in this evaluation. Poloxamers follow a general formula, where x, y, z values depend on the mixture type (10). Poloxamers are water soluble and can form gels in a concentrated aqueous solution, which is reversible to liquid form after lowering the temperature, and vice versa. Viscosity of poloxamers depends on the increasing percentages of polyoxypropylene hydrophobe and polyoxyethylene hydrophile. As mentioned, PEG/PPG-17/6 copolymer could be under the umbrella of alkyl PEG-PPG ethers. This compound is produced from the reaction of an alkyl alcohol to any equivalents of both ethylene oxide and propylene oxide forming repeats in both PEG and PPG. Although these ethers are known to be surfactant-like molecules, having both hydrophobic and hydrophilic ends in their chain structures, they differ mainly in variations of their alkyl length, and the number of PEG and PPG repeat units in their hydrophobic ends. In each ingredient, the actual order of repeat units of alkoxides from different sources may be block, alternating, or random. PEG/PPG-17/6 copolymer is known to be of the random type. Specific physical properties of the alkyl PEG-PPG ethers are mostly unidentified, with only a known physical form of clear to slightly yellowish liquids (8). Furthermore, each ingredient/compound group is expected to have different properties.Only the production of poloxamers is known, where generally it is an ordered mixture of propylene oxide, propylene glycol, and ethylene oxide prepared at high temperature and pressure along with an alkaline catalyst (e.g. sodium or potassium hydroxide), which becomes neutralized to become part of the final product (11). PEG/PPG-17/6 copolymer has been identified as a solvent in cosmetic products (12) as well as an emollient and surfactant (13).Since no toxicity studies can be found for PEG/PPG-17/6 copolymer specifically, the general evaluations of its chemical analogue “poloxamers” are drawn. According to the Cosmetic Ingredient Review (CIR) expert panel, the presence of impurities during or after the process of mixing these compounds is of concern, including 1,4-dioxane, ethylene oxide, and propylene oxide, which are known to be carcinogenic and/or highly volatile. Thus, it was emphasized that purification of end mixtures before incorporation into cosmetic products should be carried out as a necessity in order to keep these impurities to very minimum levels of 1 ppm for 1,4-dioxane and 5 ppm for ethylene oxide and propylene oxide. In addition, toxicology studies for poloxamers suggested “a low order of toxicity” in all acute to chronic animal testing, including the negative results for genotoxicity and carcinogenicity studies. No reproductive or developmental toxicity studies have been conducted thus far. In both animal and human testing, poloxamers were not dermally irritating or sensitizing. Finally, poloxamers are concluded as safe for cosmetic use according to the current concentrations applied, and according to the manufacturers’ ability to remove their impurities (8). Accordingly, PEG/PPG-17/6 copolymer may have the same properties and effects as long as impurities are kept acceptably low. However, a more specific assessment for this ingredient is highly recommended to draw indubitable conclusions for the safety of its use in cosmetics.PEG-20 glyceryl triisostearate. PEG-20 glyceryl triisostearate is a nonionic compound with a molecular weight of more than 1,000, and is used as an emulsifier, dispersing agent, and solubilizing agent in cosmetics and personal care products. It is mainly used in both rinse-off cleansing products such as facial cleansers or body washes and leave-on products such as creams or lotions. The cleansing and leave-on products contain this chemical up to 20% and 5%, respectively. PEG-20 glyceryl triisostearate is probably removed from the water up to 90% by partitioning to solids during water treatment processes. PEG-20 glyceryl triisostearate is not expected to bioaccumulate due to its high molecular weight and is not anticipated to cross biological membranes (14).The exposure route of PEG-20 glyceryl triisostearate may be dermal, and the dermal exposure to the notified polymer is expected to be extensive due to daily application of PEG-20 glyceryl triisostearate-containing cosmetic products. Thus, the exposure to PEG-20 glyceryl triisostearate for the public is expected to be widespread and frequent through the daily application of cosmetics (14). In spite of the widespread use of PEG-20 glyceryl triisostearate, the previous safety assessment of this chemical for humans was still not sufficient. Thus, this report provides the toxicological evaluation of PEG-20 glyceryl triisostearate as a cosmetic ingredient. The toxicological data of PEG-20 glyceryl triisostearate were estimated based on its chemical analogues including glyceryl triisostearate, sorbitan sesquiisostearate, and PEG-20 sorbitan fatty acid esters (Table 2) (15-17). Although these chemicals do not contain all of the functional groups present in PEG-20 glyceryl triisostearate, some properties of PEG-20 glyceryl triisostearate can be approximated using the component chemicals. Acute oral toxicity of the PEG-20 glyceryl triisostearate is expected to have LD50 of more than 2,000 mg/kg bw. Furthermore, skin irritation and sensitization testing of PEG-20 glyceryl triisostearate is expected to be negative or weak. Indeed, there was no evidence of sensitization in the repeat insult patch test. Eye irritation and mutagenicity of this compound was not be observed. The main route of exposure to PEG-20 glyceryl triisostearate is expected to be dermal during application of cosmetics and personal care products. Interestingly, the high molecular weight and low water solubility of PEG-20 glyceryl triisostearate could inhibit its absorption through various routes including dermal, inhalation, and oral (14). Hence, based on the overall studies, PEG-20 glyceryl triisostearate would not be threatening nor toxic to consumers’ health.Table 2.Toxicological data of PEG compoundsChemical compoundStudiesAnimalResultRef.
+
+Glyceryl triisostearateAcute oral toxicityRatLD50 > 2 g/kg bw(16)Skin irritationRabbitNon-irritantSkin sensitizationGuinea pigNon-sensitizingEye irritationRabbitNon-irritantMutagenicityNot mutagenicSorbitan sesquiisostearateAcute oral toxicityRatLD50 > 25 g/kg bw(17)Skin irritationGuinea pigWeak irritantRepeat insult patch testhumanNon-sensitizingEye irritationRabbitMild irritantMutagenicityNo data availablePEG-20 sorbitan fatty acid estersAcute oral toxicityRatLD50 > 2 g/kg bw(15)Skin irritationRabbitNon-irritantRepeat insult patch testhumanNon-sensitizingEye irritationRabbitMild irritantMutagenicityNot mutagenicPEG-40 Hydrogenated Castor OilAcute toxicityRatLD50 > 15.0 g/kg(23)Subchronic toxicityRatNo signs of abnormalities(19)Sensitization testHumanNon-sensitizing effect(20,23,29)Dermal studiesRatNo microscopic changes(24)Skin irritationMouse, RatNo signs of irritation(25,31)Reproductive and teratogenicityRatNo significant maternal or fetal toxicity effects(19)PEG-60 Hydrogenated Castor OilAcute toxicityRatLD50 > 5 g/kg(26)Sensitization testHumanNo sign of irritation(27)Ocular irritationRabbitMinimal irritation(28)Dermal studiesRatThe change within the normal range(29)GenotoxicityMouseNo signs of toxicity(30)Open in a separate windowPEG-40 hydrogenated castor oil. PEG-40 hydrogenated castor oil, as the name implies, is a hydrogenated castor oil-derived PEG with an average of 40 moles ethylene oxide. It is mixed through the etherification and esterification of hydrogenated castor oil glyceride and fatty acid products, having forty equivalents of ethylene oxide (18). PEG-40 hydrogenated castor oil (trade name: Cremophor RH 40) is utilized as a non-ionic solubilizer and emulsifying agent. It had been used to solubilize many cosmetic products including ethereal oils, perfume compositions, vitamins, and hydrophobic active substances in aqueous and/or alcoholic solutions. The identified concentrations of PEG-40 hydrogenated castor oil in products are in the range of 0.00007% to 22%, in which the maximum known concentration of 22% is contained in leave-on products (19).There were few toxicological assessment data available for this specific compound. A patch test was conducted on 20 human volunteers using 100% concentration of PEG-40 hydrogenated castor oil on the skin of the back area and observed after 24 and 48 hrs. No further details were stated, however no sign of irritation was concluded. Nevertheless, another single patch test using only 0.25% PEG-40 hydrogenated castor oil as part of a formulation showed a mild reaction in 1 out of 20 human volunteers, which could be related to other ingredients in the formulation or an isolated hypersensitivity case (Table 2) (20).A repeated insult patch test was conducted in 120 human volunteers with a formulation containing 0.05% PEG-40 hydrogenated castor oil. A volume of 0.10 mL of the formulation was applied for 24 hrs on the back area of each subject through occlusive patching on Mondays, Wednesdays, and Fridays of the 3-week testing period. Challenge patching was carried out on previously untreated sites after a 2-week non-treatment period. Observations of the treated sites showed one incident of almost imperceptible erythema among 5 subjects during the induction phase of the study, while one of these subjects showed a mild reaction during 24 and 48 hrs of the challenge patching. Another subject who did not show a reaction during the induction test also showed an almost imperceptible erythema during the challenge test. Follow-up testing of the 2 subjects who showed a reaction during the challenge test showed lesser reactions in which clinical significance could not be concluded. Thus, the overall findings of the study established a non-sensitizing effect of PEG-40 hydrogenated castor oil (Table 2) (29). A similar study using a higher concentration of PEG-40 hydrogenated castor oil at 0.25% in a formulation was tested in 86 subjects. During the induction testing, 2 subjects showed a mild reaction but not during challenge testing. One subject who did not show a reaction in the induction testing showed a faint erythema only at the 24 hr grading period. Results could not conclude a sensitizing effect of the chemical at this concentration (Table 2) (23).PEG-40 hydrogenated castor oil was also investigated for its sub-chronic treatment toxicity potential in animals. The first experiment was investigated in Sprague-Dawley (S-D) rats given an oral feed containing 0 (control), 10,000, 32,000, and 64,000 ppm of PEG-40 hydrogenated castor oil (20 males and 20 females in each group except 10,000, which had 25 animals of each gender). All animals survived during the experiment period and no significant feeding, body weight, or hematological changes were observed in any group. Necropsy further revealed no signs of abnormalities in the internal body components. In another study, a 6-month feeding period for PEG-40 hydrogenated castor oil was conducted in 3 male and 3 female beagle dogs using 0 (control), l.0%, 2.5%, and 5.0% concentrations. Observations during the study showed no significant changes in behavior, feeding, or body weight. Hematological and other biochemical parameters were of the same levels as the control group. One low-dose-treated animal died for reasons unrelated to the treatment. Necropsy further supported no evidence of toxicity in the feeding study (Table 2) (19).Dermal studies for PEG-40 hydrogenated castor oil, contained at a concentration of 0.25% in a formulation, were conducted in 10 male and 10 female S-D rats through daily applications, 5 days a week for 13 consecutive weeks. The formulation was given at 1,640 mg/kg/day, which was believed to be 100 times greater than the average daily use by human consumers. During the entire duration of the study, all rats survived and no abnormal changes in behavior, body weight, hematology, urinalysis or chemical chemistry parameters were reported. In contrast, mild skin irritation at the treated site was observed starting on day 5 until the end of the study, as well as a significant elevation in hepatic weights in male rats when compared with the controls. Nevertheless, the finding was not considered relevant for toxicology since no microscopic changes were observed (Table 2) (24).Skin irritation studies for PEG-40 hydrogenated castor oil contained at a concentration of 20% in a micro-emulsion were conducted in mice. The application site was the left ear that was given a single dose of 10 µL of the material, while the right ear served as a control. During the 6 days observation, no signs of irritation could be seen in the treated ear with a 20% concentration of PEG-40 hydrogenated castor oil (Table 2) (25). Another dermal irritation test using 20.66% PEG-40 hydrogenated castor oil, contained in a micro-emulsion gel, was conducted in male albino rats using the Draize method. Treated groups were given 0.5 g of the formulation, for 3 consecutive days, in a 5 cm2 dorsal side shaved skin area. A negative (no treatment) and a positive (0.8% aq. formalin) control group was present. During the 3 days of observation, no signs of skin irritation could be seen for the test material, and the histopathological exam yielded negative skin irritation results (Table 2) (31).Feeding studies for the assessment of reproductive and teratogenic effects of PEG-40 hydrogenated castor oil were conducted in pregnant S-D rats. One group (30 rats) was given 50,000 ppm and another 27 rats were given 100,000-ppm PEG-40 hydrogenated castor oil from gestational day 0 to gestational day 20, while another 2 groups of untreated control were raised. Pregnant animals were monitored and assessed for signs of toxicity during gestation, and were sacrificed at gestational day 20 for fetal examination. Examinations of the mother and fetuses did not reveal any signs of toxicity. Although resorption and malformations/anomalies were found in some animals in the highest dose group, similar changes were also found in the control group, showing no significant differences. Thus, the researchers conducting the study could not conclude teratogenicity for PEG-40 hydrogenated castor oil. Studies were also conducted in 4 groups of pregnant NMRI mice using 5,000 ppm (25 mice) and 10,000 ppm (31 mice) PEG-40 hydrogenated castor oil from day 6 to 15 of gestation; the other 2 groups were raised as controls. During the study, no significant maternal or fetal toxicity effects were found, and some malformations in fetuses in the treated groups were also comparable to the control groups (Table 2) (19).PEG-60 hydrogenated castor oil. PEG-60 hydrogenated castor oil is a hydrogenated castor oil-derived polyethylene glycol with an average of 60 moles ethylene oxide. It is mixed through the etherification and esterification of hydrogenated castor oil glyceride and fatty acid products, having sixty equivalents of ethylene oxide. PEG-60 hydrogenated castor oils had 349 reported uses (with a similar function to PEG-40 hydrogenated castor oil) by the time of the CIR panel meeting. Their uses are expected to increase in the following years. The identified concentrations of PEG-60 hydrogenated castor oil in products are in the range of 0.00004% to 18%, in which the maximum known concentration of 18% is contained in leave-in non-coloring hair products (18).From the clinical reports of PEG-60 hydrogenated castor oil, a 27-year-old male patient with acute myeloblastic leukemia, receiving chemotherapy containing enocitabine, developed a high-grade fever and erythroblastopenia 6 hours after intravenous administration. PEG-60 hydrogenated castor oil was present in the enocitabine. A follow-up study evaluation of dosing enocitabine alone showed similar symptoms. When the patient’s bone marrow was co-cultured with enocitabine or PEG-60 hydrogenated castor oil, significant growth inhibition of late erythroid progenitors was observed with the patient’s IgG present. The researchers suggested that the immunological suppression effects of PEG-60 hydrogenated castor oil could be due to its hapten effect on the hypersensitive reaction of the patient’s IgG (18). In another study, a 21-consecutive-day occlusive patch test was conducted for PEG-60 hydrogenated castor oil, with a 3% concentration in a formulation, in 12 human volunteers. Interestingly, the test concluded the formulation to be non-irritating (21). Thus, PEG-60 hydrogenated castor oil, when given according to the regulated dose, should be non-irritating to healthy consumers, while caution should be observed for individuals with immunosuppression or autoimmune syndromes.Acute toxicity studies were conducted for PEG-60 hydrogenated castor oil in various animals including male and female Beagle dogs, male and female cynomolgus monkeys, male New Zealand white rabbits, male Hartley guinea pigs, and male S-D rats. Overall results showed systemic and irritant effects only in dogs, and not in the other animals tested, indicating species-specific effects (22).Sub-chronic dermal toxicity studies of PEG-60 hydrogenated castor oil were conducted in 10 female ChR-CD rats through daily topical applications (5 times a week for 13 weeks) of 284 or 2,840 mg/kg of a formulation containing 3.0% PEG-60 hydrogenated castor oil. Treated sites showed slight erythema and dryness, but this was seen in both the experimental and control groups. Necropsy did not find any lesions, however significant hepatic weight and renal-tobody ratio changes were observed. Nevertheless, these changes were within the normal range of laboratory parameters, and no further histopathological changes were noted (Table 2) (29).A sensitization study (similar methods to PEG-40 hydrogenated castor oil) in 102 human subjects with 3.0% PEG-60 hydrogenated castor oil formulation showed no sign of irritation in the subjects during the induction phase. During the challenge phase, only a doubtful reaction in one subject was observed after 48 hrs of testing, which further showed negative results for sensitization during a follow-up test (Table 2) (27).Genotoxicity studies were conducted for PEG-60 hydrogenated castor oil using a reverse mutation test in the Salmonella typhimurium strains TA100, TA98, TA1535, and TA1537, and in Escherichia coli strain WP2uvrA, with and without metabolic activation. Concentrations of the material tested ranged from 313 to 5,000 µg/plate, and positive controls were used including 9-aminoacridine, sodium azide, 2-(2-furyl)-3-(5-nitro-2-furyl)-acrylamide, and 2-aminoanthracene. Results showed no significant increase in revertant colony numbers at all concentrations, test strains, and metabolic conditions using PEG-60 hydrogenated castor oil, whereas genotoxic results were found in the positive controls. A chromosome aberration study was also conducted in Chinese hamster V79 cells using the same concentrations as mentioned above. Mitomycin C and dimethylnitrosamine were used as positive controls. Results showed a dose-dependent cell proliferation inhibition in the “without metabolic activation conditions” 24-48 hrs after treatment. The test material with metabolic activation showed only slight cell proliferation inhibition 6 hours after treatment, even at the highest dose. Overall, PEG-60 hydrogenated castor oil did not show chromosome aberrations under the experimental conditions, and it was concluded that the material was not genotoxic. Similar studies on the mouse micronucleus of 5 male and 5 female BDF1 mice were conducted by giving single intraperitoneal injections of 2,000 mg/kg bw dosage of PEG-60 hydrogenated castor oil to experimental groups, and saline or mitomycin C to the control groups. Bone marrow cells collected at 24, 48, and 72 hrs post-treatment showed no relevant changes in micronucleated polychromatic or normochromatic erythrocytes. No signs of toxicity were observed, further supporting its non-genotoxic properties (Table 2) (30).An ocular irritation test was also conducted for a 3.0% PEG-60 hydrogenated castor oil formulation, which caused minimal irritation to the eyes in 2 out of 6 rabbits tested after instillation. After 48 hrs, all signs had disappeared (Table 2) (28).CONCLUSIONSPEGs have a wide variety of PEG-derived mixtures due to their readily linkable terminal primary hydroxyl groups in combination with many possible compounds and complexes such as ethers, fatty acids, castor oils, amines, propylene glycols, among other derivatives. PEGs and their derivatives are broadly utilized in cosmetic products as surfactants, emulsifiers, cleansing agents, humectants, and skin conditioners. However, studies are lacking concerning those specific PEG-derived mixtures that we have evaluated in this review. Little is known about PEG/PPG-17/6 copolymer and PEG-20 glyceryl triisostearate, while some studies are available for PEG-40 hydrogenated castor oil and PEG-60 hydrogenated castor oil as PEGylated oils, regarding their safety and toxicity in humans and animals. Reviews were mostly carried out on the general compound, with details in a few individual studies. Nevertheless, the present review summarizes the results of the known toxicity studies of these compounds in focus (Table 2).PEG/PPG-17/6 copolymer has particularly little toxicological information, thus further investigation is obviously needed for it to be continually utilized in cosmetics and other products with human exposure. PEG-20 glyceryl triisostearate-related studies have shown an LD50 of > 2,000 mg/kg bw in rat acute oral studies. Furthermore, this compound was observed to be non-irritating to rabbit skin and eyes, non-sensitizing to guinea pig skin, and nonmutagenic (further details unknown). Both PEG-40 and PRG-60 hydrogenated castor oils were generally non-irritating and non-sensitizing to human skin up to 100% concentration. This was also supported by animal studies. Intravenous exposure to PEG-60 hydrogenated castor oil may cause hypersensitive or further immunosuppressive effects as found in a leukemia patient undergoing chemotherapy. Nevertheless, acute intravenous administration of PEG-60 hydrogenated castor oil to various animal species generally did not show toxic effects up to the highest administered dose of 100 mg/kg. However, Beagle dogs showed some reactions that may show species-specific effects of PEG-60 hydrogenated castor oil. Repeated-dose toxicity with PEG-40 hydrogenated castor oil in both S-D rats and Beagle dogs did not show toxic effects up to 64,000-ppm and 5.0% dosage concentrations, respectively. Acute oral toxicity studies in rats of both PEG-40 and PEG-60 hydrogenated castor oils have shown LD50 values of 0.25% at 15.0 g/kg and 3.0% at 5.0 g/kg, respectively. Sub-chronic dermal exposure of both mixtures to rats (0.25% PEG-40 and 0.3% PEG-60 hydrogenated castor oils) showed slight erythema (as well as in the controls), but did not cause any toxic effects. PEG-60 hydrogenated castor oil showed minimal eye irritation. PEG-60 hydrogenated castor oil was not genotoxic in bacteria or mammalian cells. Thus, these related PEGylated oils were concluded as safe for use in cosmetics according to regulating bodies and reviews found in this evaluation.Unfortunately, no reliable safety or toxicity studies could be found for other PEG derivatives being evaluated in this review. Nevertheless, PEGs and PEG derivatives were generally regulated as safe for use in cosmetics, with the conditions that impurities and by-products, such as ethylene oxides and 1,4-dioxane, which are known carcinogenic materials, should be removed before they are mixed in cosmetic formulations. Ultimately, specific assessment studies for each chemical mixture are prompted for the exact evaluation of their safety in cosmetic use.AcknowledgmentsThis work was supported by a grant from the Foundation of Korea Cosmetics Industry Institute in 2014.References1. Polyethylene glycol: chemical product info at CHEMINDUSTRY.RU.  Available from http://chemindustry.ru/Polyethylene_Glycol.php .2. CIR Expert Panel. PEGs. Cosmetic Ingredient Review. (2010).  [Google Scholar]3. Fruijtier-Pölloth C. Safety assessment on polyethylene glycols (PEGs) and their derivatives as used in cosmetic products. Toxicology. (2005);214:1–38. doi: 10.1016/j.tox.2005.06.001. [PubMed] [CrossRef] [Google Scholar]4. European Parliament And Council Directive No 95/2/EC of 20 February 1995 on food additives other than colours and sweeteners.  Available from Available from https://www.fsai.ie/uploadedFiles/95_2_EC.pdf .5. Cosmetic Ingredient Review Expert Panel. Lanigan R.S., Yamarik T.A. Final report on the safety assessment of PEG-6, -8, and -20 sorbitan beeswax. Int. J. Toxicol. (2001);20 Suppl 4:27–38. [PubMed] [Google Scholar]6. CIR Expert Panel. Final report of the amended safety assessment of PEG-5, -10, -16, -25, -30, and -40 soy sterol. Int. J. Toxicol. (2004);23 Suppl 2:23–47. [PubMed] [Google Scholar]7. EWG (Environmental Working Group).  Available from http://www.ewg.org/skindeep/ingredient/704702/PEG%3B%3B_PPG-17%3B%3B_6_COPOLYMER/ .8. CIR Expert Panel. Safety assessment of alkyl PEG-PPG ethers as used in cosmetics. Cosmetic Ingredient Review. Washington D.C.: (2013). pp. 1–28. [Google Scholar]9. SCCNFP. Opinion concerning Corrections in entries of poloxamers, meroxapols and poloxamines, and respective nomenclature conventions adopted by the plenary session of the SCCNFP on 17 February 1999. European Commission; (1999).  [Google Scholar]10. Singh-Joy S.D., McLain V.C. Safety assessment of poloxamers 101, 105, 108, 122, 123, 124, 181, 182, 183, 184, 185, 188, 212, 215, 217, 231, 234, 235, 237, 238, 282, 284, 288, 331, 333, 334, 335, 338, 401, 402, 403, and 407, poloxamer 105 benzoate, and poloxamer 182 dibenzoate as used in cosmetics. Int. J. Toxicol. (2008);27 Suppl 2:93–128. [PubMed] [Google Scholar]11. Schmolka I.R. Physical basis for poloxamer interactions. Ann. N. Y. Acad. Sci. (1994);720:92–97. doi: 10.1111/j.1749-6632.1994.tb30437.x. [PubMed] [CrossRef] [Google Scholar]12. PEG/PPG-17/6 COPOLYMER Cosmetic Ingredient (INCI).  Available from http://cosmetics.specialchem.com/inci/pegppg17-6-copolymer?id=9667 .13. PEG/PPG-17/6 copolymer-Cosmetic Ingredient Dictionary: Cosmetics Cop Expert Advice.  Available from http://www.paulaschoice.com/cosmetic-ingredient-dictionary/definition/pegppg-176-copolymer .14. NICNAS (National Industrial Chemicals Notification And Assessment Scheme) FULL PUBLIC REPORT-PEG-20 Glyceryl Triisostearate. NICNAS; (2010). pp. 1–7. [Google Scholar]15. CIR Expert Panel. Final Report on the Safety Assessment of PEG-20 Sorbitan Cocoate; PEG-40 Sorbitan Diisostearate; PEG-2, -5, -20 Sorbitan Isostearate; PEG-40 and -75 Sorbitan Lanolate; PEG-10, -40, -44, -75, and -80 Sorbitan Laurate; PEG-3 and -6 Sorbitan Oleate; PEG-80 Sorbitan Palmitate; PEG-40 Sorbitan Perisostearate; PEG-40 Sorbitan Peroleate; PEG-3, -6, -40, and -60 Sorbitan Stearate, PEG-20, -30, -40, and -60 Sorbitan Tetraoleate; PEG-60 Sorbitan Tetrastearate; PEG-20 and -160 Sorbitan Triisostearate; PEG-18 Sorbitan Trioleate; PEG-40 and -50 Sorbitol Hexaoleate; PEG-30 Sorbitol Tetraoleate Laurate; PEG-60 Sorbitol Tetrastearate – Addendum to the Final Report on the Safety Assessment of Polysorbates. J. Am. Coll. Toxicol. (2000);IJT 19(Suppl. 2.) [Google Scholar]16. Cosmetic Ingredient Review Expert Panel. Johnson W., Jr. Final report on the safety assessment of trilaurin, triarachidin, tribehenin, tricaprin, tricaprylin, trierucin, triheptanoin, triheptylundecanoin, triisononanoin, triisopalmitin, triisostearin, trilinolein, trimyristin, trioctanoin, triolein, tripalmitin, tripalmitolein, triricinolein, tristearin, triundecanoin, glyceryl triacetyl hydroxystearate, glyceryl triacetyl ricinoleate and glyceryl stearate diacetate. Int.J. Toxicol. (2001);20(Suppl 4):61–94. [PubMed] [Google Scholar]17. Cosmetic Ingredient Review Expert Panel. Lanigan R.S., Yamarik T.A. Final report on the safety assessment of sorbitan caprylate, sorbitan cocoate, sorbitan diisostearate, sorbitan dioleate, sorbitan sesquiisostearate, sorbitan sesquistearate, and sorbitan triisostearate. Int. J. Toxicol. (2002);(Suppl. 1):93–112. [PubMed] [Google Scholar]18. CIR Expert Panel. Final amended report, Amended Safety Assessment of PEGylated Oils as Used in Cosmetics. Cosmetic Ingredient Review; (2013).  [Google Scholar]19. BASF SE - Care Chemicals Division - Personal Care Ingredients. Cremohpor RH Grades. (2010).  [Google Scholar]20. CTFA (Cosmetic, Toiletry, and Fragrance Association) Clinical evaluation report: Human patch test of roll-on deodorant 20851-34 containing 0.25% PEG-40 Hydrogenated Castor Oil. (1981).  [Google Scholar]21. Hill Top Research. The study of cumulative irritant properties of a series of test materials, 12G/66171-04, containing 3.0% PEG-60 Hydrogenated Castor Oil (0547). (1976).  [Google Scholar]22. Hisatomi A., Kimura M., Maeda M., Matsumoto M., Ohara K., Noguchi H. Toxicity of polyoxyethylene hydrogenated castor oil 60 (HCO-60) in experimental animals. J. Toxicol. Sci. (1993);18(Suppl 3):1–9. doi: 10.2131/jts.18.SupplementIII_1. [PubMed] [CrossRef] [Google Scholar]23. CTFA (Cosmetic, Toiletry, and Fragrance Association) No. 34-054 Acute oral toxicity of 2.5% PEG-40 Hydrogenated Castor Oil (RI 0538). (1982)24. CTFA (Cosmetic, Toiletry, and Fragrance Association) 13 week subchronic dermal toxicity study of formula 20851-34 containing 0.25% PEG-40 Hydrogenated Castor Oil (RI 0538). CTFA; (1984). pp. 1–19. [Google Scholar]25. Hua L., Weisan P., Jiayu L., Hongfei L. Preparation and evaluation of microemulsion of vinpocetine for transdermal delivery. Pharmazie. (2004);59:274–278. [PubMed] [Google Scholar]26. CTFA (Cosmetic, Toiletry, and Fragrance Association) Acute oral toxicity of 3.0% PEG-60 Hydrogenated Castor Oil (RI 0538). CTFA; (1976).  [Google Scholar]27. CTFA (Cosmetic, Toiletry, and Fragrance Association) Allergic contact sensitization test of 12(3/66171-04 containing 3.0% PEG-60 Hydrogenated Castor Oil. CTFA; (1976). pp. 1–9. [Google Scholar]28. CTFA (Cosmetic, Toiletry, and Fragrance Association) No. 28-035 Eye irritation of 3.0% PEG-60 Hydrogenated Castor Oil RI 05471. (1976)29. CTFA (Cosmetic, Toiletry, and Fragrance Association) Thirteen week subacute dermal toxicity study in female ChR-CD rats, night cream containing 3.0% PEG-60 Hydrogenated Castor Oil. CTFA; (1977). pp. 1–9. [Google Scholar]30. Hirai O., Miyamae Y., Zaizen K., Miyamoto A., Takashima M., Hattori Y., Ohara K., Mine Y. Mutagenicity tests of polyoxyethylene hydrogenated castor oil 60 (HCO-60). J. Toxicol. Sci. (1994);19:89–96. doi: 10.2131/jts.19.2_89. [PubMed] [CrossRef] [Google Scholar]31. Soliman S.M., Abdel Malak N.S., El-Gazayerly O.N., Abdel Rehim A.A. Formulation of microemulsion gel systems for transdermal delivery of celecoxib: In vitro permeation, anti-inflammatory activity and skin irritation tests. Drug Discoveries Ther. (2010);4:459–471. [PubMed] [Google Scholar]Articles from Toxicological Research are provided here courtesy of Korean Society of Toxicology
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (370K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

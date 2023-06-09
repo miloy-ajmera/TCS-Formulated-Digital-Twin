@@ -1,0 +1,863 @@
+Document Name: role of Vitamin E (Tocopherol) in Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7949595/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vitamin E and wound healing: an evidence‐based review - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Int Wound J
+
+
+v.13(3); 2016 Jun
+
+
+                    PMC7949595
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (105K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Int Wound J
+
+
+v.13(3); 2016 Jun
+
+
+                    PMC7949595
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Int Wound J. 2016 Jun; 13(3): 331–335. Published online 2014 Aug 14.  doi: 10.1111/iwj.12295PMCID: PMC7949595PMID: 25124164Vitamin E and wound healing: an evidence‐based reviewRachel Hobson
+1
+Rachel Hobson
+1
+Wound Healing and Tissue Repair, 
+Cardiff University, 
+Wales
+UK
+Find articles by Rachel HobsonAuthor information Article notes Copyright and License information Disclaimer
+1
+Wound Healing and Tissue Repair, 
+Cardiff University, 
+Wales
+UK
+Corresponding author.*Correspondence to
+Rachel Hobson, MSc
+Wound Healing and Tissue Repair
+Cardiff University
+Wales
+UK
+E‐mail: moc.oohay@ku_leuqcar, Received 2014 Feb 24; Revised 2014 Apr 5; Accepted 2014 Apr 9.Copyright © 2014 The Author. International Wound Journal © 2014 Medicalhelplines.com Inc and John Wiley & Sons LtdAbstractVitamin E has been demonstrated to modulate cellular signalling, gene expression and affect wounds infected with methicillin‐resistant Staphylococcus aureus (MRSA), thus influencing wound healing. This evidence‐based review aimed to identify and evaluate current research assessing the properties of vitamin E in relation to wound healing, through its role as an antioxidant and its influence on connective tissue growth factor (CTGF), MRSA and gene transcription. Literature dated from 1996 to 2012, published in English, involving either animals or adult humans with an acute or chronic wound were included. The databases that contained relevant articles were narrowed down to four, and a total of 33 identified studies were included. The literature review revealed that there is a significant dearth of robust studies establishing the effects of vitamin E on wound healing, and further research is clearly warranted.Keywords: Antioxidant, Gene transcription, MRSA, Vitamin E, Wound healingIntroductionWound healingWound healing is the interaction of a complex cascade of cellular events that comprise four intricate and overlapping phases such as haemostasis, inflammation, proliferation and tissue remodelling 1. During this process, reactive oxygen species (ROS), a natural derivative of oxygen metabolism produced by activated macrophages, was formed 2. Regulation of this oxidative stress and inflammatory response is important during tissue repair in order to minimise cell damage caused by ROS 3. Arguably, one of the most important considerations to improve wound healing while treating the patient holistically is to ensure adequate nutrition 4. Posthauer et al.
+5 suggest that vitamin deficiency profoundly impacts cell migration and proliferation, and is thus an influential factor of prolonged wound healing. Indeed, Rojas and Phillips 6 observed that elderly patients with chronic wounds were found to have a diminished plasma level of various nutrients, such as vitamin E. Alvarado et al.
+7 suggest that the elderly population are the group most at risk of nutrient insufficiency, as endogenous antioxidants decrease in an oxidative stress environment, such as that found in ageing tissue and cells. With an ageing population in the UK, Rippon et al.
+8 postulate that the economic impact of wound care looks set to increase, particularly with patients who have comorbidities and multiple systemic pathologies. The human and economic costs of wound healing are of major concern within the National Health Service 9. Thomas 10 contends that the total annual cost of wound management in the UK amounts to £3 billion.Vitamin EVitamin E consists of eight fat‐soluble compounds with physiochemical properties, which are then further categorised into two groups of four isomers, tocopherols and tocotrienols, which differ slightly in structure 11, with α‐tocopherol being the most potent and abundant form in vivo 12. Through its scavenging activity, vitamin E defends cell membranes and polyunsaturated lipids from ROS attack by inducing the activation of various signal transduction pathways 13, and is thus recognised mostly for its role as an antioxidant. Indeed, studies have focused mainly on its antioxidant properties, although the role of the vitamin itself is broader and varied 14. For instance, Rimbach et al.
+15 contend that the vitamin is important for maintaining the structural integrity of virtually all cells in a human body by influencing cell signalling, which was initially observed by Boscoboinik et al.
+16. Vitamin E also modulates the expression of connective tissue growth factor (CTGF) 17, and regulates gene expression and transcription, thereby facilitating the protection of wounds against infections such as methicillin‐resistant Staphylococcus aureus (MRSA) 18.These issues prompted an evidence‐based review (EBR) to consider the effects of systemic vitamin E on wound healing in order to assess whether the vitamin has been overlooked as having beneficial tissue healing properties.MethodA logical method to frame the clinical question is the PICO method 19 as it provides a structured process for a search strategy 20. PICO is an abbreviation for patient/problem, intervention, comparison and outcome and forms the basis of proposing a question, searching the existing literature, assessing the data and evaluating the findings and to establish their relevance to clinical practice 21. For this review, the patient population included adults or animals with a wound or in vitro cell cultures from either group. The intervention was specifically administration of vitamin E, either through supplementation, exposure in the laboratory setting or in combination with other nutrients. This was often compared with control groups, although not all studies included one. The clinical outcomes was measured by the influence of the vitamin on localised factors such as cell proliferation and infection, to assess its overall influence on wound healing, whether demonstrated by the studies or hypothesised by the clinical findings.Literature reviewThis review initially focused on three specific roles of vitamin E: as an antioxidant, its influence on CTGF and its effect on MRSA. However, a literature review of vitamin E as an antioxidant revealed studies assessing the role of the vitamin on gene expression, and therefore the review will include this additional role as a discussion in its own right. Through the literature review of vitamin E as an antioxidant, the impact of diabetes mellitus (DM) on the vitamin was revealed as a theme and was therefore included as a subsection of the review. Within the study on gene expression, two further areas of interest were identified, and therefore ageing (which encompasses the majority of studies in this area) was also examined. In addition, combined vitamins by amalgamating vitamin E with one or more other nutrients were explored. However, because of the lack of relevant research, the focus on the effects of vitamin E on CTGF was discounted, and therefore excluded from this EBR. The number of databases that contained relevant articles was narrowed down to four, and the time frame of published articles was limited to 1996–2012 to ensure that the evidence was recent. The search terms and results are summarised in Table ​Table11.Table 1Search terms and number of articles retrievedDatabaseTermsAntioxidant/vitamin E/woundCTGF/vitamin E/woundMRSA/vitamin E/woundGene expression/vitamin E/woundOvid MEDLINE912238CINAHL00026Pubmed59120Web of knowledge4318142Total57394126Open in a separate windowCTGF, connective tissue growth factor; MRSA, methicillin‐resistant Staphylococcus aureus.
+The titles and abstracts, where available, were measured against the inclusion and exclusion criteria (discussed later) and then obtained in full text to ensure that they met the criteria if they were not excluded. The reference lists of each study were examined to identify additional research, and each of those articles was also scrutinised for citing articles in order to identify any subsequent studies that had not been identified in the existing literature review, to ensure that all the relevant evidence and key research were not omitted. Books such as Annals of the New York Academy of Sciences were hand searched, and archives of relevant journals, such as Wounds UK (www.wounds‐uk.com) and the Journal of Nutrition (http://jn.nutrition.org/), were also explored for articles that did not show up on initial searches. In addition, individual article searches by particular authors who are specialised in research on the topic were undertaken in order to ensure that relevant studies were not erroneously missed and bias in the design of this review was prevented. Grey literature was also appraised.Inclusion/exclusion criteriaInclusion criteria consisted of either laboratory animals or human volunteers. Excisional, full or partial thickness wounds on any part of the body below the head, and those involving the dermis (rather than arterial operations) were included. Any subset or combination of vitamin E, and/or amalgamation with other nutrients and involvement of DM were also reviewed. Also, the articles must have been written in English, although it is acknowledged that this limits the external validity of the review due to the risk of language bias 22. Exclusion criteria included papers that researched angiogenesis/cardiovascular ailments. Research on specific organs, for example the liver or epididymis, was rejected. Furthermore, paediatric patients were not included. Research that focused on any type of cancer, or therapy for it, was discounted. Priority on cosmetic appearances or treatment, including scars, was excluded in this review. Eye wounds, head trauma, bone/skeletal injuries, neurological disorders and interaction of vitamin E with drugs or their metabolism/side effects were also excluded. Articles assessing plant biopsies were omitted as they were not deemed relevant.Scoring of evidenceReview tools such as the CONSORT statement 23 and PRISMA checklist 24 were used to assess each article. The Centre for Evidence‐Based Medicine, Oxford [25; http://www.essentialevidenceplus.com] ‘Levels of Evidence’ framework was also used to rate the studies. Of the total results, 33 articles were included.DiscussionThree studies demonstrated that both naturally derived vitamin E and a synthetic analogue (raxofelast) had beneficial antioxidant functions for wound healing in rats and mice by inhibiting the detrimental effects of hyperglycaemia 26, 27, 28. Despite the lack of research in this particular area, these studies may be used as a basis for assessing whether either natural or synthetic vitamin E supplementation in humans with wounds may be beneficial as a contributor to extracellular matrix formation.DM was induced by Streptozotocin injection in rats in two similar studies by Musalmah et al.
+29, 30 in 2002 and 2005, whereas Park and Lim 3 induced diabetes by alloxan monohydrate injection in mice. All three studies suggested that antioxidant supplementation reduced hyperglycaemia, and the research revealed that α‐tocopherol enhanced the rate of wound closure, which may indicate the benefits of vitamin E supplementation during wound healing. Thus these findings may encourage research into the effects of vitamin E supplementation for people with poorly controlled hyperglycaemia to improve healing after tissue damage. However, the lack of a uniform approach to trial design, wound type, outcomes and follow‐up periods limit accurate comparison of the data.A high dose of 585 mg/day vitamin E supplementation in rats by Sakai and Moriguchi 31 was shown to increase macrophage function and prevent a decline in the plasma concentration of the vitamin, which is associated with ageing. However, Fischer et al.
+32 found that deficiency of vitamin E alone in rats did not induce significant changes in gene expression, when compared with selenium deficiency, whereas combined deficiency of both elements revealed alterations in the level of protein expression involved in inflammation and cell adhesion. These apparent discrepancies may be explained by different ages of the animals, which are incidentally not clarified by Fischer et al.
+32. Taken together, these findings do not strongly support recommendations for vitamin E supplementation, and dissimilar experimental designs may result in disparities between results.In mice, supplementation of vitamin E stimulated phagocytosis 33 and improved all the immune functions, even at a lower daily dose of 134 mg 2, 7. Supplementation of antioxidants in prematurely ageing mice by Alvarado et al.
+34 resulted in an increased capacity for neutrophil chemotaxis, and similarly T‐cell‐mediated immune functions and age‐associated defects of T‐cell activation in mice was improved by vitamin E 35, 36, 37, 38. Thus, mice overall demonstrated beneficial properties of vitamin E for the immune system, which was witnessed at various doses. These results may influence similar studies on aged and immunocompromised humans.Overall, these findings have indicated that vitamin E supplementation is beneficial for wound repair and immune functions, particularly in elderly animals. However, caution must be applied when interpreting the data into clinical practice for humans due to discrepancies in the amount of supplementation used and the different type and breeds of animals involved, for example athymic mice. Thus this area of research would benefit from further studies involving humans to establish the influence of vitamin E on wounds.In guinea pigs, De la Fuente et al.
+39 demonstrated that a 1500‐mg supplementation of vitamin E increased cell chemotaxis. Thus, these findings provide additional evidence that a large dose of vitamin E is beneficial for healing. However, this is a stand‐alone study with no recent follow‐up studies on the effects of vitamin E on guinea pigs with wounds, with which to compare the results.Pierpaoli et al.
+18 and Provinciali et al.
+40 studied MRSA in mice, and both studies concluded that vitamin E in combination with daptomycin alone or both daptomycin and tigecycline was the most effective amalgamation to combat wound infections, such as MRSA. Therefore, these studies indicated that vitamin E had a potential antimicrobial benefit when used in combination with particular antibiotics. The methodologies of these studies, such as the use of control groups, support the rigour of the findings. Despite this, further studies to confirm these findings and contribute additional evidence are recommended.In research on humans, there are conflicting results on the effects of vitamin E supplementation. Through the measurement of fasted blood samples, Belisle et al.
+41 showed that vitamin E supplementation was mostly beneficial to the elderly with initial elevated cytokine concentrations, as the vitamin maintained these levels and thus increased the body's immunity against infections. More specifically, Pallast et al.
+42 determined that 100 mg/day had a positive influence on cytokines, whereas Belisle et al.
+43 recently observed no overall differences of a higher dose of 182 mg vitamin E on cytokines. The causes for these discrepancies are not clear, which limits conclusive recommendations of a beneficial vitamin E supplemental dose for cytokines. An extensive study in this area could provide more definitive evidence, and as such is a suggestion for future research.Also administering a vitamin E dose of 100 mg/day, De Waart et al.
+44 discovered that it did not significantly improve the proliferation of leucocytes and macrophages. However, these findings do not support the research by Meydani et al.
+45, who found that 200 mg/day of vitamin E was the optimum level for elderly adults' immunity, and this was further demonstrated in studies assessing phagocytosis and chemotaxis of lymphocytes 46, 47. No significant adverse effects of any dose of supplementation, up to 727 mg, were witnessed by Meydani et al.
+48. Thus, it appears from the data that a supplemental dose of 200 mg/day of vitamin E is an optimum amount for cellular functions.All four of the tocopherols were identified by Wu et al.
+49 to have the ability to modulate immune cell function, albeit with differing efficiency and outcomes. Moreover, not only did α‐tocopherol stabilise cultured fibroblasts in vitro 50 but the tocopherols also had a direct influence on the activation of fibroblasts 51, and De Pascale et al.
+52 demonstrated that vitamin E induced transcriptional activity in a keratinocyte cell line. However, a literature review of research assessing a combined supplementation of vitamin E and zinc by Lattanzio et al.
+53 could not determine conclusive positive or negative influences of vitamin E on gene expression. It seems possible that these results are due to differences in the design of the studies included, which has resulted in a wide variability of the findings for the review by Lattanzio et al.
+53.ConclusionBy using the ‘Levels of Evidence’ framework, the research reviewed for this EBR was generally of Level 2b evidence, which is considered to be reasonable. Of the publications included, the majority were primary research studies (n = 31), strengthening the quality of the data. However, it is recognised that there are inherent limitations of an EBR on such a specialised subject such as the one chosen for this review. The time frame of research from 1996 to present may have inadvertently omitted relevant data preceding this date from seminal research. In addition, the nature of a sole and novice reviewer carrying out this EBR and the risk of selection bias is a possible threat to internal validity. Despite this, the use of the PICO method ensured a structured process during the literature review.Through this EBR, it has been determined that research on vitamin E as an antioxidant and its influence on DM is inconsistent. The majority of the studies reviewed involved rodents, and thus the findings cannot be extrapolated to all patients. Moreover, comparison of the studies is restricted by differing endpoints, methodology and inclusion criteria limiting comparisons and inference of the results. In spite of this, it has been demonstrated that vitamin E limits ROS damage of healing tissue, and this is particularly exhibited in diabetic animals, which is an important issue for future research.To date, there has been little discussion about the influence of vitamin E and its microbial effects on MRSA, and thus drawing conclusions is restricted as only two pieces of research by the same group of authors were available. Future studies on the current topic are therefore recommended. In spite of this, the findings have so far demonstrated that vitamin E has a potent antimicrobial effect, which is enhanced when in conjunction with particular antibiotics.The data presented by clinical trials assessing the effects of vitamin E on gene expression have been varied, partly because of the diversity of the cells and participants involved. Furthermore, the various study designs lack consistency and limit comparisons. Crucial and significant details are often missing from the data, which can allow erroneous conclusions. The conflicting findings of the studies reviewed highlight that an effective and safe dose of vitamin E, as well as the minimum duration of treatment, is yet to be established. In spite of this, the basic functional importance of antioxidants in wound healing has been illustrated.As no other review was found during this research that draws together current literature to assess the question of whether vitamin E has been overlooked as having beneficial tissue healing properties, this EBR has increased the knowledge base on this topic. Overall, the levels of evidence identified are insufficient at this time for issuing a public health recommendation to use vitamin E supplements to assist wound healing. It is important to note, however, that each species of tocopherol has its own mechanism of action that will individually influence wounds. Further research is clearly warranted in this area and should aim at defining specific reference guidelines for vitamin E supplementation.AcknowledgementsThe author thanks Samantha Holloway, Senior Lecturer, Cardiff University School of Medicine, and her colleagues Mrs Lorraine Stevenson and Mrs Pauline Smith.References1. 
+Altavilla D, Galeano M, Marini H, Squadrito F. Hydrophilic dual vitamin E‐like antioxidants as modulators of inflammatory response in low‐flow states and impaired wound healing. Curr Med Chem Anti‐Inflamm Anti‐Allergy Agents
+2003;2:265–73. [Google Scholar]2. 
+Adolfsson O, Huber BT, Meydani SN. Vitamin E‐enhanced IL‐2 production in old mice: naive but not memory T cells show increased cell division cycling and IL‐2‐producing capacity. J Immunol
+2001;167:3809–17. [PubMed] [Google Scholar]3. 
+Park N‐Y, Lim Y. Short term supplementation of dietary antioxidants selectively regulates the inflammatory responses during early cutaneous wound healing in diabetic mice. Nutr Metab
+2011;8:80. [PMC free article] [PubMed] [Google Scholar]4. 
+Harding K, Gray D, Timmons J, Hurd T. Evolution or revolution? Adapting to complexity in wound management. Int Wound J
+2007;4(Suppl 2):1–12. [PMC free article] [PubMed] [Google Scholar]5. 
+Posthauer ME, Dorner B, Collins N. Nutrition: a critical component of wound healing. Adv Skin Wound Care
+2010;23:560–72, quiz 573–4. [PubMed] [Google Scholar]6. 
+Rojas AI, Phillips TJ. Patients with chronic leg ulcers show diminished levels of vitamins A and E, carotenes, and zinc. Dermatol Surg
+1999;25:601–4. [PubMed] [Google Scholar]7. 
+Alvarado C, Alvarez P, Jiménez L, De la Fuente M. Improvement of leukocyte functions in young prematurely aging mice after a 5‐week ingestion of a diet supplemented with biscuits enriched in antioxidants. Antioxid Redox Signal
+2005;7:1203–10. [PubMed] [Google Scholar]8. 
+Rippon M, Davies P, White R, Bosanquet N. Cost implications of using an atraumatic dressing in the treatment of acute wounds. J Wound Care
+2008;17:224–7. [PubMed] [Google Scholar]9. 
+Dowsett C, Davis L, Henderson V, Searle R. The economic benefits of negative pressure wound therapy in community‐based wound care in the NHS. Int Wound J
+2012;9:544–52. [PMC free article] [PubMed] [Google Scholar]10. 
+Thomas S. Cost of managing chronic wounds in the U.K., with particular emphasis on maggot debridement therapy. J Wound Care
+2006;15:465–9. [PubMed] [Google Scholar]11. 
+Stocker A. Molecular mechanisms of vitamin E transport. Ann N Y Acad Sci
+2004;1031:44–59. [PubMed] [Google Scholar]12. 
+Jervis KM, Robaire B. The effects of long‐term vitamin E treatment on gene expression and oxidative stress damage in the aging Brown Norway rat epididymis. Biol Reprod
+2004;71:1088–95. [PubMed] [Google Scholar]13. 
+Biesalski HK. Polyphenols and inflammation: basic interactions. Curr Opin Clin Nutr Metab Care
+2007;10:724–8. [PubMed] [Google Scholar]14. 
+Azzi A, Ricciarelli R, Zingg JM. Non‐antioxidant molecular functions of alpha‐tocopherol (vitamin E). FEBS Lett
+2002;519:8–10. [PubMed] [Google Scholar]15. 
+Rimbach G, Minihane AM, Majewicz J, Fischer A, Pallauf J, Virgli F, Weinberg PD. Regulation of cell signalling by vitamin E. Proc Nutr Soc
+2002;61:415–25. [PubMed] [Google Scholar]16. 
+Boscoboinik D, Szewczyk A, Hensey C, Azzi A. Inhibition of cell proliferation by alpha‐tocopherol. Role of protein kinase C. J Biol Chem
+1991;266:6188–94. [PubMed] [Google Scholar]17. 
+Barbosa FL, Góes RM, de Faria-E-Sousa SJ, Haddad A. Regeneration of the corneal epithelium after debridement of its central region: an autoradiographic study on rabbits. Curr Eye Res
+2009;34:636–45. [PubMed] [Google Scholar]18. 
+Pierpaoli E, Cirioni O, Barucca A, Orlando F, Silvestri C, Giacometti A, Provinciali M. Vitamin E supplementation in old mice induces antimicrobial activity and improves the efficacy of daptomycin in an animal model of wounds infected with methicillin‐resistant Staphylococcus aureus
+. J Antimicrob Chemother
+2011;66:2184–5. [PubMed] [Google Scholar]19. 
+Cooke A, Smith D, Booth A. Beyond PICO: the SPIDER tool for qualitative evidence synthesis. Qual Health Res
+2012;22:1435–43. [PubMed] [Google Scholar]20. 
+Schardt C, Adams MB, Owens T, Keitz S, Fontelo P. Utilization of the PICO framework to improve searching PubMed for clinical questions. BMC Med Inform Decis Mak
+2007;7:16. [PMC free article] [PubMed] [Google Scholar]21. 
+Huang X, Lin J, Demner-Fushman D. Evaluation of PICO as a knowledge representation for clinical questions. AMIA Annu Symp Proc
+2006;2006:359–63. [PMC free article] [PubMed] [Google Scholar]22. 
+Juni P, Holenstein F, Sterne J, Bartlett C, Egger M. Direction and impact of language bias in meta‐analyses of controlled trials: empirical study. Int J Epidemiol
+2002;31:115–23. [PubMed] [Google Scholar]23. 
+Schulz KF, Altman DG, Moher D, CONSORT Group
+. CONSORT 2010 statement: updated guidelines for reporting parallel group randomised trials. BMC Med
+2010;8. [PMC free article] [PubMed] [Google Scholar]24. 
+Moher D, Liberati A, Tetzlaff J, Altman DG, PRISMA Group
+. Preferred reporting items for systematic reviews and meta‐analyses: the PRISMA statement. J Clin Epidemiol
+2009;62:1006–12. [PubMed] [Google Scholar]25. 
+Essential Evidence Plus
+. Levels of evidence. 2013. URL http://www.essentialevidenceplus.com/product/ebm_loe.cfm?show=oxford [accessed on 22 February 2013]26. 
+Shukla A, Rasik AM, Patnaik GK. Depletion of reduced glutathione, ascorbic acid, vitamin E and antioxidant defence enzymes in a healing cutaneous wound. Free Radic Res
+1997;26:93–101. [PubMed] [Google Scholar]27. 
+Rasik AM, Shukla A. Antioxidant status in delayed healing type of wounds. Int J Exp Pathol
+2000;81:257–63. [PMC free article] [PubMed] [Google Scholar]28. 
+Galeano M, Torre V, Deodato B, Campo GM, Colonna M, Sturiale A, Squadrito F, Cavallari V, Cucinotta D, Buemi M, Altavilla D. Raxofelast, a hydrophilic vitamin E‐like antioxidant, stimulates wound healing in genetically diabetic mice. Surgery
+2001;129:467–77. [PubMed] [Google Scholar]29. 
+Musalmah M, Fairuz AH, Gapor MT, Ngah WZ. Effect of vitamin E on plasma malondialdehyde, antioxidant enzyme levels and the rates of wound closures during wound healing in normal and diabetic rats. Asia Pac J Clin Nutr
+2002;11(Suppl 7):S448–51. [PubMed] [Google Scholar]30. 
+Musalmah M, Nizrana MY, Fairuz AH, NoorAini AH, Azian AL, Gapor MT, Wan Ngah WZ. Comparative effects of palm vitamin E and alpha‐tocopherol on healing and wound tissue antioxidant enzyme levels in diabetic rats. Lipids
+2005;40:575–80. [PubMed] [Google Scholar]31. 
+Sakai S, Moriguchi S. Long‐term feeding of high vitamin E diet improves the decreased mitogen response of rat splenic lymphocytes with aging. J Nutr Sci Vitaminol
+1997;43:113–22. [PubMed] [Google Scholar]32. 
+Fischer A, Pallauf J, Rimbach G. Selenium‐ and vitamin E‐dependent gene expression in rats: analysis of differentially expressed mRNAs. Methods Enzymol
+2002;347:267–76. [PubMed] [Google Scholar]33. 
+Del Rio M, Ruedas G, Medina S, Victor VM, De la Fuente M. Improvement by several antioxidants of macrophage function in vitro. Life Sci
+1998;63:871–81. [PubMed] [Google Scholar]34. 
+Alvarado C, Alvarez P, Puerto M, Gausserès N, Jiménez L, De la Fuente M. Dietary supplementation with antioxidants improves functions and decreases oxidative stress of leukocytes from prematurely aging mice. Nutrition
+2006;22:767–77. [PubMed] [Google Scholar]35. 
+Beharka AA, Wu D, Han SN, Meydani SN. Macrophage prostaglandin production contributes to the age‐associated decrease in T cell function which is reversed by the dietary antioxidant vitamin E. Mech Ageing Dev
+1997;93:59–77. [PubMed] [Google Scholar]36. 
+Han SN, Adolfsson O, Lee CK, Prolla TA, Ordovas J, Meydani SN. Age and vitamin E‐induced changes in gene expression profiles of T cells. J Immunol
+2006;177:6052–61. [PubMed] [Google Scholar]37. 
+Marko MG, Ahmed T, Bunnell SC, Wu D, Chung H, Huber BT, Meydani SN. Age‐associated decline in effective immune synapse formation of CD4(+) T cells is reversed by vitamin E supplementation. J Immunol
+2007;178:1443–9. [PubMed] [Google Scholar]38. 
+Marko MG, Pang HJ, Ren Z, Azzi A, Huber BT, Bunnell SC, Meydani SN. Vitamin E reverses impaired linker for activation of T cells activation in T cells from aged C57BL/6 mice. J Nutr
+2009;139:1192–7. [PMC free article] [PubMed] [Google Scholar]39. 
+De la Fuente M, Carazo M, Correa R, Del Río M. Changes in macrophage and lymphocyte functions in guinea‐pigs after different amounts of vitamin E ingestion. Br J Nutr
+2000;84:25–9. [PubMed] [Google Scholar]40. 
+Provinciali M, Cirioni O, Orlando F, Pierpaoli E, Barucca A, Silvestri C, Ghiselli R, Scalise A, Brescini L, Guerrieri M, Giacometti A. Vitamin E improves the in vivo efficacy of tigecycline and daptomycin in an animal model of wounds infected with meticillin‐resistant Staphylococcus aureus
+. J Med Microbiol
+2011;60(Pt 12):1806–12. [PubMed] [Google Scholar]41. 
+Belisle SE, Leka LS, Dallal GE, Jacques PF, Delgado-Lista J, Ordovas JM, Meydani SN. Cytokine response to vitamin E supplementation is dependent on pre‐supplementation cytokine levels. Biofactors
+2008;33:191–200. [PMC free article] [PubMed] [Google Scholar]42. 
+Pallast EG, Schouten EG, de Waart FG, Fonk HC, Doekes G, von Blomberg BM, Kok FJ. Effect of 50‐ and 100‐mg vitamin E supplements on cellular immune function in noninstitutionalized elderly persons. Am J Clin Nutr
+1999;69:1273–81. [PubMed] [Google Scholar]43. 
+Belisle SE, Leka LS, Delgado-Lista J, Jecques PF, Ordovas JM, Meydani SN. Polymorphisms at cytokine genes may determine the effect of vitamin E on cytokine production in the elderly. J Nutr
+2009;139:1855–60. [PMC free article] [PubMed] [Google Scholar]44. 
+De Waart FG, Portengen L, Doekes G, Verwaal CJ, Kok FJ. Effect of 3 months vitamin E supplementation on indices of the cellular and humoral immune response in elderly subjects. Br J Nutr
+1997;78:761–74. [PubMed] [Google Scholar]45. 
+Meydani SN, Meydani M, Blumberg JB, Leka LS, Siber G, Loszewski R, Thompson C, Pedrosa MC, Diamond RD, Stollar D. Vitamin E supplementation and in vivo immune response in healthy elderly subjects. A randomized controlled trial. JAMA
+1997;277:1380–6. [PubMed] [Google Scholar]46. 
+De la Fuente M, Victor VM. Anti‐oxidants as modulators of immune function. Immunol Cell Biol
+2000;78:49–54. [PubMed] [Google Scholar]47. 
+De la Fuente M, Hernanz A, Guayerbas N, Victor MV, Arnalich F. Vitamin E ingestion improves several immune functions in elderly men and women. Free Radic Res
+2008;42:272–80. [PubMed] [Google Scholar]48. 
+Meydani SN, Meydani M, Blumberg JB, Leka LS, Pedrosa M, Diamond R, Schaefer EJ. Assessment of the safety of supplementation with different amounts of vitamin E in healthy older adults. Am J Clin Nutr
+1998;68:311–8. [PubMed] [Google Scholar]49. 
+Wu D, Meydani M, Beharka AA, Serafini M, Martin KR, Meydani SN. In vitro supplementation with different tocopherol homologues can affect the function of immune cells in old mice. Free Radic Biol Med
+2000;28:643–51. [PubMed] [Google Scholar]50. 
+Chepda T, Cadau M, Chamson A, Alexandre C, Frey J. Alpha‐tocopherol as a protective agent in cell culture. In Vitro Cell Dev Biol Anim
+1999;35:491–2. [PubMed] [Google Scholar]51. 
+Gimeno A, Zaragozá R, Viña JR, Miralles VJ. Vitamin E activates CRABP‐II gene expression in cultured human fibroblasts, role of protein kinase C. FEBS Lett
+2004;569:240–4. [PubMed] [Google Scholar]52. 
+De Pascale MC, Bassi AM, Patrone V, Villacorta L, Azzi A, Zingg JM. Increased expression of transglutaminase‐1 and PPARgamma after vitamin E treatment in human keratinocytes. Arch Biochem Biophys
+2006;447:97–106. [PubMed] [Google Scholar]53. 
+Lattanzio F, Malavolta M, Mocchegiani E. Nutrient (zinc and vitamin E)‐gene interactions related to inflammatory and antioxidant response in aging and inflammation. Nutr Ther Metab
+2008;26:118–28. [Google Scholar]Articles from International Wound Journal are provided here courtesy of Wiley-Blackwell
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (105K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

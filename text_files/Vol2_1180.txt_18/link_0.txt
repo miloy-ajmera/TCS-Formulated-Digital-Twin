@@ -1,0 +1,724 @@
+Document Name: role of Water, Preservative in Eye Cream0
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682755/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The use of preservatives in dry eye drops - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Clin Ophthalmol
+
+
+v.13; 2019
+
+
+                    PMC6682755
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (583K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Clin Ophthalmol
+
+
+v.13; 2019
+
+
+                    PMC6682755
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Clin Ophthalmol. 2019; 13: 1409–1425. Published online 2019 Aug 1.  doi: 10.2147/OPTH.S211611PMCID: PMC6682755PMID: 31447543The use of preservatives in dry eye dropsKaren Walsh1 and  Lyndon Jones1Karen Walsh1
+Centre for Ocular Research & Education (CORE), School of Optometry and Vision Science, University of Waterloo, Waterloo, N2L 3G1, CanadaFind articles by Karen WalshLyndon Jones1
+Centre for Ocular Research & Education (CORE), School of Optometry and Vision Science, University of Waterloo, Waterloo, N2L 3G1, CanadaFind articles by Lyndon JonesAuthor information Article notes Copyright and License information Disclaimer1
+Centre for Ocular Research & Education (CORE), School of Optometry and Vision Science, University of Waterloo, Waterloo, N2L 3G1, CanadaCorrespondence: Karen WalshCentre for Ocular Research & Education (CORE), School of Optometry and Vision Science, University of Waterloo, Waterloo, ON, N2L 3G1, Canada, Phone: Tel +1 519 888 4567 Ext 37548, Email ac.oolretawu@hslaw.nerakReceived 2019 Apr 9; Accepted 2019 Jul 3.Copyright © 2019 Walsh and Jones.This work is published and licensed by Dove Medical Press Limited. The full terms of this license are available at https://www.dovepress.com/terms.php and incorporate the Creative Commons Attribution – Non Commercial (unported, v3.0) License (http://creativecommons.org/licenses/by-nc/3.0/). By accessing the work you hereby accept the Terms. Non-commercial uses of the work are permitted without any further permission from Dove Medical Press Limited, provided the work is properly attributed. For permission for commercial use of this work, please see paragraphs 4.2 and 5 of our Terms (https://www.dovepress.com/terms.php).AbstractTopical ocular preparations are widely recommended by health care professionals, or chosen by patients, to help manage dry eye disease (DED). The chronic and progressive nature of DED may result in the administration of topical products several times a day, over a period of many years. Given DED is a condition that by definition affects the ocular surface, it is important to understand how the repeated use of eye drops may impact the ocular surface, influence clinical signs, affect symptoms, and impact the overall disease process of dry eye. The component in topical preparations with the greatest potential to adversely affect the ocular surface is the preservative. This paper reviews the literature in relation to the use of preservatives in formulations for dry eye. The ocular effects of benzalkonium chloride (BAK) are summarised and compared to the performance of alternative preservatives and preservative-free formulations. Use of preserved and preservative-free drops in relation to the management of varying stages of DED is discussed.Keywords: dry eye disease, preservatives, benzalkonium chloride (BAK), polyquaternium-1 (PQ-1), preservative-freeIntroductionDry eye disease (DED) is a global issue, the prevalence of which is higher in women and increases with age.1 Estimated prevalence shows a large range (5–50%), driven primarily by how DED is classified, with the prevalence of signs higher and more variable compared to symptoms.1 The most recent Tear Film and Ocular Surface Society’s (TFOS) DEWS II report highlights future research is required to establish the prevalence of various severities of DED, with the first TFOS DEWS report suggesting that prevalence of severe DED is likely to be at the low end of the range, with mild or episodic disease closer to the upper limit of quoted prevalence.1,2The classification of DED recognizes that elements of both evaporative and aqueous deficient dry eye may coexist.3 Where aqueous deficient DED predominates, the use of tear replacement supplements is naturally widespread. Additionally, the staged management and treatment approach recommended in the most recent TFOS DEWS II report includes the use of topical application of either therapeutic tear substitutes or specific medications at every stage of DED severity.4Given the ubiquitous and expected long-term use of topical ocular preparations for DED, it is important to understand how the constituents of each formulation may affect the ocular surface, clinical signs, symptoms, and overall disease process. It could be argued this is of particular significance in DED, given the definition of the disease recognizes that loss of tear film homeostasis and ocular surface inflammation are part of the disease process.3 In this context, it becomes clear that any topical application given in the treatment and management of the condition should avoid inducing unwanted side effects that may further upset tear film homeostasis or induce a greater ocular surface inflammatory response.Any drop delivered in a multidose format must have some mechanism for maintaining the sterility of the contents throughout its intended length of use. In topical preparations, antimicrobial activity is most often achieved through the addition of preservatives. The most commonly used preservative in topical drops of any form is benzalkonium chloride (BAK).5,6 Whilst it is known to be an effective antimicrobial agent, demonstrating efficacy against a wide variety of common pathogens,7 considerable evidence, often from its use in glaucoma medications, also exists detailing the deleterious effects it has on the ocular surface, particularly when used over an extended period of time.5,8–14 It can be argued that the undesirable effects of BAK have contributed to a movement into preservative-free topical preparations. Removal of the preservative naturally eliminates preservative-induced complications. In both glaucomatous and DED populations, use of preservative-free drops can improve signs and symptoms compared to BAK-containing formulations.10,15–19Clinicians and consumers are not faced with only a binary choice between BAK-preserved and preservative-free options, however. There are a number of alternate preservatives used in a variety of preparations for dry eye. The aim of this review is to summarize the interactions of BAK with the ocular surface, to review the role of preservative-free formulations, and to collate the currently available evidence on the mode of action, efficacy, and biocompatibility of alternate preservatives used in topical ophthalmic drops.Evidence base: considerations of study populations and clinical trial designThis review relates to the ocular effect of preservatives in artificial tears and ocular lubricants used in the management of DED. Much of the published literature in the area of preserved ocular medications relate to the treatment of glaucoma. When evaluating the results of such glaucoma-based studies in relation to a dry eye population, it is useful to bear in mind the similarities and differences that exist between these two conditions and patient populations. Parallels exist in the sense that both conditions typically require long-term use of topical drops, which, for example, would make any cumulative effect of preservative use applicable to both groups. Both DED and glaucoma may require multiple-dosing of drops throughout the day, with additional medications being added into the regimen as the disease progresses.However, the differences must also be appreciated. Aside from any preservative included in the formulation, drops contain different active and inactive ingredients, the presence of which may not always make results of studies directly comparable. The preservative in a solution can alter the action of the active agent, with examples in the literature of topically applied drugs such as cyclosporine A20 or acyclovir,21 showing enhanced penetration into the cornea in the presence of BAK. Conversely, the presence of prostaglandin analogs modulate the toxic oxidative effects of BAK on conjunctival epithelial cells22 and cells of the trabecular meshwork.23The condition of the ocular surface may also differ between glaucoma and DED populations. The nature of DED is such that the ocular surface is likely to be compromised at the point topical therapy is initiated. This differs from glaucoma, where the primary reason for drop use is to lower intraocular pressure. Dry eye may or may not also be present in these patients, although the incidence of ocular surface disease among glaucoma patients is higher than in the normal population,24 with severity increasing with the number of prescribed glaucoma medications.25 Given the different baseline for these groups, caution should be employed when attempting to translate results from one population to the other.A final consideration is the difference between short-term clinical studies and the real-life situation of years of ongoing treatment. It is hard to replicate the effect of years of topical eye drop use in a clinical trial that may only last 6–12 months. Additionally, the enrolled study population may exclude patients with co-existing ocular pathology such as blepharitis or allergy. This is done for reasons of either patient safety or to avoid confounding factors in the study data. The reality is, of course, that a patient may have other complications in addition to their primary condition, whether that is DED or glaucoma. The interactions between multiple ocular pathologies and topical medications are thus less well understood.Benzalkonium chlorideMolecular structure and mode of actionBAK is a quaternary ammonium compound. This group of compounds contain both hydrophilic and hydrophobic elements. This enables them to be highly hydrosoluble and have surfactant or detergent properties.5,26 A preservative with these properties causes bacterial cell death by interacting with lipid components in the cell membrane, making the membrane unstable and resulting in the contents of the cell being released.26 Quaternary compounds are efficacious even in low concentrations against Gram-positive and Gram-negative bacteria, especially when combined with the chelating agent ethylenediaminetetraacetic acid (EDTA) and against fungi.5 BAK is typically used in concentrations varying from 0.004% to 0.02%.26,27 It is the most common preservative used in topical ophthalmic preparations.6,27 Use of BAK-preserved drops may be relatively short term in the case of antibiotic, antifungal, and anti-inflammatory agents. BAK is also used to preserve both glaucoma medications and some dry eye drops (Table 1), in which the chronic nature of the condition likely results in long-term use of drops, and consequently, repeated exposure to BAK. The mode of action of BAK is not limited to pathogenic cells. Mammalian cells, which of course includes human ocular cells, can also absorb BAK, the detrimental effects of which are cumulative, and more severe with higher concentrations and repeated exposure.28
+Table 1Examples of dry eye preparations preserved with BAKSupplierNamePreservativeConcentration (where stated)AlconISOPTO* TEARS 0.5%Benzalkonium chloride0.01%Bausch + LombAdvanced Eye Relief Dry Eye RejuvenationLubricant eye dropsBenzalkonium chloride0.01%Soothe Lubricant Eye Drops – Maximum HydrationBenzalkonium chloride0.005%Clear EyesNatural Tears LubricantBenzalkonium chlorideJohnson & Johnson VisionVisine Dry Eye Tired Eye ReliefBenzalkonium chloridePrestige Consumer HealthcareMurine Tears for Dry EyesBenzalkonium chlorideOpen in a separate windowNote: Information obtained from manufacturer’s websites, product information and packaging, and from https://dailymed.nlm.nih.gov.29Many studies and experiments have been conducted to examine the effect of BAK on the eye, often relating to topical medications used in the management of primary open angle glaucoma. The requirement for long-term use of topical agents in glaucoma, often with multiple doses per day, and with the potential to add further related drops over time understandably provides a wealth of information about the changes seen in terms of ocular signs, symptoms and at the cellular level, with use of BAK.Clinical findings with BAKClinical studies consistently find changes in ocular symptoms and signs with the long-term use of BAK-preserved preparations.9–12 Reported ocular symptoms include discomfort on instillation, burning and stinging sensations, foreign body sensation, dry eyes, tearing, and itchy eyelids.10 The incidence of ocular symptoms from a large pooled data set of glaucomatous patients using preserved eye drops was between 30% and 50% (n=9658).9 The number of drops used have been associated with both the prevalence30 and frequency10 of signs and symptoms, along with a detrimental impact on quality of life measures.13,30,31 The concern for these patients, and relevant for those needing to manage DED too, is that the symptoms experienced through the administration of BAK-preserved drops may impact compliance to the prescribed treatment or management regimen.32Clinical signs associated with the use of BAK-preserved drops include superficial punctate keratitis, conjunctival hyperemia, staining and follicles, blepharitis,9,10 increased osmolarity,12,33 reduced tear production13,34 and reduced tear film break up time.11–13,34 The changes to tear film stability associated with BAK have not only been documented in glaucomatous patients but in healthy subjects too.35,36When explored at a cellular level, histopathological techniques reveal an increase in inflammatory cells in the conjunctival epithelium,14,37,38 along with a significant decrease in the number of goblet cells.11,37 Flow cytometry techniques have demonstrated, even in asymptomatic patients, an increase in inflammatory markers found in ocular surface cells.39–42 BAK has also been shown to have an effect on corneal nerves, with in vivo confocal microscopy revealing reduced numbers of sub-basal nerves in glaucoma patients treated with BAK-preserved drops compared to preservative-free formulations.43Animal studies with BAKThe clinical picture in animal models echoes the human eye experience, with tear film disruption and reduced tear film break up time found in rabbit eyes after exposure to BAK and BAK-containing eye drops.44,45 Scanning confocal microscopy has been used to examine the effects of BAK on the rabbit cornea in vivo. Following application of 0.02% and 0.01% BAK, no normal superficial corneal epithelial cells could be found, with swelling and desquamation of cells noted even with the lowest tested BAK concentration of 0.005%.46 Significant epithelial and stromal defects, along with increases in central corneal thickness and endothelial permeability of rabbit cornea with higher concentrations of 0.1% BAK have been reported elsewhere.47Confocal microscopy was used to assess the conjunctiva-lymphoid associated tissue (CALT) on live rabbits. Commercially available BAK-preserved glaucoma drops stimulated cell inflammatory infiltration into the conjunctiva, with the size of inflammatory reaction increasing in a dose-dependent manner related to the concentration of BAK.48 Dose-dependent effects have been confirmed in post-mortem histological evaluations of rabbit corneal tissue, with significantly less damage occurring with glaucoma medications containing lower concentrations of BAK (0.005%) compared to three formulations containing higher BAK concentrations (0.008%, 0.01%, and 0.02%).49 The same group also found significantly lower density of goblet cells in rabbit eyes treated with BAK-preserved latanoprost compared to preservative-free applications.50Further animal work has been conducted using a rat model, with findings of corneal epithelial denudation and stromal inflammation consistent with other animal and clinical studies.51 Topical application of BAK examining corneal innervation responses in a mouse model resulted in significantly reduced nerve fiber density, along with increased inflammatory cell infiltration and fluorescein staining after one week, compared to untreated and saline-treated controls.52 Changes in corneal innervation were also reported in rabbit eyes following contralateral treatment with various concentrations of BAK. Compared to the untreated control eyes, topical application of BAK resulted in lower corneal sensitivity, higher rose bengal staining scores, and decreased nerve density.53 The study concluded that BAK can cause corneal hypoesthesia.53 This observation has led to consideration of the tolerance of BAK on the ocular surface. Although increased ocular symptoms are widely reported, the potential for nerve damage and hypoesthesia could in fact result in under-reporting of these issues.5In vitro experiments with BAKIn vitro work undertaken on human conjunctival epithelial cells (HCEC) demonstrates significant differences between BAK-containing and preservative-free preparations. Taken together, results from in vitro studies lead to the conclusion that BAK significantly reduces cell viability, in a dose-dependent manner.22,28,51,54–60 Examination of proinflammatory markers showed BAK is a costimulatory factor with inflammatory cytokines and is involved in enhancing the activation of the inflammatory cascade.61 Of interest are findings which show BAK displays less toxicity to conjunctival cells when combined with prostaglandin analogs compared to the same concentration of BAK used in isolation.22,42,55 This observation, while relevant to the use of glaucoma therapies, does not, however, extend to the formulations used in the management of DED.BAK and dry eye diseaseThe TFOS DEWS II report provided an updated definition of DED:
+Dry eye is a multifactorial disease of the ocular surface characterized by a loss of homeostasis of the tear film, and accompanied by ocular symptoms, in which tear film instability and hyperosmolarity, ocular surface inflammation and damage, and neurosensory abnormalities play etiological roles.3The evidence summarized here for the effects of BAK on the human eye, animal models, and in vitro cell studies points toward an agent which disrupts tear stability, causes cellular damage of the corneal and conjunctival epithelium, and induces inflammatory changes. By definition, in DED, these elements of the ocular surface and tear film already exhibit a loss of homeostasis. The addition of a low molecular weight preservative such as BAK to the eye which has the potential to have further detrimental impact on the disease process is clearly not ideal.If BAK is not advisable for use in eye drops for the management of DED, what then are the alternatives? Most obvious is to think about removing the preservative altogether. The evidence for the use and performance of preservative-free preparations is summarized next. There are also alternative preservatives used in drops for dry eye. These agents, their mode of action and evidence of their biocompatibility with the ocular surface are summarized in the section “Alternative preservatives”.Preservative-freeFormat and practicalitiesIn order to deliver a preservative-free eye drop to the ocular surface, changes are required to the format of the drop and its packaging. Most commonly, preservative-free preparations are supplied in single-dose units. These have a twist off cap and contain between 0.1 and 1.0 mL of fluid.62 The intended use is that the drop is administered to the eye(s) after which the packaging, along with any remaining solution, is discarded.While the advantage of this format of eye drop is immediately clear – enabling preservatives to be completely eliminated from the formulation – a number of disadvantages have been highlighted. One such consideration is the increased cost, which can be up to 5–10 times higher than preserved multidose formats.62 Bearing in mind the chronic nature of DED and likely multiple dosing required throughout the day over the long term, any difference in cost quickly becomes significant. This leads to concerns over compliance with respect to correct usage and disposal procedures.63 Given most single-dose units contain enough fluid for more than one application, it is possible patients may keep open vials to use for subsequent doses, minimizing both cost and waste, whilst exposing themselves to risks of potential contamination of the solution.62Difficulty with handling single-dose units has also been cited as a drawback for this packaging format.5,62,64 Most relevant for elderly patients63 or those that have problems with dexterity, the vials can be awkward to open easily, and the rigid plastic of the container difficult to squeeze when administering a drop of solution.62Multidose preservative-free formats are an attempt to overcome the considerations of cost and ease of use of single-dose preservative-free drops. One approach to maintaining sterility in a multidose bottle is employed by the third-generation ABAK® bottle (Laboratoires Théa, France) which uses a bi-functional membrane with antimicrobial properties to maintain sterility for up to three months after opening.65 Filters are also used in the Clear Eyes bottle (Prestige Consumer Healthcare, Inc., USA)66 and the hydraSENSE® delivery system (Bayer Inc., Germany),67 although little further information is available about their efficacy. The COMOD® dosage system (Ursapharm, Germany) uses a second option to maintain sterility and includes a one-way valve which maintains sterile contents for up to six months after opening.68Preservative-free dry eye drops and ointments that are available in both single-dose and multidose formats are shown in Table 2.
+Table 2Examples of preservative-free dry eye preparationsSupplierNameFormatAlconSystane UltraSingle-doseSystane Ultra HydrationSingle-doseSystane Bion TearsSingle-doseSystane Ointment Night time reliefOintmentTears Naturale FreeSingle-doseAllerganRefresh Optive Mega-3Single-doseRefresh Optive AdvancedSingle-doseRefresh OptiveSingle-doseRefresh PlusSingle-doseRefresh CelluviscSingle-doseRefresh ClassicSingle-doseRefresh Lacri-LubeOintmentRefresh P.M.OintmentBausch + LombSoothe Lubricant Eye Ointment Night Time Dry Eye TherapyOintmentSoothe Lubricant Eye DropsSingle-doseSoothe XP Emolient Eye DropsSingle-doseBiotrue Eye DropsSingle-doseBiotrue Eye DropsPreservative Free Multidose System bottleBayerHydraSense Drops for Dry EyesMultidose (HydraSense delivery system)HydraSense Drops Advanced for Dry EyesMultidose (HydraSense delivery system)HydraSense Gel Drops Night Therapy for Dry EyesMultidose (HydraSense delivery system)Clear EyesPure ReliefMultidose (Bottle with purifying filter)iSolutionsNanotears TF Lubricant Gel DropsSingle-doseNanotears MXP Forte Lubricant Gel DropsSingle-doseJohnson & Johnson VisionBlink TearsSingle-doseLabtician OphthalmicThealoz DuoMultidose (ABAK bottle)ThealozMultidose (ABAK bottle)HyabakMultidose (ABAK bottle)Oasis MedicalOasis TearsSingle-doseOasis Tears PlusSingle-doseOCuSoftRetaine CMC Lubricant Eye DropsSingle-doseRetaine Complete Dry Eye ReliefSingle-doseRetaine HPMC Lubricant Eye DropsMultidose (COMOD style bottle)Scope OphthalmicsHylo-Fresh/Hycosan FreshMultidose (COMOD bottle)Hylo-Tear/Hycosan OriginalMultidose (COMOD bottle)Hylo-Forte/Hycosan ExtraMultidose (COMOD bottle)Hylo-Care/Hycosan PlusMultidose (COMOD bottle)Vita-Pos/Hycosan NightOintmentThera TearsDry Eye TherapySingle-doseLiquid Gel Nighttime Dry Eye TherapySingle-doseOpen in a separate windowNote: Information obtained from manufacturer’s websites, product information and packaging, and from https://dailymed.nlm.nih.gov.29“Switch” studiesTo investigate the effect of preservative-free preparations on the eye, it is natural to compare them to BAK-preserved drops. Many clinical studies have been conducted where patients with glaucoma were switched from BAK-preserved to preservative-free drops. The results from these so-called “switch” studies consistently show improvement in reported symptoms and clinical signs,9,10,15–17 with the incidence of pain and discomfort reducing from 52.4% to 7.8% following use of preservative-free compared to preserved drops.9 Lower levels of discomfort on instillation (43% vs 17%), and between drop use, lower levels of burning/stinging (40% vs 22%), dry eye sensation (23% vs 14%), and foreign body sensation (31% vs 14%) have been found, along with reduced tearing and eyelid itching.10 These changes result in improvements to the quality of life quantified by patient questionnaires.15,69A more recent analysis of two clinical trials where glaucoma patients with symptomatic ocular surface disease were switched from BAK-preserved to preservative-free treatment showed the incidence of irritation, burning, dry eye and foreign body sensation, tearing and itching reduced by two-thirds, with the incidence of conjunctival hyperemia, staining, and blepharitis dropping by half.18 Perhaps unsurprisingly, it was established that the large majority of patients (72%) showed a preference for the preservative-free formulation.18Use of preservative-free drops has also been investigated in patients with DED. A large switch study enrolled 1249 patients with dry eye, the vast majority of which (81%) had severe DED.17 All patients were habitual users of preserved artificial tears, with around half of the cohort using traditional preservatives (45.9%, eg, BAK), and the other half using “soft” preservatives (54.1%, eg, Purite®, POLYQUAD®). After a minimum 3-week switch to a preservative-free artificial tears, Ocular Surface Disease Index (OSDI) scores were significantly reduced for 97% of the patients, along with a reduction in frequency of superficial punctate keratitis.17 The improved patient outcomes in this study are attributed to the switch from preserved to preservative-free artificial tears. Although this is a reasonable explanation, in a switch study such as this, it is not possible to eliminate the potential contribution of other variables to the results. For example, patient’s habitual drops would have consisted of therapeutic formulations that were different to the study product. Further, the study product was not masked and the possibility of introducing bias towards the newly dispensed product cannot be ignored.While these results demonstrate a significant improvement in ocular surface symptoms as quantified by OSDI, it should also be recognized that this change occurred in a study population predominantly consisting of patients with severe DED. Given that the TFOS DEWS II report recommends use of preservative-free drops for this group, it is perhaps understandable that such a significant reduction in OSDI was found.Impression cytology confirms differences between BAK-preserved and preservative-free formulations at a cellular level. Two months after switching to preservative-free timolol, glaucoma patients had significantly increased numbers of mucus cells, and reduced levels of conjunctival epithelial cell impairment.19Further studies have examined the tear film proteome alongside clinical findings, with the result that the tear film proteome, for factors relating to epithelial leakage and inflammation, showed significant improvement after switching to preservative-free tafluprost from BAK-preserved latanoprost drops.70 Similar results were found for a parallel group study comparing BAK-preserved and preservative-free sodium hyaluronate and fluorometholone (FML) drops in patients with severe DED. After two months, the preservative-free group showed significant improvements in clinical measures such as tear break up time and Schirmer score. Tears from the preservative-free group also showed a statistically significant decrease in inflammatory markers and significant increase in antioxidant activity compared to the group taking BAK-preserved versions of the drops.71Further evidence for the performance of preservative-freeIn addition to clinical data, evidence for the performance of preservative-free preparations compared to BAK-preserved drops has been generated through both animal and in vitro work. Both HCEC and mouse corneas were examined for morphological and cytotoxicity effects following administration of BAK-preserved and preservative-free FML. The preserved version resulted in cell shrinkage and significantly reduced cell viability.72 Preservative-free FML did not produce morphological changes and also resulted in reduced ocular surface inflammation.72 A 3D model of reconstituted corneal epithelial cells showed the preservative-free anti-allergy drug ketotifen did not impair cell structure and viability, compared to significant detrimental changes resulting from use of BAK-preserved anti-allergy medications.73Following 7 days treatment with preservative-free travoprost, positive effects on tear production and corneal tissues were seen in a mouse model compared to the amount of corneal staining, reduction of goblet cells, and increased inflammation that occurred with a BAK-treated group.74 Similar conclusions were reached using scanning electron microscopy to examine rabbit eyes treated with either BAK-preserved or preservative-free artificial tears. The preservative-free artificial tear solution induced significantly less epithelial damage than BAK-preserved versions.75Alternative preservativesThe evidence for the benefits that preservative-free drops deliver to the ocular surface compared to BAK-preserved topical preparations is clear. For DED specifically, the staged management approach in the DEWS II report recommends use of preservative-free lubricants for more severe cases of dry eye where initial management therapies have proved inadequate.4 Cost, ease of use, and compliance remain relevant considerations for preservative-free single-use formats. For mild-to-moderate DED, alternative artificial tear and lubricants exist with preservatives other than BAK (Table 3). The mode of action and ocular physiological response to these preservatives are reviewed below.
+Table 3Examples of dry eye preparations with alternative preservativesSupplierNamePreservativeConcentration(where stated)AlconSystane OriginalPolyquad0.001%Systane UltraPolyquad0.001%Systane Ultra HydrationPolyquad0.001%Systane BalancePolyquad0.001%Systane CompletePolyquad0.001%Systane Gel DropsPolyquad0.001%Systane Lubricant Eye GelSodium perborateGenTealGenAqua (sodium perborate)Tears Naturale IIPolyquad0.001%Tears Naturale FortePolyquad0.001%AllerganRefresh RepairPurite (stabilized oxychloro complex)Refresh OptivePurite (stabilized oxychloro complex)Refresh Optive Gel DropsPurite (stabilized oxychloro complex)Refresh Optive AdvancedPurite (stabilized oxychloro complex)Refresh TearsPurite (stabilized oxychloro complex)Refresh ContactsRefresh LiquigelPurite (stabilized oxychloro complex)Bausch + LombSoothe XP Emolient Eye DropsPolyquadSoothe Hydration LubricantEye DropsEdetate disodiumSorbic acid0.1%0.1%Focus LaboratoriesFreshKote Lubricant Eye DropsPolixetonium (Polyquarternium-42)Johnson and Johnson VisionBlink Tears Lubricating Eye DropsOcuPure (stabilized oxychloro complex)Blink Gel Tears Lubricating Eye DropsOcuPure (stabilized oxychloro complex)Visine Dry Eye Tired Eye ReliefPolyquaternium-42Thera TearsExtra Dry Eye TherapyDequest (sodium perborate)Dry Eye TherapyDequest (sodium perborate)Open in a separate windowNote: Information obtained from manufacturer’s websites, product information and packaging, and from https://dailymed.nlm.nih.gov.29Polyquaternium-1 (Polyquad(R))Polyquaternium (POLYQUAD®, Alcon Inc., Fort Worth, TX) (PQ-1) is a hydrophilic cationic polymer,76–78 used from the mid-1980s as a disinfectant in contact lens solutions, and then later, as a preservative in both dry eye preparations and glaucoma medications.5,78–82 It is a polymeric quaternary ammonium molecule,77 with a molecular size that is approximately twenty-seven times larger than BAK.63,83 The size of the molecule is important in terms of how it interacts with cells. Whilst PQ-1 is known to disrupt microbial cell membranes, it is thought to be too large to enter mammalian cells.80,84,85 This, in theory, minimizes unwanted toxic effects on ocular surface cells compared to BAK. A further difference between BAK and PQ-1 relates to the hydrophobic domain or tail element of the molecular structure. PQ-1 is cited as either having no hydrophobic tail63 or not having a large hydrophobic domain.83 This impacts its mode of action, classification of which is equivocal in the literature, with it being referred to variously as a detergent,26 detergent-type,86 and not a detergent.63,83In terms of its mechanism of action, electron microscopy shows that PQ-1 causes damage to bacterial cytoplasmic membranes, along with leakage of cell contents.87 Damage to cell membranes has been demonstrated in work by the same group where PQ-1 was shown to induce potassium ion (K+) leakage in the bacteria Pseudomonas aeruginosa, Serratia marcescens, and Staphylococcus aureus and the fungus Candida albicans.76 PQ-1 also causes coagulation of the cytoplasm.88,89 In general, PQ-1 displays mainly antibacterial activity.76PQ-1 in contact lens care solutions PQ-1 has been used to preserve multipurpose (MPS) contact lens care solutions for more than thirty years. It is present in contact lens solutions at concentrations ranging from 0.0001% to 0.001% and is used in combination with other disinfecting agents such as myristamidopropyl dimethylamine (MAPD, Aldox®), polyhexamethylene biguanide (PHMB), or alexidine. The concentration of PQ-1 in dry eye drops is typically 0.001% (Table 3) which is comparable to the concentration found in a number of MPS solutions.The use of MPS is popular, being prescribed to 92% of the patients with reusable soft contact lenses, with variation by individual country ranging from 44% to 99%.90 Such widespread use of preservative containing MPS systems for contact lens cleaning appears to demonstrate that they are generally well tolerated. The literature contains minimal reports of concerns with efficacy of MPS systems, other than some examples specific to the cleaning, storage, compliant use, and environmental conditions that have led to cases of Fusarium keratitis and Acanthamoeba keratitis in the past.91–95 The solutions involved in those cases did not use PQ-1.The phenomenon of solution-induced corneal staining (SICS) has been documented and predominantly occurs via interaction of silicone hydrogel contact lens materials and MPS care solutions.96–99 Uptake and subsequent release onto the ocular surface of preservatives from MPS has been investigated as the potential mechanism for SICS.97,100,101 However, a recent in vitro model demonstrated how the surfactant Tetronic 1107 increased cellular uptake of fluorescein, leading to the conclusion that specific surfactants rather than preservatives may be the major factor responsible for SICS.102 Given the complex formulations of MPS and the lack of definitive mechanism for SICS, it is not possible to conclude that SICS is caused directly by the preservative or other agents in the MPS formulation at this stage. For PQ-1 specifically, a recent in vitro study found that uptake of PQ-1 from MPS by a number of silicone hydrogel and hydrogel materials was far less than predicted, with the subsequent release of the preservative from the contact lens being undetectable by the methods employed in the study.103 This would suggest that the amount of PQ-1 delivered to the ocular surface after being taken up by a contact lens material would be almost negligible.In relation to SICS, much work has been undertaken to establish the clinical significance of the transitory staining that is observed. Current evidence remains equivocal, with studies reporting presence of SICS can result in symptoms of discomfort,104,105 only mild symptoms,97,100,106 or be completely asymptomatic.107–109 In fact, a large, multi-site study that investigated the physiological and subjective response of care solution and material combinations found no significant difference between an MPS containing PQ-1 and the preservative-free hydrogen peroxide control.110 The study also established after two weeks of wear of either a hydrogel lens or one of two silicone hydrogel materials that there was no difference in subjective comfort or comfortable wear time between any of the tested MPS solutions, including the PQ-1-preserved MPS, and the preservative-free hydrogen peroxide control.110Given the common, almost ubiquitous use, in most countries of preserved MPS care solutions, it is interesting to note the difference in concern by eye care professionals of the use of preserved eye drops for management of DED versus that for contact lens disinfection. While it is appreciated the treatment population is different between contact lens wearers and DED, the widespread use of PQ-1 and other non-BAK preservatives in contact lens care solutions provides good information on the safety profile and physiological tolerance of such agents.A final consideration when drawing comparisons between these two uses of PQ-1 and other preservatives is the amount of time the molecule is in contact with the ocular surface. The duration that a topically applied drop or ointment remains in contact with the ocular surface is referred to as the residence time. A number of factors contribute to the residence time including viscosity of the drop and blink rate.111 Following instillation onto the ocular surface of humans, radioactive-labeled saline took 4.6 mins to reach one-half of its initial value of radioactivity, with petrolatum-mineral oil ointment lasting double this time (9.7 mins).111 More recent studies have used ultrahigh-resolution or spectral domain optical coherence tomography to view dynamic changes in the tear film following drop application. Increases seen in lower tear meniscus height and pre-corneal tear film height and depth following instillation of three different types of artificial tears all returned to baseline values after 20 mins.112 Measurements of central tear film thickness showed recovery to baseline values for a steroid-antibiotic combination eye drop after 30 mins, with longer residence time occurring with a gel formulation of the same drug (60 mins).113Residence time of drops, even with more viscous formulations, remains short. This suggests the ocular contact time of any preservative in the drop is also short, typically being just a few minutes. In contrast, the potential for contact lens materials to absorb and subsequently release components such as preservatives from MPS suggests that exposure to preservatives may well be longer for contact lens wearers than users of artificial tears. Given the long track record of safety and comfort data with contact lens solutions, and the different contact time seen with dry eye drops, this perhaps demonstrates that non-BAK-preserved drops have limited potential to result in the development of adverse reactions when the human ocular surface is exposed to such products.In vitro evidence for PQ-1 The effect on HCEC of 0.001% PQ-1, and 0.0015% and 0.020% BAK along with glaucoma medications containing either PQ-1 or BAK was investigated.63 Cells were assessed for viability and oxidative stress, with the result that PQ-1-preserved travoprost showed significantly better viability, less evidence of apoptosis, and less oxidative stress induction compared to BAK-containing solutions.63 In fact, the study concluded PQ-1 demonstrated a comparable level of toxicity to HCEC as that seen with phosphate buffer solution.63 The same group also investigated the cellular response to combination glaucoma medications containing both a prostaglandin analog and a beta-blocker in a preserved formulation. Having found better cell viability, less apoptosis, and fewer reactive oxygen species, the authors concluded that the PQ-1-preserved drop containing travoprost and timolol may be better for ocular surface health than the two tested BAK-preserved combination formulations.114 Comparison of the number of live cultured human ocular surface cells following a 25-min exposure to either BAK-preserved or PQ-1-preserved glaucoma medications showed a significantly higher percentage of live conjunctival and corneal cells with the PQ-1-preserved drop.115Experimental work on HCEC has also produced results suggesting PQ-1 can have a cytotoxic effect.86 Having compared PQ-1-preserved travoprost and Systane® Ultra eyedrops with BAK alone and BAK-preserved latanoprost, a study concluded that PQ-1 0.001% was less cytotoxic than the highest commercially available BAK concentration of 0.02%, but that it did show similar or higher cytotoxic effects as BAK 0.01% after 15 mins in the assay.86 A study examining the effect of three MPS on HCEC found all three solutions damaged cell integrity and reduced metabolic rates, with the largest effect found with the MPS containing PQ-1.116The results mentioned above appear contradictory to the long history of safe use of PQ-1 in ophthalmic formulations, especially its widespread use in contact lens care solutions. However, it must be remembered that differences in experimental design, choice of assay, and formulation of drops used may affect the outcome of in vitro investigations which have produced contradictory results. Further, the formulations of MPS are complex, making it impossible to isolate the preservative as the causative agent.Animal studies with PQ-1 The effect of PQ-1 on the ocular surface has been investigated in a number of animal models. Investigating ocular toxicity in a rat model demonstrated that after 11 days of twice-daily applications, high doses of PQ-1 (0.1% and 0.5%) were much less toxic than BAK (0.1% and 0.5%) for a variety of ocular surface evaluations including fluorescein staining, impression cytology, in vivo confocal microscopy, and histology.51 Similar clinical observations were found in the rabbit eye after one day of multiple dosing of either BAK-preserved or PQ-1-preserved prostaglandin analog/beta-blocker combination drops. Eyes treated with PQ-1-preserved drops showed decreased ocular surface toxicity compared to the BAK-preserved medications.117 Differences between PQ-1 and BAK have also been shown after four weeks instillation of prostaglandin analogs to the rabbit eye.118 The inflammatory cytokine interleukin IL-6 was significantly increased in tears from eyes treated with either of the BAK-preserved drops, and significantly decreased goblet cell density was also seen with one BAK-preserved drop. In contrast, the PQ-1-preserved drop showed similar results to the control.118Evaluation of the corneal epithelial barrier in rabbit corneas following exposure to various artificial tears showed a significant difference between drops, with the greatest disruption seen with a BAK-preserved preparation compared to PQ-1-preserved drops. However, no difference was seen in the epithelial barrier when preservative-free formulations were used compared to the control, leading the authors to conclude that use of preservative-free drops is preferable for patients with severe-dry eye.79 In a separate study, the ability of Systane® Lubricating Eye Drops (Alcon Inc., Fort Worth, TX) to protect the ocular surface from desiccation both in vivo and in vitro was assessed. It was concluded that for both situations, Systane® preserved with PQ-1, protected the cornea from desiccation, with significantly greater numbers of viable cells following exposure to the product, compared to drops containing either BAK or an alternative preservative (Purite®).119Clinical studies with PQ-1 Confocal microscopy has been used to view corneal epithelial and Langerhans cells of eyes treated with travoprost preserved with either BAK or PQ-1. The BAK-preserved formulation resulted in significantly reduced tear break up time and epithelial cell density compared to healthy controls.120 Although changes were seen in the eyes treated with PQ-1-preserved drops, the study concluded that the limited reaction of the corneal immune system to travoprost with PQ-1 could be considered as an indicator of better controlled corneal homeostasis and a less disturbed ocular surface compared to the BAK-preserved drop.120A comparison of four glaucoma medications, two preserved with BAK, one with PQ-1 and a preservative-free option examined the effect the medications had on the OSDI score from patients six months after starting glaucoma treatment.121 Travoprost preserved with PQ-1 resulted in a statistically significantly lower OSDI score than the other three drops, suggesting that it was the most well-tolerated drug of the four tested.121Comparisons have also been made between drops used in dry eye disease. The tolerability of a preservative-free dry eye drop (Hylabak®, Laboratoires Théa, Clermont Ferrand, France) was compared to a PQ-1-preserved drop (Systane®, Alcon Inc., Fort Worth TX) in patients for a period of three months post LASIK surgery. As assessed by the primary outcome measure of fluorescein test score, there was no significant difference between the drops, with both being well tolerated, with no serious adverse events.122Comparison between BAK and PQ-1 Although both preservatives are quaternary ammonium molecules, they are significantly different in size, with different molecular properties and modes of action. Both BAK and PQ-1 appear to consistently perform as effective preservatives, with an absence of reports in the literature of concerns related to contamination of solutions that have been preserved with either of these chemicals.Of the evidence currently available, across in vitro, animal model, and clinical studies, PQ-1 results in less disruption to the ocular surface compared to BAK. In contrast to BAK, more than 30 years of commercial use of PQ-1 have resulted in a consistently high safety record. While some changes can be induced in HCEC in vitro, few reports exist of significant clinically induced ocular complications through use of eye drops and contact lens solutions containing PQ-1. This appears to confirm significantly improved clinical performance and significantly reduced adverse physiological response compared to BAK. In comparison to signs and symptoms that occur with preservative-free eye drops, there are individual reports of PQ-1 being preferred,121 equivalent,122 or inferior.17Polyhexamethylene biguanidePolyhexamethylene biguanide (PHMB) is a biguanide that is efficacious against bacteria and Acanthamoeba.123 It is predominantly used in contact lens solutions rather than dry eye preparations, so further detail on its effect on the ocular surface is outside the scope of this article.Oxidizing preservativesSodium perborate Sodium perborate, also known by the brand name GenAqua® (Alcon, Fort Worth, TX) and Dequest® (Thera Tears), is an oxidative-type preservative which alters protein synthesis within bacterial cells through oxidative mechanisms26 and is effective against bacteria and the fungus Aspergillus niger.124 When combined with water, sodium perborate is converted to hydrogen peroxide.125 Once applied to the eye, it uses enzymes present on the ocular surface, such as catalase, to decompose to oxygen and water.124 Sodium perborate is one of the first oxidative preservatives and is still available in some dry eye preparations (Table 3). The idea of a “disappearing” or decomposing preservative is to deliver both antimicrobial activity in the solution and then cause minimal impact to the ocular surface on application. Previous review papers mention that low levels of hydrogen peroxide, 30–100 ppm, have been reported to cause sensations of stinging;125,126 however, clinical studies reporting this effect with sodium perborate are lacking.A number of in vitro studies have been conducted, typically comparing the effect of BAK, sodium perborate, other alternative preservatives, and preservative-free formulations on HCEC.127–131 Across these studies, the general conclusion is that sodium perborate has a significantly less toxic effect on ocular corneal and conjunctival cells compared to BAK127–130 but that preservative-free preparations have the least effect on cell viability.127Stabilized Oxychloro Complex Stabilized Oxychloro Complex (SOC) is available under the brand name Purite® (Allergan Inc., Irvine, CA). It is composed of 99.5% chlorite, 0.5% chlorate, and with trace amounts of chlorine dioxide. SOC is active against bacteria and viruses.125 When in solution, SOC generates chlorine dioxide free radicals which provide the oxidizing antimicrobial activity of the preservative.125 Once administered on the eye, SOC converts to sodium and chloride ions, oxygen, and water.125Results of an in vivo study using a rabbit model determined that use of glaucoma medications preserved with SOC resulted in significantly lower numbers of inflammatory cells in the corneal epithelium and less corneal damage than eyes that had been exposed to BAK-preserved formulations.49 Similar findings were observed in another in vivo study examining the effect of different concentrations of SOC on the rabbit eye, concluding SOC-preserved drops were better tolerated than BAK-preserved drops.132 In a pattern seen with the clinical performance of other preservatives, while SOC results in fewer ocular surface changes compared to BAK, when compared to preservative-free formulations in vivo, SOC-preserved drops cause alterations to corneal epithelium and stroma not seen with preservative-free drops.133 A further study on post-mortem rabbit cornea also showed that while both SOC-preserved and preservative-free artificial tears aided corneal healing after deliberate insult, the SOC-preserved drop resulted in significantly more corneal staining than the preservative-free option.134OcuPure® (Johnson & Johnson Vision Inc., Jacksonville, FL) is another preservative used in some multidose dry eye preparations. Closely related to Purite®, it is a stabilized oxychloro complex with sodium chlorite. OcuPure® breaks down to sodium and chloride ions, oxygen, and water on exposure to light. Little published work exists on the effect of this preservative on the eye. Two versions of the same dry eye drop, one preserved with OcuPure® and a preservative-free option were one of the several artificial tears compared in terms of their cytotoxicity to HCEC.135 In line with many other studies, the preservative-free formulation resulted in significantly less cytotoxicity compared to the OcuPure® preserved drop, with a BAK negative control producing a significantly higher amount of cytotoxicity than all other drops tested.Sofzia® This is a proprietary ionic-buffered solution containing zinc chloride, borate, propylene glycol, and sorbitol.5,6,126 It functions as an oxidizing preservative and converts to non-toxic components on contact with cations on the ocular surface.6 Ocular surface benefits such as reduced conjunctival inflammation and corneal changes compared to BAK-preserved drops have been found in animal models.136 Reduction in symptoms of dry eye, as quantified by OSDI scores, was reported in an open-label study which compared SofZia®- and BAK-preserved travoprost,137 and clinical signs were improved after switching from BAK-preserved latanoprost to SofZia®-preserved travoprost.138 Whilst SofZia® is available as a preservative in some medications for the management of glaucoma, it is not currently in use as a preservative in dry eye preparations.ConclusionThe nature of DED is that it results in disruption to the ocular surface, tear film stability, osmolarity, and inflammatory state of the anterior eye. The use of topical artificial tears and lubricants is an important and widely used strategy in the management of DED. These therapies provide symptomatic relief as well as aiming to improve the physiological state of the ocular surface and tear film. Ideally, all components of a dry eye drop should avoid, or certainly minimize, inducing any detrimental effects to the eye. This aim, it can be argued, is particularly important in the case of DED, given the compromised state of the ocular surface and the chronic, progressive nature of the condition.Multidose eye drops must employ some mechanism to maintain sterility of the solution over the desired period of use once the bottle has been opened. Unless a specially designed ABAK® or COMOD® type bottle is used, a multidose eye drop must contain a preservative. The most commonly used preservative is BAK. Whilst an effective agent for its primary role of preserving solutions, over its long history of use, considerable evidence has been produced which consistently demonstrates adverse effects on the ocular surface. These effects, which translate to clinically noticeable symptoms and visible signs, occur in a dose-dependent and time-dependent manner. The chronic nature of DED requires the use of topical eye drops often multiple times throughout the day, over a period of many years. Any agent which may further affect an ocular surface and tear film that has already lost homeostasis, with cumulative detrimental change occurring over time is clearly undesirable. A number of studies and review papers discuss avoiding the use of BAK-preserved eye drops in DED.Switching to a preservative-free formulation, where available, clearly removes the potential detrimental effect of introducing a preservative to the ocular surface. Results from switch studies show improved signs and symptoms when drops are changed from BAK-preserved to preservative-free formulations. In agreement with clinical data, in vitro and in vivo studies demonstrate preservative-free drops result in the least disruption to the ocular surface at both a clinical and cellular level. The use of preservative-free drops is recommended for stage 2 management of severe DED. However, it may not always be clinically necessary or practical in terms of availability of drops, overall cost of single use or multidose (using novel bottle designs), or ease of use to consider preservative-free drops for every patient with dry eye, and as recommended in the TFOS DEWS II report, non-BAK-preserved drops remain in scope for stage 1 management of the disease (Figure 1).Open in a separate windowFigure 1Decision tree for the use of preserved or preservative-free drops in the treatment of dry eye disease.Note: *Artificial tears may often be used as an adjunct therapy in combination with other management and treatment options as detailed by TFOS DEWS.4 When drops are considered, the flow diagram is intended to represent the conclusions from this review about the options for inclusion of preservatives in those formulations.A wide choice of multidose dry eye drops preserved with agents other than BAK are available. Broadly, the action of the preservatives used in these drops falls into two main categories. Oxidizing preservatives are designed to decompose to harmless chemicals when the drop is exposed to light or the tear film. The little evidence available on the ocular performance of these preservatives generally demonstrates they induce significantly less change to the ocular surface than BAK.The alternative preservative with the most evidence of its effect on ocular physiology is PQ-1. Having been available in contact lens solutions and eye drops for more than 30 years, it has been included in a number of clinical, in vivo, and in vitro studies. A quaternary ammonium molecule, it differs significantly from BAK in its size and mode of action. The literature consistently reports performance that is significantly less disruptive to the ocular surface and tear film compared to BAK. Unlike BAK, the large size of PQ-1 prevents its uptake by mammalian cells, which is thought to contribute to the difference seen in its interactions with the cells of the corneal and conjunctival epithelium. The literature does not contain findings of dose-dependent and time-dependent cumulative effects to the eye like those reported following exposure to BAK. Finally, the widespread use of MPS contact lens solutions preserved with PQ-1 adds relevant evidence of a preservative that is both efficacious and, in terms of contact lens wearers, results in comfort and physiological response comparable to preservative-free hydrogen peroxide systems.In conclusion, the use of BAK-preserved drops should be avoided in DED. The prevalence of mild and moderate degrees of DED is likely to be closer to the upper estimates of overall DED prevalence and will therefore be encountered more frequently in clinical practice. Patients with mild-to-moderate DED can be managed with a wide range of alternatively preserved artificial tear and lubricants as well as preservative-free options, if required. The prevalence of severe DED is estimated to be at the lower end of the quoted range for DED. Among this less common population, where significant ocular surface changes are present, management should consist of preservative-free formulations, as recommended by the recent TFOS DEWS II report.AcknowledgmentsFunding for this manuscript was provided by Alcon Canada. Over the past three years CORE has received research grants unrelated to this work from Alcon, Allergan, CooperVision, GLChemtech, Johnson & Johnson Vision, Menicon, Nature's Way, Novartis, PS Therapy, Shire, Sightglass and Visioneering. DisclosureKaren Walsh reports personal fees from Alcon, CooperVision and Johnson & Johnson Vision outside of the submitted work. Lyndon Jones reports personal fees from Alcon, CooperVision, Johnson & Johnson Vision, Menicon, Novartis, Ophtecs and Santen outside the submitted work. The authors report no other conflicts of interest in this work.  References1. Stapleton F, Alves M, Bunya VY, et al. TFOS DEWS II Epidemiology report. Ocul Surf. 2017;15(3):334–365. doi: 10.1016/j.jtos.2017.05.003 [PubMed] [CrossRef] [Google Scholar]2. Smith JA, Albeitz J, Begley C, et al. The epidemiology of dry eye disease: report of the Epidemiology Subcommittee of the International Dry Eye WorkShop (2007). Ocul Surf. 2007;5(2):93–107. [PubMed] [Google Scholar]3. Craig JP, Nichols KK, Akpek EK, et al. TFOS DEWS II Definition and classification report. Ocul Surf. 2017;15(3):276–283. doi: 10.1016/j.jtos.2017.05.008 [PubMed] [CrossRef] [Google Scholar]4. Jones L, Downie LE, Korb D, et al. TFOS DEWS II Management and therapy report. Ocul Surf. 2017;15(3):575–628. doi: 10.1016/j.jtos.2017.05.006 [PubMed] [CrossRef] [Google Scholar]5. Baudouin C, Labbe A, Liang H, Pauly A, Brignole-Baudouin F. Preservatives in eyedrops: the good, the bad and the ugly. Prog Retin Eye Res. 2010;29(4):312–334. doi: 10.1016/j.preteyeres.2010.03.001 [PubMed] [CrossRef] [Google Scholar]6. Actis AG, Rolle T. Ocular surface alterations and topical antiglaucomatous therapy: a review. Open Ophthalmol J. 2014;8:67–72. doi: 10.2174/1874364101408010067 [PMC free article] [PubMed] [CrossRef] [Google Scholar]7. Charnock C. Are multidose over-the-counter artificial tears adequately preserved?
+Cornea. 2006;25(4):432–437. doi: 10.1097/01.ico.0000183538.53017.69 [PubMed] [CrossRef] [Google Scholar]8. Gomes JAP, Azar DT, Baudouin C, et al. TFOS DEWS II iatrogenic report. Ocul Surf. 2017;15(3):511–538. doi: 10.1016/j.jtos.2017.05.004 [PubMed] [CrossRef] [Google Scholar]9. Jaenen N, Baudouin C, Pouliquen P, Manni G, Figueiredo A, Zeyen T. Ocular symptoms and signs with preserved and preservative-free glaucoma medications. Eur J Ophthalmol. 2007;17(3):341–349. [PubMed] [Google Scholar]10. Pisella PJ, Pouliquen P, Baudouin C. Prevalence of ocular symptoms and signs with preserved and preservative free glaucoma medication. Br J Ophthalmol. 2002;86(4):418–423. doi: 10.1136/bjo.86.4.418 [PMC free article] [PubMed] [CrossRef] [Google Scholar]11. Herreras JM, Pastor JC, Calonge M, Asensio VM. Ocular surface alteration after long-term treatment with an antiglaucomatous drug. Ophthalmology. 1992;99(7):1082–1088. [PubMed] [Google Scholar]12. Januleviciene I, Derkac I, Grybauskiene L, Paulauskaite R, Gromnickaite R, Kuzmiene L. Effects of preservative-free tafluprost on tear film osmolarity, tolerability, and intraocular pressure in previously treated patients with open-angle glaucoma. Clin Ophthalmol. 2012;6:103–109. doi: 10.2147/OPTH.S28104 [PMC free article] [PubMed] [CrossRef] [Google Scholar]13. Leung EW, Medeiros FA, Weinreb RN. Prevalence of ocular surface disease in glaucoma patients. J Glaucoma. 2008;17(5):350–355. doi: 10.1097/IJG.0b013e31815c5f4f [PubMed] [CrossRef] [Google Scholar]14. Baudouin C, Pisella PJ, Fillacier K, et al. Ocular surface inflammatory changes induced by topical antiglaucoma drugs: human and animal studies. Ophthalmology. 1999;106(3):556–563. doi: 10.1016/S0161-6420(99)90116-1 [PubMed] [CrossRef] [Google Scholar]15. Iester M, Telani S, Frezzotti P, et al. Ocular surface changes in glaucomatous patients treated with and without preservatives beta-blockers. J Ocul Pharmacol Ther. 2014;30(6):476–481. doi: 10.1089/jop.2013.0216 [PubMed] [CrossRef] [Google Scholar]16. Uusitalo H, Chen E, Pfeiffer N, et al. Switching from a preserved to a preservative-free prostaglandin preparation in topical glaucoma medication. Acta Ophthalmol (Copenh). 2010;88(3):329–336. doi: 10.1111/j.1755-3768.2010.01907.x [PubMed] [CrossRef] [Google Scholar]17. Nasser L, Rozycka M, Gomez Rendon G, Navas A. Real-life results of switching from preserved to preservative-free artificial tears containing hyaluronate in patients with dry eye disease. Clin Ophthalmol. 2018;12:1519–1525. doi: 10.2147/OPTH.S160053 [PMC free article] [PubMed] [CrossRef] [Google Scholar]18. Uusitalo H, Egorov E, Kaarniranta K, Astakhov Y, Ropo A. Benefits of switching from latanoprost to preservative-free tafluprost eye drops: a meta-analysis of two Phase IIIb clinical trials. Clin Ophthalmol. 2016;10:445–454. doi: 10.2147/OPTH [PMC free article] [PubMed] [CrossRef] [Google Scholar]19. Campagna P, Macri A, Rolando M, Calabria G. Chronic topical eye preservative-free beta-blocker therapy effect on the ocular surface in glaucomatous patients. Acta Ophthalmol Scand Suppl. 1997;75(S224):53. [PubMed] [Google Scholar]20. Yenice I, Mocan MC, Palaska E, et al. Hyaluronic acid coated poly-epsilon-caprolactone nanospheres deliver high concentrations of cyclosporine A into the cornea. Exp Eye Res. 2008;87(3):162–167. doi: 10.1016/j.exer.2008.04.002 [PubMed] [CrossRef] [Google Scholar]21. Majumdar S, Hippalgaonkar K, Repka MA. Effect of chitosan, benzalkonium chloride and ethylenediaminetetraacetic acid on permeation of acyclovir across isolated rabbit cornea. Int J Pharm. 2008;348(1–2):175–178. doi: 10.1016/j.ijpharm.2007.08.017 [PubMed] [CrossRef] [Google Scholar]22. Guenoun JM, Baudouin C, Rat P, Pauly A, Warnet JM, Brignole-Baudouin F. In vitro comparison of cytoprotective and antioxidative effects of latanoprost, travoprost, and bimatoprost on conjunctiva-derived epithelial cells. Invest Ophthalmol Vis Sci. 2005;46(12):4594–4599. doi: 10.1167/iovs.05-0776 [PubMed] [CrossRef] [Google Scholar]23. Yu AL, Fuchshofer R, Kampik A, Welge-Lussen U. Effects of oxidative stress in trabecular meshwork cells are reduced by prostaglandin analogues. Invest Ophthalmol Vis Sci. 2008;49(11):4872–4880. doi: 10.1167/iovs.07-0984 [PubMed] [CrossRef] [Google Scholar]24. Stewart WC, Stewart JA, Nelson LA. Ocular surface disease in patients with ocular hypertension and glaucoma. Curr Eye Res. 2011;36(5):391–398. doi: 10.3109/02713683.2011.562340 [PubMed] [CrossRef] [Google Scholar]25. Fechtner RD, Godfrey DG, Budenz D, Stewart JA, Stewart WC, Jasek MC. Prevalence of ocular surface complaints in patients with glaucoma using topical intraocular pressure-lowering medications. Cornea. 2010;29(6):618–621. doi: 10.1097/ICO.0b013e3181c325b2 [PubMed] [CrossRef] [Google Scholar]26. Freeman PD, Kahook MY. Preservatives in topical ophthalmic medications: historical and clinical perspectives. Expert Rev Ophthalmol. 2009;4(1):59–64. doi: 10.1586/17469899.4.1.59 [CrossRef] [Google Scholar]27. Steven DW, Alaghband P, Lim KS. Preservatives in glaucoma medication. Br J Ophthalmol. 2018;102(11):1497–1503. doi: 10.1136/bjophthalmol-2017-311544 [PMC free article] [PubMed] [CrossRef] [Google Scholar]28. De Saint Jean M, Brignole F, Bringuier AF, Bauchet A, Feldmann G, Baudouin C. Effects of benzalkonium chloride on growth and survival of Chang conjunctival cells. Invest Ophthalmol Vis Sci. 1999;40(3):619–630. [PubMed] [Google Scholar]29. U.S. National Library of Medicine [homepage on the Internet]. DailyMed. Available from: https://dailymed.nlm.nih.gov/dailymed/. Accessed
+July
+24, 2019.30. Rossi GC, Tinelli C, Pasinetti GM, Milano G, Bianchi PE. Dry eye syndrome-related quality of life in glaucoma patients. Eur J Ophthalmol. 2009;19(4):572–579. [PubMed] [Google Scholar]31. Nordmann JP, Auzanneau N, Ricard S, Berdeaux G. Vision related quality of life and topical glaucoma treatment side effects. Health Qual Life Outcomes. 2003;1:75. doi: 10.1186/1477-7525-1-75 [PMC free article] [PubMed] [CrossRef] [Google Scholar]32. Zimmerman TJ, Hahn SR, Gelb L, Tan H, Kim EE. The impact of ocular adverse effects in patients treated with topical prostaglandin analogs: changes in prescription patterns and patient persistence. J Ocul Pharmacol Ther. 2009;25(2):145–152. doi: 10.1089/jop.2008.0072 [PubMed] [CrossRef] [Google Scholar]33. Clouzeau C, Godefroy D, Riancho L, Rostene W, Baudouin C, Brignole-Baudouin F. Hyperosmolarity potentiates toxic effects of benzalkonium chloride on conjunctival epithelial cells in vitro. Mol Vis. 2012;18:851–863. [PMC free article] [PubMed] [Google Scholar]34. Yalvac IS, Gedikoglu G, Karagoz Y, et al. Effects of antiglaucoma drugs on ocular surface. Acta Ophthalmol Scand. 1995;73(3):246–248. [PubMed] [Google Scholar]35. Ishibashi T, Yokoi N, Kinoshita S. Comparison of the short-term effects on the human corneal surface of topical timolol maleate with and without benzalkonium chloride. J Glaucoma. 2003;12(6):486–490. [PubMed] [Google Scholar]36. Baudouin C, de Lunardo C. Short-term comparative study of topical 2% carteolol with and without benzalkonium chloride in healthy volunteers. Br J Ophthalmol. 1998;82(1):39–42. doi: 10.1136/bjo.82.1.39 [PMC free article] [PubMed] [CrossRef] [Google Scholar]37. Sherwood MB, Grierson I, Millar L, Hitchings RA. Long-term morphologic effects of antiglaucoma drugs on the conjunctiva and Tenon’s capsule in glaucomatous patients. Ophthalmology. 1989;96(3):327–335. [PubMed] [Google Scholar]38. Broadway DC, Grierson I, O’Brien C, Hitchings RA. Adverse effects of topical antiglaucoma medication. I. The conjunctival cell profile. Arch Ophthalmol. 1994;112(11):1437–1445. doi: 10.1001/archopht.1994.01090230051020 [PubMed] [CrossRef] [Google Scholar]39. Baudouin C, Hamard P, Liang H, Creuzot-Garcher C, Bensoussan L, Brignole F. Conjunctival epithelial cell expression of interleukins and inflammatory markers in glaucoma patients treated over the long term. Ophthalmology. 2004;111(12):2186–2192. doi: 10.1016/j.ophtha.2004.06.023 [PubMed] [CrossRef] [Google Scholar]40. Baudouin C, Liang H, Bremond-Gignac D, et al. CCR 4 and CCR 5 expression in conjunctival specimens as differential markers of T(H)1/T(H)2 in ocular surface disorders. J Allergy Clin Immunol. 2005;116(3):614–619. doi: 10.1016/j.jaci.2005.05.033 [PubMed] [CrossRef] [Google Scholar]41. Baudouin C. Detrimental effect of preservatives in eyedrops: implications for the treatment of glaucoma. Acta Ophthalmol (Copenh). 2008;86(7):716–726. doi: 10.1111/j.1755-3768.2008.01250.x [PubMed] [CrossRef] [Google Scholar]42. Pisella PJ, Debbasch C, Hamard P, et al. Conjunctival proinflammatory and proapoptotic effects of latanoprost and preserved and unpreserved timolol: an ex vivo and in vitro study. Invest Ophthalmol Vis Sci. 2004;45(5):1360–1368. doi: 10.1167/iovs.03-1067 [PubMed] [CrossRef] [Google Scholar]43. Martone G, Frezzotti P, Tosi GM, et al. An in vivo confocal microscopy analysis of effects of topical antiglaucoma therapy with preservative on corneal innervation and morphology. Am J Ophthalmol. 2009;147(4):725–735 e721. doi: 10.1016/j.ajo.2008.10.019 [PubMed] [CrossRef] [Google Scholar]44. Wilson WS, Duncan AJ, Jay JL. Effect of benzalkonium chloride on the stability of the precorneal tear film in rabbit and man. Br J Ophthalmol. 1975;59(11):667–669. doi: 10.1136/bjo.59.11.667 [PMC free article] [PubMed] [CrossRef] [Google Scholar]45. Chung SH, Lee SK, Cristol SM, et al. Impact of short-term exposure of commercial eyedrops preserved with benzalkonium chloride on precorneal mucin. Mol Vis. 2006;12:415–421. [PubMed] [Google Scholar]46. Ichijima H, Petroll WM, Jester JV, Cavanagh HD. Confocal microscopic studies of living rabbit cornea treated with benzalkonium chloride. Cornea. 1992;11(3):221–225. [PubMed] [Google Scholar]47. Chen W, Li Z, Hu J, et al. Corneal alternations induced by topical application of benzalkonium chloride in rabbit. PLoS One. 2011;6(10):e26103. doi: 10.1371/journal.pone.0026103 [PMC free article] [PubMed] [CrossRef] [Google Scholar]48. Liang H, Baudouin C, Dupas B, Brignole-Baudouin F. Live conjunctiva-associated lymphoid tissue analysis in rabbit under inflammatory stimuli using in vivo confocal microscopy. Invest Ophthalmol Vis Sci. 2010;51(2):1008–1015. doi: 10.1167/iovs.09-3509 [PubMed] [CrossRef] [Google Scholar]49. Noecker RJ, Herrygers LA, Anwaruddin R. Corneal and conjunctival changes caused by commonly used glaucoma medications. Cornea. 2004;23(5):490–496. [PubMed] [Google Scholar]50. Kahook MY, Noecker R. Quantitative analysis of conjunctival goblet cells after chronic application of topical drops. Adv Ther. 2008;25(8):743–751. doi: 10.1007/s12325-008-0078-y [PubMed] [CrossRef] [Google Scholar]51. Labbe A, Pauly A, Liang H, et al. Comparison of toxicological profiles of benzalkonium chloride and polyquaternium-1: an experimental study. J Ocul Pharmacol Ther. 2006;22(4):267–278. doi: 10.1089/jop.2006.22.267 [PubMed] [CrossRef] [Google Scholar]52. Sarkar J, Chaudhary S, Namavari A, et al. Corneal neurotoxicity due to topical benzalkonium chloride. Invest Ophthalmol Vis Sci. 2012;53(4):1792–1802. doi: 10.1167/iovs.11-8775 [PMC free article] [PubMed] [CrossRef] [Google Scholar]53. Chen W, Zhang Z, Hu J, et al. Changes in rabbit corneal innervation induced by the topical application of benzalkonium chloride. Cornea. 2013;32(12):1599–1606. doi: 10.1097/ICO.0b013e3182a8196f [PubMed] [CrossRef] [Google Scholar]54. Brasnu E, Brignole-Baudouin F, Riancho L, Guenoun JM, Warnet JM, Baudouin C. In vitro effects of preservative-free tafluprost and preserved latanoprost, travoprost, and bimatoprost in a conjunctival epithelial cell line. Curr Eye Res. 2008;33(4):303–312. doi: 10.1080/02713680801971857 [PubMed] [CrossRef] [Google Scholar]55. Guenoun JM, Baudouin C, Rat P, Pauly A, Warnet JM, Brignole-Baudouin F. In vitro study of inflammatory potential and toxicity profile of latanoprost, travoprost, and bimatoprost in conjunctiva-derived epithelial cells. Invest Ophthalmol Vis Sci. 2005;46(7):2444–2450. doi: 10.1167/iovs.04-1331 [PubMed] [CrossRef] [Google Scholar]56. De Saint Jean M, Debbasch C, Brignole F, Rat P, Warnet JM, Baudouin C. Toxicity of preserved and unpreserved antiglaucoma topical drugs in an in vitro model of conjunctival cells. Curr Eye Res. 2000;20(2):85–94. [PubMed] [Google Scholar]57. Debbasch C, Brignole F, Pisella PJ, Warnet JM, Rat P, Baudouin C. Quaternary ammoniums and other preservatives’ contribution in oxidative stress and apoptosis on Chang conjunctival cells. Invest Ophthalmol Vis Sci. 2001;42(3):642–652. [PubMed] [Google Scholar]58. Debbasch C, De La Salle SB, Brignole F, Rat P, Warnet JM, Baudouin C. Cytoprotective effects of hyaluronic acid and Carbomer 934P in ocular surface epithelial cells. Invest Ophthalmol Vis Sci. 2002;43(11):3409–3415. [PubMed] [Google Scholar]59. Debbasch C, Pisella PJ, De Saint Jean M, Rat P, Warnet JM, Baudouin C. Mitochondrial activity and glutathione injury in apoptosis induced by unpreserved and preserved beta-blockers on Chang conjunctival cells. Invest Ophthalmol Vis Sci. 2001;42(11):2525–2533. [PubMed] [Google Scholar]60. Pauly A, Meloni M, Brignole-Baudouin F, Warnet JM, Baudouin C. Multiple endpoint analysis of the 3D-reconstituted corneal epithelium after treatment with benzalkonium chloride: early detection of toxic damage. Invest Ophthalmol Vis Sci. 2009;50(4):1644–1652. doi: 10.1167/iovs.08-2992 [PubMed] [CrossRef] [Google Scholar]61. Pauly A, Brignole-Baudouin F, Guenoun JM, et al. Comparative study of topical anti-allergic eye drops on human conjunctiva-derived cells: responses to histamine and IFN gamma and toxicological profiles. Graefes Arch Clin Exp Ophthalmol. 2007;245(4):534–546. doi: 10.1007/s00417-006-0353-z [PubMed] [CrossRef] [Google Scholar]62. Furrer P, Mayer JM, Gurny R. Ocular tolerance of preservatives and alternatives. Eur J Pharm Biopharm. 2002;53(3):263–280. [PubMed] [Google Scholar]63. Brignole-Baudouin F, Riancho L, Liang H, Baudouin C. Comparative in vitro toxicology study of travoprost polyquad-preserved, travoprost BAK-preserved, and latanoprost BAK-preserved ophthalmic solutions on human conjunctival epithelial cells. Curr Eye Res. 2011;36(11):979–988. doi: 10.3109/02713683.2011.578781 [PubMed] [CrossRef] [Google Scholar]64. Asbell PA. Increasing importance of dry eye syndrome and the ideal artificial tear: consensus views from a roundtable discussion. Curr Med Res Opin. 2006;22(11):2149–2157. doi: 10.1185/030079906X132640 [PubMed] [CrossRef] [Google Scholar]65. LaboratoriesThea. The ABAK(R) system. Available from:
+https://www.laboratoires-thea.com/fr/node/1232. Accessed January10, 2019.66. Prestige. Clear eyes bottle. Available from:
+https://www.cleareyes.com/purerelief/. Accessed April01, 2019.67. Bayer. hydraSense(R) delivery system. Available from:
+https://www.hydrasense.ca/en/eye-care/delivery-system/. Accessed April01, 2019.68. Ursapharm. Comod(R) System. Available from:
+https://www.ursapharm.de/en/systems-and-production/comod-system/. Accessed January10, 2019.69. Goldberg I, Graham SL, Crowston JG, d’Mellow G; Australian, New Zealand Glaucoma Interest G. Clinical audit examining the impact of benzalkonium chloride-free anti-glaucoma medications on patients with symptoms of ocular surface disease. Clin Exp Ophthalmol. 2015;43(3):214–220. doi: 10.1111/ceo.12431 [PubMed] [CrossRef] [Google Scholar]70. Funke S, Beck S, Lorenz K, et al. Analysis of the effects of preservative-free tafluprost on the tear proteome. Am J Transl Res. 2016;8(10):4025–4039. [PMC free article] [PubMed] [Google Scholar]71. Jee D, Park SH, Kim MS, Kim EC. Antioxidant and inflammatory cytokine in tears of patients with dry eye syndrome treated with preservative-free versus preserved eye drops. Invest Ophthalmol Vis Sci. 2014;55(8):5081–5089. doi: 10.1167/iovs.14-14483 [PubMed] [CrossRef] [Google Scholar]72. Kim YH, Jung JC, Jung SY, Yu S, Lee KW, Park YJ. Comparison of the efficacy of fluorometholone with and without benzalkonium chloride in ocular surface disease. Cornea. 2016;35(2):234–242. doi: 10.1097/ICO.0000000000000695 [PMC free article] [PubMed] [CrossRef] [Google Scholar]73. Pauly A, Brasnu E, Riancho L, Brignole-Baudouin F, Baudouin C. Multiple endpoint analysis of BAC-preserved and unpreserved antiallergic eye drops on a 3D-reconstituted corneal epithelial model. Mol Vis. 2011;17:745–755. [PMC free article] [PubMed] [Google Scholar]74. Barabino S, Antonelli S, Cimbolini N, Mauro V, Bouzin M. The effect of preservatives and antiglaucoma treatments on the ocular surface of mice with dry eye. Invest Ophthalmol Vis Sci. 2014;55(10):6499–6504. doi: 10.1167/iovs.14-14548 [PubMed] [CrossRef] [Google Scholar]75. Berdy GJ, Abelson MB, Smith LM, George MA. Preservative-free artificial tear preparations. Assessment of corneal epithelial toxic effects. Arch Ophthalmol. 1992;110(4):528–532. doi: 10.1001/archopht.1992.01080160106043 [PubMed] [CrossRef] [Google Scholar]76. Codling CE, Maillard JY, Russell AD. Aspects of the antimicrobial mechanisms of action of a polyquaternium and an amidoamine. J Antimicrob Chemother. 2003;51(5):1153–1158. doi: 10.1093/jac/dkg228 [PubMed] [CrossRef] [Google Scholar]77. Good RM Jr., Liao JC, Hook MJ, Punko CL. Colorimetric determination of a polymeric quaternary ammonium antimicrobial preservative in an ophthalmic solution. J Assoc Off Anal Chem. 1987;70(6):979–980. [PubMed] [Google Scholar]78. Gibbs D, Stein J, Rockett J, Nicovich-Cushing G. Optifree chemical disinfectant: a safety study with various soft contact lenses. Clao J. 1989;15(1):57–60. [PubMed] [Google Scholar]79. Lopez Bernal D, Ubels JL. Quantitative evaluation of the corneal epithelial barrier: effect of artificial tears and preservatives. Curr Eye Res. 1991;10(7):645–656. [PubMed] [Google Scholar]80. Ammar DA, Noecker RJ, Kahook MY. Effects of benzalkonium chloride-preserved, polyquad-preserved, and sofZia-preserved topical glaucoma medications on human ocular epithelial cells. Adv Ther. 2010;27(11):837–845. [PubMed] [Google Scholar]81. Kahook MY, Ammar DA. In vitro toxicity of topical ocular prostaglandin analogs and preservatives on corneal epithelial cells. J Ocul Pharmacol Ther. 2010;26(3):259–263. doi: 10.1089/jop.2010.0003 [PubMed] [CrossRef] [Google Scholar]82. Whitson JT, Ochsner KI, Moster MR, et al. The safety and intraocular pressure-lowering efficacy of brimonidine tartrate 0.15% preserved with polyquaternium-1. Ophthalmology. 2006;113(8):1333–1339. doi: 10.1016/j.ophtha.2006.03.025 [PubMed] [CrossRef] [Google Scholar]83. Rolando M, Crider JY, Kahook MY. Ophthalmic preservatives: focus on polyquaternium-1. Expert Opin Drug Deliv. 2011;8(11):1425–1438. doi: 10.1517/17425247.2011.617736 [PubMed] [CrossRef] [Google Scholar]84. Tripathi BJ, Tripathi RC, Kolli SP. Cytotoxicity of ophthalmic preservatives on human corneal epithelium. Lens Eye Toxic Res. 1992;9(3–4):361–375. [PubMed] [Google Scholar]85. Kaur IP, Kanwar M. Ocular preparations: the formulation approach. Drug Dev Ind Pharm. 2002;28(5):473–493. doi: 10.1081/DDC-120003445 [PubMed] [CrossRef] [Google Scholar]86. Paimela T, Ryhanen T, Kauppinen A, Marttila L, Salminen A, Kaarniranta K. The preservative polyquaternium-1 increases cytoxicity and NF-kappaB linked inflammation in human corneal epithelial cells. Mol Vis. 2012;18:1189–1196. [PMC free article] [PubMed] [Google Scholar]87. Codling CE, Hann AC, Maillard JY, Russell AD. An investigation into the antimicrobial mechanisms of action of two contact lens biocides using electron microscopy. Cont Lens Anterior Eye. 2005;28(4):163–168. doi: 10.1016/j.clae.2005.08.002 [PubMed] [CrossRef] [Google Scholar]88. McDonnell G, Russell AD. Antiseptics and disinfectants: activity, action, and resistance. Clin Microbiol Rev. 1999;12(1):147–179. [PMC free article] [PubMed] [Google Scholar]89. Maillard JY. Bacterial target sites for biocide action. Symp Ser Soc Appl Microbiol. 2002;31:16S–27S. doi: 10.1046/j.1365-2672.92.5s1.3.x [PubMed] [CrossRef] [Google Scholar]90. Morgan P, Woods C, Tranoudis IG, et al. International contact lens prescribing in 2018. Cont Lens Spectr. 2019;34(2019):26–32. [Google Scholar]91. Khor WB, Aung T, Saw SM, et al. An outbreak of Fusarium keratitis associated with contact lens wear in Singapore. JAMA. 2006;295(24):2867–2873. doi: 10.1001/jama.295.24.2867 [PubMed] [CrossRef] [Google Scholar]92. Chang DC, Grant GB, O’Donnell K, et al. Multistate outbreak of Fusarium keratitis associated with use of a contact lens solution. JAMA. 2006;296(8):953–963. doi: 10.1001/jama.296.8.953 [PubMed] [CrossRef] [Google Scholar]93. Bullock JD, Warwar RE, Elder BL, Northern WI. Temperature instability of ReNu with MoistureLoc: a new theory to explain the worldwide Fusarium keratitis epidemic of 2004–2006. Arch Ophthalmol. 2008;126(11):1493–1498. doi: 10.1001/archopht.126.11.1493 [PubMed] [CrossRef] [Google Scholar]94. Patel A, Hammersmith K. Contact lens-related microbial keratitis: recent outbreaks. Curr Opin Ophthalmol. 2008;19(4):302–306. doi: 10.1097/ICU.0b013e3283045e74 [PubMed] [CrossRef] [Google Scholar]95. Carnt N, Hoffman JJ, Verma S, et al. Acanthamoeba keratitis: confirmation of the UK outbreak and a prospective case-control study identifying contributing risk factors. Br J Ophthalmol. 2018. doi: 10.1136/bjophthalmol-2018-312544 [PubMed] [CrossRef] [Google Scholar]96. Efron N. Putting vital stains in context. Clin Exp Optom. 2013;96(4):400–421. doi: 10.1111/cxo.2013.96.issue-4 [PubMed] [CrossRef] [Google Scholar]97. Andrasko G, Ryen K. Corneal staining and comfort observed with traditional and silicone hydrogel lenses and multipurpose solution combinations. Optometry (St Louis, Mo). 2008;79(8):444–454. doi: 10.1016/j.optm.2008.04.097 [PubMed] [CrossRef] [Google Scholar]98. Carnt N, Jalbert I, Stretton S, Naduvilath T, Papas E. Solution toxicity in soft contact lens daily wear is associated with corneal inflammation. Optom Vis Sci. 2007;84(4):309–315. doi: 10.1097/OPX.0b013e318046551b [PubMed] [CrossRef] [Google Scholar]99. Carnt N, Willcox M, Evans V, et al. Corneal staining: the IER matrix study. Cont Lens Spectr. 2007;22(9):38–43. [Google Scholar]100. Garofalo RJ, Dassanayake N, Carey C, Stein J, Stone R, David R. Corneal staining and subjective symptoms with multipurpose solutions as a function of time. Eye Contact Lens. 2005;31(4):166–174. doi: 10.1097/01.ICL.0000152489.99455.DB [PubMed] [CrossRef] [Google Scholar]101. Andrasko G, Ryen K. A series of evaluations of MPS and silicone hydrogel lens combinations. Rev Cornea Contact Lenses. 2007;143:(March):36–42. [Google Scholar]102. Khan TF, Price BL, Morgan PB, Maldonado-Codina C, Dobson CB. Cellular fluorescein hyperfluorescence is dynamin-dependent and increased by Tetronic 1107 treatment. Int J Biochem Cell Biol. 2018;101:54–63. doi: 10.1016/j.biocel.2018.05.011 [PubMed] [CrossRef] [Google Scholar]103. Morris CA, Maltseva IA, Rogers VA, et al. Consequences of preservative uptake and release by contact lenses. Eye Contact Lens. 2018;44(Suppl 2):S247–S255. doi: 10.1097/ICL.0000000000000480 [PubMed] [CrossRef] [Google Scholar]104. Lazon de la Jara P, Papas E, Diec J, Naduvilath T, Willcox MD, Holden BA. Effect of lens care systems on the clinical performance of a contact lens. Optom Vis Sci. 2013;90(4):344–350. doi: 10.1097/OPX.0b013e318288e10c [PubMed] [CrossRef] [Google Scholar]105. Diec J, Evans VE, Tilia D, Naduvilath T, Holden BA, Lazon de la Jara P. Comparison of ocular comfort, vision, and SICS during silicone hydrogel contact lens daily wear. Eye Contact Lens. 2012;38(1):2–6. doi: 10.1097/ICL.0b013e318239df9f [PubMed] [CrossRef] [Google Scholar]106. Woods J, Jones LW. Pilot study to determine the effect of lens and eye rinsing on Solution-Induced Corneal Staining (SICS). Optom Vis Sci. 2016;93(10):1218–1227. doi: 10.1097/OPX.0000000000000933 [PubMed] [CrossRef] [Google Scholar]107. Jones L, MacDougall N, Sorbara LG. Asymptomatic corneal staining associated with the use of balafilcon silicone-hydrogel contact lenses disinfected with a polyaminopropyl biguanide-preserved care regimen. Optom Vis Sci. 2002;79(12):753–761. [PubMed] [Google Scholar]108. Epstein A. SPK with daily wear of silicone hydrogel lenses and MPS. Cont Lens Spectr. 2002;17(11):30. [Google Scholar]109. Malet F. An acute clinical comparison of corneal staining and comfort associated with contact lens care solutions. Cont Lens Anterior Eye. 2014;37(5):351–357. doi: 10.1016/j.clae.2014.05.007 [PubMed] [CrossRef] [Google Scholar]110. Berntsen DA, Hickson-Curran SB, Jones LW, et al. Subjective comfort and physiology with modern contact lens care products. Optom Vis Sci. 2016;93(8):809–819. doi: 10.1097/OPX.0000000000000901 [PubMed] [CrossRef] [Google Scholar]111. Hardberger R, Hanna C, Boyd CM. Effects of drug vehicles on ocular contact time. Arch Ophthalmol. 1975;93(1):42–45. doi: 10.1001/archopht.1975.01010020046008 [PubMed] [CrossRef] [Google Scholar]112. Napoli PE, Satta GM, Coronella F, Fossarello M. Spectral-domain optical coherence tomography study on dynamic changes of human tears after instillation of artificial tears. Invest Ophthalmol Vis Sci. 2014;55(7):4533–4540. doi: 10.1167/iovs.14-14666 [PubMed] [CrossRef] [Google Scholar]113. Gagliano C, Papa V, Amato R, Malaguarnera G, Avitabile T. Measurement of the retention time of different ophthalmic formulations with ultrahigh-resolution optical coherence tomography. Curr Eye Res. 2018;43(4):499–502. doi: 10.1080/02713683.2017.1418893 [PubMed] [CrossRef] [Google Scholar]114. Brignole-Baudouin F, Riancho L, Liang H, Nakib Z, Baudouin C. In vitro comparative toxicology of polyquad-preserved and benzalkonium chloride-preserved travoprost/timolol fixed combination and latanoprost/timolol fixed combination. J Ocul Pharmacol Ther. 2011;27(3):273–280. doi: 10.1089/jop.2010.0111 [PubMed] [CrossRef] [Google Scholar]115. Ammar DA, Noecker RJ, Kahook MY. Effects of benzalkonium chloride- and polyquad-preserved combination glaucoma medications on cultured human ocular surface cells. Adv Ther. 2011;28(6):501–510. doi: 10.1007/s12325-011-0029-x [PubMed] [CrossRef] [Google Scholar]116. Choy CK, Cho P, Boost MV. Cytotoxicity and effects on metabolism of contact lens care solutions on human corneal epithelium cells. Clin Exp Optom. 2012;95(2):198–206. doi: 10.1111/cxo.2012.95.issue-2 [PubMed] [CrossRef] [Google Scholar]117. Liang H, Brignole-Baudouin F, Pauly A, Riancho L, Baudouin C. Polyquad-preserved travoprost/timolol, benzalkonium chloride (BAK)-preserved travoprost/timolol, and latanoprost/timolol in fixed combinations: a rabbit ocular surface study. Adv Ther. 2011;28(4):311–325. doi: 10.1007/s12325-011-0003-7 [PubMed] [CrossRef] [Google Scholar]118. Lee HJ, Jun RM, Cho MS, Choi KR. Comparison of the ocular surface changes following the use of two different prostaglandin F2alpha analogues containing benzalkonium chloride or polyquad in rabbit eyes. Cutan Ocul Toxicol. 2015;34(3):195–202. doi: 10.3109/15569527.2014.944650 [PubMed] [CrossRef] [Google Scholar]119. Ubels JL, Clousing DP, Van Haitsma TA, et al. Pre-clinical investigation of the efficacy of an artificial tear solution containing hydroxypropyl-guar as a gelling agent. Curr Eye Res. 2004;28(6):437–444. doi: 10.1080/02713680490503787 [PubMed] [CrossRef] [Google Scholar]120. Marsovszky L, Resch MD, Visontai Z, Nemeth J. Confocal microscopy of epithelial and langerhans cells of the cornea in patients using travoprost drops containing two different preservatives. Pathol Oncol Res. 2014;20(3):741–746. doi: 10.1007/s12253-014-9755-0 [PubMed] [CrossRef] [Google Scholar]121. El Hajj Moussa WG, Farhat RG, Nehme JC, et al. Comparison of efficacy and ocular surface disease index score between bimatoprost, latanoprost, travoprost, and tafluprost in glaucoma patients. J Ophthalmol. 2018;2018:1319628. doi: 10.1155/2018/1319628 [PMC free article] [PubMed] [CrossRef] [Google Scholar]122. Astakhov YS, Astakhov SY, Lisochkina AB. Assessment of dry eye signs and symptoms and ocular tolerance of a preservative-free lacrimal substitute (Hylabak(R)) versus a preserved lacrimal substitute (Systane(R)) used for 3 months in patients after LASIK. Clin Ophthalmol. 2013;7:2289–2297. [PMC free article] [PubMed] [Google Scholar]123. Larkin DF, Kilvington S, Dart JK. Treatment of Acanthamoeba keratitis with polyhexamethylene biguanide. Ophthalmology. 1992;99(2):185–191. [PubMed] [Google Scholar]124. Grant R, Ajello M, Vlass E. Salt water or high tech? A look at two new rinsing solutions for contact lenses. Optician. 1996;212(5567):38–41. [Google Scholar]125. Noecker R. Effects of common ophthalmic preservatives on ocular health. Adv Ther. 2001;18(5):205–215. [PubMed] [Google Scholar]126. Kaur IP, Lal S, Rana C, Kakkar S, Singh H. Ocular preservatives: associated risks and newer options. Cutan Ocul Toxicol. 2009;28(3):93–103. doi: 10.1080/15569520902995834 [PubMed] [CrossRef] [Google Scholar]127. Xu M, Sivak JG, McCanna DJ. Comparison of the effects of ophthalmic solutions on human corneal epithelial cells using fluorescent dyes. J Ocul Pharmacol Ther. 2013;29(9):794–802. doi: 10.1089/jop.2013.0002 [PubMed] [CrossRef] [Google Scholar]128. Epstein SP, Ahdoot M, Marcus E, Asbell PA. Comparative toxicity of preservatives on immortalized corneal and conjunctival epithelial cells. J Ocul Pharmacol Ther. 2009;25(2):113–119. doi: 10.1089/jop.2008.0098 [PMC free article] [PubMed] [CrossRef] [Google Scholar]129. Zhang H, Wu H, Yang J, Ye J. Sodium perbarate and benzalkonium chloride induce DNA damage in Chang conjunctival epithelial cells. Cutan Ocul Toxicol. 2017;36(4):336–342. doi: 10.1080/15569527.2017.1291664 [PubMed] [CrossRef] [Google Scholar]130. Cristaldi M, Olivieri M, Lupo G, Anfuso CD, Pezzino S, Rusciano D. N-hydroxymethylglycinate with EDTA is an efficient eye drop preservative with very low toxicity: an in vitro comparative study. Cutan Ocul Toxicol. 2018;37(1):71–76. doi: 10.1080/15569527.2017.1347942 [PubMed] [CrossRef] [Google Scholar]131. Kaur IP, Smitha R, Aggarwal D, Kapil M. Acetazolamide: future perspective in topical glaucoma therapeutics. Int J Pharm. 2002;248(1–2):1–14. [PubMed] [Google Scholar]132. Oyejide A, Matsumoto S, Chang J, et al. Comparative ocular histopathological effects of eye drops containing Purite(R) (Oxychloro Complex) or benzalkonium chloride preservatives in rabbits. Invest Ophthalmol Vis Sci. 2003;44(13):1365. [Google Scholar]133. Dutescu RM, Panfil C, Schrage N. Comparison of the effects of various lubricant eye drops on the in vitro rabbit corneal healing and toxicity. Exp Toxicol Pathol. 2017;69(3):123–129. doi: 10.1016/j.etp.2016.12.002 [PubMed] [CrossRef] [Google Scholar]134. Schrage N, Frentz M, Spoeler F. The Ex Vivo Eye Irritation Test (EVEIT) in evaluation of artificial tears: purite-preserved versus unpreserved eye drops. Graefes Arch Clin Exp Ophthalmol. 2012;250(9):1333–1340. doi: 10.1007/s00417-012-1999-3 [PubMed] [CrossRef] [Google Scholar]135. Zheng LL, Myung DS, Yu CQ, Ta CN. Comparative in vitro cytotoxicity of artificial tears. JSM Ophthalmol. 2015;3(1):1026. [Google Scholar]136. Kahook MY, Noecker RJ. Comparison of corneal and conjunctival changes after dosing of travoprost preserved with sofZia, latanoprost with 0.02% benzalkonium chloride, and preservative-free artificial tears. Cornea. 2008;27(3):339–343. doi: 10.1097/ICO.0b013e31815cf651 [PubMed] [CrossRef] [Google Scholar]137. Jayanthi CR, Divyashree RN, Sujatha BL. Efficacy and safety of topical BAK-free travoprost 0.004% versus BAK-preserved travoprost 0.004% in the treatment of primary open angle glaucoma: a comparative study at a tertiary care hospital. Int J Basic Clin Pharmacol. 2017;6(9):2199–2205. doi: 10.18203/2319-2003.ijbcp20173744 [CrossRef] [Google Scholar]138. Aihara M, Oshima H, Araie M; group EXs. Effects of SofZia-preserved travoprost and benzalkonium chloride-preserved latanoprost on the ocular surface – a multicentre randomized single-masked study. Acta Ophthalmol (Copenh). 2013;91(1):e7–e14. doi: 10.1111/j.1755-3768.2012.02565.x [PubMed] [CrossRef] [Google Scholar]Articles from Clinical Ophthalmology (Auckland, N.Z.) are provided here courtesy of Dove Press
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (583K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

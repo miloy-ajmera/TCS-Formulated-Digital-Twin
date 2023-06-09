@@ -1,0 +1,5701 @@
+Document Name: role of IMWITOR 780 in Cover Cream4
+Document link: https://patents.google.com/patent/US4446051A/en
+
+
+
+US4446051A - Water-in-oil emulsions 
+        - Google Patents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US4446051A - Water-in-oil emulsions 
+        - Google Patents
+Water-in-oil emulsions 
+       
+
+Download PDF
+Info
+
+Publication number
+US4446051A
+
+
+
+US4446051A
+US06/298,563
+US29856381A
+US4446051A
+US 4446051 A
+US4446051 A
+US 4446051A
+ 
+ 
+ 
+US 29856381 A
+US29856381 A
+US 29856381A
+US 4446051 A
+US4446051 A
+US 4446051A
+Authority
+US
+United States
+Prior art keywords
+emulsion
+water
+weight
+oil
+magnesium
+Prior art date
+1980-09-15
+Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+
+Expired - Fee Related
+
+
+Application number
+US06/298,563
+Inventor
+Daniel P. M. Berthod
+Simone Ferret
+Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+
+    CPPD Inc A CORP OF
+  
+Original Assignee
+Lever Brothers Co
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+1980-09-15
+Filing date
+1981-09-02
+Publication date
+1984-05-01
+
+
+Priority claimed from EP80303230
+external-priority
+
+
+1981-09-02
+Application filed by Lever Brothers Co
+filed
+Critical
+Lever Brothers Co
+
+
+1982-01-25
+Assigned to LEVER BROTHERS COMPANY, A CORP. OF ME.
+reassignment
+LEVER BROTHERS COMPANY, A CORP. OF ME.
+ASSIGNMENT OF ASSIGNORS INTEREST.
+Assignors: BERTHOD, DANIEL P. M., FERRET, SIMONE
+
+
+1984-05-01
+Application granted
+granted
+Critical
+
+
+1984-05-01
+Publication of US4446051A
+publication
+Critical
+patent/US4446051A/en
+
+
+1988-05-12
+Assigned to CPPD, INC., A CORP. OF IL
+reassignment
+CPPD, INC., A CORP. OF IL
+ASSIGNMENT OF ASSIGNORS INTEREST.
+Assignors: LEVER BROTHERS COMPANY, A CORP. OF ME
+
+
+2001-09-02
+Anticipated expiration
+legal-status
+Critical
+
+
+Status
+Expired - Fee Related
+legal-status
+Critical
+Current
+
+Links
+
+
+
+USPTO
+
+
+
+USPTO PatentCenter
+
+
+
+USPTO Assignment
+
+
+
+Espacenet
+
+
+
+Global Dossier
+
+
+
+Discuss
+
+
+
+
+239000000839
+emulsion
+Substances
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+230
+
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+
+
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+claims
+abstract
+description
+56
+
+
+239000003995
+emulsifying agent
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+40
+
+
+239000004927
+clay
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+38
+
+
+229910052570
+clay
+Inorganic materials
+
+
+
+
+0.000
+claims
+abstract
+description
+38
+
+
+KARVSHNNUWMXFO-UHFFFAOYSA-N
+dioxosilane;oxo(oxoalumanyloxy)alumane;hydrate
+Chemical compound
+
+
+O.O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Si]=O.O=[Al]O[Al]=O
+KARVSHNNUWMXFO-UHFFFAOYSA-N
+0.000
+claims
+abstract
+description
+38
+
+
+229910052901
+montmorillonite
+Inorganic materials
+
+
+
+
+0.000
+claims
+abstract
+description
+38
+
+
+239000007788
+liquid
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+26
+
+
+239000007762
+w/o emulsion
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+24
+
+
+125000000129
+anionic group
+Chemical group
+
+
+
+
+0.000
+claims
+abstract
+description
+16
+
+
+239000012071
+phase
+Substances
+
+
+
+
+0.000
+claims
+description
+94
+
+
+239000003921
+oil
+Substances
+
+
+
+
+0.000
+claims
+description
+82
+
+
+239000006071
+cream
+Substances
+
+
+
+
+0.000
+claims
+description
+68
+
+
+239000008346
+aqueous phase
+Substances
+
+
+
+
+0.000
+claims
+description
+38
+
+
+159000000003
+magnesium salts
+Chemical class
+
+
+
+
+0.000
+claims
+description
+34
+
+
+239000011734
+sodium
+Substances
+
+
+
+
+0.000
+claims
+description
+22
+
+
+239000000203
+mixture
+Substances
+
+
+
+
+0.000
+claims
+description
+20
+
+
+KEAYESYHFKHZAL-UHFFFAOYSA-N
+sodium
+Chemical compound
+
+
+[Na]
+KEAYESYHFKHZAL-UHFFFAOYSA-N
+0.000
+claims
+description
+18
+
+
+229910052708
+sodium
+Inorganic materials
+
+
+
+
+0.000
+claims
+description
+18
+
+
+WRUGWIBCXHJTDG-UHFFFAOYSA-L
+magnesium sulfate heptahydrate
+Chemical compound
+
+
+O.O.O.O.O.O.O.[Mg+2].[O-]S([O-])(=O)=O
+WRUGWIBCXHJTDG-UHFFFAOYSA-L
+0.000
+claims
+description
+16
+
+
+239000007795
+chemical reaction product
+Substances
+
+
+
+
+0.000
+claims
+description
+14
+
+
+150000003242
+quaternary ammonium salts
+Chemical class
+
+
+
+
+0.000
+claims
+description
+14
+
+
+235000014113
+dietary fatty acids
+Nutrition
+
+
+
+
+0.000
+claims
+description
+12
+
+
+239000000194
+fatty acid
+Substances
+
+
+
+
+0.000
+claims
+description
+12
+
+
+CSNNHWWHGAXBCP-UHFFFAOYSA-L
+mgso4
+Chemical compound
+
+
+[Mg+2].[O-][S+2]([O-])([O-])[O-]
+CSNNHWWHGAXBCP-UHFFFAOYSA-L
+0.000
+claims
+description
+12
+
+
+239000003760
+tallow
+Substances
+
+
+
+
+0.000
+claims
+description
+12
+
+
+239000006210
+lotion
+Substances
+
+
+
+
+0.000
+claims
+description
+10
+
+
+238000004519
+manufacturing process
+Methods
+
+
+
+
+0.000
+claims
+description
+8
+
+
+238000002156
+mixing
+Methods
+
+
+
+
+0.000
+claims
+description
+8
+
+
+229910052943
+magnesium sulfate
+Inorganic materials
+
+
+
+
+0.000
+claims
+description
+6
+
+
+235000019341
+magnesium sulphate
+Nutrition
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000007864
+aqueous solution
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000000499
+gel
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+LFCFXZHKDRJMNS-UHFFFAOYSA-L
+magnesium;sulfate;hydrate
+Chemical compound
+
+
+O.[Mg+2].[O-]S([O-])(=O)=O
+LFCFXZHKDRJMNS-UHFFFAOYSA-L
+0.000
+claims
+description
+4
+
+
+101700042500
+str6
+Proteins
+
+
+
+
+0.000
+claims
+2
+
+
+210000003491
+Skin
+Anatomy
+
+
+
+
+0.000
+abstract
+description
+76
+
+
+239000011780
+sodium chloride
+Substances
+
+
+
+
+0.000
+abstract
+description
+18
+
+
+150000003839
+salts
+Chemical class
+
+
+
+
+0.000
+abstract
+description
+16
+
+
+230000000699
+topical
+Effects
+
+
+
+
+0.000
+abstract
+description
+16
+
+
+FYYHWMGAXLPEAU-UHFFFAOYSA-N
+magnesium
+Chemical compound
+
+
+[Mg]
+FYYHWMGAXLPEAU-UHFFFAOYSA-N
+0.000
+abstract
+description
+12
+
+
+239000011777
+magnesium
+Substances
+
+
+
+
+0.000
+abstract
+description
+12
+
+
+229910052749
+magnesium
+Inorganic materials
+
+
+
+
+0.000
+abstract
+description
+12
+
+
+239000008278
+cosmetic cream
+Substances
+
+
+
+
+0.000
+abstract
+2
+
+
+239000000047
+product
+Substances
+
+
+
+
+0.000
+description
+28
+
+
+238000003860
+storage
+Methods
+
+
+
+
+0.000
+description
+26
+
+
+239000004615
+ingredient
+Substances
+
+
+
+
+0.000
+description
+20
+
+
+229940101631
+quaternium-18 hectorite
+Drugs
+
+
+
+
+0.000
+description
+18
+
+
+NLYAJNPCOHFWQQ-UHFFFAOYSA-N
+oxo-oxoalumanyloxy-[oxo(oxoalumanyloxy)silyl]oxysilane;dihydrate
+Chemical group
+
+
+O.O.O=[Al]O[Si](=O)O[Si](=O)O[Al]=O
+NLYAJNPCOHFWQQ-UHFFFAOYSA-N
+0.000
+description
+16
+
+
+239000002537
+cosmetic
+Substances
+
+
+
+
+0.000
+description
+14
+
+
+230000000694
+effects
+Effects
+
+
+
+
+0.000
+description
+14
+
+
+239000002304
+perfume
+Substances
+
+
+
+
+0.000
+description
+12
+
+
+229940091250
+Magnesium supplements
+Drugs
+
+
+
+
+0.000
+description
+10
+
+
+239000004480
+active ingredient
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+238000009472
+formulation
+Methods
+
+
+
+
+0.000
+description
+10
+
+
+229940058015
+1,3-butylene glycol
+Drugs
+
+
+
+
+0.000
+description
+8
+
+
+229940057429
+SORBITAN ISOSTEARATE
+Drugs
+
+
+
+
+0.000
+description
+8
+
+
+FGUZFFWTBWJBIL-XWVZOOPGSA-N
+[(1R)-1-[(2S,3R,4S)-3,4-dihydroxyoxolan-2-yl]-2-hydroxyethyl] 16-methylheptadecanoate
+Chemical compound
+
+
+CC(C)CCCCCCCCCCCCCCC(=O)O[C@H](CO)[C@H]1OC[C@H](O)[C@H]1O
+FGUZFFWTBWJBIL-XWVZOOPGSA-N
+0.000
+description
+8
+
+
+235000019437
+butane-1,3-diol
+Nutrition
+
+
+
+
+0.000
+description
+8
+
+
+PUPZLCDOIYMWBV-UHFFFAOYSA-N
+butylene glycol
+Chemical compound
+
+
+CC(O)CCO
+PUPZLCDOIYMWBV-UHFFFAOYSA-N
+0.000
+description
+8
+
+
+239000003795
+chemical substances by application
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+MFUVDXOKPBAHMC-UHFFFAOYSA-N
+magnesium;dinitrate;hexahydrate
+Chemical compound
+
+
+O.O.O.O.O.O.[Mg+2].[O-][N+]([O-])=O.[O-][N+]([O-])=O
+MFUVDXOKPBAHMC-UHFFFAOYSA-N
+0.000
+description
+8
+
+
+-1
+oleyl ether
+Chemical compound
+
+
+
+
+0.000
+description
+8
+
+
+238000002360
+preparation method
+Methods
+
+
+
+
+0.000
+description
+8
+
+
+102000008186
+Collagen
+Human genes
+
+
+
+
+0.000
+description
+6
+
+
+108010035532
+Collagen
+Proteins
+
+
+
+
+0.000
+description
+6
+
+
+TWRXJAOTZQYOKJ-UHFFFAOYSA-L
+MgCl2
+Chemical compound
+
+
+[Mg+2].[Cl-].[Cl-]
+TWRXJAOTZQYOKJ-UHFFFAOYSA-L
+0.000
+description
+6
+
+
+NWGKJDSIEKMTRX-BFWOXRRGSA-N
+[(2R)-2-[(3R,4S)-3,4-dihydroxyoxolan-2-yl]-2-hydroxyethyl] (Z)-octadec-9-enoate
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCC(=O)OC[C@@H](O)C1OC[C@H](O)[C@H]1O
+NWGKJDSIEKMTRX-BFWOXRRGSA-N
+0.000
+description
+6
+
+
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+carbon
+Chemical compound
+
+
+[C]
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+0.000
+description
+6
+
+
+229960005188
+collagen
+Drugs
+
+
+
+
+0.000
+description
+6
+
+
+229920001436
+collagen
+Polymers
+
+
+
+
+0.000
+description
+6
+
+
+238000001816
+cooling
+Methods
+
+
+
+
+0.000
+description
+6
+
+
+239000003974
+emollient agent
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000000413
+hydrolysate
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+BARWIPMJPCRCTP-CLFAGFIQSA-N
+oleyl oleate
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCCOC(=O)CCCCCCC\C=C/CCCCCCCC
+BARWIPMJPCRCTP-CLFAGFIQSA-N
+0.000
+description
+6
+
+
+239000000825
+pharmaceutical preparation
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+125000001438
+phenoxymethylpenicilloyl group
+Chemical group
+
+
+
+
+0.000
+description
+6
+
+
+230000035807
+sensation
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+239000007787
+solid
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+230000036572
+transepidermal water loss
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+239000001993
+wax
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+CUNWUEBNSZSNRX-RKGWDQTMSA-N
+(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol;(Z)-octadec-9-enoic acid
+Chemical compound
+
+
+OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.CCCCCCCC\C=C/CCCCCCCC(O)=O.CCCCCCCC\C=C/CCCCCCCC(O)=O.CCCCCCCC\C=C/CCCCCCCC(O)=O
+CUNWUEBNSZSNRX-RKGWDQTMSA-N
+0.000
+description
+4
+
+
+KWVPFECTOKLOBL-KTKRTIGZSA-N
+2-[(Z)-octadec-9-enoxy]ethanol
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCCOCCO
+KWVPFECTOKLOBL-KTKRTIGZSA-N
+0.000
+description
+4
+
+
+RJQQOKKINHMXIM-UHFFFAOYSA-N
+2-hydroxypropanoate;tris(2-hydroxyethyl)azanium
+Chemical compound
+
+
+CC(O)C(O)=O.OCCN(CCO)CCO
+RJQQOKKINHMXIM-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+235000009355
+Dianthus caryophyllus
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+240000006497
+Dianthus caryophyllus
+Species
+
+
+
+
+0.000
+description
+4
+
+
+WHUUTDBJXJRKMK-VKHMYHEASA-N
+L-glutamic acid
+Chemical compound
+
+
+OC(=O)[C@@H](N)CCC(O)=O
+WHUUTDBJXJRKMK-VKHMYHEASA-N
+0.000
+description
+4
+
+
+UEGPKNKPLBYCNK-UHFFFAOYSA-L
+Magnesium acetate
+Chemical compound
+
+
+[Mg+2].CC([O-])=O.CC([O-])=O
+UEGPKNKPLBYCNK-UHFFFAOYSA-L
+0.000
+description
+4
+
+
+OTCKOJUMXQWKQG-UHFFFAOYSA-L
+Magnesium bromide
+Chemical compound
+
+
+[Mg+2].[Br-].[Br-]
+OTCKOJUMXQWKQG-UHFFFAOYSA-L
+0.000
+description
+4
+
+
+229940050906
+Magnesium chloride hexahydrate
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+YYGNTYWPHWGJRM-RUSDCZJESA-N
+Squalene
+Natural products
+
+
+C(=C\CC/C(=C\CC/C=C(\CC/C=C(\CC/C=C(\C)/C)/C)/C)/C)(\CC/C=C(\C)/C)/C
+YYGNTYWPHWGJRM-RUSDCZJESA-N
+0.000
+description
+4
+
+
+PRXRUNOAOLTIEF-XDTJCZEISA-N
+[2-[(2R,3S,4R)-4-hydroxy-3-[(Z)-octadec-9-enoyl]oxyoxolan-2-yl]-2-[(Z)-octadec-9-enoyl]oxyethyl] (Z)-octadec-9-enoate
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCC(=O)OCC(OC(=O)CCCCCCC\C=C/CCCCCCCC)[C@H]1OC[C@@H](O)[C@@H]1OC(=O)CCCCCCC\C=C/CCCCCCCC
+PRXRUNOAOLTIEF-XDTJCZEISA-N
+0.000
+description
+4
+
+
+125000000217
+alkyl group
+Chemical group
+
+
+
+
+0.000
+description
+4
+
+
+150000007942
+carboxylates
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+230000003247
+decreasing
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+SASYSVUEVMOWPL-NXVVXOECSA-N
+decyl oleate
+Chemical compound
+
+
+CCCCCCCCCCOC(=O)CCCCCCC\C=C/CCCCCCCC
+SASYSVUEVMOWPL-NXVVXOECSA-N
+0.000
+description
+4
+
+
+239000003792
+electrolyte
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000002708
+enhancing
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+238000001704
+evaporation
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+DHMQDGOQFOQNFH-UHFFFAOYSA-N
+glycine
+Chemical compound
+
+
+NCC(O)=O
+DHMQDGOQFOQNFH-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+238000010348
+incorporation
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+JVTAAEKCZFNVCJ-UHFFFAOYSA-M
+lactate
+Chemical compound
+
+
+CC(O)C([O-])=O
+JVTAAEKCZFNVCJ-UHFFFAOYSA-M
+0.000
+description
+4
+
+
+239000011654
+magnesium acetate
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+229940069446
+magnesium acetate
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+235000011285
+magnesium acetate
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+229910001623
+magnesium bromide
+Inorganic materials
+
+
+
+
+0.000
+description
+4
+
+
+229960002337
+magnesium chloride
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+229910001629
+magnesium chloride
+Inorganic materials
+
+
+
+
+0.000
+description
+4
+
+
+LGLXXNHIGIJYQQ-UHFFFAOYSA-L
+magnesium;dibromide;hexahydrate
+Chemical compound
+
+
+O.O.O.O.O.O.[Mg+2].[Br-].[Br-]
+LGLXXNHIGIJYQQ-UHFFFAOYSA-L
+0.000
+description
+4
+
+
+238000005259
+measurement
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+239000002480
+mineral oil
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000000843
+powder
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000002335
+preservative
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+239000003755
+preservative agent
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000003380
+propellant
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+FAPWRFPIFSIZLT-UHFFFAOYSA-M
+sodium chloride
+Chemical compound
+
+
+[Na+].[Cl-]
+FAPWRFPIFSIZLT-UHFFFAOYSA-M
+0.000
+description
+4
+
+
+230000003019
+stabilising
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+239000003381
+stabilizer
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+229940062461
+triethanolamine lactate
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+AQXYVFBSOOBBQV-UHFFFAOYSA-N
+1-amino-4-hydroxyanthracene-9,10-dione
+Chemical compound
+
+
+O=C1C2=CC=CC=C2C(=O)C2=C1C(O)=CC=C2N
+AQXYVFBSOOBBQV-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+ASKIVFGGGGIGKH-UHFFFAOYSA-N
+2,3-dihydroxypropyl 16-methylheptadecanoate
+Chemical compound
+
+
+CC(C)CCCCCCCCCCCCCCC(=O)OCC(O)CO
+ASKIVFGGGGIGKH-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+SFAAOBGYWOUHLU-UHFFFAOYSA-N
+2-ethylhexyl hexadecanoate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCC(=O)OCC(CC)CCCC
+SFAAOBGYWOUHLU-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+AGNTUZCMJBTHOG-UHFFFAOYSA-N
+3-[3-(2,3-dihydroxypropoxy)-2-hydroxypropoxy]propane-1,2-diol
+Chemical compound
+
+
+OCC(O)COCC(O)COCC(O)CO
+AGNTUZCMJBTHOG-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+101700041492
+CYS3
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+241001340526
+Chrysoclista linneella
+Species
+
+
+
+
+0.000
+description
+2
+
+
+GJQLBGWSDGMZKM-UHFFFAOYSA-N
+Ethylhexyl palmitate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCC(=O)OC(CC)CCCCC
+GJQLBGWSDGMZKM-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000004471
+Glycine
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940001447
+Lactate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229960000448
+Lactic acid
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000004166
+Lanolin
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940039717
+Lanolin
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+102100013525
+MARCOL
+Human genes
+
+
+
+
+0.000
+description
+2
+
+
+101710003730
+MARCOL
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+BLQJIBCZHWBKSL-UHFFFAOYSA-L
+Magnesium iodide
+Chemical compound
+
+
+[Mg+2].[I-].[I-]
+BLQJIBCZHWBKSL-UHFFFAOYSA-L
+0.000
+description
+2
+
+
+ALSTYHKOOCGGFT-KTKRTIGZSA-N
+Oleyl alcohol
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCCO
+ALSTYHKOOCGGFT-KTKRTIGZSA-N
+0.000
+description
+2
+
+
+239000005662
+Paraffin oil
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920003171
+Poly (ethylene oxide)
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229920002367
+Polyisobutene
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+206010039792
+Seborrhoea
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+229940005581
+Sodium Lactate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+NGSFWBMYFKHRBD-UHFFFAOYSA-M
+Sodium lactate
+Chemical compound
+
+
+[Na+].CC(O)C([O-])=O
+NGSFWBMYFKHRBD-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+229960005078
+Sorbitan sesquioleate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000004147
+Sorbitan trioleate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229960000391
+Sorbitan trioleate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+PRAKJMSDJKAYCZ-UHFFFAOYSA-N
+Squalane
+Chemical compound
+
+
+CC(C)CCCC(C)CCCC(C)CCCCC(C)CCCC(C)CCCC(C)C
+PRAKJMSDJKAYCZ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940031439
+Squalene
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940099259
+Vaseline
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+NWGKJDSIEKMTRX-AAZCQSIUSA-N
+[(2R)-2-[(2R,3R,4S)-3,4-dihydroxyoxolan-2-yl]-2-hydroxyethyl] (Z)-octadec-9-enoate
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCC(=O)OC[C@@H](O)[C@H]1OC[C@H](O)[C@H]1O
+NWGKJDSIEKMTRX-AAZCQSIUSA-N
+0.000
+description
+2
+
+
+NWGKJDSIEKMTRX-NZAQQJATSA-N
+[2-[(2R,3S,4R)-3,4-dihydroxyoxolan-2-yl]-2-hydroxyethyl] (Z)-octadec-9-enoate
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCC(=O)OCC(O)[C@H]1OC[C@@H](O)[C@@H]1O
+NWGKJDSIEKMTRX-NZAQQJATSA-N
+0.000
+description
+2
+
+
+238000009825
+accumulation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000002411
+adverse
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000000443
+aerosol
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000010775
+animal oil
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000000111
+anti-oxidant
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000001166
+anti-perspirant
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000003963
+antioxidant agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000003213
+antiperspirant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000015556
+catabolic process
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+125000002091
+cationic group
+Chemical group
+
+
+
+
+0.000
+description
+2
+
+
+230000000052
+comparative effect
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000001351
+cycling
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000008367
+deionised water
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002781
+deodorant agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229960005215
+dichloroacetic acid
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+230000001804
+emulsifying
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+RTZKZFJDLAIYFH-UHFFFAOYSA-N
+ether
+Substances
+
+
+CCOCC
+RTZKZFJDLAIYFH-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000003925
+fat
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000002191
+fatty alcohols
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+238000007710
+freezing
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000002070
+germicidal
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+glycol
+Chemical compound
+
+
+OCCO
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+230000035876
+healing
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000003906
+humectant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000002847
+impedance measurement
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000004310
+lactic acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000014655
+lactic acid
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000019388
+lanolin
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+230000002045
+lasting
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+DHRRIBDTHFBPNG-UHFFFAOYSA-L
+magnesium dichloride hexahydrate
+Chemical compound
+
+
+O.O.O.O.O.O.[Mg+2].[Cl-].[Cl-]
+DHRRIBDTHFBPNG-UHFFFAOYSA-L
+0.000
+description
+2
+
+
+229910001641
+magnesium iodide
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+CKYYFGUIKHUOKJ-UHFFFAOYSA-L
+magnesium;diiodide;octahydrate
+Chemical compound
+
+
+O.O.O.O.O.O.O.O.[Mg+2].[I-].[I-]
+CKYYFGUIKHUOKJ-UHFFFAOYSA-L
+0.000
+description
+2
+
+
+239000000463
+material
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000004200
+microcrystalline wax
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000019808
+microcrystalline wax
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000010446
+mineral oil
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+231100000344
+non-irritating
+Toxicity
+
+
+
+
+0.000
+description
+2
+
+
+230000003000
+nontoxic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+231100000252
+nontoxic
+Toxicity
+
+
+
+
+0.000
+description
+2
+
+
+239000002674
+ointment
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940055577
+oleyl alcohol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000012188
+paraffin wax
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+125000001436
+propyl group
+Chemical group
+
+
+[H]C([*])([H])C([H])([H])C([H])([H])[H]
+
+0.000
+description
+2
+
+
+238000000926
+separation method
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000011664
+signaling
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000002884
+skin cream
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229960002668
+sodium chloride
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000001540
+sodium lactate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000011088
+sodium lactate
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+LUPNKHXLFSSUGS-UHFFFAOYSA-M
+sodium;2,2-dichloroacetate
+Chemical compound
+
+
+[Na+].[O-]C(=O)C(Cl)Cl
+LUPNKHXLFSSUGS-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+239000002904
+solvent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000001593
+sorbitan monooleate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940035049
+sorbitan monooleate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000011069
+sorbitan monooleate
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000019337
+sorbitan trioleate
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000007921
+spray
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000007619
+statistical method
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+238000003756
+stirring
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000000126
+substance
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000516
+sunscreening agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000010257
+thawing
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000002562
+thickening agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000001988
+toxicity
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+231100000419
+toxicity
+Toxicity
+
+
+
+
+0.000
+description
+2
+
+
+239000008158
+vegetable oil
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000003981
+vehicle
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+
+Classifications
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/19—Cosmetics or similar toiletry preparations characterised by the composition containing inorganic ingredients
+
+
+A61K8/26—Aluminium; Compounds thereof
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K47/00—Medicinal preparations characterised by the non-active ingredients used, e.g. carriers or inert additives; Targeting or modifying agents chemically bound to the active ingredient
+
+
+A61K47/02—Inorganic compounds
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K47/00—Medicinal preparations characterised by the non-active ingredients used, e.g. carriers or inert additives; Targeting or modifying agents chemically bound to the active ingredient
+
+
+A61K47/06—Organic compounds, e.g. natural or synthetic hydrocarbons, polyolefins, mineral oil, petrolatum or ozokerite
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/02—Cosmetics or similar toiletry preparations characterised by special physical form
+
+
+A61K8/04—Dispersions; Emulsions
+
+
+A61K8/06—Emulsions
+
+
+A61K8/064—Water-in-oil emulsions, e.g. Water-in-silicone emulsions
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/19—Cosmetics or similar toiletry preparations characterised by the composition containing inorganic ingredients
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K9/00—Medicinal preparations characterised by special physical form
+
+
+A61K9/0012—Galenical forms characterised by the site of application
+
+
+A61K9/0014—Skin, i.e. galenical aspects of topical compositions
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+
+
+
+
+
+Abstract
+
+A high internal phase water-in-oil emulsion comprises, in addition to water, a branched chain non-polar oil, a non-anionic liquid emulsifier having an HLB value of from 1 to 7, and a special montmorillonite clay derivative and a water-soluble salt of magnesium which together stabilize the emulsion. The emulsion is particularly suitable as a cosmetic cream for topical application to the skin.
+
+
+
+
+Description
+
+The invention relates to emulsions. More particularly, the invention relates to high internal phase water-in-oil emulsions suitable for the preparation of cosmetic, pharmaceutical and other products and to methods for the preparation of such emulsions.
+By "high internal phase emulsion" is meant an emulsion in which the volume of the internal phase occupies at least 75% of the total volume of the emulsion.
+Water-in-oil emulsions, other than high internal phase emulsions, have been employed in the formulation of cosmetic and pharmaceutical ointments, emollient creams, lotions and the like. However, while such emulsions can impart desirable characteristics of water-repellancy to the skin and provide a means whereby fats, oils and waxes can be absorbed onto human skin, the use of such emulsions in skin treatment products has sometimes been precluded because they have been implicated in toxicity, skin irritancy or excessive greasiness in use. The problem of instability has also limited the use of high internal phase water-in-oil emulsions in cosmetics and pharmaceutical products where storage stability is a pre-requisite.
+A study was accordingly undertaken to examine the instability of these emulsions and to establish means whereby stability could be improved. It was found, for example, that high internal phase water-in-oil emulsions containing as skin benefit agents a water-soluble metallic salt dissolved in the aqueous phase, are stable for no more than a few days. Syneresis of the internal phase or even separation of the oily and aqueous phases can then generally be seen as an accumulation of oil at the surface of the emulsion.
+This problem has led to the screening of many substances in a search for a stabilising agent whose incorporation in a product based on a high internal phase emulsion would effectively extend the shelf-life of that product at normal storage temperatures.
+It has now been discovered that this problem of instability of the high internal phase emulsion on storage can be overcome by incorporating into the emulsion, in addition to a water-soluble metallic salt, a special montmorillonite clay derivative. The high internal phase emulsions so obtained have excellent storage characteristics in that the water and oil phases do not separate when the emulsion is stored for at least three months, even at a "tropical" temperature of 50Â° C., or when subjected repeatedly to freezing at a temperature of -10Â° and thawing at ambient temperature of +20Â° C.
+These high internal phase emulsions are accordingly suitable for use in the preparation of cosmetic and pharmaceutical products and the like, particularly for topical application to human skin. They lack the aforementioned disadvantages in that they are non-toxic, non-irritating to the skin, not excessively greasy in use and do not suffer from instability on storage.
+It has also been observed that inclusion of the special montmorillonite clay derivative in the emulsion unexpectedly provides a further benefit in addition to that of imparting a very high degree of stability to the emulsion after manufacture and during storage, and that is enabling the emulsion to "break" almost instantly when applied topically to human skin, thus permitting any skin benefit ingredient in the emulsion to be more readily available for uptake by the skin.
+The stability imparted by the special montmorillonite clay derivative is all the more surprising when it is realised how intrinsically unstable are high internal phase water-in-oil emulsions. It is accordingly totally unexpected that the special montmorillonite clay derivative should exhibit, as we have shown, on the one hand stability of the emulsion in its container, while on the other hand allowing the emulsion to "break" when applied topically to the skin.
+Accordingly, the invention provides a high internal phase water-in-oil emulsion, characterised in that it comprises in addition to water:
+(a) a branched chain non-polar oil;
+(b) a non-anionic liquid emulsifier having an HLB value of from 1 to 7;
+(c) a reaction product of sodium magnesium-fluorolithosilicate trioctahedral montmorillonite clay and the quaternary ammonium salt having the formula: ##STR1##  where R represents hydrogenated tallow fatty acid radicals; and (d) a water soluble salt of magnesium.
+The invention also provides a process for preparing a high internal phase water-in-oil emulsion which comprises the steps of:
+(a) mixing the reaction product of a sodium magnesium-fluorolithosilicate trioctahedral montmorillonite clay and the quaternary ammonium salt having the formula: ##STR2##  where R represents hydrogenated tallow fatty acid radicals, with a non-anionic liquid emulsifier having an HLB value of from 1 to 7 and a branched chain non-polar oil to provide an oily phase; and
+(b) homogenising the oily phase with an aqueous phase comprising an aqueous solution of a salt of magnesium and other water soluble ingredients to provide a water-in-oil emulsion in which the aqueous phase forms from 75 to 98% by volume of the emulsion and the oily phase forms from 2 to 25% by volume of the emulsion.
+The emulsion according to the invention consists of an internal phase which is aqueous and an external phase which is oily. It should be explained that water-in-oil emulsions which are not high internal phase emulsions usually consist of from about 1 to 74% by volume of an aqueous phase dispersed in about 99 to 26% by volume of an oily phase. A water-in-oil emulsion consisting of 74% by volume aqueous phase and 26% by volume oily phase represents the theoretical maximum packing volume concentration of rigid monodisperse spheres of water as the internal phase in oil as the external phase. Hence, water-in-oil emulsions containing more than 74% aqueous phase are high internal phase emulsions.
+The water-in-oil emulsion of the invention comprises from 75 to 98%, preferably 80 to 97% by volume of an aqueous phase and from 2 to 25%, preferably 3 to 20% by volume of an oily phase respectively.
+In order to obtain optimum stability of the high internal phase water-in-oil emulsions, it has been shown necessary to select carefully the oil ingredient, the emulsifier and to employ a special montmorillonite clay derivative as a special emulsion stabiliser with the magnesium salt to ensure that the emulsions once made generally remain stable over an extended period of time.
+The Oil
+The oil should preferably be liquid at room temperature (20Â° C.) and should be cosmetically and pharmaceutically acceptable. It is however also possible to employ waxes which can be solid at room temperature. The oil, other oily material and wax are herein referred to as "oil".
+The oil should also be non-polar and should contain branched chain alkyl groups. The preferred oils are highly branched-chain mineral oils.
+Examples of preferred oils are (in decreasing order of preference):
+C10 to C12 isoparaffins such as ISOPAR L (Esso) Polyisobutene such as PARLEAM (Nichiyu) Squalene such as COSBIOL (Laserson & Sabetay)
+Branched chain light paraffin oil such as LYTOL (Witko) or WMl (BP)
+Mineral oil such as MARCOL 82 (Esso) or CARNATION OIL (Witko)
+Petrolactum such as VASELINE (Gerland)
+Microcrystalline wax such as CEREWAX L (La Ceresine)
+Lanolin derivatives such as MODULAN (Amerchol)
+Oleic decylester such as CETIOL V (Henkel)
+Ethyl hexylpalmitate such as WICKENOL 155
+C16 to C18 fatty alcohol di-isooctanoate such as CETIOL SN (Henkel)
+It is also possible to employ vegetable and animal oils, provided that branched-chain alkyl groups are present.
+The quantity of oil in the emulsion is from 1.4 to 24.3%, preferably from 2 to 24%, and most preferably from 2 to 15% by weight of the emulsion.
+If the emulsion contains less than 1.4% oil, it is generally not possible to obtain a stable water-in-oil emulsion, whereas if the emulsion contains more than 24.3% oil, then the emulsion will cease to exhibit the special properties and characteristics attributable to a high internal phase emulsion.
+The Emulsifier
+The emulsifier should be liquid at room temperature (20Â° C.) and be cosmetically and pharmaceutically acceptable; it should also not be anionic in character, otherwise there is a possibility that it will interfere with the stabilising effect of the montmorillonite clay which is cationic in character.
+The emulsifier should have an HLB value of from 1 to 7, preferably from 2 to 6.
+Examples of suitable emulsifiers are (in decreasing order of preference):
+
+ ______________________________________                                    
+                         HLB Value                                        
+______________________________________                                    
+ARLACEL 987 (sorbitan isostearate) by Atlas                               
+                           4.3                                            
+MONTANE 70 (sorbitan isostearate) by Seppic                               
+                           4.3                                            
+CRILL 6 (sorbitan isostearate) by Croda                                   
+                           4.3                                            
+IMWITOR 780K (glycerol monoisostearate) by                                
+                           3.7                                            
+Witko                                                                     
+BRIJ 92 (polyoxyethylene(2)oleyl ether) by                                
+                           4.9                                            
+Atlas                                                                     
+Triglycerol monooleate by PVO International                               
+                           4.0                                            
+ARLACEL 80 (sorbitan monooleate) by Atlas                                 
+                           4.3                                            
+ARLACEL 83 (sorbitan sesquioleate) by Atlas                               
+                           3.7                                            
+ARLACEL 85 (sorbitan trioleate) by Atlas                                  
+                           1.8                                            
+Decaglycerol tetraoleate by PVO International                             
+                           6.0                                            
+Decaglycerol octaoleate by PVO International                              
+                           4.0                                            
+SIMULSOL 92 (polyethoxylated(2)oleyl alcohol)                             
+                           6.7                                            
+by Produits Chimiques de la Montagne Noire                                
+______________________________________                                    
+
+The quantity of emulsifier in the emulsion is from 0.5 to 10%, preferably 2 to 5% by weight of the emulsion.
+If the emulsion contains less than 0.5% of emulsifier, it is unlikely that the emulsion, if obtained, will remain stable on storage, whereas if the emulsion contains more than 10% of emulsifier, the stability of the emulsion can be adversely affected.
+The special montmorillonite clay derivative
+The special montmorillonite clay derivative is a reaction product of a sodium magnesium-fluorolithosilicate trioctahedral montmorillonite clay and the quaternary ammonium salt having the formula: ##STR3## where R represents hydrogenated tallow fatty acid radicals.
+This montmorillonite clay derivative is hereinafter referred to as Quaternium-18 Hectorite. An example of Quaternium-18 Hectorite is BENTONE 38 available from National Lead Industries.
+The quantity of Quaternium-18 Hectorite in the emulsion is from 0.1 to 5%, preferably 0.1 to 1% by weight of the emulsion.
+If the emulsion contains less than 0.1% of the Quaternium-18 Hectorite, it is unlikely that the emulsion will remain stable on storage, whereas if the emulsion contains more than 5% Quaternium-18 Hectorite, the emulsion is likely to be too viscous to employ as a cosmetic or pharmaceutical product, particularly for topical application to the skin.
+The water soluble magnesium salt
+The emulsion of the invention also comprises a water-soluble magnesium salt which not only serves to provide an additional cosmetic benefit to the emulsion when applied topically to human skin, but which also further enhances the stability of the emulsion during storage after manufacture and before use.
+Thus, it has been shown that water-in-oil high internal phase emulsions comprising a branched chain non-polar oil, a non-anionic liquid emulsifier and the montmorillonite clay, but without magnesium salt in the aqueous phase, are stable under ambient storage conditions for only a few days or weeks. The further incorporation of a water-soluble magnesium salt into such a high internal phase emulsion dramatically enhances their stability such that they can remain stable, even at a storage temperature of from -5Â° C. to 60Â° C., for many months or even years without showing any sign of syneresis.
+Accordingly, it is an important feature of the invention that the water-in-oil high internal phase emulsions comprise both the montmorillonite clay, as herein described, and the water-soluble salt of magnesium.
+The water soluble salt of magnesium
+Examples of suitable water-soluble salts of magnesium are magnesium sulphate, magnesium sulphate heptahydrate, magnesium sulphate monohydrate, magnesium acetate, magnesium bromide, magnesium bromide hexahydrate, magnesium chloride, magnesium chloride hexahydrate, magnesium iodide, magnesium iodide octahydrate and magnesium nitrate hexahydrate. The preferred magnesium salt is magnesium sulphate heptahydrate.
+The quantity of the water-soluble magnesium salt present in the emulsion will usually be from 0.1 to 5%, preferably from 0.1 to 2% by weight of the emulsion; the actual amount employed will depend on which magnesium salt is selected. As a general rule it can be stated that the concentration of the water-soluble magnesium salt in terms of the emulsion will be from 0.003 to 0.5 M.
+If the emulsion contains less than 0.1% by weight of the magnesium salt, it is unlikely that the stability of the emulsion will be improved beyond that due to the presence of the Quaternium-18 Hectorite, whereas if the emulsion contains more than 5% by weight of the magnesium salt, it is unlikely that the stabilisation of the emulsion can be further enhanced.
+Water
+The emulsion also comprises water. The quantity of water in the emulsion is from 0.1 to 97.9%, preferably 1 to 97, most preferably 60 to 95% by weight of the emulsion.
+If the emulsion contains more than 97.9% of water, the stability of the emulsion on storage is likely to be poor and syneresis can occur.
+Cosmetically and Pharmaceutically Active Ingredients
+The emulsion according to the invention can be employed as a vehicle for a wide variety of cosmetically or pharmaceutically active ingredients, particularly ingredients which have some beneficial effect when applied to the skin.
+The emulsion thus provides a means whereby such active ingredients can be diluted, preserved, conveyed to and distributed on the skin surface at an appropriate concentration.
+Especially preferred examples of active ingredients include moisturisers such as: sodium pyrollidone carboxylate, sodium lactate, lactic acid, triethanolamine lactate and sodium chloride.
+Examples of other active ingredients that can also be employed include sunscreen agents, germicides, deodorants, antiperspirants, healing agents.
+Functional Adjuncts
+The emulsion according to the invention can also contain functional adjuncts for further controlling the properties of a pharmaceutical or cosmetic composition containing the emulsion. Functional adjuncts include: antioxidants, propellants, solvents, humectants, thickeners and emolients.
+Preparation of emulsion
+The high internal phase water-in-oil emulsions of the invention can be prepared by mixing the Quaternium-18 Hectorite with the liquid emulsifier having an HLB value of from 1 to 7 and the oil to provide an oily phase and subsequently homogenising from 2 to 25 parts by volume of the oily phase with from 75 to 98 parts by volume of the aqueous phase containing the water-soluble magnesium salt and other water soluble ingredients, if any, to provide the emulsion.
+Product Forms
+The compositions of the invention can be liquid, for example products such as lotions for use in conjunction with applicators such as a roll-ball applicator or a spray device such as an aerosol can containing propellants or a container fitted with a pump to dispense the product. Alternatively, the compositions of the invention can be solid or semi-solid, for example powders, moulded sticks, creams or gels, for use in conjunction with an applicator such as a powder sifter or a stick applicator, or simply a tube or lidded jars.
+The invention accordingly also provides a closed container containing a cosmetically acceptable composition as herein defined.
+The invention is illustrated by the following examples:
+EXAMPLE 1
+This example illustrates a high internal phase water-in-oil emulsion moisturising cream (w/o HIPE cream) for topical application to the skin.
+This w/o HIPE cream contained the following ingredients:
+
+ ______________________________________                                    
+                       % w/w                                              
+______________________________________                                    
+(a)   branched chain non-polar oils:                                      
+(i)     CARNATION OIL (a light liquid                                     
+                             5.0                                          
+        paraffin available from Witco)                                    
+(ii)    Oleic acid decylester (CETIOL V                                   
+                             5.0                                          
+        available from Henkel)                                            
+(b)   a liquid emulsifier having an HLB value                             
+      of from 1 to 7:                                                     
+      Sorbitan isostearate (ARLACEL 987                                   
+                             2.5                                          
+      available from Atlas)                                               
+(c)   Quaternium-18 Hectorite:                                            
+      BENTONE 38 (available from National                                 
+                             0.5                                          
+      Lead Industries)                                                    
+(d)   Magnesium salt:                                                     
+      Magnesium sulphate heptahydrate                                     
+                             0.3                                          
+(e)   Emollient, moisturising, electrolyte                                
+                             9.5                                          
+      preservative and perfume                                            
+(f)   Water:                                                              
+      Deionised water        77.2                                         
+______________________________________                                    
+
+The oils were mixed with the emulsifier, the Quaternium-18 Hectorite and the preservative to provide the oily phase. The aqueous phase containing water, the magnesium sulphate heptahydrate and the emollient and moisturising electrolyte was then added slowly at first and then more rapidly to the oily phase with stirring until an emulsion in the form of a white cream was obtained. The mixing step was carried out at room temperature, i.e. at about 23Â° C. Finally the perfume was distributed throughout the emulsion.
+In order to test the stability of the cream, samples were stored at 23Â° C., 35Â° C., 42Â° C. and at 50Â° C. After more than six months' storage, there was no sign in any of the samples of syneresis or breakdown of the emulsion. Likewise, repeated freeze-thaw cycling from -5Â° C. to +42Â° C. did not indicate any such instability in the product.
+The product was accordingly judged completely stable and suitable for sale to consumers.
+When applied to the human skin, the product has a pleasant creamy texture, is easily distributed topically and "breaks" on contact with the skin. The release of the aqueous phase gives the consumer a pleasant fresh sensation which is judged as signalling a moisturising effect.
+The superiority of this product was confirmed subjectively by a comparative consumer test in which 150 female subjects were asked to assess the product against their regular skin cream, under a series of headings describing subjective attributes. In each case, the panellists were asked to apply a score on a 5 point scale (0=disagree, product totally unacceptable; 5=agree, product excellent).
+The results, which include an average of scores obtained under each heading, are summarised in the following Table:
+
+ ______________________________________                                    
+            Average Panel                                                 
+                        w/o HIPE cream                                    
+            Scores (0 to 5)                                               
+                        significantly                                     
+                       w/o      better than                               
+              Regular  HIPE     regular cream                             
+Subjective Attribute                                                      
+              cream    cream    at P=                                     
+______________________________________                                    
+Does not leave the                                                        
+              3.82     4.58     0.01                                      
+skin greasy                                                               
+Impression of freshness                                                   
+              4.16     4.71     0.01                                      
+when applied                                                              
+Pleasant to use                                                           
+              4.29     4.60     0.10                                      
+Long lasting freshness                                                    
+              3.97     4.43     0.05                                      
+impression                                                                
+______________________________________                                    
+
+It can be concluded from these results that the w/o HIPE cream was superior in all respects to the creams usually employed by the panellists, and was generally very well liked.
+The efficacy of the w/o HIPE cream was also assessed objectively under the following headings:
+1. Moisturising efficacy
+The moisturising efficacy of the w/o HIPE cream was substantiated in vivo on human subjects using skin impedance measurements and transepidermal water-loss measurements.
+(a) Impedance
+Skin impedance was measured by the method of Clar et al, J.Soc. Cosmet. Chem., (1975), 26, 337-353, which equates electrical impedance of skin with its moisture content. A decrease in skin impedance is indicative of an increase in moisture content.
+The moisturising efficacy of the w/o HIPE cream was accordingly compared with that of three commercially available brands of cream, each of which claimed to be a moisturising cream. It was demonstrated that the w/o HIPE cream induced a marked decrease in skin impedance indicative of a substantial moisturising effect, whereas none of the commercial moisturising creams showed a significant reduction in impedance, indicating that they have little or no true moisturising effect.
+(b) Transepidermal water loss
+Living skin perspires continuously and it is possible to monitor this water loss by means of a hygrometric sensor attached to the skin. A barrier cream is one which is able to impede water loss from the skin surface. The barrier effect of the w/o HIPE cream was accordingly compared with that of the three commercially available moisturising creams: it was shown following statistical analysis of the results that the w/o HIPE cream significantly reduced transepidermal water loss, whereas the commercial creams did not.
+2. Skin cooling effect (freshness)
+When a cream is applied topically to the skin, evaporation of water causes a drop in skin temperature due to the loss of skin calories by latent heat of evaporation. This cooling effect is recognised by the user as freshness.
+The freshness sensation can be substantiated objectively by measurement of skin temperature using a telethermometer. The freshness following application of the w/o HIPE cream was compared with that following application of the three different commercially available skin moisturising creams.
+From the telethermometer readings, it was established the w/o HIPE cream generated the greatest fall in skin temperature which substantiated the subjective observations of the panel who reported that the w/o HIPE cream produced the most striking sensation of freshness.
+EXAMPLES 2 & 3
+Examples 2 and 3 illustrate moisturising lotions.
+
+ ______________________________________                                    
+                      % w/w                                               
+                      Ex. 2                                               
+                           Ex. 3                                          
+______________________________________                                    
+ARLACEL 987             3      --                                         
+IMWITOR 780K            --     3                                          
+ISOPAR L                15     15                                         
+BENTONE 38              0.3    0.4                                        
+Magnesium sulphate      0.5    --                                         
+Magnesium chloride      --     0.5                                        
+Triethanolamine lactate - 50%: pH 5.5                                     
+                        6      6                                          
+(moisturising agent)                                                      
+Para P.sup.(1)          0.1    0.1                                        
+1,3-butylene glycol     3      3                                          
+Water                   72.1   72.0                                       
+______________________________________                                    
+ .sup.(1) propyl phydroxybenzoate.                                        
+
+The oil is mixed with the emulsifier, the Para P added and dissolved at a temperature of 50Â°-60Â° C. The BENTONE 38 is then added to provide the oily phase. The aqueous phase containing the magnesium salt, the lactate and the glycol are heated gently at 45Â°-50Â° C. Finally, the emulsion is prepared after cooling by emulsifying the aqueous phase with the oily phase to provide a water-in-oil emulsion at a temperature no higher than 50Â° C.
+EXAMPLE 4
+An emulsion having the following formulation as a further example of a skin moisturising lotion for topical application is prepared by the method described for Examples 2 and 3. It contains the following ingredients:
+
+ ______________________________________                                    
+Ingredients               % w/w                                           
+______________________________________                                    
+          IMWITOR 780K            3                                       
+O         LYTOL - ex Witco        15                                      
+          Para P - ex Rhone Poulenc                                       
+                                  0.1                                     
+          BENTONE 38              0.5                                     
+          Magnesium bromide       1.0                                     
+          Sodium pyrollidone carboxylate (Na PC)                          
+                                  4                                       
+          (moisturising agent) (50% in water)                             
+A         1,3-butylene glycol     3                                       
+          Collagen hydrolysate    3                                       
+          Para M                  0.2                                     
+          Water                   70                                      
+          Perfume                 0.2                                     
+______________________________________                                    
+ O -- Oily phase                                                          
+ A -- Aqueous phase                                                       
+
+EXAMPLES 5 TO 7
+These emulsions illustrate the formulation of moisturising creams for topical application to the skin:
+
+ __________________________________________________________________________
+                     Example 5                                            
+                           Example 6                                      
+                                 Example 7                                
+__________________________________________________________________________
+    BRIJ 92          3     --    --                                       
+    ARLACEL 80       --    3     --                                       
+    SIMUSOL 92       --    --    3                                        
+    ISOPAR L - ex Esso                                                    
+                     5     --    --                                       
+O   PARLEAM - ex Nichiyu                                                  
+                     5     --    5                                        
+    LYTOL - ex Witco --    10    --                                       
+    WMl oil - ex BP  --    --    5                                        
+    PARA P - ex Rhone Poulenc                                             
+                     0.1   0.1   0.1                                      
+    BENTONE 38       0.6   0.8   1                                        
+    Magnesium nitrate hexahydrate                                         
+                     0.4   --    --                                       
+    Magnesium chloride hexahydrate                                        
+                     --    0.5   --                                       
+    Magnesium sulphate heptahydrate                                       
+                     --    --    2                                        
+    Na PC (50%)      4     4     4                                        
+A   1,3-butylene glycol                                                   
+                     3     3     3                                        
+    Collagen hydrolysate                                                  
+                     3     3     3                                        
+    Na glutamate     --    2     2                                        
+    PARA M - ex Rhone Poulenc                                             
+                     0.2   0.2   0.2                                      
+    Water            75.5  73.2  71.5                                     
+    Perfume          0.2   0.2   0.2                                      
+__________________________________________________________________________
+
+EXAMPLE 8
+This example also illustrates the formulation of a moisturising cream for topical application to the skin:
+
+ ______________________________________                                    
+Ingredients          % w/w                                                
+______________________________________                                    
+              MONTANE 70     3                                            
+              LYTOL          5                                            
+              MARCHOL 82     5                                            
+O             CEREWAX L      0.2                                          
+              MODULAN        1                                            
+              PARA P         0.1                                          
+              BENTONE 38     2                                            
+              Magnesium acetate                                           
+                             0.8                                          
+              Na PC (50%)    4                                            
+              1,3-butylene glycol                                         
+                             3                                            
+A             Collagen hydrolysate                                        
+                             3                                            
+              Na glutamate   1                                            
+              PARA M         0.2                                          
+              Water          71.5                                         
+              Perfume        0.2                                          
+______________________________________                                    
+
+EXAMPLE 9
+This example also illustrates the formulation of a moisturising cream for topical application to the skin:
+
+ ______________________________________                                    
+Ingredients             % w/w                                             
+______________________________________                                    
+            CRILL 6             3.5                                       
+            ISOPAR L            5                                         
+            PARLEAM             5                                         
+O           CEREWAX L           0.2                                       
+            MODULAN             1                                         
+            PARA P              0.1                                       
+            BENTONE 38          1.5                                       
+            Magnesium bromide hexahydrate                                 
+                                0.2                                       
+            Na PC (50%)         4                                         
+A           Glycine             5                                         
+            PARA M              0.2                                       
+            Water               74.1                                      
+            Perfume             0.2                                       
+______________________________________                                    
+
+
+
+
+
+Claims (16)
+
+What is claimed is:
+ 
+1. A high internal phase water-in-oil emulsion stable through at least two freeze thaw cycles consisting essentially of:(a) from 1.4 to 24.3% by weight of a branched chain non-polar oil; (b) from 0.5 to 10% by weight of a non-anionic liquid emulsifier having an HLB value of from 1 to 7; (c) from 0.1 to 5% by weight of a reaction product of a sodium magnesium-fluorolithosilicate trioctahedral montmorillonite clay and the quaternary ammonium salt having the formula: ##STR4##  where R represents hydrogenated tallow fatty acid radicals; (d) from 0.1 to 5% by weight of a water-soluble magnesium salt; and (e) from 0.1 to 97.9% by weight of water;the aqueous phase forming from 75 to 98% by volume, and the oily phase forming from 25 to 2% by volume of the emulsion.  
+
+  
+2. The emulsion according to claim 1, wherein the oil forms from 2 to 24% by weight of the emulsion.
+
+  
+3. The emulsion according to claim 1, wherein the oil forms from 2 to 15% by weight of the emulsion.
+
+  
+4. The emulsion according to claim 1, wherein the emulsifier forms from 2 to 5% by weight of the emulsion.
+
+  
+5. The emulsion according to claim 1, wherein the reaction product of the sodium magnesium-fluorolithosilicate trioctahedral montmorillonite clay and the quaternary ammonium salt forms from 0.1 to 1.0% by weight of the emulsion.
+
+  
+6. The emulsion according to claim 1, wherein the magnesium salt is selected from the group consisting of magnesium sulphate, magnesium sulphate monohydrate, magnesium sulphate heptahydrate and mixtures thereof.
+
+  
+7. The emulsion according to claim 1, which contains from 0.1 to 5% by weight of magnesium sulphate heptahydrate.
+
+  
+8. The emulsion according to claim 7, which contains from 0.1 to 2% by weight of magnesium sulphate heptahydrate.
+
+  
+9. The emulsion according to claim 1, wherein water forms from 1 to 97% by weight of the emulsion.
+
+  
+10. The emulsion according to claim 9, wherein water forms from 60 to 95% by weight of the emulsion.
+
+  
+11. The emulsion according to claim 1, wherein the aqueous phase forms from 80 to 97% by volume of the emulsion.
+
+  
+12. The emulsion according to claim 1, wherein the oily phase forms from 20 to 3% by volume of the emulsion.
+
+  
+13. The emulsion according to claim 1, which contains by weight of the emulsion:(a) from 2 to 15% of a branched chain non-polar oil; (b) from 2 to 5% of a non-anionic liquid emulsifier having an HLB value of from 1 to 7; (c) from 0.1 to 5% of a reaction product of a sodium magnesium-fluorolithosilicate trioctahedral montmorillonite clay and the quaternary ammonium salt having the formula: ##STR5##  where R represents hydrogenated tallow fatty acid radicals; (d) from 0.1 to 5% of magnesium sulphate heptahydrate; and (e) from 60 to 95% of water. 
+
+  
+14. The emulsion according to claim 1, which is a cream, gel or lotion.
+
+  
+15. A process for preparing a water-in-oil emulsion according to claim 1, which comprises the steps of:(a) mixing the reaction product of a sodium magnesium-fluorolithosilicate trioctahedral montmorillonite clay and the quaternary ammonium salt having the formula: ##STR6##  where R represents hydrogenated tallow fatty acid radicals, with a non-anionic liquid emulsifier having an HLB value of from 1 to 7 and a branched chain non-polar oil to provide an oily phase; and (b) homogenising the oily phase with an aqueous phase comprising an aqueous solution of a water-soluble magnesium salt to provide a water-in-oil emulsion in which the aqueous phase forms from 75 to 98% by volume of the emulsion and the oily phase forms from 2 to 25% by volume of the emulsion. 
+
+  
+16. A closed container containing an emulsion according to claim 1.
+
+ 
+
+
+
+
+US06/298,563
+1980-09-15
+1981-09-02
+Water-in-oil emulsions 
+       
+Expired - Fee Related
+
+US4446051A
+            (en)
+        
+
+Applications Claiming Priority (2)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+EP80303230
+
+1980-09-15
+
+
+
+EP80303230A
+
+EP0047804A1
+                          (en)
+                      
+1980-09-15
+1980-09-15
+Water-in-oil emulsions and process for preparing same 
+       
+
+
+
+Publications (1)
+
+
+
+Publication Number
+Publication Date
+
+
+
+
+
+US4446051A
+true
+US4446051A
+                       (en)
+                   
+
+1984-05-01
+
+
+
+
+
+Family
+ID=8187256
+Family Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+US06/298,563
+Expired - Fee Related
+
+US4446051A
+                          (en)
+                      
+
+1980-09-15
+1981-09-02
+Water-in-oil emulsions 
+       
+
+
+
+Country Status (8)
+
+
+
+Country
+Link
+
+
+
+
+
+US
+                (1)
+              
+
+
+
+US4446051A
+                  (en)
+              
+
+
+
+EP
+                (1)
+              
+            
+
+
+EP0047804A1
+                  (en)
+              
+
+
+
+JP
+                (1)
+              
+            
+
+
+JPS621287B2
+                  (en)
+              
+
+
+
+AU
+                (1)
+              
+            
+
+
+AU540823B2
+                  (en)
+              
+
+
+
+BR
+                (1)
+              
+            
+
+
+BR8105856A
+                  (en)
+              
+
+
+
+CA
+                (1)
+              
+            
+
+
+CA1151969A
+                  (en)
+              
+
+
+
+DE
+                (1)
+              
+            
+
+
+DE3173070D1
+                  (en)
+              
+
+
+
+ZA
+                (1)
+              
+            
+
+
+ZA816326B
+                  (en)
+              
+
+
+
+
+Cited By (33)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US4746460A
+              (en)
+            
+*
+
+1984-12-07
+1988-05-24
+The British Petroleum Company P.L.C.
+Preparation of emulsions 
+       
+
+
+
+US4875927A
+              (en)
+            
+*
+
+1987-01-13
+1989-10-24
+Imperial Chemical Industries Plc
+Formulation process 
+       
+
+
+
+US5032408A
+              (en)
+            
+*
+
+1985-05-28
+1991-07-16
+Chemisch Adviesburea Drs. J.C.P. Schruder
+Composition for treatment of skin affections and process for its preparation 
+       
+
+
+
+US5294353A
+              (en)
+            
+*
+
+1991-06-27
+1994-03-15
+Halliburton Company
+Methods of preparing and using stable oil external-aqueous internal emulsions 
+       
+
+
+
+US5622649A
+              (en)
+            
+*
+
+1991-06-27
+1997-04-22
+Emory University
+Multiple emulsions and methods of preparation 
+       
+
+
+
+US5756112A
+              (en)
+            
+*
+
+1995-04-27
+1998-05-26
+The Procter & Gamble Company
+Carrier substrate treated with high internal water phase inverse emulsion made with an organopolysiloxane-polyoxyalkylene emulsifier 
+       
+
+
+
+US5763332A
+              (en)
+            
+*
+
+1996-04-30
+1998-06-09
+The Procter & Gamble Company
+Cleaning articles comprising a polarphobic region and a high internal phase inverse emulsion 
+       
+
+
+
+US5863663A
+              (en)
+            
+*
+
+1994-11-09
+1999-01-26
+The Procter & Gamble Company
+Wet-like cleaning wipes and like articles comprising a carrier treated with an emulsion having a continuous lipid phase 
+       
+
+
+
+US5900437A
+              (en)
+            
+*
+
+1997-06-02
+1999-05-04
+Amcol International Corporation
+Hydrophilic/oleophilic microcellular foam and method for making same 
+       
+
+
+
+US5908707A
+              (en)
+            
+*
+
+1996-12-05
+1999-06-01
+The Procter & Gamble Company
+Cleaning articles comprising a high internal phase inverse emulsion and a carrier with controlled absorbency 
+       
+
+
+
+US5948540A
+              (en)
+            
+*
+
+1995-04-27
+1999-09-07
+The Procter & Gamble Company
+Carrier substrate treated with high internal phase inverse emulsions made with an organopolysiloxane-polyoxyalkylene emulsifier 
+       
+
+
+
+US5976514A
+              (en)
+            
+*
+
+1998-11-20
+1999-11-02
+Procter & Gamble Company
+Low-irritation antiperspirant and deodorant compositions containing a volatile, nonpolar hydrocarbon liquid 
+       
+
+
+
+US5980922A
+              (en)
+            
+*
+
+1996-04-30
+1999-11-09
+Procter & Gamble Company
+Cleaning articles treated with a high internal phase inverse emulsion 
+       
+
+
+
+US6121165A
+              (en)
+            
+*
+
+1997-07-31
+2000-09-19
+The Procter & Gamble Company
+Wet-like cleaning articles 
+       
+
+
+
+US6133166A
+              (en)
+            
+*
+
+1997-07-01
+2000-10-17
+The Procter & Gamble Company
+Cleaning articles comprising a cellulosic fibrous structure having discrete basis weight regions treated with a high internal phase inverse emulsion 
+       
+
+
+
+US6365162B1
+              (en)
+            
+*
+
+1997-09-12
+2002-04-02
+Da Min Enterprises Ltd.
+Body cosmetic pigment composition and its production method 
+       
+
+
+
+US6475496B1
+              (en)
+            
+
+2000-08-17
+2002-11-05
+Revlon Consumer Products Corporation
+Gelled cosmetic remover composition 
+       
+
+
+
+US20030129157A1
+              (en)
+            
+*
+
+2000-05-05
+2003-07-10
+L'oreal
+Compositions in the form of water-in-oil emulsions and their use as cosmetics 
+       
+
+
+
+US6660277B1
+              (en)
+            
+
+1998-06-19
+2003-12-09
+Avon Products, Inc.
+Gel matrix non-emulsion composition containing two clay gels 
+       
+
+
+
+US6881415B1
+              (en)
+            
+*
+
+1999-07-20
+2005-04-19
+Beiersdorf Ag
+Emulsifier-free finely dispersed water-in-oil type systems 
+       
+
+
+
+US20050095245A1
+              (en)
+            
+*
+
+2003-09-19
+2005-05-05
+Riley Thomas C.
+Pharmaceutical delivery system 
+       
+
+
+
+US7037511B1
+              (en)
+            
+
+1999-08-21
+2006-05-02
+Beiersdorf Ag
+Hydrous cosmetic or pharmaceutical sticks 
+       
+
+
+
+US20070224226A1
+              (en)
+            
+*
+
+2006-01-05
+2007-09-27
+Drugtech Corporation
+Composition and method of use thereof 
+       
+
+
+
+US20080311058A1
+              (en)
+            
+*
+
+2007-06-18
+2008-12-18
+Connopco, Inc., D/B/A Unilever
+Stable high internal phase emulsions and compositions comprising the same 
+       
+
+
+
+US20090247445A1
+              (en)
+            
+*
+
+2008-04-01
+2009-10-01
+Conopco, Inc., D/B/A Unilever
+In-Shower and Bath Compositions 
+       
+
+
+
+US20100003210A1
+              (en)
+            
+*
+
+2004-12-22
+2010-01-07
+Pola Chemical Industries Inc.
+External skin agent comprising modified clay for preventing inflammation 
+       
+
+
+
+US20100314814A1
+              (en)
+            
+*
+
+2009-06-10
+2010-12-16
+Zeitlin Eric S
+Compressible Corralling Utensil with Cutting Board 
+       
+
+
+
+US8821839B2
+              (en)
+            
+
+2010-10-22
+2014-09-02
+Conopco, Inc.
+Compositions and methods for imparting a sunless tan with a vicinal diamine 
+       
+
+
+
+FR3007638A1
+              (en)
+            
+*
+
+2013-06-28
+2015-01-02
+Oreal
+
+  BIPHASE COMPOSITION COMPRISING MAGNESIUM ACETATE
+ 
+       
+
+
+
+US8961942B2
+              (en)
+            
+
+2011-12-13
+2015-02-24
+Conopco, Inc.
+Sunless tanning compositions with adjuvants comprising sulfur comprising moieties 
+       
+
+
+
+US20150118314A1
+              (en)
+            
+*
+
+2008-07-28
+2015-04-30
+Despharma Kft.
+Compositions for the prophylaxis and treatment of dermatological/mucosal diseases, and uses thereof 
+       
+
+
+
+EP2412362A4
+              (en)
+            
+*
+
+2009-03-27
+2015-05-27
+Shiseido Co Ltd
+Water-in-oil emulsion composition 
+       
+
+
+
+CN111818898A
+              (en)
+            
+*
+
+2018-03-19
+2020-10-23
+åè¿ç¾å®¹ç§ææéå¬å¸
+Moisture releasing stick cosmetic 
+       
+
+
+
+Families Citing this family (14)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+JPH0520408B2
+              (en)
+            
+*
+
+1984-02-27
+1993-03-19
+Tezuka Hiromu
+
+
+
+
+JPS60246307A
+              (en)
+            
+*
+
+1984-05-22
+1985-12-06
+Shiseido Co Ltd
+Oil-in-water type emulsified cosmetic 
+       
+
+
+
+JPH0380531B2
+              (en)
+            
+*
+
+1984-11-28
+1991-12-25
+Shiseido Co Ltd
+
+
+
+
+US4980084A
+              (en)
+            
+*
+
+1985-09-11
+1990-12-25
+Chesebrough-Pond's Usa Co., Division Of Conopco, Inc.
+Water rinsable petroleum jelly compositions 
+       
+
+
+
+CA1295553C
+              (en)
+            
+*
+
+1986-12-12
+1992-02-11
+Mohan Vishnupad
+Water rinsable petroleum jelly water-in-oil emulsion 
+       
+
+
+
+JP2517254B2
+              (en)
+            
+*
+
+1986-12-16
+1996-07-24
+æ ªå¼ä¼ç¤¾è³çå 
+
+  Water-in-oil cream
+ 
+       
+
+
+
+JP2657504B2
+              (en)
+            
+*
+
+1988-01-12
+1997-09-24
+æ ªå¼ä¼ç¤¾è³çå 
+
+  Water-in-oil emulsion composition
+ 
+       
+
+
+
+JP3424770B2
+              (en)
+            
+*
+
+1994-07-06
+2003-07-07
+æ ªå¼ä¼ç¤¾è³çå 
+
+  Water-in-oil emulsion composition
+ 
+     
+
+
+
+JP3340310B2
+              (en)
+            
+*
+
+1996-03-28
+2002-11-05
+æ ªå¼ä¼ç¤¾è³çå 
+
+  Composite emulsion and method for producing the same
+ 
+     
+
+
+
+FR2754176B1
+              (en)
+            
+*
+
+1996-10-07
+1999-12-10
+Roche Posay Lab Pharma
+
+  W / O EMULSION WITH HIGH ELECTROLYTE CONTENT AND THEIR USE IN DERMO-COSMETICS, PARTICULARLY FOR TREATING PHENOMENES OF IRRITATION AND / OR SENSITIVE SKIN
+ 
+     
+
+
+
+FR2771293A1
+              (en)
+            
+*
+
+1997-11-24
+1999-05-28
+Fabre Pierre Dermo Cosmetique
+Dermo-cosmetic water in oil emulsion without surfactant, useful for sun protection products 
+       
+
+
+
+DE19929475A1
+              (en)
+            
+*
+
+1999-06-26
+2000-12-28
+Beiersdorf Ag
+Stable cosmetic or dermatological water-in-oil emulsions for skin protection, containing polar ultraviolet filter and/or polar oil component and modified layered silicate as stabilizer 
+       
+
+
+
+JP2010163379A
+              (en)
+            
+*
+
+2009-01-14
+2010-07-29
+Shiseido Co Ltd
+Water-in-oil type emulsion composition 
+       
+
+
+
+FR3060355B1
+              (en)
+            
+*
+
+2016-12-21
+2020-01-24
+L'oreal
+
+  WATER-IN-OIL EMULSION CONTAINING BAICALIN, XANTHIC BASE, VITAMIN B3 AND MULTIVALENT METAL CATION SALT
+ 
+     
+
+
+
+Citations (6)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US2948686A
+              (en)
+            
+*
+
+1955-07-14
+1960-08-09
+G H Packwood Mfg Company
+Thixotropic and fast breaking skin cleaner emulsion and process for producing the same 
+       
+
+
+
+GB883254A
+              (en)
+            
+*
+
+1959-03-31
+1961-11-29
+Abbott Lab
+Improvements in or relating to ointment bases and ointments 
+     
+
+
+
+FR2409081A1
+              (en)
+            
+*
+
+1977-11-22
+1979-06-15
+Peterson Puritan Inc
+
+  WATER-IN-OIL EMULSIONS, COMPOSITIONS AND ESPECIALLY AEROSOLS COMPRISING SAME AND PROCESS FOR PREPARING THE SAME
+ 
+     
+
+
+
+FR2419758A1
+              (en)
+            
+*
+
+1978-03-17
+1979-10-12
+Shiseido Co Ltd
+
+  GEL COMPOSITION
+ 
+       
+
+
+
+EP0009404A2
+              (en)
+            
+*
+
+1978-09-22
+1980-04-02
+Unilever Plc
+Water-in-oil emulsions and process for preparing them 
+       
+
+
+
+US4372944A
+              (en)
+            
+*
+
+1981-08-03
+1983-02-08
+Eli Lilly And Company
+Cosmetic cream formulation 
+       
+
+
+
+
+
+1980
+
+
+1980-09-15
+EP
+EP80303230A
+patent/EP0047804A1/en
+not_active
+Withdrawn
+
+
+
+
+1981
+
+
+1981-09-02
+US
+US06/298,563
+patent/US4446051A/en
+not_active
+Expired - Fee Related
+
+
+
+1981-09-11
+AU
+AU75184/81A
+patent/AU540823B2/en
+not_active
+Ceased
+
+
+1981-09-11
+ZA
+ZA816326A
+patent/ZA816326B/en
+unknown
+
+
+
+1981-09-14
+DE
+DE8181304196T
+patent/DE3173070D1/en
+not_active
+Expired
+
+
+1981-09-14
+BR
+BR8105856A
+patent/BR8105856A/en
+not_active
+IP Right Cessation
+
+
+1981-09-14
+CA
+CA000385828A
+patent/CA1151969A/en
+not_active
+Expired
+
+
+1981-09-14
+JP
+JP56145408A
+patent/JPS621287B2/ja
+not_active
+Expired
+
+
+
+
+
+
+Patent Citations (9)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US2948686A
+              (en)
+            
+*
+
+1955-07-14
+1960-08-09
+G H Packwood Mfg Company
+Thixotropic and fast breaking skin cleaner emulsion and process for producing the same 
+       
+
+
+
+GB883254A
+              (en)
+            
+*
+
+1959-03-31
+1961-11-29
+Abbott Lab
+Improvements in or relating to ointment bases and ointments 
+     
+
+
+
+FR2409081A1
+              (en)
+            
+*
+
+1977-11-22
+1979-06-15
+Peterson Puritan Inc
+
+  WATER-IN-OIL EMULSIONS, COMPOSITIONS AND ESPECIALLY AEROSOLS COMPRISING SAME AND PROCESS FOR PREPARING THE SAME
+ 
+     
+
+
+
+GB2009617A
+              (en)
+            
+*
+
+1977-11-22
+1979-06-20
+Peterson Puritan Inc
+Water-in-oil emulsions 
+     
+
+
+
+US4350605A
+              (en)
+            
+*
+
+1977-11-22
+1982-09-21
+Peterson/Puritan, Inc.
+Water-in-oil emulsions 
+       
+
+
+
+FR2419758A1
+              (en)
+            
+*
+
+1978-03-17
+1979-10-12
+Shiseido Co Ltd
+
+  GEL COMPOSITION
+ 
+       
+
+
+
+GB2021411A
+              (en)
+            
+*
+
+1978-03-17
+1979-12-05
+Shiseido Co Ltd
+A gel composition 
+     
+
+
+
+EP0009404A2
+              (en)
+            
+*
+
+1978-09-22
+1980-04-02
+Unilever Plc
+Water-in-oil emulsions and process for preparing them 
+       
+
+
+
+US4372944A
+              (en)
+            
+*
+
+1981-08-03
+1983-02-08
+Eli Lilly And Company
+Cosmetic cream formulation 
+       
+
+
+
+
+
+Non-Patent Citations (4)
+
+* Cited by examiner, â  Cited by third party
+
+
+Title
+
+
+
+
+
+Berthod, Benzoni, & Gautier, "Water-in-Oil Emulsions and Process . . . ," .
+
+
+
+Berthod, Benzoni, & Gautier, Water in Oil Emulsions and Process . . . , .
+*
+
+
+
+Janistyn, "Handbook of Cosmetics and Perfumes," 3rd Edition, vol. 1, 1978, pp. 617-618.
+
+
+
+Janistyn, Handbook of Cosmetics and Perfumes, 3rd Edition, vol. 1, 1978, pp. 617 618.
+*
+
+
+
+
+
+Cited By (43)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US4746460A
+            (en)
+          
+*
+
+1984-12-07
+1988-05-24
+The British Petroleum Company P.L.C.
+Preparation of emulsions 
+       
+
+
+
+US5032408A
+            (en)
+          
+*
+
+1985-05-28
+1991-07-16
+Chemisch Adviesburea Drs. J.C.P. Schruder
+Composition for treatment of skin affections and process for its preparation 
+       
+
+
+
+US4875927A
+            (en)
+          
+*
+
+1987-01-13
+1989-10-24
+Imperial Chemical Industries Plc
+Formulation process 
+       
+
+
+
+US5294353A
+            (en)
+          
+*
+
+1991-06-27
+1994-03-15
+Halliburton Company
+Methods of preparing and using stable oil external-aqueous internal emulsions 
+       
+
+
+
+US5622649A
+            (en)
+          
+*
+
+1991-06-27
+1997-04-22
+Emory University
+Multiple emulsions and methods of preparation 
+       
+
+
+
+US5885590A
+            (en)
+          
+*
+
+1991-06-27
+1999-03-23
+Hunter; Robert L.
+Oral vaccines comprising multiple emulsions and methods of preparation 
+       
+
+
+
+US5863663A
+            (en)
+          
+*
+
+1994-11-09
+1999-01-26
+The Procter & Gamble Company
+Wet-like cleaning wipes and like articles comprising a carrier treated with an emulsion having a continuous lipid phase 
+       
+
+
+
+US5952043A
+            (en)
+          
+*
+
+1994-11-09
+1999-09-14
+The Procter & Gamble Company
+Process for making wet-like cleaning wipes and like articles comprising an emulsion having a continuous lipid phase 
+       
+
+
+
+US5948540A
+            (en)
+          
+*
+
+1995-04-27
+1999-09-07
+The Procter & Gamble Company
+Carrier substrate treated with high internal phase inverse emulsions made with an organopolysiloxane-polyoxyalkylene emulsifier 
+       
+
+
+
+US5756112A
+            (en)
+          
+*
+
+1995-04-27
+1998-05-26
+The Procter & Gamble Company
+Carrier substrate treated with high internal water phase inverse emulsion made with an organopolysiloxane-polyoxyalkylene emulsifier 
+       
+
+
+
+US5763332A
+            (en)
+          
+*
+
+1996-04-30
+1998-06-09
+The Procter & Gamble Company
+Cleaning articles comprising a polarphobic region and a high internal phase inverse emulsion 
+       
+
+
+
+US5980922A
+            (en)
+          
+*
+
+1996-04-30
+1999-11-09
+Procter & Gamble Company
+Cleaning articles treated with a high internal phase inverse emulsion 
+       
+
+
+
+US6001381A
+            (en)
+          
+*
+
+1996-04-30
+1999-12-14
+The Procter & Gamble Company
+Cleaning articles comprising a polarphobic region and a high internal phase inverse emulsion 
+       
+
+
+
+US5908707A
+            (en)
+          
+*
+
+1996-12-05
+1999-06-01
+The Procter & Gamble Company
+Cleaning articles comprising a high internal phase inverse emulsion and a carrier with controlled absorbency 
+       
+
+
+
+US5900437A
+            (en)
+          
+*
+
+1997-06-02
+1999-05-04
+Amcol International Corporation
+Hydrophilic/oleophilic microcellular foam and method for making same 
+       
+
+
+
+US5998493A
+            (en)
+          
+*
+
+1997-06-02
+1999-12-07
+Amcol International Corporation
+Hydrophilic/oleophilic microcellular foam and method for making same 
+       
+
+
+
+US6133166A
+            (en)
+          
+*
+
+1997-07-01
+2000-10-17
+The Procter & Gamble Company
+Cleaning articles comprising a cellulosic fibrous structure having discrete basis weight regions treated with a high internal phase inverse emulsion 
+       
+
+
+
+US6121165A
+            (en)
+          
+*
+
+1997-07-31
+2000-09-19
+The Procter & Gamble Company
+Wet-like cleaning articles 
+       
+
+
+
+US6365162B1
+            (en)
+          
+*
+
+1997-09-12
+2002-04-02
+Da Min Enterprises Ltd.
+Body cosmetic pigment composition and its production method 
+       
+
+
+
+US6660277B1
+            (en)
+          
+
+1998-06-19
+2003-12-09
+Avon Products, Inc.
+Gel matrix non-emulsion composition containing two clay gels 
+       
+
+
+
+US5976514A
+            (en)
+          
+*
+
+1998-11-20
+1999-11-02
+Procter & Gamble Company
+Low-irritation antiperspirant and deodorant compositions containing a volatile, nonpolar hydrocarbon liquid 
+       
+
+
+
+US6881415B1
+            (en)
+          
+*
+
+1999-07-20
+2005-04-19
+Beiersdorf Ag
+Emulsifier-free finely dispersed water-in-oil type systems 
+       
+
+
+
+US7037511B1
+            (en)
+          
+
+1999-08-21
+2006-05-02
+Beiersdorf Ag
+Hydrous cosmetic or pharmaceutical sticks 
+       
+
+
+
+US20030129157A1
+            (en)
+          
+*
+
+2000-05-05
+2003-07-10
+L'oreal
+Compositions in the form of water-in-oil emulsions and their use as cosmetics 
+       
+
+
+
+US6475496B1
+            (en)
+          
+
+2000-08-17
+2002-11-05
+Revlon Consumer Products Corporation
+Gelled cosmetic remover composition 
+       
+
+
+
+US20050095245A1
+            (en)
+          
+*
+
+2003-09-19
+2005-05-05
+Riley Thomas C.
+Pharmaceutical delivery system 
+       
+
+
+
+US9789057B2
+            (en)
+          
+
+2003-09-19
+2017-10-17
+Perrigo Pharma International Designated Activity Company
+Pharmaceutical delivery system 
+       
+
+
+
+US20100003210A1
+            (en)
+          
+*
+
+2004-12-22
+2010-01-07
+Pola Chemical Industries Inc.
+External skin agent comprising modified clay for preventing inflammation 
+       
+
+
+
+US8741323B2
+            (en)
+          
+
+2004-12-22
+2014-06-03
+Pola Chemical Industries Inc.
+External skin agent comprising modified clay for preventing inflammation 
+       
+
+
+
+US20070224226A1
+            (en)
+          
+*
+
+2006-01-05
+2007-09-27
+Drugtech Corporation
+Composition and method of use thereof 
+       
+
+
+
+US20080311058A1
+            (en)
+          
+*
+
+2007-06-18
+2008-12-18
+Connopco, Inc., D/B/A Unilever
+Stable high internal phase emulsions and compositions comprising the same 
+       
+
+
+
+US20090247445A1
+            (en)
+          
+*
+
+2008-04-01
+2009-10-01
+Conopco, Inc., D/B/A Unilever
+In-Shower and Bath Compositions 
+       
+
+
+
+US8425882B2
+            (en)
+          
+*
+
+2008-04-01
+2013-04-23
+Conopco, Inc.
+In-shower and bath compositions 
+       
+
+
+
+US20150118314A1
+            (en)
+          
+*
+
+2008-07-28
+2015-04-30
+Despharma Kft.
+Compositions for the prophylaxis and treatment of dermatological/mucosal diseases, and uses thereof 
+       
+
+
+
+EP2412362A4
+            (en)
+          
+*
+
+2009-03-27
+2015-05-27
+Shiseido Co Ltd
+Water-in-oil emulsion composition 
+       
+
+
+
+US20100314814A1
+            (en)
+          
+*
+
+2009-06-10
+2010-12-16
+Zeitlin Eric S
+Compressible Corralling Utensil with Cutting Board 
+       
+
+
+
+US8821839B2
+            (en)
+          
+
+2010-10-22
+2014-09-02
+Conopco, Inc.
+Compositions and methods for imparting a sunless tan with a vicinal diamine 
+       
+
+
+
+US8961942B2
+            (en)
+          
+
+2011-12-13
+2015-02-24
+Conopco, Inc.
+Sunless tanning compositions with adjuvants comprising sulfur comprising moieties 
+       
+
+
+
+FR3007638A1
+            (en)
+          
+*
+
+2013-06-28
+2015-01-02
+Oreal
+
+  BIPHASE COMPOSITION COMPRISING MAGNESIUM ACETATE
+ 
+       
+
+
+
+WO2014207259A3
+            (en)
+          
+*
+
+2013-06-28
+2015-04-09
+L'oreal
+Two-phase composition comprising magnesium acetate 
+       
+
+
+
+CN105473184A
+            (en)
+          
+*
+
+2013-06-28
+2016-04-06
+è±éå¬å¸
+Two-phase composition comprising magnesium acetate 
+       
+
+
+
+CN111818898A
+            (en)
+          
+*
+
+2018-03-19
+2020-10-23
+åè¿ç¾å®¹ç§ææéå¬å¸
+Moisture releasing stick cosmetic 
+       
+
+
+
+US11529296B2
+            (en)
+          
+*
+
+2018-03-19
+2022-12-20
+Sunjin Beauty Science Co., Ltd.
+Water-releasing stick-type cosmetic 
+       
+
+
+
+
+Also Published As
+
+
+
+Publication number
+Publication date
+
+
+
+
+
+
+CA1151969A
+              (en)
+            
+
+1983-08-16
+
+
+
+DE3173070D1
+              (en)
+            
+
+1986-01-09
+
+
+
+AU540823B2
+              (en)
+            
+
+1984-12-06
+
+
+
+BR8105856A
+              (en)
+            
+
+1982-06-08
+
+
+
+JPS621287B2
+              (en)
+            
+
+1987-01-12
+
+
+
+EP0047804A1
+              (en)
+            
+
+1982-03-24
+
+
+
+ZA816326B
+              (en)
+            
+
+1983-04-27
+
+
+
+JPS5781827A
+              (en)
+            
+
+1982-05-22
+
+
+
+AU7518481A
+              (en)
+            
+
+1982-03-25
+
+
+
+
+
+Similar Documents
+
+
+
+Publication
+Publication Date
+Title
+
+
+
+
+
+
+
+US4446051A
+                (en)
+              
+
+
+1984-05-01
+
+Water-in-oil emulsions 
+       
+
+
+
+
+US6001341A
+                (en)
+              
+
+
+1999-12-14
+
+Deodorant and/or antiperspirant cosmetic compositions 
+       
+
+
+
+
+EP0009404B1
+                (en)
+              
+
+
+1984-02-22
+
+Water-in-oil emulsions and process for preparing them 
+     
+
+
+
+
+US4695452A
+                (en)
+              
+
+
+1987-09-22
+
+Cosmetic stick 
+       
+
+
+
+
+US5153230A
+                (en)
+              
+
+
+1992-10-06
+
+Topical skin cream composition 
+       
+
+
+
+
+JP4764588B2
+                (en)
+              
+
+
+2011-09-07
+
+
+  Gelled aqueous cosmetic composition
+ 
+       
+
+
+
+
+JP2866114B2
+                (en)
+              
+
+
+1999-03-08
+
+
+  Cosmetics
+ 
+     
+
+
+
+
+US4384974A
+                (en)
+              
+
+
+1983-05-24
+
+Stable water-in-oil emulsions 
+       
+
+
+
+
+US4704271A
+                (en)
+              
+
+
+1987-11-03
+
+Water-in-oil emulsion antiperspirant stick 
+       
+
+
+
+
+JPH08500831A
+                (en)
+              
+
+
+1996-01-30
+
+
+  Deodorant cosmetic composition having fatty acid content
+ 
+     
+
+
+
+
+KR20010032756A
+                (en)
+              
+
+
+2001-04-25
+
+Skin care composition with improved skin hydration capability 
+     
+
+
+
+
+US20070172440A1
+                (en)
+              
+
+
+2007-07-26
+
+Transparent cosmetic microemulsion-based formulation containing an alpha-hydroxy-carboxylic acid 
+       
+
+
+
+
+JP3199705B2
+                (en)
+              
+
+
+2001-08-20
+
+
+  Compositions in the form of water-in-oil emulsions having varying shear rates
+ 
+     
+
+
+
+
+WO1997002803A1
+                (en)
+              
+
+
+1997-01-30
+
+External skin preparation 
+       
+
+
+
+
+US4464400A
+                (en)
+              
+
+
+1984-08-07
+
+Skin care base material for external use 
+       
+
+
+
+
+JPH075887B2
+                (en)
+              
+
+
+1995-01-25
+
+
+  New antioxidant system
+ 
+       
+
+
+
+
+US4062937A
+                (en)
+              
+
+
+1977-12-13
+
+Insect bite relief preparation 
+       
+
+
+
+
+EP0048153B2
+                (en)
+              
+
+
+1996-01-03
+
+Water in oil emulsions 
+       
+
+
+
+
+JP2980605B2
+                (en)
+              
+
+
+1999-11-22
+
+
+  Mixture of procysteine and polyol
+ 
+     
+
+
+
+
+US5275806A
+                (en)
+              
+
+
+1994-01-04
+
+Topical compositions for protection against ultraviolet radiation 
+       
+
+
+
+
+IL30741A
+                (en)
+              
+
+
+1972-06-28
+
+Oil-in-water skin care emulsion 
+     
+
+
+
+
+JP3454387B2
+                (en)
+              
+
+
+2003-10-06
+
+
+  Emulsion manufacturing method
+ 
+     
+
+
+
+
+NZ245628A
+                (en)
+              
+
+
+1994-12-22
+
+Cosmetic or dermatological compositions comprising a fatty acid diester of 2,3-butanediol as viscosity agent and emollient 
+     
+
+
+
+
+JP2929024B2
+                (en)
+              
+
+
+1999-08-03
+
+
+  Water-in-oil emulsion cosmetics
+ 
+     
+
+
+
+
+JPH09268120A
+                (en)
+              
+
+
+1997-10-14
+
+Water-in-oil type emulsified composition 
+       
+
+
+
+
+
+Legal Events
+
+
+
+Date
+Code
+Title
+Description
+
+
+
+
+1982-01-25
+AS
+Assignment
+
+
+Owner name:
+              LEVER BROTHERS COMPANY, 390 PARK AVE., NEW YORK, N
+
+
+Free format text:
+              ASSIGNMENT OF ASSIGNORS INTEREST.;ASSIGNORS:BERTHOD, DANIEL P. M.;FERRET, SIMONE;REEL/FRAME:003944/0735
+
+
+Effective date:
+              19810912
+
+
+
+
+1987-05-18
+FPAY
+Fee payment
+
+
+Year of fee payment:
+              4
+
+
+
+
+1988-05-12
+AS
+Assignment
+
+
+Owner name:
+              CPPD, INC., C/O CT CORPORATION SYSTEM 208 LASALLE
+
+
+Free format text:
+              ASSIGNMENT OF ASSIGNORS INTEREST.;ASSIGNOR:LEVER BROTHERS COMPANY, A CORP. OF ME;REEL/FRAME:004888/0628
+
+
+Effective date:
+              19880101
+
+
+Owner name:
+              CPPD, INC., A CORP. OF IL, ILLINOIS
+
+
+Free format text:
+              ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:LEVER BROTHERS COMPANY, A CORP. OF ME;REEL/FRAME:004888/0628
+
+
+Effective date:
+              19880101
+
+
+
+
+1991-06-24
+FPAY
+Fee payment
+
+
+Year of fee payment:
+              8
+
+
+
+
+1995-12-05
+REMI
+Maintenance fee reminder mailed
+
+
+
+
+1996-04-28
+LAPS
+Lapse for failure to pay maintenance fees
+
+
+
+
+1996-07-09
+FP
+Lapsed due to failure to pay maintenance fee
+
+
+Effective date:
+              19960501
+
+
+
+
+2018-01-22
+STCH
+Information on status: patent discontinuation
+
+
+Free format text:
+              PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+
+
+
+
+
+
+
+
+
+
+
+
+
+

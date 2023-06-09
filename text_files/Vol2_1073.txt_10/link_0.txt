@@ -1,0 +1,793 @@
+Document Name: role of Benzophenone 3 in Protective Cream0
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8953895/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Benzophenone-3, a chemical UV-filter in cosmetics: is it really safe for children and pregnant women? - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Postepy Dermatol Alergol
+
+
+v.39(1); 2022 Feb
+
+
+                    PMC8953895
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (213K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Postepy Dermatol Alergol
+
+
+v.39(1); 2022 Feb
+
+
+                    PMC8953895
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Postepy Dermatol Alergol. 2022 Feb; 39(1): 26–33. Published online 2021 Feb 28.  doi: 10.5114/ada.2022.113617PMCID: PMC8953895PMID: 35369611Benzophenone-3, a chemical UV-filter in cosmetics: is it really safe for children and pregnant women?Weronika Wnuk, Klaudia Michalska, Anna Krupa, and  Krystyna PawlakAuthor information Article notes Copyright and License information DisclaimerDepartment of Monitored Pharmacotherapy, Medical University of Bialystok, Bialystok, PolandCorresponding author.*Address for correspondence: Prof. Krystyna Pawlak, Department of Monitored Pharmacotherapy, Medical University of Bialystok, Bialystok, Poland, e-mail: lp.teno.atzcop@kalwapanytsyrkReceived 2020 Oct 18; Accepted 2020 Dec 16.Copyright  © 2022 TermediaThis is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). License (http://creativecommons.org/licenses/by-nc-sa/4.0/)AbstractChildren and adolescents are particularly vulnerable to skin damage caused by ultraviolet radiation and require intensified photoprotection. Benzophenone-3 (BP-3) belongs to the organic sunscreens, which are widely used in personal care and cosmetic products. However, the impact of BP-3 on human health requires a careful assessment. This review focuses on potentially harmful effect of this compound in relation to the developing organism. Studies show that BP-3, after topical application, can penetrate into bloodstream, blood-brain barrier and blood-placental barrier and may induce the reproductive toxicity and abnormal development of the foetus, endocrine system disruption and neurotoxicity in experimental animal models. So far, human studies have been scarce and controversial, therefore the cosmetics containing BP-3 should be carefully used by the pregnant women, children and adolescents.Keywords: benzophenone-3, cosmetics, developmental toxicity, endocrine disruption, neurotoxicityIntroductionBenzophenone-3 (BP-3; oxybenzone; 2-hydroxy-4-methoxybenzophenone) belongs to organic sunscreens used in personal care products to help minimize the damaging effects of ultraviolet (UV) radiation. In the 1980s, BP-3 was the most popular as a sunscreen formulation [1]. Except UV-filters, this substance was also used to photostabilize personal care products, like shampoos, conditioners, fragrances, cosmetics, flavours, mascaras, powders, lip balms and anti-aging creams (Figure 1) [2, 3]. Moreover, BP-3 is also a widespread environmental contaminant – it is present in the air, water, food and plastic packaging, providing additional routes of exposure to humans [4]. In the Regulation of the European Parliament of 2017, an acceptable dose of BP-3 was reduced from 10% to 6% in UV-filters [5]. In the USA, Japan and South Korea, the content of BP-3 is limited to 5%, because of a suspicion about harmful effects [6]. Despite this, according to the US Centers for Disease Control and Prevention, about 97% of the US population is exposed to oxybenzone [2]. This compound was also detected in all urine samples of young men from the general Danish population [7]. These data indicated that people, especially in well-developed countries, may be exposed to the potentially hazardous effects of BP-3 in relation to their health.Open in a separate windowFigure 1. Benzophenone-3 sources in personal care productsBenzophenone-3: metabolism and mode of action in the organismUV-filters belong to the products, which should influence only the skin surface. They should not penetrate from skin into the general circulation and cross the dermis border [8]. However, the molecule of BP-3 is small enough to penetrate through the skin. After application on the skin, BP-3 can get into stratum corneum by intercellular laminae or passive diffusion by high concentration gradient and then reach blood [9]. In people, BP-3 is detected in serum in concentrations ten times higher than other chemical filters [10]. Furthermore, it is possible that BP-3 can be transmitted by carrier proteins in plasma, can act with human serum albumin and displace drugs and other substances, like sex and thyroid hormones, interfering the proper functioning of the human organism [11]. In animal experiments, BP-3 applied topically on the skin has been detected in the liver, heart, kidneys, spleen, muscle and testes [12]. Moreover, it has also been found in human breast milk and even in the amniotic fluid [4, 13]. Regarding its lipophilic character, BP-3 may penetrate through the blood-brain barrier (BBB), which creates the possibility of the adverse effect in CNS [14–16]. One of the main methods of eliminating BP-3 is excretion with urine, after bonding with glucuronic acid. Importantly, the most recent study by Matta et al. [17] highlighted a long terminal half-life of BP-3 and its accumulation by measuring the plasma concentration at constant intervals over 7 days after the first sunscreen application of products containing 6% of BP-3.Benzophenone-3 shows intense and broad absorption in the UVA, UVB, and UVC range [18]. Results obtained from an in vitro study showed that BP-3 decreases UV-induced radical formation and possesses antioxidative properties in the fibroblast cells line [19]. Karsili et al. [20] proposed that BP-3 undergoes an electron-driven internal conversion to its keto-tautomer, as the central mechanisms for its protective, antioxidative activity. Although BP-3 protects human skin from damage caused by excessive UV radiation, it is also reported to exhibit toxic effects. Evidence shows that sunscreens undergo degradation processes induced by UV irradiation forming free radicals, and other reactive or toxic intermediates that may initiate damage in biologically relevant skin molecules [21, 22]. Data obtained from living organism’s models suggest that benzofenone-3 can generate oxidative stress. According to Liu et al. [23], the exposure of Carassius auratus to BP-3 showed unfavourable changes in antioxidant enzymes activity and glutathione levels. The study on Danio rerio zebrafish also confirmed that BP-3 induced free radical production and changes of antioxidant enzymes [24]. The overproduction of reactive oxygen species (ROS), which adversely affects the structure and function of proteins, DNA and membrane lipids was observed in higher plant cells exposed to BP-3. This interference with normal plant metabolism led to the inhibition of photosynthesis and respiration, restriction of carbohydrate synthesis and ATP regeneration, limiting the energy available for metabolic processes, and even leading to plants’ death [25]. Similar results have been obtained after exposure of eukaryotic and prokaryotic algae to BP-3 [26]. The harmful effect of BP-3, associated with the generation of oxidative stress, has also been observed in higher organisms. Dermal exposure of female rats to BP-3 in the concentration of 100 mg/kg, which gives the plasma levels of BP-3 comparable to those seen in humans using cosmetics containing this compound, resulted in the increase in lipid peroxidation and decrease in antioxidant activity in their frontal cortex and hippocampus [14]. The positive correlations between plasma sunscreen agents, mainly BP-3, and the markers of inflammation, oxidative stress and hormonal activity were also observed in sea turtles from the central Adriatic Sea [27]. The above presented data indicate that benzophenone-3 can bioaccumulate, especially in the aquatic environment, and it may exert potential adverse effects through oxidative stress generation.The potential toxic effects of benzophenone-3 on human healthAccording to the available literature, the harmful effect of BP-3 can disrupt the function of many tissues and organs of the human body, like: skin, kidney, brain, endocrine and haematological system, reproductive organs and neonatal development during pregnancy (Figure 2).Open in a separate windowFigure 2The harmful effects of benzophenone-3 on human bodyBP-3 and skin cell damageFor many years, it was believed that BP-3, used as chemical UV filter in sunscreens, might only have adverse effects on the skin. The allergic contact dermatitis to BP-3 was noticed for the first time in 1972 [28]. The European Multicentre Photopatch Test Study conducted in 2012 revealed that this substance, in addition to 2 others organic UV absorbers, most frequently evoked photoallergic contact dermatitis, whereas allergic contact dermatitis was less commonly observed after BP-3 [29]. The North American Contact Dermatitis Group documented BP-3 as the top of 3 most frequent allergens in sunscreens, representing about 70% of sunscreen reactions – it has been announced as the “Contact Allergen of the Year” [30, 31]. The rare situations have also been reported, in which the exposure to sunscreen with BP-3 applied to the whole body caused anaphylaxis or an anaphylactoid reaction [32–34]. Moreover, BP-3 showed high rates of cross-reactivity with the other sunscreen active substance – octocrylene, as well as with ketoprofen, a commonly used nonsteroidal anti-inflammatory drug [31]. These 3 chemicals have similar structures, but also ketoprofen is metabolized into various benzophenones structurally similar to BP-3 during sunlight exposure [35].Apart from the allergic reaction, benzophenone-1 – metabolite of BP-3 can induce of photogenotoxicity and apoptosis via release of cytochrome c and Smac/DIABLO in human keratinocytes under UV radiation [36]. Recently, it has been documented that the altered expression of some novel proteins involved in the initiation of apoptotic pathways were responsible for this cytotoxic and genotoxic mechanism [37]. Moreover, benzophenone and its derivatives can generate ROS, increase lipid peroxidation, decrease mitochondrial membrane potential, release death protein and activate caspase-3. The above mechanisms were related to phototoxic potential of benzophenones in HaCaT cell line exposed to sunlight or UV radiation [38, 39].BP-3 and genotoxicity/developmental toxicitySubsequent studies showed that significant amounts of BP-3 were absorbed by the skin and can cross into the mother’s blood [9], placenta [40] and amniotic fluid [41], making it available to the foetus. Interactions between genes and environmental factors during early life are suggested to play an important role in the development and health of an adult individual. So far, the knowledge about geno- and developmental toxicity of BP-3 is poor, and what we know comes mostly from the research carried out on water organisms or in cell cultures [42–45].An acute exposure to environmentally relevant concentrations of BP-3 induced genotoxic and mutagenic effects, leading to erythrotoxicity in freshwater fish Poecilia reticulata [42]. The exposure of embryo zebrafish (Danio rerio) to low concentrations of BP-3 resulted in the alteration of multiple gene expression in the brain and testes, which can trigger an antiandrogenic activity [43]. Campos et al. [44] observed that the aquatic insect Chironomus riparius, continuously exposed to BP-3, showed the impaired development in the subsequent generation. In the mouse neuronal cells culture, Wnuk et al. [45] noticed that the exposure to oxybenzone changed the expression of oestrogen receptors α and β, GPR30 and PPAR-γ, leading to the neurotoxicity, induction of apoptosis and impairment in cell survival.Knowledge about the impact of BP-3 on foetal and neonatal development in humans is negligible and controversial. Some studies found no statistically significant association between prenatal BP-3 exposure (determined as the mother’s urinary concentration of BP-3 during pregnancy) and the offspring development parameters, such as growth, the intelligence quotient or pubertal timing [46–49]. However, the other researchers noticed the relationship between BP-3 exposure and the offspring’s birth weight, body fat mass or respiratory and allergic diseases [50–53]. In a recent meta-analysis performed on the basis of 21 studies, Zhong et al. noticed that prenatal exposure to BP-3 was negatively associated with foetal birth weight [54]. However, the design and methods of the included studies were inconsistent, which made it difficult to draw definitive conclusions. Huo et al. [55] reported that the maternal BP-3 urinary level was associated with higher odds of having a child with Hirschsprung’s disease – a neonatal intestinal abnormality that is derived from the failure of enteric neural crest cell migration to hindgut during early embryogenesis. However, in this study the urine samples from mothers were collected after the child was born, and did not necessarily reflect the prenatal BP-3 level. Molins-Delgado et al. [56] demonstrated the presence of BP-3 in human milk and in the plastic containers for milk storing, indicating that the exposure to this compound may take place not only during foetal development but also in the early stages of baby’s life.BP-3 and reproductive toxicityIn a recently published study of Frederiksen et al. [57], the presence of BP-3 was detected in the seminal fluid samples from young men, which used sunscreen during the 48 h preceding the sample collection. The previous in vitro study demonstrated that some chemical UV filters, including BP-3, can induce Ca2+ signals via the cationic channel of sperm (CatSper) Ca2+ channel, similar to progesterone [58]. Because Ca2+ signalling controls important sperm functions, like chemotaxis, motility, capacitation, and acrosome reaction, possibility of BP-3 to mimic the effect of progesterone in human spermatozoa may lead to impaired male fertility. On the other hand, there is evidence that BP-3 can cross blood-tissue barriers, such as the blood-follicle barrier or the blood-placental barrier [59]. Using the whole rat ovary cultures, Santamaria et al. demonstrated that the exposure to BP-3 decreased the population of total oocytes, the number of nests per ovary and early primary follicles population, leading to perturbation in the early germ cell development [60]. The in vivo study performed on rats confirmed that BP-3 had the ability to disrupt the sperm development in testicles of male offspring, and it can delay the follicular development in female [61]. Other research done on rodents showed that BP-3 caused lengthened oestrous cycles and decreased epididymal sperm density [62]. Data obtained from human studies do not notice the association between BP-3 exposure and infertility [63, 64], although such relation was observed for BP-2 [64]. However, an epidemiological study has provided evidence of a relation between BP-3 exposure and the frequency of the diagnosed endometriosis [65].BP-3 as an endocrine disrupting compoundBenzophenones belong to the group of substances defined as endocrine-disrupting chemicals (EDCs), because they have an affinity for the steroid hormone receptors and may interfere with gonadal function. BP-3 has also frequently been reported as a factor playing a key role in endocrine disruption [66–80]. This compound proved to be a strong activator of human estrogen receptors (ER), both α and β subtypes in the in vitro system, but did not show the estrogenic activity in a zebrafish in vivo study [66]. Moreover, the antagonistic activity of BP-3 has been detected in yeast expressing human ERα [67]. Also, this compound was found to be antagonist toward the androgen and progesterone receptors [68]. On the other hand, a dose-dependent estrogenic effect was noticed in rats exposed to high doses of BP-3 per os [69]. The endocrine disruption can also occur by altering normal hormone levels – by the inhibition or stimulation of production and/or metabolism of hormones. The urinary BP-3 concentration was found to be associated with significantly lower serum total testosterone levels in men [70]. In women, there was no association between urinary BP-3 levels and estradiol, progesterone, luteinizing hormone (LH), follicle-stimulating hormone (FSH) and sex hormone-binding globulin [71, 72]. The endocrine-disrupting potential of BP-3 was also evaluated by measuring the age of pubertal onset in children. However, the results are inconclusive. Binder et al. [73] showed that the urinary BP-3 levels were associated with earlier menarche but Wolff et al. [74] demonstrated that this compound delayed breast development in girls. In a recently performed study, there was no relationship between PB-3 levels in urine of pregnant mothers and the pubertal timing of their daughters and sons [47]. There are also suggestions that this compound may even be a cause of development the hormone-dependent tumours [75].In addition to the reproductive system, there is also an ambiguity for the impact of BP-3 on the hypothalamic–pituitary–thyroid (HPT) axis [71–80]. According to Aker et al. [71], the increase in the maternal urinary BP-3 resulted in a 3% decrease in free triiodothyronine (T3), but thyroid-stimulating hormone (TSH) and thyroxine (T4) remained unchanged in blood of pregnant women. BP-3, as the significant determinant of decreased serum thyroid hormones, was also confirmed in general US population [76]. On the other hand, Krause et al. [77] showed that the presence of oxybenzone in mothers’ urine had no impact on their T3 and T4 levels. Another study has been conducted on pregnant female rats dermally administered with BP-3, and demonstrated a higher level of T3, T4 and reduced TSH, which led to hyperthyroidism [14]. What is more, BP-3 was identified as a UV-filter that disrupts the functioning of HPT axis in experimental animals. This compound can interact with thyroid function by an agonistic effect on the thyroid receptor [78], and by reducing the expression of the estrogen receptor-related receptor 1 (ERR1) gene in the thyroid gland [79]. Moreover, the increased vulnerability to oxidative stress and cytotoxicity was observed in rat thymocytes exposed to BP-3 [80]. Taking above results under consideration, it seems possible that the effect of BP-3 on hormonal activity depends on the exposure model used and the animal species.BP-3 and neurotoxicityData from epidemiological and animal-based studies have suggested a relationship between the exposure to harmful environmental factors in early life and the risk of neurodegenerative disorders in adulthood. It is also believed that the developing brain is more vulnerable than the adult one to the same trigger [81]. There are still insufficient data on the impact of BP-3 on the human nervous system. The fact that BP-3 can cross the blood-brain barrier [79] inspired to examining its potential neurotoxic effect. The first in vitro study presenting the neurotoxic effects of BP-3 in primary culture of rat neocortex cells was performed by Fediuk et al. [9]. No significant differences in astrocyte and neuron viability were observed for short-time (24 and 48 h) exposure to BP-3. However, the prolonged (7-day) exposure to BP-3 reduced astrocyte and neuron viability by 25% and 36%, respectively. In this same study, the repeated, 30-day application of BP-3 at the dose of 5 mg/kg on the skin of 8-week-old male and female rats did not show the significant behavioural changes [9]. The apoptotic and neurotoxic effects of BP-3 on SH-SY5Y neuroblastoma cells was later confirmed by Broniowska et al. [82]. Wnuk et al. [83] showed that this compound is capable of inhibiting an autophagy and disturbing the epigenetic state of primary neuronal cell cultures by the inhibition of global DNA methylation as well as reduction of the activity of histone deacetylases (HDACs) and histone acetyl transferases (HATs). The global DNA hypomethylation and diminished activity of enzymes related to this process suggest the chromosomal instability and inappropriate gene expression pattern, leading to an increased risk of neurodevelopmental disorders or nerve degenerations.In other studies, the neurotoxic effects of BP-3 has been tested in in vivo models. Prenatal exposure of mice to subcutaneous BP-3 injection revealed activation of apoptosis, loss of the mitochondrial membrane potential, impairment of autophagy and alteration of epigenetic and post-translational status in the brain of mice embryos [16, 84]. BP-3-induced apoptosis and neurotoxicity was associated with global DNA hypomethylation and specific hypomethylation of the GPER1 and BAX genes. Simultaneously, BP-3 caused hypermethylation of other genes (ESR1, ESR2 and BCL2), which led to reduction of mRNA and protein levels of estrogen receptors in mouse neurons [84]. Moreover, BP-3 dysregulates expression of genes, which are responsible for neurogenesis and neurotransmission, as well as miRNAs involved in pathologies of the nervous system, especially schizophrenia and Alzheimer’s disease [16].The recent studies, after combined prenatal and adult dermal exposure to BP-3, also confirmed the proapoptotic changes, the raise of oxidative stress associated with reduction in the antioxidant capacity and an increase in the level of extracellular glutamate in frontal cortex and hippocampus of male offsprings. In both brain regions, the contents of ERβ were also significantly reduced [15, 85]. However, when female offsprings were studied [14], the same exposure to BP-3 resulted in a lower concentration of BP-3 in both examined parts of the brain compared to male offsprings, and did not induce the apoptotic process, whereas the increase in extracellular glutamate concentration and enhanced lipid peroxidation were still visible. These results suggest that the neuronal effects of BP-3 may be age- and gender-dependent, as females metabolize this compound faster than males. They also confirm the previous observation [81] that the unfavourable effect of BP-3 on the nervous system is more pronounced in the developing organism than in the mature one. Importantly, the impairment in the spatial memory was observed after BP-3 exposure both in male and female offsprings [14, 15]. Because knowledge about the impact of BP-3 on the nervous system in children is negligible, the above results provide the first suspicion that exposure to BP-3, especially during the embryonic development period, may result in the increased risk of neurodegenerative diseases, such as Parkinson’s, Alzheimer’s or Huntington’s diseases in the future.ConclusionsThe consumer care products containing BP-3 are widely used by the general public. However, the negative effects that may be induced by BP-3 on human health, cannot be clearly stated due to an insufficient number of performed studies. Nowadays, more and more researches are being conducted into the harmfulness of BP-3 on animals. These researches show that a BP-3, as a single compound, can exert some potential negative health effects. The problem is that the chemical filters are almost always used in the mixtures. Although the amount of individual compounds may be small, their effects are poorly understood. In addition, the same substance can be found in more than one product, what creates an opportunity of the “additive effect” and is not possible to predict their overall adverse impact on human health. The most disturbing findings are that foetuses and babies are exposed to BP-3 as this UV filter was found in human milk and it can easily cross the blood-brain barrier after being topically applied. The continuous and long-term exposure of the developing organism to a mix of chemicals contained in UV filters, which may act as endocrine disruptors or neurotoxins, could have consequences for its health in adult life. Until this situation is clarified, pregnant women and children should pay special attention to the composition of sunscreens. For their own safety, they should look for the alternative photoprotection including sunscreens with mineral/inorganic UV filters, protective clothing and avoidance of sun exposure during midday hours.Conflict of interestThe authors declare no conflict of interest.References1. Maier T, Korting HC. Sunscreens–which and what for?
+Skin Pharrmacol Physiol
+2005; 18: 253-62. [PubMed] [Google Scholar]2. Schneider SL, Lim HW. Review of environmental effects of oxybenzone and other sunscreen active ingradients. J Am Acad Dermatol
+2019; 80: 266-71. [PubMed] [Google Scholar]3. Gonzalez H, Farbrot A, Larko O, Wennberg AM. Percutaneous absorption of the sunscreen benzophenone-3 after repeated whole-body applications, with and without ultraviolet irradiation. Br J Dermatol
+2006; 154: 337-40. [PubMed] [Google Scholar]4. Calafat AM, Wong LY, Ye X, et al.. Concentrations of the sunscreen agent benzophenone-3 in residents of the United States: National Health and Nutrition Examination Survey 2003–2004. Environ Health Perspect
+2008; 116: 893-97. [PMC free article] [PubMed] [Google Scholar]5. Commission Regulation (EU) 2017/238 of 10 February 2017 amending Annex VI to Regulation (EC) No 1223/2009 of the European Parliament and of the Council on cosmetic products C/2017/0716; http://data.europa.eu/eli/reg/2017/238/oj.6. Sunscreen Drug Products for Over-the-Counter Human Use, in Federal Register, Food and Drug Administration, HHS. 2019: 6204-75; 84 FR 6204. [Google Scholar]7. Frederiksen H, Nielsen O, Koch HM, et al.. Changes in urinary excretion of phthalates, phthalate substitutes, bisphenols and other polychlorinated and phenolic substances in young Danish men; 2009-2017. Int J Hyg Environ Health
+2020; 223: 93-105. [PubMed] [Google Scholar]8. Bojarowicz H, Bartnikowska N. Kosmetyki ochrony przeciwsłonecznej. Czêœæ I. Filtry UV oraz ich właściwości. Probl Hig Epidemiol
+2014; 95: 596-601. [Google Scholar]9. Fediuk DJ, Wang T, Raizman JE, et al.. Tissue deposition of the insect repellent DEET and the sunscreen oxybenzone from repeated topical skin applications in rats. Int J Toxicol
+2010; 29: 594-603. [PubMed] [Google Scholar]10. Janjua NR, Kongshoj B, Andersson AM, Wulf HC. Sunscreens in human plasma and urine after repeated whole-body topical application. J Eur Acad Dermatol Venereol
+2008; 22: 456-61. [PubMed] [Google Scholar]11. Wang J, Pan L, Wu S, et al.. Recent advances on endocrine disrupting effects of UV filters. Int J Environ Res Public Health
+2006; 13: 782. [PMC free article] [PubMed] [Google Scholar]12. Okereke CS, Barat SA, Abdel-Rahman MS. Safety evaluation of benzophenone-3 after dermal administration in rats. Toxicol Lett
+1995; 80: 61-7. [PubMed] [Google Scholar]13. Schlumpf M, Kypke K, Wittassek M, et al.. Exposure patterns of UV filters, fragrances, parabens, phthalates, organochlor pesticides, PBDEs, and PCBs in human milk: correlation of UV filters with use of cosmetics. Chemosphere
+2010; 81: 1171-83. [PubMed] [Google Scholar]14. Skórkowska A, Maciejska A, Pomierny B, et al.. Effects of combined prenatal and adult benzophenone-3 dermal exposure on factors regulating neurodegenerative processes, blood hormone levels, and hematological parameters in female rats. Neurotox Res
+2020; 37: 683-701. [PMC free article] [PubMed] [Google Scholar]15. Pomierny B, Krzy¿anowska W, Broniowska Ż, et al.. Benzophenone-3 passes through the blood-brain barrier, increases the level of extracellular glutamate and induces apoptotic processes in the hippocampus and frontal cortex of rats. Toxicol Sci
+2019; 171: 485-500. [PubMed] [Google Scholar]16. Wnuk A, Rzemieniec J, Staroñ J, et al.. Prenatal exposure to benzophenone-3 impairs autophagy, disrupts RXRs/PPARγ signaling, and alters epigenetic and post-translational statuses in brain neurons. Mol Neurobiol
+2019; 56: 4820-37. [PMC free article] [PubMed] [Google Scholar]17. Matta MK, Zusterzeel R, Pilli NR, et al.. Effect of sunscreen application under maximal use conditions on plasma concentration of sunscreen active ingredients: a randomized clinical trial. JAMA
+2019; 321: 2082-91. [PMC free article] [PubMed] [Google Scholar]18. Baker LA, Horbury MD, Greenough SE, et al.. Broadband ultrafast photoprotection by oxybenzone across the UVB and UVC spectral regions. Photochem Photobiol Sci
+2015; 14: 1814-20. [PubMed] [Google Scholar]19. Hofer S, Stonig M, Wally V, et al.. Contradictory effects of chemical filters in UV/ROS-stressed human keratinocyte and fibroblast cells. ALTEX
+2019; 36: 231-44. [PubMed] [Google Scholar]20. Karsili TN, Marchetti B, Ashfold MN, Domcke W. Ab initio study of potential ultrafast internal conversion routes in oxybenzone, caffeic acid, and ferulic acid: implications for sunscreens. J Phys Chem A
+2014; 118: 11999-2010. [PubMed] [Google Scholar]21. Vilela FM, Oliveira FM, Vicentini FT, et al.. Commercial sunscreen formulations: UVB irradiation stability and effect on UVB irradiation-induced skin oxidative stress and inflammation. J Photochem Photobiol B
+2016; 163: 413-20. [PubMed] [Google Scholar]22. Vilela FM, Fonseca YM, Jabor JR, et al.. Effect of ultraviolet filters on skin superoxide dismutase activity in hairless mice after a single dose of ultraviolet radiation. Eur J Pharm Biopharm
+2012; 80: 387-92. [PubMed] [Google Scholar]23. Liu H, Sun P, Liu H, et al.. Hepatic oxidative stress biomarker responses in freshwater fish Carassius auratus exposed to four benzophenone UV filters. Ecotoxicol Environ Saf
+2015; 119: 116-22. [PubMed] [Google Scholar]24. Rodriguez-Fuentes G, Sandoval-Gio JJ, Arryo-Sliva A, et al.. Evaluation of the estrogenic and oxidative stress effects of the UV filter 3-benzophenone in zebrafish (Danio rerio) eleuthero-embryos. Ecotoxicol Environ Saf
+2015; 115: 14-8. [PubMed] [Google Scholar]25. Zhong X, Li Y, Che X, et al.. Significant inhibition of photosynthesis and respiration in leaves of Cucumis sativus L. by oxybenzone, an active ingredient in sunscreen. Chemosphere
+2019; 219: 456-62. [PubMed] [Google Scholar]26. Zhong X, Downs CA, Che X, et al.. The toxicological effects of oxybenzone, an active ingredient in suncream personal care products, on prokaryotic alga Arthrospira sp. and eukaryotic alga Chlorella sp. Aquat Toxicol
+2019; 216: 105295. [PubMed] [Google Scholar]27. Cocci P, Mosconi G, Palermo FA. Sunscreen active ingredients in loggerhead turtles (Caretta caretta) and their relation to molecular markers of inflammation, oxidative stress and hormonal activity in wild populations. Mar Pollut Bull
+2020; 153: 111012. [PubMed] [Google Scholar]28. Ramsay DL, Cohen HJ, Baer RL. Allergic reaction to benzophenone. Simultaneous occurrence of urticarial and contact sensitivities. Arch Deramtol
+1972; 105: 906-8. [PubMed] [Google Scholar]29. European Multicentre Photopatch Test Study (EMCPPTS) Taskforce . A European multicentre photopatch test study. Br J Dermatol
+2012; 166: 1002-9. [PubMed] [Google Scholar]30. Warshaw EM, Wang MZ, Maibach HI, et al.. Patch test reactions associated with sunscreen products and the importance of testing to an expanded series: retrospective analysis of North American Contact Dermatitis Group data, 2001 to 2010. Dermatitis
+2013; 24: 176-82. [PubMed] [Google Scholar]31. Heurung AR, Raju SI, Warshaw EM. Benzophenones. Dermatitis
+2014; 25: 3-10. [PubMed] [Google Scholar]32. Spijker GT, Schuttelaar ML, Barkema L, et al.. Anaphylaxis caused by topical application of sunscreen containing benzophenone-3. Contact Dermatitis
+2008; 59: 248-9. [PubMed] [Google Scholar]33. Emonet S, Pasche-Koo F, Perin-Minisini MJ, et al.. Anaphylaxis to oxybenzone, a frequent constituent of sunscreens. J Allergy Clin Immunol
+2001; 107: 556-57. [PubMed] [Google Scholar]34. Tawfik ME, Atwater AR. Anaphylactoid reaction to benzophenones, with recurrence during patch testing. Contact Dermatitis
+2019; 81: 303-4. [PubMed] [Google Scholar]35. Horn HM, Humphreys F, Aldridge RD. Contact dermatitis and prolonged photosensitivity induced by ketoprofen and associated with sensitivity to benzophenone-3. Contact Dermatitis
+1998; 38: 353-4. [PubMed] [Google Scholar]36. Amar SK, Goyal S, Dubey D, et al.. Benzophenone 1 induced photogenotoxicity and apoptosis via release of cytochrome c and Smac/DIABLO at environmental UV radiation. Toxicol Lett
+2015; 239: 182-93. [PubMed] [Google Scholar]37. Amar SK, Srivastav AK, Dubey D, et al.. Sunscreen-induced expression and identification of photosensitive marker proteins in human keratinocytes under UV radiation. Toxicol Ind Health
+2019; 35: 457-65. [PubMed] [Google Scholar]38. Amar SK, Goyal S, Mujtaba SF, et al.. Role of type I & type II reactions in DNA damage and activation of caspase 3 via mitochondrial pathway induced by photosensitized benzophenone. Toxicol Lett. 2015; 235: 84-95. Erratum In: Toxicol Lett. 2019; 314: 194-5. [PubMed] [Google Scholar]39. Amar SK, Goyal S, Srivastav AK, et al.. Combined effect of Benzophenone-2 and ultraviolet radiation promote photogenotoxicity and photocytotoxicity in human keratinocytes. Regul Toxicol Pharmacol
+2018; 95: 298-306. Erratum In: Regul Toxicol Pharmacol 2019; 101: 201-2. [PubMed] [Google Scholar]40. Vela-Soria F, Jiménez-Díaz I, Rodríguez-Gómez R, et al.. Determination of benzophenones in human placental tissue samples by liquid chromatography-tandem mass spectrometry. Talanta
+2011; 85: 1848-55. [PubMed] [Google Scholar]41. Philippat C, Wolff MS, Calafat AM, et al.. Prenatal exposure to environmental phenols: concentrations in amniotic fluid and variability in urinary concentrations during pregnancy. Environ Health Perspect
+2013; 121: 1225-31. [PMC free article] [PubMed] [Google Scholar]42. Almeida SDS, Rocha TL, Qualhato G, et al.. Acute exposure to environmentally relevant concentrations of benzophenone-3 induced genotoxicity in Poecilia reticulata. Aquat Toxicol
+2019; 216: 105293. [PubMed] [Google Scholar]43. Blüthgen N, Zucchi S, Fent K. Effects of the UV filter benzophenone-3 (oxybenzone) at low concentrations in zebrafish (Danio rerio). Toxicol Appl Pharmacol
+2012; 263: 184-94. [PubMed] [Google Scholar]44. Campos D, Silva ARR, Loureiro S, et al.. Two-generational effects of benzophenone-3 on the aquatic midge Chironomus riparius. Sci Total Environ
+2019; 669: 983-90. [PubMed] [Google Scholar]45. Wnuk A, Rzemieniec J, Lasoñ W, et al.. Apoptosis induced by the uv filter benzophenone-3 in mouse neuronal cells is mediated via attenuation of Erα/Pparγ and stimulation of Erß/Gpr30 signaling. Mol Neurobiol
+2018; 55: 2362-83. [PMC free article] [PubMed] [Google Scholar]46. Ferguson KK, Meeker JD, Cantonwine DE, et al.. Environmental phenol associations with ultrasound and delivery measures of fetal growth. Environ Int
+2018; 112: 243-50. [PMC free article] [PubMed] [Google Scholar]47. Harley KG, Berger KP, Kogut K, et al.. Association of phthalates, parabens and phenols found in personal care products with pubertal timing in girls and boys. Hum Reprod
+2019; 34: 109-17. [PMC free article] [PubMed] [Google Scholar]48. Nakiwala D, Peyre H, Heude B, et al.. In-utero exposure to phenols and phthalates and the intelligence quotient of boys at 5 years. Environ Health
+2018; 17: 17. [PMC free article] [PubMed] [Google Scholar]49. Philippat C, Botton J, Calafat AM, et al.. Prenatal exposure to phenols and growth in boys. Epidemiology
+2014; 25: 625-35. [PMC free article] [PubMed] [Google Scholar]50. Philippat C, Mortamais M, Chevrier C, et al.. Exposure to phthalates and phenols during pregnancy and offspring size at birth. Environ Health Perspect
+2012; 120: 464-70. [PMC free article] [PubMed] [Google Scholar]51. Wolff MS, Engel SM, Berkowitz GS, et al.. Prenatal phenols and phtalate exposures and birth outcomes. Environ Health Perspect
+2008; 116: 1092-7. [PMC free article] [PubMed] [Google Scholar]52. Buckley JP, Herring AH, Wolff MS, et al.. Prenatal exposure to environmental phenols and childhood fat mass in the Mount Sinai Children’s Environmental Health Study. Environ Int
+2016; 91: 350-6. [PMC free article] [PubMed] [Google Scholar]53. Buckley JP, Quiros-Alcala L, Teitelbaum SL, et al.. Associations of prenatal environmental phenol and phthalate biomarkers with respiratory and allergic diseases among children aged 6 and 7 years. Environ Int
+2018; 115: 79-88. [PMC free article] [PubMed] [Google Scholar]54. Zhong Q, Peng M, He J, et al.. Association of prenatal exposure to phenols and parabens with birth size: a systematic review and meta-analysis. Sci Total Environ
+2020; 703: 134720. [PubMed] [Google Scholar]55. Huo W, Cai P, Chen M, et al.. The relationship between prenatal exposure to BP-3 and Hirschsprung’s disease. Chemosphere
+2016; 144: 1091-7. [PubMed] [Google Scholar]56. Molins-Delgado D, Olmo-Campos MDM, Valeta-Juan G, et al.. Determination of UV filters in human breast milk using turbulent flow chromatography and babies’ daily intake estimation. Environ Res
+2018; 161: 532-9. [PubMed] [Google Scholar]57. Frederiksen H, Krause M, Jørgensen N, et al.. UV filters in matched seminal fluid-, urine-, and serum samples from young men. J Expo Sci Environ Epidemiol
+2021; 31: 345-55. [PubMed] [Google Scholar]58. Rehfeld A, Dissing S, Skakkebæk NE. Chemical UV filters mimic the effect of progesterone on Ca(2+) signaling in human sperm cells. Endocrinology
+2016; 157: 4297-308. [PubMed] [Google Scholar]59. Fernández MF, Arrebola JP, Jiménez-Díaz I, et al.. Bisphenol A and other phenols in human placenta from children with cryptorchidism or hypospadias. Reprod Toxicol
+2016; 59: 89-95. [PubMed] [Google Scholar]60. Santamaría CG, Abud JE, Porporato MM, et al.. The UV filter benzophenone 3, alters early follicular assembly in rat whole ovary cultures. Toxicol Lett
+2019; 303: 48-54. [PubMed] [Google Scholar]61. Nakamura N, Inselman AL, White GA, et al.. Effects of maternal and lactational exposure to 2-hydroxy-4-methoxybenzone on development and reproductive organs in male and female rat offspring. Birth Defects Res B Dev Reprod Toxicol
+2015; 104: 35-51. [PMC free article] [PubMed] [Google Scholar]62. French JE. NTP technical report on the toxicity studies of 2-hydroxy-4-methoxybenzophenone (CAS No. 131-57-7) administered topically and in dosed feed to F344/N rats and B6C3F1 mice. Toxic Rep Ser
+1992; 21: E1-14. [PubMed] [Google Scholar]63. Chen M, Tang R, Fu G, et al.. Association of exposure to phenols and idiopathic male infertility. J Hazard Mater
+2013; 250-251:  115-21. [PubMed] [Google Scholar]64. Buck Louis GM, Maisog J, Sapra KJ, et al.. Urinary concentrations of benzophenone-type ultraviolet radiation filters and couples’ fecundity. Am J Epidemiol
+2014; 180: 1168-75. [PMC free article] [PubMed] [Google Scholar]65. Kunisue T, Chen Z, Buck Louis GM, et al.. Urinary concentrations of benzopheone-type UV filters in U.S. women and their association with endometriosis. Environ Sci Technol
+2012; 46: 4624-32. [PMC free article] [PubMed] [Google Scholar]66. Schreurs R, Lanser P, Seinen W, et al.. Estrogenic activity of UV filters determined by an in vitro reporter gene assay and an in vivo transgenic zebrafish assay. Arch Toxicol
+2002; 76: 257-61. [PubMed] [Google Scholar]67. Kunz PY, Fent K. Multiple hormonal activities of UV-filters and comparison of in vivo and in vitro estrogenic activity of ethyl-4-aminobenzoate in fish. Aquat Toxicol
+2006; 79: 305-24. [PubMed] [Google Scholar]68. Schreurs RHMM, Sonneveld E, Jansen JHJ, et al.. Interaction of polycyclic musks and UV filters with the estrogen receptor (ER), androgen receptor (AR), and progesterone receptor (PR) in reporter gene bioassays. Toxicol Sci
+2005; 83: 264-72. [PubMed] [Google Scholar]69. Schlumpf M, Cotton B, Conscience M, et al.. In vitro and in vivo estrogenicity of UV screens. Environ Health Perspect
+2001; 109: 239-44. [PMC free article] [PubMed] [Google Scholar]70. Scinicariello F, Buser MC. Serum testosterone concentrations and urinary bisphenol A, benzophenone-3, triclosan, and paraben levels in male and female children and adolescents: NHANES 2011–2012. Environ Health Perspect
+2016; 124: 1898-904. [PMC free article] [PubMed] [Google Scholar]71. Aker AM, Watkins DJ, Johns LE, et al.. Phenols and parabens in relation to reproductive and thyroid hormones in pregnant women. Environ Res
+2016; 151: 30-7. [PMC free article] [PubMed] [Google Scholar]72. Pollack AZ, Mumford SL, Krall JR, et al.. Exposure to bisphenol A, chlorophenols, benzophenones, and parabens in relation to reproductive hormones in healthy women: a chemical mixture approach. Environ Int
+2018; 120: 137-44. [PMC free article] [PubMed] [Google Scholar]73. Binder AM, Corvalan C, Calafat AM, et al.. Childhood and adolescent phenol and phthalate exposure and the age of menarche in Latina girls. Environ Health
+2018; 17: 32. [PMC free article] [PubMed] [Google Scholar]74. Wolff MS, Teitelbaum SL, McGovern K, et al.. Environmental phenols and pubertal development in girls. Environ Int
+2015; 84: 174-80. [PMC free article] [PubMed] [Google Scholar]75. Nakagawa Y, Suzuki T. Metabolism of 2-hydroxy-4-methoxybenzophenone in isolated rat hepatocytes and xenoestrogenic effects of its metabolites on MCF-7 human breast cancer cells. Chem Biol Interact
+2002; 139: 115-28. [PubMed] [Google Scholar]76. Kim S, Kim S, Won S, Choi K. Considering common sources of exposure in association studies–urinary benzophenone-3 and DEHP metabolites are associated with altered thyroid hormone balance in the NHANES 2007-2008. Environ Int
+2017; 107: 25-32. [PubMed] [Google Scholar]77. Krause M, Frederiksen H, Sundberg K, et al.. Maternal exposure to UV filters and associations to maternal thyroid hormones and IGF-I/IGFBP3 and birth outcomes. Endocrine Connections
+2018; 7: 334-46. [PMC free article] [PubMed] [Google Scholar]78. Schmutzler C, Gotthardt I, Hofmann PJ, et al.. Endocrine disruptors and the thyroid gland–a combined in vitro and in vivo analysis of potential new biomarkers. Environ Health Perspect
+2007; 115 (Suppl 1): 77-83. [PMC free article] [PubMed] [Google Scholar]79. Schlecht C, Klammer H, Jarry H, Wuttke W. Effects of estradiol, benzophenone-2 and benzophenone-3 on the expression pattern of the estrogen receptors (ER) alpha and beta, the estrogen receptor-related receptor 1 (ERR1) and the aryl hydrocarbon receptor (AhR) in adult ovariectomized rats. Toxicology
+2004; 205: 123-30. [PubMed] [Google Scholar]80. Utsunomiya H, Hiraishi R, Kishimoto K, et al.. Cytotoxicity of benzophenone-3, an organic ultraviolet filter, caused by increased intracellular Zn2+ levels in rat thymocytes. Chem Biol Interact
+2019; 298: 52-6. [PubMed] [Google Scholar]81. Modgil S, Lahiri DK, Sharma VL, Anand A. Role of early life exposure and environment on neurodegeneration: implications on brain disorders. Transl Neurodegener
+2014; 3: 9. [PMC free article] [PubMed] [Google Scholar]82. Broniowska Ż, Pomierny B, Smaga I, et al.. The effect of UV-filters on the viability of neuroblastoma (SH-SY5Y) cell line. Neurotoxicology
+2016; 54: 44-52. [PubMed] [Google Scholar]83. Wnuk A, Rzemieniec J, Lasoñ W, et al.. Benzophenone-3 impairs autophagy, alters epigenetic status, and disrupts retinoid x receptor signaling in apoptotic neuronal cells. Mol Neurobiol
+2018; 55: 5059-74. [PMC free article] [PubMed] [Google Scholar]84. Wnuk A, Rzemieniec J, Litwa E, et al.. Prenatal exposure to benzophenone (BP-3) induces apoptosis, disrupts estrogen receptors expression and alters the epigenetic status of mouse neurons. J Steroid Biochem Mol Biol
+2018; 182: 106-18. [PubMed] [Google Scholar]85. Krzy¿anowska W, Pomierny B, Starek-Œwiechowicz B, et al.. The effects of benzophenone-3 on apoptosis and the expression of sex hormone receptors in the frontal cortex and hippocampus of rats. Toxicol Lett
+2018; 296: 63-72. [PubMed] [Google Scholar]Articles from Advances in Dermatology and Allergology/Postȩpy Dermatologii i Alergologii are provided here courtesy of Termedia Publishing
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (213K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

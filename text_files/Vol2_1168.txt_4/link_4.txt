@@ -1,0 +1,728 @@
+Document Name: role of MIGLYOL 840 in Cream4
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134640/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Preparation, Characterization, and In Vitro Permeation Study of Terbinafine HCl in Poloxamer 407-Based Thermogelling Formulation for Topical Application - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+AAPS PharmSciTech
+
+
+v.12(2); 2011 Jun
+
+
+                    PMC3134640
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (462K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+AAPS PharmSciTech
+
+
+v.12(2); 2011 Jun
+
+
+                    PMC3134640
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+AAPS PharmSciTech. 2011 Jun; 12(2): 496–506. Published online 2011 Apr 9.  doi: 10.1208/s12249-011-9611-4PMCID: PMC3134640PMID: 21479748Preparation, Characterization, and In Vitro Permeation Study of Terbinafine HCl in Poloxamer 407-Based Thermogelling Formulation for Topical Application Lusiana and  Christel C. Müller-Goymann LusianaInstitut für Pharmazeutische Technologie, Technische Universität Braunschweig, Mendelssohnstraße 1, 38106 Braunschweig, Germany Find articles by  LusianaChristel C. Müller-GoymannInstitut für Pharmazeutische Technologie, Technische Universität Braunschweig, Mendelssohnstraße 1, 38106 Braunschweig, Germany Find articles by Christel C. Müller-GoymannAuthor information Article notes Copyright and License information DisclaimerInstitut für Pharmazeutische Technologie, Technische Universität Braunschweig, Mendelssohnstraße 1, 38106 Braunschweig, Germany Christel C. Müller-Goymann, Phone: +49-531-3915650, Fax: +49-531-3918108, Email: ed.sb-ut@nnamyog-relleum.c.Corresponding author.Received 2010 Dec 21; Accepted 2011 Mar 20.Copyright © American Association of Pharmaceutical Scientists 2011AbstractUpon topical administration, a high penetration rate of antifungal drug into the infected site is desirable to reduce treatment length and systemic side effects which occur especially after a prolonged peroral administration. Thermogelling formulations composed of poloxamer 407, medium chain triglycerides, isopropyl alcohol, dimethyl isosorbide, and water for topical application were developed, and a lipophilic drug terbinafine HCl (TBF) was incorporated. Previously, a remarkable high permeation rate of a hydrophilic drug 5-aminolevulinic acid from this vehicle was evident compared to different creams from German Pharmacopoeia. By varying the composition of vehicle constituents, a broad range of consistencies and appearances was obtained. Up to 4% TBF could be solubilized in the vehicle. TBF fluxes at steady state across human stratum corneum from these formulations were higher than those from the German Pharmacopoeia Basiscreme Deutscher Arzneimittel Codex and a marketed product at similar concentration of 1%. TBF fluxes increased along with a higher content of TBF in the formulation. The amount of TBF retained in stratum corneum was higher compared to those from both standards of comparison (p < 0.01). The thermodynamic activity of TBF in the thermogelling formulation was lower compared to those in other formulations. Therefore, the nature of the vehicle and its interaction with TBF are suggested to play a significant role in explaining higher fluxes along with higher TBF content. Differential scanning calorimetry measurements revealed comparable T2 and T3 endothermic shifts from all examined formulations suggesting equal influences to the skin lipids.Key words: permeation, poloxamer 407, stratum corneum, terbinafine HCl, thermogelling formulationINTRODUCTIONIn the development of drug delivery system, block copolymers composed of polyethylene oxide (PEO) and polypropylene oxide (PPO) have achieved much attention during the last decades due to their low toxicity and wide use. Especially for transdermal delivery, poloxamer 407 with 30% PPO content and molecular weight of 12,500 (1) has already been intensively used for drug delivery across the skin (2,3). A significant permeation enhancement of a hydrophilic drug, such as 5-aminolevulinic acid (5-ALA, log P −1.51), through human stratum corneum from a poloxamer 407-based thermogelling formulation has been reported for photodynamic therapy and diagnosis purposes (4,5). 5-ALA fluxes from this thermogelling formulation were 7.5- and 19.5-fold higher than those from Basiscreme Deutscher Arzneimittel Codex (DAC) and water containing hydrophilic ointment, respectively. Both bases are described in German Pharmacopoeia. The thermogelling vehicle was composed of poloxamer 407, Miglyol® 840, isopropyl alcohol, dimethyl isosorbide, and water. All ingredients proved to work synergistically; the elimination of one component led to the decrease in 5-ALA fluxes (6). The permeation enhancement of 5-ALA from this base was independent of water content in the formulation (5). From this result, the question arises whether a high permeation rate can also be achieved with the incorporation of lipophilic drug. Since many drugs are lipophilic, they may reside within the hydrophobic cores of poloxamer micelles. Hence, their incorporation into this poloxamer-based formulation would be a valuable input for the therapy improvement.Terbinafine HCl (TBF) was chosen as a model of a lipophilic drug with log P of 3.3 (7). TBF is intended for treating mycosis caused by dermatophyte, e.g., tinea pedis/Athlete’s foot or tinea unguium in the nail or onychomycosis. Especially onychomycosis, its treatment is up to now still problematic due to the long treatment (more than 6 months), thus there is limited success because of non-compliance of the patients. Therefore, the relapse incidence is high, at about 3–20% after peroral administration with TBF (8,9). Moreover, a prolonged peroral administration for severe onychomycosis caused many cases of systemic side effects especially in patients with diabetes and cardiovascular problem who received an additional treatment (10). In accordance to all those shortcomings, topical treatment is still the favorite among other treatments. A good release and a high permeation rate of the drug into the infected site are a prerequisite of a successful topical treatment.TBF topical delivery is not only limited to the application of the formulation onto the infected site, but also the use of other methods has been described such as iontophoresis (11–17) and penetration enhancer incorporation (7,18) to enhance TBF fluxes across nails and skin. Nail lacquer containing TBF has been developed as well (19). While those procedures are applicable to nails only, a more convenient treatment of skin infection is still required. A good topical formulation containing TBF should be able to reduce or even substitute peroral therapy of moderate to severe infection. Up to now, some research associated with TBF delivery into the skin has been reported, i.e., the use of microemulsions and chitosan hydrogels (20,21).In the present study, 1% TBF was incorporated and in contrast to the vehicle previously used for 5-ALA administration (5,22), Miglyol® 812N (caprylic/capric acid triglyceride, a medium chain triglyceride) was used instead of Miglyol® 840 (propylene glycol dicaprylate/dicaprate) as the lipid component of the vehicle. This alteration did not affect the physicochemical characteristics of the formulations. The amount of drug permeated from the chosen thermogelling formulations through stratum corneum was determined and compared to those from Basiscreme DAC and the marketed product Lamisil® Creme (Novartis AG).MATERIALS AND METHODSMaterialsTBF was purchased from Suzhou Leader Chemical Co., Ltd, China and was used as received. The purity was determined to be 100–101% (potentiometry) according to the monograph in Eur. Ph. 6.0 (2008). TBF from Sigma-Aldrich Chemie (Steinheim, Germany) was used as the work standard for high performance liquid chromatography/HPLC measurements. Poloxamer 407/POX (Lutrol® F 127) was kindly donated by BASF (Ludwigshafen, Germany), and dimethyl isosorbide/DMIS was from Dolorgiet (St. Agustin/Bonn, Germany). Medium chain triglyceride/MCT (Miglyol® 812N) was purchased from Sasol GmbH (Germany) and isopropyl alcohol/IPA (HPLC grade) from VWR Int. (Leuven, Belgium). To produce phosphate buffer pH 5.8 (Eur. Ph. 6.0, 4002100), disodium hydrogen phosphate dihydrate and potassium dihydrogen phosphate were purchased from Merck KGaA (Darmstadt, Germany). Trypsin was obtained from Carl Roth GmbH (Karlsruhe, Germany) and trypsin inhibitor, type II-O, chicken egg white from Sigma-Aldrich Chemie (Steinheim, Germany). Methanol was purchased from Fisher Scientific Ltd. (Leicestershire, UK) and triethylamine from Merck-Schuchardt (Hohenbrunn, Germany). Water was used in double distilled quality, except for HPLC analysis. For this purpose, water was processed with an EASYpure™ LF from Barnstead (Dubuque, USA) to produce type I reagent-grade water with low organic content and a high resistivity of up to 18.3 MΩ-cm.Lamisil® Creme was purchased from a local pharmacy, and a ready-to-use Basiscreme DAC was purchased from Caelo (Hilden, Germany). Lamisil® Creme is a semisolid formulation containing 1% TBF, purified water, isopropyl myristate, polysorbate 60, stearyl alcohol, cetyl alcohol, cetyl palmitate, sorbitan stearate, benzyl alcohol, and sodium hydroxide. Basiscreme DAC was composed of glycerol monostearate 60 (4%), cetyl alcohol (6%), medium chain triglycerides (7.5%), white soft paraffin (25.5%), macrogol-20-glycerol monostearate (7%), propylene glycol (10%), and purified water (40%) (23).Manufacture of Formulations and Physicochemical CharacterizationFormulations were given codes according to the drug content and the collective content of POX/MCT and IPA/DMIS in the vehicle alone. The ratios of POX/MCT and IPA/DMIS in all cases were fixed in accordance to the work of Grüning and Müller-Goymann (5) at 4:1 and 1:1, respectively. For example, 1P5025 contained 1% TBF, while the vehicle itself was composed of 50% POX/MCT (4:1), 25% IPA/DMIS (1:1), and 25% water (all w/w). Some examples are given in Table I. About 30 formulations were manufactured to construct the pseudoternary phase diagram for each characterization (Figs. 1 and ​and2).2). Semisolid formulations received a higher priority for topical application. Thus, formulations composed of “binary components” only, e.g., without water or without POX/MCT, were not manufactured. POX/MCT was used in concentration above 25% since below this concentration, especially in the area with a high content of IPA/DMIS (≥40%), these systems were no longer semisolid and were rated of minor interest for topical application.
+Table ICompositions of Some Thermogelling Formulations (All in % w/w)FormulationPOXMCTIPADMISWaterTBF(4:1)(1:1)P252520.005.0012.5012.5050.0001P252519.804.9512.3812.3849.501.002P252519.604.9012.2512.2549.002.00P303024.006.0015.0015.0040.0001P303023.765.9414.8514.8539.601.002P303023.525.8814.7014.7039.202.001P403031.687.9214.8514.8529.701.004P403030.727.6814.4014.4028.804.00Open in a separate windowOpen in a separate windowFig. 1Appearances in pseudoternary phase diagram a without and b with 2% TBF; the line in the middle separates liquid from semisolid systemsOpen in a separate windowFig. 2
+a Ringing effect and b isotropy of formulations with and without 2% TBFTBF solubility in the vehicle was determined in 1% step until undissolved TBF crystals were visible under the polarizing microscope. The 21 final formulations which were saturated with TBF are displayed in Fig. 3(a). In all cases, pseudoternary phase diagrams represented vehicle position without drug, e.g., P5025 and 1P5025 were marked on identic position to assist interpretation.
+Open in a separate windowFig. 3
+a TBF concentrations at saturation and b an example of insoluble TBF crystals under polarizing microscope; square <2%, filled circle 2%, filled square 3%, filled triangle 4%All materials were weighed in a special jar designed for Cito unguator 2000 Konietzko GmbH (Bamberg, Germany) and were mixed at 1,450 rpm for 1.5 min. The composition of the vehicle constituents was varied and depended on the characterization requirement; TBF, POX/MCT, and IPA/DMIS ranged from 0% to 4%, 25% to 75%, and 10% to 70% (all w/w), respectively.Physicochemical characterization was carried out after 24 h to allow sufficient equilibration of the microstructure. The characterization was performed visually in terms of appearance and ringing effect, as well as microscopically in terms of isotropy and TBF concentration at saturation. The ringing effect was examined by knocking the jar to a hard surface. A “ringing” gel would respond to agitation with a particular back resonance. Isotropy and TBF concentration at saturation were examined under a polarizing microscope Leica LMDM equipped with camera Olympus DP12 (Hamburg, Germany). The lowest TBF concentration representing detectable crystals was defined as the saturation/solubility concentration.Rheometrical MeasurementsRheometrical measurements were performed in an oscillation mode using a controlled stress rheometer CVO 50 from Bohlin (Bamberg, Germany) with a conical disk plate of an angle of 1° (Ø 20 mm). Gelation temperatures and complex viscosities were measured within the linear viscoelastic regions of the formulations which were previously determined with an amplitude sweep at a fixed frequency of 0.5 Hz. This low frequency was chosen to prohibit any major change in the microstructure during the subsequent measurements, especially during gelation point detection (24). Complex viscosities (η*) were measured at 32°C to make sure that the formulation was in its viscoelastic state, i.e., storage modulus G′ > loss modulus G″. Gelation temperatures were determined within the temperature range from 30°C to 5°C using a temperature gradient program with a rate of 2°C/min. The samples of approximately 1 g were applied and renewed prior to the proximate measurement. The cone/plate rheometer including the sample was placed under a protecting cover during the measurements to prevent any excessive evaporation of volatile ingredients. The gelation temperature was considered to be the temperature where G′ and G″ crossed over (G′ = G″) (24) or when the phase angle δ = 45° or tan δ = G″/G′ = 1 (25).Stratum Corneum Isolation and In Vitro Permeation StudyIsolated human stratum corneum was used for the permeation studies. The skin was donated from a plastic surgery of the abdominal region of 38- and 55-year-old women with the consent of the patients and the ethical approval according to the Declaration of Helsinki of the World Medical Association. After removing the fat tissue, the skin was immediately frozen with liquid nitrogen and stored at −20°C. The isolation of the stratum corneum was performed using the trypsination method described by Kligman and Christophers (26). The dried stratum corneum was kept in a desiccator prior to use to protect it from humidity. The isolated stratum corneum was used within 2 months to avoid any skin lipid degradation. Stability has been reported in literature for up to 4 months (27,28). After a complete hydration in water, it was mounted on a TMTP (pore size 5 μm) polycarbonate filter Isopore™ Millipore (Ireland) to support its mechanical stability and clamped between donor and receiver compartments. This filter did not represent any diffusion barrier. Since the intersubject skin variability for the permeation study was larger than the intrasubject variability (29), the results of the permeation studies were always compared to those from the same donor. Prior to permeation, the intactness of the membrane was checked through the measurement of its transepithelial electric resistance [TEER] using an EVOM instrument (World Precision Instruments, US-Sarasota) with a measurement range of up to 20 kΩ. This method was developed by Fokuhl and Müller-Goymann (30). An intact membrane shows a high resistance represented by a TEER value of >20 kΩ (the maximum measurable value of the instrument). A damaged membrane shows a TEER value of less than 20 kΩ.Modified Franz diffusion cells were used for the permeation study. Permeation areas varied between 0.418 and 0.534 cm2 while receiver compartment volumes were set between 5.18 and 6.37 mL. The phosphate buffer pH 5.8 was chosen as the receiver solution. pH 5.8 was chosen in accordance to the previous TBF stability report from Lebo et al. and the works of Özcan et al. and Sachdeva et al. (13,21,31). This buffer was also sufficient to maintain the sink condition for TBF partitioning, i.e., TBF concentration in the receiver compartment during permeation study does not exceed 10% of the initial concentration in the donor compartment. TBF solubility in buffer pH 5.8 was determined in the next section to confirm this. Approximately 2 g of the formulation was filled into the donor compartment. A concentration of 1% TBF was firstly chosen to be incorporated in P2525, the original thermogelling formulation for 5-ALA since the marketed product contains similar drug concentration. Other formulations such as 1P3030, 1P4030, and Basiscreme DAC containing 1% TBF were prepared as well. Subsequently, the influence of TBF content on the permeation rate was assessed by including 2P2525, 2P3030, and 4P4030 in this study. All prepared formulations were equilibrated for 24 h after manufacture. An examination by means of polarizing microscope showed that TBF was soluble in all tested formulations for the permeation study. Following the permeation from formulations with more than 1% TBF, an enhancement factor from each formulation could be calculated as follows:
+1The diffusion cells were thermostated at 32°C, and the receiver compartments were stirred at 300 rpm. The receiver solutions were probed (250 μL) for over 40 h and replaced by the same amount of fresh buffer. The samples were kept in a refrigerator (6–8°C) and were analyzed within 48 h without any necessary dilution. TBF fluxes were obtained from the slope of a plot of the permeated amounts [g/cm2] vs. time [s]. The slope was taken from the steady state part of the plot in accordance to Fick’s 1st law.High Performance Liquid Chromatography AnalysisThe permeation samples were analyzed with HPLC which consisted of a pump 515, autosampler 717 plus, and a UV tunable absorbance detector 486 from Waters (Milford, USA). Mobile phase was modified from Cardoso and Schapoval (32) being composed of methanol/water (95:5) with an addition of 10 mM triethylamine (694 μL for 1 L mixture). The flow rate was set at 1.5 mL/min with detection at the wavelength of 254 nm. The samples were eluted through a column Zorbax SB-C18 (Agilent, USA) with a particle size of 5 μm and a dimension of 4.6 × 250 mm for 5 min with retention time at 4.1 min. Peaks were integrated and evaluated using software Clarity V. 2.6.3.313. Sample injection volume was 40 μL. Calibration was made in phosphate buffer pH 5.8 from 0.1 to 50 μg/mL with r2 of more than 0.999. The limit of detection (LOD) and the limit of quantification (LOQ) were determined according to the ICH Guideline (33), and the values were 0.122 and 3.446 μg/mL, respectively.Quantification of TBF Retained in Stratum CorneumThe stratum corneum was isolated directly after terminating the permeation. Excess formulation was cleaned by wiping off the surfaces with cotton swabs followed by tissue paper. This was done to assure that no formulation residues remained on the surface. The residual humidity was absorbed once more with tissue paper, and the membranes were finally placed in the reaction vessels of 1.5 mL volume (Roth, Karlsruhe-Germany). These vessels were stored without lids in a refrigerator (6–8°C) for 48 h. The dried membranes were afterwards transferred into fresh vessels, extracted with 1 mL methanol and agitated with an orbital shaker (IKA Vibrax-VXR) at 150 rpm for 24 h. The amount of TBF extracted was determined by injecting the extract into HPLC with the same parameter as in the earlier section. Calibration curves were made in methanol within the range of 0.1–50 μg/mL (r2 > 0.9999) with LOD and LOQ of 0.014 and 1.654 μg/mL, respectively.Recovery of the Extraction ProcessStratum corneum with the size of 1 × 1 cm were given about 10 μL drop of a defined concentration of TBF solution in methanol and then weighed. The solution concentrations (cstandard) were 4.88 and 0.488 mg/mL. Blank was dropped with methanol only. Drying and extraction process were carried out in the same manner as in the previous section. Stratum corneum surface was not cleaned or wiped since TBF is freely soluble in methanol. The recovery of the extraction process was calculated as follows:
+2The detected concentration was obtained through HPLC measurement, meanwhile the actual concentration was calculated with Eq. 3. The density of TBF solution was determined with a pycnometer.
+3TBF Solubility in Aqueous Media at 32°CAn excessive of TBF was given into 5 mL of each examined solvent, i.e., water and phosphate buffer pH 5.8. The mixtures were placed and sealed in air-tight glass vials and then stirred at 300 rpm, 32°C for 24 h to mimic the in vitro permeation condition. The insoluble drug was removed through filtration using a cellulose acetate filter with a pore size of 0.2 μm from Sartorius AG (Göttingen, Germany) before being analyzed with HPLC. The samples were diluted 100-fold with the corresponding solvent prior to analysis. The standard solutions for the HPLC analysis were prepared in the corresponding solvents water or buffer pH 5.8.Differential Scanning Calorimetry StudiesAny changes in the stratum corneum due to its interaction with the formulation component can be well recorded by means of differential scanning calorimetry (DSC) which enables the detection of heat transitions and even measures the amount of enthalpy involved quantitatively. Stratum corneum was first hydrated to gain the water content of 20% in a desiccator filled with saturated sodium chloride solution in water for at least 48 h at ambient temperature. A size of 1.5 × 1.5 cm was eligible for each measurement. The formulation to be tested was equilibrated at 37°C before the stratum corneum was inserted for incubation at 37°C for 30 min. After incubation, an excess of the formulation was wiped off by means of tissue paper and weighed in a hermetically closed aluminum crucible of 40 μL volume (ME-27331, Mettler Toledo). Sample was directly measured from 20°C to 120°C with a heat rate of 5 K/min using DSC 1 Stare System (Mettler Toledo, Schwerzenbach, Switzerland). An empty aluminum crucible was used as reference. Care was taken to assure a uniform contact time between stratum corneum and formulation and to perform the DSC measurement immediately after incubation. Up to four endothermic thermal transitions could be recorded, denoted as T1–T4, but only the middle transitions (T2 and T3) were reliable for further interpretation. The transition temperatures were determined and evaluated using software STARe DB V9.20.Statistical AnalysisAll data were showed as means ± standard deviations. Statistical analysis was performed with the software program SPSS® v. 17.0. The Kolmogorov–Smirnov test was applied to assess the normality of the data. Since all data (flux, lag time, endothermic shifts in DSC measurements) were normally distributed, F test was performed to examine the variances between the groups, continued with the Student’s t test (two tails, α = 0.05) for testing the significance of the difference between the means. The p values of <0.05 and <0.01 were considered as significant and highly statistically significant, respectively.RESULTSManufacture and Physicochemical CharacterizationThe produced five-component systems resulted in a broad range of consistencies and appearances, from liquid to paste-like consistencies. The semisolid area of the pseudoternary phase diagram could be distinguished as cream-, gel-, and paste-like meanwhile the liquid area included milky/white and transparent appearances. The liquid formulations could be further characterized as homogeneous and heterogeneous.As can be seen from Fig. 1(a), the border between the liquid and semisolid area was mainly determined by IPA/DMIS content. More than 35% IPA/DMIS resulted in liquid formulations; except for low POX/MCT, a liquid formulation was already achieved with 30% IPA/DMIS. In some areas with POX/MCT < 35%, some liquids were heterogeneous. An area of transparent mixtures, possibly microemulsions, could be found within this liquid area as well. Semisolid formulations existed in an area with low content of IPA/DMIS (<40%), while appearances and consistencies varied. The consistency rather increased with the increasing amounts of POX/MCT, whereas the appearances changed from a cream-like (25–50% POX/MCT) to a highly viscous gel-like (50–70% POX/MCT) and then paste-like (≥70%). The addition of 2% TBF to these bases extended the liquid area and transformed some of their appearances, e.g., transparent to heterogeneous as shown in Fig. 1(b).Formulations with the ringing effect were located in a particular area with 30–60% water, 25–50% POX/MCT, and 10–30% IPA/DMIS (Fig. 2(a)). The addition of 2% TBF shifted this area slightly to the upper level of the phase diagram, now ranging from 30% to 60% POX/MCT. The anisotropic formulations could only be found in the area with a high content of POX/MCT. The addition of 2% TBF also enlarged the anisotropic area as shown in Fig. 2(b) from ≥70% POX/MCT to ≥60% POX/MCT.TBF solubility up to 4% was achieved for several formulations and these formulations resided just next to the border between semisolid and liquid area (Fig. 3(a)). An example of insoluble TBF in the formulation examined under polarizing microscope is shown in Fig. 3(b). Since TBF solubility up to 4% has already been achieved with the semisolid formulations, the liquid area (where POX/MCT < 25% and IPA/DMIS > 40%) was no longer taken into account for topical application in this study.On the other hand, only up to 1% TBF was soluble in the Basiscreme DAC and an attempt to incorporate more TBF in Lamisil® Creme up to 1.5% was not successful either. These results could be used as an orientation to assess TBF’s thermodynamic activity in the formulations.Rheometrical MeasurementsSeveral formulations containing TBF from the semisolid area of the pseudoternary phase diagram were rheometrically characterized in terms of their complex viscosities and gelation points. As shown in Fig. 4, TBF had a stronger influence on gelation points than on complex viscosities. The incorporation of TBF up to 2% resulted in only slight changes in complex viscosities. The mean values oscillated with an upwards trend towards higher POX/MCT contents. A drop in complex viscosity was observed initially at 3% TBF for the formulation with a low content of POX/MCT, e.g., P2525 (see Fig. 4(a)). In contrast, gelation points increased remarkably upon TBF addition. The changes were dramatic with increasing POX/MCT. TBF addition from 2% to 3% increased gelation point temperatures from below 5°C (lower temperature limit applied) to 25°C for P3535, whereas P3030 changed its gelation point only from 8°C to 15°C (Fig. 4(b)) for equal TBF concentrations. A linear correlation between TBF content and gelation point increase could be drawn for P3030, but this was not the case for other formulations.
+Open in a separate windowFig. 4
+a Complex viscosities and b gelation temperatures of semisolid formulations (n = 3). All measurements were carried out at 100 Pa, except for P3535 gelation temperatures at 200 PaFormulations with higher POX content needed apparently more stress to enable the gelation point detection. All examined formulations could be tested rheometrically at shearing stress of 100 Pa, except for the gelation point detection of P3535. Its gelation point could only be measured at TBF contents of 3% and 4% under a shearing stress of 200 Pa. Further formulations with even higher POX/MCT contents (≥35%) were no longer measurable, with respect to gelation points, even with increasing shearing stress up to 400 Pa. Since gelation points of 1P3030, 1P3535 and 2P3535 could not be detected by rheometer within the temperature range applied (30–5°C), they were not plotted on the graph (Fig. 4(b)).In Vitro Permeation Studies Across Human Stratum CorneumA formulation containing 1% TBF was chosen, i.e., 1P2525, and its permeation flux across stratum corneum was compared with Basiscreme DAC and Lamisil® Creme, with respect to their comparable creamy consistencies. A steady state could be achieved as shown in Fig. 5 by all formulations with slight differences in their lag times. The order of the permeated amounts, as can be seen from Fig. 5, was 1P2525>Lamisil® Creme>Basiscreme DAC. However, all fluxes were not significantly different (p > 0.05). 1P2525 fluxes were around 1.4-fold higher compared to Lamisil® Creme and Basiscreme DAC. This was also the case for lag times where they were comparable (see Fig. 6). A possible effect of the minor permeation enhancement from 1P2525 on the microstructure of the stratum corneum was to be studied via DSC measurements in the next section.
+Open in a separate windowFig. 5TBF permeation profiles from different formulations across stratum corneum (n = 4–9); skin donor: 38-year-old womanOpen in a separate windowFig. 6Flux and lag time of TBF from different formulations across stratum corneum (n = 4–9)The enhancement factors from formulations with more than 1% TBF are listed in Table II. Increasing TBF concentration in the formulation led to an increase in TBF fluxes. The enhancement factor was significant (p < 0.05) for 4P4030 only. In comparison to systems with 1% TBF, the enhancement factors of 2P2525 and 2P3030 were not significant due to their high standard deviations.
+Table IITBF Fluxes and Enhancement Factors from Thermogelling Formulation with TBF of More than 1%Formulation[% TBF]Flux at steady state × 10−11 [g/cm2 s]Enhancement factor [fold]1P252514.56 ± 0.842P2525215.00 ± 12.603.31P303013.38 ± 0.892P303028.11 ± 4.142.41P403014.72 ± 0.984P4030417.33 ± 2.773.7*Open in a separate window
+*p < 0.05, n = 3, donor: 55-year-old womanQuantification of TBF Retained in Stratum CorneumThe recovery of TBF extraction process from stratum corneum was 75%. TBF amount obtained after extraction from stratum corneum was adjusted according to this recovery result. The amounts of TBF retained from all formulations are displayed in Table III. 1P2525 revealed the highest amount of TBF retained followed by Basiscreme DAC and Lamisil® Creme. These amounts from 1P2525 and Basiscreme DAC were both significantly different from Lamisil® Creme (p < 0.01).
+Table IIIAmount of TBF Retained in Stratum CorneumFormulationAmount [μg/cm2]1P252519.83 ± 3.18a
+Basiscreme DAC15.60 ± 2.33a
+Lamisil® Creme8.93 ± 2.11Open in a separate window
+aSignificant compared to Lamisil® (p < 0.01), n = 3–6; skin donor: 38-year-old womanTBF Solubility in Aqueous MediaTBF solubility in water and phosphate buffer pH 5.8 (32°C) was 0.698% and 1.360%, respectively. TBF solubility in buffer pH 5.8 was sufficient to maintain the sink condition during the permeation.DSC StudyDSC enables the visualization of the microstructural changes within stratum corneum upon contact with formulation. From Fig. 7(a), it can be seen that every formulation had its own style in affecting the lipid mobility of the stratum corneum. 1P2525 showed the weakest transitions, corresponding to the lowest transition enthalpies, i.e., T2 and T3 only, while Lamisil® Creme exhibited three transitions (T2–T4) and Basiscreme DAC exhibited an additional endothermic transition at about 45°C belonging to residues of Basiscreme itself on the stratum corneum. The transitions were reproducible for every tested formulation with standard deviations of maximum 1.1°C from triple measurements. The resume from all transitions shifts can be seen in Fig. 7(b). Albeit close to the standard deviation, the order for T2 shifts were 1P2525>Basiscreme DAC>Lamisil® Creme. T3 shifts were about the same for 1P2525 and Basiscreme DAC, being slightly greater than Lamisil® Creme’s T3 shift. T2 and T3 from all examined formulations were not significantly different from each other (p > 0.05).
+Open in a separate windowFig. 7
+a Skin thermograms of stratum corneum: 1 reference/hydrated to water content of 20%, treated with: 2 1P2525, 3 Basiscreme DAC containing 1% TBF, 4 Lamisil® Creme. b The summary of endothermic transitions T2 and T3 as well as enthalpies ΔH (sum of T2 and T3) from the stratum corneum; skin donor: 38-year-old womanDISCUSSIONPhysicochemical CharacterizationFrom the pseudoternary phase diagram in Fig. 1, it can be seen that water and IPA/DMIS play an important role in terms of consistencies and appearances of the formulations. Appearances and consistencies depend on the degree of POX swelling especially by water, considering that POX swells better with water than with organic solvents. A lack of water and an excessive amount of IPA/DMIS led to heterogeneous systems. On the other hand, IPA/DMIS enables a complete solubilization of POX and the oily component (MCT); this was evident from the liquid area with transparent appearance. An optimum composition of all components resulted in stable formulations, e.g., cream-like or milky-white (macro)emulsions.The enlargement of the liquid area upon addition of 2% TBF hints at the participation of TBF in POX micellization. TBF, a lipophilic drug with log P of 3.3, would preferably reside close to poloxamer hydrophobic part/PPO; any interaction with this block will hamper the dehydration process, the origin of the gelation process (1). As a consequence, the liquid area was larger compared to that without TBF.A special feature of the cream-like systems is the existence of a so-called “ringing effect” which is noticeable upon an application of slight mechanical agitation. This phenomenon is however not specific for POX containing formulations, but mostly occurs in systems of liquid crystalline cubic phases (34,35) which are highly elastic with shear modulus between 104 and 106 Pa (36). Nevertheless, shear moduli of these thermogelling formulations were far too low, around 103 Pa, so that a further elucidation, e.g., by means of small angle X-ray diffraction, is needed to confirm this. The ringing formulations were located in a particular area, and TBF incorporation moved this area to the upper part only whilst area broadness remained unchanged.Compared to formulations containing Miglyol® 840, Miglyol® 812N did not change the location of the systems with ringing effect at all, but the anisotropic area became somewhat narrower (22). The anisotropic area of the drug-free systems with Miglyol® 840 was observed at IPA/DMIS > 90% and POX/Miglyol® 840 > 40%, whereas with Miglyol® 812N, the anisotropic area was first observed when POX/MCT exceeded 70%. The anisotropic formulations were a result of POX solubility decrease within the systems; this was confirmed by the appearance of characteristic POX reflection in the wide-angle X-ray diffractograms (22). Miglyol® 812N was apparently able to accommodate POX in the system better than Miglyol® 840, so that POX solubility in this system was higher. In this present study, TBF extends the anisotropic area and this can be explained through the water competition between POX and TBF, regarding that TBF is partially soluble in water. Thereafter, POX crystallizes out easier which is the birefringent under the polarizing microscope.Rheometrical StudiesTBF showed a stronger influence on the gelation process than on the complex viscosities of the formulations (at least up to 2% TBF). The measurement at 32°C guaranteed for the viscoelastic state needed. However, this temperature was apparently not appropriate to detect any influence of TBF on the complex viscosity. Furthermore, all formulations examined showed gelation temperatures below 32°C; above the gelation temperature, no sharp change in viscosity can be observed.Other substances, which increased POX gelation temperature, have been documented, such as diclofenac, propylene glycol, sodium dodecyl sulfate, and alcohol, and also vice versa, substances which decreased it: vitamin B12, sorbitol, 5-ALA, and NaCl (5,37–39). Those substances can modify water activity or interact with PPO or PEO block. The increase in gelation temperature upon TBF incorporation was however not in line with the expected effect of chlorine salts. The latter favor gelation due to their salting-out effect (40) or what has recently been described as water-structure-forming salts (40–42). Therefore, TBF cation must have a major role in affecting POX gelation process compared to its chloride anion. This phenomenon has also been observed from lithium chloride (42).Permeation Studies and Amount of TBF Retained in Stratum CorneumTBF was completely soluble in all tested formulations for the permeation study, including Lamisil® Creme and the Basiscreme DAC containing 1% drug. 1P2525 contained more water than Basiscreme DAC (50% vs. 40%), and this could be an advantage for the permeation. The water content of Lamisil® Creme is unfortunately not known for comparing this result, but its fluxes were similar to those from Basiscreme DAC. Water ability in increasing drug diffusion across skin has been assigned to its interaction with the polar head groups of stratum corneum lipid. This interaction loosens the lipid packing and provides more spaces for diffusion (43,44).Up to 2% TBF was dissolved in P2525, meanwhile in the Basiscreme DAC drug dissolution was only possible up to 1%. This showed that the thermodynamic activity of 1P2525 was actually lower than that in the Basiscreme DAC, while the drug activity in the Basiscreme DAC was close to maximum. TBF thermodynamic activity in Lamisil® Creme was close to maximum as well since the vehicle did not enable TBF loading up to 1.5%. If the permeation was only depending on the thermodynamic activity of the formulation, then Basiscreme DAC and Lamisil® Creme should have given higher fluxes than 1P2525 did, but this was not the case. The nature of the vehicle and its interaction with TBF might thus play also a more important role.Differences in vehicle nature, tortuosity, and construction of a gel network will affect TBF binding with the vehicle and thus its release rate. For example, Gendy et al. (45) found that flurbiprofen release from carbomer gel was higher than from poloxamer 407 gel. They suggested that this was due to the different structures and release mechanisms from both gelling agents. Despite similar appearances of P2525, Basiscreme DAC, and Lamisil® Creme, POX vehicle contains more hydrophilic ingredients than other creams so that TBF binding with this vehicle is apparently weaker. A strong influence to the skin lipids such as their fluidization or disruption of lamellar sheets could enhance drug permeation rate as well and measurements by means of DSC could help in visualizing this.Increasing TBF content in the POX formulations led to a flux increase. 1P2525, 1P3030, and 1P4030 were not yet saturated with TBF, and higher permeation fluxes were obtained by increasing TBF amount (see Table II). The enhancement factors from P4030 and P2525 were almost similar, although the latter referred to a drug content increase from 1% to 2%. This could be assigned to the difference in drug release from the vehicle. The dependency of drug release on POX concentration has already been reported by Gilbert et al. (46) where the increase in POX concentration was followed by the decrease in the apparent diffusion coefficient (Dapp) of the examined solutes benzoic acid and p-hydroxybenzoic acid. This was also the case for piroxicam where its release was dependent on the POX concentration in the examined gels. The permeation rate of piroxicam across synthetic cellulose membranes and rat skin decreased as the concentration of poloxamer increased (47). It has been hypothesized that the growth of the micelle size due to the increase in POX content could reduce the water channels of the gel matrix. Hence, the tortuosity increases, and this is followed by Dapp decrease (48). Nevertheless, the drug release from a POX gel was also determined by the gel dissolution upon contact with water (49).In comparison to the flux value achieved for 5-ALA (5) which was incorporated into P2525 at an amount of 10% (w/w), the increase in TBF fluxes in the present study was not pronounced. Compared to Basiscreme DAC, the permeation enhancement across skin from P2525 was 7.5-fold for 5-ALA and 1.4-fold for TBF only (with 1% incorporated drug). TBF possibly resided inside the micelles; meanwhile the hydrophilic 5-ALA filled the aqueous channels between micelles. The latter is the region from which the solute is directly available for release from POX system (46). When TBF is located inside the micelles, this could enlarge micelle size as well. As a consequence, drug diffusion decreased due to similar reasons as explained above.The lag time exhibited by 1P2525 was not significantly different from the other non-POX formulations suggesting that all formulations needed about the same time to penetrate and permeate across the stratum corneum. Furthermore, this implies that lag times were quite independent of the formulation ingredients.1P2525 showed the highest TBF amount retained in stratum corneum among all. The order of the TBF retained corresponded well with their flux order. This result indicated a higher and a faster drug partition rate from the vehicle of 1P2525 into the stratum corneum.DSC StudiesBarry (43) mentioned up to four endothermic transitions T1–T4 observed by means of DSC when stratum corneum is heated up to 120°C. While T1 (∼40°C) and T4 (∼100°C) are unfortunately not always visible, the presence of T2 (∼70°C) and T3 (∼85°C) are more reliable. T1 and T4 were found to be strongly dependent on the skin source and its water content during measurement (43). The interaction of stratum corneum with a penetration enhancer loosens its tight microstructure, thus the lipid mobility increases. The increase in lipid mobility aids drug penetration, and higher fluxes are obtained. The endothermal transition shifts, measured by means of DSC, due to the increase in lipid fluidity were also demonstrated by Glombitza and Müller-Goymann using an in vitro model of the skin lipid matrix (50).1P2525 produced the highest endothermic transition shifts (T2 −6.3°C; T3 −8.5°C) and the lowest enthalpy of the stratum corneum lipid matrix compared to other formulations. Although the difference was not statistically significant, the most negative enthalpy produced by 1P2525 indicated a relative stronger influence of the vehicle to the stratum corneum towards an increase in lipid fluidity. This influence was comparable for Basiscreme DAC and Lamisil® Creme. An additional endothermic peak given by Basiscreme DAC at 45°C resulted from one of the vehicle components since T1 happened earlier at about 37°C (44) whereas three endothermic peaks exhibited by Lamisil® Creme were consecutive peaks of T2–T4. Comparing both, Basiscreme DAC is relatively more effective in disrupting the stratum corneum lipid than the commercial formulation although their TBF permeation fluxes were in the same order of magnitude. According to the DSC results, the interaction between POX vehicle and stratum corneum matrix was not powerful enough in explaining TBF higher permeation rate, especially towards higher content in the formulations (>1%). Therefore, we suggest that the nature and the microstructure of the thermogelling formulation play an important role in enhancing TBF permeation rate across stratum corneum despite its low thermodynamic activity in the vehicle.Referring to the previous work of Grüning and Müller-Goymann (5), DSC measurements following stratum corneum treatment with P2525 containing 5-ALA, the decreases of the endothermic shifts T2 and T3 were greater than those from Basiscreme DAC (i.e., 4.6°C and 4.3°C for P2525 vs. 2.0°C and 0.2°C for Basiscreme DAC). The incorporation of a lipophilic drug into the thermogelling vehicle modifies apparently the vehicle ability in interacting with the skin lipid matrix. The thermodynamic activity of 5-ALA in this vehicle has not been determined due to its high aqueous solubility, but it was evident that the vehicle interaction with skin lipid matrix played an important role for 5-ALA remarkable penetration enhancement.CONCLUSIONPoloxamer 407-based thermogelling formulation shows advantages to some extent as a vehicle for topical administration of TBF. By varying the composition of the ingredients, appearance and consistency of the formulation can be modified and adjusted to the therapy needs. In contrast to 5-ALA, the lipophilic nature of TBF apparently hampers its permeation across stratum corneum. DSC study disclosed that the permeation enhancement from the poloxamer-based formulation was not due to its significant interaction with the skin lipid matrix but originated rather from the physicochemical nature of the vehicle.AcknowledgmentThe PhD scholarship from DAAD (Deutscher Akademischer Austausch Dienst) granted to Lusiana is gratefully acknowledged and all authors thank Mukta Paranjpe for proofreading this manuscript.References1. Cabana A, Aït-Kadib A, Juhász J. Study of the gelation process of polyethylene oxide(a)-polypropylene oxide(b)-polyethylene oxide, copolymer (poloxamer 407) aqueous solutions. J Colloid Interface Sci. 1997;190:307–312. doi: 10.1006/jcis.1997.4880. [PubMed] [CrossRef] [Google Scholar]2. Dumortier G, Grossiord JL, Agnely F, Chaumeil JC. A review of poloxamer 407 pharmaceutical and pharmacological characteristics. Pharm Res. 2006;23:2709–2728. doi: 10.1007/s11095-006-9104-4. [PubMed] [CrossRef] [Google Scholar]3. Escobar-Chávez JJ, López-Cervantes M, Naïk A, Kalia YN, Quintanar-Guerrero D, Ganem-Quintanar A. Applications of thermo-reversible Pluronic F-127 gels in pharmaceutical formulations. J Pharm Pharm Sci. 2006;9:339–358. [PubMed] [Google Scholar]4. Müller-Goymann, CC, Grüning, N, inventors; Technische Universität Braunschweig, assignee. Formulation for dermal application. patent EP06113022.5-1219. 2006.5. Grüning N, Müller-Goymann CC. Physicochemical characterisation of a novel thermogelling formulation for percutaneous penetration of 5-aminolevulinic acid. J Pharm Sci. 2008;97:2311–2323. doi: 10.1002/jps.21157. [PubMed] [CrossRef] [Google Scholar]6. Grüning N. Entwicklung und Charakterisierung eines halbfesten Systems zur Verbesserung der Permeation von 5-Aminolävulinsäure durch exzidiertes humanes Stratum corneum. TU Braunschweig; 2007. Available from: http://www.digibib.tu-bs.de/?docid=00021704. German.7. Brown MB, Khengar RH, Turner RB, Forbes B, Traynor MJ, Evans CRG, et al. Overcoming the nail barrier: a systematic investigation of ungual chemical penetration enhancement. Int J Pharm. 2009;370:61–67. doi: 10.1016/j.ijpharm.2008.11.009. [PubMed] [CrossRef] [Google Scholar]8. Tosti A, Piraccini BM, Stinchi C, Colombo MD. Relapses of onychomycosis alter successful treatment with systemic antifungals: a three-year follow-up. Dermatology. 1998;197:162–166. doi: 10.1159/000017990. [PubMed] [CrossRef] [Google Scholar]9. Arrese JE, Piérard GE. Treatment failures and relapses in onychomycosis: a stubborn clinical problem. Dermatology. 2003;207:255–260. doi: 10.1159/000073086. [PubMed] [CrossRef] [Google Scholar]10. Cathcart S, Cantrell W, Elewski B. Onychomycosis and diabetes. J Eur Acad Dermatol Venereol. 2009;23:1119–1122. doi: 10.1111/j.1468-3083.2009.03225.x. [PubMed] [CrossRef] [Google Scholar]11. Sachdeva V, Kim HD, Friden PM, Banga AK. Iontophoresis mediated in vivo intradermal delivery of terbinafine hydrochloride. Int J Pharm. 2010;393:112–118. doi: 10.1016/j.ijpharm.2010.04.014. [PubMed] [CrossRef] [Google Scholar]12. Amichai B, Mosckovitz R, Trau H, Sholto O, Ben-Yaakov S, Royz M, et al. Iontophoretic terbinafine HCL 1.0% delivery across porcine and human nails. Mycopathologia. 2010;169:343–349. doi: 10.1007/s11046-009-9265-x. [PubMed] [CrossRef] [Google Scholar]13. Sachdeva V, Siddoju S, Yu YY, Kim HD, Friden PM, Banga AK. Transdermal iontophoretic delivery of terbinafine hydrochloride: quantitation of drug levels in stratum corneum and underlying skin. Int J Pharm. 2010;388:24–31. doi: 10.1016/j.ijpharm.2009.12.029. [PubMed] [CrossRef] [Google Scholar]14. Nair AB, Kim HD, Chakraborty B, Singh J, Zaman M, Gupta A, et al. Ungual and trans-ungual iontophoretic delivery of terbinafine for the treatment of onychomycosis. J Pharm Sci. 2009;98:4130–4140. doi: 10.1002/jps.21711. [PubMed] [CrossRef] [Google Scholar]15. Nair AB, Sammeta SM, Kim HD, Chakraborty B, Friden PM, Murthy SN. Alteration of the diffusional barrier property of the nail leads to greater terbinafine drug loading and permeation. Int J Pharm. 2009;375:22–27. doi: 10.1016/j.ijpharm.2009.03.012. [PubMed] [CrossRef] [Google Scholar]16. Nair AB, Vaka SRK, Sammeta SM, Kim HD, Friden PM, Chakraborty B, et al. Trans-ungual iontophoretic delivery of terbinafine. J Pharm Sci. 2009;98:1788–1796. doi: 10.1002/jps.21555. [PubMed] [CrossRef] [Google Scholar]17. Amichai B, Nitzan B, Mosckovitz R, Shemer A. Iontophoretic delivery of terbinafine in onychomycosis: a preliminary study. Br J Dermatol. 2010;162:46–50. doi: 10.1111/j.1365-2133.2009.09414.x. [PubMed] [CrossRef] [Google Scholar]18. Traynor MJ, Turner RB, Evans CRG, Khengar RH, Jones SA, Brown MB. Effect of a novel penetration enhancer on the ungual permeation of two antifungal agents. J Pharm Pharmacol. 2010;62:730–737. [PubMed] [Google Scholar]19. Shivakumar HN, Vaka SRK, Madhav NVS, Chandra H, Murthy SN. Bilayered nail lacquer of terbinafine hydrochloride for treatment of onychomycosis. J Pharm Sci. 2010;99:4267–4276. doi: 10.1002/jps.22150. [PubMed] [CrossRef] [Google Scholar]20. Baboota S, Al-Azaki A, Kohli K, Ali J, Dixit N, Shakeel F. Development and evaluation of a microemulsion formulation for transdermal delivery of terbinafine. PDA J Pharm Sci Technol. 2007;61:276–285. [PubMed] [Google Scholar]21. Özcan I, Abacı K, Uztan AH, Aksu B, Boyacıoğlu H, Güneri T, et al. Enhanced topical delivery of terbinafine hydrochloride with chitosan hydrogels. AAPS Pharm Sci Tech. 2009;10:1024–1031. doi: 10.1208/s12249-009-9299-x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]22. van Hemelrijck C, Müller-Goymann CC. Physikochemische Charakterisierung von Poloxamer 407-haltigen Systemen für die dermale Applikation. Proceedings of the DPhG Jahrestagung; 2008 Oct 8–11; Bonn, Germany. Available from: http://www.pharmtech.tu-bs.de/files/muegoy/CHemelrijckBonn0810.pdf. German.23. Deutscher Arzneimittelcodex (DAC). Eschborn: Govi Verlag; 2009.24. Kavanagh GM, Ross-Murphy SB. Rheological characterisation of polymer gels. Prog Polym Sci (Oxford) 1998;23:533–562. doi: 10.1016/S0079-6700(97)00047-6. [CrossRef] [Google Scholar]25. Tosh SM, Marangoni AG. Determination of the maximum gelation temperature in gelatin gels. Appl Phys Lett. 2004;84:4242–4244. doi: 10.1063/1.1756210. [CrossRef] [Google Scholar]26. Kligman AM, Christophers E. Preparation of isolated sheets of human stratum corneum. Arch Dermatol. 1963;88:702–705. [PubMed] [Google Scholar]27. Mitriaikina S, Müller-Goymann CC. Comparative permeation studies of nondiluted and diluted betamethasone-17-valerate semisolid formulations through isolated human stratum corneum and artificial skin construct. Skin Pharmacol Physiol. 2009;22:142–150. doi: 10.1159/000203368. [PubMed] [CrossRef] [Google Scholar]28. Brinkmann I, Müller-Goymann CC. Role of isopropyl myristate, isopropyl alcohol and a combination of both in hydrocortisone permeation across the human stratum corneum. Skin Pharmacol Appl Skin Physiol. 2003;16:393–404. [PubMed] [Google Scholar]29. Akomeah FK, Martin GP, Brown MB. Variability in human skin permeability in vitro: comparing penetrants with different physicochemical properties. J Pharm Sci. 2007;96:824–834. doi: 10.1002/jps.20773. [PubMed] [CrossRef] [Google Scholar]30. Fokuhl J, Müller-Goymann CC. Untersuchung der Unversehrtheit von humanem exzidiertem Stratum corneum mittels TEER-Messungen. Proceedings of the DPhG Jahrestagung; 2007 Oct 10–13; Erlangen, Germany. Available from: http://www.pharmtech.tu-bs.de/files/muegoy/JFokuErlangen0709.pdf. German.31. Lebo D, Lee C, Lee J, Cupo F, Ryoo J. Development of skin permeation study method for terbinafine HCl. Proceedings of the AAPS Annual Meeting and Exposition; 2005 Nov 5–10; Nashville, TN, US. Available from: http://abstracts.aapspharmaceutica.com/ExpoAAPS05/CC/forms/attendee/index.aspx?content=sessionInfo&sessionId=1804.32. Cardoso SG, Schapoval EES. High-performance liquid chromatographic assay of terbinafine hydrochloride in tablets and creams. J Pharm Biomed Anal. 1999;19:809–812. doi: 10.1016/S0731-7085(98)00119-8. [PubMed] [CrossRef] [Google Scholar]33. ICH Expert Working Group. Validation of analytical procedures: text and methodology Q2 (R1); 2005. p. 11–3.34. Gradzielski M, Bergmeier M, Müller M, Hoffmann H. Novel gel phase: a cubic phase of densely packed monodisperse, unilamellar vesicles. J Phys Chem B. 1997;101:X–1722. doi: 10.1021/jp963913h. [CrossRef] [Google Scholar]35. Montalvo G, Valiente M, Rodenas E. Rheological properties of the L phase and the hexagonal, lamellar, and cubic liquid crystals of the CTAB/benzyl alcohol/water system. Langmuir. 1996;12:5202–5208. doi: 10.1021/la9515682. [CrossRef] [Google Scholar]36. Valenta C, Schultz K. Influence of carrageenan on the rheology and skin permeation of microemulsion formulations. J Control Release. 2004;95:257–265. doi: 10.1016/j.jconrel.2003.11.020. [PubMed] [CrossRef] [Google Scholar]37. Choi HG, Lee MK, Kim MH, Kim CK. Effect of additives on the physicochemical properties of liquid suppository bases. Int J Pharm. 1999;190:13–19. doi: 10.1016/S0378-5173(99)00225-2. [PubMed] [CrossRef] [Google Scholar]38. Yong CS, Choi JS, Quan QZ, Rhee JD, Kim CK, Lim SJ, et al. Effect of sodium chloride on the gelation temperature, gel strength and bioadhesive force of poloxamer gels containing diclofenac sodium. Int J Pharm. 2001;226:195–205. doi: 10.1016/S0378-5173(01)00809-2. [PubMed] [CrossRef] [Google Scholar]39. Rhee YS, Shin YH, Park CW, Chi SC, Park ES. Effect of flavors on the viscosity and gelling point of aqueous poloxamer solution. Arch Pharm Res. 2006;29(12):1171–1178. doi: 10.1007/BF02969310. [PubMed] [CrossRef] [Google Scholar]40. Pandit NK, Kisaka J. Loss of gelation ability of Pluronic® F127 in the presence of some salts. Int J Pharm. 1996;145:129–136. doi: 10.1016/S0378-5173(96)04748-5. [CrossRef] [Google Scholar]41. Anderson BC, Cox SM, Ambardekar AV, Mallapragada SK. The effect of salts on the micellization temperature of aqueous poly(ethylene oxide)-b-poly(propylene oxide)b-poly(ethylene oxide) solutions and the dissolution rate and water diffusion coefficient in their corresponding gels. J Pharm Sci. 2002;91:180–188. doi: 10.1002/jps.10037. [PubMed] [CrossRef] [Google Scholar]42. Ganguly R, Aswal VK. Improved micellar hydration and gelation characteristics of PEO-PPO-PEO triblock copolymer solutions in the presence of LiCl. J Phys Chem B. 2008;112:7726–7731. doi: 10.1021/jp801940m. [PubMed] [CrossRef] [Google Scholar]43. Barry BW. Mode of action of penetration enhancers in human skin. J Control Release. 1987;6:85–97. doi: 10.1016/0168-3659(87)90066-6. [CrossRef] [Google Scholar]44. Bouwstra JA, De Vries MA, Gooris GS, Bras W, Brussee J, Ponec M. Thermodynamic and structural aspects of the skin barrier. J Control Release. 1991;15:209–220. doi: 10.1016/0168-3659(91)90112-Q. [CrossRef] [Google Scholar]45. Gendy AME, Jun HW, Kassem AA. In vitro release studies of flurbiprofen from different topical formulations. Drug Dev Ind Pharm. 2002;28(7):823–831. doi: 10.1081/DDC-120005628. [PubMed] [CrossRef] [Google Scholar]46. Gilbert JC, Hadgraft J, Bye A, Brookes LG. Drug release from Pluronic F-127 gels. Int J Pharm. 1986;32:223–228. doi: 10.1016/0378-5173(86)90182-1. [CrossRef] [Google Scholar]47. Shin SC, Cho CW, Choi HK. Permeation of piroxicam from the poloxamer gels. Drug Dev Ind Pharm. 1999;25(3):273–278. doi: 10.1081/DDC-100102171. [PubMed] [CrossRef] [Google Scholar]48. Wu HLS, Miller SC. In vitro release of nicotinic acid alkyl esters from poloxamer vehicles. Int J Pharm. 1990;66:213–221. doi: 10.1016/0378-5173(90)90402-P. [CrossRef] [Google Scholar]49. Jeong B, Kim SW, Bae YH. Thermosensitive sol–gel reversible hydrogels. Adv Drug Deliv Rev. 2002;54:37–51. doi: 10.1016/S0169-409X(01)00242-3. [PubMed] [CrossRef] [Google Scholar]50. Glombitza B, Müller-Goymann CC. Influence of different ceramides on the structure of in vitro model lipid systems of the stratum corneum lipid matrix. Chem Phys Lipids. 2002;117:29–44. doi: 10.1016/S0009-3084(02)00029-4. [PubMed] [CrossRef] [Google Scholar]Articles from AAPS PharmSciTech are provided here courtesy of American Association of Pharmaceutical Scientists
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (462K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

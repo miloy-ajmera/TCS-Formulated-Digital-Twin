@@ -1,0 +1,818 @@
+Document Name: role of White soft paraffin in Eye Cream4
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7057765/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Perspectives on Physicochemical and In Vitro Profiling of Ophthalmic Ointments - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+HHS Author Manuscripts
+
+
+                    PMC7057765
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.0M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+HHS Author Manuscripts
+
+
+                    PMC7057765
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Pharm Res. Author manuscript; available in PMC 2020 Mar 5.Published in final edited form as:Pharm Res. 2018 Oct 15; 35(12): 234. Published online 2018 Oct 15.  doi: 10.1007/s11095-018-2513-3PMCID: PMC7057765NIHMSID: NIHMS1564868PMID: 30324424Perspectives on Physicochemical and In Vitro Profiling of Ophthalmic OintmentsQuanying Bao and  Diane J. BurgessAuthor information Copyright and License information DisclaimerUniversity of Connecticut, School of Pharmacy, Storrs, CT 06269Corresponding author: Diane J Burgess, Distinguished Professor of Pharmaceutics, Department of Pharmaceutical Sciences, School of Pharmacy, University of Connecticut, Storrs, CT 06269 USA ude.nnocu@ssegrub.dCopyright notice AbstractOphthalmic ointments are unique in that they combine features of topical drug delivery, the ophthalmic route and ointment (semisolid) formulations. Accordingly, these complex formulations are challenging to develop and evaluate and therefore it is critically important to understand their physicochemical properties as well as their in vitro drug release characteristics. Previous reports on the characterization of ophthalmic ointments are very limited. Although there are FDA guidance documents and USP monographs covering some aspects of semisolid formulations, there are no FDA guidance documents nor any USP monographs for ophthalmic ointments. This review summarizes the physicochemical and in vitro profiling methods that have been previously reported for ophthalmic ointments. Specifically, insight is provided into physicochemical characterization (rheological parameters, drug content and content uniformity, and particle size of the API in the finished ointments) as well as important considerations (membranes, release media, method comparison, release kinetics and discriminatory ability) in in vitro drug release testing (IVRT) method development for ophthalmic ointments.Keywords: ophthalmic, ointment, semisolid, topical, in vitro drug release, particle size, rheology, discriminatory abilityGraphical Abstract1. IntroductionIt is challenging to develop ophthalmic formulations due to the unique anatomy of the human eye as well as the complexity of manufacturing these formulations. Topical ophthalmic formulations suffer from poor bioavailability since the drug is mainly eliminated from the precorneal lacrimal fluid by solution drainage, lacrimation and non-productive absorption to the conjunctiva of the eye [1]. Conventional topical ophthalmic dosage forms (solutions/drops, ointments, suspensions, emulsions, etc.) are the major drug products for the treatment for ocular diseases despite the novel formulations and technologies [2] that have emerged in the past decades. Ophthalmic solutions account for 80% of marketed ophthalmic products (Figure 1) due to better patient compliance compared to the other ophthalmic dosage forms. However, the contact time of solutions on the eye surface is short, leading to high frequency of dosing and the potential risk of toxicity. Ophthalmic ointments account for up to 9% of marketed ophthalmic formulations, according to the FDA orange book database (Figure 1). These formulations are able to prolong the contact time on the eye surface compared with ophthalmic solutions [3]. In addition, ophthalmic ointments account for 14.2% of all the marketed ointment products applied via different routes of administration (including topical, ophthalmic, vaginal, transdermal and intranasal) (Figure 1). Notably, in the FDA orange book, topical ointments do not include ophthalmic ointments even though they are typically administered via the topical route. Topical ointments in the FDA orange book refer to the ointments intended to be applied to the skin surface.Open in a separate windowFigure 1.Marketed ophthalmic formulations and all marketed ointment formulations from the FDA orange book [4]. (The left pie chart shows dosage forms, number and percentage of total ophthalmic formulations; the right pie chart shows topical routes of administration, number and percentage of total ointment formulations).An ointment is an unctuous semisolid for topical application. There are four types of ointment bases: hydrocarbon bases (oleaginous ointment bases), absorption bases (water-in-oil emulsion), water-removable bases (cream), and water-soluble bases (gel) [5]. The major component in a typical ointment is petrolatum (also called petroleum jelly, white petrolatum, soft paraffin, and paraffin wax), a mixture of hydrocarbons refined from crude oil. Petrolatum possesses some favorable merits for ophthalmic formulations: 1) a melting point close to body temperature; 2) no irritation to the eye; 3) appropriate rheological behavior for the eye surface; 4) tunable viscosity by adjusting the ratio with liquid paraffin (mineral oil); and 5) low cost. However, the quality control of petrolatum may be challenging since it is a mixture of many hydrocarbons.In addition to the complex anatomy of the eye and the associated poor bioavailability, ophthalmic ointments are considered complex dosage forms even though they may contain only two excipients (i.e. white petrolatum and mineral oil) since their microstructure is not well understood. The in vitro performance of the ophthalmic ointments may vary a lot due to their complex microstructure. In order to ensure ophthalmic ointment product quality, it is critical to understand their physicochemical and in vitro release characteristics. To date, FDA guidance [6] has recommended in vitro performance testing methods for semisolid dosage forms (e.g., creams, gels, lotions and ointments). The US Pharmacopeia (USP) has recommended physicochemical and in vitro performance testing of topical and transdermal drug products [5], as well as ophthalmic dosage forms [7]. However, there is no FDA guidance for ophthalmic ointments and there are no details relating to physicochemical characterization and in vitro performance testing of ophthalmic ointments in the USP. Therefore, the physicochemical and in vitro release profiling of ophthalmic ointments needs to be performed on a case-by-case basis. Due to the paucity of reports on the physicochemical and in vitro release characteristics of ophthalmic ointments, all relevant reports including those on other topical and semisolid formulations may be useful in establishing characterization methods for ophthalmic ointments. This manuscript summarizes possible approaches to the characterization of ophthalmic ointments.2. Physicochemical profiling of ophthalmic ointments2.1. Drug content and content uniformityIt is fundamental to ensure that finished ophthalmic ointment products meet the expected drug content and have acceptable content uniformity. Poor drug content and content uniformity directly affect the dosing accuracy (i.e. overdose or insufficient dosage) of the final products. In formulation development, unacceptable drug content uniformity leads to irreproducible, unreliable and erroneous results in other physicochemical characteristics. The procedure and the acceptable criteria for content uniformity testing can be found in the USP-NF [5]. In the formulation screening process, the content of samples withdrawn from different zones of the jar or tube should fall into the range of 90%~110% of the target dose strength with acceptable relative standard deviation (RSD). To obtain accurate drug content and content uniformity, the drug extraction methods should be reliable with high drug recovery. Since the major component of ointments is semisolid paraffin or white petrolatum, extraction using organic solvents concurrent with heating up to the melting point of the white petrolatum is an easy, effective, and reliable method [8,9]. It is difficult to extract drug from oleaginous ointments, so repeated extraction cycles [9] may be necessary to obtain reliable results. For drugs with high lipophilicity, a bi-phasic extraction method has been used where the petrolatum (ointment base) is solubilized in hexane prior to drug extraction and the exposed drug is then extracted in an acetonitrile/water solution [10]. It has been shown that the drug release rate (μg/cm2*min1/2 or μg/cm2*h1/2) from ointments is linearly proportional to the drug content [11–15]. The higher the drug content, the higher the drug release rate.2.2. Particle size and particle size distribution of API in the finished productsDepending on the drug solubility in the ointment base, the drug may be present in the solid or in the solution state or both. Relatively hydrophilic drugs are present in the solid state as dispersed particles in an oleaginous ointment due to their limited solubility in the hydrophobic ointment base. Conversely, lipophilic drugs are likely to be in a homogeneous solution state in oleaginous bases [10]. The discussion below is focused on ophthalmic ointments in which the drug is in the solid state.The particle size of the API is a critical parameter in all dosage forms containing drug particles (suspensions, ointments, granules, dry powder inhalers etc.). The particle size and shape can influence a large variety of important physical properties, manufacturing processability as well as quality attributes of different dosage forms [16]. In case of ointment formulations, the particle size may affect several quality attributes including: 1) dissolution or release rate and hence bioavailability of the APIs; 2) content and dose uniformity; 3) flow and packing properties as well as mixing and segregation during the manufacturing process; 4) rheological characteristics of the finished products; and 5) grittiness of solid particles and irritability in the eye. Therefore, the particle size of the API in the semisolid formulations should be controlled and monitored during the development stage, at the time of batch release, and at designated stability test time points [5]. It should be noted that in most cases, the drug particle size in the finished ointment products is much smaller compared to the particle size of the original drug substance. This is due to the shearing force during the manufacturing process (e.g. milling or mixing) [8,9].In the FDA guidance for non-sterile semisolid dosage forms (SUPAC-SS) [6], change in particle size distribution of the drug substance (if the drug is in suspension) is listed as a Level 2 change, which could have a significant impact on formulation quality and performance according to the guidance. The preferred average particle size for ophthalmic suspensions should be below 10 μm [7,17]. A particle size above 10 μm in diameter may result in a foreign body sensation in the eye following ocular application, causing reflex tearing. However, there is no guidance for the acceptable particle size range of the drug substance in ophthalmic ointments. In addition, there is no recommended methods to determine the particle size and particle size distribution of the drug substance in ophthalmic ointments.It is essential as well as challenging to understand the physicochemical properties (particle size in particular) of the drug substance in the final ointment formulation, especially when the drug content is extremely low (less than 1% w/w). The methods used should not change the physical and chemical state of the ointment base and the drug substance. In the pharmaceutical industry, the most commonly used methods for particle size and size distribution are: 1) dynamic light scattering (DLS); 2) laser diffraction; and 3) image analysis. Both the DLS and the laser diffraction methods cannot be used to determine the particle size of ointments due to the sticky and oily nature of the dosage form. In addition, the measurable particle size range using DLS is from 1 nm to 1 μm, which is not applicable for ointment formulations since the particle size is mainly in the micro size range (preferably below 10 μm). However, image analysis is an intuitive and simple method to determine the particle size of the drug substance in the ointments.In recent reports, polarized light microscopy (PLM) methods [8,9,12] have been utilized to determine the particle size and size distribution since this method does not change the original state of the final ointment formulations. See below, a PLM image of a loteprednol etabonate ointment (Figure 2). Following the image capture of the ointment, ImageJ software (National Institute of Health, Bethesda, MD) and Microsoft Excel are used to perform the data analysis. FTIR-imaging can also be used to determine the particle size and size distribution of the drug substance in ointments, especially white petrolatum based oleaginous ointments. See below, FTIR images (Agilent Cary 620 FTIR Microscope, Agilent Technologies, Santa Clara, CA) of a loteprednol etabonate ophthalmic ointment (Figure 3). The specific FTIR peaks of a drug substance (e.g. C=O stretch (~1700 cm−1), O-H stretch (~3400 cm−1) etc.) are different from that of the hydrocarbon ointment base (mainly C-H stretch (2950~2800 cm−1) and H-C-H bend (~1400 cm−1)). Therefore, the size of the drug substance can be measured using FTIR-imaging under the specific wavenumber of the API where the API shows the strongest signal (red color) and the ointment base shows no signal (blue color). The red areas in the captures are the drug particles. Other microscopy instruments such as scanning electronic microscopy (SEM) and atomic force microscopy (AFM) cannot be used since they may generate heat during testing, leading to melting of the ointments.Open in a separate windowFigure 2.Representative PLM image of loteprednol etabonate ophthalmic ointment (scale bar: 50 μm, 200X magnification) [18].Open in a separate windowFigure 3.Representative FTIR images of a loteprednol etabonate ophthalmic ointment. The red area represents components (loteprednol etabonate) with a strong signal at the specific FTIR peak at ~1750 cm−1), and the blue area represents the material (paraffin) with no signal at the specific peak [18].The advantage of using the image analysis is that the particle size can be determined without damaging the integrity of the ointments. Additionally, qualitative information such as shape and physical state can also be obtained, which is critical for quality control in the product manufacturing process. For example, image analysis (micro ATR-IR imaging and PLM) was utilized to evaluate generic and reference ointment products [19]. Differences in the distributions of the API and excipients were identified in this study. It should be noted that the average size and size distribution obtained using image analysis is number weighted, not volume or mass weighted.A solvent extraction method has also been used to determine the particle size of drug substance in ointment products. One report [20] applied solvent to recover the drug crystals from the finished ointment product and then microscopy was used to measure the particle size of the drug crystals. However, caution should be taken when using this pretreatment method since the size and size distribution of the API may change during the extraction process, as a result of any one or combination of aggregation, dissolution and degradation of the API, leading to erroneous data.2.3. Rheological properties of ophthalmic ointmentsRheological properties of ointments have a significant role to play in terms of processing (e.g., pumping through pipes or tubes, and storage), application from the container to the targeted site (the ointment should not be too thick or too thin) and aesthetics (e.g., spreadability on the skin surface)[21]. In addition, rheological properties are critical to understand the microstructure of ointment formulations. USP-NF [5] emphasizes the importance of testing rheological properties of semisolid formulations: “rheological properties such as viscosity of semisolid dosage forms can influence their drug delivery. Viscosity may directly influence the diffusion rate of drug at the microstructural level. Yet semisolid drug products with relatively high viscosity still can exhibit high diffusion rates compared to semisolid products of comparatively lower viscosity. These observations emphasize the importance of rheological properties of semisolid dosage forms, specifically viscosity, on drug product performance.” In the case of ophthalmic ointments, the impact of product rheology on the human eye should be considered along with the above-mentioned aspects.Rheology of the white petrolatum Ointment formulations contain high ratios (up to 99.5% w/w) of petrolatum (soft paraffin and/or liquid paraffin), which is the major contributor to the rheological properties of the finished ointment products. Accordingly, a good understanding of the rheological properties of petrolatum allows better ointment product design and performance. Petrolatum is a mixture mainly composed of n-, iso- paraffin and naphthenes, which form a gel type structure containing oil, amorphous wax and discrete crystals [22]. Barry and Grace [22] studied the rheological properties of white soft paraffin and it was shown that white petrolatum is linear viscoelastic. With advancements in rheometer design (e.g., AR-2000 or higher versions from TA instruments Inc.), rheological evaluation can be performed to obtain more information with greater accuracy as well as wider range of shear stress. Previous rheometers cannot measure low shear stress and cannot operate at low shear rates, and therefore could not detect the linear viscoelastic region (LVR) of white soft paraffin. Recently, Pandey and Ewing [21] characterized the rheological properties (mechanical stress and thermal effect) of four grades of petrolatum by performing continuous flow and oscillatory dynamic experiments (within the LVR) using a TA instrument (AR-2000). The thermorheological scans were conducted with continuous “mixing” during the experiment, mimicking the process conditions that petrolatum based products experience during manufacturing, filling and storage. It was demonstrated that the rate of mixing significantly influenced the viscosity of the different petrolatum grades. However, the cooling rate was not shown to significantly affect the viscosity of the petrolatum. These results may facilitate understanding of the manufacturing, storage and filling processing of ointment or cream formulations. In another recent study aimed at understanding patient compliance, Park and Song [23] investigated nonlinear viscoelastic behavior of petroleum jelly in large amplitude oscillatory shear flow fields corresponding to the rubbing motion during application to the human skin. Storage modulus (elastic modulus or solid-like properties, G’) and loss modulus (viscous modulus or liquid-like properties, G”) were plotted against oscillatory shear strain (from small to large amplitude (from 0.025 to 250%)). It was concluded that the petroleum jelly is a desirable material to apply to human skin because of its unique rheological properties: 1) G’ dominates (larger than G”) at rest or small amplitude of shear stress, so the ointment will not flow in the container or upon application to the human skin. 2) G” dominates in the non-linear viscoelastic region at large amplitude of strain, and accordingly the material flows and is easy to spread. The structural, rheological and textural properties of petrolatum have been reviewed by Barry and Grace [24]. Due to white soft paraffin being a mixture of different hydrocarbons as well as to the complexity of the petrolatum processing to obtain the finished products, it is extremely challenging to ensure the quality of this excipient and the related pharmaceutical products. Muynck et al. [25] quantitatively analyzed the components in white soft paraffin using capillary gas chromatography. This methodology could potentially be used to ensure quality of white soft paraffin, and accordingly reduce the batch-to-batch variation of ophthalmic ointment products.Rheology of the final ointment products It is essential to characterize the rheology of the final ointment products to ensure product quality. Although the rheological properties of white petrolatum have been systematically studied in previous reports, the rheological properties of petrolatum-based ointment products must be performed since the rheology will change as a results of formulation composition and processing. In addition, it has been reported that ointments prepared using the same USP grade white petrolatum from different sources may result in different rheological and release characteristics [9]. This may be a result of: 1) variation of composition; 2) differences in the degree of refinement; and 3) impurity differences. According to [26], the purification of petrolatum is performed by hydrogenation, filtration and adsorption, leading to the saturation of aromatic compounds and double bond hydrocarbons and the elimination of some polar hydrocarbons that contain sulfur, hydrogen and nitrogen groups. Petrolatum with a higher degree of refinement will appear lighter in color. It has been shown [12] that ointments prepared with lighter colored petrolatum possess lower rheological properties and higher in vitro drug release rates.Characterization methods and rheological parameters Although the rheological properties are important in many aspects (from manufacturing to the application and drug delivery to the human eye) of ophthalmic ointments, their rheological characterization is not well established. According to [7], viscosity testing is not included in the US Pharmacopeia monograph for ophthalmic products since viscosity is formulation dependent. However, the manufacturer should perform viscosity testing for individual ophthalmic drug product. The methods and procedures provided in USP chapters <911> <912> and <913> are basic and general for viscosity testing, and only refer to shearing stress, rate of shear and viscosity. However, other important rheological parameters (such as storage modulus (G’), loss modulus (G”) and yield stress, etc.) may have significant impact on the performance of ophthalmic ointments. In addition, to understand the microstructure of the ointment, some parameters have to be calculated based on appropriate models and equations. Ahmed et al. [27] evaluated rheological parameters including shearing stress, rate of shear, viscosity (maximum and minimum), hysteresis loop area and yield value of semisolid formulations (creams, ointments and gels). These rheological parameters were used to compare different types of semisolid formulations and to evaluate their stability. In the development of Q1/Q2 equivalent formulations, Krishnaiah et al. [28] studied the impact of manufacturing processing on the key rheological properties including viscoelastic behavior, yield stress, and viscosity (at low, medium, and high shear rate) on acyclovir cream formulations. The procedures used by Krishnaiah et al. [28] have been adopted and appropriately adjusted in later studies on topical ointments [8–11]. Xu et al. [8] included yield stress, G’ and viscosity at high shear rate as responses in a Design of Experiments (DoE) study of the acyclovir ophthalmic ointments. In another study [9], four rheological parameters (G’, onset point (OP), crossover modulus (CM) and Power law consistency index (K value) calculated through the Power law model) were used to determine critical quality attributes in the manufacturing of Q1/Q2 equivalent loteprednol etabonate ophthalmic ointments. In addition, correlations were shown between these four rheological parameters and the in vitro drug release [9,12] as well as the ex vivo drug permeation through rabbit corneas [29].Summarized from the current reports, the rheological properties of ophthalmic ointments can be performed as follows: 1) a conditioning step to set the temperature; 2) a time sweep step to allow the sample to fully recover from the shear applied during sample loading (monitored at certain stress or strain and oscillation); 3) a strain sweep or stress sweep step to obtain onset point (yield stress) and crossover modulus by plotting G’ against stress or strain; 4) a time sweep step (same as step 2) to allow the sample to recover from the shear applied during the previous step (monitored at certain strain or stress and oscillation); and 5) a steady-state flow step to characterize the flow property range from different shear rates according to different purposes. Table 1 lists all the rheological parameters and their practical meaning in manufacturing, packaging, drug delivery and application of ointment formulations.Table 1.Rheological parameters and their application in different aspects of ointment products.Rheological ParameterDefinition and ApplicationStorage modulus (G’)/loss modulus (G”)G’ and G” describe the solid-like property (elasticity) and liquid-like property (viscosity) of the material, respectively. These are used to understand the cohesiveness of the microstructure of the material.Viscosity (η)η is a measure of “resistance to flow”, also called shear viscosity. Appropriate viscosity can prolong the retention time of the ophthalmic ointment on the eye surface thus increasing drug bioavailability. The viscosity cannot be too high at the shear rate of eye blinking (~103 s−1), otherwise it will cause an uncomfortable feeling, blurring of vision and refractive index change.Yield stress (onset point)The stress corresponding to the transition from elastic to plastic deformation. Yield stress is used to assess the spreadability of ointments on the appropriate surface. In addition, the ease of filling of ointments into the final container can be evaluated by yield stress.Crossover modulusThe crossover modulus is the point where G’=G”. It represents the phase transition from solid-like properties to liquid-like properties. Good correlation between the crossover modulus and drug release rate has been established [9].Power law consistency index (K value)The K value is calculated from the Power law (Ostwald-de Waele) equation if the flow curve can be fitted to the Power law model. It represents the apparent viscosity at a shear rate of 1 s−1. The K value allows better quantitative comparison between different ointment formulations. A strong correlation between the K value and the drug release rate has been established [9].Open in a separate window2.4. Other supporting characterization of the ophthalmic ointmentsMechanical forces and heat are usually generated during the manufacturing process (e.g. heating and mixing) of ophthalmic ointments, and therefore the solid-state properties (e.g. crystalline form change) of the drug substance in ophthalmic ointments (if the drug remains in the solid state in the petrolatum base) must be evaluated. Powder X-ray Diffraction (PXRD) [11], image analysis (e.g. PLM and FTIR-imaging system) and thermal analysis (i.e. DSC and TGA) can be performed to understand the potential physical state changes of the drug substance in the finished products. However, these techniques may not be suitable for ophthalmic ointments with extremely low drug content (e.g. 0.5% w/w) since the drug concentration is too low to be detected using current instrumentation. For example, PXRD and DSC were not able to detect the loteprednol etabonate peak in Lotemax® ointments (0.5% w/w) (unpublished results [18]). Drug particles obtained using the hexane extraction method may be used to check the solid state of the drug substance. However, as mentioned above in section 2.2, this method may change the original crystalline form of the drug particles in the ointment. To date, there is no suitable method to detect crystalline form change of drug substance in ointments without destroying the samples, for ointments with low drug content. PLM is a direct method to observe crystalline particles in ointments, but it is insufficient to identify any form changes.3. In vitro release testing methodsBoth FDA Guidance for Industry: SUPAC-SS: [6] and USP General Chapter <1724> Semisolid Drug Products—Product Performance Tests have recommended the vertical diffusion cell (VDC) method to perform in vitro release testing (IVRT) of semisolid formulations (e.g., creams, gels, lotions and ointments). USP <1724> also considers using a modified holding cell placed at the bottom of modified, reduced-volume dissolution vessels of the USP Apparatus 2 type with mini paddles, as well as USP apparatus 4 (flow-through cell) with trans-cap cell methods. To date, the most frequently reported IVRT method for semisolid formulations is the Franz diffusion cell method [30–38] introduced by Shah et al.[30] in 1991. Other non-compendial diffusion cell methods have been utilized for semisolid formulations [39–46] before the 1990s. Kumar [47] and Rege [13] performed IVRT of topical dosage forms using the USP apparatus 2 with enhancer cell assembly (Patent US5408865A) [48]. In recent years, there have been several reports on the use of USP apparatus 2 with immersion cells (commercially available enhancer cell assembly) (Agilent Technologies, Santa Clara, CA) [8–10,12,28] or with modified holding cells [49] to investigate IVRT of semisolid formulations. Chattaraj [50–52] reported the use of USP apparatus 4 (flow-through cell) with ‘insertion cell’ to perform IVRT of semisolid dosage forms. This method showed advantages over the Franz diffusion cell in terms of the relative standard deviation (RSD%) or coefficient of variance (CV%). The ‘insertion cell’ application avoided bubbles or air entrapment at the membrane/liquid interface, which commonly occurs when using the Franz diffusion cells. Three IVRT methods (Franz diffusion cells, USP apparatus 2 with enhancer cells and USP apparatus 4 with semisolid adapters) (Figure 4) have been used to evaluate the loteprednol etabonate ophthalmic ointments [12]. All three methods had the ability to discriminate the Q1/Q2 equivalent formulations with manufacturing differences. However, USP apparatus 4 showed the best discriminatory ability as well as reproducibility. Please refer to the review by Olejnik [53] on IVRT of semisolid dosage forms. This review discusses various aspects of IVRT methods (such as choice of dissolution medium, membrane, temperature, as well as the speed of testing).Open in a separate windowFigure 4.Graphical illustration of three IVRT methods used for ophthalmic ointments. The three methods (Franz diffusion cells, USP apparatus 2 with enhancer cells and USP apparatus 4 with semisolid adapters) were used to study the drug release from loteprednol etabonate ointment formulations.MembranesFor topical dosage forms, drug diffusion studies using tissues (e.g. human skin or cornea) may directly reflect drug absorption and thus the bioavailability of the formulations. However, the availability and consistency of these tissues are very limited. In addition, sample analysis will be more complicated since biological samples are involved. Artificial or synthetic membranes are good alternatives for the tissues in terms of the simplicity and reproducibility of the IVRT studies for product quality control purposes. The membranes should be commercially available and reproducible in quality, inert (no physical and chemical interaction with the drug molecules as well as the release media). They should also be highly permeable to the drug under investigation. The purpose of the membrane is to support the formulation in place and avoid any disturbance generated by agitation during the IVRT studies. Drug recovery studies in the release media should be performed to select the optimum membrane.There are two types of synthetic membranes: hydrophilic (e.g. cellulose acetate, polyethersulfone (PES), polyamide (nylon), etc.) and hydrophobic (e.g. polydimethylsiloxane (PDMS), polypropylene, etc.). Membrane selection is based on the lipophilicity of the drug molecules. Olejnik [53] made a summary of the membranes commonly used in IVRT studies of semisolid formulations. Table 2 lists the membranes used in recent reports on IVRT of semisolid ophthalmic formulations. Since these membranes are not biorelevant, they are typically used in IVRT studies for quality control purposes. To mimic the physiological conditions at the site of drug delivery, biorelevant membranes (e.g. Strat-M®, mimicking human skin) are also available for the purpose of IVIVC development. Currently there is no such membrane available for ophthalmic formulations. Accordingly, animal corneas (e.g. rabbit corneas) are widely used in IVRT studies of ophthalmic formulations to mimic the in vivo environment. All membranes used in IVRT studies must first be pretreated (soaked in the dissolution media or water) before experimentation in order to remove preservatives (in particular, glycerin) which would otherwise interfere with drug release. Prior to mounting on the top of the formulation, any residual moisture should be removed from the pretreated membranes.Table 2.Commonly used membranes in recent reportsMembraneBrand nameTypeReferenceNylon--hydrophilic[8,10,37]Silicon--hydrophobic[11]PolysulfoneTuffryn®hydrophilic[28,37,54]Polyvinylidene fluoride (PVDF)Durapore®hydrophilic[10,37]Mixed cellulose ester (MCE)--hydrophilic[10,55]Cellulose acetate (CA)--hydrophilic[12,49,56]Regenerated celluloseCuprophan®hydrophilic[11]Polyethersulfone (PES)Express® PLUShydrophilic[10]Polytetrafluoroethylene (PTFE)Omnipore™hydrophilic[10]Fluoropore™hydrophobic[37]Transdermal diffusion membraneStrat-M®hydrophobic[37]Open in a separate windowRelease mediaThe IVRT release media is selected based on the purpose of test. Ideally, an IVRT method can be used for the purposes of quality control as well as development of IVIVCs. However, the media typically used for quality control dissolution testing does not represent all aspects of the physiological conditions of most routes of administration and may not allow correlation with in vivo data. It has been noted that prediction of dosage form performance at the site where most of the absorption occurs requires adequate simulation of the in vivo conditions [57]. It is recommended to simulate the physiological conditions in the development of IVRT methods regardless of the purpose. To mimic the physiological conditions, biorelevant media (i.e. artificial tear fluid (containing 0.67% (w/v) of NaCl, 0.2% (w/v) of NaHCO3, and 0.008% (w/v) of CaCl2.2H2O)) has been used in the IVRT for ophthalmic ointments [12]. However, the APIs of most ophthalmic formulations are steroids with poor aqueous drug solubility (e.g. loteprednol etabonate with an approximately water solubility of 0.5 μg/ml). Accordingly, surfactants (e.g. sodium dodecyl sulfate (SDS)) or a high amount of organic solvents (30% v/v alcohol) or both are required as additives to the release media in order to meet sink conditions. According to the Higuchi equation [58], the drug release amount per unit area is linearly proportional to the square root of time. To apply this linear model, the percentage of drug release from the ointment base should be less than 30% of the total amount of drug [59]. Therefore, surfactants or organic solvents should not over accelerate the drug release rate. In addition, the IVRT method should be able to discriminate between in-spec and out-of-spec batches. If the solubilization power of the receptor fluid is too high, then the discriminating ability of the method may be lost. Lastly, the release media should not change the formulation characteristics during the IVRT studies. The selection of membrane and release media are interrelated and should be considered together to optimize the release conditions.Method comparisonThree IVRT methods (Franz diffusion cells, USP apparatus 2 with enhancer cells and USP apparatus 4 with semisolid adapters) have been compared for Q1/Q2 equivalent ophthalmic ointments with manufacturing differences, and all three methods showed good discriminatory ability [12]. The USP apparatus 4 with semisolid adapters demonstrated the best results (best discriminatory ability and reproducibility) among the three methods. However, the setup procedure necessary for USP apparatus 4 is more complicated (including calibration, sample loading and cell assembly, etc.) and therefore it is time-consuming compared to the other two methods investigated. The Franz diffusion cell (FDC) method has been most commonly used in the development of topical and semisolid products. The procedure of the FDC method is less complicated to operate compared with the other two methods investigated. This instrument is also relatively less expensive. However, the volume of the receptor chamber of Franz diffusion cells is limited (typical volume is 12 ml). Accordingly, more surfactants or organic solvents are required in the receptor chamber to meet sink conditions. The magnetic stirring used in the FDC method is non-standard and therefore it is not easy to harmonize the data obtained from different laboratories. It has been reported that the data generated using FDC showed slightly poorer reproducibility compared to other methods [12]. This can be attributed to: inconsistency in sample loading onto the membrane; and potential air entrapment between the sample and the membrane. In addition, bubbles may be generated and trapped in the receptor chamber during the test due to the agitation of the stir bar.Release kineticsThe Higuchi equation [58] was first introduced to investigate drug release kinetics from ointment bases containing drugs in suspension. The Higuchi model (“square root of time” release kinetics) is used in the IVRT (FDA SUPAC-SS) [6] as well as in literature reports of most semisolid formulations. This equation should not be misused since it was derived based on nine conditions [60] and these conditions must be met. The conditions are as follows: (1) Drug transport through the ointment base is rate limiting, whereas drug transport within the skin is rapid. (2) The skin acts like a “perfect sink”: The drug concentration in this compartment can be considered to be negligible. (3) The initial drug concentration in the film is much higher than the solubility of the drug in the ointment base. (4) The drug is finely dispersed within the ointment base (the size of the drug particles is much smaller than the thickness of the film). (5) The drug is initially homogeneously distributed throughout the film. (6) The dissolution of drug particles within the ointment base is rapid compared to the diffusion of dissolved drug molecules within the ointment base. (7) The diffusion coefficient of the drug within the ointment base is constant and does not depend on time or the position within the film. (8) Edge effects are negligible: The surface of the ointment film exposed to the skin is large compared to its thickness. The mathematical description of drug diffusion can be restricted to one dimension. (9) The medium (ointment base) does not swell or dissolve during drug release. Other commonly used models including zero-order, first-order, and logarithmic have also been used to investigate drug release kinetics from ointment formulations. Xu et al. [61] proposed a transient-boundary hypothesis to explain the ‘logarithmic time’ release kinetics of oleaginous ointments. The three most commonly used models (zero-order, logarithmic and Higuchi) were used to investigate the release kinetics of loteprednol etabonate ointments [29]. The goodness of fit coefficient (R2) between the three models demonstrated the following rank order: Higuchi > logarithmic > zero order. The time range and number of points are important to determine the best kinetic model for drug release from ointment formulations. It was shown that time points below 2 hours were critical in determining the drug release kinetics of these formulations, as if only the time points at 2 hours and above are considered then the data from all three release testing methods changed from Higuchi to logarithmic or other models. Selecting the most appropriate release kinetic model is essential to elucidate the drug release mechanism from the ointment base. In addition, the model simplifies the release profiles into one value (drug release rate), allowing better statistical analysis and comparison between the release profiles from different formulations.Discriminatory abilityIVRT methods should be able to detect any batch-to-batch variation from manufacturing to final products. Typically, formulations with different drug content (e.g. 50% more and 50% less API) (maintaining the same ratio of non-active ingredients) can be used to test the discriminatory ability of IVRT methods. The Wilcoxon Rank Sum/Mann-Whitney rank test has been performed to evaluate the discriminatory ability of different IVRT methods used for ophthalmic ointments [12]. This test was suggested in the FDA SUPAC-SS [6] guidance for comparison of drug release rate between the pre-change lot and the post-change lot to evaluate the similarity of the drug release profiles. Per the guidance, at a 90% confidence level, there is no significant change if the eighth and twenty-ninth ordered individual T/R (test/reference) ratios fall into the range of 75% to 133.3%. Therefore, there is significant difference between the reference and test formulations once the eighth and twenty-ninth ordered individual T/R ratios fall outside of this range. It has been reported [12] that for loteprednol etabonate ointments, the Wilcoxon Rank Sum/Mann-Whitney rank was more sensitive to the discriminatory ability of release testing methods compared to the commonly used t-test.4. ConclusionsThis review has revealed the paucity of literature reports in the area of physicochemical and in vitro profiling of ophthalmic ointments and consequently it is important for researchers to also rely on the body of literature on other semisolid formulations. It is also apparent that the rheological properties of ophthalmic ointments are critical to their performance. In fact, it has been shown that both in vitro and ex vivo drug release can correlate with the rheological parameters. Care has to be taken in choosing an IVRT method of ophthalmic ointments. The Franz diffusion cell method has been most commonly used for IVRT of semisolid formulations including ophthalmic ointments. However, a recent study comparing USP apparatus 2, USP apparatus 4 and Franz diffusion cell methods has shown that the Franz diffusion method may not be the most appropriate due to lower reproducibility and poorer discriminatory ability which can be attributed to loading inconsistencies and non-standard agitation method. The Wilcoxon Rank Sum/Mann-Whitney rank test may be a useful statistical method to evaluate the discriminatory ability of different ophthalmic ointments.5. AcknowledgementFunding for this project was made possible by a Food and Drug Administration grant (1U01FD005177-01). The views expressed in this review do not reflect the official policies of the U.S. Food and Drug Administration or the U.S. Department of Health and Human Services; nor does any mention of trade names, commercial practices, or organization imply endorsement by the United States Government.Dissolution equipment support from Sotax Corporation is highly appreciated.The authors are grateful to Dr. Louis Tisinger (application specialist, Agilent Technologies) and Mr. Keegan A. McHose (product specialist, Agilent Technologies) for FTIR-imaging test support.Abbreviations:Q1/Q2 equivalent(qualitative and quantitative sameness)RLD(reference listed drug)PLM(polarized light microscopy)FTIR(Fourier-transform infrared)API(active pharmaceutical ingredient)DoE(Design of Experiments)VDC(vertical diffusion cell)IVRT(in vitro release testing)PXRD(Powder X-ray Diffraction)SDS(sodium dodecyl sulfate)FDC(Franz diffusion cell)PDMS(Polydimethylsiloxane)PVDF(Polyvinylidene fluoride)MCE(Mixed cellulose ester)CA(Cellulose acetate)PES(Polyethersulfone)PTFE(Polytetrafluoroethylene)G’(storage modulus)G”(loss modulus)USP(US pharmacopeia)6. References[1] Järvinen K, Järvinen T, Urtti A, 1995. 
+Ocular absorption following topical delivery. Advanced drug delivery reviews
+16, 3–19. [Google Scholar][2] Pal Kaur I, Kanwar M, 2002. 
+Ocular preparations: the formulation approach. Drug development and industrial pharmacy
+28, 473–493. [PubMed] [Google Scholar][3] Greaves J, Wilson C, Birmingham A, 1993. 
+Assessment of the precorneal residence of an ophthalmic ointment in healthy subjects. British journal of clinical pharmacology
+35, 188. [PMC free article] [PubMed] [Google Scholar][4] FDA Orange Book. Url: https://www.accessdata.fda.gov/scripts/cder/ob/ (accessed: 08.12.18).[5] Ueda CT, Shah VP, Derdzinski K, Ewing G, Flynn G, Maibach H, Marques M, Rytting H, Shaw S, Thakker K, 2009. 
+Topical and transdermal drug products, Pharmacopeial Forum, pp. 750–764. [Google Scholar][6] FDA U, 1997. 
+Guidance for Industry. Nonsterile semisolid dosage forms, scale-up and postapproval changes: chemistry, manufacturing, and controls; in vitro release testing and in vivo bioequivalence documentation. Center for Drug Evaluation and Research (CDER). [Google Scholar][7] Aldrich DS, Bach CM, Brown W, Chambers W, Fleitman J, Hunt D, Marques MR, Mille Y, Mitra AK, Platzer SM, 2013. 
+Ophthalmic preparations. US Pharmacopeia
+39, 1–21. [Google Scholar][8] Xu X, Al-Ghabeish M, Rahman Z, Krishnaiah YS, Yerlikaya F, Yang Y, Manda P, Hunt RL, Khan MA, 2015. 
+Formulation and process factors influencing product quality and in vitro performance of ophthalmic ointments. International journal of pharmaceutics
+493, 412–425. [PubMed] [Google Scholar][9] Bao Q, Jog R, Shen J, Newman B, Wang Y, Choi S, Burgess DJ, 2017. 
+Physicochemical attributes and dissolution testing of ophthalmic ointments. International journal of pharmaceutics
+523, 310–319. [PMC free article] [PubMed] [Google Scholar][10] Dong Y, Qu H, Pavurala N, Wang J, Sekar V, Martinez MN, Fahmy R, Ashraf M, Cruz CN, Xu X, 2018. 
+Formulation characteristics and in vitro release testing of cyclosporine ophthalmic ointments. International journal of pharmaceutics
+544, 254–264. [PubMed] [Google Scholar][11] Bhagurkar AM, Angamuthu M, Patil H, Tiwari RV, Maurya A, Hashemnejad SM, Kundu S, Murthy SN, Repka MA, 2016. 
+Development of an ointment formulation using hot-melt extrusion technology. AAPS PharmSciTech
+17, 158–166. [PMC free article] [PubMed] [Google Scholar][12] Bao Q, Shen J, Jog R, Zhang C, Newman B, Wang Y, Choi S, Burgess DJ, 2017. 
+In vitro release testing method development for ophthalmic ointments. International journal of pharmaceutics
+526, 145–156. [PMC free article] [PubMed] [Google Scholar][13] Rege PR, Vilivalam VD, Collins CC, 1998. 
+Development in release testing of topical dosage forms: use of the Enhancer Cell™ with automated sampling. Journal of pharmaceutical and biomedical analysis
+17, 1225–1233. [PubMed] [Google Scholar][14] El Gendy AM, Jun H, Kassem AA, 2002. 
+In vitro release studies of flurbiprofen from different topical formulations. Drug development and industrial pharmacy
+28, 823–831. [PubMed] [Google Scholar][15] Reichling J, Landvatter U, Wagner H, Kostka K-H, Schaefer UF, 2006. 
+In vitro studies on release and human skin permeation of Australian tea tree oil (TTO) from topical formulations. European journal of pharmaceutics and biopharmaceutics
+64, 222–228. [PubMed] [Google Scholar][16] Shekunov BY, Chattopadhyay P, Tong HH, Chow AH, 2007. 
+Particle size analysis in pharmaceutics: principles, methods and applications. Pharmaceutical research
+24, 203–227. [PubMed] [Google Scholar][17] Ali Y, Lehmussaari K, 2006. 
+Industrial perspective in ocular drug delivery. Advanced drug delivery reviews
+58, 1258–1268. [PubMed] [Google Scholar][18] Bao Q, Burgess DJ, 2018. 
+unpublished data.[19] Yamamoto Y, Fukami T, Koide T, Suzuki T, Hiyama Y, Tomono K, 2012. 
+Pharmaceutical evaluation of steroidal ointments by ATR-IR chemical imaging: Distribution of active and inactive pharmaceutical ingredients. International journal of pharmaceutics
+426, 54–60. [PubMed] [Google Scholar][20] Konning G, Mital H, 1978. 
+Sheabutter V: Effect of particle size on release of medicament from ointment. Journal of Pharmaceutical sciences
+67, 374–376. [PubMed] [Google Scholar][21] Pandey P, Ewing GD, 2008. 
+Rheological characterization of petrolatum using a controlled stress rheometer. Drug development and industrial pharmacy
+34, 157–163. [PubMed] [Google Scholar][22] Barry B, Grace A, 1971. 
+Rheological properties of white soft paraffin. Rheologica acta
+10, 113–120. [Google Scholar][23] Park E-K, Song K-W, 2010. 
+Rheological evaluation of petroleum jelly as a base material in ointment and cream formulations with respect to rubbing onto the human body. Korea-Australia Rheology Journal
+22, 279–289. [Google Scholar][24] Barry B, Grace A, 1971. 
+Structural, rheological and textural properties of soft paraffins. Journal of texture studies
+2, 259–279. [PubMed] [Google Scholar][25] MUYNCK C, Lalljie S, Sandra P, RUDDER D, AERDE P, Remon JP, 1993. 
+Chemical and physicochemical characterization of petrolatums used in eye ointment formulations. Journal of pharmacy and pharmacology
+45, 500–503. [PubMed] [Google Scholar][26] Faust HR, Casserly EW, 2003. 
+Petrolatum and regulatory requirements, Penreco. NPRA International Lubricants & Waxes Meeting, November. Citeseer, pp. 13–14. [Google Scholar][27] Ahmed TA, Ibrahim HM, Ibrahim F, Samy AM, Fetoh E, Nutan MT, 2011. 
+In vitro release, rheological, and stability studies of mefenamic acid coprecipitates in topical formulations. Pharmaceutical development and technology
+16, 497–510. [PubMed] [Google Scholar][28] Krishnaiah YS, Xu X, Rahman Z, Yang Y, Katragadda U, Lionberger R, Peters JR, Uhl K, Khan MA, 2014. 
+Development of performance matrix for generic product equivalence of acyclovir topical creams. International journal of pharmaceutics
+475, 110–122. [PubMed] [Google Scholar][29] Bao Q, Newman B, Wang Y, Choi S, Burgess D, 2018. 
+In vitro and ex vivo correlation of drug release from ophthalmic ointments. Journal of controlled release: official journal of the Controlled Release Society
+276, 93–101. [PMC free article] [PubMed] [Google Scholar][30] Shah VP, Elkins J, Hanus J, Noorizadeh C, Skelly JP, 1991. 
+In vitro release of hydrocortisone from topical preparations and automated procedure. Pharmaceutical Research
+8, 55–59. [PubMed] [Google Scholar][31] SAiToH I, TAKAGISHI Y, 1995. 
+Effect of temperature on bleeding and drug release from a liquid droplet dispersion ointment. Biological and Pharmaceutical Bulletin
+18, 326–329. [PubMed] [Google Scholar][32] Shah VP, Elkins JS, 1995. 
+In-vitro release from corticosteroid ointments. Journal of Pharmaceutical Sciences
+84, 1139–1140. [PubMed] [Google Scholar][33] Mura P, Nassini C, Proietti D, Manderioli A, Corti P, 1996. 
+Influence of vehicle composition variations on the in vitro and ex vivo clonazepam diffusion from hydrophilic ointment bases. Pharmaceutica Acta Helvetiae
+71, 147–154. [PubMed] [Google Scholar][34] Zatz JL, Varsano J, Shah VP, 1996. 
+In vitro release of betamethasone dipropionate from petrolatum-based ointments. Pharmaceutical development and technology
+1, 293–298. [PubMed] [Google Scholar][35] Flynn GL, Shah VP, Tenjarla SN, Corbo M, DeMagistris D, Feldman TG, Franz TJ, Miran DR, Pearce DM, Sequeira JA, 1999. 
+Assessment of value and applications of in vitro testing of topical dermatological drug products. Pharmaceutical research
+16, 1325–1330. [PubMed] [Google Scholar][36] Müller-Goymann C, Alberg U, 1999. 
+Modified water containing hydrophilic ointment with suspended hydrocortisone-21-acetate–the influence of the microstructure of the cream on the in vitro drug release and in vitro percutaneous penetration. European journal of pharmaceutics and biopharmaceutics
+47, 139–143. [PubMed] [Google Scholar][37] Nallagundla S, Patnala S, Kanfer I, 2014. 
+Comparison of in vitro release rates of acyclovir from cream formulations using vertical diffusion cells. AAPS PharmSciTech
+15, 994–999. [PMC free article] [PubMed] [Google Scholar][38] Tiffner KI, Kanfer I, Augustin T, Raml R, Raney SG, Sinner F, 2018. 
+A comprehensive approach to qualify and validate the essential parameters of an in vitro release test (IVRT) method for acyclovir cream, 5%. International journal of pharmaceutics
+535, 217–227. [PubMed] [Google Scholar][39] Ayres JW, Laskar PA, 1974. 
+Diffusion of benzocaine from ointment bases. Journal of pharmaceutical sciences
+63, 1402–1406. [PubMed] [Google Scholar][40] Bottari F, Di Colo G, Nannipieri E, Saettone M, Serafini M, 1974. 
+Influence of drug concentration on in vitro release of salicylic acid from ointment bases. Journal of pharmaceutical sciences
+63, 1779–1783. [PubMed] [Google Scholar][41] Chowhan Z, Pritchard R, 1975. 
+Release of corticoids from oleaginous ointment bases containing drug in suspension. Journal of pharmaceutical sciences
+64, 754–759. [PubMed] [Google Scholar][42] Bottari F, Di Colo G, Nannipieri E, Saettone M, Serafini M, 1977. 
+Release of drugs from ointment bases II: in vitro release of benzocaine from suspension-type aqueous gels. Journal of pharmaceutical sciences
+66, 926–931. [PubMed] [Google Scholar][43] Behme RJ, Kensler TT, Brooke D, 1982. 
+A new technique for determining in vitro release rates of drugs from creams. Journal of pharmaceutical sciences
+71, 1303–1305. [PubMed] [Google Scholar][44] Takamura A, Ishii F, Noro SI, Koishi M, 1984. 
+Physicopharmaceutical characteristics of an oil-in-water emulsion-type ointment containing diclofenac sodium. Journal of pharmaceutical sciences
+73, 676–681. [PubMed] [Google Scholar][45] Ong JT, Manoukian E, 1988. 
+Release of lonapalene from two-phase emulsion-type ointment systems. Pharmaceutical research
+5, 16–20. [PubMed] [Google Scholar][46] Velissaratou A, Papaioannou G, 1989. 
+In vitro release of chlorpheniramine maleate from ointment bases. International journal of pharmaceutics
+52, 83–86. [Google Scholar][47] Kumar P, Sanghvi P, Collins CC, 1993. 
+Comparison of diffusion studies of hydrocortisone between the Franz cell and the enhancer cell. Drug development and industrial pharmacy
+19, 1573–1585. [Google Scholar][48] Collins CC, Little AC, Sanghvi PP, Hofer H, Swon JE, 1995. 
+Transdermal cell test matter volume-adjustment device. Google Patents. [Google Scholar][49] Petró É, Paál T, Erős I, Kenneth A, Baki G, Csóka I, 2015. 
+Drug release from semisolid dosage forms: a comparison of two testing methods. Pharmaceutical development and technology
+20, 330–336. [PubMed] [Google Scholar][50] Chattaraj S, Kanfer I, 1996.  ‘The insertion cell’: A novel approach to monitor drug release from semi-solid dosage forms. International journal of pharmaceutics
+133, 59–63. [Google Scholar][51] Chattaraj S, Swarbrick J, Kanfer I, 1995. 
+A simple diffusion cell to monitor drug release from semi-solid dosage forms. International journal of pharmaceutics
+120, 119–124. [Google Scholar][52] Chattaraj S, Kanfer I, 1995. 
+Release of acyclovir from semi-solid dosage forms: a semi-automated procedure using a simple plexiglass flow-through cell. International journal of pharmaceutics
+125, 215–222. [Google Scholar][53] Olejnik A, Goscianska J, Nowak I, 2012. 
+Active compounds release from semisolid dosage forms. Journal of pharmaceutical sciences
+101, 4032–4045. [PubMed] [Google Scholar][54] Naik P, Shah SM, Heaney J, Hanson R, Nagarsenker MS, 2016. 
+Influence of test parameters on release rate of hydrocortisone from cream: Study using vertical diffusion cell. Dissolution Technologies
+23, 14–20. [Google Scholar][55] Kregar ML, Dürrigl M, Rožman A, Jelčić Ž, Cetina-Čižmek B, Filipović-Grčić J, 2015. 
+Development and validation of an in vitro release method for topical particulate delivery systems. International journal of pharmaceutics
+485, 202–214. [PubMed] [Google Scholar][56] Sesto Cabral ME, Ramos AN, Cabrera CA, Valdez JC, González SN, 2015. 
+Equipment and method for in vitro release measurements on topical dosage forms. Pharmaceutical development and technology
+20, 619–625. [PubMed] [Google Scholar][57] Marques MR, Loebenberg R, Almukainzi M, 2011. 
+Simulated biological fluids with possible application in dissolution testing. Dissolution Technol
+18, 15–28. [Google Scholar][58] Higuchi T, 1961. 
+Rate of release of medicaments from ointment bases containing drugs in suspension. Journal of pharmaceutical sciences
+50, 874–875. [PubMed] [Google Scholar][59] Shah VP, Elkins JS, Williams RL, 1999. 
+Evaluation of the test system used for in vitro release of drugs for topical dermatological drug products. Pharmaceutical development and technology
+4, 377–385. [PubMed] [Google Scholar][60] Siepmann J, Peppas NA, 2011. 
+Higuchi equation: derivation, applications, use and misuse. International journal of pharmaceutics
+418, 6–12. [PubMed] [Google Scholar][61] Xu X, Al-Ghabeish M, Krishnaiah YS, Rahman Z, Khan MA, 2015. 
+Kinetics of drug release from ointments: role of transient-boundary layer. International journal of pharmaceutics
+494, 31–39. [PubMed] [Google Scholar]
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.0M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

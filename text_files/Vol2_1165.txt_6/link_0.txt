@@ -1,0 +1,704 @@
+Document Name: role of Britol 7 in Protective Cream0
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2843412/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skin Barrier Function - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+HHS Author Manuscripts
+
+
+                    PMC2843412
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (747K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+HHS Author Manuscripts
+
+
+                    PMC2843412
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Curr Allergy Asthma Rep. Author manuscript; available in PMC 2010 Mar 22.Published in final edited form as:Curr Allergy Asthma Rep. 2008 Jul; 8(4): 299–305.  doi: 10.1007/s11882-008-0048-0PMCID: PMC2843412NIHMSID: NIHMS184960PMID: 18606081Skin Barrier FunctionPeter M. Elias, MDAuthor information Copyright and License information DisclaimerCorresponding author: Peter M. Elias, MD, Dermatology Service (190), VA Medical Center, 4150 Clement Street, San Francisco, CA 94121, USA., ude.fscu.mred@psaileCopyright notice AbstractLike other inflammatory dermatoses, the pathogenesis of atopic dermatitis (AD) has been largely attributed to abnormalities in adaptive immunity. T helper (Th) cell types 1 and 2 cell dysregulation, IgE production, mast cell hyperactivity, and dendritic cell signaling are thought to account for the chronic, pruritic, and inflammatory dermatosis that characterizes AD. Not surprisingly, therapy has been directed toward ameliorating Th2-mediated inflammation and pruritus. Here, we review emerging evidence that inflammation in AD occurs downstream to inherited and acquired insults to the barrier. Therapy based upon this new view of pathogenesis should emphasize approaches that correct the primary abnormality in barrier function, which drives downstream inflammation and allows unrestricted antigen access.IntroductionThe epidermis generates protective and defensive functions (Table 1) mediated by its unique differentiation end product, the stratum corneum (SC) [1•]. Of these functions, most critical is the permeability barrier, which retards transcutaneous evaporative water loss, allowing survival in a potentially desiccating external environment. The SC is a multilayered tissue composed of flattened, anucleate corneocytes, surrounded by multiple planar lamellae sheets, enriched in ceramides, cholesterol, and free fatty acids (FFA) [2]. The localization of these highly hydrophobic lipids within the extracellular domains of the SC inhibits the outward movement of water [2].Table 1Multiple protective functions of the outer epidermisFunctionPrincipal compartmentStructural basisBiochemical basisRegulatory signals (receptors)Permeability*†Extracellular matrix of SCLamellar bilayersCeramides, cholesterol, nonessential fatty acids in proper ratioIL-1α, Ca++, pH, liposensors, serine proteases via PAR2, TPRV1 and 4Antimicrobial*†Extracellular matrix of SCLamellar bilayersAntimicrobial peptides, FFA, sphingsine1,25 (OH)2D3; IL-1αAntioxidant†Extracellular matrix of SCLamellar bilayersCholesterol, FFA, secreted vitamin E, redox gradient?Cohesion (integrity) → desquamation*†Extracellular matrix of SCCorneodesmosomesIntercellular DSG1/DSC1 homodimerspH, Ca++, (TPRV)Mechanical or rheological†CorneocyteCornified envelope; keratin filamentsγ-glutamyl isopeptide bondsCa++, CholSO4, liposensorsChemical (antigen exclusion)*†Extracellular matrix of SCExtracellular lacunaeHydrophilic products of corneodesmosomesSame as for permeability barrierPsychosensory interface†Extracellular matrix of SCLamellar bilayersBarrier lipidsGlucocorticoids, heat, (TPRV3)NeurosensoryStratum granulosumNeuroreceptors + transmittersIon channels, neurotransmittersDivalent cations; K+; others?Hydration†CorneocyteCytosolic pool of precursorsFilaggrin proteolytic products; glycerolOsmotic changes, (TPRV1 and 4), aquaporin 3Ultraviolet lightCorneocyteCytosolTrans-urocanic acid (histidase activity)Initiation of inflammation (first-degree cytokine activity)*†CorneocyteCytosolProteolytic activation of pro-IL-1α/βpH, serine protease activationOpen in a separate window*Regulated by SC pH.†Abnormal in atopic dermatitis.FFA—free fatty acids; IL—interleukin; PAR2—plasminogen activator type 2 receptor; SC—stratum corneum.These lipids are delivered to the SC as their precursors through secretion of a unique organelle, the epidermal lamellar body [2]. As the SC forms, this organelle delivers lipid constituents (cholesterol), lipid precursors (glucosylceramides and phospholipids), and enzymes (β-glucocerebrosidase, acidic sphingomyelinase, and secretory phospholipase A2) required to generate ceramides (Cer) and FFA, which are needed for their organization into mature membrane structures [2]. In parallel, lamellar body-derived proteases and their inhibitors orchestrate the orderly digestion of corneodesmosomes, transient intercellular junctions that are progressively degraded, allowing corneocytes to shed invisibly at the skin surface [3•].Finally, antimicrobial peptides are delivered to the SC intercellular domains via secretion of lamellar body contents [4–6]. Although defective epidermal permeability is a well-recognized feature of atopic dermatitis (AD) [7–10], this abnormality has been widely assumed to reflect downstream consequences of a primary immunologic abnormality (the historical “inside-outside” view of AD pathogenesis) [11–13]. We and others have long proposed that the permeability barrier abnormality in AD is not merely an epiphenomenon, but rather the driver of disease activity (ie, the reverse, “outside-inside” view of disease pathogenesis) [14–16], for the following reasons: 1) the extent of the permeability barrier abnormality parallels the severity of disease phenotype in AD [7,8,10]; 2) clinically uninvolved skin sites and skin cleared of inflammation for as long as 5 years continue to display significant barrier abnormalities [8,17]; 3) emollient therapy is effective ancillary therapy [18]; and, most importantly, 4) specific replacement therapy, targeting the prominent lipid abnormalities that account for the permeability barrier abnormality in AD, corrects the abnormality and is effective anti-inflammatory therapy (see Potential New Therapeutic Paradigm for AD).Barrier Failure in ADLike the permeability barrier, the antimicrobial barrier is compromised in AD. Colonization by Staphylococcus aureus is a common feature of AD [19••,20]. Although highest on lesional skin, colony counts often are high on clinically normal skin of patients with AD [21••]. Overt secondary infections are well-known complications in AD management. Colonization by superantigen-producing S. aureus strains further exacerbates disease in severe AD through generalized augmentation of IgE production, and development of specific IgE directed toward staphylococcal exotoxins [19••]. In addition, patients with AD are susceptible to widespread cutaneous viral infections, including molluscum contagiosum, Herpes simplex (Kaposi’s varicelliform eruption), and life-threatening vaccinia. Widespread dermatophytosis (tinea corporis) and Malassezia infections occur in AD; the latter, like S. aureus, can stimulate specific IgE production. These observations all point to loss of a competent antimicrobial barrier in AD.Although permeability and antimicrobial dysfunction are well-known features of AD, only recently has the likely reason become clear: these two functions are co-regulated and interdependent [22]. Failure of the permeability barrier favors secondary infection; conversely, pathogen colonization and infection further aggravate the barrier abnormality (Fig. 1) [19••,22]. For example, as with water egress, pathogen ingress occurs via the extra-cellular domains [23]. In AD, an impaired permeability barrier alone predisposes to pathogen colonization, not only because of increased surface pH, but also because of reduced levels of FFA and the Cer metabolite, sphingosine, which exhibit potent antimicrobial activity [19••,23–25]. Surface proteins on S. aureus can down-regulate epidermal FFA production [26], thereby aggravating permeability and antimicrobial function in parallel, which could further facilitate microbial invasion. In addition, members of two key families of antimicrobial peptides—the human cathelicidin (hCAP) product LL-37, and human β-defensins (hBD) 2 and 3—are down-regulated in a helper T cell type 2 (Th2)–dependent fashion in AD [27,28]. Notably, the hCAP aminoterminal fragment cathelin and hBD3 display robust activity against S. aureus [29,30]. LL-37 is required for normal epidermal permeability barrier function and is also important for the integrity of extra-cutaneous epithelia [22]. Thus, it is likely that decreased LL-37 amplifies the barrier defect in AD.Open in a separate windowFigure 1Pathogen colonization further aggravates the barrier abnormality in atopic dermatitis (AD). AMP—antimicrobial peptides; Cer—ceramides; FLG—filaggrin; LEKTI—lymphoepithelial Kazal-type trypsin inhibitor; PS—psychologic stress; RH—relative humidity; Th1—T helper cell type 1; Th2—T helper cell type 2.As noted previously, nontoxigenic strains of S. aureus that colonize AD can be replaced by enterotoxin-generating strains [31], which could aggravate AD by at least three mechanisms: 1) toxigenic strains are more likely than nontoxigenic strains to produce clinical infections [31]; 2) some toxins stimulate pruritus and specific IgE production [21••]; and 3) some toxins serve as superantigens that stimulate T- and B-cell proliferation, and immunoglobulin class switching to allergen-specific or superallergens that stimulate IgE production (Fig. 1) [21••,32]. Activated T cells produce IL-31, which also induces pruritus [33]. Finally, clinical infections, particularly folliculitis, are notoriously pruritic even in nonatopic patients, eliciting an itch-scratch vicious cycle that creates additional entry portals for pathogens (Fig. 1). Excoriations create further defects in the permeability barrier, representing another potentially important vicious cycle in AD pathogenesis (Fig. 1).Finally, several other critical defensive functions of the SC are compromised in AD. Compromised SC integrity (cohesion) is reflected by excess scale (abnormal desquamation), and diminished SC hydration is reflected by lifelong cutaneous xerosis, even after overt inflammation recedes (Table 1) [7,8,17]. Like the defective permeability and antimicrobial barriers, SC hydration declines in both lesional and nonlesional AD skin, with severity paralleling disease activity [7,10]. Decreased SC hydration is not merely a cosmetic concern; it suffices to stimulate epidermal hyperplasia and early evidence of inflammation (eg, mast cell degranulation), even in normal skin [34]. Thus, AD can be viewed as a disease of broad barrier failure.Basis for Abnormal Barrier Function in ADInherited abnormalitiesBased primarily upon inherited abnormalities in filaggrin (FLG) production in Northern Europeans, the development of AD is now increasingly linked to a primary defect in SC structure and function. The strongest evidence for a primary SC structural abnormality underlying AD pathogenesis derives from the recent link between loss-of-function mutations in the gene encoding FLG, and AD [35,36,37•,38]. Up to 50% of European kindreds with AD reveal single-allele, double-allele, or compound mutations in FLG on chromosome 1q21. Although 15 different mutations have been reported, the two most common (R501X and 2282del4) account for most cases [39]. Because of their proximal location on the FLG gene, they also predict more severe loss of function [38,40]. Although the logic for the link between excess SP activity and the barrier abnormality in AD seems clear, it is not known how loss of FLG (an intracellular protein) provokes a permeability barrier abnormality (almost always an extracellular defect). Loss of this quantitatively important protein could alter corneocyte shape (eg, flattening) sufficiently to disrupt the organization of the extracellular lamellar bilayer.Alternatively, or in addition, FLG is generated during cornification as its precursor protein, profilaggrin, which is then proteolytically processed into FLG during the abrupt transition from the granular cell layer to corneocyte. Whereas FLG initially aggregates keratin filaments into keratin fibrils, it subsequently is proteolytically degraded into amino acids, which are further deaminated into polycarboxylic acids, such as pyrro-lidine carboxylic acid and trans-urocanic acid (t-UCA) [41]. In turn, these metabolites act as osmolytes, drawing water into corneocytes, thereby accounting in large part for corneocyte hydration.Hence, the most immediate result of FLG deficiency in AD is decreased SC hydration, leading to a steeper water gradient across the SC, which likely drives increased transcutaneous water loss. Thus, decreased SC hydration, leading to increased water loss, is the first and most obvious cause of barrier dysfunction in AD. However, neither corneocyte flattening nor decreased SC hydration alone would suffice to enhance antigen penetration, which is best explained by another consequence of FLG deficiency: decreased downstream production of acidic metabolites resulting from FLG proteolysis. In particular, t-UCA is a purported endogenous acidifier of the SC [42]. Decreased generation of FLG products could result in an initially increased pH of the SC in AD, sufficient to increase the activities of the multiple serine proteases (SP) in the SC, which all exhibit neutral-to-alkaline pH optima [3•]. If prolonged, such a pH-induced increase in SP activity could precipitate multiple downstream structural and functional alterations that could converge with acquired abnormalities in SP and antiprotease expression.The most compelling case for the role of excess SP activity in the pathogenesis of AD comes from Netherton syndrome. Netherton syndrome is an autosomal recessive disorder due to loss-of-function mutations in SPINK5, the gene encoding the SP inhibitor lymphoepithelial Kazal-type trypsin inhibitor (LEKTI) [43]. Netherton syndrome is characterized by severe AD, mucosal atopy, and anaphylactic reactions to food antigens [25,26]. Residual LEKTI expression in Netherton syndrome correlates inversely with excess SP activity within the outer epidermis, resulting in a severe permeability barrier defect and dramatic thinning of SC due to unrestricted, SP-dependent degradation of lipid-processing enzymes and corneodesmosome constituent proteins [44•,45]. Several European, American, and Japanese case-control studies of patients with AD or mucosal atopy have found an increased frequency of single-nucleotide polymorphisms (Glu420Lys) in SPINK5 [43].Conversely, a British case-control study described putative gain-of-function polymorphisms (AACCAACC vs AACC) in the 3′ region of KLK7, which encodes the serine protease SC chymotryptic enzyme or KLK7. Moreover, transgenic mice forced to express human KLK7 display a severe AD-like dermatosis. However, the incidence of both polymorphisms is quite high in unaffected normal subjects, and it is not yet known whether either single-nucleotide polymorphism alters expression of its respective protein product(s). Nevertheless, in experimental animals, a net increase in SP activity, achieved by many means, has been shown to compromise barrier function through accelerated degradation of corneodesmosomes (accounting for flawed SC integrity) and extracellular lipid processing enzymes (ie, β-glucocerebrosidase and acidic sphingomyelinase). SP-mediated degradation of extracellular hydrolytic enzymes would result in a failure to generate Cer, a characteristic lipid abnormality in AD [46,47].Acquired stressors could further aggravate barrier function in ADAcquired pH-dependent increases in SP activity could also contribute to AD pathogenesis. That FLG mutations alone do not suffice is shown in ichthyosis vulgaris, where the same single- or double-allele FLG mutations reduce FLG content, but inflammation (ie, AD) does not always occur. Certain stressors could elicit disease by aggravating the barrier abnormality by provoking an incremental increase in pH of the SC, further amplifying SP activity. A barrier-dependent increase in pH (and SP activity) is the likely reason for AD that follows the use of neutral-to-alkaline soaps, a well-known exogenous stressor of clinical AD [48•].Prolonged exposure to reduced environmental humidity, as occurs in radiant-heated homes in temperate climates during the winter, is a well-known risk factor for AD. Under these conditions, transcutaneous water loss would accelerate across a defective SC, aggravating the underlying permeability barrier abnormality and amplifying cytokine signaling of inflammation. Because FLG proteolysis is regulated by changes in external humidity [41], sustained reductions in environmental relative humidities could further deplete residual FLG in single-allele FLG-deficient patients.Sustained psychologic stress aggravates permeability barrier function in humans [49,50], and is a well-known precipitant of AD and cause of resistance to therapy. However, the likely mechanism in psychologic stress differs from either surfactant use or decreased environmental humidity. In experimental animals, psychologic stress induces an increase in endogenous glucocorticoids, which in turn alter permeability barrier homeostasis, SC integrity, and epidermal antimicrobial defense [6]. The putative mechanism for the negative effects of psychologic stress is glucocorticoid-mediated inhibition of synthesis of the three key epidermal lipids that mediate barrier function: Cer, cholesterol, and FFA. Accordingly, a topical mixture of those three lipids largely normalizes all barrier functions, even during ongoing psychologic stress or glucocorticoid therapy [6].Outside-Inside, Then Back to Outside: Pathogenic Mechanism in ADOne important downstream consequence of increased pH—and a pH-driven increase in SP activity—is generation of the primary cytokines inteleukin (IL)-1α and IL-1β from their 33-kDa pro-forms, which are stored in large quantities in the cytosol of corneocytes (Fig. 2). The putative pH-induced increase in SP activity would generate 17-kDa active forms of these cytokines; the first step in the cytokine cascade that we propose is the primary contributor to inflammation in AD (outside-inside hypothesis, Fig. 2). Sustained antigen ingress through a defective barrier, leading to a Th2-dominant infiltrate, would then be the second cause of inflammation in AD [37•]. Accordingly, simply correcting the barrier abnormality should ameliorate both causes of inflammation.Open in a separate windowFigure 2Outside-inside initial provocation could be followed by back-to-outside vicious cycle. Cer—ceramide; FLG—filaggrin; hBD2—human β-defensins; Th2—T helper cell type 2.Yet, despite accumulating evidence to support a primary, barrier-initiated pathogenesis of AD, recent studies suggest specific mechanisms whereby Th2-generated cytokines could further aggravate AD. Exogenous applications of IL-4, a Th2 cytokine, impede permeability barrier recovery after acute perturbations [51]. The basis for the negative effects of IL-4 could include 1) the observation that exogenous IL-4 also inhibits Cer synthesis, providing another mechanism accounting for decreased Cer [52]; 2) the recent demonstration that IL-4 inhibits expression of keratinocyte differentiation-linked proteins, most notably FLG [53]; and 3) the inhibition of desmoglein 3 expression by exogenous IL-4 [54]. Together, these observations provide acquired mechanisms that could compromise barrier function in AD [53,54]. Thus, primary inherited barrier abnormalities in AD ultimately stimulate downstream paracrine mechanisms that could further compromise permeability barrier function, completing a potential outside-inside-outside pathogenic loop in AD (Fig. 2) [55•].Potential New Therapeutic Paradigm for ADTogether, the converging pathogenic features described here create a strong rationale for restoring barrier function in AD. Based upon the mechanisms described earlier, these approaches could range from a simple reduction in the pH of SC (hyperacidification), to applications of serine protease inhibitors, to general moisturization measures, and, finally, to specific lipid replacement therapy. Moisturizers are widely used in AD; when applied under nursing supervision, they have been shown to reduce topical steroid use [18]. Moisturizers supplemented with botanical ingredients (eg, Atopiclair; Graceway, Bristol, TN), anti-inflammatory lipids (eg, MimyX; Stiefel Laboratories, Coral Gables, FL), or incomplete lipid mixtures have recently been approved by the US Food and Drug Administration (FDA) as therapeutic devices, but their clinical efficacy has not exceeded that of low-potency steroids.Of the barrier-repair approaches, the most specific for AD is the recent development of triple-lipid, Cer-dominant, barrier-repair therapy provided in an acidic formulation. (Dr. Elias is a co-inventor of this University of California–patented technology, and a consultant to Ceragenix Corp., the licensee of this technology.) Two clinical studies support the efficacy of targeted Cer-dominant lipid-replacement therapy in AD. An open-label study demonstrated dramatic improvements in clinical activity, permeability barrier function, and SC integrity when an over-the-counter version of this technology (TriCeram; Osmotics Corp., Denver, CO) was substituted for standard moisturizers in children with severe, recalcitrant AD [10]. More recently, in an investigator-blinded, multicenter clinical trial of pediatric patients with moderate to severe AD, a higher strength, FDA-approved prescription formulation (EpiCeram cream; Ceragenix Pharmaceuticals, Denver, CO) demonstrated efficacy comparable to a mid-potency steroid (fluticasone, Cutivate cream; PharmaDerm, Atlanta, GA) [56••]. Though preliminary, these studies suggest that pathogenesis-based therapy directed at the lipid biochemical abnormality responsible for the barrier defect in AD could constitute a new paradigm for the therapy of AD.ConclusionsWe reviewed emerging evidence that AD represents a disease of broad barrier failure, and described mechanisms whereby microbial pathogens further exacerbate disease. These new observations create a strong rationale for barrier repair therapy, a new paradigm in the treatment of AD.AcknowledgmentsWe gratefully acknowledge the superb editorial assistance of Ms. Joan Wakefield, including her help with preparing the figures. This work was supported by National Institutes of Health grant AR19098 and Department of Defense grant W81XWH-05-2-0094, and by the Medical Research Service, Department of Veterans Affairs.FootnotesDisclosureThe author was an officer of Ceragenix Corporation, which licensed Ceramide-Dominant Barrier Repair Technology from the University of California.References and Recommended ReadingPapers of particular interest, published recently, have been highlighted as:• Of importance• Of major importance1•. Elias PM. Stratum corneum defensive functions: an integrated view. J Invest Dermatol. 2005;125:183–200. This article highlights the role of proteins and lipids in defensive functions of the SC. [PubMed] [Google Scholar]2. Elias PM, Menon GK. Structural and lipid biochemical correlates of the epidermal permeability barrier. Adv Lipid Res. 1991;24:1–26. [PubMed] [Google Scholar]3•. Brattsand M, Stefansson K, Lundh C, et al. A proteolytic cascade of kallikreins in the stratum corneum. J Invest Dermatol. 2005;124:198–203. This work highlights the role that proteins and lipids play in defensive functions of the SC. [PubMed] [Google Scholar]4. Braff MH, Di Nardo A, Gallo RL. Keratinocytes store the antimicrobial peptide cathelicidin in lamellar bodies. J Invest Dermatol. 2005;124:394–400. [PubMed] [Google Scholar]5. Oren A, Ganz T, Liu L, Meerloo T. In human epidermis, beta-defensin 2 is packaged in lamellar bodies. Exp Mol Pathol. 2003;74:180–182. [PubMed] [Google Scholar]6. Aberg K, Radek K, Choi E, et al. Psychological stress downregulates epidermal antimicrobial peptide expression and increases severity of cutaneous infections in mice. J Clin Invest. 2007;117:3339–3349. [PMC free article] [PubMed] [Google Scholar]7. Sugarman JL, Fluhr JW, Fowler AJ, et al. The objective severity assessment of atopic dermatitis score: an objective measure using permeability barrier function and stratum corneum hydration with computer-assisted estimates for extent of disease. Arch Dermatol. 2003;139:1417–1422. [PubMed] [Google Scholar]8. Seidenari S, Giusti G. Objective assessment of the skin of children affected by atopic dermatitis: a study of pH, capacitance and TEWL in eczematous and clinically uninvolved skin. Acta Derm Venereol. 1995;75:429–433. [PubMed] [Google Scholar]9. Proksch E, Folster-Holst R, Jensen JM. Skin barrier function, epidermal proliferation and differentiation in eczema. J Dermatol Sci. 2006;43:159–169. [PubMed] [Google Scholar]10. Chamlin SL, Kao J, Frieden IJ, et al. Ceramide-dominant barrier repair lipids alleviate childhood atopic dermatitis: changes in barrier function provide a sensitive indicator of disease activity. J Am Acad Dermatol. 2002;47:198–208. [PubMed] [Google Scholar]11. Leung DY, Soter NA. Cellular and immunologic mechanisms in atopic dermatitis. J Am Acad Dermatol. 2001;44:S1–S12. [PubMed] [Google Scholar]12. Leung DY, Bieber T. Atopic dermatitis. Lancet. 2003;361:151–160. [PubMed] [Google Scholar]13. Leung DY, Boguniewicz M, Howell MD, et al. New insights into atopic dermatitis. J Clin Invest. 2004;113:651–657. [PMC free article] [PubMed] [Google Scholar]14. Elias PM, Wood LC, Feingold KR. Epidermal pathogenesis of inflammatory dermatoses. Am J Contact Dermat. 1999;10:119–126. [PubMed] [Google Scholar]15. Elias PM, Feingold KR. Does the tail wag the dog? Role of the barrier in the pathogenesis of inflammatory dermatoses and therapeutic implications. Arch Dermatol. 2001;137:1079–1081. [PubMed] [Google Scholar]16. Taieb A. Hypothesis: from epidermal barrier dysfunction to atopic disorders. Contact Dermatitis. 1999;41:177–180. [PubMed] [Google Scholar]17. Eberlein-Konig B, Schafer T, Huss-Marp J, et al. Skin surface pH, stratum corneum hydration, trans-epidermal water loss and skin roughness related to atopic eczema and skin dryness in a population of primary school children. Acta Derm Venereol. 2000;80:188–191. [PubMed] [Google Scholar]18. Cork MJ, Britton J, Butler L, et al. Comparison of parent knowledge, therapy utilization and severity of atopic eczema before and after explanation and demonstration of topical therapies by a specialist dermatology nurse. Br J Dermatol. 2003;149:582–589. [PubMed] [Google Scholar]19••. Elias PM. The skin barrier as an innate immune element. Sem Immunopath. 2007;29:3–14. This article emphasizes the key role of epithelial structure in antimicrobial defense. [PubMed] [Google Scholar]20. Aly R, Maibach HI, Shinefield HR. Microbial flora of atopic dermatitis. Arch Dermatol. 1977;113:780–782. [PubMed] [Google Scholar]21••. Baker BS. The role of microorganisms in atopic dermatitis. Clin Exp Immunol. 2006;144:1–9. This article discusses the influential role that microorganisms play in AD pathogenesis, through interaction with disease susceptibility genes, causing disease activity. [PMC free article] [PubMed] [Google Scholar]22. Aberg KM, Man MQ, Gallo RL, et al. Co-regulation and interdependence of the mammalian epidermal permeability and antimicrobial barriers. J Invest Dermatol. 2008;128:917–925. [PMC free article] [PubMed] [Google Scholar]23. Miller SJ, Aly R, Shinefeld HR, Elias PM. In vitro and in vivo antistaphylococcal activity of human stratum corneum lipids. Arch Dermatol. 1988;124:209–215. [PubMed] [Google Scholar]24. Fluhr JW, Elias PM. Stratum corneum pH: Formation and function of the ‘acid mantle’ Exog Dermatol. 2002;1:163–175. [Google Scholar]25. Bibel DJ, Aly R, Shinefield HR. Antimicrobial activity of sphingosines. J Invest Dermatol. 1992;98:269–273. [PubMed] [Google Scholar]26. Clarke SR, Mohamed R, Bian L, et al. The Staphylococcus aureus surface protein IsdA mediates resistance to innate defenses of human skin. Cell Host Microbe. 2007;1:199–212. [PubMed] [Google Scholar]27. Ong PY, Ohtake T, Brandt C, et al. Endogenous antimicrobial peptides and skin infections in atopic dermatitis. N Engl J Med. 2002;347:1151–1160. [PubMed] [Google Scholar]28. Nomura I, Goleva E, Howell MD, et al. Cytokine milieu of atopic dermatitis, as compared to psoriasis, skin prevents induction of innate immune response genes. J Immunol. 2003;171:3262–3269. [PubMed] [Google Scholar]29. Zaiou M, Nizet V, Gallo RL. Antimicrobial and protease inhibitory functions of the human cathelicidin (hCAP18/LL-37) prosequence. J Invest Dermatol. 2003;120:810–816. [PubMed] [Google Scholar]30. Komatsuzawa H, Ouhara K, Yamada S, et al. Innate defences against methicillin-resistant Staphylococcus aureus (MRSA) infection. J Pathol. 2006;208:249–260. [PubMed] [Google Scholar]31. Lomholt H, Andersen KE, Kilian M. Staphylococcus aureus clonal dynamics and virulence factors in children with atopic dermatitis. J Invest Dermatol. 2005;125:977–982. [PubMed] [Google Scholar]32. Gould HJ, Takhar P, Harries HE, et al. The allergic march from Staphylococcus aureus superantigens to immunoglobulin E. Chem Immunol Allergy. 2007;93:106–136. [PubMed] [Google Scholar]33. Sonkoly E, Muller A, Lauerma AI, et al. IL-31: a new link between T cells and pruritus in atopic skin inflammation. J Allergy Clin Immunol. 2006;117:411–417. [PubMed] [Google Scholar]34. Denda M, Sato J, Tsuchiya T, et al. Low humidity stimulates epidermal DNA synthesis and amplifies the hyperproliferative response to barrier disruption: implication for seasonal exacerbations of inflammatory dermatoses. J Invest Dermatol. 1998;111:873–878. [PubMed] [Google Scholar]35. Palmer CN, Irvine AD, Terron-Kwiatkowski A, et al. Common loss-of-function variants of the epidermal barrier protein filaggrin are a major predisposing factor for atopic dermatitis. Nat Genet. 2006;38:441–446. [PubMed] [Google Scholar]36. Weidinger S, Illig T, Baurecht H, et al. Loss-of-function variations within the filaggrin gene predispose for atopic dermatitis with allergic sensitizations. J Allergy Clin Immunol. 2006;118:214–219. [PubMed] [Google Scholar]37•. Hudson TJ. Skin barrier function and allergic risk. Nat Genet. 2006;38:399–400. This study reports that two common loss-of-function mutations in the gene encoding filaggrin are important risk factors for AD. [PubMed] [Google Scholar]38. Hachem JP, Crumrine D, Fluhr J, et al. pH directly regulates epidermal permeability barrier homeostasis, and stratum corneum integrity/cohesion. J Invest Dermatol. 2003;121:345–353. [PubMed] [Google Scholar]39. Sandilands A, Smith FJ, Irvine AD, McLean WH. Filaggrin’s fuller figure: a glimpse into the genetic architecture of atopic dermatitis. J Invest Dermatol. 2007;17:1282–1284. [PubMed] [Google Scholar]40. Weidinger S, Rodriguez E, Stahl C, et al. Filaggrin mutations strongly predispose to early-onset and extrinsic atopic dermatitis. J Invest Dermatol. 2007;127:724–726. [PubMed] [Google Scholar]41. Scott IR, Harding CR. Filaggrin breakdown to water binding compounds during development of the rat stratum corneum is controlled by the water activity of the environment. Dev Biol. 1986;115:84–92. [PubMed] [Google Scholar]42. Krien P, Kermici M. Evidence for the existence of a self-regulated enzymatic process within human stratum corneum-an unexpected role for urocanic acid. J Invest Dermatol. 2000;115:414–420. [PubMed] [Google Scholar]43. Walley AJ, Chavanas S, Moffatt MF, et al. Gene polymorphism in Netherton and common atopic disease. Nat Genet. 2001;29:175–178. [PubMed] [Google Scholar]44•. Hachem JP, Wagberg F, Schmuth M, et al. Serine protease activity and residual LEKTI expression determine phenotype in Netherton syndrome. J Invest Dermatol. 2006;126:1609–1621. This study shows how SP and LEKTI activity/expression and co-localization determine phenotype in Netherton syndrome. [PubMed] [Google Scholar]45. Komatsu N, Takata M, Otsuki N, et al. Elevated stratum corneum hydrolytic activity in Netherton syndrome suggests an inhibitory regulation of desquamation by SPINK5-derived peptides. J Invest Dermatol. 2002;118:436–443. [PubMed] [Google Scholar]46. Di Nardo A, Wertz P, Giannetti A, Seidenari S. Ceramide and cholesterol composition of the skin of patients with atopic dermatitis. Acta Derm Venereol. 1998;78:27–30. [PubMed] [Google Scholar]47. Imokawa G, Abe A, Jin K, et al. Decreased level of ceramides in stratum corneum of atopic dermatitis: an etiologic factor in atopic dry skin? J Invest Dermatol. 1991;96:523–526. [PubMed] [Google Scholar]48•. Cork MJ, Robinson DA, Vasilopoulos Y, et al. New perspectives on epidermal barrier dysfunction in atopic dermatitis: gene-environment interactions. J Allergy Clin Immunol. 2006;118:3–21. quiz 22–23. This article discusses the important interactions between one or more environmental factors with a genetic predisposition to atopic dermatitis. [PubMed] [Google Scholar]49. Garg A, Chren MM, Sands LP, et al. Psychological stress perturbs epidermal permeability barrier homeostasis: implications for the pathogenesis of stress-associated skin disorders. Arch Dermatol. 2001;137:53–59. [PubMed] [Google Scholar]50. Altemus M, Rao B, Dhabhar FS, et al. Stress-induced changes in skin barrier function in healthy women. J Invest Dermatol. 2001;117:309–317. [PubMed] [Google Scholar]51. Kurahashi R, Hatano Y, Katagiri C. IL-4 suppresses the recovery of cutaneous permeability barrier functions in vivo. J Invest Dermatol. 2008 in press. [PubMed] [Google Scholar]52. Hatano Y, Terashi H, Arakawa S, Katagiri K. Interleukin-4 suppresses the enhancement of ceramide synthesis and cutaneous permeability barrier functions induced by tumor necrosis factor-alpha and interferon-gamma in human epidermis. J Invest Dermatol. 2005;124:786–792. [PubMed] [Google Scholar]53. Howell MD, Kim BE, Gao P, et al. Cytokine modulation of atopic dermatitis filaggrin skin expression. J Allergy Clin Immunol. 2007;120:150–155. [PMC free article] [PubMed] [Google Scholar]54. Kobayashi J, Inai T, Morita K, et al. Reciprocal regulation of permeability through a cultured keratinocyte sheet by IFN-gamma and IL-4. Cytokine. 2004;28:186–189. [PubMed] [Google Scholar]55•. Elias PM, Hatano Y, Williams ML. Basis for the barrier abnormality in atopic dermatitis: outside-inside-outside pathogenic mechanisms. J Allergy Clin Immunol 2008. 2008 Mar 6; (Epub ahead of print). This review assessed emerging evidence that inflammation in AD results from inherited and acquired insults to the barrier. [PMC free article] [PubMed] [Google Scholar]56••. Sugarman J, Parish LJ. A topical lipid-based barrier repair formulation (EpiCeram™ cream) is high-effective mono-therapy for moderate-to-severe pediatric atopic dermatitis. J Invest Dermatol. 2008 in press. This article discusses effective use of EpiCeram as monotherapy for atopic dermatitis. [Google Scholar]
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (747K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

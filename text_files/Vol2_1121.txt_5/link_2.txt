@@ -1,0 +1,5995 @@
+Document Name: role of Hostaphat KL 340 N in Massage Cream2
+Document link: https://patents.google.com/patent/US6806250B2/en
+
+
+
+US6806250B2 - Use of fatty alcohol in a perfume composition 
+        - Google Patents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US6806250B2 - Use of fatty alcohol in a perfume composition 
+        - Google Patents
+Use of fatty alcohol in a perfume composition 
+       
+
+Download PDF
+Info
+
+Publication number
+US6806250B2
+
+
+
+US6806250B2
+US10/115,485
+US11548502A
+US6806250B2
+US 6806250 B2
+US6806250 B2
+US 6806250B2
+ 
+ 
+ 
+US 11548502 A
+US11548502 A
+US 11548502A
+US 6806250 B2
+US6806250 B2
+US 6806250B2
+Authority
+US
+United States
+Prior art keywords
+oil
+fatty alcohol
+composition
+perfuming composition
+vegetable
+Prior art date
+1999-11-10
+Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+
+Expired - Fee Related, expires 2021-02-22
+
+
+Application number
+US10/115,485
+Other versions
+
+
+US20020183236A1
+      (en
+
+
+Inventor
+Hubert Mimoun
+GÃ¼nter Holzner
+JoÃ«l Pastori
+Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+
+    Firmenich SA
+  
+Original Assignee
+Firmenich SA
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+1999-11-10
+Filing date
+2002-04-02
+Publication date
+2004-10-19
+
+
+Priority claimed from CH2058/99
+external-priority
+
+
+2002-04-02
+Application filed by Firmenich SA
+filed
+Critical
+Firmenich SA
+
+
+2002-04-02
+Assigned to FIRMENICH SA
+reassignment
+FIRMENICH SA
+ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).
+Assignors: MIMOUN, HUBERT, PASTORI, JOEL, HOLZNER, GUNTER
+
+
+2002-12-05
+Publication of US20020183236A1
+publication
+Critical
+patent/US20020183236A1/en
+
+
+2004-10-19
+Application granted
+granted
+Critical
+
+
+2004-10-19
+Publication of US6806250B2
+publication
+Critical
+patent/US6806250B2/en
+
+
+2021-02-22
+Adjusted expiration
+legal-status
+Critical
+
+
+Status
+Expired - Fee Related
+legal-status
+Critical
+Current
+
+Links
+
+
+
+USPTO
+
+
+
+USPTO PatentCenter
+
+
+
+USPTO Assignment
+
+
+
+Espacenet
+
+
+
+Global Dossier
+
+
+
+Discuss
+
+
+
+
+239000000203
+mixture
+Substances
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+170
+
+
+150000002191
+fatty alcohols
+Chemical class
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+108
+
+
+239000002304
+perfume
+Substances
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+66
+
+
+239000008158
+vegetable oil
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+48
+
+
+239000010775
+animal oil
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+46
+
+
+230000001603
+reducing
+Effects
+
+
+
+
+0.000
+claims
+abstract
+description
+44
+
+
+239000002904
+solvent
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+38
+
+
+-1
+polymethylhydroxysiloxane
+Polymers
+
+
+
+
+0.000
+claims
+abstract
+description
+24
+
+
+229910052751
+metal
+Inorganic materials
+
+
+
+
+0.000
+claims
+abstract
+description
+18
+
+
+239000002184
+metal
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+18
+
+
+125000002915
+carbonyl group
+Chemical group
+
+
+[*:2]C([*:1])=O
+
+0.000
+claims
+abstract
+description
+14
+
+
+239000003795
+chemical substances by application
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+14
+
+
+230000003197
+catalytic
+Effects
+
+
+
+
+0.000
+claims
+abstract
+description
+10
+
+
+150000003839
+salts
+Chemical class
+
+
+
+
+0.000
+claims
+abstract
+description
+10
+
+
+125000005373
+siloxane group
+Chemical group
+
+
+[SiH2](O*)*
+
+0.000
+claims
+abstract
+description
+10
+
+
+239000011780
+sodium chloride
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+10
+
+
+239000003921
+oil
+Substances
+
+
+
+
+0.000
+claims
+description
+46
+
+
+235000019198
+oils
+Nutrition
+
+
+
+
+0.000
+claims
+description
+46
+
+
+238000000034
+method
+Methods
+
+
+
+
+0.000
+claims
+description
+28
+
+
+235000012343
+cottonseed oil
+Nutrition
+
+
+
+
+0.000
+claims
+description
+10
+
+
+239000004006
+olive oil
+Substances
+
+
+
+
+0.000
+claims
+description
+10
+
+
+235000008390
+olive oil
+Nutrition
+
+
+
+
+0.000
+claims
+description
+10
+
+
+240000002791
+Brassica napus
+Species
+
+
+
+
+0.000
+claims
+description
+8
+
+
+235000006008
+Brassica napus var napus
+Nutrition
+
+
+
+
+0.000
+claims
+description
+8
+
+
+235000019486
+Sunflower oil
+Nutrition
+
+
+
+
+0.000
+claims
+description
+8
+
+
+239000003638
+reducing agent
+Substances
+
+
+
+
+0.000
+claims
+description
+8
+
+
+239000002600
+sunflower oil
+Substances
+
+
+
+
+0.000
+claims
+description
+8
+
+
+235000019482
+Palm oil
+Nutrition
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000005662
+Paraffin oil
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000000654
+additive
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000003240
+coconut oil
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+235000019864
+coconut oil
+Nutrition
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000002385
+cottonseed oil
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+229940119170
+jojoba wax
+Drugs
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000002540
+palm oil
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000008159
+sesame oil
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+235000011803
+sesame oil
+Nutrition
+
+
+
+
+0.000
+claims
+description
+6
+
+
+235000012424
+soybean oil
+Nutrition
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000000341
+volatile oil
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000002738
+chelating agent
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000003380
+propellant
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000012141
+concentrate
+Substances
+
+
+
+
+0.000
+claims
+6
+
+
+230000000996
+additive
+Effects
+
+
+
+
+0.000
+claims
+4
+
+
+230000003301
+hydrolyzing
+Effects
+
+
+
+
+0.000
+claims
+4
+
+
+230000003078
+antioxidant
+Effects
+
+
+
+
+0.000
+claims
+2
+
+
+239000003963
+antioxidant agent
+Substances
+
+
+
+
+0.000
+claims
+2
+
+
+LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+ethanol
+Chemical compound
+
+
+CCO
+LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+0.000
+abstract
+description
+62
+
+
+238000006722
+reduction reaction
+Methods
+
+
+
+
+0.000
+abstract
+description
+28
+
+
+238000006460
+hydrolysis reaction
+Methods
+
+
+
+
+0.000
+abstract
+description
+6
+
+
+239000004615
+ingredient
+Substances
+
+
+
+
+0.000
+description
+56
+
+
+235000019441
+ethanol
+Nutrition
+
+
+
+
+0.000
+description
+52
+
+
+210000003491
+Skin
+Anatomy
+
+
+
+
+0.000
+description
+32
+
+
+239000000047
+product
+Substances
+
+
+
+
+0.000
+description
+26
+
+
+238000002156
+mixing
+Methods
+
+
+
+
+0.000
+description
+14
+
+
+239000011701
+zinc
+Substances
+
+
+
+
+0.000
+description
+14
+
+
+QWTDNUCVQCZILF-UHFFFAOYSA-N
+Isopentane
+Chemical compound
+
+
+CCC(C)C
+QWTDNUCVQCZILF-UHFFFAOYSA-N
+0.000
+description
+12
+
+
+150000001298
+alcohols
+Chemical class
+
+
+
+
+0.000
+description
+12
+
+
+239000006184
+cosolvent
+Substances
+
+
+
+
+0.000
+description
+12
+
+
+230000000694
+effects
+Effects
+
+
+
+
+0.000
+description
+12
+
+
+YOQDYZUWIQVZSF-UHFFFAOYSA-N
+sodium borohydride
+Chemical compound
+
+
+[BH4-].[Na+]
+YOQDYZUWIQVZSF-UHFFFAOYSA-N
+0.000
+description
+12
+
+
+239000007787
+solid
+Substances
+
+
+
+
+0.000
+description
+12
+
+
+239000000126
+substance
+Substances
+
+
+
+
+0.000
+description
+12
+
+
+SEQDDYPDSLOBDC-UHFFFAOYSA-N
+Temazepam
+Chemical compound
+
+
+N=1C(O)C(=O)N(C)C2=CC=C(Cl)C=C2C=1C1=CC=CC=C1
+SEQDDYPDSLOBDC-UHFFFAOYSA-N
+0.000
+description
+10
+
+
+239000003054
+catalyst
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+229910052725
+zinc
+Inorganic materials
+
+
+
+
+0.000
+description
+10
+
+
+FWIQGIQRNBVZEN-UHFFFAOYSA-M
+4-ethoxy-2-(2-ethoxy-2-oxoethyl)-2-hydroxy-4-oxobutanoate
+Chemical compound
+
+
+CCOC(=O)CC(O)(C([O-])=O)CC(=O)OCC
+FWIQGIQRNBVZEN-UHFFFAOYSA-M
+0.000
+description
+8
+
+
+SZXQTJUDPRGNJN-UHFFFAOYSA-N
+Dipropylene glycol
+Chemical compound
+
+
+OCCCOCCCO
+SZXQTJUDPRGNJN-UHFFFAOYSA-N
+0.000
+description
+8
+
+
+LQZZUXJYWNFBMV-UHFFFAOYSA-N
+Dodecanol
+Chemical compound
+
+
+CCCCCCCCCCCCO
+LQZZUXJYWNFBMV-UHFFFAOYSA-N
+0.000
+description
+8
+
+
+GLDOVTGHNKAZLK-UHFFFAOYSA-N
+Stearyl alcohol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCCO
+GLDOVTGHNKAZLK-UHFFFAOYSA-N
+0.000
+description
+8
+
+
+150000001875
+compounds
+Chemical class
+
+
+
+
+0.000
+description
+8
+
+
+239000002781
+deodorant agent
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+238000002360
+preparation method
+Methods
+
+
+
+
+0.000
+description
+8
+
+
+235000015112
+vegetable and seed oil
+Nutrition
+
+
+
+
+0.000
+description
+8
+
+
+HCHKCACWOHOZIP-UHFFFAOYSA-N
+zinc
+Chemical compound
+
+
+[Zn]
+HCHKCACWOHOZIP-UHFFFAOYSA-N
+0.000
+description
+8
+
+
+MWKFXSUHUHTGQN-UHFFFAOYSA-N
+1-Decanol
+Chemical compound
+
+
+CCCCCCCCCCO
+MWKFXSUHUHTGQN-UHFFFAOYSA-N
+0.000
+description
+6
+
+
+HLZKNKRTKFSKGZ-UHFFFAOYSA-N
+1-Tetradecanol
+Chemical compound
+
+
+CCCCCCCCCCCCCCO
+HLZKNKRTKFSKGZ-UHFFFAOYSA-N
+0.000
+description
+6
+
+
+GTJOHISYCKPIMT-UHFFFAOYSA-N
+2-Methylundecane
+Chemical compound
+
+
+CCCCCCCCCC(C)C
+GTJOHISYCKPIMT-UHFFFAOYSA-N
+0.000
+description
+6
+
+
+240000007842
+Glycine max
+Species
+
+
+
+
+0.000
+description
+6
+
+
+235000010469
+Glycine max
+Nutrition
+
+
+
+
+0.000
+description
+6
+
+
+240000006669
+Helianthus annuus
+Species
+
+
+
+
+0.000
+description
+6
+
+
+235000003222
+Helianthus annuus
+Nutrition
+
+
+
+
+0.000
+description
+6
+
+
+WVDDGKGOMKODPV-UHFFFAOYSA-N
+benzyl alcohol
+Chemical compound
+
+
+OCC1=CC=CC=C1
+WVDDGKGOMKODPV-UHFFFAOYSA-N
+0.000
+description
+6
+
+
+238000006243
+chemical reaction
+Methods
+
+
+
+
+0.000
+description
+6
+
+
+239000002537
+cosmetic
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000006071
+cream
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000003974
+emollient agent
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+229910000033
+sodium borohydride
+Inorganic materials
+
+
+
+
+0.000
+description
+6
+
+
+239000003039
+volatile agent
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+DURPTKYDGMDSBL-UHFFFAOYSA-N
+1-butoxybutane
+Chemical compound
+
+
+CCCCOCCCC
+DURPTKYDGMDSBL-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+LEACJMVNYZDSKR-UHFFFAOYSA-N
+2-octyldodecan-1-ol
+Chemical compound
+
+
+CCCCCCCCCCC(CO)CCCCCCCC
+LEACJMVNYZDSKR-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+BXWNKGSJHAJOGX-UHFFFAOYSA-N
+Cetyl alcohol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCO
+BXWNKGSJHAJOGX-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+FLKPEMZONWLCSK-UHFFFAOYSA-N
+Diethyl phthalate
+Chemical compound
+
+
+CCOC(=O)C1=CC=CC=C1C(=O)OCC
+FLKPEMZONWLCSK-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+GHKOFFNLGXMVNJ-UHFFFAOYSA-N
+Dilauryl thiodipropionate
+Chemical compound
+
+
+CCCCCCCCCCCCOC(=O)CCSCCC(=O)OCCCCCCCCCCCC
+GHKOFFNLGXMVNJ-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+239000003508
+Dilauryl thiodipropionate
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+UWKAYLJWKGQEPM-LBPRGKRZSA-N
+Linaloyl acetate
+Natural products
+
+
+CC(C)=CCC[C@](C)(C=C)OC(C)=O
+UWKAYLJWKGQEPM-LBPRGKRZSA-N
+0.000
+description
+4
+
+
+JXNPEDYJTDQORS-HZJYTTRNSA-N
+Linoleyl alcohol
+Chemical compound
+
+
+CCCCC\C=C/C\C=C/CCCCCCCCO
+JXNPEDYJTDQORS-HZJYTTRNSA-N
+0.000
+description
+4
+
+
+VAMXMNNIEUEQDV-UHFFFAOYSA-N
+Methyl anthranilate
+Chemical compound
+
+
+COC(=O)C1=CC=CC=C1N
+VAMXMNNIEUEQDV-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+240000007817
+Olea europaea
+Species
+
+
+
+
+0.000
+description
+4
+
+
+ALSTYHKOOCGGFT-KTKRTIGZSA-N
+Oleyl alcohol
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCCO
+ALSTYHKOOCGGFT-KTKRTIGZSA-N
+0.000
+description
+4
+
+
+WRMNZCZEMHIOCP-UHFFFAOYSA-N
+Phenethyl alcohol
+Chemical compound
+
+
+OCCC1=CC=CC=C1
+WRMNZCZEMHIOCP-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+240000003670
+Sesamum indicum
+Species
+
+
+
+
+0.000
+description
+4
+
+
+235000003434
+Sesamum indicum
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+229960001295
+Tocopherol
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+239000002671
+adjuvant
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000000240
+adjuvant
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+150000001299
+aldehydes
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+239000004359
+castor oil
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+235000019438
+castor oil
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+229960000541
+cetyl alcohol
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+239000000470
+constituent
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+229940086555
+cyclomethicone
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+RTZKZFJDLAIYFH-UHFFFAOYSA-N
+diethyl ether
+Chemical compound
+
+
+CCOCC
+RTZKZFJDLAIYFH-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+235000019304
+dilauryl thiodipropionate
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+230000001804
+emulsifying
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+150000002148
+esters
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+239000012530
+fluid
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000006260
+foam
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+238000007429
+general method
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+150000004678
+hydrides
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+150000002430
+hydrocarbons
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+SIKJAQJRHWYJAI-UHFFFAOYSA-N
+indole
+Chemical compound
+
+
+C1=CC=C2NC=CC2=C1
+SIKJAQJRHWYJAI-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+XEEYBQQBJWHFJM-UHFFFAOYSA-N
+iron
+Chemical compound
+
+
+[Fe]
+XEEYBQQBJWHFJM-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+KWYUFKZDYYNOTN-UHFFFAOYSA-M
+potassium hydroxide
+Chemical compound
+
+
+[OH-].[K+]
+KWYUFKZDYYNOTN-UHFFFAOYSA-M
+0.000
+description
+4
+
+
+238000000746
+purification
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+238000000926
+separation method
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+239000000243
+solution
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000007858
+starting material
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+235000010384
+tocopherol
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+239000011732
+tocopherol
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+229930003799
+tocopherols
+Natural products
+
+
+
+
+0.000
+description
+4
+
+
+YXFVVABEGXRONW-UHFFFAOYSA-N
+toluene
+Chemical compound
+
+
+CC1=CC=CC=C1
+YXFVVABEGXRONW-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+GVJHHUAWPYXKBD-IEOSBIPESA-N
+Î±-tocopherol
+Chemical compound
+
+
+OC1=C(C)C(C)=C2O[C@@](CCC[C@H](C)CCC[C@H](C)CCCC(C)C)(C)CCC2=C1C
+GVJHHUAWPYXKBD-IEOSBIPESA-N
+0.000
+description
+4
+
+
+QYOZAXQSDUAPDS-KTKRTIGZSA-N
+(11Z)-icos-11-en-1-ol
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCCCCO
+QYOZAXQSDUAPDS-KTKRTIGZSA-N
+0.000
+description
+2
+
+
+CFOQKXQWGLAKSK-KTKRTIGZSA-N
+(13Z)-docosen-1-ol
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCCCCCCO
+CFOQKXQWGLAKSK-KTKRTIGZSA-N
+0.000
+description
+2
+
+
+FLUWAIIVLCVEKF-UHFFFAOYSA-N
+(2-methyl-1-phenylpropan-2-yl) acetate
+Chemical compound
+
+
+CC(=O)OC(C)(C)CC1=CC=CC=C1
+FLUWAIIVLCVEKF-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+IKYKEVDKGZYRMQ-PDBXOOCHSA-N
+(9Z,12Z,15Z)-octadecatrien-1-ol
+Chemical compound
+
+
+CC\C=C/C\C=C/C\C=C/CCCCCCCCO
+IKYKEVDKGZYRMQ-PDBXOOCHSA-N
+0.000
+description
+2
+
+
+DWIUBTKCNCCGOO-QOYCNBSOSA-N
+(Z,12R)-N-[3-(dimethylamino)propyl]-12-hydroxyoctadec-9-enamide
+Chemical compound
+
+
+CCCCCC[C@@H](O)C\C=C/CCCCCCCC(=O)NCCCN(C)C
+DWIUBTKCNCCGOO-QOYCNBSOSA-N
+0.000
+description
+2
+
+
+HVZJRWJGKQPSFL-UHFFFAOYSA-N
+1,1-Dimethylpropyl methyl ether
+Chemical compound
+
+
+CCC(C)(C)OC
+HVZJRWJGKQPSFL-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000005968
+1-Decanol
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+KHLFMZDGADSQGR-UHFFFAOYSA-N
+1-oxacyclohexadec-3-en-2-one
+Chemical compound
+
+
+O=C1OCCCCCCCCCCCCC=C1
+KHLFMZDGADSQGR-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+HMKKIXGYKWDQSV-SDNWHVSQSA-N
+2-Pentyl-3-phenyl-2-propenal
+Chemical compound
+
+
+CCCCC\C(C=O)=C/C1=CC=CC=C1
+HMKKIXGYKWDQSV-SDNWHVSQSA-N
+0.000
+description
+2
+
+
+OBETXYAYXDNJHR-UHFFFAOYSA-M
+2-ethylhexanoate
+Chemical compound
+
+
+CCCCC(CC)C([O-])=O
+OBETXYAYXDNJHR-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+229940100555
+2-methyl-4-isothiazolin-3-one
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+SGVYKUFIHHTIFL-UHFFFAOYSA-N
+2-methylnonane
+Chemical compound
+
+
+CCCCCCCC(C)C
+SGVYKUFIHHTIFL-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+YCIXWYOBMVNGTB-UHFFFAOYSA-N
+3-methyl-2-pentylcyclopent-2-en-1-one
+Chemical compound
+
+
+CCCCCC1=C(C)CCC1=O
+YCIXWYOBMVNGTB-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+XMIIGOLPHOKFCH-UHFFFAOYSA-M
+3-phenylpropionate
+Chemical compound
+
+
+[O-]C(=O)CCC1=CC=CC=C1
+XMIIGOLPHOKFCH-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+229940100484
+5-chloro-2-methyl-4-isothiazolin-3-one
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+244000144725
+Amygdalus communis
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000011437
+Amygdalus communis
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000017060
+Arachis glabrata
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+240000005781
+Arachis hypogaea
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000010777
+Arachis hypogaea
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000018262
+Arachis monticola
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+ZCTQGTTXIYCGGC-UHFFFAOYSA-N
+Benzyl salicylate
+Chemical compound
+
+
+OC1=CC=CC=C1C(=O)OCC1=CC=CC=C1
+ZCTQGTTXIYCGGC-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+240000005801
+Carthamus tinctorius
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000003255
+Carthamus tinctorius
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+240000007170
+Cocos nucifera
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000013162
+Cocos nucifera
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+241001440269
+Cutina
+Species
+
+
+
+
+0.000
+description
+2
+
+
+229940095104
+DIMETHYL BENZYL CARBINYL ACETATE
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229960002887
+Deanol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+206010013786
+Dry skin
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+229940087559
+GRAPE SEED
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+241000276438
+Gadus morhua
+Species
+
+
+
+
+0.000
+description
+2
+
+
+KQNPFQTWMSNSAP-UHFFFAOYSA-N
+Isobutyric acid
+Chemical compound
+
+
+CC(C)C(O)=O
+KQNPFQTWMSNSAP-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229920002884
+Laureth 4
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229910010084
+LiAlH4
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+CDOSHBSSFJOMGT-UHFFFAOYSA-N
+Linalool
+Chemical compound
+
+
+CC(C)=CCCC(C)(O)C=C
+CDOSHBSSFJOMGT-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+240000006240
+Linum usitatissimum
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000004431
+Linum usitatissimum
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+210000004185
+Liver
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+KVWWIYGFBYDJQC-UHFFFAOYSA-N
+Methyl dihydrojasmonate
+Chemical compound
+
+
+CCCCCC1C(CC(=O)OC)CCC1=O
+KVWWIYGFBYDJQC-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+DHNRXBZYEKSXIM-UHFFFAOYSA-N
+Methylchloroisothiazolinone
+Chemical compound
+
+
+CN1SC(Cl)=CC1=O
+DHNRXBZYEKSXIM-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+BEGLCMHJXHIJLR-UHFFFAOYSA-N
+Methylisothiazolinone
+Chemical compound
+
+
+CN1SC=CC1=O
+BEGLCMHJXHIJLR-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+UEEJHVSXFDXPFK-UHFFFAOYSA-N
+N-dimethylaminoethanol
+Chemical compound
+
+
+CN(C)CCO
+UEEJHVSXFDXPFK-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940067107
+Phenylethyl Alcohol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+102000014961
+Protein Precursors
+Human genes
+
+
+
+
+0.000
+description
+2
+
+
+108010078762
+Protein Precursors
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+244000044822
+Simmondsia californica
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000004433
+Simmondsia californica
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229940072029
+Trilaureth-4 Phosphate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940099259
+Vaseline
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+240000008042
+Zea mays
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000002017
+Zea mays subsp mays
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+150000001242
+acetic acid derivatives
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+235000020224
+almond
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229930007098
+alpha-ionone
+Natural products
+
+
+
+
+0.000
+description
+2
+
+
+230000001166
+anti-perspirant
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000003213
+antiperspirant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000007864
+aqueous solution
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940007550
+benzyl acetate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000019445
+benzyl alcohol
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+VONGZNXBKCOUHB-UHFFFAOYSA-N
+benzyl butanoate
+Chemical compound
+
+
+CCCC(=O)OCC1=CC=CC=C1
+VONGZNXBKCOUHB-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+VHOMAPWVLKRQAZ-UHFFFAOYSA-N
+benzyl propanoate
+Chemical compound
+
+
+CCC(=O)OCC1=CC=CC=C1
+VHOMAPWVLKRQAZ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+235000014121
+butter
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+carbon
+Chemical compound
+
+
+[C]
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+238000009903
+catalytic hydrogenation reaction
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000007795
+chemical reaction product
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940110456
+cocoa butter
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000019868
+cocoa butter
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000019516
+cod
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000005822
+corn
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000005824
+corn
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+230000000875
+corresponding
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+ZAFNJMIOTHYJRJ-UHFFFAOYSA-N
+diisopropyl ether
+Chemical compound
+
+
+CC(C)OC(C)C
+ZAFNJMIOTHYJRJ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+230000037336
+dry skin
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000000839
+emulsion
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000005516
+engineering process
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+150000002170
+ethers
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+150000002194
+fatty esters
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+239000010685
+fatty oil
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000796
+flavoring agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000019634
+flavors
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000004426
+flaxseed
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000003205
+fragrance
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000499
+gel
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000002391
+heterocyclic compounds
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+239000000852
+hydrogen donor
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000002209
+hydrophobic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+229910052742
+iron
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+KFZMGEQAYNKOFK-UHFFFAOYSA-N
+iso-propanol
+Chemical compound
+
+
+CC(C)O
+KFZMGEQAYNKOFK-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+150000002576
+ketones
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+229940061515
+laureth-4
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000007788
+liquid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+HPQVWDOOUQVBTO-UHFFFAOYSA-N
+lithium aluminium hydride
+Substances
+
+
+[Li+].[Al-]
+HPQVWDOOUQVBTO-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+PWHULOQIROXLJO-UHFFFAOYSA-N
+manganese
+Chemical compound
+
+
+[Mn]
+PWHULOQIROXLJO-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229910052748
+manganese
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+239000011572
+manganese
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000002739
+metals
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+IPWBXORAIBJDDQ-UHFFFAOYSA-N
+methyl 2-hexyl-3-oxocyclopentane-1-carboxylate
+Chemical compound
+
+
+CCCCCCC1C(C(=O)OC)CCC1=O
+IPWBXORAIBJDDQ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940102398
+methyl anthranilate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+150000004702
+methyl esters
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+229940043348
+myristyl alcohol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+150000002826
+nitrites
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+QJGQUHMNIGDVPM-UHFFFAOYSA-N
+nitrogen group
+Chemical group
+
+
+[N]
+QJGQUHMNIGDVPM-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+235000014571
+nuts
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229940055577
+oleyl alcohol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+238000004806
+packaging method and process
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+235000020232
+peanut
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+230000035515
+penetration
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+150000002976
+peresters
+Chemical group
+
+
+
+
+0.000
+description
+2
+
+
+239000008194
+pharmaceutical composition
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920001296
+polysiloxane
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+235000015277
+pork
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229940072033
+potash
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+BWHMMNNQKKPAPP-UHFFFAOYSA-L
+potassium carbonate
+Substances
+
+
+[K+].[K+].[O-]C([O-])=O
+BWHMMNNQKKPAPP-UHFFFAOYSA-L
+0.000
+description
+2
+
+
+235000015320
+potassium carbonate
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+OZAIFHULBGXAKX-UHFFFAOYSA-N
+precursor
+Substances
+
+
+N#CC(C)(C)N=NC(C)(C)C#N
+OZAIFHULBGXAKX-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+238000011084
+recovery
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+238000010992
+reflux
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000002453
+shampoo
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920002545
+silicone oil
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+239000003381
+stabilizer
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000758
+substrate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+QAOWNCQODCNURD-UHFFFAOYSA-L
+sulfate
+Chemical compound
+
+
+[O-]S([O-])(=O)=O
+QAOWNCQODCNURD-UHFFFAOYSA-L
+0.000
+description
+2
+
+
+239000004094
+surface-active agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000007586
+terpenes
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+238000005809
+transesterification reaction
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+150000003626
+triacylglycerols
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+235000013311
+vegetables
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+
+
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+BSDVKYDHDPXIIG-UHFFFAOYSA-N
+zinc;hydride
+Chemical class
+
+
+[H-].[H-].[Zn+2]
+BSDVKYDHDPXIIG-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+UZFLPKAIBPNNCA-BQYQJAHWSA-N
+Î±-ionone
+Chemical compound
+
+
+CC(=O)\C=C\C1C(C)=CCCC1(C)C
+UZFLPKAIBPNNCA-BQYQJAHWSA-N
+0.000
+description
+2
+
+
+
+Classifications
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q13/00—Formulations or additives for perfume preparations
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/33—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds containing oxygen
+
+
+A61K8/34—Alcohols
+
+
+A61K8/342—Alcohols having more than seven atoms in an unbroken chain
+
+
+
+
+
+
+
+Abstract
+
+The invention concerns a fatty alcohol obtainable by a method which consists in reducing the carbonyl function of a vegetable or animal oil, the method consisting in reacting said vegetable or animal oil with appropriate amounts of polymethylhydroxysiloxane (PMHS) in the presence of a catalytic system prepared from a metal salt or complex and a reduction agent, followed by hydrolysis of the resulting siloxane with a basic agent and separating and purifying the desired alcohol thus formed. Said alcohol can be used in a perfume composition, in particular as solubilizing agent.
+
+
+
+
+Description
+
+CROSS-REFERENCE TO RELATED APPLICATIONS
+This application is a continuation of the U.S. national Stage designation of International application PCT/IB00/01499 filed Oct. 19, 2000, the entire content of which is expressly incorporated herein by reference thereto.
+TECHNICAL FIELD
+The present invention relates to the field of perfumery. More particularly, it relates to the use, in a perfuming composition, of a fatty alcohol obtainable by a process of reducing the carbonyl function of a vegetable or animal oil with appropriate quantities of polymethyl-hydroxysiloxane.
+PRIOR ART
+The use of fatty alcohols in cosmetic compositions is well known from the prior art, for example from patent application WO 96/37285, which discloses the use of fatty alcohols in emulsifying cosmetic compositions, or from application WO 97/01326, which describes cream compositions comprising in particular, from among the hydrophobic agents used, fatty alcohols. In this type of application, the fatty alcohols used act as a structurant in order to promote the Theological characteristics of the composition. More generally, the long-chain fatty alcohols are therefore used as emollients in cosmetic or pharmaceutical compositions, as structurants in emulsions or as stabilisers in an emulsifying system. They are frequently found in compositions for hair care products, in moisturising creams for dry skin and in pharmaceutical bases.
+However, to our knowledge, these alcohols have never been used in perfuming compositions.
+DESCRIPTION OF THE INVENTION
+We discovered, quite surprisingly, that the fatty alcohols obtainable by reducing the carbonyl function of a vegetable or animal oil of natural origin could advantageously be used in perfuming compositions. In particular, and according to a preferred embodiment of the invention, these fatty alcohols can quite unexpectedly act as a solvent or co-solvent in these perfuming compositions.
+The use of the fatty alcohols according to the invention in perfuming compositions, in particular as solubilisers of the perfuming ingredients which are a constituent of these compositions, has numerous advantages. In the preparation of perfumes, eaux de toilette and eaux de Cologne for example, the use of solvents such as ethanol or isopropanol is very common. Ethanol provides good solubilisation of the perfuming ingredients to which the perfumer has recourse. The perfumes and eaux de toilette found on the market generally contain between 50% and 95% ethanol by volume. However, this type of solvent commonly used in perfumes or other perfuming compositions can be subject to use restrictions by the legislation of certain countries. For this reason, the attempt is being made to replace this type of solvent in the aforementioned products. We have discovered that the fatty alcohols derived from vegetable or animal oils can advantageously replace, in whole or in part, the aforementioned solvents commonly used in perfumery. In fact, these products of natural origin easily solubilise any type of perfuming ingredient.
+Other advantages will become apparent from the description and the examples.
+The fatty alcohols according to the present invention are obtainable by reducing the carbonyl function of a vegetable or animal oil. This process consists in reacting the said oil with appropriate quantities of polymethylhydroxysiloxane (PMHS) in the presence of a catalytic system prepared from a metal salt or complex and a reducing agent, followed by hydrolysis of the resulting siloxane by means of a basic agent and the separation and purification of the desired alcohol thus formed. The precise process for the preparation of these alcohols is described in U.S. Pat. No. 5,831,133 and in International patent application WO 99/12877. The first of these documents describes e.g. an original process for the reduction of, in particular, esters by polymethylhydroxysiloxane, catalysed by soluble hydrides of metals such as zinc, manganese or iron. PMHS is a cheap and abundant co-product in the silicone industry. Stable in air and water, it is particularly easy to use in any polyvalent reactor, whereas the use of hydrides such as LiAlH4 and NaBH4 used in âconventionalâ reductions necessitates working in a dry reactor which has been rendered inert.
+One of the remarkable properties of this technology is that it allows the direct reduction of the vegetable and animal oils with excellent yields. This reaction is catalysed preferably by soluble zinc hydrides produced e.g. by reaction between a soluble zinc carboxylate and a hydrogen donor such as NaBH4.
+The process described in WO 99/12877 is also suitable for the preparation of the fatty alcohols used according to the present invention and it has the additional advantage of dispensing with the use of NaBH4.
+The contents of U.S. Pat. No. 5,831,133 and application WO 99/12877 and the teachings of these documents in relation to the reduction of the appropriate natural oils and the application of these processes to this reduction are included herein by reference.
+These processes are advantageously used to prepare the fatty alcohols according to the invention because they enable the structure and the stereochemistry of the starting products, namely the vegetable or animal oils, to be preserved. In other words, if one compares the reduction described in the documents included herein by reference with the conventional catalytic hydrogenation commonly used for reduction of the fatty animal or vegetable oils, this latter necessitates their prior transesterification into the corresponding methyl ester and is carried out on a large scale under drastic temperature and pressure conditions, which affects the position and the stereochemistry of the double bonds and, consequently, the natural character of the product. In constrast, the processes described in U.S. Pat. No. 5,831,133 and WO 99/12877 enable these to be preserved, with the result that the reaction product, i.e. the fatty alcohol, has the same stereochemistry as the initial animal or vegetable oil, thus preserving its natural form, which represents a considerable advantage. We also discovered that the fatty alcohols thus obtained could have properties which are highly advantageous to the object of the invention.
+The present invention thus relates to the use, in a perfuming composition, of a fatty alcohol obtainable by a process of reducing the carbonyl function of a vegetable or animal oil, said process consisting in reacting the said oil with appropriate quantities of PMHS in the presence of a catalytic system prepared from a metal salt or complex and a reducing agent, followed by hydrolysis of the resulting siloxane by means of a basic agent and the separation and purification of the desired alcohol thus formed.
+Of the fatty alcohols used according to the invention, the preferred ones are those which constitute the product of the reduction of a vegetable oil selected from the group comprising olive oil, sunflower oil, palm oil, cottonseed oil, colza oil, soya oil, sesame oil, jojoba oil or coconut oil.
+Apart from the fact that they preserve the position and the stereochemistry of the double bonds of the natural oils from which they are derived, the fatty alcohols according to the invention have further advantages when used in a perfuming composition. For example, these compounds impart to the composition to which they are added a soft, non-greasy feel when applied to the skin, whereas a conventional solvent such as ethanol has the tendency to dry out the skin.
+The alcohols according to the invention are used to particular advantage not only in perfumes, eaux de Cologne and eaux de toilette, but also in applications such as perfumed oils for the skin or hair.
+It goes without saying that the use of the fatty alcohols derived from vegetable or animal oils according to the invention is not limited to the aforementioned products, but is also suitable for other perfumery applications, in particular in functional perfumery. Examples of this type of application include shower and bath gels, shampoos, deodorants and anti-perspirants. Owing to their natural character, their emollient properties, their non-greasy nature, their softness to the touch and their penetration power, the natural alcohols according to the present invention are therefore usable in numerous applications.
+According to a preferred embodiment of the invention, the natural fatty alcohols produced from the reduction of a vegetable or animal oil act as a solvent or co-solvent in a perfuming composition. In fact, these constituents advantageously solubilise all types of perfuming ingredients.
+The fatty alcohols according to the invention can be used as solvents both in a perfuming composition comprising, in addition to the perfume, additives and adjuvants depending upon the final application, and in a concentrated perfume or base composition comprising only perfuming starting materials. The solvents generally used in these latter compositions, namely diethyl phthalate or dipropylene glycol, are suitable solvents for dissolving all the starting materials, both liquid and solid. However, we discovered, quite surprisingly, that the fatty alcohols according to the invention were also able to dissolve these substances and thus replace in particular the diethyl phthalate or dipropylene glycol.
+The invention also relates to a perfuming composition, characterised in that it contains a fatty alcohol obtainable by the reduction process described in U.S. Pat. No. 5,831,133 or WO 99/12877.
+In a particularly advantageous embodiment of the invention, the natural fatty alcohol present in a perfuming composition according to the invention advantageously replaces, in whole or in part, the solvent generally used. It therefore acts either as sole solvent or as co-solvent in combination with ethyl alcohol, isododecane or other solvents known to the skilled person and used in this type of composition. In this way, the proportion of ethanol, for example, can be reduced, even eliminated.
+Furthermore, in applications such as perfumed massage oils which contain, in addition to the perfuming ingredients, paraffin oil (or an equivalent), the compounds according to the invention, owing to their structure, advantageously enable the perfume to be solubilised in the oil. This property of the fatty alcohols renders them highly useful in any type of perfuming composition containing an oil such as paraffin oil. Indeed, they preserve the properties of the natural oils from which they are derived whilst solubilising all the ingredients of the composition.
+The perfuming composition according to the invention can contain, in addition to a fatty alcohol derived from an oil of natural origin and a perfuming ingredient, a volatile agent.
+Preferred volatile agents in the perfuming composition according to the invention are the volatile hydrocarbons, the volatile silicone oils, isopentane or a mixture of these compounds. These are given as non-limiting examples, the skilled person being capable of selecting appropriate volatile agents other than those mentioned.
+The skilled person is also capable of selecting one or more perfuming ingredients according to the nature of the product to be perfumed and the desired olfactory effect. These perfuming ingredients can belong to classes as varied as the alcohols, aldehydes, ketones, esters, ethers, acetates, nitrites, terpene hydrocarbons, nitrogenous or sulphurous heterocyclic compounds and also essential oils of natural or synthetic origin. Many of these ingredients are also listed in works of reference such as the book by S. Arctander, Perfume and Flavor Chemicals, 1969, Montclair, N.J., USA, or its more recent versions, or in other works of a similar nature.
+Apart from the different types of ingredient mentioned, the perfuming composition according to the invention can also comprise other adjuvants such as antioxydants, chelating agents or propellants, the skilled person being capable of selecting them on the basis of the desired final application or the type of packaging used for the composition according to the invention.
+Furthermore, according to a preferred embodiment of the invention, the perfuming composition comprises a fatty alcohol as mentioned hereinabove in combination with a natural oil (for example olive oil or sunflower oil). Thus combined, we discovered that the fatty alcohols obtained by reduction of a vegetable or animal oil of natural origin were, in fact, capable of reducing the greasy, sticky effect on the skin of the compositions containing fatty oils of natural origin. The presence of isopentane or other volatile hydrocarbons also has this effect.
+The proportions in which the compounds according to the invention can be incorporated into the different aforementioned products varies within a wide range of values. These values depend on the role played by the fatty alcohols in the composition, i.e sole solvent or co-solvent. They also depend on the proportion of perfuming ingredient to be solubilised, i.e. indirectly on the nature of the perfuming composition and the desired olfactory effect.
+As an example, typical proportions are in the order of 0.5% to 80%, preferably 10% to 40%, of fatty alcohol relative to the weight of perfuming composition into which it is incorporated.
+By reason of their emollient properties, their non-greasy nature and their soft feel, they render the perfume or perfuming composition very pleasant to the touch when applied to the skin.
+The invention will now be described in further detail in the following examples in which the abbreviations have the usual meaning in the art.
+EXAMPLE 1
+Preparation of Fatty Alcohols Derived from Animal or Vegetable Oils of Natural Origin
+The fatty alcohols according to the invention were all prepared by the following general method:
+General Method
+The fatty alcohols listed in Table I were prepared by reduction of vegetable and animal oils by injecting PMHS (2 equivalents per ester function) over the substrate containing the metal catalyst, in particular zinc (0.5-2 mol %) in solution in toluene, isopropyl ether or methyl-tert-amyl ether. At the end of the reaction, the polysilyl ether formed was hydrolysed over an aqueous solution of potash (1.2 eq KOH/mol of PMHS). After decanting, the organic solution was evaporated for recovery of the solvent, and the residue was distilled under vacuum to produce the alcohol in practically pure form with chemical yields generally exceeding 90%.
+About twenty vegetable and animal oils were thus reducible to fatty alcohols using Zn(dimethylacetate)2(dimethylaminoethanol) as zinc catalyst with excellent chemical yields, as shown in Table I hereinafter. These alcohols correspond exactly, in their relative proportions and their stereochemistry, to the precursors fatty esters and triglycerides.
+Other usable metal catalysts, in particular zinc catalysts, are described in detail in WO 99/12877 and the content of this document is included herein by reference. Identical products were obtainable by using the process described in U.S. Pat. No. 5,831,133 and the metal catalysts described therein, in particular (2-ethylhexanoate)2Zn.
+
+
+
+
+
+
+TABLE I
+
+
+
+ 
+
+
+Vegetable
+Composition and yields of the fatty alcohol obtained by reduction of the oil listed
+
+
+
+
+or animal
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Refractive
+Yeild
+Yeild
+
+
+oil
+<C10 
+C10 
+C12 
+C14 
+C16 
+C18 
+C18:1 
+C18:2 
+C18:3 
+C20:1 
+C22:1 
+C24:1 
+Density
+index
+(weight)
+(mol)
+
+
+ 
+
+
+
+
+Coconut
+6.9
+5.9
+48.8
+19.3
+7.1
+1.3
+0
+2.1
+0
+0
+0
+0
+0.8402
+1.4435
+83.7
+94.0
+
+
+Palm
+3
+3.2
+50.2
+16.5
+8.1
+1.6
+11.0
+1.2
+0
+0.2
+0
+0
+0.8428
+1.4453
+78.2
+90.7
+
+
+Cottonseed
+0
+0
+0
+1
+29.2
+1.8
+18.5
+39.8
+0
+0
+0
+0
+Solid
+â
+62.0
+69.6
+
+
+Cocoa butter
+0
+0
+0
+0
+38.4
+37.6
+15.6
+0.0
+0
+1.0
+0
+0
+Solid
+â
+78.6
+91.2
+
+
+Peanut
+0
+0
+0
+0
+12.3
+2.2
+45.4
+21.7
+0
+0.4
+0
+0
+0.8762
+1.4620
+84.1
+94.4
+
+
+Almond
+0
+0
+0
+0
+8.0
+1.1
+62.9
+25.5
+0
+0
+0
+0
+0.8527
+1.4611
+84.4
+94.7
+
+
+Colza
+0
+0
+1.6
+0
+10.6
+6.4
+71.6
+2.3
+0
+0
+0
+0
+0.8553
+1.4657
+56.3
+63.2
+
+
+Olive
+0
+0
+0.2
+0
+14.5
+2.4
+72.6
+7
+0
+0
+0
+0
+0.8507
+1.4586
+73.5
+82.3
+
+
+Sesame
+0
+0
+0
+0
+10.2
+5.6
+41.3
+37.8
+0
+0
+0
+0
+0.8516
+1.4621
+82.0
+91.8
+
+
+Soya
+0
+0
+0
+0.2
+13.3
+2.9
+19.7
+38.6
+2.2
+0
+0
+0
+0.8533
+1.4654
+61.1
+68.6
+
+
+Grapeseed
+0
+0
+0.5
+0
+8.2
+3.4
+19.4
+44.5
+0
+0
+0
+0
+0.8550
+1.4668
+75.5
+84.7
+
+
+Corn
+0
+0
+0
+0
+11.6
+1.5
+29.8
+48.6
+0
+0
+0
+0
+0.8533
+1.4642
+74.6
+83.2
+
+
+Sunflower
+0
+0
+0
+0
+11.0
+5.3
+27.8
+55.8
+0
+0
+0
+0
+0.8647
+1.4665
+69.4
+80.5
+
+
+Safflower
+0
+0
+0
+0.1
+9.5
+1.9
+15.2
+56.5
+0
+0
+0
+0
+0.8567
+1.4662
+74.0
+83.0
+
+
+Nut
+0
+0
+0
+0
+8.8
+2.3
+14.8
+53.8
+6
+0
+0
+0
+0.8659
+1.4683
+71.4
+81.1
+
+
+Linseed
+0
+0
+0
+0
+6.1
+3.3
+19.7
+11.6
+58.2
+0.2
+0
+0.2
+0.8688
+1.4708
+64.6
+74.9
+
+
+Jojoba
+0
+0
+1.9
+0
+0.8
+0
+0.0
+6.9
+0
+58.2
+25.0
+3.7
+0.8557
+1.4610
+86.2
+95.0
+
+
+Butter
+1.7
+5.8
+7.5
+23.9
+31.9
+4.5
+2.2
+10.1
+1
+0
+0
+0
+Solid
+â
+13.8
+21.2
+
+
+Pork
+0
+0
+0
+1.9
+30.0
+14.2
+36.2
+8.7
+0
+0
+0
+0
+Solid
+â
+79.3
+86.8
+
+
+Cod liver
+0
+0
+0
+6.7
+17.1
+3.5
+17.7
+3.7
+1.3
+8.8
+6.8
+0.0
+0.8603
+1.4697
+77.2
+83.2
+
+
+ 
+
+
+C10 = 1-decanol (capric alcohol) 
+
+
+C12 = 1-dodecanol (lauryl alcohol) 
+
+
+C14 = 1-tetradecanol (myristyl alcohol) 
+
+
+C16 = 1-hexadecanol (cetyl alcohol) 
+
+
+C18 = 1-octadecanol (stearyl alcohol) 
+
+
+C18.1 = (9Z)-octadecen-1-ol (oleyl alcohol) 
+
+
+C18.2 = (9Z,12Z)-octadecadien-1-ol(linoleyl alcohol) 
+
+
+C18.3 = (9Z,12Z,15Z)-octadecatrien-1-ol(indenyl alcohol) 
+
+
+C20:1 = (11Z)-eicosen-1-ol 
+
+
+C22.1 = (13Z)-docosen-1-ol 
+
+
+C24.1 = (15Z)-tetracosen-1-ol 
+
+
+
+
+
+EXAMPLE 2
+Perfuming Composition
+A perfuming composition was prepared by mixing the following ingredients:
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+Ingredients
+Parts by weight
+
+
+ 
+ 
+
+
+
+ 
+Isododecane
+39.800
+
+
+ 
+Fatty alcohol of soya1) 
+30.000
+
+
+ 
+TenoxâÂ® GT-22) 
+â0.100
+
+
+ 
+IrganoxâÂ® PS-8003) 
+â0.050
+
+
+ 
+Diethyl citrate4) 
+â0.050
+
+
+ 
+Perfume5) 
+10.000
+
+
+ 
+Isopentane
+20.000
+
+
+ 
+Total
+100.000â
+
+
+ 
+ 
+
+
+ 
+ 1)see Table I 
+
+
+ 
+ 2)tocopherol; origin: Eastman 
+
+
+ 
+ 3)dilauryl thiodipropionate; origin: Ciba Speciality Chemicals 
+
+
+ 
+ 4)origin: Morflex 
+
+
+ 
+ 5)the perfume was obtained by mixing the following ingredients: 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+Ingredients
+Parts by weight
+
+
+ 
+ 
+
+
+
+ 
+Benzyl acetate
+92
+
+
+ 
+Dimethyl benzyl carbinyl acetate
+â6
+
+
+ 
+Linalyl acetate
+10
+
+
+ 
+Benzyl alcohol
+50
+
+
+ 
+Phenylethyl alcohol
+35
+
+
+ 
+Amylcinnamic aldehyde
+24
+
+
+ 
+C14 aldehyde at 10%*
+â8
+
+
+ 
+Î±-Ionone
+â8
+
+
+ 
+Methyl anthranilate
+10
+
+
+ 
+Fatty alcohol of sunflower
+500â
+
+
+ 
+Benzyl butyrate
+10
+
+
+ 
+Dihydrojasmone at 1%*
+17
+
+
+ 
+HabanolideâÂ®1) 
+â8
+
+
+ 
+HedioneâÂ®2) 
+100â
+
+
+ 
+Indole at 10%*
+10
+
+
+ 
+Linalol
+30
+
+
+ 
+MayolâÂ®3) 
+52
+
+
+ 
+Benzyl propionate
+16
+
+
+ 
+Benzyl salicylate
+14
+
+
+ 
+Total
+1000â
+
+
+ 
+ 
+
+
+ 
+*in dipropylene glycol (DIPG) 
+
+
+ 
+ 1)pentadecenolide; origin: Firmenich SA, Geneva, Switzerland 
+
+
+ 
+ 2)methyl dihydrojasmonate; origin: Firmenich SA, Geneva, Switzerland 
+
+
+ 
+ 3)cis-7-p-menthanol; origin: Firmenich SA, Geneva, Switzerland 
+
+
+
+
+
+Naturally, other perfuming ingredients can be used according to the desired odoriferous effect.
+The natural alcohol of soya, together with isodecane, constitutes the solvent of this perfuming composition, which has a jasmine-type fragrance and imparts a soft, non-greasy feel when applied to the skin and at the same time perfumes it.
+EXAMPLE 3
+Perfuming Composition
+A perfuming composition was prepared by mixing the following ingredients:
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+Ingredients
+Parts by weight
+
+
+ 
+ 
+
+
+
+ 
+
+
+
+
+ 
+Isododecane
+24.800
+
+
+ 
+Fatty alcohol of soya1) 
+30.000
+
+
+ 
+TenoxâÂ® GT-22) 
+0.100
+
+
+ 
+IrganoxâÂ® PS-8003) 
+0.050
+
+
+ 
+Diethyl citrate4) 
+0.050
+
+
+ 
+Perfume5) 
+25.000
+
+
+ 
+Isopentane
+20.000
+
+
+ 
+Total
+100.000
+
+
+ 
+ 
+
+
+ 
+ 1)see Table I 
+
+
+ 
+ 2),3),4)see Example 2 
+
+
+ 
+ 5)the perfume used has the same composition as that described in Example 2 
+
+
+
+
+
+In this perfuming composition not containing ethanol, the soya alcohol acts as co-solvent. It solubilises perfectly the perfume used and makes the composition very pleasant to apply to the skin, softening it, but without making it greasy.
+EXAMPLE 4
+Perfuming Composition
+A perfuming composition was prepared by mixing the following ingredients:
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+Ingredients
+Parts by weight
+
+
+ 
+ 
+
+
+
+ 
+Ethanol at 96Â°
+29.800
+
+
+ 
+Fatty alcohol of olive1) 
+20.000
+
+
+ 
+TenoxâÂ® GT-22) 
+â0.100
+
+
+ 
+IrganoxâÂ® PS-8003) 
+â0.050
+
+
+ 
+Diethyl citrate4) 
+â0.050
+
+
+ 
+Perfume5) 
+30.000
+
+
+ 
+Isopentane
+20.000
+
+
+ 
+Total
+100.000â
+
+
+ 
+ 
+
+
+ 
+ 1)see Table I 
+
+
+ 
+ 2), 3), 4)see Example 2 
+
+
+ 
+ 5)the perfume used has the same composition as that described in Example 2. 
+
+
+
+
+
+In this composition, the natural alcohol of olive replaces some of the ethanol at 96Â°. While preserving the properties of the natural olive oil, it solubilises the perfume used in a high concentration. In this way, a perfume is obtained which makes the skin soft and pleasant to touch.
+EXAMPLE 5
+Perfuming Composition
+A perfuming composition was prepared by mixing the following ingredients:
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+Ingredients
+Parts by weight
+
+
+ 
+ 
+
+
+
+ 
+Ethanol at 96Â°
+64.800
+
+
+ 
+Fatty alcohol of sesame1) 
+25.000
+
+
+ 
+TenoxâÂ® GT-22) 
+â0.100
+
+
+ 
+IrganoxâÂ® PS-8003) 
+â0.050
+
+
+ 
+Diethyl citrate4) 
+â0.050
+
+
+ 
+Perfume5) 
+10.000
+
+
+ 
+Total
+100.000â
+
+
+ 
+ 
+
+
+ 
+ 1)see Table I 
+
+
+ 
+ 2), 3), 4)see Example 2 
+
+
+ 
+ 5)the perfume used has the same composition as that described in Example 2. 
+
+
+
+
+
+The natural alcohol of sesame is used as co-solvent with ethanol. It allows the proportion of the latter in the composition to be reduced and imparts to it the characteristics of the natural oil, with the result that its application to the skin makes the skin very soft to the touch.
+EXAMPLE 6
+Perfumed Massage Oil
+A perfuming composition for a massage oil was prepared by mixing the following ingredients:
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+Ingredients
+Parts by weight
+
+
+ 
+ 
+
+
+
+ 
+Fatty alcohol of sunflower1) 
+â5.000
+
+
+ 
+Vaseline oil
+45.000
+
+
+ 
+Witconol EC 11272) 
+â2.500
+
+
+ 
+Hostaphat KL 340 N3) 
+â2.000
+
+
+ 
+Zetesol 1004) 
+39.800
+
+
+ 
+Mackalene 165) 
+â0.500
+
+
+ 
+Comperlan KD6) 
+â3.000
+
+
+ 
+KathonâÂ® CG7) 
+â0.100
+
+
+ 
+TenoxâÂ® GT-28) 
+â0.500
+
+
+ 
+IrganoxâÂ® PS-8009) 
+â0.100
+
+
+ 
+Perfume10) 
+â1.500
+
+
+ 
+Total
+100.000â
+
+
+ 
+ 
+
+
+ 
+ 1)see Table I 
+
+
+ 
+ 2)C12-C14 monoalkylethercitrate; origin: Witco Surfactants 
+
+
+ 
+ 3)trilaureth-4-phosphate; origin: Clariant 
+
+
+ 
+ 4)MIPA-laureth sulphate and laureth 4 cocamide DEA; origin: Zschimmer & Schwartz 
+
+
+ 
+ 5)ricinoleamidopropyl dimethylamine lactate; origin: Mcintyre 
+
+
+ 
+ 6)cocoamide DEA; origin: Henkel 
+
+
+ 
+ 7)methylchloroisothiazolinone and methylisothiazolinone; origin: Rohm & Haas 
+
+
+ 
+ 8)tocopherol; origin: Eastman 
+
+
+ 
+ 9)dilauryl thiodipropionate; origin: Ciba Speciality Chemicals 
+
+
+ 
+ 10)the perfume used has the same composition as that described in Example 2. 
+
+
+
+
+
+The fatty alcohol of sunflower solubilises perfectly all the ingredients of this composition. The oil obtained penetrates easily when applied to the skin which, after application of said oil, remains very soft to the touch without being greasy.
+In a variation on this composition, a mixture was prepared which comprised 90% of the massage oil of which the composition is described hereinabove and 10% of isopentane. A âpost-foamâ product was thus obtained which is applied to damp skin like a cream. By rubbing the skin, the product forms a foam which simply needs to be rinsed off. After application, the skin is soft and clean without being greasy.
+EXAMPLE 7
+Perfuming Composition for a Stick Deodorant
+A perfuming composition for use in a stick deodorant was prepared by mixing the following ingredients:
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+Ingredients
+Parts by weight
+
+
+ 
+ 
+
+
+
+ 
+Dow Corning 345 fluid1) 
+46.000
+
+
+ 
+Lorol C182) 
+21.000
+
+
+ 
+Ucon fluid AP3) 
+â1.800
+
+
+ 
+Cutina HR4) 
+â1.000
+
+
+ 
+Eutanol G5) 
+â3.200
+
+
+ 
+Fatty alcohol of cottonseed6) 
+â5.000
+
+
+ 
+Zirkonal P107) 
+21.000
+
+
+ 
+Perfume8) 
+â1.000
+
+
+ 
+Total
+100.000â
+
+
+ 
+ 
+
+
+ 
+ 1)cyclomethicone; origin: Dow Corning 
+
+
+ 
+ 2)stearyl alcohol; origin: Henkel 
+
+
+ 
+ 3)butyl ether; origin: Amerchol 
+
+
+ 
+ 4)hydrogenated castor oil; origin: Henkel 
+
+
+ 
+ 5)octyl dodecanol; origin: Henkel 
+
+
+ 
+ 6)see Table I 
+
+
+ 
+ 7)aluminium zirconium trichlorohydrex; origin: Giulini 
+
+
+ 
+ 8)the perfume used has the same composition as that described in Example 2. 
+
+
+
+
+
+Cyclomethicone, stearyl alcohol, butyl ether, hydrogenated castor oil, octyl dodecanol and natural alcohol of cottonseed were mixed, then heated to reflux. The mixture was stirred continuously at 70Â° C. until all the solids had dissolved, then aluminium zirconium trichlorohydrex was dispersed in the initial mixture and stirred well. Lastly, the perfume was added to the mixture, which was then poured into suitable containers at 55Â° C. The resulting deodorant is very soft and gentle on the skin. Its soft, non-greasy texture produces a very pleasant effect on the skin.
+
+
+
+
+Claims (13)
+
+What is claimed is: 
+ 
+1. A perfuming composition consisting of a perfume concentrate and a fatty alcohol obtainable by a process which comprises reducing the carbonyl function of a vegetable or animal oil by reacting the vegetable or animal oil with appropriate quantities of polymethylhydroxy-siloxane (PMHS) in the presence of a catalytic system prepared from a metal salt or complex and a reducing agent, followed by hydrolysing the resulting siloxane with a basic agent and then separating and purifying the resulting fatty alcohol.
+
+  
+2. A perfuming composition according to claim 1, wherein the vegetable or animal oil is selected from the group consisting of olive oil, sunflower oil, palm oil, cottonseed oil, colza oil, soya oil, sesame oil, jojoba oil and coconut oil.
+
+  
+3. A perfuming composition according to claim 1, wherein the fatty alcohol is present in a proportion of between 0.5% and 80% of the composition.
+
+  
+4. A perfuming composition that includes a perfume concentrate and has a fatty alcohol as the only solvent in the composition.
+
+  
+5. The perfuming composition of claim 4, wherein the fatty alcohol is present in a proportion of between 0.5% and 80% of the composition.
+
+  
+6. The perfuming composition of claim 4, which includes an additive.
+
+  
+7. The perfuming composition of claim 6, wherein the additive is paraffin oil, an antioxidant, a chelating agent, or a propellant.
+
+  
+8. The perfuming composition of claim 4, in the form of a perfume, an eaux de toilette or an essential oil.
+
+  
+9. A perfuming composition consisting of a perfume concentrate and a fatty alcohol.
+
+  
+10. The perfuming composition of claim 9, wherein the fatty alcohol is obtained by a process which comprises reducing the carbonyl function of a vegetable or animal oil by reacting the vegetable or animal oil with appropriate quantities of polymethylhydroxy-siloxane (PMHS) in the presence of a catalytic system prepared from a metal salt or complex and a reducing agent, followed by hydrolyzing the resulting siloxane with a basic agent and then separating and purifying the resulting fatty alcohol.
+
+  
+11. The perfuming composition according to claim 9, wherein the vegetable or animal oil is selected from the group consisting of olive oil, sunflower oil, palm oil, cottonseed oil, colza oil, soya oil, sesame oil, jojoba oil and coconut oil.
+
+  
+12. The perfuming composition of claim 9, wherein the fatty alcohol is present in a proportion of between 0.5% and 80% of the composition.
+
+  
+13. The perfuming composition of claim 9, in the form of a perfume, an eaux de toilette or an essential oil.
+
+ 
+
+
+
+
+US10/115,485
+1999-11-10
+2002-04-02
+Use of fatty alcohol in a perfume composition 
+       
+Expired - Fee Related
+
+US6806250B2
+            (en)
+        
+
+Applications Claiming Priority (3)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+CH2058/99
+
+1999-11-10
+
+
+
+CH205899
+
+1999-11-10
+
+
+
+PCT/IB2000/001499
+
+WO2001034110A1
+                          (en)
+                      
+1999-11-10
+2000-10-19
+Use of a fatty alcohol in a perfume composition 
+       
+
+
+
+Related Parent Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+PCT/IB2000/001499
+Continuation
+
+WO2001034110A1
+                          (en)
+                      
+
+1999-11-10
+2000-10-19
+Use of a fatty alcohol in a perfume composition 
+       
+
+
+
+Publications (2)
+
+
+
+Publication Number
+Publication Date
+
+
+
+
+
+US20020183236A1
+US20020183236A1
+                       (en)
+                   
+
+2002-12-05
+
+
+US6806250B2
+true
+US6806250B2
+                       (en)
+                   
+
+2004-10-19
+
+
+
+
+
+Family
+ID=4224936
+Family Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+US10/115,485
+Expired - Fee Related
+
+US6806250B2
+                          (en)
+                      
+
+1999-11-10
+2002-04-02
+Use of fatty alcohol in a perfume composition 
+       
+
+
+
+Country Status (4)
+
+
+
+Country
+Link
+
+
+
+
+
+US
+                (1)
+              
+
+
+
+US6806250B2
+                  (en)
+              
+
+
+
+EP
+                (1)
+              
+            
+
+
+EP1229893A1
+                  (en)
+              
+
+
+
+JP
+                (1)
+              
+            
+
+
+JP2003513900A
+                  (en)
+              
+
+
+
+WO
+                (1)
+              
+            
+
+
+WO2001034110A1
+                  (en)
+              
+
+
+
+
+Cited By (1)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US20080113892A1
+              (en)
+            
+*
+
+2006-11-10
+2008-05-15
+Barnhart Ronald A
+Antimicrobial wash formulations including amidoamine-based cationic surfactants 
+       
+
+
+
+Families Citing this family (3)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US8822404B2
+              (en)
+            
+
+2010-06-10
+2014-09-02
+Firmenich Sa
+Perfuming compositions and uses thereof 
+       
+
+
+
+CN103804131A
+              (en)
+            
+*
+
+2012-11-07
+2014-05-21
+ä¸­å½æä¸ç§å­¦ç ç©¶é¢èµæºæè«ç ç©¶æ
+Sugarcane wax pressure reduction method for preparation of policosanol 
+       
+
+
+
+CN103804135A
+              (en)
+            
+*
+
+2012-11-07
+2014-05-21
+ä¸­å½æä¸ç§å­¦ç ç©¶é¢èµæºæè«ç ç©¶æ
+Method used for preparing higher alkanols via sunflower wax normal pressure reduction 
+       
+
+
+
+Citations (13)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US3888995A
+              (en)
+            
+*
+
+1968-07-19
+1975-06-10
+Syntex Corp
+Fatty alcohol-propylene glycol vehicle 
+       
+
+
+
+JPS61151114A
+              (en)
+            
+
+1984-12-26
+1986-07-09
+Lion Corp
+Perfumery-containing composition 
+     
+
+
+
+US5190915A
+              (en)
+            
+
+1990-07-11
+1993-03-02
+Unilever Patent Holdings B.V.
+Perfumed structured emulsion in personal products 
+       
+
+
+
+US5324444A
+              (en)
+            
+
+1991-12-20
+1994-06-28
+The Procter & Gamble Company
+Process for preparing a perfume capsule composition 
+       
+
+
+
+US5420104A
+              (en)
+            
+
+1992-06-16
+1995-05-30
+Firmenich S.A.
+Perfumed composition 
+       
+
+
+
+EP0701813A2
+              (en)
+            
+
+1994-09-14
+1996-03-20
+Unilever Plc
+Oil-in-water emulsion containing a fragrance 
+       
+
+
+
+WO1996037285A1
+              (en)
+            
+
+1995-05-24
+1996-11-28
+Societe D'exploitation De Produits Pour Les Industries Chimiques - Seppic
+Alkylpolyglycoside-based emulsifying composition and uses thereof 
+       
+
+
+
+WO1997001326A1
+              (en)
+            
+
+1995-06-29
+1997-01-16
+The Procter & Gamble Company
+Stable topical compositions 
+       
+
+
+
+US5831133A
+              (en)
+            
+
+1994-10-19
+1998-11-03
+Firmenich Sa
+Process for the preparation of alcohols 
+       
+
+
+
+WO1999012877A1
+              (en)
+            
+
+1997-09-09
+1999-03-18
+Firmenich S.A.
+Enantioselective reduction of ketones with a silane agent/metal compound/chiral ligand system 
+       
+
+
+
+US6099858A
+              (en)
+            
+*
+
+1993-10-01
+2000-08-08
+R. P. Scherer
+Methods for preparing gelatin capsules containing fragrances 
+       
+
+
+
+US6368607B1
+              (en)
+            
+*
+
+1998-07-24
+2002-04-09
+Isp Investments Inc.
+Product-structurant composition for personal care formulations 
+       
+
+
+
+US6444212B1
+              (en)
+            
+*
+
+1998-03-26
+2002-09-03
+L'oreal
+Moisturizing and long-wearing make-up composition 
+       
+
+
+
+
+
+2000
+
+
+2000-10-19
+EP
+EP00966370A
+patent/EP1229893A1/en
+not_active
+Withdrawn
+
+
+2000-10-19
+JP
+JP2001536111A
+patent/JP2003513900A/en
+active
+Pending
+
+
+2000-10-19
+WO
+PCT/IB2000/001499
+patent/WO2001034110A1/en
+not_active
+Application Discontinuation
+
+
+
+
+2002
+
+
+2002-04-02
+US
+US10/115,485
+patent/US6806250B2/en
+not_active
+Expired - Fee Related
+
+
+
+
+
+
+
+Patent Citations (14)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US3888995A
+              (en)
+            
+*
+
+1968-07-19
+1975-06-10
+Syntex Corp
+Fatty alcohol-propylene glycol vehicle 
+       
+
+
+
+JPS61151114A
+              (en)
+            
+
+1984-12-26
+1986-07-09
+Lion Corp
+Perfumery-containing composition 
+     
+
+
+
+US5190915A
+              (en)
+            
+
+1990-07-11
+1993-03-02
+Unilever Patent Holdings B.V.
+Perfumed structured emulsion in personal products 
+       
+
+
+
+US5324444A
+              (en)
+            
+
+1991-12-20
+1994-06-28
+The Procter & Gamble Company
+Process for preparing a perfume capsule composition 
+       
+
+
+
+US5420104A
+              (en)
+            
+
+1992-06-16
+1995-05-30
+Firmenich S.A.
+Perfumed composition 
+       
+
+
+
+US6099858A
+              (en)
+            
+*
+
+1993-10-01
+2000-08-08
+R. P. Scherer
+Methods for preparing gelatin capsules containing fragrances 
+       
+
+
+
+US5525588A
+              (en)
+            
+*
+
+1994-09-14
+1996-06-11
+Elzabeth Arden Co.
+Cosmetic composition 
+       
+
+
+
+EP0701813A2
+              (en)
+            
+
+1994-09-14
+1996-03-20
+Unilever Plc
+Oil-in-water emulsion containing a fragrance 
+       
+
+
+
+US5831133A
+              (en)
+            
+
+1994-10-19
+1998-11-03
+Firmenich Sa
+Process for the preparation of alcohols 
+       
+
+
+
+WO1996037285A1
+              (en)
+            
+
+1995-05-24
+1996-11-28
+Societe D'exploitation De Produits Pour Les Industries Chimiques - Seppic
+Alkylpolyglycoside-based emulsifying composition and uses thereof 
+       
+
+
+
+WO1997001326A1
+              (en)
+            
+
+1995-06-29
+1997-01-16
+The Procter & Gamble Company
+Stable topical compositions 
+       
+
+
+
+WO1999012877A1
+              (en)
+            
+
+1997-09-09
+1999-03-18
+Firmenich S.A.
+Enantioselective reduction of ketones with a silane agent/metal compound/chiral ligand system 
+       
+
+
+
+US6444212B1
+              (en)
+            
+*
+
+1998-03-26
+2002-09-03
+L'oreal
+Moisturizing and long-wearing make-up composition 
+       
+
+
+
+US6368607B1
+              (en)
+            
+*
+
+1998-07-24
+2002-04-09
+Isp Investments Inc.
+Product-structurant composition for personal care formulations 
+       
+
+
+
+
+Cited By (2)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US20080113892A1
+            (en)
+          
+*
+
+2006-11-10
+2008-05-15
+Barnhart Ronald A
+Antimicrobial wash formulations including amidoamine-based cationic surfactants 
+       
+
+
+
+US7517842B2
+            (en)
+          
+*
+
+2006-11-10
+2009-04-14
+Gojo Industries, Inc.
+Antimicrobial wash formulations including amidoamine-based cationic surfactants 
+       
+
+
+
+
+Also Published As
+
+
+
+Publication number
+Publication date
+
+
+
+
+
+
+JP2003513900A
+              (en)
+            
+
+2003-04-15
+
+
+
+EP1229893A1
+              (en)
+            
+
+2002-08-14
+
+
+
+US20020183236A1
+              (en)
+            
+
+2002-12-05
+
+
+
+WO2001034110A1
+              (en)
+            
+
+2001-05-17
+
+
+
+
+
+Similar Documents
+
+
+
+Publication
+Publication Date
+Title
+
+
+
+
+
+
+
+CN106687105B
+                (en)
+              
+
+
+2021-03-23
+
+Transparent cosmetic and personal care compositions 
+       
+
+
+
+
+US4170638A
+                (en)
+              
+
+
+1979-10-09
+
+Method for producing a deodorant 
+       
+
+
+
+
+DE69829964T2
+                (en)
+              
+
+
+2006-03-09
+
+
+  WATER FREE MONEYODORANT COMPOSITIONS
+ 
+     
+
+
+
+
+JPH05230496A
+                (en)
+              
+
+
+1993-09-07
+
+Compound perfume and aromatic composition containing same 
+       
+
+
+
+
+WO1996014827A1
+                (en)
+              
+
+
+1996-05-23
+
+Sustained-release aromatic and method of detecting microorganism by using the same 
+       
+
+
+
+
+US20060166855A1
+                (en)
+              
+
+
+2006-07-27
+
+Fragrance delivery system 
+       
+
+
+
+
+US6806250B2
+                (en)
+              
+
+
+2004-10-19
+
+Use of fatty alcohol in a perfume composition 
+       
+
+
+
+
+JP2011201834A
+                (en)
+              
+
+
+2011-10-13
+
+Gel-like composition for external use 
+       
+
+
+
+
+EP1810664B1
+                (en)
+              
+
+
+2011-03-02
+
+Coloured oily composition 
+       
+
+
+
+
+JPH0739336B2
+                (en)
+              
+
+
+1995-05-01
+
+
+  Stabilized clathrate compound and cosmetics containing the same
+ 
+       
+
+
+
+
+EP3040406B1
+                (en)
+              
+
+
+2018-04-25
+
+Method for stabilizing scent component, fragrance composition, and deodorizing composition 
+       
+
+
+
+
+JP2000095662A
+                (en)
+              
+
+
+2000-04-04
+
+Cosmetic 
+       
+
+
+
+
+JPH08231980A
+                (en)
+              
+
+
+1996-09-10
+
+Perfumary composition 
+       
+
+
+
+
+JP2000186025A
+                (en)
+              
+
+
+2000-07-04
+
+Deodorant composition 
+       
+
+
+
+
+JP2001011068A
+                (en)
+              
+
+
+2001-01-16
+
+Moisturizing agent composition 
+       
+
+
+
+
+JP5774029B2
+                (en)
+              
+
+
+2015-09-02
+
+
+  Cosmetic composition
+ 
+     
+
+
+
+
+JP5341289B2
+                (en)
+              
+
+
+2013-11-13
+
+
+  Masking agent and cosmetic containing the same
+ 
+     
+
+
+
+
+JP2936086B2
+                (en)
+              
+
+
+1999-08-23
+
+
+  Fragrance composition
+ 
+     
+
+
+
+
+FR2786408A1
+                (en)
+              
+
+
+2000-06-02
+
+Water in oil emulsion, for perfuming the skin and hair, comprises water, glycol, silicone surfactant, volatile silicone and fragrance 
+       
+
+
+
+
+JPH0967241A
+                (en)
+              
+
+
+1997-03-11
+
+Cosmetic 
+       
+
+
+
+
+JPH09175947A
+                (en)
+              
+
+
+1997-07-08
+
+Hair growth agent composition 
+       
+
+
+
+
+JPH1179967A
+                (en)
+              
+
+
+1999-03-23
+
+Agent for masking irritative smell of alcohol, alcohol containing the same and used for perfumery and cosmetic containing alcohol 
+       
+
+
+
+
+JP2000186026A
+                (en)
+              
+
+
+2000-07-04
+
+Deodorant composition 
+       
+
+
+
+
+WO1995015146A1
+                (en)
+              
+
+
+1995-06-08
+
+Aqueous scented composition 
+       
+
+
+
+
+FR3118872A1
+                (en)
+              
+
+
+2022-07-22
+
+
+  MULTIPHASE COMPOSITION COMPRISING AN ALPHA-HYDROXYACID
+ 
+       
+
+
+
+
+
+Legal Events
+
+
+
+Date
+Code
+Title
+Description
+
+
+
+
+2002-04-02
+AS
+Assignment
+
+
+Owner name:
+              FIRMENICH SA, SWITZERLAND
+
+
+Free format text:
+              ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MIMOUN, HUBERT;HOLZNER, GUNTER;PASTORI, JOEL;REEL/FRAME:012773/0705;SIGNING DATES FROM 20020320 TO 20020322
+
+
+
+
+2004-11-30
+CC
+Certificate of correction
+
+
+
+
+2008-04-28
+REMI
+Maintenance fee reminder mailed
+
+
+
+
+2008-10-19
+LAPS
+Lapse for failure to pay maintenance fees
+
+
+
+
+2008-11-17
+STCH
+Information on status: patent discontinuation
+
+
+Free format text:
+              PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+
+
+
+
+2008-12-09
+FP
+Lapsed due to failure to pay maintenance fee
+
+
+Effective date:
+              20081019
+
+
+
+
+
+
+
+
+
+
+
+
+
+

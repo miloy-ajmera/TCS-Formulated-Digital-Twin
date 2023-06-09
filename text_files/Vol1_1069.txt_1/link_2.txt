@@ -1,0 +1,176 @@
+Document Name: role of White soft paraffin in Eye Cream2
+Document link: https://go.drugbank.com/drugs/DB11058
+Petrolatum: Uses, Interactions, Mechanism of Action | DrugBank Online
+OnlineBrowse
+
+
+ Drugs
+
+
+ Starred Drugs
+
+
+ Categories
+
+
+ Pathways
+
+
+ Drug Reactions
+
+
+ Drug Classification
+
+
+ Drug Targets
+
+
+ Pharmaco-genomics
+
+
+ Pharmaco-metabolomics
+
+
+ Pharmaco-transcriptomics
+
+
+ Pharmaco-proteomicsSearch
+
+
+ Chemical Structure
+
+
+ Molecular Weight
+
+
+ Drug & Food Interactions
+
+
+ Target Sequences
+
+
+ Pharmaco-omics
+
+
+ Advanced Search
+
+
+ MS Search
+
+
+ MS/MS Search
+
+
+ GC/MS Search
+
+
+ 1D NMR Search
+
+
+ 2D NMR SearchInteraction CheckerDownloadsProducts  Navigate to DrugBank.com to check out our commercial products, use cases and more!DrugBank For Commercial Research  Drug DatasetsStructured drug data for data science & MLDrugBank For Clinical Software  Clinical APIClinical intelligence tool for your softwareFeatures  Drug SearchCustomizable drug search options  Drug-Drug Interaction CheckerSearch for drug interactions with our API  Drug AllergyGet drug allergy and cross sensitivities info  US Drug LabelsIntegrate drug manufacturer informationAbout   Help Center
+
+
+ Citing DrugBank
+
+
+ DrugBank Online FAQs
+
+
+ Searching DrugBank
+
+
+ Other Databases
+
+
+ Data Sources   About
+
+
+ About DrugBank Online
+
+
+ DrugBank in Research
+
+
+ Statistics
+
+
+ Blog
+
+
+ Wishart Research Group
+
+
+ Contact Us
+
+
+ Log inDrugs
+Targets
+Pathways
+Indications 
+
+
+  
+
+
+ Are you an Academic Researcher citing DrugBank? Join our Powered By DrugBank Academic Webinar Series.Learn More!
+
+
+
+
+
+NAV   
+
+
+ IdentificationSummaryBrand NamesNameAccession NumberBackgroundTypeGroupsSynonymsPharmacologyIndicationAssociated ConditionsAssociated TherapiesContraindications & Blackbox WarningsPharmacodynamicsMechanism of actionAbsorptionVolume of distributionProtein bindingMetabolismRoute of eliminationHalf-lifeClearanceAdverse EffectsToxicityPathwaysPharmacogenomic Effects/ADRsInteractionsDrug InteractionsFood InteractionsProductsOver the Counter ProductsMixture ProductsUnapproved/Other ProductsCategoriesDrug CategoriesAffected organismsChemical IdentifiersUNIICAS numberInChI KeyInChIIUPAC NameSMILESReferencesGeneral ReferencesExternal LinksFDA labelMSDSClinical TrialsPharmacoeconomicsManufacturersPackagersDosage FormsPricesPatentsPropertiesStateExperimental PropertiesPredicted PropertiesPredicted ADMET FeaturesSpectraMass SpecSpectraPetrolatum
+
+
+Star0IdentificationBrand NamesA+d Diaper Rash, Anbesol Cold Sore Therapy, Calazime Skin Protectant, Calmoseptine Ointment, DermaCerin, Flanders, Lubrifresh P.M., Periguard, Preparation H Cream, Preparation H Reformulated Jun 2013, Refresh Lacri-lube, Refresh PM, Resinol, Soothe & Cool Skin Paste, Soothe Night Time, Stye, Systane, Systane Nighttime, Tears Again Ointment, Vusion, ZincofaxGeneric NamePetrolatumDrugBank Accession NumberDB11058BackgroundA colloidal system of semisolid hydrocarbons obtained from petroleum. It is used as an ointment base, topical protectant, and lubricant.
+TypeSmall MoleculeGroupsApproved, InvestigationalSynonyms
+
+
+
+
+
+Multi-hydrocarbonParaffinum albumParaffinum flavumPetrolatumPetrolatum basePetrolatum, whitePetrolatum,amberPetrolatum,whitePetroleum jellySoft paraffinWhite petrolatumWhite, soft paraffinYellow soft paraffinPharmacologyIndicationFor use as an over the counter skin protectant Label. Commonly used to treat diaper rash and chapped lips Label 1.
+Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See howAssociated Conditions
+
+
+
+
+
+Dermabrasion
+Diaper Rash
+Dry Skin
+Itching of the perianal area
+Pain
+Skin Irritation
+Burning skin sensation
+Minor burnsAssociated TherapiesSkin protectantContraindications & Blackbox WarningsAvoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn morePharmacodynamicsDisplaces water and acts as a barrier against harsh environmental conditions like wind Label 1.
+Mechanism of actionNot AvailableAbsorptionNot AvailableVolume of distributionNot AvailableProtein bindingNot AvailableMetabolismNot AvailableRoute of eliminationNot AvailableHalf-lifeNot AvailableClearanceNot AvailableAdverse EffectsImprove decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn moreToxicityNot AvailablePathwaysNot AvailablePharmacogenomic Effects/ADRs 
+
+
+Not AvailableInteractionsDrug Interactions 
+
+
+This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. Not AvailableFood InteractionsNo interactions found.ProductsDrug product information from 10+ global regionsOur datasets provide approved product information including:dosage, form, labeller, route of administration, and marketing period.Access now  Access drug product information from over 10 global regions.Access nowOver the Counter ProductsNameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImageA and DOintment76 g/100gTopicalSafetec of America, Inc.2019-11-01Not applicableUSA and DOintment937.5 mg/1gTopicalHenry Schein, Inc.2011-12-042024-09-01USA and DOintment0.93 g/1gTopicalGentell, Inc.2019-05-25Not applicableUSA and DOintment937.5 mg/1gTopicalH&H Laboratories, Inc.2012-05-14Not applicableUSA and D plus EOintment0.9985 g/1gTopicalGentell, Inc.2014-11-03Not applicableUSA and D plus EOintment0.9985 g/1gTopicalGentell, Inc.2014-11-03Not applicableUSA and D plus EOintment937.5 mg/1gTopicalH&H Laboratories, Inc.2012-05-14Not applicableUSAdvaced First Aid A and DOintment937.5 mg/1gTopicalAdvanced First Aid, Inc.2015-04-07Not applicableUSAdvanced HealingOintment340 mg/100gTopicalEquate2013-08-27Not applicableUSAdvanced HealingOintment410 mg/1gTopicalRetail Business Services, LLC2022-12-19Not applicableUSMixture ProductsNameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImage7 Select Hemorrhoidal Original StrengthPetrolatum (749 mg/1g) + Mineral oil (140 mg/1g) + Phenylephrine hydrochloride (2.5 mg/1g)OintmentTopical7-ELEVEN, INC.2016-12-07Not applicableUSA and D Diaper Rash and Skin ProtectantPetrolatum (0.53 mg/1g) + Lanolin (0.15 mg/1g)CreamTopicalNatureplex, LLC2014-11-12Not applicableUSA and D First AidPetrolatum (469.9 mg/1g) + Lanolin (136.4 mg/1g)OintmentTopicalBayer HealthCare LLC2003-06-04Not applicableUSA and D First AidPetrolatum (469.9 mg/1g) + Lanolin (136.4 mg/1g)OintmentTopicalDelpharm Montreal Inc.2003-06-04Not applicableUSA and D OriginalPetrolatum (469.9 mg/1g) + Lanolin (136.4 mg/1g)OintmentTopicalBayer Healthcare Llc.2009-12-25Not applicableUSA and D OriginalPetrolatum (469.9 mg/1g) + Lanolin (136.4 mg/1g)OintmentTopicalDelpharm Montreal Inc.2003-06-04Not applicableUSA D and L Original Diaper Rash SkinPetrolatum (53.4 g/100g) + Lanolin (15.5 g/100g)OintmentTopicalHarmon Stores2014-09-01Not applicableUSA+d Diaper Rash OintmentPetrolatum (53.4 % w/w) + Lanolin (15.5 % w/w)OintmentTopicalSchering Plough1998-07-082014-07-31CanadaAbridge Cold Sore TreatmentPetrolatum (892 mg/1g) + Menthol (10 mg/1g) + Phenol (15 mg/1g) + Synthetic camphor (30 mg/1g)CreamTopicalRanir LLC2020-02-24Not applicableUSAlexander's Rash Ease - for BabiesPetrolatum (88.7 %) + Zinc oxide (5 %)CreamTopicalAltacomp Enterprises Inc2010-05-29Not applicableCanadaUnapproved/Other Products 
+
+
+NameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImageAntiscarPetrolatum (3 g/100g) + 13-cis-12-(3'-Carboxyphenyl)retinoic acid (2 g/100g) + Allantoin (2 g/100g) + Epigallocatechin gallate (.3 g/100g) + Onion (.5 g/100g)PatchTopicalBasiem2015-04-012015-04-20USElgoalin HISENGPetrolatum (35 g/100g) + Mineral oil (55 g/100g)LiquidTopicalElgoalin Bio Co.,Ltd2022-04-18Not applicableUSElitePetrolatum (30 g/100g) + Allantoin (2 g/100g) + Lidocaine (4 g/100g)PatchTopicalMeds Direct Rx Of Ny Llc2015-01-312015-06-08USHerpetrolPetrolatum (970 mg/1g) + Benzalkonium chloride (1.3 mg/1g) + Menthol (10 mg/1g)OintmentTopicalAlva-Amco Pharmacal Companies, Inc.2005-06-302018-01-31USPCP 100 KitPetrolatum (0.76 g/1g) + Bisacodyl (5 mg/1) + Magnesium citrate (1.745 g/29.6mL) + Metoclopramide hydrochloride (10 mg/1) + Polyethylene glycol (17 g/17g)KitOralAsclemed Usa, Inc.2014-01-02Not applicableUSPreginotPetrolatum (30 g/100g) + Allantoin (2 g/100g) + Lidocaine (4 g/100g)PatchTopicalPharmaco Technology Llc2015-04-012015-04-01USPremium Scar PatchPetrolatum (30 g/100g) + Allantoin (2 g/100g) + Lidocaine (5 g/100g)PatchTopicalAlivio Medical Products, Llc2015-03-15Not applicableUSRenuu NLPetrolatum (30 g/100g) + Allantoin (2 g/100g)PatchTopicalPatchwerx Labs2014-04-15Not applicableUSRenuu PatchPetrolatum (30 g/100g) + Allantoin (2 g/100g) + Lidocaine (5 g/100g)PatchTopicalPatchwerx Labs2014-04-15Not applicableUSScar PatchPetrolatum (30 g/100g) + Allantoin (2 g/100g) + Lidocaine hydrochloride (4 g/100g)PatchTopicalBinger Consulting Corporation2014-12-012015-11-30USCategoriesDrug CategoriesBasic Ointments and Protectants
+Compounds used in a research, industrial, or household setting
+Dermatologicals
+Emollients
+Ointment Bases
+Pharmaceutic Aids
+Pharmaceutical PreparationsClassificationNot classifiedAffected organismsNot AvailableChemical IdentifiersUNIIB6E5W8RQJ4CAS number8009-03-8InChI KeyNot AvailableInChINot AvailableIUPAC NameNot AvailableSMILESNot AvailableReferencesGeneral ReferencesFDA Monograph: Petrolatum [Link] External LinksKEGG DrugD05304PubChem Substance347911097RxNav8091Drugs.comDrugs.com Drug PageWikipediaPetroleum_jellyFDA labelDownload (230 KB) MSDSDownload (47.7 KB) Clinical TrialsClinical Trials 
+
+
+PhaseStatusPurposeConditionsCount4CompletedBasic ScienceInflammation14CompletedPreventionSkin Diseases14CompletedSupportive CareSurgical Wounds14CompletedTreatmentAtopic Dermatitis14CompletedTreatmentDiaper Dermatitis14CompletedTreatmentDiaper Rash14CompletedTreatmentDry Eye Syndrome (DES)24CompletedTreatmentPityriasis Alba14CompletedTreatmentScars, Hypertrophic14RecruitingTreatmentAtopic Dermatitis1PharmacoeconomicsManufacturersNot AvailablePackagersNot AvailableDosage FormsFormRouteStrengthOintmentTopical0.93 g/1gOintmentTopical937.5 mg/1gOintmentTopical0.9985 g/1gOintmentTopical0.340 g/1gOintmentTopical340 mg/100gCreamTopical54 g/100gOintmentTopical43 g/100gSprayTopical36 g/100gOintmentTopical430 mg/1gSprayTopical360 mg/1gJellyTopical99.8 g/100gJellyTopical99.5 g/100gOintmentTopical0.42 g/1gOintmentTopical100 g/44.28gLotionTopicalOintmentTopical41 %OintmentTopical0.934 g/1gOintmentTopical540 mg/1gOintmentTopical703 mg/1gOintmentTopical54 mg/1gOintmentTopical60.1 %PasteTopical74.69 %OintmentTopical46.5 % w/wCreamTopical99 g/100gOintmentTopical99.93 % w/wOintmentTopical84.3 g/100gOintmentTopical84.3 % w/wOintmentTopical84.3 %OintmentTopical0.511 g/1gOintmentTopical511 mg/1gCreamTopical430 g/1000gOintmentTopical960 mg/1gOintmentTopical620 mg/1gStickTopicalCreamTopical30 %OintmentTopical34.85 g/85gStickTopical41 mg/1gOintmentTopical43.75 mg/1gOintmentTopical.96 g/1gSalveTopicalCreamTopical0.61 g/1gOintmentTopical46.5 g/100gOintmentTopical715 mg/1gCreamTopical13.2 %LipstickTopical619.3 mg/1gKit; stickTopicalKit; stickTopical450 mg/1gStickTopical450 mg/1gKitTopicalGelTopicalStickOralJellyTopicalJellyTopical1 g/1gJellyTopical998 mg/1gSalveTopical27.6 g/28.4gLotionTopical5 g/100gCreamTopical30 g/100mLPasteTopicalJellyTopical30 g/100gJellyTopical.30 mg/100gJellyTopical.30 g/100gCreamTopical30 g/100gOintmentTopical710 mg/1gOintmentTopical71.5 % w/wOintmentTopical865 mg/1gOintmentTopical98.3 % w/wCreamTopical300 mg/1mLOintmentTopical410 mg/1gOintmentTopical.041 g/.1gCreamTopical33 g/100gOintmentTopical70.3 % w/wJellyTopical99 g/100gJellyTopical98.3 g/100gCreamTopical85 %OintmentTopical85 g/100gOintmentTopical33 g/100gOintmentTopical44 g/100gOintmentTopical713 mg/1gOintmentTopical703.2 mg/1gCreamTopical30 % w/wOintmentTopical30 %JellyTopical226 g/226gOintmentTopical124 g/207mLOintmentOphthalmicEmulsionTopical56.8 mg/1gLotionTopical28.4 g/50gCreamTopical28.4 g/50gCreamTopical56.8 mg/1gGelTopical1 g/85gOintmentTopical600 g/1000gOintmentTopical77.6 g/1000gOintmentTopical0.41 g/1gStickTopical45.0 mg/1gKitOphthalmicOintmentTopical40 g/100gLipstickTopicalGelTopical70.9787 g/71gOintmentTopical87.32 g/118gCreamRectal; TopicalOintmentTopical45 g/100gOintmentTopical30 g/100gOintmentTopical450 mg/1mLCreamTopical50.74 g/100gOintmentTopical340 mg/1gOintmentTopical340 g/1gOintmentTopical41 kg/1gOintmentTopical41 kg/100kgOintmentTopical46.5 %StickTopical670 mg/1gOintmentRectal93.3 g/100gLipstickTopical47.95 g/100gLiquidTopical89.5 g/100gOintmentTopical41.000 g/100gOintmentTopical41 % w/wCreamTopical20 g/100gCreamTopical45 g/100gCreamTopical52.2 g/100gGelTopical300 mg/1mLCreamTopical430 mg/1gOintmentTopical430 mg/1mLKitNot applicableOintmentTopical76 g/100gOintmentTopical48 g/100mLStickTopical32.3 g/100gJellyTopical1000 mg/1gStickTopical59.79 %OintmentTopical935 mg/1gOintmentTopical95 g/100gOintmentRectal; TopicalOintmentTopical60.3 % w/wOintmentTopical604 mg/1mLOintmentTopical60.3 mL/100mLSprayTopical36 g/120mLSprayTopical36 mL/120mLOintmentTopical69 % w/wOintmentTopical99.397 g/100gOintmentTopical99.9 g/100gOintmentTopical774 mg/1gCreamTopical95.96 %OintmentTopical95.7 % w/wStickTopical30 g/100gStickTopical1.26 g/4.2gStickTopical45 mg/1gOintmentTopical0.41 mg/1gOintmentTopical600 mg/1mLKitOralOintmentTopical49.9 g/100gJellyTopical170 g/170gGelTopical100 g/1gCreamTopical69 mg/1gOintmentTopical10 g/10gOintmentTopical600 mg/1gOintmentTopical100 % w/wJellyTopical1 mg/1gJellyTopical100 g/100gJellyTopical1000 mg/100gJellyTopical82.32 mg/1gJellyTopical838 g/1gJellyTopical99.8 g/100kgJellyTopicalOintmentTopicalOintmentTopical15 g/30gOintmentTopical99.99 % w/wJellyTopical99.9 g/100gJellyTopical99.9 1/100gJellyTopical100 %OintmentTopical99.6 % w/wGelTopical99.9 g/100gPaste650 mg/1mLOintmentTopical14 %CreamTopical67 %OintmentTopical99.5 g/100gOintmentTopical93.4 g/100gOintmentTopical75 g/100gOintmentTopical98.79 % w/wOintmentTopical98.85 % w/wOintmentTopical0.99 g/1gCreamTopical0.6 g/1gJellyTopical0.99 g/1gLiquidTopicalCloth; cream; kitTopicalOintmentTopical500 mg/1gPasteTopical59 g/100gPasteTopical57 g/100gOintmentTopical83 mg/1gOintmentTopical86 mg/1gCreamTopical41 g/100gJellyTopical410 mg/1gOintmentTopical41 g/100gOintmentTopical420 mg/1gJellyTopical41.0 g/100gOintmentTopical987.89 mg/1gCreamRectalCreamTopicalGelTopical99.98 mg/1gCreamTopical43 g/100gLotionTopical39.9 g/133mLOintmentTopical93.5 g/100gCreamTopical43 g/1000gOintmentTopical44.28 g/100gOintmentTopical23 g/71gJellyTopical225 g/225gJellyTopical110 g/110gSolutionTopical200 mlOintmentTopical92.8 %OintmentTopical92.8 g/100gOintmentTopical98.3 g/100gGelOphthalmicCreamTopical55 %JellyTopical99.7 g/100gCreamCutaneous65 g/100gOintmentRectalJellyTopical99.6 g/100gOintmentTopical99.96 % w/wOintmentTopical100 g/100gGelTopical100 %JellyTopical99.96 g/100gPatchTopicalOintmentTopical.948 mL/1mLOintmentTopical.948 g/1gOintmentTopical0.948 mL/1mLOintmentTopical30.8 g/56gOintmentTopical929.3 mg/1gOintmentTopical.75 g/1gOintmentTopical.76 g/1gOintmentTopical0.76 g/1gOintmentTopical.93 g/1gOintmentTopical930 mg/1gOintmentTopicalOintmentTopical93 g/100gOintmentTopical465 mg/1mLLotionTopical0.41 g/1gOintmentTopical42 g/100gCreamTopical100 g/100gOintmentTopical1 g/1gOintmentTopical5 [USP'U]/5gOintmentTopical50 g/100gOintmentTopical100 %OintmentTopical99.9 %OintmentTopical1000 mg/1gStickTopical30.0 mg/1gCreamTopical99.7 g/100gJellyTopical38 g/127gCreamTopical59 g/198gJellyTopical100 kg/100kgPricesNot AvailablePatentsPatent NumberPediatric ExtensionApprovedExpires (estimated)RegionUS8147852No2012-04-032028-03-30USPropertiesStateSolidExperimental PropertiesPropertyValueSourcemelting point (°C)38-60MSDSwater solubilityInsolubleMSDSPredicted PropertiesNot AvailablePredicted ADMET FeaturesNot AvailableSpectraMass Spec (NIST)Not AvailableSpectraNot Available×Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   Drug created at December 03, 2015 16:51 / Updated at April 30, 2023 03:04 Product Image×Show full imageInterested in using DrugBank in a commercial product or application?Visit DrugBank.com   Stay up-to-date with the latest from DrugBank!SubscribeThank you for subscribing!AboutAbout DrugBank OnlineBlogWishart Research GroupCareersTerms of UsePrivacy PolicySupportHelp CenterDrugBank Online FAQsContact SupportProductsCommercial Drug DatasetsAcademic Drug DatasetsClinical APIContact Sales
+
+
+
+
+
+
+
+
+Website design by Educe Design & Innovation Inc.

@@ -1,0 +1,738 @@
+Document Name: role of ABIL WE-09 in Barrier Cream3
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8233730/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Emulsion-Based Multicompartment Vaginal Drug Carriers: From Nanoemulsions to Nanoemulgels - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Int J Mol Sci
+
+
+                    PMC8233730
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (2.2M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Int J Mol Sci
+
+
+                    PMC8233730
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Int J Mol Sci. 2021 Jun; 22(12): 6455. Published online 2021 Jun 16.  doi: 10.3390/ijms22126455PMCID: PMC8233730PMID: 34208652Emulsion-Based Multicompartment Vaginal Drug Carriers: From Nanoemulsions to NanoemulgelsMichał Smoleński, Bożena Karolewicz, Anna M. Gołkowska, Karol P. Nartowski, and  Katarzyna Małolepsza-Jarmołowska*Axel T. Neffe, Academic EditorAuthor information Article notes Copyright and License information DisclaimerDepartment of Drug Form Technology, Wroclaw Medical University, Borowska 211 A, 50-556 Wroclaw, Poland; lp.corw.demu.tneduts@iksneloms.lahcim (M.S.); lp.corw.demu@zciwelorak.anezob (B.K.); lp.corw.demu.tneduts@akswoklog.anna (A.M.G.); lp.corw.demu@ikswotran.lorak (K.P.N.)*Correspondence: lp.corw.demu@akswolomraj-azspelolam.anyzratakReceived 2021 May 20; Accepted 2021 Jun 11.Copyright © 2021 by the authors.Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).Associated DataData Availability StatementNot applicable.AbstractIn order to overcome the limitations associated with vaginal administration of drugs, e.g., the short contact time of the drug form with the mucosa or continuous carrier wash-out, the development of new carriers for gynecological use is necessary. Furthermore, high individual anatomical and physiological variability resulting in unsatisfactory therapeutic efficacy of lipophilic active substances requires application of multicompartment drug delivery systems. This manuscript provides an up-to-date comprehensive review of the literature on emulsion-based vaginal dosage forms (EVDF) including macroemulsions, microemulsions, nanoemulsions, multiple emulsions and self-emulsifying drug delivery systems. The first part of the paper discusses (i) the influence of anatomical-physiological conditions on therapeutic efficacy of drug forms after local and systemic administration, (ii) characterization of EVDF components and the manufacturing techniques of these dosage forms and (iii) methods used to evaluate the physicochemical and pharmaceutical properties of emulsion-based vaginal dosage forms. The second part of the paper presents (iv) the results of biological and in vivo studies as well as (v) clinical evaluation of EVDF safety and therapeutic efficacy across different indications.Keywords: vaginal formulations, vaginal drug delivery, emulsion-based dosage forms, vaginal administration, drug carriers for gynecology1. IntroductionThe vaginal route of drug administration has been commonly used for many years in contraceptive delivery methods and the treatment of local vaginal infections in the form of vaginal solutions, ointments, pessaries, rings, suppositories and tablets [1]. However, in order to overcome limitations related to intravaginal drug administration, i.e., short contact time with mucosa, constant washing-out by vaginal discharge, low volume of vaginal discharge and high individual anatomical and physiological variability, there is a need for novel gynecological formulations development, such as hydrogels, films, micro- and nanoemulsions or nanoparticles-based drug delivery systems [2,3,4,5,6,7,8,9,10]. The vaginal route as a potential way for systemic drug delivery has also been considered [11]. Nonetheless, there are several limitations affecting drug bioavailability after intravaginal application related to physiological factors of female genitals and physicochemical properties of the drug itself [11]. The drug absorption process from the vaginal lumen has two main steps—drug dissolution in the vaginal discharges and the mucosa drug penetration stage [12]. The ideal vaginal product should be water soluble, able to penetrate biological membranes and be resistant to washing out. As a result, most technological studies are focused on the development of easy to administer, highly mucoadhesive formulations [3,10,13]. Emulsions, as multi-compartment preparations, in contrast to conventional hydrophilic formulations, allow the simultaneous vaginal application of hydrophilic and lipophilic substances, reducing the risk of pharmaceutical incompatibilities. Furthermore, emulsion-based vaginal dosage forms (EVDF) in comparison to hydrophilic carriers exhibit favorable formulation properties for vaginal administration, i.e., increased retention time at the application site and controlled penetration of active substances through the vaginal mucosa [2,3,5,6,10].This review aims at providing the readers with a comprehensive analysis of the composition, manufacturing methods and evaluation methodology of emulsion-based vaginal dosage forms as well as the therapeutic effects achieved after administration of these formulations. For this purpose, Scopus and Web of Science databases were searched, using the intravaginal, vaginal, gynecological, emulsion, microemulsion, nanoemulsion, multiple emulsion, SEDDS (Self-Emulsifying Drug Delivery Systems), *vagin* and *emuls* keywords and limiting the period time from 2000 to 2020. Examples of EVDF have already been briefly discussed in the context of mucoadhesion and vaginal formulations, however, to the best of our knowledge, this is the first review which provides the current status of multicompartment emulsion-based vaginal dosage forms, enabling this group of colloidal formulations to stand out from other available topical formulations [3,4,10,14,15].2. The Anatomical and Physiological Aspects Intravaginal Drug Application2.1. Vaginal AnatomyWhen designing a novel vaginal drug form, anatomical and physiological aspects must be considered. These include the properties of the vaginal environment (e.g., pH, volume of vaginal discharge or the presence of microorganisms), its total inner surface, the vaginal vascularization and mucus structure. The vagina is a part of the female internal genitalia, located in the pelvis minor and described as an extensible, collapsible, fibromuscular, curved tube connecting the uterus (cervix) with the vulval vestibule [16,17]. The vagina is attached at its upper end to the uterus above the cervix. The spaces between the vagina and the cervix called fornices consist of anterior, lateral and posterior parts [18]. The vagina is 6–12 cm long and 2.1–5.0 cm wide. As the posterior vaginal wall is attached to the uterus higher than the anterior wall, the length of the posterior part is 8–12 cm and the length of the anterior part is 6–9 cm. Vaginal length is age-dependent and shortens by ca. 0.08 cm per 10 years with menopause enhancing this process [18,19]. Vaginal walls are in apposition so that in the cross-section vaginal lumen is centrally flattened and broadens towards the ends, and thus, the cross-section of vagina reminds the shape of letter H [19]. The H-shaped cross-section of the vagina comes from central flattening of the vaginal lumen with broadening towards the ends. The thin vaginal wall consists of three layers. The inner layer is the vaginal mucosa formed of nonkeratinized, squamous epithelium which is connected to the middle layer—lamina propria—composed of collagen and elastic tissue with significant vascular and lymphatic circulation surrounded by the smooth muscle coating. The third layer is the outer fibrous layer—tunica adventitia—which contains large plexus of blood vessels [1,18,19]. The anatomy of the female reproductive system is shown in Figure 1.Open in a separate windowFigure 1The vaginal anatomy with its wall structure (adapted from [18]).2.2. Vascularization of the VaginaThe vagina has a vast anastomotic vascular system which is connected with the uterine artery, branch of the internal iliac artery or vesical or rectal venous plexuses. Extensive vascular networks from the middle and upper regions of the vagina are connected to inferior vena cava bypassing hepatic blood circulation which, in consequence, lowers the impact of hepatic metabolism (i.e., first pass effect) on the drug plasma concentration after intravaginal application [12,19]. On the other hand, vast connections of the vaginal vascular system with the uterus are responsible for the so-called first uterine pass effect (FUPE) and accumulation of the drug in the uterus. FUPE is well described for hormones, i.e., measured concentrations of progesterone are higher in endometrial tissues and lower in blood plasma after intravaginal administration in comparison to intramuscular injections [20]. The described phenomena may prove beneficial in the treatment of uterus cancer by reducing the risk of serious side effects related to high anticancer drug plasma concentrations after systemic application. On the other hand, uterus accumulation of narrow therapeutic index drugs (NTI-drugs), e.g., cytostatic agents administered in the adjuvant therapy of cancer, may have a toxic effect and lead to serious side effects [7,21]. The vaginal application could also be considered as a route of systemic drug administration due to rich vascularity of the vagina [11]. Wing et al. [22] studied intravaginal delivery of misoprostol and proved higher efficiency and fewer side effects in the induction of labour and ripening of cervix compared to oral administration.2.3. Vagina Surface AreaThe unique physiological environment prevailing inside the vagina and the vaginal surface properties determine intravaginal formulations requirements for spreadability, extensibility and extended contact time of the drug with the mucosa. The total vaginal inner surface area varies across individuals, wherein the volume of vaginal lumen limits the maximum applicable dose. Early measurements and estimations of vaginal surface area displayed large discrepancies (50 and 600 cm2) that are now narrowed to ca. 360 or 390 cm2 depending on the measuring method [14]. Differences arise from the increase of vaginal mucosa surface in reproductive-aged women by the folds and microridges called the rugae which cover epithelial cell surface especially in the lower third of the vagina. The size of vaginal epithelium changes additionally during the menstrual cycle due to estrogen sensitivity. In summary, the formulation contact surface area with vaginal mucosa depends on individual factors, e.g., age, stage of the menstrual cycle and depth of application into the vagina, due to the presence of folds in different parts of the organ [1,10,18,19].2.4. Vaginal Mucosa and Vaginal DischargeAnother factor influencing the drug absorption process after intravaginal application is the three-layer construction of the vaginal wall and the presence of an internal mucosa layer deprived of secretion glands. A thin layer of vaginal discharge (ca. 1–2 mL) on the surface of vaginal walls is constantly present providing the lubrication for the vagina. However, no exact data on ambient vaginal discharge volume is available. Mean production of vaginal secretions is ca. 1.5–2.0 mL per 8 h, up to 6.0 mL per day. The vaginal discharge volume is directly proportional to the estrogen level and inversely proportional to the progesterone level [23]. Furthermore, sexual stimulation enhances the production of vaginal discharge up to 2.8 mL per hour [24]. The discharge origins in the vaginal venous plexus, where it is secreted by the cervical and Bartholin glands through transduction, and is primarily composed of water, 1–2% of mucin and electrolytes including sodium (Na+) and potassium (K+) [14,18,19,24]. Mucin is one the most abundant glycoprotein in the vaginal mucus layer and it is responsible for the gel-like mucus mesh properties formed from negatively charged mucin fibers. Average vaginal discharge pH is between 3.8 to 4.5, however other reports expand the normal pH value of vaginal discharge from 3.4 to 6.4, with an average pH at 4.7 [19]. The acidity of the vaginal environment is controlled by the constant secretion of lactic acid by Lactobacillus spp. bacteria [25]. Vaginal discharge pH may be affected by age, hormonal stimulation during menstruation, menopause, pregnancy, inflammations, composition of vaginal microbiota, presence of pathogenic microorganism and even ethnical origin and race [24,26,27,28,29,30,31,32]. The presence of vaginal discharge on the mucosal surface, including its quantity and pH, influences the drug dissolution as well as passive and active drug transport through the vaginal membrane [1,33]. Vaginal discharge pH level affects drug dissociation as pH regulates the ionization of active substances and, in consequence, has an impact on permeation of non-ionized drug through the vaginal mucosa [33]. Passive and active drug absorption processes from the vaginal lumen occur not only via transcellular and paracellular routes, but also by the means of vesicular and receptor-mediated transport [1,11,33]. In general, after vaginal application, lipophilic molecules are transported by the transcellular route, while hydrophilic substances are absorbed by paracellular diffusion. Low molecular weight lipophilic drug molecules undergo better absorption than the larger ones or hydrophilic compounds [33]. Constant secretion of the vaginal discharge and its high viscosity form a strong diffusional barrier for drug absorption [11]. In order to achieve high permeability crucial for systemic administration of a drug, low molecular weight lipophilic APIs (active pharmaceutical ingredients) should be encapsulated in water-based formulations due to hydrophilic vaginal environment and small ambient volume of vaginal discharge. Increased quantity of the discharge could enhance poorly water-soluble drugs absorption, on the other hand, the constant fluid secretion could cause the decrease of API bioavailability as a result of formulation wash-out.2.5. The Influence of Vaginal MicrobiotaThe vaginal microbiota controls the acidity of vaginal secretions through the lactic acid production [25]. The most abundant group of vaginal microbiota are the Lactobacillaceae spp. (28.1%), followed by Bifidobacteriaceae spp. (10.1%) and Prevotellaceae spp. [34]. L. crispatus and L. iners are the most commonly reported within Lactobacillus spp. in women of reproductive age, but L. jensenii and L. gasseri presence has also been described [35,36]. In most cases one or two of Lactobacillus species, rather than many different species, are isolated from the vagina of a particular patient [36]. The vaginal lactobacilli apart from acidification have the ability to produce hydrogen peroxide and bacteriocins which eradicate pathogenic microorganisms [37]. Composition of vaginal microbiota undergoes dynamic changes as a consequence of ageing, pH changes, hormonal status, ethnicity, genetic background and exogenous factors, i.e., administered medicines, contraceptive method as well as sexual, behavioral and hygiene practices, diet or stress [38,39]. There are variances in the pregnant and non-pregnant women microbiota composition which can be used for early prediction of pre-term births [40,41,42]. Slight changes in microbiota composition were also observed in patients with deep endometriotic lesions [43].3. Technological Aspects of Vaginal Formulations DevelopmentBased on the anatomical and physiological aspects of the intravaginal drug administration route, the optimal intravaginal formulation should (a) enable the delivery of low molecular weight hydrophilic or lipophilic compounds as they have the highest absorption rates due to their transport mechanism; (b) be partially water-soluble due to the aqueous properties of the vaginal discharge; (c) be easy to administer; (d) have bioadhesive properties in order to prevent washing-out from the vaginal lumen [14,44]. Another influential property of an intravaginal drug formulation is its osmolarity. Based on WHO recommendations for lubricants [45], the intravaginal formulations should have pH of about 4.5, while their osmolarity should be below 1200 mOsm/kg and ideally not exceed 380 mOsm/kg. Machado et al. analyzed the osmolarity of market-available semi-solid formulations, i.e., creams and gels for intravaginal drug delivery with antifungal azoles, antibacterials and estrogens [46]. Authors concluded that hypotonic formulations < 260 mOsmol/kg increase particles penetration through the mucus layers leading to improved and rapid drug absorption. These formulations are also considered safer for vaginal epithelium due to the reduction of time needed to obtain the effective drug concentration and therapeutic effect [46,47]. It has been reported that hyperosmolar vaginal dosage forms with microbicide could cause vaginal irritations, increase toxicity and infection susceptibility to, e.g., HSV-2 [47,48].Size of drug carrier particles in the formulation also affects the penetration of APIs through the mucus layer [14,49]. Particles within the range of 200–500 nm penetrate cervicovaginal mucus in a more efficient way than particles sized around 100–150 nm. In turn, particles smaller than 100 nm enter pocket-like mucus mesh channels where they are immobilized. Larger particles with sizes ranging 200–500 nm are too big to enter the pocket-like channels, so they penetrate mucus mesh more rapidly [49,50,51]. Frey et al. and Ponchel et al. [52,53] found that particles greater than 1000 nm are not able to enter channels in the gastrointestinal mucus mesh. The studies on vaginal mucus mesh are limited, however structural similarities between different types of mucus have been shown, hence the possible application of these findings in relation to vaginal mucus mesh. Additionally, not only the size of drug vehicles matters but also the chemical composition of the vehicle surface [14]. Lipophilic drugs are immobilized in the mucus mesh due to the electrostatic and hydrophobic interactions between mucins fibers and lipophilic vehicles. The nature of this phenomenon was analyzed by Lai et al. and Wang et al. by anchoring hydrophilic and neutrally charged motifs on a hydrophobic polystyrene surface. In this case addition of hydrophilic polymers forms a “slippery surface” by the reduction of hydrophobic interactions between the hydrophilic PEG-coated particles and the hydrophobic mucin fibers, resulting in rapid penetration of the particles through the cervicovaginal mucus [49,54,55]. Ensign et al. also highlighted hydrophobic interactions as a barrier to nanocarriers [51].The bioadhesion of a vaginal formulation to the vaginal mucus can be enhanced by the addition of positively charged polymers, e.g., N-trimethyl chitosan. This process takes advantage of electrostatic attraction between the negatively charged mucin and the positively charged polymer particles. Enhanced binding to the mucins results in an increased resistance to formulation wash-out after application [56,57]. The summary of optimal API and formulation properties is presented in Table 1.Table 1API and formulation properties imperative to vaginal drug delivery forms development [14,44,45,46,47,48,49,50,51,52,53,54,55,56,57].
+PropertiesAPI
+low molecular weight hydrophilic or lipophilic compounds
+Formulation
+water-solublebioadhesivereduced hydrophobic interactions (details in Section 3)increased viscosity or thermogelling propertieseasy administrationpH ≈ 4osmolarity < 1200 mOsm/kg, ideally < 380 mOsm/kginner phase particle/droplets size in the range:
+○100–150 nm—formulations intended to act within the vaginal mucus○200–500 nm—formulations intended to penetrate through the mucus to the vaginal epithelium○>1000 nm—formulations intended to act on the surface of vaginal mucus
+Open in a separate window3.1. Emulsions–Based Vaginal Dosage Forms (EVDF)In 1972 Everett defined O/W emulsion as disperse systems, where the continuous phase is an aqueous solution (W) in contrary to W/O, where a continuous phase is an oil or other organic liquid (O) [58]. Following the IUPAC Gold Book, an emulsion is defined as a fluid colloidal system in which liquid droplets and/or liquid crystals are dispersed in a liquid [59].The addition of surfactants and cosurfactants (Smix) is required to obtain such colloidal systems. Emulsions are classified according to their droplet size (macro- vs. microemulsions) and composition of both continuous and inner phase (e.g., O/W or W/O). However, thermodynamic and kinetic stability needs to be considered while distinguishing between micro- and nano-emulsions [60,61,62,63,64,65,66,67,68,69,70,71]. Pre-emulsions, on the other hand, are defined as a self-emulsifying drug delivery system (SEDDS), forming emulsion in situ after dilution with aqueous media [72]. The terms self-emulsifying drug delivery system (SEDDS), self-microemulsifying drug delivery systems (SMEDDS) or self-nanoemulsifying drug delivery systems (SNEDDS) might be questionable from a physical point of view as spontaneous formation of an emulsion is a characteristic of a microemulsion and low-energy emulsification might be misinterpreted as a self-emulsification process [67].In this review we use ‘SEDDS’, ‘SMEDDS’ and ‘SNEDDS’ following the definition proposed by Pouton as pre-formulations of an isotropic mixture of oils and surfactants which form emulsions after contact with body fluids [72]. The classification and characteristics of emulsion-based dosage forms are presented in Table 2.Table 2Classification and characteristic of the emulsion-based dosage form [58,59,60,61,62,63,64,65,66,67,68,69,70,71,72].Type of FormulationMacroemulsionMicroemulsionNanoemulsionMultiple EmulsionSEDDS a
+Appearance
+MilkyTransparentTranslucent or transparentMilkyDepending on the vehicle b
+Droplet size
+>500 nmTypically < 1000 nm<500 nm>1000 nm<100 nm
+Droplet shape
+SphericalSpherical and non-sphericalSphericalMultiple dropletsSpherical and non-spherical a
+Polydispersity
+Often highOften low (single, narrow distribution peak)Low or moderate (single or multiple distribution peaks)Often highOften low a
+Stability
+Thermodynamically and kinetically unstableThermodynamically stableKinetically stableOften thermodynamically and kinetically unstable-
+Manufacturing methods
+High and low-energy methodsSpontaneous formationHigh and low-energy methodsTwo-steps low-energy processSpontaneous formation aOpen in a separate windowa This column covers properties of SMEDDS and SNEDDS listed in Section 3.1, data are given for formulations diluted with aqueous media; b formulation properties before a dilution with aqueous media.Given that emulsions consist of two phases, aqueous and oil, they have the ability to deliver lipophilic and hydrophilic APIs simultaneously. Depending on the type of emulsion, it is possible to obtain droplets size in the range of nano- to micro-meters enabling to control mucus barrier penetration. The drug membrane penetration can also be enhanced by the use of medium- and long-chained mono/triglycerides as the oil phase or an addition of nonionic surfactants and cosurfactants. Additionally, incorporation of API into the lipid phase has drug-protective properties against enzymatic components of mucus and fluids [73]. Figure 2 shows a comparison of the behavior between emulsion-based dosage forms and hydrophilic forms when administered vaginally, demonstrating the advantages of the emulsion-based dosage forms.Open in a separate windowFigure 2Comparison of vaginal emulsion-based and hydrophilic drug dosage forms.3.2. The Technological Aspects of Emulsion-Based Vaginal Dosage Forms3.2.1. The Vaginal Drug Dosage Form CompositionsEmulsion-based vaginal dosage forms are composed of dispersed (lipids, oils) and continuous (aqueous solutions) phases, surfactants, cosurfactants and other excipients required to control pharmaceutical properties of the formulation (see Table 3).Table 3Excipients used as the components of emulsion-based vaginal drug formulations [74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106].ExcipientsGroup/FunctionApplied ExcipientOil phaseMineral oilsParaffin oil/White VaselineVegetable oils and essential oilsCopaiba oil, Eucalyptus essential oil, Geranium oil, Lemongrass essential oil Mentha essential oil, Soybean oil, Tea Tree oilSterolsCholesterolPhospholipidsPhospholipon 90G (soybean lecithin at 90% of phosphatidylcholine)Fatty acidsOleic acidFatty acid monoestersCapryol 90 (propylene glycol monocaprylate), Cetyl palmitate, Glycerol monolaurate, Isopropyl myristate, Monoglycerides of caprylic acidFatty acid diesters/triestersCaptex 300 (medium-chain triglyceride of caprylic and capric acid), Labrafac lipophile (medium-chain triglycerides of caprylic and capric acid), Labrasol (PEG-8 caprylic/capric glycerides), other undefined medium chain triglyceridesAlkene derivatesParleam (Hydrogenated polyisobutene)Organosilicon compoundsCyclomethicon tetramer, Cyclomethicon pentamerSurfactantsNon-ionic surfactantsPolysorbates: Tween 20 (polysorbate 20), Tween 80 (polysorbate 80) Sorbitan esters: Span 60, Span 80PEG derivatives: Gelucire 44/13 (mono/dri/triglycerides and PEG-32 mono- and diesters of lauric acid), Labrasol (PEG-8 caprylic/capric glycerides), Kolliphor EL/Cremophor EL (PEG-35 castor oil), Kolliphor HS (Macrogol (15)-hydroxystearate), Kolliphor RH 40/Cremophor RH 40 (PEG-40 castor oil)Polyoxyethylene derivatives: Brij 20 (polyoxyethylene (20) cetyl ether)Polyoxypropylene derivatives: Pluronic F68 (Poloxamer 188), Pluronic F127 (Poloxamer 407)Amphoteric surfactantsAmino acid derivatives: Tego Betain F (Cocamidopropyl Betaine)Cationic surfactantsAmins: Cetylpyridinium chlorideOther surfactantsOrganosilicon compounds: Abil WE 09 (polyglyceryl-4 isostearate; Cetyl PEG/PPG-10/1 dimethicone; hexyl laurate), Abil EM 90 (Cetyl PEG/PPG-10/1 Dimethicone)Bacterial saccharides: Exopolysaccharide from B. vallismortis WF4 strain (mannose/glucose/xylose/arabinose)CosurfactantsAlcoholsEthanol, glycerol, propylene glycol, transcutol P (2-(2-ethoxyethoxy)ethanol)PhospholipidsSoy phosphatidylcholineFatty acids and their monoestersCaprylic acid, Capryol 90 (propylene glycol monocaprylate)PEGs and PEGs derivativesLabrasol (PEG-8 caprylic/capric glycerides), PEG 200, PEG 300, PEG 400PolysorbatesTween 20, Tween 80OtherGelling agentsCarbomers: CP 934 (Carbopol 934), CP 940 (Carbopol 940), CP ETD 2020 (Carbopol ETD 2020), CP U 10 NF (Carbopol Ultrez 10 NF), Tego Carbomer 341Polyoxypropylene derivatives: Pluronic F127 (Poloxamer 407)Polysaccharides: Chitosan, HPMC (hydroxypropyl methylcellulose), NaCMC (sodium carboxymethyl cellulose), Xantural (XG, xanthan gum)PreservativesBenzyl alcohol, Chlorocresol, Methylparaben, Sodium benzoatepH regulatorsLactic acid, Phosphate buffer, TriethanolamineElectrolytesMagnesium sulphate, Sodium chlorideHumectantsPropylene glycol, PEG 200Open in a separate windowOil PhaseSeveral oils have been proposed as dispersed phase in EVDF formulations including vegetable oils (i.e., copaiba oil or soybean oil), mineral oils (i.e., paraffin oil) [74], and essential oils, sterols [75], phospholipids [76,77], fatty acids, fatty acid esters, poly alcoholic fatty acid esters, alkene derivatives and organosilicon compounds (Table 3) [78,79]. Organosilicon compounds, i.e., cyclomethicone tetramer and pentamer, were used in manufacturing of water-in-silicone (W/S) macroemulsions enabling controlled release of the API from the formulation and enhanced washing-out by vaginal secretion resistance [80,81].For the preparation of vaginal microemulsions and SEDDS systems, fatty acid derivatives such as Captex® 300 (ABITEC, Columbus, USA), Capryol® 90 (Gattefossé, Saint-Priest, France), glycerol monolaurate and oleic acid have been used as the oil phase components [76,77,82,83,84,85,86,87,88]. These excipients exhibited high solubility of lipophilic compounds, e.g., clotrimazole or tetrahydrocurcumin and were also selected due to their additional properties, such as strong microemulsifying properties (Capryol® 90, Gattefossé, Saint-Priest, France), anti-HIV activity (glycerol monolaurate) and low toxicity (Captex® 300, ABITEC, Columbus, USA) [76,77,82,83,84,85,86,87,88]. Cetyl palmitate and other diesters and triesters of fatty acids, e.g., Labrasol® (Gattefossé, Saint-Priest, France), triglycerides of medium-length fatty acids have also been proposed in the preparation of vaginal emulsions [76,79,82,83,84,85,86,89,90,91,92]. The medium- and long-chain mono/triglycerides are frequently utilized as the oil phase due to their advantageous safety profile and enhanced absorption of the active substance upon application to mucous membranes [73]. Furthermore, the essential oils, e.g., tea tree oil, eucalyptus oil, geranium oil, mint essential oil from M. spicata var. virdis and lemongrass oil, can act as multifunctional excipients due to their antimicrobial properties [93,94,95,96].SurfactantsSurfactants are amphiphilic chemical compounds enabling the decrease of surface and interfacial tension, i.e., the tension that forms at the interface between immiscible phases of colloidal systems [58]. Surfactants adsorb at the hydrophilic and hydrophobic phase interface, depending on their chemical structure, allowing to obtain different types of O/W or W/O emulsions. The size of the droplets, degree of polydispersity (defined as polydispersity index, PDI) as well as the kinetic and thermodynamic stability can be controlled via carefully selected mixture of surfactants and cosurfactants. The surfactants are usually classified according to their experimentally determined hydrophilic–lipophilic balance (HLB, in the range of 0–20), which is structure-based. The higher the HLB value, the more hydrophilic the surfactant. Surfactants with HLB value 0–7 form W/O emulsions, whereas wetting agents with HLB value >7 form O/W emulsions [107]. Apart from the surfactant’s chemical nature, the properties and type of the obtained emulsion are influenced by the surfactant concentration in the formulation, the so-called surfactant-to-oil ratio (SOR). In nanoemulsions containing oils of natural origin, SOR value is usually <2, whereas in the case of microemulsions, which require a steeper reduction in surface tension, the SOR is often higher (usually >2), as a result of lower ability of these systems to incorporate the dispersed phase [108,109]. Rao et al. in their study homogenized a formulation composed of lemon oil, Tween 80 and water using low, medium and high SOR values and obtained different types of emulsion systems: macro-, nano- and microemulsions, respectively [109]. The higher surfactant concentration in formulations can extend the physical stability of the emulsion, but often at the cost of reducing the hydrophilic or lipophilic phase content. In water-in-silicone oil (W/S) emulsions (see Table 4) characterized by high interfacial tension between the silicone and aqueous phases an increase in the concentration of the surfactant in the system results in a size decrease of dispersed phase droplets and an increase in their homogeneity. It occurs until a critical value of dispersed droplets size is reached for a given composition, above which further increase of the surfactant content in the formulation does not change size and homogeneity of a W/S emulsion [110].Table 4Vaginal macroemulsions, microemulsion- and nano-emulsion-based dosage forms—composition, characteristic properties and manufacturing methods.API (Indication)FormulationOil Phase/Surfactant/Cosurfactant/OthersParticle Size (nm)PDIZeta Potential (mV)Manufacturing MethodRef.
+Vaginal macroemulsions
+Benzydamine(Antibacterial/Anti-inflammatory)Emulgelwhite Vaseline, paraffin/n.a./n.a./Water phase: NaCMC, glycerol, citrate buffern.a.n.a.n.a.Mixing[106]Progesterone(n.a.)W/Semulsioncyclomethicone pentamer/Abil WE 09/glycerol/Sodium chloride1000–3000n.a.n.a.Mixing[81]Ciprofloxacin(Antibacterial)W/S emulsioncyclomethicone pentamer ortetramer/Abil WE 09/glycerol/ Sodium chloride2230–2540n.a.n.a.Mixing[80]
+Vaginal microemulsion
+-(Contraceptive)MicroemulgelCaptex 300/Cremophor EL, Phospholipon 90 G, Propylene Glycol/PEG 200/Seaspan carrageenan, Viscarin carrageenan, Sodium benzoate30–80n.a.n.a.n.a.[100]-(Contraceptive)MicroemulgelCaptex 300/Cremophor EL, Pluronic F68, Phospholipon 90G, Propylene glycol/Xanthan gum, Sodium benzoate30–80n.a.n.a.n.a.[77]Vanadocene(Contraceptive)MicroemulgelCaptex 300, Phospholipon 90G/Cremophor EL, Pluronic F68/Xanthan gum30–80n.a.n.a.n.a.[76]Fluconazole(Antifungal)MicroemulgelCapryol 90/Cremophor EL/Benzyl alcohol, chlorocresol, CP ETD 2020240.98n.aMixing[84]Clotrimazole(Antifungal)MicroemulgelCapryol 90/Cremophor EL/Benzyl alcohol, chlorocresol, CP ETD 2020480.75n.aMixing[82]Sertaconazole(Antifungal)MicroemulgelOleic Acid/Tween 80/Propylene glycol/CP 940260.550.26Mixing, dissolving API under ultrasonication[86]Tetrahydro-curcumin(Vaginal microbicide, HIV protection)MicroemulgelGycerol monolaurate/Tween 20/Transcutol P/CP U 10 NF, triethanolamine1300.18n.a.Low-energy (mixing and heating)[85]Phloretin(Anti-inflammatory)MicroemulsionOleic acid/Tween 20/Ethanol11n.an.aMixing[83]
+Vaginal nanoemulsion
+Itraconazole(Antifungal)NanoemulgelTea tree oil/Tween 20/Labrasol/CP 934, Poloxamer 407420.12−44Low-energy method (mixing)[94]Oxiconazole(Antifungal)NanoemulgelIsopropyl myristate/Cremophor EL/Ethanol/HPMC or XG or CP 934260.55−34Low-energy method (mixing)[90]Clotrimazole(Antifungal)NanoemulsionLabrafac lipophile/Labrasol/Capryol 90/Propylene glycol (aqueous phase)153–1860.37–0.85−15–−1Low-energy method (mixing, heating), High-energy method (sonication)[91]Polyphenon 60, Curcumin(Antibacterial)NanoemulgelSoybean oil/Tween 20/Propylene glycol/Chitosan2110.34−33Low-energy method (mixing), High-energy method (high-speed homogenization and ultrasonication)[98]Polyphenon 60, cranberry(Antibacterial)NanoemulgelOleic acid/Tween 20/Glycerol/Chitosan, lactic acid580.20−16Low-energy method (mixing), High-energy method (high-speed homogenization and ultrasonication)[92]Mentha essential oil(Antifungal)NanoemulgelMentha essential oil/Tween 80/PEG 400/CP 940, methylparaben, triethanolamine1780.18−32High-energy method (high-speed homogenization)[95]Nystatine(Antifungal)NanoemulsionParaffin oil/Exopolysaccharide/PEG 4001310.08−40Low-energy method (mixing), High-energy method (ultrasonication)[74]Ciprofloxacin, Polyphenon 60(Antibacterial)NanoemulsionLabrasol/Cetylperidinum chloride/Glycerol1510.2055Low-energy method (mixing), High-energy method (high-speed homogenization and ultrasonication)[79]Geranium oil(Antifungal)NanoemulgelGeranium oil/Span 80/Tween 20/Chitosan2810.3253High-energy method (high-speed and high-pressure homogenization)[93]Syngonanthus nitens (Bong.) extract(Antifungal)NanoemulsionCholesterol/Brij 20/Soy phosphatidylcholine/Chitosan, phosphate buffer1110.302Low-energy method (mixing), High-energy method (sonication)[75]Imiquimod(Cancer treatment)NanoemulsionCopaiba oil/Span 60/Tween 801900.11n.a.Low-energy method (mixing and solvent evaporation)[78]Eucalyptus essential oil (Antifungal)NanoemulsionEucalyptus essential oil/Polysorbate 80/Sorbitan monooleate680.18−9High-energy (high-speed homogenization)[96]Lemongrass essential oil(Antifungal)NanoemulsionLemongrass essential oil/Polysorbate 80/Sorbitan monooleate900.21−8High-energy (high-speed homogenization)[96]Open in a separate windown.a.—information not available.The increase of surfactant content at the cost of the hydrophilic phase may be compensated after vaginal application of small volumes of the formulation that is diluted with the secretions present in the vaginal lumen (ca. 1–2 mL) [23]. When low SOR emulsions are obtained it is possible to use a higher ratio of the oil phase, thus increasing the hydrophobic API content in the formulation and enabling for a dose decrease.When establishing the surfactant composition for EVDF additional aspects such as the API’s solubility in the chosen excipient composition and their safety profile should be considered. In order to obtain the highest possible concentration of poorly soluble active substances in the formulation the solubility studies of an API are conducted using mixtures of oil and surfactants. This may consequently be a determining factor for the choice of surfactants and cosurfactants, especially if these systems have a high SOR value [79,82,84,85,90,92,97,98,99]. As surfactants are used as spermicides with vaginal mucosa irritating properties [100], analysis of their safety profile after the vaginal application is another important criterion in the surfactant selection process. Some of the well-known non-ionic and ionic surfactants such as benzalkonium bromide, nonoxynol-9, sodium dodecyl sulphate and Triton X-100 have potential mucosal irritating activity and are rarely used in gynecological formulations [111,112,113]. Additionally, some surfactants, such as Capmul MCM, have an inhibitory effect on the growth of endogenous vaginal bacterial flora creating a risk of potential infections [114]. On the other hand, advantageous properties of surfactants such as the API permeation enhancement through the vaginal mucosa have been well-documented in the case of Polysorbate 80 and Labrasol and can be employed to improve the therapeutic efficacy of the administered drugs [73]. The list of surfactants used as components of EVDF is summarized in Table 3.Multiple emulsions are a specific case of emulsion systems whose manufacturing requires both lipophilic and hydrophilic surfactants (see Table 5). A non-ionic silicone based Abil EM 90 W/O emulsifier is the most commonly used lipophilic surfactant in the formation of internal emulsion, while a hydrophilic surfactant, e.g., poloxamer 407 provides w/o/w multiple emulsion stability by encapsulation of w/o emulsion in external aqueous phase [89,101,102,103,104]. In turn, obtaining SEDDS formulations is a difficult process due to the limited number of oil-surfactant combinations capable of forming these systems (see Table 6). This process requires numerous preliminary tests to select the type and mutual proportion of these components [115].Table 5Vaginal multiple emulsions—composition, characteristic properties and manufacturing method.API(s) (Indication)FormulationOil Phase/Lipophilic Surfactant/Hydrophilic Surfactant/OtherParticle Size (nm)PDIZeta Potential (mV)Manufacturing MethodRef.W1: benzalkonium chlorideO: octadecylamineW2: lactic acid(Antibacterial)Multiple emulsionParleam/Abil EM 90/Poloxamer 407>5000n.a.n.a.Two-step process[101]W1: benzalkonium chlorideW2: chlorhexidine(Antibacterial)Multiple emulsionParleam/Abil EM 90/Poloxamer 407/Sodium chloride>5000n.a.n.aRaynal method [71][104]W1: metronidazoleW2: Ornidazole(Antibacterial)Multiple emulsionParleam/Abil EM 90/Poloxamer 407/Magnesium sulphate>8000n.a.n.a.Raynal method [71][102]O: Clotrimazole(Antifungal)Multiple emulsion-based gelLabrafac lipophile, Cetyl palmitate/Abil EM 90, Span 60/Cocamidopropyl Betaine/Tego Carbomer 341, Sodium chloride>29,000n.a.−55Modification of Raynal method [71][89]Open in a separate windown.a.—information not available, O—oil phase, W1—internal aqueous phase, W2—external aqueous phase.Table 6Vaginal self-emulsifying drug delivery systems—composition, characteristic properties and manufacturing method.API (Indication)FormulationOil Phase/Surfactant/Cosurfactant/OthersParticle Size (nm)PDIZeta Potential (mV)Manufacturing MethodRef.UC 781(HIV-protection)SMEDDSMono- and diglycerides of caprylic acid/Cremophor RH40/PEG 300130.2532Mixing[99]Curcumin(HPV-protection)SNEDDSMedium chain triglycerides/Cremophor RH40/PEG 200, Caprylic acid, Tween 80380.35−1Mixing[105]17-α hydroxyprogesterone(Pre-term births prevention)Solid-state SNEDDS Vaginal tabletCaptex 300/Kolliphor HS/Polyvinyl alcohol, calcium silicate, microcrystalline cellulose, Kollidon CL, Magnesium stearate500.09−7Mixing, tablet formation[87]The SphK inhibitor (Pre-term births prevention)SNEDDSCaptex 300/Kolliphor HS/Dimethyl-acetamide370.05−5Mixing[88]W1: siRNA(Gene silencing)Multiple microemulsion SEDDS gelMedium chain triglycerides/Lipophilic: Cremophor RH40, Span 80; Hydrophilic: Cremophor RH 40/Lecithin (hydrophilic and lipophilic)/‘thermosensitive gel’ a1670.18−7Two-step process[103]Lawsone(Antifungal)SMEDDS hollow pessaryCapryol 90/Gelucire 44/14/Tween 80/Ovucire WL3460, beeswax120.27−11Mixing[97]Open in a separate windowa—based on information provided by the authors, gel composition was not specified, n.a.—not available, W1—internal aqueous phase.CosurfactantsCarefully selected cosurfactants can increase the stability of the obtained emulsion, reduce the size of the emulsion droplets and the required concentration of surfactant in the formulation. Cosurfactants increase the ability of the oil-surfactant system to emulsify the aqueous phase and further reduce the tension present at the hydrophilic-lipophilic interface. An example of the beneficial effect of ethylene glycol used as a cosurfactant in combination with the Cremophor EL in microemulsions and nanoemulsions with ethyl oleate as an oil phase is the achievement of a twofold reduction of the inner phase droplet size and a significant reduction of PDI compared to formulations obtained without the addition of the cosurfactant [116,117]. The commonly used cosurfactants in the EVDF include (Table 3): short-chain mono- and polyhydric alcohols [79,83,85,86,90,92,98], soybean phosphatidylcholine [75], fatty acids and fatty acid esters [91,105], polyethylene glycols and their derivatives [74,94,95,99,105] and polysorbates [78,93,97].Other ExcipientsIn emulsion-based vaginal dosage forms several other excipients such as gelling agents, electrolytes, pH regulators, humectants and preservatives (also acting as antiseptics) are frequently employed to modify pharmaceutical properties of the formulation. The addition of gelling polymers, i.e., carbomer, chitosan, hydroxypropyl methyl cellulose (HPMC), methyl cellulose (MC), sodium carboxymethyl cellulose (NaCMC), Pluronic F127, xanthan gum to the aqueous phase increase formulation viscosity enabling for improved stability, emulsion adhesiveness and contact time at the application site [76,77,82,84,85,86,89,90,92,93,94,95,98,118,119,120,121,122]. The increased viscosity of the formulation facilitates homogeneous dispersion of the droplets in the continuous phase, limits the mobility of the oil droplets and, as a consequence, prevents flocculation and creaming processes [118,119,120,121,122]. The addition of a gelling polymer results in the transformation of an emulsion into an emulgel, increasing the system’s resistance to pH level changes and oxidation [123]. The microemulgels have been the most commonly used forms among microemulsion-based vaginal dosage forms [76,77,82,84,85,86]. The addition of polymers to microemulsions reduces the mobility of the continuous aqueous phase, decelerating potential destabilization processes resulting from temperature changes and enhanced vaginal secretions after administration [67,68,124]. In multiple emulsions and SEDDS-type systems (Table 5 and Table 6) the addition of gelling polymers is limited [89,106] as minor addition of an electrolyte into the internal aqueous phase of a multiple emulsion often increases the viscosity of the formulation [125]. The electrolytes influencing the stability and rheological properties of vaginally administered multiple emulsions include magnesium sulphate or sodium chloride [89,102,104].Among other excipients used in vaginal emulsion systems the addition of lactic acid or phosphate buffers for pH regulation were reported [75,92,101], while propylene glycol and PEG 200 have been applied as humectants [77]. Benzyl alcohol, sodium benzoate, chlorocresol, methylparaben are used as preservatives [82,84,95]. The absence of preservatives in the formulation reduces the risk of vaginal mucosal irritation. On the other hand, many emulsion-based vaginal dosage forms are in the preliminary research phase, and preservatives use may only be purposeful after their full clinical evaluation of preformulation selected for further development.3.2.2. EVDF Preparation MethodsAn emulsion can be formed in a free energy associated process without the application of mechanical forces or energy. Thereby, the emulsification processes used in the vaginal drug forms technology can be divided into low-energy (spontaneous emulsification, emulsion phase inversion method, PIM, phase inversion temperature, PIT) and high-energy methods (Figure 3) [62].Open in a separate windowFigure 3EVDF preparation methods.Campaña-Seoane et al. obtained water/silicone (W/S) macroemulsions with progesterone or ciprofloxacin via a low-energy formulation preparation process, i.e., mixing the silicone phase with the aqueous phase using Unguator 2 homogenizer [80,81]. In contrast, the formation of W/O/W multiple emulsions using low-energy methods is a two-step process. In the first step inner W/O emulsion is prepared through the addition of aqueous media containing electrolytes into a mixture of oil phase and surfactants (Smix) at 80 °C under continuous stirring. In the second step the previously obtained W/O emulsion cooled to room temperature is slowly added to the external aqueous phase that contains hydrophilic surfactant(s) [71,89,101,102,104].Low-energy spontaneous emulsification generally occurs during vaginal microemulsion or SEDDS formulation [67]. The majority of microemulsion-based vaginal drug forms and some of the nanoemulsions listed in Table 4 can also be obtained using the phase titration method (PTM) or the phase inversion method (PIM). In this approach the aqueous phase is gradually added into the oil and surfactant mixture under continuous stirring. With continuous composition change the surfactant curvature evolves resulting in a W/O to O/W phase change [62,63,64,67,68,78,82,83,84,86,90,94]. PTM is used in the construction of phase diagrams during preformulation research, enabling to establish compositions using which microemulsion can be formed. In this method a mixture of an oil and Smix is slowly titrated with the aqueous phase to obtain a vaginal microemulsion with droplet size in the range of 10–190 nm [78,82,83,84,86].Mirani et al. [85] obtained tetrahydrocurcumin-loaded vaginal nanoemulsion via the phase inversion temperature (PIT) method. Both phases (oil and water) were initially heated to 45–50 °C followed by mixing and cooling to 25 °C resulting in a nanoemulsion with 130 nm droplets. The PIT method utilizes an alteration in lipophilic properties of nonionic polyoxyethylene-derivative surfactants which can be observed with temperature change—the higher the temperature, the more lipophilic and dehydrated polyoxyethylene surfactant chains become. At the phase inversion temperature (PIT), when the hydrophilic–lipophilic properties of the surfactant are in balance (also called the HLB temperature), a rapid decrease or increase of the temperature enables to obtain a kinetically stable W/O or O/W emulsion, respectively. The PIT method can be easily implemented on the industrial scale, however the stability and polydispersity of the obtained nanoemulsion depends on the experimental conditions and slow heating or cooling of the mixture from HLB temperature enhances droplets coalescence [62,63,64,67,68].According to Gupta et al. high-energy manufacturing processes are the methods with input energy density higher than 108 W/kg [62]. Among the high-energy emulsification methods used for vaginal nanoemulsion formulation the high-pressure homogenization (pressure range from 50 to 350 MPa), high-speed homogenization and ultrasonication can be distinguished [64,126]. The initial formation of a macroemulsion is required in all high-energy emulsification methods. In the next step macroemulsion droplets are disrupted via high shear forces in high-speed homogenization, turbulence in high-pressure homogenization method or bubbles cavitation in ultrasonication method [62,126]. High-pressure homogenization at 75 MPa preceded by high-speed homogenization allowed dos Santos et al. to obtain a homogenous nanoemulsion with droplets of 281 nm in a short processing time [93]. High pressure homogenization method generates a lot of heat and physical stress which may affect the formulation properties and API stability. The ultrasonication method might be more suitable for thermosensitive drugs, but it is difficult to upscale [62,64,67,68,126]. Low polydispersity of 110–130 nm oil phase droplets has been reported for vaginal nanoemulsions obtained by sonication preceded by low-energy mixing [74,75]. In contrast, nanoemulsion droplets in the range of 58–211 nm (PDI in the range of 0.20–0.34) have been obtained via ultrasonication preceded by high-speed homogenization (10 000 rpm for 25–30 min) [79,92,98]. Examples of nanoemulsions with essential oils manufactured via high-speed homogenization (15,000–17,000 rpm for 20–30 min) enabled to obtain highly homogenous formulations with 68–178 nm oil droplets diameter [95,96]. In nanoemulsion formulation using high-energy methods the surfactants should be mixed with the oil phase prior to the addition of aqueous phase. Mixing emulsion components in a different order results in macroemulsion formation [62,67,68]. Both low- and high-energy methods allow to obtain homogenous nanoemulsions with uniform size distribution of the inner phase droplets which is of importance for formulation of nanoemulsion-based vaginal drug delivery systems [75,78,94,95].3.2.3. Vaginal Emulsion-Based Drug Delivery Systems Characterization MethodsThe 10th Edition of European Pharmacopoeia (Ph. Eur.) includes the monograph ‘Vaginal solution, emulsion and suspensions’ [127] which does not contain detailed requirements concerning their properties including pH, osmolarity, droplet size of the dispersed phase, rheological properties, adhesiveness, spreadability or the release parameters of the active substance. As EVDFs are emerging formulations, in this review we summarized and described research methods that have been proposed for the evaluation of their structural and pharmaceutical properties (see Table 7). In the following sections we propose a unified set of methods which can be used to assess critical parameters of EVDFs. The described characterization methods of vaginal emulsion systems can provide guidance for researchers beginning their studies on these emerging drug delivery systems.Table 7Comparison of parameters and research methods using in evaluation of emulsion-based vaginal dosage forms properties.API(s) (Formulation)pHDroplet SizeViscosity c (Pa·s)SpreadabilityBioadhesionIn Vitro Release/PermeabilityIn Vivo StudiesRef.
+Vaginal macroemulsions
+Benzydamine(Emulgel)--Plate-plate(100–700)-in vitro, T/DF, porcine VMFranz cells-[106]Progesterone(W/S * emulsion)-MSCone-plate(21.2–186.6)-in vitro, T/DF, bovine VM, GTLUSP II/Franz cellsrats[81]Ciprofloxacin(W/S * emulsion)-MSCone-plate(1.4–17.0)(1.5–14.0)-in vitro, T/DF, GTLFranz cells and in vivorats[80]
+Vaginal microemulsion
+-(Microemulgel)-DLS+ a---rabbits[100]-(Microemulgel)-DLS+ a---rabbits[77]Vanadocene(Microemulgel)-DLSResults n.a.---rabbits, pigs[76]Fluconazole(Microemulgel)4.5 bDLSSpindle(9800 at 5 rpm)P-Pin vitro, NM, agar plate-rabbits, 11 female patients[84]Clotrimazole(Microemulgel)4.5 bDLSSpindle(9000 at 5 rpm)P-Pin vitro, NM, agar plateModified Apparatus No. 1 USP 23-[82]Sertaconazole(Microemulgel)4.2 bDLS+(2.0)P-Pin vitro, T/DF, goat VMFranz cells-[86]Tetrahydrocurcumin(Microemulgel)6.0 bDLSSpindle(11.5 at 5 rpm)TA-Dialysis bag-[85]Phloretin(Microemulsion)-DLS-----[83]
+Vaginal nanoemulsion
+Itraconazole(Nanoemulgel)5.5 b(nanoemulsion)DLSSpindle(0.91)-in vitro, T/DF, CM, in vivo (rats)Franz Cellsrats[94]Oxiconazole(Nanoemulgel)6.9 b(gel with HPMC)DLSCone-plate(8.43 at 50 rpmfor gel with HPMC)P-Pin vitro, NM, animal vaginaUSP II-[90]Clotrimazole(Nanoemulsion)5.7 bDLSCone-plate(0.041–0.042at 100/s)P-P-Franz Cells10 women—skin tolerance[91]Polyphenon 60, Curcumin(Nanoemulgel)-DLS+(0.66–141)--Dialysis bagrats[98]Polyphenon 60, cranberry(Nanoemulgel)3.7 bDLS+(>141at 0.01/s)--Dialysis cellsrats[92]Mentha essential oil(Nanoemulgel)5.2 bDLSSpindle(24.8)TAin vitro-mice[95]Nystatine(Nanoemulsion)-DLSSpindle(0.12)--Dialysis bagmice[74]Ciprofloxacin, Polyphenon 60(Nanoemulsion)-DLS---USP IIrats[79]Geranium oil(Nanoemulgel)4.4 bDLSSpindle(0.4–0.5at 50/s–0.01/s)-in vitro, T/DF, porcine VM--[93]Syngonanthus nitens (Bong.) extract(Nanoemulsion)-DLSCone-plate-in vitro, T/DF, porcine VM-rats[75]Imiquimod(Nanoemulsion)6.0 bDLS---Franz cells-[78]Eucalyptus essential oil(Nanoemulsion)5.3 bDLS----mice[96]Lemongrass essential oil(Nanoemulsion)4.6 bDLS----mice[96]
+Vaginal multiple emulsions
+W1: benzalkonium chlorideO: octadecylamineW2: lactic acid(Multiple emulsion)7.8 bMS, GACone-plate(3.2 at 100/s)----[101]W1: benzalkonium chlorideW2: chlorhexidine(Multiple emulsion)-MSCone-plate(Isosmotic condition: 0.003at 100/s)--Conductometric(NaCl as a marker)-[104]W1: metronidazoleW2: ornidazole(Multiple emulsion)W1: 5.7 bW2: 6.0 bMS---Dialysis tuberabbits[102]O: Clotrimazole(Multiple emulsion-based gel)6.5 bLDparallel plate-plate(0.29 at 100/s)P-P-Franz cells-[89]
+Vaginal Self-Emulsifying Drug Delivery Systems
+UC 781(SMEDDS)-DLS---Dialysis bag(balloon)-[99]Curcumin(SNEDDS)-DLSPlate-plate(116.3)OM-Transwell chambers-[105]17-α hydroxyprogesterone(Solid-state SNEDDS Vaginal tablet)-DLS---USP IImice[87]The SphK inhibitor(SNEDDS)-DLSSpindle(0.2-fold dilution: 0.530.4-fold dilution: 4.8at 20 rpm)--USP IImice[88]W1: siRNA(Multiple emulsion SEDDS gel)-DLS---Dialysis bagmice[103]Lawsone(SMEDDS hollow pessary)4.2–4.8 bDLSSpindle(0.956–1.023)--USP I-[97]Open in a separate window(-)—test not reported to perform; (+)—test reported to perform, method details not specified; *—water in silicon emulsion; a—authors reported that viscosity of emulgels were in the range of 1–10 Pa·s; b—potentiometric method; c—method used for viscosity measurement and provided value; CM—cellophane membrane; DLS—dynamic light scattering; GA—granulometric analysis; GTL—goat tanned leather; LD—laser diffractometry; MS—microscopy; NM—Nakamura method [128]; OM—optical method; P-P—plate-plate method; results n.a.—test performed, results not available in a paper; TA—texture analyzer; T/DF—tensile/detachment force; USP I—USP dissolution apparatus No. I; USP II—USP dissolution apparatus No. II.; VM—vaginal mucosa.pH and OsmolarityAlkaline preparations administered vaginally may contribute to the development of bacterial infections. Following the above-mentioned WHO recommendations for vaginal lubricants to avoid bacterial superinfections, it is preferable to obtain a formulation with pH below 4.5, i.e., the physiological pH of vagina. This may not be possible for pH sensitive APIs that require higher pH for extended stability or when the benefits of the formulation application exceed the risk of infection as the result of a pH change [45]. In the revised studies only five micro- and nanoemulsion formulations fall within the physiological range of pH values < 4.5 [82,84,86,92,93]. For other reported formulations the pH values were higher and fell within the slightly acidic range, also considered as physiological [78,85,91,94,95,96,97,102]. Some of the formulations pH values exceeded physiological range [89,90,101], creating a risk of bacterial infections. None of the analyzed publications provided information on the osmolarity value of the obtained formulations which, due to the risk of irritation and damage to the vaginal mucosa, should be <1200 mOsm/kg [45]. Gué et al. measured the osmolarity of nanoemulsions intended for parenteral use employing a micro-osmometer and a simple method based on measuring the nanoemulsion’s freezing point depression, which can also be used to determine the osmolarity of EVDF. Osmolarity of nanoemulsions was found to depend on the ratio of lipid and surfactant fractions to water, whereas the concentration of APIs representing BCS (Biopharmaceutical Classification System) class I—paracetamol; class II—ibuprofen, amiodarone hydrochloride, fenofibrate; class IV—ciprofloxacin, had no significant effect on the osmolarity value. In contrast, an increase in the concentration of a substance classified as BCS class III, i.e., ranitidine hydrochloride, caused an increase in the osmolarity of the formulation which should also be taken into account when developing vaginal formulations with low osmolarity <300 mOsm/kg [129].Internal Droplets Measurements, Polydispersity Index and Zeta PotentialMethod selection for measuring the dispersed phase droplet size highly depends on the analyzed particles size range. Optical microscopy is most frequently used for emulsions with droplet sizes in the micrometer range, i.e., macroemulsions, as it only allows the observation of particles larger than 200 nm [80,81,89,102,104,130]. The most commonly used method to determine the dispersed phase droplet size of micro- and nanoemulsion-based vaginal dosage forms is the dynamic light scattering (DLS) method, also known as photon correlation spectroscopy, that enables the measurement of droplet sizes in the range from 1 nm to 6 µm [74,75,76,77,78,79,82,83,84,85,86,87,88,90,91,92,93,94,95,96,98,99,103,105]. The accuracy of the obtained results depends on the measurement method and sample preparation, the sample dilution in particular [130]. According to Danaei et al. homogeneous formulations have a low PDI of ≤0.3, moderately homogeneous formulations have PDI in the range of 0.3–0.7 and polydisperse formulations display PDI values > 0.7 [131,132]. The Malvern Zetasizer® is the most commonly used device for both particle size measurements by laser methods and zeta potential measurements by Electrophoretic Light Scattering (ELS). During the zeta potential measurements the device uses the Doppler effect observed in the form of changing scattered laser beam frequency by particles set in motion in the electric field [133]. Although the DLS is frequently used to determine the dispersed phase droplet size, it has several limitations including the necessity of viscous materials dilution as well as the requirement of sample filtration prior to analysis. Furthermore, DLS provides information on hydrodynamic radius of diffusing species rather than the microscopic image of the particles. On the other hand, Transmission Electron Microscopy (TEM) provides high resolution images of nanosize materials, but it requires a particular sample preparation which can change the structure and shape of the dispersed phase droplets [130,133].Viscosity and AdhesionViscosity is one of the parameters influencing the degree of the formulation adhesion to the mucosa. In vaginal formulations dynamic viscosity is measured with rheometers and the values are expressed in Pa·s (Pascal-second, SI unit) or P (Puaz, CGS unit); the relation between them is 1 Pa·s = 10 P. Since the measured formulation viscosity depends on the type of equipment including the spindle/cone used and the measurement conditions (i.e., spindle/cone speed and temperature), the experimental viscosity values for the different formulations are only indicative and determine the magnitude of the viscosity range not allowing for a direct comparison of the tested formulations. The viscosity measurement techniques of emulsion-based vaginal formulations and obtained measurements results are collected in Table 7.The degree of drug form adhesion to the vaginal mucosa determines its resistance to washing-out by vaginal secretions. In vitro and in vivo methods are used to determine the formulation’s adhesiveness. In vitro methods are based on peel, shear or tensile forces measurements, viscosity difference measurements between the formulation, vaginal secretions and their mixture and flow retention measurements, i.e., the time the formulation remains in contact with the mucous membrane during constant liquid washing [134]. An important factor affecting the comparability of in vitro methods with the real performance of the drug formulation after vaginal administration is the choice of material or tissue used as a model for the vaginal mucosa and the composition of artificial vaginal discharge used in the study [134]. The artificial vaginal discharges are mainly composed of sodium chloride, lactic acid, glucose and additional components such as proteins, electrolytes and buffers dissolved [135]. Their characteristics have been well-described by Tietz and Klein [135]. In vitro adhesion tests measure the tensile strength between the surface of a plate or model tissue attached to the base of a texture analyzer or dynamometer and formulation (see Figure 4A–C) [75,80,81,82,84,86,90,93,94,95,106]. As surface models simulating the human vaginal mucosa the animal tissues (i.e., pig, goat, cow vagina and goat’s skin) are used, as well as synthetic models like cellophane membrane [75,80,81,82,84,86,90,93,94,95,106]. Bachhav and Patravale and Khattab and Ismail [82,84,88] conducted mucoadhesion studies using the Nakamura et al. method [128] which is a modification of the flow retention measurement method. In this method the microemulgels were applied onto an agar plate attached to a USP disintegration test apparatus and subjected to cycles of immersion and emergence in pH = 4.5 buffer until the formulation was washed off entirely of the agar plate.Open in a separate windowFigure 4(A) Scheme of adhesion measurements by detachment method, (B) texture analyzer stable micro system, (C) adhesion measurement sample result and (D) spreadability test by plate-plate method.In the in vivo adhesion studies the measurement of mucoadhesion was based on the visual assessment of the presence of the pigmented nanoemulsion formulation in the rat vagina 24 h after application [94] or the real-time tracking of the localization of the radiolabeled formulation in the animal vagina using PET/CT imaging [80].Comparison of vaginal formulations’ adhesiveness is challenging due to the differences in measurement devices, measurement conditions and applied vaginal mucosa models. In addition, the results presented as strength expressed as a numerical value are difficult to relate to real vaginal administration conditions. An essential advantage of these studies is the possibility to compare the developed formulations with commercial preparations with known vaginal retention parameters which provides an opportunity to assess the properties of the newly designed formulations.SpreadabilityThe formulation’s spreadability test determines the increase in the formulation surface area under an external force and enable a comparison of the spreading properties of the investigated formulations as a function of the composition variables and measurement conditions [89,91]. In the case of vaginal formulations, the larger the surface of vaginal mucosa covered by the formulation, the larger the area available for the API penetration. Spreadability, viscosity and adhesion are important in vitro parameters enabling to assess the formulations resistance to the washing-out by vaginal secretions. A plate-plate technique shown in Figure 4D and a texture analyzer are used to assess the spreadability of EVDF [82,84,85,86,89,90,91,95,105]. The changes in surface area covered by investigated formulation as a function of the applied pressure/load force enable a comparison of the spreading properties of the tested formulations as a function of the composition variables and measurement conditions [89,91].In Vitro Drug Release and Permeability StudiesDrug dissolution studies are used to determine the amount of drug released from the formulation into the acceptor medium over the experimental time. Drug dissolution testing enables to establish drug release kinetic model and the rate at which the API is released from the formulation providing essential information about the pharmaceutical properties of formulations [81]. Permeability studies, on the other hand, determine drug penetration via mucosa enabling to estimate the in vivo performance of the formulation. The permeation studies are frequently designed in comparative manner that allows for the comparison of the newly developed formulation with commercially available products [136]. The release tests are conducted using United States Pharmacopeia (USP) Apparatus No. I and II (Figure 5A) (described in the monograph <711> Dissolution Test [137]), also described in European Pharmacopeia 10.0 as basket apparatus and paddle apparatus, respectively [138], usually for 24 h. Using the USP No. I apparatus the formulations are placed in a basket which is immersed in a vessel with acceptor medium heated to 37 ± 0.5 °C and stirred with predefined rotating rate. In the No. II apparatus, however, the test formulation is placed in a dialysis bag or in a disc covered with a semipermeable membrane immersed below a paddle agitator in a vessel filled with acceptor medium. Citrate and phosphate buffer solutions or simulated vaginal discharge are used as the acceptor medium for pharmaceutical bioavailability studies, while sampling is performed in an automated manner at predefined time points [79,81,82,87,88,90,97]. As an alternative, the drug release/membrane penetration studies from EVDF can be performed using dialysis bags, tubes or chambers immersed in a vessel with mixed and thermostated acceptor medium, e.g., simulated vaginal discharge while samples are withdrawn at predefined time points [74,85,92,98,99,102,103].Open in a separate windowFigure 5(A) USP dissolution apparatus and (B) Franz Cells unit.The measurements of ex vivo or in vitro permeation of the active substance from the emulsion-based vaginal formulation can be performed with the Franz diffusion cells, illustrated in Figure 5B, through a mucous or synthetic membrane [139]. An important factor affecting the quality of the obtained permeation results is the type of membrane used in the test. In the studies on EVDF, biological tissues simulating conditions of the human vagina and synthetic cellulose membranes (i.e., Visking Medicell Membrane, Filter paper Whatman 41) are employed. As an acceptor medium in permeation tests, citrate and phosphate buffer solutions, a water/ethanol mixture (e.g., for clotrimazole) and simulated vaginal secretions are used. The duration of conducted permeation studies in Franz diffusion cells at 37 °C varied from a few hours to 15 days, with sampling at defined time intervals [80,81,86,89,91,94,106].In both release kinetics and permeation studies, determination of the released substance concentration in the acceptor medium is usually carried out by HPLC chromatography or UV-VIS spectroscopy.In Vivo StudiesThe available in vivo studies evaluate safety and efficacy of emulsion formulations after intravaginal administration in mice, rats, rabbits and pigs. The therapeutic effect after local application of the intravaginal formulation is frequently compared with the effect of systemic administration of the drug, e.g., by oral route [74,75,76,79,80,81,84,87,88,91,92,94,95,96,98,100,102,103]. To date the results from two of the phase I clinical studies (10 and 11 patients respectively) evaluating the safety and therapeutic efficacy of emulsion formulations with clotrimazole and fluconazole in comparison with commercial reference products are available [84,91].4. Emulsion-Based Vaginal Dosage Forms with Drugs from Different Therapeutic Groups—Biological Evaluation and Examples of In Vivo Applications4.1. Antifungal ActivityVulvovaginal candidiasis is one of the most frequently occurring vaginal fungal infections [140]. The problem affects not only adult women but also children and adolescents with comorbidities such as type 1 diabetes mellitus [141]. A total of 75% of women suffer from vaginal candidiasis at least once in their life. Furthermore, recurrent vulvovaginal candidiasis defined as at least four repeating candida infections per year is an emerging global clinical problem that affects 138 million women every year [142,143]. Among all of the vulvovaginal candidiasis treatment strategies local drug administration has the most advantageous safety and efficiency profile as it reduces the risk of side effects, especially in extreme caution conditions, e.g., pregnancy [144,145].4.1.1. Antimycotic AzolesIn the treatment of vulvovaginal fungal infections the most abundantly used antifungal group of drugs are azoles being imidazole derivatives [144]. Although azoles have high antimycotic activity, their application is limited due to the insufficient water solubility [146,147]. Emulsion-based antifungal azoles formulations displayed high drug loading capacity, as well as increased drug bioavailability after both oral and topical administration as compared to commercial formulations and neat substances [148,149,150,151,152,153,154,155,156,157].Fluconazole, ClotrimazoleBachhav and Patravale have developed microemulsion-based gels with fluconazole and with clotrimazole [82,84] which, unlike the reference Candid-V® market gel with clotrimazole, had physiological pH. In vitro release studies of clotrimazole from the final microemulsions showed drug release kinetics similar to Candid-V® gel (Glenmark Pharmaceuticals Limited, Mumbai, India), simultaneously with a greater total amount of the released substance after 10 h of dissolution test. In in vitro antifungal activity tests both microemulsion-based gels with clotrimazole and with fluconazole displayed a larger fungi growth inhibition area as compared to Candid-V® gel (Glenmark Pharmaceuticals Limited, Mumbai, India) [82,84]. After vaginal tolerance study in rabbits, the fluconazole formulation was implemented in a 6-day, double-blind, randomized pilot study with 11 female patients suffering from vaginal candidiasis, divided into a study group (n = 6) treated with fluconazole formulation and control group (n = 5) treated with Candid-V® (Glenmark Pharmaceuticals Limited, Mumbai, India). The study showed similar effects of the fluconazole microemulsion-based gel compared to the Candid-V® gel (Glenmark Pharmaceuticals Limited, Mumbai, India), while reducing by one day the time needed to relieve symptoms in the test group in comparison to the control group [84]. Anticandidal nanoemulsion and W/O/W multiple emulsion with clotrimazole obtained by Soriano-Ruiz et al. had higher antifungal in vitro activity as compared to clotrimazole solution and commercially available 1% and 2% clotrimazole intravaginal creams (Canesten®, Bayer, Leverkusen, Germany and Gine-canesten®, Bayer, Leverkusen, Germany) [89,91]. The determined minimum inhibitory concentration (MIC) of the evaluated creams and emulsion-based formulations against Candida glabrata ATTC 66032 were 7.8125 µg/mL and 0.2441 µg/mL, respectively. Furthermore, the developed formulations displayed enhanced in vitro drug release and ex vivo permeation through the skin as compared to the commercial reference products. In ex vivo studies clotrimazole nanoemulsion displayed four times higher vaginal drug retention and nine times higher theoretical steady-state plasma concentration in comparison to commercial formulations. The results demonstrated high antifungal activity and advantageous pharmacokinetic properties as compared to commercially available clotrimazole creams.ItraconazoleMirza et al. developed itraconazole nanoemulsion thermosensitive gel using Poloxamer 407 and CP 934 as gelling agents and tea tree oil as the oil phase [94]. Due to the low solubility of the drug in the oils the API was firstly dissolved in chloroform following its evaporative removal from the formulation. The concentration of Poloxamer 407 affected the gelation temperature and mucoadhesive properties of the formulations. Increase in the adhesion and decrease in the gelation temperature was observed with an increasing concentration of Poloxamer 407 in the nanoemulsion-based gel. The optimal pharmaceutical properties of the formulation were obtained at 0.3% CP 934 and 20% of Poloxamer 407 concentration in the emulgel. The developed itraconazole/tea tree oil nanoemulsion-based gel displayed higher antifungal activity as compared to conventional itraconazole or tea tree oil gels, proving the synergetic effect of both ingredients with no toxicity in female rats during in vivo studies. After 14 days of treatment with nanoemulsion-based itraconazole gel female rats were considered cured, while in the vaginal discharge of rats treated with conventional itraconazole gel or tea tree oil gel the concentration of Candida albicans cells indicated a still ongoing infection.SertaconazolePatel and Patel developed controlled drug release gels based on sertaconazole microemulsion [86]. The drug release kinetics was controlled via changes in polymer concentration. In vitro antifungal activity of optimized formulation against C. albicans ATCC 10231 strain was assessed using the cup plate technique and compared to the antifungal activity of commercially available Candid-V® gel (Glenmark Pharmaceuticals Limited, Mumbai, India). After 48 h of incubation the sertaconazole microemulsion-based gel, Candid-V® (Glenmark Pharmaceuticals Limited, Mumbai, India) gel and sertaconazole solution’s inhibition areas were ca. 35, 28 and 29 mm respectively. These results proved a higher antifungal activity of sertaconazole microemulsion-based gel compared to the commercial product and the sertaconazole solution [86].4.1.2. NystatinSong et al. [74] have prepared an oil in water nanoemulsion with nystatin and exopolysaccharide dedicated to the treatment of vulvovaginal candidiasis with sustained-release. The conducted in vitro microbiological test evaluation revealed higher antifungal activity of nystatin/exopolysaccharide nanoemulsion against C. albicans cultures and 32 times lower MIC compared to nystatin solutions. In vivo studies also confirmed the synergistic activity of nystatin and exopolysaccharide, increased formulation adhesion to the vaginal mucosa and higher effectiveness in the treatment of vulvovaginal candidiasis than for a nifuratel-nystatin cream. Effective relief of candidiasis symptoms was achieved after 15 days of formulation administration, while the nifuratel-nystatin cream-treated control group still suffered from the infection.4.1.3. Antifungal PhytoconstituentsSrivastava et al. [95] developed a nanoemulsion-based gel with a natural antifungal agent Mentha spicata L. var. virdis aromatic oil (MEO) and Carbopol 940 for the treatment of vaginal candidiasis. The authors concluded that volatility of Mentha essential oil was decreased when incorporated into nanoemulsion droplets providing extended stability of the prepared formulation. The in vivo studies in female proved higher antifungal activity of the obtained MEO nanoemulsion-based gel as compared to a MEO conventional emulgel.Dos Santos Ramos et al. [75] developed a nanoemulsion with a luteolin-rich Syngonanthus nitens (Bong.) extract for vulvovaginal candidiasis treatment. In vivo studies in female Wistar rats have proven a greater antifungal activity of nanoemulsion with phytoconstituents as compared to free phytoconstituents fraction and a commercially available amphotericin B and tetracycline cream. Animals were considered cured after a 6-day treatment with nanoemulsion as compared to a 10-day treatment with cream and free phytoconstituents fraction. In the following study Dos Santos Ramos et al. [93] reported an anticandidal geranium oil nanoemulgel with chitosan as a gelling agent. The chitosan addition increased the mucoadhesive properties of obtained formulations and as a consequence extended their residence time on the vaginal mucosa as compared to a neat nanoemulsion. The optimized nanoemulgel showed a 64-times higher antifungal activity in vitro as compared to a diluted geranium oil.Gündel et al. [96] presented two nanoemulsions with eucalyptus and lemongrass essential oils as an alternative to azole treatment of vulvovaginal candidiasis. The in vivo studies in mice confirmed antifungal activity of the developed formulations on a par with reference miconazole cream and higher than neat essential oils. The anti-inflammatory effect of the eucalyptus and lemongrass essential oils nanoemulsions was proven in a histopathological analysis after 8 days of treatment. In contrast, mild inflammation in vaginal mucosa tissues was observed in the group treated with a miconazole cream.Pandit et al. [97] developed lawsone (an antifungal agent obtained from henna) SMEDDS incorporated into easy-to-administer hollow pessaries. Emulsification of lawsone in the formulation provided a higher antifungal activity in vitro as compared to neat lawsone. The hollow pessary can be used for low volumes of concentrated API emulsions providing convenient application and reproducible dosing.4.2. Antibacterial ActivityApart from fungal infections women, especially in prepubertal age, suffer from bacterial vaginitis and vaginosis. In contrary to candidiasis which is more frequent among sexually active women, bacterial infections in children and adolescent virgins are related to improper hygiene. Atrophic vaginal mucosa is prone to pathogens due to lower levels of estrogen, not fully grown bacterial flora resulting in alkaline pH and deficiency of defensive factors such as bacteriocins and hydrogen peroxide [37,158,159,160,161,162,163,164,165].4.2.1. Antibiotics and ChemotherapeuticsA group of Otero-Espinar [80] developed controlled release vaginal W/S emulsions with a model BCS IV class drug, i.e., ciprofloxacin. The radiolabeled W/S formulation after administration in female rats was resistant to wash-out by vaginal discharges for 90 min as monitored using PET/CT imaging. The real-time observation revealed systemic absorption of ciprofloxacin as the drug was distributed to the urinary bladder. After topical administration a higher ciprofloxacin concentration in uterine tissues as compared to blood concentration was reported. Furthermore, six hours after the intravaginal administration of the W/S emulsion ciprofloxacin concentration in uterine tissues was comparable to the drug concentration achieved via an intraperitoneal injection. High drug concentrations in the genital tissues were observed for up to 24 h after vaginal administration of the W/S emulsion. The presented approach may be used in future treatment of urinary tract infections in patients unable to administer the drug orally or experiencing the side effects after oral administration.Atinderpal et al. [79] developed a ciprofloxacin and green tea Polyphenon 60 nanoemulsion with confirmed activity against ESBL and MBL bacteria. The vaginally administered nanoemulsion showed higher biodistribution, drug bioavailability and blood concentrations compared to the oral route in in vivo studies. After vaginal administration high renal and urinary bladder concentrations of ciprofloxacin have been observed which should be considered in future administration of proposed formulation in patients with renal impairment [79]. Studies of both Otero-Espinar et al. and Atinderpal et al. have proven that ciprofloxacin applied as a vaginal emulsion undergoes direct vagina-to-uterus transport known as the first uterine pass effect [20,79,80].Özer et al. [102] developed multiple W/O/W emulsions with metronidazole and ornidazole for the potential treatment of vaginal bacterial infections. In vitro studies demonstrated that the release kinetics of oil-encapsulated chemotherapeutics were similar compared to the drug release from the continuous phase. However, alkaline dissolution media increased the release of metronidazole and ornidazole from both the internal and external emulsion phases. This can prove advantageous in the treatment of bacterial vaginitis where higher pH of vaginal secretions is observed, enabling for increased chemotherapeutic release rate and, as a consequence, faster relief of the infection symptoms [166,167]. After application of a multiple emulsion with radioisotope-labeled compounds in rabbits, a faster absorption of metronidazole than ornidazole from the vaginal epithelium was observed. Both APIs encapsulated in a W/O/W multiple emulsion have proven effective against local bacterial infections with only a minor increase in the blood concentration and, at the same time, a small substance increase in blood concentrations in rabbits was observed, confirming the local effect of the drug.4.2.2. AntisepticsTedajo et al. [101] developed a vaginal W/O/W emulsion as a formulation for potential treatment of female reproductive tract infections, mainly caused by Escherichia coli, Staphylococcus aureus and C. albicans. Obtained multiple emulsions allowed the simultaneous administration of benzalkonium chloride, octadecylamine and lactic acid without the risk of pharmaceutical incompatibility, demonstrating at least one-year storage stability [101,168,169]. Although the optimized multiple emulsion showed an increased microbicidal efficacy against S. aureus and C. albicans compared to the free 0.2% benzalkonium chloride solution, the formulation displayed lower microbicidal activity against E. coli compared to an antiseptic reference solution.Tedajo et al. [104] investigated the release of benzalkonium chloride and chlorhexidine digluconate encapsulated in external and internal aqueous phases of a W/O/W multiple emulsion, respectively. The synergistic effect of the combination of chlorhexidine digluconate and benzalkonium chloride in the form of a multiple emulsion against S. aureus and E. coli was confirmed in vitro. Prior to vaginal administration of W/O/W emulsions the water-dilution is recommended, which provides hypotonic conditions facilitating APIs release from the internal phase of the emulsion as a result of the swelling-breakdown process. Additionally the encapsulation of labile substances, such as light-sensitive chlorhexidine digluconate, to the internal phase of multiple emulsions provided extended API stability in emulsion-based formulations [104].4.2.3. Emulsions with PhytoconstituentsAbu-Azzam and Nasr [83] have developed an intravaginal microemulsion with an anti-inflammatory phloretin phytoconstituent for potential treatment of vaginitis. The formulation showed an enhanced anti-inflammatory activity compared to the free phloretin in cell cultures, achieving similar efficacy to diclofenac sodium. The obtained initial results indicated that a vaginal microemulsion with phloretin may be a potential therapeutic alternative to non-steroidal anti-inflammatory drugs, while its safety and efficacy needs to be confirmed in vivo in the future.For the potential treatment of E. coli vaginal infections Kaur et al. obtained two nanoemulsion-based gels composed of green tea Polyphenon 60 mixed with curcumin or cranberry [92,98]. Vaginally administered formulation of radiolabeled Polyphenon 60 in female rats showed higher distribution in the kidney and urinary bladder as compared to vaginal application of drug solutions or orally administered nanoemulgels. The studies of Kaur et al., confirmed that intravaginal administration of Polyphenon 60 with curcumin or cranberry nanoemulsion might be a promising intravaginal and urinary tract infections treatment alternative to the conventional oral administration of antibiotics [92,98].4.3. Contraceptive and Sexually Transmitted Diseases PreventionAt the end of the 20th and the beginning of the 21st centuries there was a strong interest in the microemulsion-based gels used as vaginal spermicides. D’Cruz and Uckun, in the review article, referred to the safety and spermicidal activity of emulsion-based gels GM-4 and GM-144 compared to commercially available nonoxynol-9 (N-9) gel [77]. After the analysis of in vivo toxicity and spermicidal activity tests in rabbits and mice, D’Cruz and Uckun concluded that microemulsion-based gels are less toxic and more effective than the commercially available intravaginal contraceptive [77]. D’Cruz and Uckun [76] developed intravaginal microemulsion-based gel with contraceptive chelated vanadocene as an alternative to popular N-9 gel that was reported to have a toxic effect on the vaginal epithelium and questionable spermicidal efficacy [113,170,171]. The proposed microemulsion gel formulation revealed promising contraceptive activity in vivo in rabbits and in pigs [76].Mirani et al. proposed microemulsion-based gel with tetrahydrocurcumin (THC) as a vaginal microbicide in the prophylaxis of HIV infections [85]. The final formulation exhibited pseudoplastic behavior and comparable viscosity to Durex® gel, as well as stable and resistant to sexual intercourse stress THC release profile [85].D’Cruz et al. [172] described the usage of the self-emulsifying gel—Conceival for intravaginal delivery of lipophilic anti-HIV drugs. Further, McConville and Friend [99] developed SMEDDS-filled capsules for the vaginal administration of another HIV microbicide—a thiocarboxanilide non-nucleoside reverse transcriptase inhibitor (UC781). Prepared by McConville and Friend SMEDDS displayed rapid dispersion and enhanced UC781 release in sink conditions as compared to poorly soluble UC781 powder. The authors concluded that further studies are required for the optimization of the formulation size and UC781 content to tailor properties to intravaginal application.Köllner et al. [105] developed SEDDS for vaginal delivery of curcumin as a potential anti-HPV agent. Curcumin is practically insoluble in water and has a high binding affinity to mucus, which hinders its absorption after administration on the mucosa. In vitro permeation tests of SEDDS with curcumin showed that ≈15% of the curcumin load penetrates mucus within 3 and ≈35% within 24 h after application proving SEDDS as potential intravaginal carriers for lipophilic, poorly soluble drugs.4.4. Other Diseases and Conditions4.4.1. Pre-Term Birth Prevention and Hormonal TherapyThe group of Otero-Espinar [81] proposed W/S emulsions with progesterone as the potential formulations for intravaginal drug administration. Rheological tests revealed higher bioadhesion and higher resistance of emulsion formulation to simulated vaginal discharges in relation to commercially available intravaginal gels. In vivo studies in postmenopausal and young rats have shown that after the application progesterone concentration in the uterine tissue was significantly higher in the group treated with the intravaginal W/S emulsion as compared to the group treated with commercial Crinone® (Merck KGaA, Darmstadt, Germany). During in vivo studies the progesterone accumulation in the uterus tissue was also observed due to the first uterine pass effect.Patki et al. [87] obtained SNEDDS with 17-α hydroxyprogesterone caproate in the form of the solid vaginal tablet, providing a single-dose formulation that is easy to use and less invasive as compared to the injections. The dissolution rate of 17-α hydroxyprogesterone from the vaginal tablets was significantly higher as compared to free drug. The investigated tablets released 97% of hormone within 120 min of the dissolution test. In vivo studies in Swiss Webster mice showed that intravaginal administration of 17-α hydroxyprogesterone vaginal tablets with SNEDDS reduced the rate of pre-term births, presenting a safe alternative for hormonal drug injections.Giusto et al. [88] developed SNEDDS-based vehicle for a Sphingosine kinase (SphK) inhibitor used in the prevention of lipopolysaccharide-induced pre-term birth in mice. The obtained SNEDDS formed a gel in contact with simulated vaginal discharge in situ without signs of precipitation. In the dissolution test, 94% of the drug was released from SNEDDS formulation within 30 min of the experiment as compared to less than 1% of neat API dissolved in the same time. In vivo studies in mice demonstrated significantly smaller number of pre-term births and steady uterus SphK concentration after SNEDDS application.4.4.2. Tumors and Autoimmunological DiseasesFrank et al. [78] obtained nanoemulsion with anti-HPV drug imiquimod for the treatment of cervical cancer. In vitro analysis of substance permeability confirmed that imiquimod in nanoemulsion formulation was able to penetrate porcine vaginal mucosa with a lower rate than free imiquimod, which in planned indication might be beneficial due to reduced vaginal irritation and risk of adverse effects. Additionally, imiquimod encapsulated in the emulsion-based formulation reduced the growth of cervical carcinoma cell line SiHa in vitro, proving its potential in the treatment of cervical cancer.Wang et al. [103] developed a new intravaginal W/O/W multiple SMEDDS incorporated in the thermosensitive gel for the delivery of small nucleic acid in a gene-silencing anti-HPV therapy. Authors have decided to encapsulate siRNA into the inner aqueous phase of W/O/W multiple SMEDDS to improve the stability of a labile active ingredient. Multiple W/O/W SMEDDS loaded with siRNA in contrast to other transfection carriers prevented inflammatory reactions in both in vitro and in vivo studies.5. Conclusions and Future PerspectiveThe development of safe and effective emulsion-based multicompartment vaginal drug formulations should acknowledge the anatomy and physiology of a vagina. The rheological properties, mucoadhesion, pH value, the droplet size of a dispersed phase and an effective dose should be carefully optimized to achieve prolonged retention time in the vaginal environment. The reported research is primarily focused on the identification of optimal formulation properties related to the application site characteristics. Within the emulsion-based multicompartment vaginal drug carriers one can distinguish macro-, micro-, nano- and multiple emulsions as well as SEDDS and emulgels. Most commonly used lipophilic excipients include fatty acid ester derivatives and among the surfactants polysorbates and castor oil polyethylene glycol derivatives are used. Combination of these excipients is selected according to API solubility studies of emulsion-based formulations with higher drug capacity, small size of dispersed droplets and low or moderate polydispersity.The analysis of vaginal formulation testing methods indicates variability in the researchers’ approach to the selection of methodologies for the evaluation of formulation properties, e.g., type of applied method and the preference of apparatus and materials used. This results in difficulties in comparison between the properties and parameters of similar formulations reported by different groups. It would be advantageous to define a range of optimal parameter values for a specific type of formulation and a methodology for their assessment. The comprehensive evaluation of the in vitro physicochemical and pharmaceutical properties is important to explain clinical observations, enabling the selection of the optimal formulation as a consequence.Based on the revised reports it can be concluded that Emulsion-based Vaginal Dosage Forms are promising drug carriers for local and systemic application of antimicrobial and anticancer agents. Moreover, their use in the prevention of sexually transmitted diseases and premature births achieved high therapeutic efficacy and a favorable safety profile. EVDF, due to the easily adjustable properties, i.e., method of administration, low volume, adhesiveness, viscosity, selective local drug activity, can also be considered as vaginal pediatric formulations. Furthermore, the presented review has demonstrated that there is a need for randomized clinical trials that would confirm the therapeutic benefits of the most promising EVDF formulations.AcknowledgmentsAleksandra Dyba is acknowledge for proofreading and linguistic corrections of the final version of the manuscript.Author ContributionsConceptualization K.M.-J., M.S., K.P.N. and B.K.; resources, B.K. and K.M.-J.; writing—original draft preparation, M.S., B.K. and K.M.-J.; writing—review and editing, B.K., K.P.N. and A.M.G.; visualization, M.S., B.K., K.M.-J. and K.P.N.; supervision, K.M.-J. and B.K.; project administration, M.S. and B.K. funding acquisition, K.M.-J. and M.S. All authors have read and agreed to the published version of the manuscript.FundingThis research was funded by Wroclaw Medical University, SIMPLE system number: STM.D140.20.067.Institutional Review Board StatementNot applicable.Informed Consent StatementNot applicable.Data Availability StatementNot applicable.Conflicts of InterestThe authors declare no conflict of interest.FootnotesPublisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.References1. Brannon-Peppas L. Novel vaginal drug release applications. Adv. Drug Deliv. Rev. 1993;11:169–177. doi: 10.1016/0169-409X(93)90031-X. [CrossRef] [Google Scholar]2. Mallipeddi R., Rohan L.C. Nanoparticle-based vaginal drug delivery systems for HIV prevention. Expert Opin. Drug Deliv. 2010;7:37–48. doi: 10.1517/17425240903338055. [PubMed] [CrossRef] [Google Scholar]3. Caramella C.M., Rossi S., Ferrari F., Bonferoni M.C., Sandri G. Mucoadhesive and thermogelling systems for vaginal drug delivery. Adv. Drug Deliv. Rev. 2015;92:39–52. doi: 10.1016/j.addr.2015.02.001. [PubMed] [CrossRef] [Google Scholar]4. D’Cruz O.J., Uckun F.M. Vaginal microbicides and their delivery platforms. Expert Opin. Drug Deliv. 2014;11:723–740. doi: 10.1517/17425247.2014.888055. [PubMed] [CrossRef] [Google Scholar]5. das Neves J., Bahia M.F. Gels as vaginal drug delivery systems. Int. J. Pharm. 2006;318:1–14. doi: 10.1016/j.ijpharm.2006.03.012. [PubMed] [CrossRef] [Google Scholar]6. Bassi P., Kaur G. Innovations in bioadhesive vaginal drug delivery system. Expert Opin. Ther. Pat. 2012;22:1019–1032. doi: 10.1517/13543776.2012.714369. [PubMed] [CrossRef] [Google Scholar]7. Major I., McConville C. Vaginal drug delivery for the localised treatment of cervical cancer. Drug Deliv. Transl. Res. 2017;7:817–828. doi: 10.1007/s13346-017-0395-2. [PMC free article] [PubMed] [CrossRef] [Google Scholar]8. Machado R.M., Palmeira-De-Oliveira A., Martinez-De-Oliveira J., Palmeira-De-Oliveira R. Vaginal Films for Drug Delivery. J. Pharm. Sci. 2013;102:2069–2081. doi: 10.1002/jps.23577. [PubMed] [CrossRef] [Google Scholar]9. Rohan L.C., Sassi A.B. Vaginal drug delivery systems for HIV prevention. AAPS J. 2009;11:78–87. doi: 10.1208/s12248-009-9082-7. [PMC free article] [PubMed] [CrossRef] [Google Scholar]10. De Araújo Pereira R.R., Bruschi M.L. Vaginal mucoadhesive drug delivery systems. Drug Dev. Ind. Pharm. 2012;38:643–652. doi: 10.3109/03639045.2011.623355. [PubMed] [CrossRef] [Google Scholar]11. Hussain A., Ahsan F. The vagina as a route for systemic drug delivery. J. Control. Release. 2005;103:301–313. doi: 10.1016/j.jconrel.2004.11.034. [PubMed] [CrossRef] [Google Scholar]12. Srikrishna S., Cardozo L. The vagina as a route for drug delivery: A review. Int. Urogynecol. J. Pelvic Floor Dysfunct. 2013;24:537–543. doi: 10.1007/s00192-012-2009-3. [PubMed] [CrossRef] [Google Scholar]13. Valenta C. The use of mucoadhesive polymers in vaginal delivery. Adv. Drug Deliv. Rev. 2005;57:1692–1712. doi: 10.1016/j.addr.2005.07.004. [PubMed] [CrossRef] [Google Scholar]14. Das Neves J., Palmeira-De-Oliveira R., Palmeira-De-Oliveira A., Rodrigues F., Sarmento B.  Vaginal Mucosa and Drug Delivery. In: Khutoryanskiy V.V., editor. Mucoadhesive Materials and Drug Delivery Systems. Volume 9781119941. John Wiley & Sons, Ltd.; Chichester, UK: 2014. pp. 99–132. [Google Scholar]15. Palmeira-de-Oliveira R., Palmeira-de-Oliveira A., Martinez-de-Oliveira J. New strategies for local treatment of vaginal infections. Adv. Drug Deliv. Rev. 2015;92:105–122. doi: 10.1016/j.addr.2015.06.008. [PubMed] [CrossRef] [Google Scholar]16. Bruska M.  Anatomia czynnościowa i topograficzna narządów płciowych. In: Opala T., editor. Ginekologia. Podręcznik dla Położnych, Pielęgniarek i Fizjoterapeutów. Wydawnictwo Lekarskie PZWL; Warszawa, Poland: 2003. pp. 30–31. [Google Scholar]17. Funt M.I., Thompson J.D., Birch H. Normal Vaginal Axis. South. Med. J. 1978;71:1534–1535. doi: 10.1097/00007611-197812000-00026. [PubMed] [CrossRef] [Google Scholar]18. Anderson J.R., Genadry R.  Anatomy and Embryology. In: Berek J.S., editor. Berek & Novak’s Gynecology. Lippincott Williams & Wilkins, a Wolters Kluwer Business; Philadelphia, PA, USA: 2007. pp. 75–128. [Google Scholar]19. Valea F.A.  Reproductive Anatomy Gross and Microscopic, Clinical Correlations. In: Lobo R.A., Gershenson D.M., Lentz G.M., Valea F.A., editors. Comprehensive Gynecology. Elsevier; Philadelphia, PA, USA: 2017. pp. 48–77. [Google Scholar]20. Bulletti C., De Ziegler D., Flamigni C., Giacomucci E., Polli V., Bolelli G., Franceschetti F. Targeted drug delivery in gynaecology: The first uterine pass effect. Hum. Reprod. 1997;12:1073–1079. doi: 10.1093/humrep/12.5.1073. [PubMed] [CrossRef] [Google Scholar]21. Alexander N.J., Baker E., Kaptein M., Karck U., Miller L., Zampaglione E. Why consider vaginal drug administration? Fertil. Steril. 2004;82:1–12. doi: 10.1016/j.fertnstert.2004.01.025. [PubMed] [CrossRef] [Google Scholar]22. Wing D.A., Rahall A., Jones M.M., Goodwin T.M., Paul R.H. Misoprostol: An effective agent for cervical ripening and labor induction. Am. J. Obstet. Gynecol. 1995;172:1811–1816. doi: 10.1016/0002-9378(95)91416-1. [PubMed] [CrossRef] [Google Scholar]23. Katz D.F., Yuan A., Gao Y. Vaginal drug distribution modeling. Adv. Drug Deliv. Rev. 2015;92:2–13. doi: 10.1016/j.addr.2015.04.017. [PMC free article] [PubMed] [CrossRef] [Google Scholar]24. Pastor Z., Chmel R. Differential diagnostics of female “sexual” fluids: A narrative review. Int. Urogynecol. J. 2018;29:621–629. doi: 10.1007/s00192-017-3527-9. [PubMed] [CrossRef] [Google Scholar]25. Miller E.A., Beasley D.A.E., Dunn R.R., Archie E.A. Lactobacilli dominance and vaginal pH: Why is the human vaginal microbiome unique? Front. Microbiol. 2016;7:1936. doi: 10.3389/fmicb.2016.01936. [PMC free article] [PubMed] [CrossRef] [Google Scholar]26. Gorodeski G.I., Hopfer U., Liu C.C., Margles E. Estrogen acidifies vaginal pH by up-regulation of proton secretion via the apical membrane of vaginal-ectocervical epithelial cells. Endocrinology. 2005;146:816–824. doi: 10.1210/en.2004-1153. [PMC free article] [PubMed] [CrossRef] [Google Scholar]27. Mania-Pramanik J., Kerkar S.C., Mehta P.B., Potdar S., Salvi V.S. Use of vaginal pH in diagnosis of infections and its association with reproductive manifestations. J. Clin. Lab. Anal. 2008;22:375–379. doi: 10.1002/jcla.20273. [PMC free article] [PubMed] [CrossRef] [Google Scholar]28. Tucker K.M., Godha K., Mirkin S., Archer D.F. Vaginal pH: A simple assessment highly correlated with vaginal morphology and symptoms in postmenopausal women. Menopause. 2018;25:762–766. doi: 10.1097/GME.0000000000001081. [PubMed] [CrossRef] [Google Scholar]29. Hainer B.L., Gibson M.V. Vaginitis: Diagnosis and Treatment. Am. Fam. Physician. 2011;83:807–815. [PubMed] [Google Scholar]30. Godha K., Tucker K.M., Biehl C., Archer D.F., Mirkin S. Human vaginal pH and microbiota: An update. Gynecol. Endocrinol. 2018;34:451–455. doi: 10.1080/09513590.2017.1407753. [PubMed] [CrossRef] [Google Scholar]31. Kitaya K., Nagai Y., Arai W., Sakuraba Y., Ishikawa T. Characterization of microbiota in endometrial fluid and vaginal secretions in infertile women with repeated implantation failure. Mediat. Inflamm. 2019;2019:1–10. doi: 10.1155/2019/4893437. [PMC free article] [PubMed] [CrossRef] [Google Scholar]32. Noguchi T., Sado T., Naruse K., Kobayashi H. Vaginal fluid pH and buffer capacity for predicting false preterm labor in Japanese women. Int. J. Gynecol. Obstet. 2016;134:69–74. doi: 10.1016/j.ijgo.2015.11.018. [PubMed] [CrossRef] [Google Scholar]33. Machado R.M., Palmeira-de-Oliveira A., Gaspar C., Martinez-de-Oliveira J., Palmeira-de-Oliveira R. Studies and methodologies on vaginal drug permeation. Adv. Drug Deliv. Rev. 2015;92:14–26. doi: 10.1016/j.addr.2015.02.003. [PubMed] [CrossRef] [Google Scholar]34. Koedooder R., Mackens S., Budding A., Fares D., Blockeel C., Laven J., Schoenmakers S. Identification and evaluation of the microbiome in the female and male reproductive tracts. Hum. Reprod. Update. 2019;25:298–325. doi: 10.1093/humupd/dmy048. [PubMed] [CrossRef] [Google Scholar]35. Shipitsyna E., Roos A., Datcu R., Hallén A., Fredlund H., Jensen J.S., Engstrand L., Unemo M. Composition of the Vaginal Microbiota in Women of Reproductive Age—Sensitive and Specific Molecular Diagnosis of Bacterial Vaginosis Is Possible? PLoS ONE. 2013;8:e60670.  doi: 10.1371/journal.pone.0060670. [PMC free article] [PubMed] [CrossRef] [Google Scholar]36. Lamont R., Sobel J., Akins R., Hassan S., Chaiworapongsa T., Kusanovic J., Romero R. The vaginal microbiome: New information about genital tract flora using molecular based techniques. BJOG Int. J. Obstet. Gynaecol. 2011;118:533–549. doi: 10.1111/j.1471-0528.2010.02840.x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]37. Aroutcheva A., Gariti D., Simon M., Shott S., Faro J., Simoes J.A., Gurguis A., Faro S. Defense factors of vaginal lactobacilli. Am. J. Obstet. Gynecol. 2001;185:375–379. doi: 10.1067/mob.2001.115867. [PubMed] [CrossRef] [Google Scholar]38. Donders G.G., Zodzika J., Rezeberga D. Treatment of bacterial vaginosis: What we have and what we miss. Expert Opin. Pharmacother. 2014;15:645–657. doi: 10.1517/14656566.2014.881800. [PubMed] [CrossRef] [Google Scholar]39. Kamińska D., Gajecka M. Is the role of human female reproductive tract microbiota underestimated? Benef. Microbes. 2017;8:327–343. doi: 10.3920/BM2015.0174. [PubMed] [CrossRef] [Google Scholar]40. Haque M.M., Merchant M., Kumar P.N., Dutta A., Mande S.S. First-trimester vaginal microbiome diversity: A potential indicator of preterm delivery risk. Sci. Rep. 2017;7:16145. doi: 10.1038/s41598-017-16352-y. [PMC free article] [PubMed] [CrossRef] [Google Scholar]41. Romero R., Hassan S.S., Gajer P., Tarca A.L., Fadrosh D.W., Nikita L., Galuppi M., Lamont R.F., Chaemsaithong P., Miranda J., et al. Correction to: The composition and stability of the vaginal microbiota of normal pregnant women is different from that of non-pregnant women. Microbiome. 2014;2:10. doi: 10.1186/2049-2618-2-10. [PMC free article] [PubMed] [CrossRef] [Google Scholar]42. Matsumoto A., Yamagishi Y., Miyamoto K., Oka K., Takahashi M., Mikamo H. Characterization of the vaginal microbiota of Japanese women. Anaerobe. 2018;54:172–177. doi: 10.1016/j.anaerobe.2018.10.001. [PubMed] [CrossRef] [Google Scholar]43. Hernandes C., Silveira P., Rodrigues Sereia A.F., Christoff A.P., Mendes H., de Oliveira L.F.V., Podgaec S. Microbiome profile of deep endometriosis patients: Comparison of vaginal fluid, endometrium and lesion. Diagnostics. 2020;10:163.  doi: 10.3390/diagnostics10030163. [PMC free article] [PubMed] [CrossRef] [Google Scholar]44. Bruning E., Chen Y., McCue K.A., Rubino J.R., Wilkinson J.E., Brown A.D.G. A 28 day clinical assessment of a lactic acid-containing antimicrobial intimate gel wash formulation on skin tolerance and impact on the vulvar microbiome. Antibiotics. 2020;9:55.  doi: 10.3390/antibiotics9020055. [PMC free article] [PubMed] [CrossRef] [Google Scholar]45. WHO. UNFPA. FHI  . Advisory Note Use and Procurement of Additional Lubricants for Male and Female Condoms: WHO/UNFPA/FHI360 Advisory Note. World Health Organization; Geneva, Switzerland: 2011.  [Google Scholar]46. Machado R.M., Palmeira-de-Oliveira A., Martinez-de-Oliveira J., Palmeira-de-Oliveira R. Vaginal semisolid products: Technological performance considering physiologic parameters. Eur. J. Pharm. Sci. 2017;109:556–568. doi: 10.1016/j.ejps.2017.09.009. [PubMed] [CrossRef] [Google Scholar]47. Ensign L.M., Hoen T.E., Maisel K., Cone R.A., Hanes J.S. Enhanced vaginal drug delivery through the use of hypotonic formulations that induce fluid uptake. Biomaterials. 2013;34:6922–6929. doi: 10.1016/j.biomaterials.2013.05.039. [PMC free article] [PubMed] [CrossRef] [Google Scholar]48. Lacey C.J., Woodhall S., Qi Z., Sawant S., Cowen M., McCormack S., Jiang S. Unacceptable side-effects associated with a hyperosmolar vaginal microbicide in a phase 1 trial. Int. J. STD AIDS. 2010;21:714–717. doi: 10.1258/ijsa.2010.010215. [PubMed] [CrossRef] [Google Scholar]49. Lai S.K., O’Hanlon D.E., Harrold S., Man S.T., Wang Y.-Y., Cone R., Hanes J. Rapid transport of large polymeric nanoparticles in fresh undiluted human mucus. Proc. Natl. Acad. Sci. USA. 2007;104:1482–1487. doi: 10.1073/pnas.0608611104. [PMC free article] [PubMed] [CrossRef] [Google Scholar]50. Kraft J.C., Freeling J.P., Wang Z., Ho R.J.Y. Emerging Research and Clinical Development Trends of Liposome and Lipid Nanoparticle Drug Delivery Systems. J. Pharm. Sci. 2014;103:29–52. doi: 10.1002/jps.23773. [PMC free article] [PubMed] [CrossRef] [Google Scholar]51. Ensign L.M., Cone R., Hanes J. Oral drug delivery with polymeric nanoparticles: The gastrointestinal mucus barriers. Adv. Drug Deliv. Rev. 2012;64:557–570. doi: 10.1016/j.addr.2011.12.009. [PMC free article] [PubMed] [CrossRef] [Google Scholar]52. Frey B.A., Giannasca K.T., Giannasca P., Hubert R., Lencer W.I., Neutra M.R. From the Department of Pediatrics, Harvard Medical School and GI Cell Biology Laboratory, Children’s Hospital, Boston, Massachusetts 02115. J. Exp. Med. 1996;184:1045–1059. doi: 10.1084/jem.184.3.1045. [PMC free article] [PubMed] [CrossRef] [Google Scholar]53. Ponchel G., Montisci M.-J., Dembri A., Durrer C., Duchêne D. Mucoadhesion of colloidal particulate systems in the gastro-intestinal tract. Eur. J. Pharm. Biopharm. 1997;44:25–31. doi: 10.1016/S0939-6411(97)00098-2. [CrossRef] [Google Scholar]54. Dünnhaupt S., Kammona O., Waldner C., Kiparissides C., Bernkop-Schnürch A. Nano-carrier systems: Strategies to overcome the mucus gel barrier. Eur. J. Pharm. Biopharm. 2015;96:447–453. doi: 10.1016/j.ejpb.2015.01.022. [PubMed] [CrossRef] [Google Scholar]55. Wang Y.-Y., Lai S.K., Suk J.S., Pace A., Cone R., Hanes J. Addressing the PEG Mucoadhesivity Paradox to Engineer Nanoparticles that “Slip” through the Human Mucus Barrier. Angew. Chemie Int. Ed. 2008;47:9726–9729. doi: 10.1002/anie.200803526. [PMC free article] [PubMed] [CrossRef] [Google Scholar]56. Sigurdsson H.H., Kirch J., Lehr C.-M. Mucus as a barrier to lipophilic drugs. Int. J. Pharm. 2013;453:56–64. doi: 10.1016/j.ijpharm.2013.05.040. [PubMed] [CrossRef] [Google Scholar]57. Wong P.T., Wang S.H., Ciotti S., Makidon P.E., Smith D.M., Fan Y., Schuler C.F., Baker J.R. Formulation and Characterization of Nanoemulsion Intranasal Adjuvants: Effects of Surfactant Composition on Mucoadhesion and Immunogenicity. Mol. Pharm. 2014;11:531–544. doi: 10.1021/mp4005029. [PMC free article] [PubMed] [CrossRef] [Google Scholar]58. Everett D.H. Manual of Symbols and Terminology for Physicochemical Quantities and Units, Appendix II: Definitions, Terminology and Symbols in Colloid and Surface Chemistry. Pure Appl. Chem. 1972;31:577–638. doi: 10.1351/pac197231040577. [CrossRef] [Google Scholar]59. Nič M., Jirát J., Košata B., Jenkins A., McNaught A., editors. IUPAC Compendium of Chemical Terminology. IUPAC; Research Triagle Park, NC, USA: 2009. Emulsion. [Google Scholar]60. Danielsson I., Lindman B. The definition of microemulsion. Colloids Surf. 1981;3:391–392. doi: 10.1016/0166-6622(81)80064-9. [CrossRef] [Google Scholar]61. Sanfeld A., Steinchen A. Emulsions stability, from dilute to dense emulsions—Role of drops deformation. Adv. Colloid Interface Sci. 2008;140:1–65. doi: 10.1016/j.cis.2007.12.005. [PubMed] [CrossRef] [Google Scholar]62. Solans C., Izquierdo P., Nolla J., Azemar N., Garcia-Celma M.J. Nano-emulsions. Curr. Opin. Colloid Interface Sci. 2005;10:102–110. doi: 10.1016/j.cocis.2005.06.004. [CrossRef] [Google Scholar]63. Friberg S.E. Comments on “the definition of microemulsion” Colloids Surf. 1982;4:201. doi: 10.1016/0166-6622(82)80010-3. [CrossRef] [Google Scholar]64. Lawrence M.J., Rees G.D. Microemulsion-based media as novel drug delivery systems. Adv. Drug Deliv. Rev. 2000;45:89–121. doi: 10.1016/S0169-409X(00)00103-4. [PubMed] [CrossRef] [Google Scholar]65. Anton N., Vandamme T.F. Nano-emulsions and micro-emulsions: Clarifications of the critical differences. Pharm. Res. 2011;28:978–985. doi: 10.1007/s11095-010-0309-1. [PubMed] [CrossRef] [Google Scholar]66. McClements D.J. Nanoemulsions versus microemulsions: Terminology, differences, and similarities. Soft Matter. 2012;8:1719–1729. doi: 10.1039/C2SM06903B. [CrossRef] [Google Scholar]67. Lu Y., Qi J., Wu W. Absorption, Disposition and Pharmacokinetics of Nanoemulsions. Curr. Drug Metab. 2012;13:396–417. doi: 10.2174/138920012800166544. [PubMed] [CrossRef] [Google Scholar]68. Muschiolik G., Scherze I., Preissler P., Weiß J., Knoth A., Fechner A. Multiple Emulsions—Preparation and Stability; Proceedings of the 13th World Congress of Food Science & Technology; Nantes, France. 17–21 September 2006; Les Ulis, France: EDP Sciences; 2006.  [Google Scholar]69. Raynal S., Grossiord J.L., Seiller M., Clausse D. A topical W/O/W multiple emulsion containing several active substances: Formulation, characterization and study of release. J. Control. Release. 1993;26:129–140. doi: 10.1016/0168-3659(93)90112-I. [CrossRef] [Google Scholar]70. Gupta A., Eral H.B., Hatton T.A., Doyle P.S. Nanoemulsions: Formation, properties and applications. Soft Matter. 2016;12:2826–2841. doi: 10.1039/C5SM02958A. [PubMed] [CrossRef] [Google Scholar]71. Talegaonkar S., Azeem A., Ahmad F., Khar R., Pathan S., Khan Z. Microemulsions: A Novel Approach to Enhanced Drug Delivery. Recent Pat. Drug Deliv. Formul. 2008;2:238–257. doi: 10.2174/187221108786241679. [PubMed] [CrossRef] [Google Scholar]72. Pouton C.W. Formulation of self-emulsifying drug delivery systems. Adv. Drug Deliv. Rev. 1997;25:47–58. doi: 10.1016/S0169-409X(96)00490-5. [CrossRef] [Google Scholar]73. Laffleur F., Bernkop-Schnürch A. Strategies for improving mucosal drug delivery. Nanomedicine. 2013;8:2061–2075. doi: 10.2217/nnm.13.178. [PubMed] [CrossRef] [Google Scholar]74. Song R., Yan F., Cheng M., Dong F., Lin Y., Wang Y., Song B. Ultrasound-assisted preparation of exopolysaccharide/nystatin nanoemulsion for treatment of vulvovaginal candidiasis. Int. J. Nanomed. 2020;15:2027–2044. doi: 10.2147/IJN.S241134. [PMC free article] [PubMed] [CrossRef] [Google Scholar]75. dos Santos Ramos M.A., Da Silva P.B., De Toledo L.G., Oda F.B., Da Silva I.C., dos Santos L.C., dos Santos A.G., De Almeida M.T.G., Pavan F.R., Chorilli M., et al. Intravaginal delivery of syngonanthus nitens (Bong.) Ruhland fraction based on a nanoemulsion system applied to vulvovaginal candidiasis treatment. J. Biomed. Nanotechnol. 2019;15:1072–1089. doi: 10.1166/jbn.2019.2750. [PubMed] [CrossRef] [Google Scholar]76. D’Cruz O.J., Uckun F.M. Vaginal contraceptive activity of a chelated vanadocene. Contraception. 2005;72:146–156. doi: 10.1016/j.contraception.2005.02.005. [PubMed] [CrossRef] [Google Scholar]77. D’Cruz O.J., Uckun F.M. Gel-microemulsions as vaginal spermicides and intravaginal drug delivery vehicles. Contraception. 2001;64:113–123. doi: 10.1016/S0010-7824(01)00233-5. [PubMed] [CrossRef] [Google Scholar]78. Frank L.A., Gazzi R.P., Mello P.A., Chaves P., Peña F., Beck R.C.R., Buffon A., Pohlmann A.R., Guterres S.S. Anti-HPV Nanoemulsified-Imiquimod: A New and Potent Formulation to Treat Cervical Cancer. AAPS PharmSciTech. 2020;21:54. doi: 10.1208/s12249-019-1558-x. [PubMed] [CrossRef] [Google Scholar]79. Atinderpal K., Kapoor N., Gupta S., Tyag A., Sharma R.K., Ali J., Gabrani R., Dang S. Development and Characterization of Green Tea Catechins and Ciprofloxacin-loaded Nanoemulsion for Intravaginal Delivery to Treat Urinary Tract Infection. Indian J. Pharm. Sci. 2018;80:442–452. doi: 10.4172/pharmaceutical-sciences.1000377. [CrossRef] [Google Scholar]80. Campaña-Seoane M., Pérez-Gago A., Vázquez G., Conde N., González P., Martinez A., Martínez X., García Varela L., Herranz M., Aguiar P., et al. Vaginal residence and pharmacokinetic preclinical study of topical vaginal mucoadhesive W/S emulsions containing ciprofloxacin. Int. J. Pharm. 2019;554:276–283. doi: 10.1016/j.ijpharm.2018.11.022. [PubMed] [CrossRef] [Google Scholar]81. Campaña-Seoane M., Peleteiro A., Laguna R., Otero-Espinar F.J. Bioadhesive emulsions for control release of progesterone resistant to vaginal fluids clearance. Int. J. Pharm. 2014;477:495–505. doi: 10.1016/j.ijpharm.2014.10.066. [PubMed] [CrossRef] [Google Scholar]82. Bachhav Y.G., Patravale V.B. Microemulsion-based vaginal gel of clotrimazole: Formulation, in vitro evaluation, and stability studies. AAPS PharmSciTech. 2009;10:476–481. doi: 10.1208/s12249-009-9233-2. [PMC free article] [PubMed] [CrossRef] [Google Scholar]83. Abu-Azzam O., Nasr M. In vitro anti-inflammatory potential of phloretin microemulsion as a new formulation for prospective treatment of vaginitis. Pharm. Dev. Technol. 2020;25:930–935. doi: 10.1080/10837450.2020.1764032. [PubMed] [CrossRef] [Google Scholar]84. Bachhav Y.G., Patravale V.B. Microemulsion based vaginal gel of fluconazole: Formulation, in vitro and in vivo evaluation. Int. J. Pharm. 2009;365:175–179. doi: 10.1016/j.ijpharm.2008.08.021. [PubMed] [CrossRef] [Google Scholar]85. Mirani A., Kundaikar H., Velhal S., Patel V., Bandivdekar A., Degani M., Patravale V. Tetrahydrocurcumin-loaded vaginal nanomicrobicide for prophylaxis of HIV/AIDS: In silico study, formulation development, and in vitro evaluation. Drug Deliv. Transl. Res. 2019;9:828–847. doi: 10.1007/s13346-019-00633-2. [PubMed] [CrossRef] [Google Scholar]86. Patel A., Patel J. Mucoadhesive Microemulsion Based Prolonged Release Vaginal Gel for Anti-Fungal Drug. Am. J. Pharma Tech. Res. 2012;2:650–661. [Google Scholar]87. Patki M., Giusto K., Gorasiya S., Reznik S.E., Patel K. 17-α Hydroxyprogesterone Nanoemulsifying Preconcentrate-Loaded Vaginal Tablet: A Novel Non-Invasive Approach for the Prevention of Preterm Birth. Pharmaceutics. 2019;11:335.  doi: 10.3390/pharmaceutics11070335. [PMC free article] [PubMed] [CrossRef] [Google Scholar]88. Giusto K., Patki M., Koya J., Ashby C.R., Munnangi S., Patel K., Reznik S.E. A vaginal nanoformulation of a SphK inhibitor attenuates lipopolysaccharide-induced preterm birth in mice. Nanomedicine. 2019;14:2835–2851. doi: 10.2217/nnm-2019-0243. [PubMed] [CrossRef] [Google Scholar]89. Soriano-Ruiz J.L., Suñer-Carbó J., Calpena-Campmany A.C., Bozal-de Febrer N., Halbaut-Bellowa L., Boix-Montañés A., Souto E.B., Clares-Naveros B. Clotrimazole multiple W/O/W emulsion as anticandidal agent: Characterization and evaluation on skin and mucosae. Colloids Surf. B Biointerfaces. 2019;175:166–174. doi: 10.1016/j.colsurfb.2018.11.070. [PubMed] [CrossRef] [Google Scholar]90. Khattab A., Ismail S. Formulation and evaluation of oxiconazole nitrate mucoadhesive nanoemulsion based gel for treatment of fungal vaginal infection. Int. J. Pharm. Pharm. Sci. 2016;8:33–40. [Google Scholar]91. Soriano-Ruiz J.L., Calpena-Capmany A.C., Cañadas-Enrich C., Febrer N.B.-D., Suñer-Carbó J., Souto E.B., Clares-Naveros B. Biopharmaceutical profile of a clotrimazole nanoemulsion: Evaluation on skin and mucosae as anticandidal agent. Int. J. Pharm. 2019;554:105–115. doi: 10.1016/j.ijpharm.2018.11.002. [PubMed] [CrossRef] [Google Scholar]92. Kaur A., Gupta S., Tyagi A., Sharma R.K., Ali J., Gabrani R., Dang S. Development of nanoemulsion based gel loaded with phytoconstituents for the treatment of urinary tract infection and in vivo biodistribution studies. Adv. Pharm. Bull. 2017;7:611–619. doi: 10.15171/apb.2017.073. [PMC free article] [PubMed] [CrossRef] [Google Scholar]93. dos Santos M.K., Kreutz T., Danielli L.J., De Marchi J.G.B., Pippi B., Koester L.S., Fuentefria A.M., Limberger R.P. A chitosan hydrogel-thickened nanoemulsion containing Pelargonium graveolens essential oil for treatment of vaginal candidiasis. J. Drug Deliv. Sci. Technol. 2020;56:101527. doi: 10.1016/j.jddst.2020.101527. [CrossRef] [Google Scholar]94. Mirza M.A., Ahmad S., Mallick M.N., Manzoor N., Talegaonkar S., Iqbal Z. Development of a novel synergistic thermosensitive gel for vaginal candidiasis: An in vitro, in vivo evaluation. Colloids Surf. B Biointerfaces. 2013;103:275–282. doi: 10.1016/j.colsurfb.2012.10.038. [PubMed] [CrossRef] [Google Scholar]95. Srivastava N., Patel D.K., Rai V.K., Pal A., Yadav N.P. Development of emulgel formulation for vaginal candidiasis: Pharmaceutical characterization, in vitro and in vivo evaluation. J. Drug Deliv. Sci. Technol. 2018;48:490–498. doi: 10.1016/j.jddst.2018.10.013. [CrossRef] [Google Scholar]96. Gündel S.D.S., de Godoi S.N., Santos R.C.V., da Silva J.T., Leite L.B.D.M., Amaral A.C., Ourique A.F. In vivo antifungal activity of nanoemulsions containing eucalyptus or lemongrass essential oils in murine model of vulvovaginal candidiasis. J. Drug Deliv. Sci. Technol. 2020;57:101762. doi: 10.1016/j.jddst.2020.101762. [CrossRef] [Google Scholar]97. Pandit A., Kedar A., Koyate K. Hollow pessary loaded with lawsone via self-microemulsifying drug delivery system for vaginal candidiasis. J. Drug Deliv. Sci. Technol. 2020;60:101955. doi: 10.1016/j.jddst.2020.101955. [CrossRef] [Google Scholar]98. Kaur A., Saxena Y., Bansal R., Gupta S., Tyagi A., Sharma R.K., Ali J., Panda A.K., Gabrani R., Dang S. Intravaginal Delivery of Polyphenon 60 and Curcumin Nanoemulsion Gel. AAPS PharmSciTech. 2017;18:2188–2202. doi: 10.1208/s12249-016-0652-6. [PubMed] [CrossRef] [Google Scholar]99. McConville C., Friend D. Development and characterisation of a self-microemulsifying drug delivery systems (SMEDDSs) for the vaginal administration of the antiretroviral UC-781. Eur. J. Pharm. Biopharm. 2013;83:322–329. doi: 10.1016/j.ejpb.2012.10.007. [PubMed] [CrossRef] [Google Scholar]100. D’Cruz O.J., Yiv S.H., Waurzyniak B., Uckun F.M. Contraceptive efficacy and safety studies of a novel microemulsion-based lipophilic vaginal spermicide. Fertil. Steril. 2001;75:115–124. doi: 10.1016/S0015-0282(00)01636-8. [PubMed] [CrossRef] [Google Scholar]101. Tedajo G.M., Bouttier S., Grossiord J.L., Marty J.P., Seiller M., Fourniat J. In vitro microbicidal activity of W/O/W multiple emulsion for vaginal administration. Int. J. Antimicrob. Agents. 2002;20:50–56. doi: 10.1016/S0924-8579(02)00108-5. [PubMed] [CrossRef] [Google Scholar]102. Özer Ö., Özyazici M., Tedajo M., Taner M.S., Köseoglu K. W/O/W multiple emulsions containing nitroimidazole derivates for vaginal delivery. Drug Deliv. 2007;14:139–145. doi: 10.1080/10717540601067463. [PubMed] [CrossRef] [Google Scholar]103. Wang J., Wang Y., Wang Z., Wang F., He J., Yang X., Xie W., Liu Y., Zhang Y. A thermosensitive gel based on w1/o/w2 multiple microemulsions for the vaginal delivery of small nucleic acid. Drug Deliv. 2019;26:168–178. doi: 10.1080/10717544.2019.1568622. [PMC free article] [PubMed] [CrossRef] [Google Scholar]104. Tedajo G.M., Bouttier S., Fourniat J., Grossiord J.L., Marty J.P., Seiller M. Release of antiseptics from the aqueous compartments of a w/o/w multiple emulsion. Int. J. Pharm. 2005;288:63–72. doi: 10.1016/j.ijpharm.2004.09.012. [PubMed] [CrossRef] [Google Scholar]105. Köllner S., Nardin I., Markt R., Griesser J., Prüfert F., Bernkop-Schnürch A. Self-emulsifying drug delivery systems: Design of a novel vaginal delivery system for curcumin. Eur. J. Pharm. Biopharm. 2017;115:268–275. doi: 10.1016/j.ejpb.2017.03.012. [PubMed] [CrossRef] [Google Scholar]106. Perioli L., Ambrogi V., Venezia L., Giovagnoli S., Pagano C., Rossi C. Formulation studies of benzydamine mucoadhesive formulations for vaginal administration. Drug Dev. Ind. Pharm. 2009;35:769–779. doi: 10.1080/03639040802592435. [PubMed] [CrossRef] [Google Scholar]107. Griffin W.C. Classification of Surface-Active Agents by “HLB” J. Soc. Cosmet. Chem. 1949;1:311. [Google Scholar]108. Pavoni L., Perinelli D.R., Bonacucina G., Cespi M., Palmieri G.F. An overview of micro-and nanoemulsions as vehicles for essential oils: Formulation, preparation and stability. Nanomaterials. 2020;10:135.  doi: 10.3390/nano10010135. [PMC free article] [PubMed] [CrossRef] [Google Scholar]109. Rao J., McClements D.J. Formation of flavor oil microemulsions, nanoemulsions and emulsions: Influence of composition and preparation method. J. Agric. Food Chem. 2011;59:5026–5035. doi: 10.1021/jf200094m. [PubMed] [CrossRef] [Google Scholar]110. Nazir H., Zhang W., Liu Y., Chen X., Wang L., Naseer M.M., Ma G. Silicone oil emulsions: Strategies to improve their stability and applications in hair care products. Int. J. Cosmet. Sci. 2014;36:124–133. doi: 10.1111/ics.12104. [PubMed] [CrossRef] [Google Scholar]111. Vieira O.V., Hartmann D.O., Cardoso C.M.P., Oberdoerfer D., Baptista M., Santos M.A.S., Almeida L., Ramalho-Santos J., Vaz W.L.C. Surfactants as microbicides and contraceptive agents: A systematic In Vitro study. PLoS ONE. 2008;3:e2913.  doi: 10.1371/journal.pone.0002913. [PMC free article] [PubMed] [CrossRef] [Google Scholar]112. Inácio Â.S., Mesquita K.A., Baptista M., Ramalho-Santos J., Vaz W.L.C., Vieira O.V. In vitro surfactant structure-toxicity relationships: Implications for surfactant use in sexually transmitted infection prophylaxis and contraception. PLoS ONE. 2011;6:e19850.  doi: 10.1371/journal.pone.0019850. [PMC free article] [PubMed] [CrossRef] [Google Scholar]113. Niruthisard S., Roddy R.E., Chutivongse S. The effects of frequent nonoxynol-9 use on the vaginal and cervical mucosa. Sex. Transm. Dis. 1991;18:176–179. doi: 10.1097/00007435-199107000-00010. [PubMed] [CrossRef] [Google Scholar]114. Jirwankar P., Gobbooru S., Shao J. Self-Emulsified Nanoemulsion for Vaginal Administration: In Vitro Study of Effect on Lactobacillus acidophilus. J. Pharm. Sci. 2020;109:3145–3152. doi: 10.1016/j.xphs.2020.07.005. [PubMed] [CrossRef] [Google Scholar]115. Rahman M.A., Hussain A., Hussain M.S., Mirza M.A., Iqbal Z. Role of excipients in successful development of self-emulsifying/ microemulsifying drug delivery system (SEDDS/SMEDDS) Drug Dev. Ind. Pharm. 2013;39:1–19. doi: 10.3109/03639045.2012.660949. [PubMed] [CrossRef] [Google Scholar]116. Zeng L., Xin X., Zhang Y. Development and characterization of promising Cremophor EL-stabilized o/w nanoemulsions containing short-chain alcohols as a cosurfactant. RSC Adv. 2017;7:19815–19827. doi: 10.1039/C6RA27096D. [CrossRef] [Google Scholar]117. Djekic L., Primorac M. The influence of cosurfactants and oils on the formation of pharmaceutical microemulsions based on PEG-8 caprylic/capric glycerides. Int. J. Pharm. 2008;352:231–239. doi: 10.1016/j.ijpharm.2007.10.041. [PubMed] [CrossRef] [Google Scholar]118. Zhang M., Yang B., Liu W., Li S. Influence of hydroxypropyl methylcellulose, methylcellulose, gelatin, poloxamer 407 and poloxamer 188 on the formation and stability of soybean oil-in-water emulsions. Asian J. Pharm. Sci. 2017;12:521–531. doi: 10.1016/j.ajps.2017.05.009. [PMC free article] [PubMed] [CrossRef] [Google Scholar]119. Surh J., Decker E.A., McClements D.J. Properties and stability of oil-in-water emulsions stabilized by fish gelatin. Food Hydrocoll. 2006;20:596–606. doi: 10.1016/j.foodhyd.2005.06.002. [CrossRef] [Google Scholar]120. Said dos Santos R., Rosseto H.C., Bassi da Silva J., Vecchi C.F., Caetano W., Bruschi M.L. The effect of carbomer 934P and different vegetable oils on physical stability, mechanical and rheological properties of emulsion-based systems containing propolis. J. Mol. Liq. 2020;307:112969. doi: 10.1016/j.molliq.2020.112969. [CrossRef] [Google Scholar]121. Mou D., Chen H., Du D., Mao C., Wan J., Xu H., Yang X. Hydrogel-thickened nanoemulsion system for topical delivery of lipophilic drugs. Int. J. Pharm. 2008;353:270–276. doi: 10.1016/j.ijpharm.2007.11.051. [PubMed] [CrossRef] [Google Scholar]122. Perez-Moral N., Watt S., Wilde P. Comparative study of the stability of multiple emulsions containing a gelled or aqueous internal phase. Food Hydrocoll. 2014;42:215–222. doi: 10.1016/j.foodhyd.2014.05.023. [CrossRef] [Google Scholar]123. Sato A.C.K., Moraes K.E.F.P., Cunha R.L. Development of gelled emulsions with improved oxidative and pH stability. Food Hydrocoll. 2014;34:184–192. doi: 10.1016/j.foodhyd.2012.10.016. [CrossRef] [Google Scholar]124. Ashara K.C., Paun J.S., Soniwala M.M., Chavda J.R., Mendapara V.P., Mori N.M. Microemulgel: An overwhelming approach to improve therapeutic action of drug moiety. Saudi Pharm. J. 2016;24:452–457. doi: 10.1016/j.jsps.2014.08.002. [PMC free article] [PubMed] [CrossRef] [Google Scholar]125. Debeli D.K., Lin C., Mekbib D.B., Hu L., Deng J., Gan L., Shan G. Controlling the Stability and Rheology of Copolyol Dispersions in Fatty Alcohol Ethoxylate (AEO9)-Stabilized Multiple Emulsions. Ind. Eng. Chem. Res. 2020;59:18307–18317. doi: 10.1021/acs.iecr.0c03792. [CrossRef] [Google Scholar]126. Rai V.K., Mishra N., Yadav K.S., Yadav N.P. Nanoemulsion as pharmaceutical carrier for dermal and transdermal drug delivery: Formulation development, stability issues, basic considerations and applications. J. Control. Release. 2018;270:203–225. doi: 10.1016/j.jconrel.2017.11.049. [PubMed] [CrossRef] [Google Scholar]127. Ph. Eur. 10.0, 1164 (01/2008)  [(accessed on 11 June 2021)]; Available online:  https://www.edqm.eu/en/european-pharmacopoeia-ph-eur-10th-edition128. Nakamura F., Ohta R., Machida Y., Nagai T. In vitro and in vivo nasal mucoadhesion of some water-soluble polymers. Int. J. Pharm. 1996;134:173–181. doi: 10.1016/0378-5173(95)04416-7. [CrossRef] [Google Scholar]129. Gué E., Since M., Ropars S., Herbinet R., Le Pluart L., Malzert-Fréon A. Evaluation of the versatile character of a nanoemulsion formulation. Int. J. Pharm. 2016;498:49–65. doi: 10.1016/j.ijpharm.2015.12.010. [PubMed] [CrossRef] [Google Scholar]130. Van Der Pol E., Hoekstra A.G., Sturk A., Otto C., Van Leeuwen T.G., Nieuwland R. Optical and non-optical methods for detection and characterization of microparticles and exosomes. J. Thromb. Haemost. 2010;8:2596–2607. doi: 10.1111/j.1538-7836.2010.04074.x. [PubMed] [CrossRef] [Google Scholar]131. Danaei M., Dehghankhold M., Ataei S., Davarani F.H., Javanmard R., Dokhani A., Khorasani S., Mozafari M.R. Impact of particle size and polydispersity index on the clinical applications of lipidic nanocarrier systems. Pharmaceutics. 2018;10:57.  doi: 10.3390/pharmaceutics10020057. [PMC free article] [PubMed] [CrossRef] [Google Scholar]132. Silva H.D., Cerqueira M.A., Vicente A.A. Influence of surfactant and processing conditions in the stability of oil-in-water nanoemulsions. J. Food Eng. 2015;167:89–98. doi: 10.1016/j.jfoodeng.2015.07.037. [CrossRef] [Google Scholar]133. Bhattacharjee S. DLS and zeta potential—What they are and what they are not? J. Control. Release. 2016;235:337–351. doi: 10.1016/j.jconrel.2016.06.017. [PubMed] [CrossRef] [Google Scholar]134. Edsman K., Hägerström H. Pharmaceutical applications of mucoadhesion for the non-oral routes. J. Pharm. Pharmacol. 2005;57:3–22. doi: 10.1211/0022357055227. [PubMed] [CrossRef] [Google Scholar]135. Tietz K., Klein S. Simulated Genital Tract Fluids and Their Applicability in Drug Release/Dissolution Testing of Vaginal Dosage Forms. Dissolut. Technol. 2018;25:40–51. doi: 10.14227/DT250318P40. [CrossRef] [Google Scholar]136. Gurpret K., Singh S.K. Singh Review of Nanoemulsion Formulation and Characterization Techniques. Indian J. Pharm. Sci. 2018;80:781–789. doi: 10.4172/pharmaceutical-sciences.1000422. [CrossRef] [Google Scholar]137. Dissolution Test USP 28, 2nd Supplement, Official 1 August 2005.  [(accessed on 11 June 2021)]; Available online:  https://www.usp.org/sites/default/files/usp/document/harmonization/gen-method/q01_pf_ira_33_4_2007.pdf138. Ph. Eur. 10.0, 20903 (01/2016)  [(accessed on 11 June 2021)]; Available online:  https://www.edqm.eu/en/european-pharmacopoeia-ph-eur-10th-edition139. Salamanca C.H., Barrera-Ocampo A., Lasso J.C., Camacho N., Yarce C.J. Franz diffusion cell approach for pre-formulation characterisation of ketoprofen semi-solid dosage forms. Pharmaceutics. 2018;10:148.  doi: 10.3390/pharmaceutics10030148. [PMC free article] [PubMed] [CrossRef] [Google Scholar]140. Lírio J., Giraldo P.C., Amaral R.L., Sarmento A.C.A., Costa A.P.F., Goncalves A.K. Antifungal (oral and vaginal) therapy for recurrent vulvovaginal candidiasis: A systematic review protocol. BMJ Open. 2019;9:e027489. doi: 10.1136/bmjopen-2018-027489. [PMC free article] [PubMed] [CrossRef] [Google Scholar]141. Kendirci M., Koç A.N., Kurtoglu S., Keskin M., Kuyucu T. Vulvovaginal candidiasis in children and adolescents with type 1 diabetes mellitus. J. Pediatr. Endocrinol. Metab. 2004;17:1545–1549. doi: 10.1515/JPEM.2004.17.11.1545. [PubMed] [CrossRef] [Google Scholar]142. Denning D.W., Kneale M., Sobel J.D., Rautemaa-Richardson R. Global burden of recurrent vulvovaginal candidiasis: A systematic review. Lancet Infect. Dis. 2018;18:e339–e347. doi: 10.1016/S1473-3099(18)30103-8. [PubMed] [CrossRef] [Google Scholar]143. Foxman B., Muraglia R., Dietz J.P., Sobel J.D., Wagner J. Prevalence of recurrent vulvovaginal candidiasis in 5 European countries and the United States: Results from an internet panel survey. J. Low. Genit. Tract Dis. 2013;17:340–345. doi: 10.1097/LGT.0b013e318273e8cf. [PubMed] [CrossRef] [Google Scholar]144. Bhesania A.H., Narayankhedkar A. Vulvovaginal Candidosis. Int. J. Curr. Microbiol. Appl. Sci. 2017;6:240–250. doi: 10.20546/ijcmas.2017.601.029. [CrossRef] [Google Scholar]145. Konadu D.G., Owusu-Ofori A., Yidana Z., Boadu F., Iddrisu L.F., Adu-Gyasi D., Dosoo D., Awuley R.L., Owusu-Agyei S., Asante K.P. Prevalence of vulvovaginal candidiasis, bacterial vaginosis and trichomoniasis in pregnant women attending antenatal clinic in the middle belt of Ghana. BMC Pregnancy Childbirth. 2019;19:341.  doi: 10.1186/s12884-019-2488-z. [PMC free article] [PubMed] [CrossRef] [Google Scholar]146. Kovács K., Stampf G., Klebovich I., Antal I., Ludányi K. Aqueous solvent system for the solubilization of azole compounds. Eur. J. Pharm. Sci. 2009;36:352–358. doi: 10.1016/j.ejps.2008.10.007. [PubMed] [CrossRef] [Google Scholar]147. Bhesaniya K., Nandha K., Baluja S. Thermodynamics of fluconazole solubility in various solvents at different temperatures. J. Chem. Eng. Data. 2014;59:649–652. doi: 10.1021/je4010257. [CrossRef] [Google Scholar]148. Kracht T., Müller-Goymann C.C. Antifungal efficacy of liquid poloxamer 407-based emulsions loaded with sertaconazole nitrate. Int. J. Pharm. 2020;585:119400. doi: 10.1016/j.ijpharm.2020.119400. [PubMed] [CrossRef] [Google Scholar]149. Ferreira P.G., Noronha L., Teixeira R., Vieira I., Borba-Santos L.P., Viçosa A., de Moraes M., Calil-Elias S., de Freitas Z., da Silva F.C., et al. Investigation of a Microemulsion Containing Clotrimazole and Itraconazole for Transdermal Delivery for the Treatment of Sporotrichosis. J. Pharm. Sci. 2020;109:1026–1034. doi: 10.1016/j.xphs.2019.10.009. [PubMed] [CrossRef] [Google Scholar]150. Talaat S.M., Elnaggar Y.S.R., Abdalla O.Y. Lecithin Microemulsion Lipogels Versus Conventional Gels for Skin Targeting of Terconazole: In Vitro, Ex Vivo, and In Vivo Investigation. AAPS PharmSciTech. 2019;20:161. doi: 10.1208/s12249-019-1374-3. [PubMed] [CrossRef] [Google Scholar]151. Tiwari N., Sivakumar A., Mukherjee A., Chandrasekaran N. Enhanced antifungal activity of Ketoconazole using rose oil based novel microemulsion formulation. J. Drug Deliv. Sci. Technol. 2018;47:434–444. doi: 10.1016/j.jddst.2018.07.007. [CrossRef] [Google Scholar]152. Suñer-Carbó J., Boix-Montañés A., Halbaut-Bellowa L., Velázquez-Carralero N., Zamarbide-Ledesma J., Bozal-de-Febrer N., Calpena-Campmany A.C. Skin permeation of econazole nitrate formulated in an enhanced hydrophilic multiple emulsion. Mycoses. 2017;60:166–177. doi: 10.1111/myc.12575. [PubMed] [CrossRef] [Google Scholar]153. Suyal J., Bhatt G., Singh N. Formulation and evaluation of nanoemulsion for enhanced bioavailability of itraconazole. Int. J. Pharm. Sci. Res. 2018;9:2927–2931. doi: 10.13040/ijpsr.0975-8232.9(7).2927-31. [CrossRef] [Google Scholar]154. Coneac G., Vlaia V., Olariu I., Muţ A.M., Anghel D.F., Ilie C., Popoiu C., Lupuleasa D., Vlaia L. Development and Evaluation of New Microemulsion-Based Hydrogel Formulations for Topical Delivery of Fluconazole. AAPS PharmSciTech. 2015;16:889–904. doi: 10.1208/s12249-014-0275-8. [PMC free article] [PubMed] [CrossRef] [Google Scholar]155. De Campos V.E.B., Cerqueira-Coutinho C.S., Capella F.N.C., Soares B.G., Holandino C., Mansur C.R.E. Development and in vitro assessment of nanoemulsion for delivery of ketoconazole against Candida albicans. J. Nanosci. Nanotechnol. 2017;17:4623–4630. doi: 10.1166/jnn.2017.13445. [CrossRef] [Google Scholar]156. Ebenazer A., Franklyne J.S., Tiwari N., Ch P.A.R., Mukherjee A., Chandrasekaran N. In Vivo Testing and Extended Drug Release of Chitosan-Coated Itraconazole Loaded Microemulsion Using Volatile Oil Thymus vulgaris. Rev. Bras. Farmacogn. 2020;30:279–289. doi: 10.1007/s43450-020-00042-4. [CrossRef] [Google Scholar]157. Kaewbanjong J., Heng P.W.S., Boonme P. Clotrimazole microemulsion and microemulsion-based gel: Evaluation of buccal drug delivery and irritancy using chick chorioallantoic membrane as the model. J. Pharm. Pharmacol. 2017;69:1716–1723. doi: 10.1111/jphp.12809. [PubMed] [CrossRef] [Google Scholar]158. Banerjee K., Curtis E., De San Lazaro C., Graham J.C. Low prevalence of genital candidiasis in children. Eur. J. Clin. Microbiol. Infect. Dis. 2004;23:696–698. doi: 10.1007/s10096-004-1189-2. [PubMed] [CrossRef] [Google Scholar]159. Shapiro R.A., Schubert C.J., Siegel R.M. Neisseria gonorrhea infections in girls younger than 12 years of age evaluated for vaginitis. Pediatrics. 1999;104:e72. doi: 10.1542/peds.104.6.e72. [PubMed] [CrossRef] [Google Scholar]160. Giugno S., Risso P., Ocampo D., Rahman G., Rubinstein D.A. Vulvovaginitis in a pediatric population: Relationship among etiologic agents, age and Tanner staging of breast development. Arch. Argent. Pediatr. 2014;112:65–70. doi: 10.1590/S0325-00752014000100012. [PubMed] [CrossRef] [Google Scholar]161. Randelović G., Mladenović V., Ristić L., Otašević S., Branković S., Mladenović-Antić S., Bogdanović M., Bogdanović D. Microbiological aspects of vulvovaginitis in prepubertal girls. Eur. J. Pediatr. 2012;171:1203–1208. doi: 10.1007/s00431-012-1705-9. [PubMed] [CrossRef] [Google Scholar]162. Jones R. Childhood vulvovaginitis and vaginal discharge in general practice. Fam. Pract. 1996;13:369–372. doi: 10.1093/fampra/13.4.369. [PubMed] [CrossRef] [Google Scholar]163. Cox R.A. Haemophilus influenzae: An underrated cause of vulvovaginitis in young girls. J. Clin. Pathol. 1997;50:765–768. doi: 10.1136/jcp.50.9.765. [PMC free article] [PubMed] [CrossRef] [Google Scholar]164. Bumbuliene Ž., Venclavičiute K., Ramašauskaite D., Arlauskiene A., Bumbul E., Drasutiene G. Microbiological findings of vulvovaginitis in prepubertal girls. Postgrad. Med. J. 2014;90:8–12. doi: 10.1136/postgradmedj-2013-131959. [PubMed] [CrossRef] [Google Scholar]165. Yilmaz A.E., Celik N., Soylu G., Donmez A., Yuksel C. Comparison of clinical and microbiological features of vulvovaginitis in prepubertal and pubertal girls. J. Formos. Med. Assoc. 2012;111:392–396. doi: 10.1016/j.jfma.2011.05.013. [PubMed] [CrossRef] [Google Scholar]166. Africa C.W. Efficacy of methods used for the diagnosis of bacterial vaginosis. Expert Opin. Med. Diagn. 2013;7:189–200. doi: 10.1517/17530059.2013.753876. [PubMed] [CrossRef] [Google Scholar]167. Amsel R., Totten P.A., Spiegel C.A., Chen K.C.S., Eschenbach D., Holmes K.K. Nonspecific vaginitis. Diagnostic criteria and microbial and epidemiologic associations. Am. J. Med. 1983;74:14–22. doi: 10.1016/0002-9343(83)91112-9. [PubMed] [CrossRef] [Google Scholar]168. Silva Cunha A., Grossiord J.L., Seiller M.  Pharmaceutical applications. In: Grossiord J.L., Seiller M., editors. Multiple Emulsions: Structure, Properties and Applications. Editions de Sante; Paris, France: 1996. pp. 279–312. [Google Scholar]169. Morimoto Y., Sugibayashi K., Yamaguchi Y., Kato Y. Detoxication capacity of a multiple (w/o/w) emulsion for the treatment of drug overdose: Drug extraction into the emulsion in the gastro-intestinal tract of rabbits. Chem. Pharm. Bull. 1979;27:3188–3192. doi: 10.1248/cpb.27.3188. [PubMed] [CrossRef] [Google Scholar]170. Trussell J., Kost K. Contraceptive Failure in the United States: A Critical Review of the Literature. Stud. Fam. Plann. 1987;18:237. doi: 10.2307/1966856. [PubMed] [CrossRef] [Google Scholar]171. Weir S.S., Roddy R.E., Zekeng L., Feldblum P.J. Nonoxynol-9 use, genital ulcers, and HIV infection in a cohort of sex workers. Genitourin. Med. 1995;71:78–81. doi: 10.1136/sti.71.2.78. [PMC free article] [PubMed] [CrossRef] [Google Scholar]172. D’Cruz O.J., Samuel P., Uckun F.M. Conceival, a novel noncontraceptive vaginal vehicle for lipophilic microbicides. AAPS PharmSciTech. 2005;6:E56–E64. doi: 10.1208/pt060111. [PMC free article] [PubMed] [CrossRef] [Google Scholar]Articles from International Journal of Molecular Sciences are provided here courtesy of Multidisciplinary Digital Publishing Institute  (MDPI)
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (2.2M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,839 @@
+Document Name: role of Mineral Oil 80/90 in Cold Cream3
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7759112/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The efficacy and safety of sunscreen use for the prevention of skin cancer - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+CMAJ
+
+
+v.192(50); 2020 Dec 14
+
+
+                    PMC7759112
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (367K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+CMAJ
+
+
+v.192(50); 2020 Dec 14
+
+
+                    PMC7759112
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+CMAJ. 2020 Dec 14; 192(50): E1802–E1808.  doi: 10.1503/cmaj.201085PMCID: PMC7759112PMID: 33318091The efficacy and safety of sunscreen use for the prevention of skin cancerMegan Sander, MD, Michael Sander, DMD, Toni Burbidge, MD, and  Jennifer Beecker, MDAuthor information Copyright and License information DisclaimerDepartment of Medicine (Megan Sander, Burbidge), Section of Dermatology, and Cumming School of Medicine (Michael Sander), University of Calgary, Calgary, Alta.; Division of Dermatology (Beecker), Department of Medicine, The Ottawa Hospital; Faculty of Medicine (Beecker), University of Ottawa and The Ottawa Hospital Research institute (Beecker), Ottawa, Ont.Corresponding author.Correspondence to: Megan Sander, ac.yraglacu@rednasmCopyright © 2020 Joule Inc. or its licensorsKEY POINTS
+Several well-conducted randomized controlled trials with long follow-up showed that sunscreen use reduces the risk of squamous cell and melanoma skin cancers.
+Commercial sunscreens protect against the skin-damaging effects of ultraviolet radiation through either chemical or physical ingredients.
+The Canadian Dermatology Association recommends the use of an adequate dose of a broad-spectrum sunscreen with a sun protection factor of at least 30 for most children and adults, as part of a comprehensive photoprotection strategy.
+Emerging evidence suggests that some chemical sunscreen ingredients are systemically absorbed, but the clinical importance of this remains unclear; further research is required to establish whether this results in harm.
+Ultraviolet filters found within chemical sunscreens may be harmful to the environment.In Canada, more than 80 000 cases of skin cancer are diagnosed every year.1 Because exposure to ultraviolet radiation is estimated to be associated with 80%–90% of skin cancers, the use of sunscreen — which blocks ultraviolet radiation — is promoted as an important means of preventing skin cancers,2,3 as well as sunburn and skin photoaging (see definitions in Appendix 1, available at www.cmaj.ca/lookup/doi/10.1503/cmaj.201085/tab-related-content). Use of sunscreen has been shown to reduce the incidence of both melanoma and nonmelanoma skin cancers.4,5 Both the Canadian Dermatology Association and the American Academy of Dermatology recommend the use of sunscreen for the prevention of skin cancer.6,7 Yet, since the development of the first commercial sunscreen in 1928, questions regarding the safety and efficacy of sunscreen have been raised, and more recently, the impact of sunscreens on the environment has become a cause for concern. We summarize evidence related to the effectiveness and harms of sunscreen to help physicians counsel their patients (Box 1).Box 1:Evidence used in this reviewWe conducted a targeted search of MEDLINE using a combination of the search terms “sunscreen,” “skin cancer,” “melanoma,” “squamous cell carcinoma,” “basal cell carcinoma,” “photoaging,” “safety” and “environment” to identify studies published from 1984 to 2020. We particularly sought randomized controlled trials, systematic reviews and meta-analyses relevant to this article’s clinical questions. We also identified relevant review articles, basic science publications and institutional guidelines. We supplemented our search with literature from our own collections.How do sunscreens work?Sunscreens contain chemical (organic) or physical (inorganic) compounds that act to block ultraviolet radiation, which is light with wavelengths shorter than visible light (subdivided into ultraviolet A [UVA]1, UVA2, ultraviolet B [UVB] and ultraviolet C [UVC]), as shown in Figure 1. Generally, the shorter the wavelength, the greater the potential for light radiation to cause biological damage. Sunscreen filters are active against UVA1, UVA2 and UVB radiation. Chemical filters, such as oxybenzone, avobenzone, octocrylene and ecamsule, are aromatic compounds that absorb high-intensity ultraviolet radiation, resulting in excitation to higher energy states. When these molecules return to their ground states, the result is conversion of the absorbed energy into lower-energy wavelengths, such as infrared radiation (i.e., heat).8Open in a separate windowFigure 1:Schematic representation of the electromagnetic spectrum of light, emphasizing ultraviolet radiation (UVR) frequencies and their effect on human skin. Generally, the shorter the wavelength of radiation, the greater the potential for biological damage. Note: UVA = ultraviolet A, UVB = ultraviolet B, UVC = ultraviolet C. Sunscreen filters are active against UVA1, UVA2 and UVB radiation.Physical sunscreen filters, such as titanium dioxide and zinc oxide, reflect or refract ultraviolet radiation away from the skin; however, experimental studies have shown that when particle sizes are very small, as in micronized sunscreens, the mechanism of action is similar to that of chemical filters. More specifically, micronized zinc oxide and titanium dioxide behave as semiconductor metals, which absorb ultraviolet light throughout most of the electromagnetic spectrum.9 The sunscreen ingredients that are currently approved by Health Canada are listed in Table 1.10Table 1:Sunscreen ingredients approved by Health Canada10Medical ingredientOther namesUV protectionMedical ingredient, %Titanium dioxideNoneUVA 2≤ 25Zinc oxideNoneUVA 1≤ 25Para-aminobenzoic acidNoneUVB≤ 15AvobenzoneButyl methoxydibenzoylmethaneUVA 1≤ 3Parsol 1789UVBEnsulizole2-Phenylbenzimidazole-5-sulfonic acidUVB≤ 4HomosalateHomomenthylsalicylateUVB≤ 15MeradimateMenthyl 2-aminobenzoateUVA 2≤ 5Menthyl anthranilateOctinoxate2-Ethylhexyl methoxycinnamateUVB≤ 7.5Octyl methoxycinnamateOctisalate2-Ethylhexyl salicylateUVB≤ 5Octyl salicylateOctocrylene2-Ethylhexyl 2-cyano-3,3-diphenylacrylateUVA 2≤ 10OxybenzoneBenzophenone-3UVA 2≤ 62-Hydroxy-4-methoxybenzophenoneUVBSulisobenzoneBenzophenone-4UVA 2≤ 10Drometrizole trisiloxaneMexoryl XLUVA≤ 15Enzacamene4-Methylbenzylidene camphorUVB≤ 6Padimate-OOctyl dimethyl PABAUVB≤ 8σ-PABATerephthalylidene dicamphor sulfonic acidMexoryl SXUVA≤ 103,3¢-(1,4-Phenylenedimethylidene)UVBbis(7,7-Dimethyl-2-oxobicyclo[2.2.1]hept-1-yl methanesulfonic acid)EcamsuleCinoxate2-Ethoxyethyl 3-(4-methoxyphenyl) propenoateUVA≤ 3Diethanolamine-methoxycinnamateNoneUVB≤ 10DioxybenzoneBenzophenone-8UVA≤ 3(2-Hydroxy-4-methoxyphenyl)(2-hydroxyphenyl) methanoneUVBTriethanolamine salicylateTrolamine salicylateUVB≤ 12Open in a separate windowNote: PABA = para-aminobenzoic acid, UVA = ultraviolet A, UVB = ultraviolet B.What is the effectiveness of sunscreens in preventing photoaging and skin cancer?Evidence from observational studies,11 a large randomized controlled trial (RCT)12 and smaller, nonrandomized experimental studies13–15 support the effectiveness of sunscreens in preventing the signs of photoaging, including wrinkles, telangiectasia and pigmentary alterations induced by ultraviolet radiation.11–15 Despite the challenges of studying skin cancer, owing to its multifactorial pathogenesis and long lead time, the following evidence supports the use of sunscreen in the prevention of skin cancer.Experimental studies from the 1980s and 1990s showed that sunscreens protect against cell damage consistent with carcinogenesis in animal models.16,17 A well-conducted community-based 4.5-year RCT of 1621 adult Australians, with follow-up for more than a decade, found a 40% lower incidence of squamous cell carcinomas among participants randomized to recommended daily sunscreen compared with participants assigned to use sunscreen on a discretionary basis (rate ratio 0.61, 95% confidence interval [CI] 0.46 to 0.81).4,18 However, the incidence of basal cell carcinomas was not significantly reduced, possibly owing to the protracted pathogenesis of basal cell carcinomas.18 Almost 15 years after the completion of the study, participants who used sunscreen daily throughout the 4.5-year study period showed a significantly reduced risk of invasive melanoma (hazard ratio [HR] 0.27, 95% CI 0.08 to −0.97), although very few invasive melanomas were noted, given the long lead time for this type of tumour.5 A predefined subgroup analysis in this trial confirmed that regular use of sunscreen over a 4.5-year period can arrest signs of skin aging caused by photodamage.12 Another large Australian RCT showed a significantly reduced rate of development of actinic keratoses (a precursor to squamous cell carcinoma) among participants randomized to regular use of sunscreen, compared with controls who used a nonactive base cream over 1 summer season (rate ratio 0.62, 95% CI 0.54 to −0.71).19In organ transplant recipients, a population at high risk of morbidity and death from skin cancer, a prospective single-centre study of 120 matched patients showed that the use of sun protection factor (SPF) 50 sunscreen over 24 months reduced the development of actinic keratoses, squamous cell carcinomas and, to a lesser extent, basal cell carcinomas.20 Recent meta-analyses have not supported the findings of these RCTs, finding no significant effectiveness of sunscreen for preventing either melanoma or nonmelanoma skin cancers.21,22 However, these meta-analyses included studies with retrospective designs with methodological inconsistencies among studies, and 1 included studies that used only UVB filters (rather than broad-spectrum sunscreens).21 Overall, the highest-quality evidence available suggests that sunscreens do prevent skin cancer.Who should use sunscreen?The American Academy of Dermatology recommends regular sunscreen use with an SPF of 30 or higher for people of all skin types,23 although skin cancers are far more prevalent in White individuals than people with darker skin.24 There have been no studies to assess the effectiveness of regular sunscreen use in reducing the risk of skin cancers among people who are not White.For children older than 6 months, as well as adults, the Canadian Dermatology Association recommends the use of broad-spectrum sunscreens with an SPF of 30 or greater.7 Split-face studies have shown that sunscreens with an SPF of 100 are superior to sunscreens with an SPF of 50 for preventing sunburns under actual use conditions, in both a beach setting25 and a high-altitude skiing setting.26Health Canada does not recommend the use of sunscreen for children younger than 6 months because of the theoretical risk of increased absorption of sunscreen ingredients as a result of higher body surface-to-volume ratios and thinner epidermis.27 The mainstays of sun safety in infants include sun avoidance and protective clothing.28 If sunscreen is used in infants, experts suggest washing it off as soon as it is no longer needed,29 and favouring physical sunscreens over chemical varieties.How should sunscreen be applied?Observational studies have shown that consumers typically underapply sunscreen, with standard use ranging between 20% and 50% of the recommended application.30–32 However, using sunscreens with higher SPFs may compensate for underapplication. 26 For example, when a sunscreen with an SPF of 50 is applied under real-world conditions, the sunscreen may provide an SPF of only 25.A 2015 Canadian consensus meeting agreed that the wording “apply sunscreen generously” was most appropriate, given differences in body habitus of the public.33
+Figure 2 offers a rough estimate of the quantities of sunscreen that should be applied by a person of average height and build, based on advice from the Canadian Cancer Society and the American Academy of Dermatology.Open in a separate windowFigure 2:Visual aid to guide the correct application of sunscreen for a person of average height and body habitus, based on advice from the Canadian Cancer Society and the American Academy of Dermatology.Image courtesy of iStock.com/losw; VectorPocket; fatcat21Although product labelling often suggests that sunscreens should be applied 15 to 30 minutes before going outdoors,34 in a recent study, immediate protection against ultraviolet radiation occurred after sunscreen application, although protection after water exposure was not examined.35 Therefore, it may be prudent to wait 15 to 30 minutes if water resistance is required.Recent experimental studies have shown that sunscreen remains on the skin at the desired SPF for as long as 8 hours after a single application,35–38 suggesting that historical advice to reapply sunscreen every 2–3 hours need not be followed even when individuals are physically active. However, reapplication is suggested when the likelihood of sunscreen having been removed is high, such as after sweating, water immersion, friction from clothing and exfoliation from sand.39–41 When swimming or sweating are anticipated, water-resistant sunscreens should be used.40Spray-on sunscreens are less desirable than cream-based ones, for several reasons. Wind can disperse the sunscreen, resulting in inadequate application. Moreover, because spray-on sunscreens are often fast drying, and sometimes not clearly visible once sprayed onto the skin, it is difficult to determine whether application was homogeneous.42 Aerosolized sunscreens are also flammable, and several incidences of combustion on the skin have been reported after exposure to open flames, even after the sunscreen has been allowed to dry. Finally, the potential risks associated with inhalation of aerosolized sunscreens have not been adequately studied.43What are the key safety concerns?Skin reactionsThe most common reported adverse reactions to sunscreens include subjective irritation (e.g., stinging and burning) without a rash, irritant contact dermatitis and comedogenicity. Rarely, chemical sunscreen ingredients may also cause allergic contact dermatitis and photoallergic contact dermatitis, with the most commonly implicated allergenic ingredients being octocrylene, oxybenzone and octyl methoxycinnamate.44Absorption of sunscreenIn 2019, a small RCT with 24 participants, sponsored by the United States Food and Drug Administration, showed systemic absorption of 4 sunscreen ingredients: oxybenzone, avobenzone, octocrylene and ecamsule.45 When applied under maximal use conditions, over 4 consecutive days, blood levels for these compounds exceeded those recommended by US Food and Drug Administration guidelines.45 Moreover, the investigators noted long half-lives for each of these ingredients, suggesting that regular sunscreen use may lead to accumulation within the body.46 A follow-up study confirmed these findings.47 However, most people use far less than this volume of sunscreen and, despite their findings, the study investigators encouraged the use of sunscreen given its known protective effects, as the clinical importance of absorption of these ingredients is not yet known. Further research is needed to determine whether there are any potential health sequelae from absorption of sunscreen ingredients.In contrast to chemical sunscreen ingredients, physical sunscreens are not systemically absorbed. An in-vitro study found that less than 0.03% of zinc nanoparticles penetrated the uppermost layer of the stratum corneum, and no particles were detected in the lower stratum corneum.48 Physical sunscreens historically were less cosmetically appealing than chemical sunscreens, leaving a white residue on the skin, potentially leading to underapplication. Advances in formulation and micronization of physical ultraviolet radiation filters has led to more cosmetically acceptable physical sunscreens.49Endocrine effectsLow-quality evidence has led to concerns about possible estrogenic and antiandrogenic effects of chemical sunscreens. Although a recent meta-analysis found that oxybenzone is associated with reproductive adverse effects in fish, the summarized literature was nonuniform and the results therefore uninformative.50 Among human research participants, a prospective study noted reduced fecundity when men were exposed to benzophenone-2 and 4-hydroxybenzophenone, but the findings could be explained by study confounding.51 One systemic review, which evaluated both animal and human studies, found that high levels of oxybenzone exposure during pregnancy were associated with decreased gestational age in male neonates and decreased birthweight in female neonates.50 However, high heterogeneity limited the usefulness of the study findings.50How do sunscreens affect the environment?Some recent studies have reported that chemical sunscreen ingredients are detectable in various water sources52,53 and may persist despite waste-water treatment processing.54 An additional recent concern is the detection of sunscreen filters in the tissues of various fish species, raising the possibility of bioaccumulation and biomagnification.55The effects of sunscreen ingredients on coral reefs are a current focus of scientific investigation. In-vitro studies have shown that oxybenzone affects coral reef larvae56 and may be implicated in coral reef bleaching. However, possible confounding variables include increased ocean salinity and temperature associated with global warming.55 These preliminary studies have prompted the banning of oxybenzone and octinoxate in some jurisdictions.57What additional photoprotective measures may be used?Sunscreen is only one part of a comprehensive photoprotection strategy. It is important to counsel patients regarding behaviours for avoiding ultraviolet radiation, including the use of wide-brimmed hats, eye protection (e.g., “wrap-around” sunglasses with ultraviolet radiation protection) and seeking shade when the ultraviolet index is above 3 (usually 11 am–3 pm, April to September in Canada).33 Typically, thicker clothing with tighter weave fabrics — such as polyester and cotton, or nylon and elastane (i.e., Spandex, Lycra) — and darker colours offer greater protection. 58,59 Clothing has been designed for sun protection with an ultraviolet protection factor (UPF) up to 50.28 All clothing will become less photoprotective if it is wet or stretched.59Potential new sunscreen technologiesTopical photolyases and antioxidants (vitamin C, vitamin E, selenium and polyphenols found within green tea extracts) are emerging as potential agents of topical and nontopical photoprotection. Antioxidants cannot yet be stabilized within sunscreen formulations to remain biologically active. Studies have established that sunscreens that claim antioxidant activity have little to no actual antioxidant activity.60–62Photoprotective agents taken orally, such as niacinamide and Polypodium leucotomos extract, which is derived from a fern native to Central and South America, are used as agents for prevention of photodamage. There is evidence from small RCTs that P. leucotomos extract increases the minimal erythema dose of sun exposure without significant adverse effects, and is helpful for dermatologic diseases induced by ultraviolet radiation, such as polymorphous light eruption and solar urticaria.63–65Nicotinamide, also known as niacinamide, is the active amide form of niacin (vitamin B3). However, unlike niacin, it does not cause cutaneous flushing. Nicotinamide has been shown in early studies to enhance DNA repair and decrease the formation of cyclobutene pyrimidine dimers in human keratocytes.62 In one phase III RCT, which has not been replicated, nicotinamide 500 mg twice daily was associated with a decreased rate of development of both actinic keratoses and nonmelanoma skin cancers over a 12-month period.66 However, the skin cancers that did occur tended to be high-grade malignancies.ConclusionExposure to ultraviolet radiation is directly harmful and has been associated with the development of skin cancers, which are common in Canada. High-quality evidence has shown that sunscreen reduces the risk of developing both melanoma and nonmelanoma skin cancer. Therefore, physicians should counsel patients on photoprotection strategies, including avoiding midday sun, seeking shade and wearing protective clothing, as well as using sunscreen if sun exposure cannot be avoided. Presently, the Canadian Dermatology Association recommends the use of a broad-spectrum sunscreen with an SPF of at least 30 for people older than 6 months, for photoprotection. Low-quality evidence has shown that some chemical sunscreen ingredients are systemically absorbed and may be contributing to environmental damage; people who are concerned may consider using physical sunscreens as an alternative. Research on the safety and efficacy of established sunscreens and novel agents is ongoing.FootnotesCompeting interests: Toni Burbidge reports receiving honoraria from AbbVie, Celgene, Janssen, Leo Pharmaceuticals and Lilly. No other competing interests were declared.This article has been peer reviewed.Contributors: All of the authors contributed to the conception and design of the work, and the acquisition, analysis and interpretation of data. All of the authors drafted the manuscript, revised it critically for important intellectual content, gave final approval of the version to be published and agreed to be accountable for all aspects of the work.References1. Canadian Cancer Society’s Advisory Committee on Cancer Statistics. Canadian cancer statistics 2014: special topic: skin cancers. Canadian Cancer Statistics. Toronto: Canadian Cancer Society; 2014:1–132. Available: www.cancer.ca/~/media/cancer.ca/CW/cancerinformation/cancer101/Canadiancancerstatistics/Canadian-Cancer-Statistics-2014-EN.pdf (accessed 2020 Mar. 15). [Google Scholar]2. Koh HK, Geller AC, Miller DR, et al.
+Prevention and early detection strategies for melanoma and skin cancer. Current status. Arch Dermatol
+1996;132:436–43. [PubMed] [Google Scholar]3. Parkin DM, Mesher D, Sasieni P.
+13. Cancers attributable to solar (ultraviolet) radiation exposure in the UK in 2010. Br J Cancer
+2011;105(Suppl 2):S66–9. [PMC free article] [PubMed] [Google Scholar]4. Green A, Williams G, Neale R, et al.
+Daily sunscreen application and betacarotene supplementation in prevention of basal-cell and squamous-cell carcinomas of the skin: a randomised controlled trial. Lancet
+1999;354:723–9. [PubMed] [Google Scholar]5. Green AC, Williams GM, Logan V, et al.
+Reduced melanoma after regular sunscreen use: randomized trial follow-up. J Clin Oncol
+2011;29:257–63. [PubMed] [Google Scholar]6. Prevent skin cancer. Schaumburg (IL): American Academy of Dermatology; 2016:1
+Available: www.aad.org/public/diseases/skin-cancer/prevent/how (accessed 2020 Mar. 15). [Google Scholar]7. Canadian Dermatology Association position statement sun protection and sunscreen use. Ottawa: Canadian Dermatology Association; 2020. 
+Available: https://dermatology.ca/wp-content/uploads/2020/02/Sun-Protection-and-Sunscreen-Use-Position-Statement-EN.pdf (accessed 2020 Mar. 15). [Google Scholar]8. Gasparro FP, Mitchnick M, Nash JF.
+A review of sunscreen safety and efficacy. Photochem Photobiol
+1998;68:243–56. [PubMed] [Google Scholar]9. Geoffrey K, Mwangi AN, Maru SM.
+Sunscreen products: rationale for use, formulation development and regulatory considerations. Saudi Pharm J
+2019;27:1009–18. [PMC free article] [PubMed] [Google Scholar]10. Draft: guidance document — sunscreen monograph. Ottawa: Health Canada; 2012. 
+Available: www.canada.ca/en/health-canada/services/drugs-health-products/public-involvement-consultations/natural-health-products/draft-guidance-document-sunscreen-monograph-consultation-document.html (accessed 2020 Mar. 10). [Google Scholar]11. Boyd AS, Naylor M, Cameron GS, et al.
+The effects of chronic sunscreen use on the histologic changes of dermatoheliosis. J Am Acad Dermatol
+1995;33:941–6. [PubMed] [Google Scholar]12. Hughes MCB, Williams GM, Baker P, et al.
+Sunscreen and prevention of skin aging: a randomized trial. Ann Intern Med
+2013;158:781–90. [PubMed] [Google Scholar]13. Phillips TJ, Bhawan J, Yaar M, et al.
+Effect of daily versus intermittent sunscreen application on solar simulated UV radiation-induced skin response in humans. J Am Acad Dermatol
+2000;43:610–8. [PubMed] [Google Scholar]14. Seité S, Reinhold K, Jaenicke T, et al.
+Broad-spectrum moisturizer effectively prevents molecular reactions to UVA radiation. Cutis
+2012;90:321–6. [PubMed] [Google Scholar]15. Iannacone MR, Hughes MCB, Green AC.
+Effects of sunscreen on skin cancer and photoaging. Photodermatol Photoimmunol Photomed
+2014;30:55–61. [PubMed] [Google Scholar]16. Sambuco CP, Forbes PD, Davies RE, et al.
+An animal model to determine sunscreen protectiveness against both vascular injury and epidermal cell damage. J Am Acad Dermatol
+1984;10:737–43. [PubMed] [Google Scholar]17. Ananthaswamy HN, Loughlin SM, Cox P, et al.
+Sunlight and skin cancer: inhibition of p53 mutations in UV-irradiated mouse skin by sunscreens. Nat Med
+1997;3:510–4. [PubMed] [Google Scholar]18. van der Pols JC, Williams GM, Pandeya N, et al.
+Prolonged prevention of squamous cell carcinoma of the skin by regular sunscreen use. Cancer Epidemiol Biomarkers Prev
+2006;15:2546–8. [PubMed] [Google Scholar]19. Thompson SC, Jolley D, Marks R.
+Reduction of solar keratoses by regular sunscreen use. N Engl J Med
+1993;329:1147–51. [PubMed] [Google Scholar]20. Ulrich C, Jürgensen JS, Degen A, et al.
+Prevention of non-melanoma skin cancer in organ transplant patients by regular use of a sunscreen: a 24 months, prospective, case-control study. Br J Dermatol
+2009;161(Suppl 3):78–84. [PubMed] [Google Scholar]21. Silva ES, Tavares R, da Paulitsch FS, et al.
+Use of sunscreen and risk of melanoma and non-melanoma skin cancer: a systematic review and meta-analysis. Eur J Dermatol
+2018;28:186–201. [PubMed] [Google Scholar]22. Rueegg CS, Stenehjem JS, Egger M, et al.
+Challenges in assessing the sunscreen-melanoma association. Int J Cancer
+2019;144:2651–68. [PMC free article] [PubMed] [Google Scholar]23. Sunscreen FAQs. Des Plaines (IL): American Academy of Dermatology Association; 2020. 
+Available: www.aad.org/media/stats-sunscreen (accessed 2020 Aug. 16). [Google Scholar]24. Gloster HM, Neal K.
+Skin cancer in skin of color. Vol. 55. J Am Acad Dermatol
+2006;55:741–60. [PubMed] [Google Scholar]25. Kohli I, Nicholson CL, Williams JD, et al.
+Greater efficacy of SPF 100+ sunscreen compared with SPF 50+ in sunburn prevention during 5 consecutive days of sunlight exposure: A randomized, double-blind clinical trial. J Am Acad Dermatol
+2020;82:869–77. [PubMed] [Google Scholar]26. Williams JD, Maitra P, Atillasoy E, et al.
+SPF 100+ sunscreen is more protective against sunburn than SPF 50+ in actual use: results of a randomized, double-blind, split-face, natural sunlight exposure clinical trial. J Am Acad Dermatol
+2018;78:902–910.e2. [PubMed] [Google Scholar]27. Recalls and safety alerts: important sunscreen safety tips for Canadians. Ottawa: Health Canada; 2018. 
+Available: https://healthycanadians.gc.ca/recall-alert-rappel-avis/hc-sc/2018/66966a-eng.php (accessed 2020 Mar. 15). [Google Scholar]28. Li H, Colantonio S, Dawson A, et al.
+Sunscreen application, safety, and sun protection: the evidence. J Cutan Med Surg
+2019;23:357–69. [PubMed] [Google Scholar]29. Cestari T, Buster K.
+Photoprotection in specific populations: children and people of color. J Am Acad Dermatol
+2017;76:S110–21. [PubMed] [Google Scholar]30. Autier P, Boniol M, Severi G, et al.European Organization for Research Treatment of Cancer Melanoma Co-operative Group. Quantity of sunscreen used by European students. Br J Dermatol
+2001;144:288–91. [PubMed] [Google Scholar]31. Petersen B, Datta P, Philipsen PA, et al.
+Sunscreen use and failures–on site observations on a sun-holiday. Photochem Photobiol Sci
+2013;12:190–6. [PubMed] [Google Scholar]32. Neale R, Williams G, Green A.
+Application patterns among participants randomized to daily sunscreen use in a skin cancer prevention trial. Arch Dermatol
+2002;138:1319–25. [PubMed] [Google Scholar]33. Marrett LD, Chu MBH, Atkinson J, et al.
+An update to the recommended core content for sun safety messages for public education in Canada: a consensus report. Can J Public Health
+2016;107:e473–9. [PMC free article] [PubMed] [Google Scholar]34. Labeling and effectiveness testing: sunscreen drug products for over-the-counter human use — small entity compliance guide. Silver Spring (MD): US Food and Drug Administration; 2012. 
+Available: www.fda.gov/regulatory-information/search-fda-guidance-documents/labeling-and-effectiveness-testing-sunscreen-drug-products-over-counter-human-use-small-entity (accessed 2020 Mar. 16). [Google Scholar]35. de Gálvez MV, Aguilera J, Buendía EA, et al.
+Time required for a standard sunscreen to become effective following application: a UV photography study. J Eur Acad Dermatol Venereol
+2018;32:e123–4. [PubMed] [Google Scholar]36. Bodekær M, Akerström U, Wulf HC.
+Accumulation of sunscreen in human skin after daily applications: a study of sunscreens with different ultraviolet radiation filters. Photodermatol Photoimmunol Photomed
+2012;28:127–32. [PubMed] [Google Scholar]37. Beyer DM, Faurschou A, Philipsen PA, et al.
+Sun protection factor persistence on human skin during a day without physical activity or ultraviolet exposure. Photodermatol Photoimmunol Photomed
+2010;26:22–7. [PubMed] [Google Scholar]38. Bodekaer M, Faurschou A, Philipsen PA, et al.
+Sun protection factor persistence during a day with physical activity and bathing. Photodermatol Photoimmunol Photomed
+2008;24:296–300. [PubMed] [Google Scholar]39. Stokes RP, Diffey BL.
+A novel ex vivo technique to assess the sand/rub resistance of sunscreen products. Int J Cosmet Sci
+2000;22:329–34. [PubMed] [Google Scholar]40. Stokes RP, Diffey BL.
+The water resistance of sunscreen and day-care products. Br J Dermatol
+1999;140:259–63. [PubMed] [Google Scholar]41. Diffey BL.
+When should sunscreen be reapplied?. J Am Acad Dermatol
+2001;45:882–5. [PubMed] [Google Scholar]42. Barr J.
+Spray-on sunscreens need a good rub. J Am Acad Dermatol
+2005;52:180–1. [PubMed] [Google Scholar]43. Pearce K, Goldsmith WT, Greenwald R, et al.
+Characterization of an aerosol generation system to assess inhalation risks of aerosolized nano-enabled consumer products. Inhal Toxicol
+2019;31:357–67. [PubMed] [Google Scholar]44. Rodríguez E, Valbuena MC, Rey M, et al.
+Causal agents of photoallergic contact dermatitis diagnosed in the national institute of dermatology of Colombia. Photodermatol Photoimmunol Photomed
+2006;22:189–92. [PubMed] [Google Scholar]45. Matta MK, Zusterzeel R, Pilli NR, et al.
+Effect of sunscreen application under maximal use conditions on plasma concentration of sunscreen active ingredients: a randomized clinical trial. JAMA
+2019;321:2082–91. [PMC free article] [PubMed] [Google Scholar]46. Califf RM, Shinkai K.
+Filling in the evidence about sunscreen. JAMA
+2019;321:2077–9. [PubMed] [Google Scholar]47. Matta MK, Florian J, Zusterzeel R, et al.
+Effect of sunscreen application on plasma concentration of sunscreen active ingredients: a randomized clinical trial. JAMA
+2020;323:256–67. [PMC free article] [PubMed] [Google Scholar]48. Filipe P, Silva JN, Silva R, et al.
+Stratum corneum is an effective barrier to TiO2 and ZnO nanoparticle percutaneous absorption. Skin Pharmacol Physiol
+2009;22:266–75. [PubMed] [Google Scholar]49. Rai R, Shanmuga SC, Srinivas C.
+Update on photoprotection. Indian J Dermatol
+2012;57:335–42. [PMC free article] [PubMed] [Google Scholar]50. Ghazipura M, McGowan R, Arslan A, et al.
+Exposure to benzophenone-3 and reproductive toxicity: a systematic review of human and animal studies. Reprod Toxicol
+2017;73:175–83. [PubMed] [Google Scholar]51. Buck Louis GM, Kannan K, Sapra KJ, et al.
+Urinary concentrations of benzophenone-type ultraviolet radiation filters and couples’ fecundity. Am J Epidemiol
+2014;180:1168–75. [PMC free article] [PubMed] [Google Scholar]52. Balmer ME, Buser H-R, Müller MD, et al.
+Occurrence of some organic UV filters in wastewater, in surface waters, and in fish from Swiss Lakes. Environ Sci Technol
+2005;39:953–62. [PubMed] [Google Scholar]53. da Silva CP, Emídio ES, de Marchi MRR.
+The occurrence of UV filters in natural and drinking water in São Paulo State (Brazil). Environ Sci Pollut Res Int
+2015;22:19706–15. [PubMed] [Google Scholar]54. Ramos S, Homem V, Alves A, et al.
+A review of organic UV-filters in wastewater treatment plants. Environ Int
+2016;86:24–44. [PubMed] [Google Scholar]55. Schneider SL, Lim HW.
+Review of environmental effects of oxybenzone and other sunscreen active ingredients. J Am Acad Dermatol
+2019;80:266–71. [PubMed] [Google Scholar]56. Downs CA, Kramarsky-Winter E, Segal R, et al.
+Toxicopathological effects of the sunscreen UV filter, oxybenzone (Benzophenone-3), on coral planulae and cultured primary cells and its environmental contamination in Hawaii and the U.S. Virgin Islands. Arch Environ Contam Toxicol
+2016;70:265–88. [PubMed] [Google Scholar]57. Ouchene L, Litvinov IV, Netchiporouk E.
+Hawaii and other jurisdictions ban oxybenzone or octinoxate sunscreens based on the confirmed adverse environmental effects of sunscreen ingredients on aquatic environments. J Cutan Med Surg
+2019;23:648–9. [PubMed] [Google Scholar]58. Sarkar AK.
+An evaluation of UV protection imparted by cotton fabrics dyed with natural colorants. BMC Dermatol
+2004;4:15. [PMC free article] [PubMed] [Google Scholar]59. Gies P.
+Photoprotection by clothing. Photodermatol Photoimmunol Photomed
+2007;23:264–74. [PubMed] [Google Scholar]60. Jansen R, Osterwalder U, Wang SQ, et al.
+Photoprotection: part II. Sunscreen: development, efficacy, and controversie. J Am Acad Dermatol
+2013;69:867.e1–14. [PubMed] [Google Scholar]61. Wang SQ, Osterwalder U, Jung K.
+Ex vivo evaluation of radical sun protection factor in popular sunscreens with antioxidants. J Am Acad Dermatol
+2011;65:525–30. [PubMed] [Google Scholar]62. Lim HW, Arellano-Mendoza M-I, Stengel F.
+Current challenges in photoprotection. J Am Acad Derm
+2017;76(3S1):S91–9. [PubMed] [Google Scholar]63. Choudhry SZ, Bhatia N, Ceilley R, et al.
+Role of oral Polypodium leucotomos extract in dermatologic diseases: a review of the literature. J Drugs Dermatol
+2014;13:148–53. [PubMed] [Google Scholar]64. Nestor MS, Berman B, Swenson N.
+Safety and efficacy of oral polypodium leucotomos extract in healthy adult subjects. J Clin Aesthet Dermatol
+2015;8:19–23. [PMC free article] [PubMed] [Google Scholar]65. Middelkamp-Hup MA, Pathak MA, Parrado C, et al.
+Oral Polypodium leucotomos extract decreases ultraviolet-induced damage of human skin. J Am Acad Dermatol
+2004;51:910–8. [PubMed] [Google Scholar]66. Chen AC, Martin AJ, Choy B, et al.
+A phase 3 randomized trial of nicotinamide for skin-cancer chemoprevention. N Engl J Med
+2015;373:1618–26. [PubMed] [Google Scholar]Articles from CMAJ : Canadian Medical Association Journal are provided here courtesy of Canadian Medical Association
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (367K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

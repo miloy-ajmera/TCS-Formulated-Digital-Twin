@@ -1,0 +1,487 @@
+File,Product,Phase,Ingredient,Weight,ProductType,ProductSubType,FunctionalityOld
+Vol2_1092.txt,FOUNDATION CREAM,A,Lamecreme KSM,20,Cream,Foundation Cream,
+Vol2_1092.txt,FOUNDATION CREAM,A,Olive Oil,4,Cream,Foundation Cream,
+Vol2_1092.txt,FOUNDATION CREAM,A,Belsil BNP,3,Cream,Foundation Cream,
+Vol2_1092.txt,FOUNDATION CREAM,B,Glycerine,4,Cream,Foundation Cream,humectant
+Vol2_1092.txt,FOUNDATION CREAM,B,Water,67.5,Cream,Foundation Cream,solvent
+Vol2_1092.txt,FOUNDATION CREAM,B,Belsil PDM 20,11,Cream,Foundation Cream,
+Vol2_1092.txt,FOUNDATION CREAM,B,Belsil CM 020,0.5,Cream,Foundation Cream,
+Vol2_1092.txt,FOUNDATION CREAM,B,"Preservatives, fragrances, pigments",,Cream,Foundation Cream,
+Vol8_1046.txt,Cover Cream,A,Candelilla Wax,5.5,Cream,Cover Cream,
+Vol8_1046.txt,Cover Cream,A,Wacker-Belsil SDM 6022,6.7,Cream,Cover Cream,
+Vol8_1046.txt,Cover Cream,B,Stearic Acid,3,Cream,Cover Cream,emulsifier/emulsion stabilising/refatting/cleansing
+Vol8_1046.txt,Cover Cream,B,Water,44.8,Cream,Cover Cream,solvent
+Vol8_1046.txt,Cover Cream,B,Propylene Glycol,3.4,Cream,Cover Cream,humectant/solvent/skin conditioning/viscosity controlling
+Vol8_1046.txt,Cover Cream,B,Triethanolamine,1.3,Cream,Cover Cream,buffering
+Vol8_1046.txt,Cover Cream,C,Titanium Dioxide,14,Cream,Cover Cream,opacifying/uv absorber
+Vol8_1046.txt,Cover Cream,D,Wacker-Belsil CM 040,18.3,Cream,Cover Cream,
+Vol8_1046.txt,Cover Cream,D,"Preservatives, perfume, pigments",,Cream,Cover Cream,
+Vol2_1119.txt,MASSAGE CREAM,A,Glycol Stearate,12,Cream,Massage Cream,emollient/emulsifier/opacifying/surfactant
+Vol2_1119.txt,MASSAGE CREAM,A,Esters of Oily Acids,2,Cream,Massage Cream,
+Vol2_1119.txt,MASSAGE CREAM,A,Vaseline Oil,5,Cream,Massage Cream,
+Vol2_1119.txt,MASSAGE CREAM,A,Isopropyl Myristate,1,Cream,Massage Cream,binding/emollient/solvent/skin conditioning
+Vol2_1119.txt,MASSAGE CREAM,A,Hydrogenated Coconut Oil,2,Cream,Massage Cream,emollient/skin conditioning
+Vol2_1119.txt,MASSAGE CREAM,A,Sorbitol 70,2,Cream,Massage Cream,
+Vol2_1119.txt,MASSAGE CREAM,B,Propylene Glycol,2,Cream,Massage Cream,humectant/solvent/skin conditioning/viscosity controlling
+Vol2_1119.txt,MASSAGE CREAM,B,Preservative,0.3,Cream,Massage Cream,preservative
+Vol2_1119.txt,MASSAGE CREAM,B,Deionized Water,65.4,Cream,Massage Cream,solvent
+Vol2_1119.txt,MASSAGE CREAM,C,Sodium Alginate Type H (25% solution),3,Cream,Massage Cream,
+Vol2_1119.txt,MASSAGE CREAM,D,Alagcol Concentrate D-1,5,Cream,Massage Cream,
+Vol2_1119.txt,MASSAGE CREAM,E,Fragrance,0.3,Cream,Massage Cream,
+Vol2_1090.txt,FOUNDATION CREAM,A,Crodawax GP 200,13,Cream,Foundation Cream,
+Vol2_1090.txt,FOUNDATION CREAM,A,Mineral oil,30,Cream,Foundation Cream,
+Vol2_1090.txt,FOUNDATION CREAM,A,Belsil PDM 20,4,Cream,Foundation Cream,
+Vol2_1090.txt,FOUNDATION CREAM,B,Glycerine,9,Cream,Foundation Cream,humectant
+Vol2_1090.txt,FOUNDATION CREAM,B,Water,44,Cream,Foundation Cream,solvent
+Vol2_1090.txt,FOUNDATION CREAM,B,"Preservatives, perfume, pigments",,Cream,Foundation Cream,
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_A,Crodafos CES (Cetearyl Alcohol (and) Cetearyl Phosphate),4,Cream,Protective Cream,
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_A,Crodamol GTCC (Caprylic/Capric Triglyceride),5,Cream,Protective Cream,
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_A,Corona PNL (Lanolin),1,Cream,Protective Cream,
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_B,Deionized Water,69.8,Cream,Protective Cream,solvent
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_B,Triethanolamine (98%),0.2,Cream,Protective Cream,
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_C,Deionized Water,5,Cream,Protective Cream,solvent
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_C,Hydrotriticum WAA (Wheat Amino Acids),1,Cream,Protective Cream,
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_D,Propylene Glycol (and) Diazolidinyl Urea (and) Methyl_ paraben (and) Propylparaben,1,Cream,Protective Cream,
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_D,Cromoist CM_Glucan (Sodium Carboxymethyl B_Glucan),1,Cream,Protective Cream,
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_D,Incromectant LAMEA (Acetamide MEA (and) Lactamide MEA),5,Cream,Protective Cream,
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_E,Deionized Water,5,Cream,Protective Cream,solvent
+Vol8_1041.txt,Protective Cream with Cromoist CM Glucan,Part_E,DL Panthenol,2,Cream,Protective Cream,
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),A,IMWITOR 960,5,Cream,Foundation Cream,emulsifier/emollient/stabilising
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),A,DYNASAN II0,3,Cream,Foundation Cream,emollient
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),A,MIGLYOL 812,5,Cream,Foundation Cream,emulsifier/stabilising
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),A,MIGLYOL 840,10,Cream,Foundation Cream,emulsifier/stabilising
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),A,DYNACERIN 660,5,Cream,Foundation Cream,
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),A,Stearic Acid,5,Cream,Foundation Cream,emulsifier/emulsion stabilising/refatting/cleansing
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),A,Cetyl Alcohol,1,Cream,Foundation Cream,emollient/emulsifier/opacifying/viscosity controlling
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),B,Hygroplex HHG,5,Cream,Foundation Cream,
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),B,Preservative,,Cream,Foundation Cream,preservative
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),B,Water up to,100,Cream,Foundation Cream,solvent
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),C,Triethanolamine,0.9,Cream,Foundation Cream,buffering
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),D,Dragosantol,1,Cream,Foundation Cream,
+Vol2_1094.txt,FOUNDATION CREAM I (and Pigmented Foundation Cream),D,Perfume GC 1 0 776,0.2,Cream,Foundation Cream,
+Vol2_1121.txt,MASSAGE CREAM TYPE O/W,(A),IMWITOR 960,10,Cream,Massage Cream,emulsifier/emollient/stabilising
+Vol2_1121.txt,MASSAGE CREAM TYPE O/W,(A),Cetyl Alcohol,3,Cream,Massage Cream,emollient/emulsifier/opacifying/viscosity controlling
+Vol2_1121.txt,MASSAGE CREAM TYPE O/W,(A),SOFTISAN 378,5,Cream,Massage Cream,
+Vol2_1121.txt,MASSAGE CREAM TYPE O/W,(A),Mineral Oil,20,Cream,Massage Cream,
+Vol2_1121.txt,MASSAGE CREAM TYPE O/W,(A),Hostaphat KL 340 N,3,Cream,Massage Cream,
+Vol2_1121.txt,MASSAGE CREAM TYPE O/W,(B),Water up to,100,Cream,Massage Cream,solvent
+Vol2_1121.txt,MASSAGE CREAM TYPE O/W,(B),Preservative,,Cream,Massage Cream,preservative
+Vol2_1121.txt,MASSAGE CREAM TYPE O/W,(B),Glycerin,20,Cream,Massage Cream,denaturant/humectant/solvent
+Vol2_1121.txt,MASSAGE CREAM TYPE O/W,(C),Perfume Oil,,Cream,Massage Cream,fragrance
+Vol2_1120.txt,MASSAGE CREAM ANHYDROUS,A.,SOFTISAN 378,50,Cream,Massage Cream,
+Vol2_1120.txt,MASSAGE CREAM ANHYDROUS,A.,Petrolatum,20,Cream,Massage Cream,antistatic/emollient
+Vol2_1120.txt,MASSAGE CREAM ANHYDROUS,A.,MIGLYOL 812,20,Cream,Massage Cream,emulsifier/stabilising
+Vol2_1120.txt,MASSAGE CREAM ANHYDROUS,A.,Mineral Oil,10,Cream,Massage Cream,
+Vol2_1120.txt,MASSAGE CREAM ANHYDROUS,B.,Perfume,,Cream,Massage Cream,fragrance
+Vol8_1030.txt,Anti_Ozone Cream (Preregen),A,Tego Care 450/Polyglyceryl_3 Methylglucose Distearate,3,Cream,Anti Ozone Cream,
+Vol8_1030.txt,Anti_Ozone Cream (Preregen),A,Lanette O/Cetearyl Alcohol,2.25,Cream,Anti Ozone Cream,
+Vol8_1030.txt,Anti_Ozone Cream (Preregen),A,Cutina GMS V/Glyceryl Stearate,2.25,Cream,Anti Ozone Cream,
+Vol8_1030.txt,Anti_Ozone Cream (Preregen),A,Cetiol 868/0Ctyl Stearate,10,Cream,Anti Ozone Cream,
+Vol8_1030.txt,Anti_Ozone Cream (Preregen),A,Fitoderm/Squalane,5,Cream,Anti Ozone Cream,
+Vol8_1030.txt,Anti_Ozone Cream (Preregen),B,Deionized Water,67,Cream,Anti Ozone Cream,solvent
+Vol8_1030.txt,Anti_Ozone Cream (Preregen),C,Glycerin/Glycerin,5,Cream,Anti Ozone Cream,
+Vol8_1030.txt,Anti_Ozone Cream (Preregen),C,Phenonip,0.5,Cream,Anti Ozone Cream,preservative
+Vol8_1030.txt,Anti_Ozone Cream (Preregen),D,"Preregen/Soybean (Glycine SoyA Protein, Oxido Reductases",5,Cream,Anti Ozone Cream,
+Vol7_1010.txt,Care Cream with Skin Protection,A,Imwitor 375 (Glyceryl Citrate/Lactate/Linoleate/ Oleate),5,Cream,Care Cream,
+Vol7_1010.txt,Care Cream with Skin Protection,A,Imwitor 960K (Glyceryl Stearate SE),5,Cream,Care Cream,
+Vol7_1010.txt,Care Cream with Skin Protection,A,Miglyol 812 (Caprylic/Capric Triglyceride),7,Cream,Care Cream,
+Vol7_1010.txt,Care Cream with Skin Protection,A,Softigen 701 (Glyceryl Ricinoleate),3,Cream,Care Cream,
+Vol7_1010.txt,Care Cream with Skin Protection,A,Cetyl Alcohol,2,Cream,Care Cream,emollient/emulsifier/opacifying/viscosity controlling
+Vol7_1010.txt,Care Cream with Skin Protection,B,Sorbitol,5,Cream,Care Cream,humectant/plasticiser/skin conditioning
+Vol7_1010.txt,Care Cream with Skin Protection,B,Natrosol 250 HR (Hydroxyethyl Cellulose),0.3,Cream,Care Cream,
+Vol7_1010.txt,Care Cream with Skin Protection,B,Preservative,,Cream,Care Cream,preservative
+Vol7_1010.txt,Care Cream with Skin Protection,B,Water up to,100,Cream,Care Cream,solvent
+Vol7_1010.txt,Care Cream with Skin Protection,C,Fragrance,,Cream,Care Cream,
+Vol2_1025.txt,COVER CREAM,A,Candelilla Wax,5.5,Cream,Cover Cream,
+Vol2_1025.txt,COVER CREAM,A,Belsil SDM 6022,6.7,Cream,Cover Cream,
+Vol2_1025.txt,COVER CREAM,A,Stearic Acid,3,Cream,Cover Cream,emulsifier/emulsion stabilising/refatting/cleansing
+Vol2_1025.txt,COVER CREAM,B,Water,45.8,Cream,Cover Cream,solvent
+Vol2_1025.txt,COVER CREAM,B,Propylene Glycol,3.4,Cream,Cover Cream,humectant/solvent/skin conditioning/viscosity controlling
+Vol2_1025.txt,COVER CREAM,B,Triethanolamine,1.3,Cream,Cover Cream,buffering
+Vol2_1025.txt,COVER CREAM,C,Belsil BNP,10,Cream,Cover Cream,
+Vol2_1025.txt,COVER CREAM,C,Titanium Dioxide,4,Cream,Cover Cream,opacifying/uv absorber
+Vol2_1025.txt,COVER CREAM,C,Pigments,2,Cream,Cover Cream,
+Vol2_1025.txt,COVER CREAM,D,Belsil CM 040,18.3,Cream,Cover Cream,
+Vol2_1025.txt,COVER CREAM,D,"Preservatives, fragrances",,Cream,Cover Cream,
+Vol1_1089.txt,MAKE_UP CREAM (O/W),fat_phase,EMULGATOR E 21 55,6,Cream,Make up Cream,
+Vol1_1089.txt,MAKE_UP CREAM (O/W),fat_phase,Vaseline DAB 8,5,Cream,Make up Cream,
+Vol1_1089.txt,MAKE_UP CREAM (O/W),fat_phase,ABIL 100,5,Cream,Make up Cream,
+Vol1_1089.txt,MAKE_UP CREAM (O/W),fat_phase,Isopropyl stearate,6,Cream,Make up Cream,binding/emollient/skin conditioning
+Vol1_1089.txt,MAKE_UP CREAM (O/W),water_phase,Glycerol,5,Cream,Make up Cream,humectant
+Vol1_1089.txt,MAKE_UP CREAM (O/W),water_phase,Water,73,Cream,Make up Cream,solvent
+Vol1_1089.txt,MAKE_UP CREAM (O/W),water_phase,Pigments,9,Cream,Make up Cream,
+Vol1_1089.txt,MAKE_UP CREAM (O/W),water_phase,Perfume,,Cream,Make up Cream,fragrance
+Vol1_1089.txt,MAKE_UP CREAM (O/W),water_phase,Preserving agent,,Cream,Make up Cream,
+Vol2_1019.txt,BARRIER CREAM COLD MIX FORMULA,Phase_A,ABIL WE-09,5,Cream,Barrier Cream,
+Vol2_1019.txt,BARRIER CREAM COLD MIX FORMULA,Phase_A,Decyl Oleate,5,Cream,Barrier Cream,emollient
+Vol2_1019.txt,BARRIER CREAM COLD MIX FORMULA,Phase_A,Caprylic/Capric Triglyceride,5,Cream,Barrier Cream,emollient/solvent
+Vol2_1019.txt,BARRIER CREAM COLD MIX FORMULA,Phase_A,Isopropyl Myristate,5,Cream,Barrier Cream,binding/emollient/solvent/skin conditioning
+Vol2_1019.txt,BARRIER CREAM COLD MIX FORMULA,Phase_A,Silica,0.5,Cream,Barrier Cream,abrasive/absorbent/opacifying/viscosity controlling/anticaking/bulking
+Vol2_1019.txt,BARRIER CREAM COLD MIX FORMULA,Phase_B,Sodium Citrate (solution)*,20,Cream,Barrier Cream,
+Vol2_1019.txt,BARRIER CREAM COLD MIX FORMULA,Phase_B,Water,58.7,Cream,Barrier Cream,solvent
+Vol2_1019.txt,BARRIER CREAM COLD MIX FORMULA,Phase_B,Hydroxyethylcellulose,0.8,Cream,Barrier Cream,binding/emulsion stabilising/film forming/viscosity controlling/stabilising
+Vol2_1019.txt,BARRIER CREAM COLD MIX FORMULA,Phase_C,Fragrance,,Cream,Barrier Cream,
+Vol2_1019.txt,BARRIER CREAM COLD MIX FORMULA,Phase_C,Preservatives,,Cream,Barrier Cream,
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Cirami No. 1,10,Cream,Protective Cream,
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Sunflower Oil,15,Cream,Protective Cream,
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Vitamin E Acetate,0.015,Cream,Protective Cream,antioxidant
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Tri-Sept P,0.1,Cream,Protective Cream,preservative
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Demineralized Water,72.479,Cream,Protective Cream,solvent
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Tensami 3/06,1.8,Cream,Protective Cream,
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,S.O.D. AMI,0.002,Cream,Protective Cream,
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Lactoperoxidase AMI,0.002,Cream,Protective Cream,
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Lactoferrin AMI,0.002,Cream,Protective Cream,
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Tri-Sept M,0.2,Cream,Protective Cream,preservative
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Tristat IU,0.2,Cream,Protective Cream,
+Vol2_1141.txt,NATURAL PROTECTIVE CREAM,,Perfume,0.2,Cream,Protective Cream,fragrance
+Vol2_1035.txt,COLD CREAM FORMULAT10N WITH JOJOBA OIL-C,Part_A,Ross Beeswax Substitute 628/5,13,Cream,Cold Cream,
+Vol2_1035.txt,COLD CREAM FORMULAT10N WITH JOJOBA OIL-C,Part_A,Ross Fully Refined Paraffin Wax 150/160,0,Cream,Cold Cream,
+Vol2_1035.txt,COLD CREAM FORMULAT10N WITH JOJOBA OIL-C,Part_A,Mineral Oil 80/90,45.5,Cream,Cold Cream,
+Vol2_1035.txt,COLD CREAM FORMULAT10N WITH JOJOBA OIL-C,Part_A,Glycerol Monostearate,0.3,Cream,Cold Cream,
+Vol2_1035.txt,COLD CREAM FORMULAT10N WITH JOJOBA OIL-C,Part_A,Ross Jojoba Oil,2,Cream,Cold Cream,
+Vol2_1035.txt,COLD CREAM FORMULAT10N WITH JOJOBA OIL-C,Part_B,Borax,0.8,Cream,Cold Cream,
+Vol2_1035.txt,COLD CREAM FORMULAT10N WITH JOJOBA OIL-C,Part_B,Water,38.4,Cream,Cold Cream,solvent
+Vol2_1035.txt,COLD CREAM FORMULAT10N WITH JOJOBA OIL-C,Part_B,Fragrance,,Cream,Cold Cream,
+Vol2_1035.txt,COLD CREAM FORMULAT10N WITH JOJOBA OIL-C,Part_B,Preservative,,Cream,Cold Cream,preservative
+Vol2_1021.txt,BARRIER CREAM,A,Cremophor A 6,2,Cream,Barrier Cream,
+Vol2_1021.txt,BARRIER CREAM,A,Cremophor A 25,2,Cream,Barrier Cream,
+Vol2_1021.txt,BARRIER CREAM,A,Cetyl alcohol,5,Cream,Barrier Cream,emollient/emulsifier/opacifying/viscosity controlling
+Vol2_1021.txt,BARRIER CREAM,A,Glycerol monostearate,5,Cream,Barrier Cream,
+Vol2_1021.txt,BARRIER CREAM,A,Paraffin oil,9,Cream,Barrier Cream,emulsifier/antioxidant
+Vol2_1021.txt,BARRIER CREAM,A,Abil 100,1,Cream,Barrier Cream,
+Vol2_1021.txt,BARRIER CREAM,B,Glycerol,10,Cream,Barrier Cream,humectant
+Vol2_1021.txt,BARRIER CREAM,B,Luviquat FC 550,5,Cream,Barrier Cream,
+Vol2_1021.txt,BARRIER CREAM,B,Water,61,Cream,Barrier Cream,solvent
+Vol2_1021.txt,BARRIER CREAM,B,Preservatives,,Cream,Barrier Cream,
+Vol2_1021.txt,BARRIER CREAM,C,Perfume,,Cream,Barrier Cream,fragrance
+Vol6_1003.txt,W/O Cream with 17% Pigments,A,Softisan 378 (Caprylic/Capric/Stearic Triglyceride),16,Cream,Cream,
+Vol6_1003.txt,W/O Cream with 17% Pigments,A,Softisan 649 (Bis-Diglyceryl Polyacryladipate-1),28,Cream,Cream,
+Vol6_1003.txt,W/O Cream with 17% Pigments,A,Imwitor 78OK (Isostearyl Diglyceryl Succinate),5,Cream,Cream,
+Vol6_1003.txt,W/O Cream with 17% Pigments,A,Beeswax,6,Cream,Cream,
+Vol6_1003.txt,W/O Cream with 17% Pigments,A,Vitamin E (Tocopherol),0.1,Cream,Cream,
+Vol6_1003.txt,W/O Cream with 17% Pigments,A,Zinc Oxide,16,Cream,Cream,bulking/uv absorber/skin protecting
+Vol6_1003.txt,W/O Cream with 17% Pigments,A,Talc,1,Cream,Cream,absorbent/bulking
+Vol6_1003.txt,W/O Cream with 17% Pigments,B,Allantoin,0.2,Cream,Cream,soothing
+Vol6_1003.txt,W/O Cream with 17% Pigments,B,d-Panthenol USP,2,Cream,Cream,
+Vol6_1003.txt,W/O Cream with 17% Pigments,B,Preservative,,Cream,Cream,preservative
+Vol6_1003.txt,W/O Cream with 17% Pigments,B,Water,25.7,Cream,Cream,solvent
+Vol2_1168.txt,PIGMENTED CREAM 2,(A),IMWITOR 960,5,Cream,Cream,emulsifier/emollient/stabilising
+Vol2_1168.txt,PIGMENTED CREAM 2,(A),DYNASAN 110,3,Cream,Cream,
+Vol2_1168.txt,PIGMENTED CREAM 2,(A),MIGLYOL 812,5,Cream,Cream,emulsifier/stabilising
+Vol2_1168.txt,PIGMENTED CREAM 2,(A),MIGLYOL 840,10,Cream,Cream,emulsifier/stabilising
+Vol2_1168.txt,PIGMENTED CREAM 2,(A),DYNACERIN 660,5,Cream,Cream,
+Vol2_1168.txt,PIGMENTED CREAM 2,(A),Stearic Acid,5,Cream,Cream,emulsifier/emulsion stabilising/refatting/cleansing
+Vol2_1168.txt,PIGMENTED CREAM 2,(A),Cetyl Alcohol,1,Cream,Cream,emollient/emulsifier/opacifying/viscosity controlling
+Vol2_1168.txt,PIGMENTED CREAM 2,(A),Hostaphat KL 340 N,3,Cream,Cream,
+Vol2_1168.txt,PIGMENTED CREAM 2,(B),Preservative,,Cream,Cream,preservative
+Vol2_1168.txt,PIGMENTED CREAM 2,(B),Water up to,100,Cream,Cream,solvent
+Vol2_1168.txt,PIGMENTED CREAM 2,(C),Triethanolamine,0.9,Cream,Cream,buffering
+Vol2_1168.txt,PIGMENTED CREAM 2,(D),Titanium Dioxide,2,Cream,Cream,opacifying/uv absorber
+Vol2_1168.txt,PIGMENTED CREAM 2,(D),Talcum,2,Cream,Cream,
+Vol2_1168.txt,PIGMENTED CREAM 2,(D),Zinc Oxide,2.5,Cream,Cream,bulking/uv absorber/skin protecting
+Vol2_1168.txt,PIGMENTED CREAM 2,(D),Sicomet Brown 70,0.4,Cream,Cream,
+Vol2_1168.txt,PIGMENTED CREAM 2,(D),Sicomet Brown 75,0.1,Cream,Cream,
+Vol2_1168.txt,PIGMENTED CREAM 2,(E),Perfume 15 834,0.3,Cream,Cream,
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,A,Miglyol 818 (Caprylic/Capric/Linoleic Triglyceride),5,Cream,Eye Cream,
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,A,Miglyol 829 (Caprylic/Capric/Succinic Triglyceride),5,Cream,Eye Cream,
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,A,Dynacerin 660 (Oleyl ErUCdte),5,Cream,Eye Cream,
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,A,Imwitor 370 (Glyceryl Stearate Citrate),5,Cream,Eye Cream,
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,A,Imwitor 375 (Glyceryl Citrate/Lactate/Linoleate/Oleate),8,Cream,Eye Cream,
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,A,Evening Primrose Oil,3,Cream,Eye Cream,
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,A,Hombitec L5 (Micronized TiO2),3,Cream,Eye Cream,
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,B,"Carbopol 980_Gel lg, neutralized with KOH",15,Cream,Eye Cream,
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,B,Preservative,,Cream,Eye Cream,preservative
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,B,Water ad,100,Cream,Eye Cream,solvent
+Vol8_1021.txt,Eye Cream with UV_filter and Evening Primrose Oil,C,Extrapon Biopollin Special (plant extract),2,Cream,Eye Cream,
+Vol2_1036.txt,COLD CREAM,Oil_Phase,Amerchol L-I 01,3,Cream,Cold Cream,
+Vol2_1036.txt,COLD CREAM,Oil_Phase,Acetu1anlo,4,Cream,Cold Cream,
+Vol2_1036.txt,COLD CREAM,Oil_Phase,Beeswax,10,Cream,Cold Cream,
+Vol2_1036.txt,COLD CREAM,Oil_Phase,Ozokerite,7,Cream,Cold Cream,binding/emulsion stabilising/opacifying/viscosity controlling
+Vol2_1036.txt,COLD CREAM,Oil_Phase,Glycerol Monostearate,2,Cream,Cold Cream,
+Vol2_1036.txt,COLD CREAM,Oil_Phase,Mineral Oil,30,Cream,Cold Cream,
+Vol2_1036.txt,COLD CREAM,Water_Phase,Borax,0.6,Cream,Cold Cream,
+Vol2_1036.txt,COLD CREAM,Water_Phase,"Triethanolamine, 99%",0.25,Cream,Cold Cream,
+Vol2_1036.txt,COLD CREAM,Water_Phase,POLYOX WSR-205,0.5,Cream,Cold Cream,
+Vol2_1036.txt,COLD CREAM,Water_Phase,"Water, preservatives, fragrance",,Cream,Cold Cream,
+Vol1_1070.txt,MASSAGE CREAM TYPE O/W,A,IMWITOR 960,10,Cream,Massage Cream,emulsifier/emollient/stabilising
+Vol1_1070.txt,MASSAGE CREAM TYPE O/W,A,Cetyl alcohol,3,Cream,Massage Cream,emollient/emulsifier/opacifying/viscosity controlling
+Vol1_1070.txt,MASSAGE CREAM TYPE O/W,A,SOFTISAN 378,5,Cream,Massage Cream,
+Vol1_1070.txt,MASSAGE CREAM TYPE O/W,A,Paraffin oil,20,Cream,Massage Cream,emulsifier/antioxidant
+Vol1_1070.txt,MASSAGE CREAM TYPE O/W,A,Hostaphat KL 340 N,3,Cream,Massage Cream,
+Vol1_1070.txt,MASSAGE CREAM TYPE O/W,B,Water ad,100,Cream,Massage Cream,solvent
+Vol1_1070.txt,MASSAGE CREAM TYPE O/W,B,Preservative,,Cream,Massage Cream,preservative
+Vol1_1070.txt,MASSAGE CREAM TYPE O/W,B,Glycerin,20,Cream,Massage Cream,denaturant/humectant/solvent
+Vol1_1070.txt,MASSAGE CREAM TYPE O/W,C,Perfume oil,,Cream,Massage Cream,fragrance
+Vol8_1008.txt,Barrier Cream,Part_A,Deionized Water/Diluent,77.23,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_A,Tetrasodium EDTA/Chelating agent,0.05,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_A,PEG_8/Humectant,3,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_A,"1,3 Butylene Glycol/Humectant",2,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_A,Methylparaben/Preservative,0.25,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_A,Propylparaben/Preservative,0.1,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_A,Imidazolidinyl Urea/Preservative,0.2,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_A,Magnesium Aluminum Silicate/Thickener,0.25,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_B,Cetearyl Methicone(SF1632)(1)/Occlusive/TEWL reduction,8,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_B,Cyclopentasiloxane (and) Dirnethicone(SF1214 I) / Protectant/Smooth/Silky feel,7,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_B,Acrylates/C10_30 Alkyl Acrylate Crosspolymer 2 / Emulsifier,0.3,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_B,Carborner(3)/Thickener,0.3,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_B,Sorbitan Oleate/Ernulsifier,0.6,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_C,Fragrance(4),0.12,Cream,Barrier Cream,
+Vol8_1008.txt,Barrier Cream,Part_D,Triethanolamine 99% (to pH 7.0)/Neutralizer,0.6,Cream,Barrier Cream,
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(A),Dehymuls K,25,Cream,Eye Cream,emulsifier/protections
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(A),Adeps adeps,3,Cream,Eye Cream,
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(A),Beeswax,3,Cream,Eye Cream,
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(A),Vegetable oil,22,Cream,Eye Cream,
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(A),Vitaplant CLR vitaplant,2,Cream,Eye Cream,
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(A),Antioxidant,,Cream,Eye Cream,antioxidant
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(A),"Water, Preservative",,Cream,Eye Cream,solvent/preservative
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(B),preserved,38.8,Cream,Eye Cream,
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(B),Karion F liquid,4,Cream,Eye Cream,moisturising/humectant
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(B),Magnesium sulphate,0.2,Cream,Eye Cream,
+Vol2_1180.txt,REGENERATIVE EYE CREAM TYPE W/O,(C),Vitaplant CLR vitaplant,2,Cream,Eye Cream,
+Vol2_1194.txt,SKIN PROTECT10N CREAM,A,IMWITOR 960,8,Cream,Protective Cream,emulsifier/emollient/stabilising
+Vol2_1194.txt,SKIN PROTECT10N CREAM,A,MIGYLOL 812,5,Cream,Protective Cream,
+Vol2_1194.txt,SKIN PROTECT10N CREAM,A,Stearic Acid,7,Cream,Protective Cream,emulsifier/emulsion stabilising/refatting/cleansing
+Vol2_1194.txt,SKIN PROTECT10N CREAM,A,Cetyl Alcohol,2,Cream,Protective Cream,emollient/emulsifier/opacifying/viscosity controlling
+Vol2_1194.txt,SKIN PROTECT10N CREAM,A,Softigen 701,9,Cream,Protective Cream,
+Vol2_1194.txt,SKIN PROTECT10N CREAM,B,Preservative,,Cream,Protective Cream,preservative
+Vol2_1194.txt,SKIN PROTECT10N CREAM,B,Glycerin,4,Cream,Protective Cream,denaturant/humectant/solvent
+Vol2_1194.txt,SKIN PROTECT10N CREAM,B,Water up to,100,Cream,Protective Cream,solvent
+Vol2_1194.txt,SKIN PROTECT10N CREAM,C,Triethanolamine,1,Cream,Protective Cream,buffering
+Vol2_1194.txt,SKIN PROTECT10N CREAM,D,Perfume,,Cream,Protective Cream,fragrance
+Vol2_1166.txt,PIGMENTED COVER CREME,Oil_Phase,CRODAMOL PMP,3,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Oil_Phase,CRILL 6,2,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Oil_Phase,COSMOWAX J,3.5,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Oil_Phase,SUPER REFINED Babassu Oil,3,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Oil_Phase,CRODAMOL PTIS,1,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Oil_Phase,SUPER HARTOLAN,1.5,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Oil_Phase,SYNCROWAX BB4,2,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Oil_Phase,PROVOL 50,1,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Oil_Phase,Silicone Fluid SF96-50,0.5,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Water_Phase,CRODALAN AWS,2,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Water_Phase,Veegum HV,0.75,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Water_Phase,Ganex V216,3,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Water_Phase,Methyl Paraben,0.2,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Water_Phase,Propyl Paraben,0.1,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Water_Phase,Germall 115,0.3,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Water_Phase,Water deionized,62.45,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Protein_Phase,COLLASOL,0.5,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Protein_Phase,CROMOIST HYA,0.5,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Pigment_Phase,Talc,5,Cream,Cover Cream,absorbent/bulking
+Vol2_1166.txt,PIGMENTED COVER CREME,Pigment_Phase,Titanium Dioxide,4,Cream,Cover Cream,opacifying/uv absorber
+Vol2_1166.txt,PIGMENTED COVER CREME,Pigment_Phase,Lo Micron Pink Extender,1.2,Cream,Cover Cream,
+Vol2_1166.txt,PIGMENTED COVER CREME,Pigment_Phase,Lo Micron Brown,2.5,Cream,Cover Cream,
+Vol1_1069.txt,EYE CREAM FOR NIGHT-TIME,A,White soft paraffin,17,Cream,Eye Cream,
+Vol1_1069.txt,EYE CREAM FOR NIGHT-TIME,A,Hard paraffin,5,Cream,Eye Cream,
+Vol1_1069.txt,EYE CREAM FOR NIGHT-TIME,A,Alugel DF 30,1,Cream,Eye Cream,
+Vol1_1069.txt,EYE CREAM FOR NIGHT-TIME,A,IMWITOR 780 K,5,Cream,Eye Cream,
+Vol1_1069.txt,EYE CREAM FOR NIGHT-TIME,A,MIGLYOL 840,3,Cream,Eye Cream,emulsifier/stabilising
+Vol1_1069.txt,EYE CREAM FOR NIGHT-TIME,A,Epigran,3,Cream,Eye Cream,
+Vol1_1069.txt,EYE CREAM FOR NIGHT-TIME,B,Biopollin,2,Cream,Eye Cream,
+Vol1_1069.txt,EYE CREAM FOR NIGHT-TIME,B,Preservative,,Cream,Eye Cream,preservative
+Vol1_1069.txt,EYE CREAM FOR NIGHT-TIME,B,Water ad,100,Cream,Eye Cream,solvent
+Vol7_1024.txt,Skin Protective Cream with Silicone Fluid (With AHA_Ester),A,Imwitor 370 (Glvcervl Cocoate/Citrate/Lactate),8,Cream,Protective Cream,
+Vol7_1024.txt,Skin Protective Cream with Silicone Fluid (With AHA_Ester),A,Miglyol 812 (Caprylic/Capric Triglyceride),10,Cream,Protective Cream,
+Vol7_1024.txt,Skin Protective Cream with Silicone Fluid (With AHA_Ester),A,Phenyl Dimethicone,5,Cream,Protective Cream,emollient
+Vol7_1024.txt,Skin Protective Cream with Silicone Fluid (With AHA_Ester),B,Keltrol F (Xanthan Gum),0.3,Cream,Protective Cream,
+Vol7_1024.txt,Skin Protective Cream with Silicone Fluid (With AHA_Ester),B,Preservative,,Cream,Protective Cream,preservative
+Vol7_1024.txt,Skin Protective Cream with Silicone Fluid (With AHA_Ester),B,Water up to,100,Cream,Protective Cream,solvent
+Vol7_1024.txt,Skin Protective Cream with Silicone Fluid (With AHA_Ester),C,Fragrance,,Cream,Protective Cream,
+Vol2_1211.txt,W/O COLD MIX CREAM,A,ABIL WE_09,5,Cream,Cold Cream,
+Vol2_1211.txt,W/O COLD MIX CREAM,A,Isopropyl Stearate,5,Cream,Cold Cream,binding/emollient/skin conditioning
+Vol2_1211.txt,W/O COLD MIX CREAM,A,Decyl Oleate,5,Cream,Cold Cream,emollient
+Vol2_1211.txt,W/O COLD MIX CREAM,A,ABIL Wax 2434,3,Cream,Cold Cream,
+Vol2_1211.txt,W/O COLD MIX CREAM,A,Aerosil R 812,0.5,Cream,Cold Cream,
+Vol2_1211.txt,W/O COLD MIX CREAM,B,Water,80,Cream,Cold Cream,solvent
+Vol2_1211.txt,W/O COLD MIX CREAM,B,Tylose H20,0.8,Cream,Cold Cream,
+Vol2_1211.txt,W/O COLD MIX CREAM,B,Sodium Chloride,0.5,Cream,Cold Cream,viscosity controlling/bulking
+Vol2_1211.txt,W/O COLD MIX CREAM,C,Fragrance,0.2,Cream,Cold Cream,
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(A),SOFTISAN 649,23,Cream,Cover Cream,
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(A),MIGLYOL 829,20,Cream,Cover Cream,
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(A),IMWITOR 780,6,Cream,Cover Cream,
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(A),DYNASAN 118,5,Cream,Cover Cream,
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(A),Beeswax,3,Cream,Cover Cream,
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(A),Syloid 244,8,Cream,Cover Cream,
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(B),Preservative,,Cream,Cover Cream,preservative
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(B),Water up to,100,Cream,Cover Cream,solvent
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(C),Titanium Dioxide,2,Cream,Cover Cream,opacifying/uv absorber
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(C),Talcum,2,Cream,Cover Cream,
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(C),Zinc Oxide,2.5,Cream,Cover Cream,bulking/uv absorber/skin protecting
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(C),Sicomet Brown 70,0.8,Cream,Cover Cream,
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(C),Sicomet Brown 75,0.2,Cream,Cover Cream,
+Vol2_1167.txt,PIGMENTED COVER CREAM 1,(D),Rivalia Perfume,0.3,Cream,Cover Cream,
+Vol2_1165.txt,PETROLEUM SKIN PROTECTANT CREAM,,Deionized Water,53,Cream,Protective Cream,solvent
+Vol2_1165.txt,PETROLEUM SKIN PROTECTANT CREAM,,Triethanolamine 99%,0.5,Cream,Protective Cream,
+Vol2_1165.txt,PETROLEUM SKIN PROTECTANT CREAM,,Uniphen P-23,0.5,Cream,Protective Cream,
+Vol2_1165.txt,PETROLEUM SKIN PROTECTANT CREAM,,Hypan SA100H 2,0.25,Cream,Protective Cream,
+Vol2_1165.txt,PETROLEUM SKIN PROTECTANT CREAM,,Perlatum 410 CG,30,Cream,Protective Cream,
+Vol2_1165.txt,PETROLEUM SKIN PROTECTANT CREAM,,Britol 7,15,Cream,Protective Cream,
+Vol2_1165.txt,PETROLEUM SKIN PROTECTANT CREAM,,Liposorb SQO,0.5,Cream,Protective Cream,
+Vol2_1165.txt,PETROLEUM SKIN PROTECTANT CREAM,,Amphisol K,0.25,Cream,Protective Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_A,Ozokerite,0.6,Cream,Cover Cream,binding/emulsion stabilising/opacifying/viscosity controlling
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_A,Candelilla Wax,0.9,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_A,Carnauba,0.6,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_A,"Beeswax (white, bleached)",0.4,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_A,Glyceryl Tribehenate,6,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_A,Polyethylene,1,Cream,Cover Cream,antistatic/binding/emulsion stabilising/film forming/viscosity controlling
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_A,CERAPHYL 375,12,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_B,CERAPHYL 41,6,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_B,ESCALOL 557,2.3,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_B,ESCALOL 567,0.3,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_B,Propylparaben,0.15,Cream,Cover Cream,preservative
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_B,BHA,0.05,Cream,Cover Cream,antioxidant
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_B,Dimethicone,9.2,Cream,Cover Cream,antifoaming/emollient
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_B,CERAPHYL 847,15.7,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_B,CERAPHYL GA,3,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_C,MICA DD,19.61,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_C,Aluminum Starch Octynylsuccinate,14,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_C,Titanium Dioxide,5,Cream,Cover Cream,opacifying/uv absorber
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_C,CHROMA-LITE Red,0.88,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_C,CHROMA-LITE Yellow,1.16,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_C,CHROMA-LITE Brown,0.88,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_C,CHROMA-LITE Black,0.24,Cream,Cover Cream,
+Vol2_1038.txt,CREAM CONCEALER (SPF 8) (MEDIUM),Phase_C,Ultramarine Blue,0.03,Cream,Cover Cream,
+Vol1_1090.txt,MASSAGE CREAM,phase_I,HYDROFOL ACID 1655,1,Cream,Massage Cream,
+Vol1_1090.txt,MASSAGE CREAM,phase_I,Mineral Oil,10.5,Cream,Massage Cream,
+Vol1_1090.txt,MASSAGE CREAM,phase_I,Lanolin Alcohol,1,Cream,Massage Cream,antistatic/emollient/emulsifier/hair conditioning/viscosity controlling/binding
+Vol1_1090.txt,MASSAGE CREAM,phase_I,STARFOL WAX CG,1,Cream,Massage Cream,
+Vol1_1090.txt,MASSAGE CREAM,phase_I,ADOL 52,0.5,Cream,Massage Cream,
+Vol1_1090.txt,MASSAGE CREAM,phase_I,ADOL 62,0.5,Cream,Massage Cream,
+Vol1_1090.txt,MASSAGE CREAM,phase_I,Lanolin,0.5,Cream,Massage Cream,antistatic/emollient/emulsifier/skin conditioning/hair conditioning/surfactant
+Vol1_1090.txt,MASSAGE CREAM,phase_II,Borax,0.7,Cream,Massage Cream,
+Vol1_1090.txt,MASSAGE CREAM,phase_II,Propylene Glycol,3,Cream,Massage Cream,humectant/solvent/skin conditioning/viscosity controlling
+Vol1_1090.txt,MASSAGE CREAM,phase_II,Deionized Water,81.3,Cream,Massage Cream,solvent
+Vol1_1090.txt,MASSAGE CREAM,phase_III,Preservative,,Cream,Massage Cream,preservative
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_I,Glyceryl Stearate,1.3,Cream,Massage Cream,emollient/emulsifier
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_I,HYDROFOL ACID 1655,2,Cream,Massage Cream,
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_I,Mineral Oil,7.5,Cream,Massage Cream,
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_I,ADOL 52,1.1,Cream,Massage Cream,
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_I,Lanolin,0.5,Cream,Massage Cream,antistatic/emollient/emulsifier/skin conditioning/hair conditioning/surfactant
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_I,STARFOL OS,0.6,Cream,Massage Cream,
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_I,Cocoa Butter,0.5,Cream,Massage Cream,
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_II,VARONIC LI-48,1.6,Cream,Massage Cream,
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_II,Triethanolamine,0.9,Cream,Massage Cream,buffering
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_II,Propylene Glycol,1.6,Cream,Massage Cream,humectant/solvent/skin conditioning/viscosity controlling
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_II,Deionized Water,82.4,Cream,Massage Cream,solvent
+Vol1_1091.txt,MASSAGE CREAM WITH COCOA BUTTER,phase_III,Preservative,,Cream,Massage Cream,preservative
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_A,ANHYDROUS LANOLIN HP-2050,3,Cream,Protective Cream,
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_A,EMERSOL 132,7.5,Cream,Protective Cream,
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_A,LANETTE 16,3.5,Cream,Protective Cream,
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_A,CET10L SN,3,Cream,Protective Cream,
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_A,White Perfecta,2,Cream,Protective Cream,
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_A,Dow Corning 200 Fluid (100~s),2,Cream,Protective Cream,
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_A,CUTINA GMS,1.5,Cream,Protective Cream,
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_A,Propylparaben,0.1,Cream,Protective Cream,preservative
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_B,Deionized Water,73.7,Cream,Protective Cream,solvent
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_B,Glycerine,3,Cream,Protective Cream,humectant
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_B,Sodium Hydroxide,0.5,Cream,Protective Cream,buffering/denaturant
+Vol2_1175.txt,PROTECTIVE SKIN CREAM,Part_B,Methylparaben,0.2,Cream,Protective Cream,preservative
+Vol2_1017.txt,OILY CREAM (COLD CREAM),(A),Petrolatum,11,Cream,Cold Cream,antistatic/emollient
+Vol2_1017.txt,OILY CREAM (COLD CREAM),(A),Aluminum Distearate,2,Cream,Cold Cream,emulsion stabilising/opacifying/viscosity controlling
+Vol2_1017.txt,OILY CREAM (COLD CREAM),(B),IMWITOR 780K,10,Cream,Cold Cream,
+Vol2_1017.txt,OILY CREAM (COLD CREAM),(B),White Beeswax,2,Cream,Cold Cream,
+Vol2_1017.txt,OILY CREAM (COLD CREAM),(B),SOFTISAN 378,11,Cream,Cold Cream,
+Vol2_1017.txt,OILY CREAM (COLD CREAM),(B),MIGLYOL 812,5,Cream,Cold Cream,emulsifier/stabilising
+Vol2_1017.txt,OILY CREAM (COLD CREAM),(C),Preservative,,Cream,Cold Cream,preservative
+Vol2_1017.txt,OILY CREAM (COLD CREAM),(C),Water up to,100,Cream,Cold Cream,solvent
+Vol2_1017.txt,OILY CREAM (COLD CREAM),(D),Perfume,,Cream,Cold Cream,fragrance
+Vol2_1111.txt,COVER CREAM,A,Candelilla Wax,5.5,Cream,Cover Cream,
+Vol2_1111.txt,COVER CREAM,A,Belsil SDM 6022,6.7,Cream,Cover Cream,
+Vol2_1111.txt,COVER CREAM,B,Stearic Acid,3,Cream,Cover Cream,emulsifier/emulsion stabilising/refatting/cleansing
+Vol2_1111.txt,COVER CREAM,B,Water,44.8,Cream,Cover Cream,solvent
+Vol2_1111.txt,COVER CREAM,B,Propylene Glycol,3.4,Cream,Cover Cream,humectant/solvent/skin conditioning/viscosity controlling
+Vol2_1111.txt,COVER CREAM,B,Triethanolamine,1.3,Cream,Cover Cream,buffering
+Vol2_1111.txt,COVER CREAM,C,Titanium Dioxide,14,Cream,Cover Cream,opacifying/uv absorber
+Vol2_1111.txt,COVER CREAM,D,Belsil CM 040,18.3,Cream,Cover Cream,
+Vol2_1111.txt,COVER CREAM,D,"Preservatives, perfume, pigments",,Cream,Cover Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_1,Deionized Water,61.85,Cream,Protective Cream,solvent
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_1,Propylene Glycol,4,Cream,Protective Cream,humectant/solvent/skin conditioning/viscosity controlling
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_1,Disodium EDTA,0.05,Cream,Protective Cream,chelating/viscosity controlling
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_1,Methylparaben,0.25,Cream,Protective Cream,preservative
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_1,Unicide U-13,0.25,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_1,Monawet MO-70R,0.1,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_2,Capsul 51 -6329,0.1,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_3,Titanium Dioxide 3228,0.5,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,OCtyl Methoxycinnamate,4,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,Benzophenone 3,2,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,Liponate NPGC-2,12.5,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,Lipo GMS-450,2,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,Lipocol C,2,Cream,Protective Cream,emollient/emulsifier/thickner/protectors
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,Carolene,1.5,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,Lipopeg 39-S,1,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,Liposorb TS,0.5,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,Lecithin,0.5,Cream,Protective Cream,antistatic/emollient/emulsifier/skin conditioning
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,Silicone 200 Fluid (200 cts),0.5,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_4,Propylparaben,0.1,Cream,Protective Cream,preservative
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_5,Urea,0.05,Cream,Protective Cream,antistatic/humectant/skin conditioning
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_5,Deionized Water,1,Cream,Protective Cream,solvent
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_6,Fragrance,0.25,Cream,Protective Cream,
+Vol2_1073.txt,EXTREME PROTECT10N TYPE CREAM,Sequence_7,Hylucare 1%,5,Cream,Protective Cream,
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_A,Cutina KD-16,8,Cream,Eye Cream,
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_A,Cetiol MM,8,Cream,Eye Cream,
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_A,Cetiol G-16s,10,Cream,Eye Cream,
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_A,Generol 122E-10,3,Cream,Eye Cream,
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_A,Vitaplant CLR Oil-Soluble,1,Cream,Eye Cream,
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_A,Calendula Oil,1,Cream,Eye Cream,
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_A,Covitol 1100,1,Cream,Eye Cream,
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_B,Water,58,Cream,Eye Cream,solvent
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_B,Sorbitol,5,Cream,Eye Cream,humectant/plasticiser/skin conditioning
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_C,Preservative,,Cream,Eye Cream,preservative
+Vol2_1077.txt,EYE CREAM WITH COLLAGEN,Part_D,COLLAGEN CLR,5,Cream,Eye Cream,smoothing/film forming/anti-aging
+Vol1_1025.txt,COLD CREAM,,CARNAT10N White Mineral Oil,50,Cream,Cold Cream,
+Vol1_1025.txt,COLD CREAM,,Beeswax,16.67,Cream,Cold Cream,
+Vol1_1025.txt,COLD CREAM,,Borax,0.83,Cream,Cold Cream,
+Vol1_1025.txt,COLD CREAM,,Water,32.5,Cream,Cold Cream,solvent
+Vol2_1089.txt,FOUNDATION CREAM,A,Lamecreme KSM,20,Cream,Foundation Cream,
+Vol2_1089.txt,FOUNDATION CREAM,A,Olive Oil,5,Cream,Foundation Cream,
+Vol2_1089.txt,FOUNDATION CREAM,B,Glycerine,4,Cream,Foundation Cream,humectant
+Vol2_1089.txt,FOUNDATION CREAM,B,Water,69.5,Cream,Foundation Cream,solvent
+Vol2_1089.txt,FOUNDATION CREAM,B,Belsil PDM 20,1,Cream,Foundation Cream,
+Vol2_1089.txt,FOUNDATION CREAM,B,Belsil CM 020,0.5,Cream,Foundation Cream,
+Vol2_1089.txt,FOUNDATION CREAM,B,"Preservatives, perfume, pigments",,Cream,Foundation Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,Tri-Tein Silk AA,2,Cream,Eye Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,Demineralized Water,40,Cream,Eye Cream,solvent
+Vol2_1076.txt,EYE CREAM WITH SILK,,Sorbitol 70%,5,Cream,Eye Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,Epsom Salts,0.25,Cream,Eye Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,Tri-Sept M,0.2,Cream,Eye Cream,preservative
+Vol2_1076.txt,EYE CREAM WITH SILK,,Tri-Sept P,0.05,Cream,Eye Cream,preservative
+Vol2_1076.txt,EYE CREAM WITH SILK,,Dehymuls K,20,Cream,Eye Cream,emulsifier/protections
+Vol2_1076.txt,EYE CREAM WITH SILK,,White Beeswax,3.5,Cream,Eye Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,White Petrolatum,15,Cream,Eye Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,Pot Marigold LS,2,Cream,Eye Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,Arnica LS,2,Cream,Eye Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,Squalane,4,Cream,Eye Cream,emollient/hair conditioning/refatting/skin conditioning
+Vol2_1076.txt,EYE CREAM WITH SILK,,Tristat IU,0.2,Cream,Eye Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,Colts Foot HS,2,Cream,Eye Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,Horsetail HS,1,Cream,Eye Cream,
+Vol2_1076.txt,EYE CREAM WITH SILK,,Tri-Lastin 10 F,2,Cream,Eye Cream,
+Vol8_1049.txt,Water_free Massage Cream,A,Softisan 378 (Caprylic/Capric/Stearic Triglyceride),50,Cream,Massage Cream,
+Vol8_1049.txt,Water_free Massage Cream,A,Miglyol 812 (Caprylic/Capric Triglyceride),20,Cream,Massage Cream,
+Vol8_1049.txt,Water_free Massage Cream,A,Petrolatum,20,Cream,Massage Cream,antistatic/emollient
+Vol8_1049.txt,Water_free Massage Cream,A,Mineral Oil,10,Cream,Massage Cream,
+Vol8_1049.txt,Water_free Massage Cream,B,Fragrance,,Cream,Massage Cream,
+Vol2_1074.txt,EYE CREAM,Part_A,Water,68,Cream,Eye Cream,solvent
+Vol2_1074.txt,EYE CREAM,Part_A,Carbopol 934,10,Cream,Eye Cream,viscosity controlling/stabilising
+Vol2_1074.txt,EYE CREAM,Part_A,Propylene Glycol,3,Cream,Eye Cream,humectant/solvent/skin conditioning/viscosity controlling
+Vol2_1074.txt,EYE CREAM,Part_A,EMULGADE 1000 NI,5,Cream,Eye Cream,emulsifier
+Vol2_1074.txt,EYE CREAM,Part_A,CET10L LC,5,Cream,Eye Cream,
+Vol2_1074.txt,EYE CREAM,Part_A,Mineral Oil,3,Cream,Eye Cream,
+Vol2_1074.txt,EYE CREAM,Part_B,COLLAGEN CLR,5,Cream,Eye Cream,smoothing/film forming/anti-aging
+Vol2_1074.txt,EYE CREAM,Part_B,Germaben II-E,1,Cream,Eye Cream,
+Vol2_1074.txt,EYE CREAM,Part_B,Dyes,,Cream,Eye Cream,
+Vol5_1004.txt,"Massage Cream, Anhydrous, Removable by Washing",,Amphocerin K,43,Cream,Massage Cream,
+Vol5_1004.txt,"Massage Cream, Anhydrous, Removable by Washing",,Eumulgin B2,2,Cream,Massage Cream,
+Vol5_1004.txt,"Massage Cream, Anhydrous, Removable by Washing",,Cetiol LC,15,Cream,Massage Cream,
+Vol5_1004.txt,"Massage Cream, Anhydrous, Removable by Washing",,"Paraffin oil, high viscous",15,Cream,Massage Cream,
+Vol5_1004.txt,"Massage Cream, Anhydrous, Removable by Washing",,"Vaseline, white",25,Cream,Massage Cream,
+Vol1_1026.txt,COLD CREAM,phase_I,Beeswax,2,Cream,Cold Cream,
+Vol1_1026.txt,COLD CREAM,phase_I,ADOL 62,1.5,Cream,Cold Cream,
+Vol1_1026.txt,COLD CREAM,phase_I,Mineral Oil,18,Cream,Cold Cream,
+Vol1_1026.txt,COLD CREAM,phase_I,ADOL 66,0.5,Cream,Cold Cream,
+Vol1_1026.txt,COLD CREAM,phase_I,HYDROFOL ACID 1895,1.5,Cream,Cold Cream,
+Vol1_1026.txt,COLD CREAM,phase_I,STARFOL WAX CG,0.5,Cream,Cold Cream,
+Vol1_1026.txt,COLD CREAM,phase_II,Glycerine,1,Cream,Cold Cream,humectant
+Vol1_1026.txt,COLD CREAM,phase_II,Propylene Glycol,1,Cream,Cold Cream,humectant/solvent/skin conditioning/viscosity controlling
+Vol1_1026.txt,COLD CREAM,phase_II,VARONIC LI-48,1,Cream,Cold Cream,
+Vol1_1026.txt,COLD CREAM,phase_II,Borax,1,Cream,Cold Cream,
+Vol1_1026.txt,COLD CREAM,phase_II,Deionized Water,72,Cream,Cold Cream,solvent
+Vol1_1026.txt,COLD CREAM,phase_III,Preservative,,Cream,Cold Cream,preservative

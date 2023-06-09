@@ -1,0 +1,787 @@
+Document Name: role of ADOL 62 in Cold Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6314412/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Improving vaccine-related pain, distress or fear in healthy children and adolescents–a systematic search of patient-focused interventions - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Hum Vaccin Immunother
+
+
+v.14(11); 2018
+
+
+                    PMC6314412
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (927K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Hum Vaccin Immunother
+
+
+v.14(11); 2018
+
+
+                    PMC6314412
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Hum Vaccin Immunother. 2018; 14(11): 2737–2747. Published online 2018 Jul 9.  doi: 10.1080/21645515.2018.1480238PMCID: PMC6314412PMID: 29792557Improving vaccine-related pain, distress or fear in healthy children and adolescents–a systematic search of patient-focused interventionsVivian Y. Lee,a Corinne Caillaud,a Jacqueline Fong,b and  Kate M. EdwardsaVivian Y. LeeaThe University of Sydney, Exercise Health and Performance Research Group & Charles Perkins Centre, Sydney, AustraliaFind articles by Vivian Y. LeeCorinne CaillaudaThe University of Sydney, Exercise Health and Performance Research Group & Charles Perkins Centre, Sydney, AustraliaFind articles by Corinne CaillaudJacqueline FongbThe University of Sydney, Sydney Nursing School, Sydney, AustraliaFind articles by Jacqueline FongKate M. EdwardsaThe University of Sydney, Exercise Health and Performance Research Group & Charles Perkins Centre, Sydney, AustraliaFind articles by Kate M. EdwardsAuthor information Article notes Copyright and License information DisclaimeraThe University of Sydney, Exercise Health and Performance Research Group & Charles Perkins Centre, Sydney, AustraliabThe University of Sydney, Sydney Nursing School, Sydney, AustraliaCONTACT Vivian Y. Lee ua.ude.yendys@eel.naiviV, The University of Sydney, Exercise, Health, and Performance Research Group, Cumberland Campus, Lidcombe, 2141, NSW, AustraliaReceived 2018 Feb 20; Revised 2018 Apr 13; Accepted 2018 May 12.Copyright © 2018 Taylor & FrancisABSTRACT
+Objective: The WHO recently highlighted the need for research into potential interventions that can be used to mitigate pain during mass vaccinations, in addition to interventions specific for adolescents. The current review examines the literature on potential interventions that can be used during mass vaccination settings in healthy individuals between the ages of 4 and 15 years old. Methods: Criteria for inclusion were: 1)participants between the ages of 4–15 years, 2)interventions that were patient-focused, 3)vaccinations in healthy individuals, 4)outcome measures to include self-reported pain, fear or distress. Results: Twenty-seven articles were identified with a total of 31 interventions. Eleven interventions used injection-site specific interventions, 17 used patient-led interventions and three used a combination of both site-specific and patient-led interventions. Conclusion: Interventions using coolant and vibration together, as well as a combination of site-specific and patient-led interventions, showed the most consistent effects in reducing self-reported pain, fear or distress.KEYWORDS: healthy adolescents, healthy children, interventions, mass vaccination, self-reported distress, self-reported fear, self-reported painIntroductionVaccinations are one of the greatest medical successes of all time, with current estimates of 2–3 million deaths prevented by vaccinations every year.1 The World Health Organization (WHO) recommends nine vaccinations before the age of one, and up to 13 more before 18 years old depending on the country of residence.2 These vaccinations are mostly provided through government-funded programs in industrialised nations. Due to a large number of prescribed vaccines, vaccinations are one of the earliest and most commonly experienced painful procedure in healthy children, with ‘getting a needle’ being reported as one of the most feared and painful medical experiences.3 The pain of the injection as well as adverse events, such as swelling and redness at the injection site, have been reported to be key barriers to vaccination,4 hindering coverage rates and, therefore, herd immunity. Furthermore, the distress felt by the child, and the parent during the procedure has been shown to influence hesitancy to vaccinate5 which ultimately increases the likelihood of the spread of infection. Although novel methods of needle-free vaccinations are being developed,6 all vaccines are currently given intramuscularly using a needle.The importance of pain management in children has changed with time; clinicians once believed that infants did not feel pain due to the immaturity of their nervous system.7 However, there is growing literature on the importance of early pain management to prevent sensitisation to pain, and the development of needle fear.8 Consequently, research examining interventions to improve the experience of painful procedures have gained momentum. Published studies on distraction during the administration of pain stimuli can be found from the 1960's, using pain stimuli such as cold temperature9 and pressure.10 However, specific attention to needle pain only began in the early 1980's, when a cooling intervention using ice was examined during intramuscular injection.11 This led to the use of topical anaesthetics, as well as psychological interventions such as parental presence, education and/or child education. Numerous studies have tried to identify optimal ways to improve needle-related pain (venipuncture, lumbar puncture, IV insertion, heel-sticks, vaccination, cannulation and bone marrow aspiration) and reviews summarising different types of interventions (pharmacological, non-pharmacological, psychological and physical interventions) have been published.12-16 Reviews specificly examining the effectiveness of different interventions on vaccine-related pain have also been recently published.17-22 The current review has been prompted by the recent WHO endorsements on the need to examine interventions suitable for mass vaccinations.23 Mass-vaccinations are increasingly utilized due to their effectiveness in improving and maintaining coverage rates, however, the environment they create necessitates specific requirements when considering appropriate interventions. Furthermore, the current review specifically takes into account key factors that have not been considered in prior reviews (age, health status and parental involvement) that may influence the conculsions.Firstly, we focused on interventions that have the potential to be used during mass vaccination settings (i.e. do not require parental/guardian involvement and are relatively simple to be conducted by the nurse without the need of separate training). This is particularly relevant as the capacity for parental involvement decreases during mass-vaccination settings, largely due to clinics often being school based. Further, as interventions used during mass vaccinations need to be timely, involving separate training of patients, clinicians, or caregiver/parents would be inappropriate. Secondly, in mass vaccination settings, the majority of recipients would be apparently healthy children. This is especially pertinent when examining pain, as prior experiences of pain have been suggested to sensitize children to pain24 and influence the pain threshold of the individual.25 Therefore, children receiving medical treatments are likely to experience vaccination pain differently and may exhibit different effects of the interventions compared to healthy children. Prior reviews of vaccination pain interventions have failed to differentiate these populations and have included studies conducted on healthy and pediatric patient populations.17,22 Finally, age is known to be a significant factor in influencing the intensity of pain and unpleasantness rating,26 and self-reported pain in children younger than four years old is found to be inaccurate.27 Although the importance of separating age groups due to the changes in cognitive development has been highlighted in similar reviews,20 only one review of Psychological interventions excluded studies with participants younger than 3 years old,17 while several other relevant reviews failed to exclude studies on infants, with data including large proportions of infant reports (23–81%).19,22,28 With these considerations in mind, we have chosen to review interventions conducted in apparently healthy, school-age children (age 4–15), that do not require training or parent / carer involvement and therefore are appropriate in mass vaccination settings.MethodsA systematic search was conducted under PRISMA guidelines (Fig. 1). All searches were conducted in January 2018 using four large electronic databases: Embase, CINAHL, Web of Science and Medline. Key search terms used were ‘child*’, ‘adolescent’, ‘youth’, ‘p?diatric*.’, ‘intervention’, ‘vaccin*’, ‘immuni?ation’, ‘analgesia’, ‘acute pain’, ‘procedural pain’ and ‘inject* pain’. A detailed description of the search terms is outlined in Appendix 1.
+Open in a separate windowFigure 1.Flowchart of study identified, screened and included.
+Studies were included if they met the inclusion criteria: 1) participants between the age of 4–15 years old, 2) interventions that were patient-focused (independently conducted, without parental guidance or the need for training), 3) vaccinations in supposedly healthy individuals 4) reported at least one self-reported measure of pain, fear or distress. Unpublished theses, case studies, abstracts, animal studies and non-English publications were excluded in this literature search. The studies were not limited to a specific study design. Reference lists of different review articles were manually searched for relevant studies. Identified full-text articles were independently reviewed by two reviewers (VL and KE) after eliminating articles based on the title and abstract, to assess for eligibility. Any uncertainty related to the articles was discussed between the reviewers. Data extraction was performed by VL and checked for accuracy. A total of 27 articles were identified, of which four were included in the review twice as they contained more than one intervention within the study.The risk of bias of the included studies was assessed using the Cochrane risk of bias tool29 by two reviewers (VL and KE). Any disagreements were discussed to reach a consensus. Individual studies were given an overall summary score based on the risk of assessment tool.ResultsA total of 7971 articles were retrieved from the database. Another two were identified through manual searches through other review articles. A total of 27 studies met the criteria, which include a total of 31 interventions, with four studies reporting results from multiple intervention groups. Summary of all the studies can be found in Table 1–3.
+Table 1.Summary of site-specific interventions.↑, variables significantly higher/greater in the specified group compared to other groups; ↔, no significant difference between groups; ↓, variables significantly lower in specified group compared to other groups.AuthorYearParticipantsStudy designInterventionVaccineSelf-report measuresDesigned devices Berberich et al.,2009N = 41RCT1) ControlMMRPain  4–6 year olds 2) Distraction (Coolant, arm gripper and vibrating instrument)DPTDistraction ↓     IVP  Sabiner et al.,2015N = 104RCT1) ControlDPTPain  7 year olds 2) Buzzy (cooling and vibration device) Buzzy ↓Cooling Abbott and Fowler-Kerry1995n = 90RCT1) No-spray controlDPTPain  4–5.5 year olds 2) Placebo topical spray Placebo ↓    3) Refrigerant topical anaesthetic Anaesthetic spray ↓ Gedaly-Duff & Burns1992n = 38RCT1) Typical CareDPTPPain  4–6 year olds 2) Ice (30 sec)DT↔ Cohen et al.,2009n = 57RCT1) Typical careAll routine vaccinePain  4–6 year olds 2) Vapocoolant Vapocoolant ↑ Eland1981N = 40RCT1) VapocoolantDPTPain  4–5 year olds 2) Air Spray Vapocoolant ↓Topical anaesthetic Cassidy et al.,2001n = 161RCT1) PlaceboDPTPPain  4–6 year olds 2) EMLA EMLA ↓ Cohen et al.,1999N = 39RCT1) EMLAHepatitis BPain  8–11 year olds 2) Distraction (Nurse coaching and movie) ↔    3) Typical care Distress      ↔ Cohen et al.,2001N = 22Latin Square1) EMLAHepatitis BPain  8–11 year olds 2) Distraction (Nurse coaching and movie) ↔    3) Typical care Distress      ↔Tactile stimulation Cobb & Cohen2009N = 89RCT1) Typical careAll routine vaccinePain  4–12 year olds 2) Placebo ↔    3) Shotblocker (small, flat u-shaped device, with rounded nubs to stimulate the skin around the site of injection)   Sparks2001N = 105Quasi-experimental1) Standard careDPTPain  4–6 year olds 2) Touch Touch ↓    3) Bubble blowing Bubble ↓      Fear      ↔Open in a separate window
+Table 2.Summary of patient-focused interventions.↑, variables significantly higher/greater in the specified group compared to other groups; ↔, no significant difference between groups; ↓, variables significantly lower in specified group compared to other groups.AuthorYearParticipantsStudy designInterventionVaccineSelf-report measuresChewing gum Lewkowski et al.,2003N = 115RCT1) Unsweetened gum preHepatitis BPain  9–11 year olds 2) Sweetened gum pre ↔    3) Unsweetened gum pre + during      4) Sweetened gum pre + during  Computerized devices Burns-Nader et al.,2016N = 41RCT1) DistractionAny ImmunizationPain  4–11 year olds 2) no distraction ↑Video (tv) watching Cassidy et al.,2002N = 62RCT1) Watch TVDPTPPain  5 year olds 2) Watch blank TV screen ↔ Cerne et al.,2015N = 35RCT1) Standard careDPTPain  6 year olds 2) Watching CartoonIPV↔     MPRV      Meningococcal C  Cohen et al.,1997N = 92Alternatively assigned1) Standard CareDPTPain  4–6 year olds 2) Nurse coach + TVMMRNurse coach + TV ↓    3) Nurse coach + TV + train parent and child Nurse coach + TV + train ↓ Cohen et al.,1999N = 39RCT1) EMLAHepatitis BPain  8–11 year olds 2) Distraction (Nurse coaching and movie) ↔    3) Typical care Distress      ↔ Cohen et al.,2001N = 22Latin Square1) EMLAHepatitis BPain  8–11 year olds 2) Distraction (Nurse coaching and movie) ↔    3) Typical care Distress      ↔ Cohen et al.,2015N = 90RCT1) ControlDPTPPain  4 – 6 year olds 2) Distraction only (laptop computers for adults – children watching + DVD watching during)MMR Varicella↔    3) ‘Bear essentials’ + Distraction  Music Fowler-Kerry & Lander1987N = 200,RCT1) Distraction (music with earphone)DPTPain  4–5.5 year olds 2) Suggestion (earphone without music) Distraction ↓    3) Distraction + Suggestion      4) Control (with earphone)      5) Control (without earphone)     RCT    Kristjansdottir & Kristjansdottir,2011N = 118 1) Standard carePolioPain  13–15 year olds 2) Music distraction with headphones Music ↓    3) Music distraction without headphones Without headphones ↓↓ Noguchi2006N = 64RCT1) Standard careDPTPain  4–6.5 year olds 2) Musical storyIVP↔    3) Spoken storyMMR      Hepatitis A      Hepatitis B      Purified Protein Derivative Positioning Lacey et al.,2008n = 107RCT1) Supine positionMMRPain  4–6 year olds 2) Sitting positionDPT↔     IVPFear      Supine ↑Breathing intervention French et al.,1994N = 149RCT1) ExpirationDPTPain  4 – 7 year olds 2) Typical care ↔ Manimala et al.,2000N = 82RCT1) ControlRoutine ImmunisationFear  4–6 year olds 2) Parental reassurance Distraction ↓    3) Distraction (Party Blower)   Reis and Holubkov1997N = 62RCT1) EMLA + distractionDPTPain  4–6 year olds 2) Vapocoolant + distractionMMRVapocoolant ↓    3) Distraction (blowing pinwheel)VaricellaDistress (1-min post)      EMLA↓      Vapocoolant ↓      Distress (5 min post)      ↔ Sparks2001N = 105Quasi-experimental1) Standard careDPTPain (Oucher)  4–6 year olds 2) Touch Touch ↓    3) Bubble blowing Bubble ↓      Fear      ↔ Wallace et al.,2010N = 68RCT1) ControlDPTPain  4–5 and 11–13 year olds 2) CoughIPV↔     tetanus toxoid-reduced diphtheria      toxoid-acellular pertussis      meningococcal conjugate vaccines Open in a separate window
+Table 3.Summary of combined interventions.↑, variables significantly higher/greater in the specified group compared to other groups; ↔, no significant difference between groups; ↓, variables significantly lower in specified group compared to other groups.AuthorYearParticipantsStudy designInterventionVaccineSelf-reported measureBoivin et al.,2008N = 239Pseudo-randomized1) Usual careMMRPain  4–12 year olds 2) Distraction (EMLA, child education, parental accompaniment, distraction with bubbles)DPTDPTPHepatitisDistraction ↓Burgess et al.,2015N = 304–6 year oldsRetrospective, Quasi-experimental1) Benzocaine based cooling spray + party blower (adult accompaniment)Routine immunizationPain↔Distress↓Reis and Holubkov1997N = 62RCT1) EMLA + distractionDPTPain  4–6 year olds 2) Vapocoolant + distractionMMRVapocoolant ↓    3) Distraction (blowing pinwheel)VaricellaDistress (1-min post)      EMLA↓      Vapocoolant ↓      Distress (5 min post)      ↔Open in a separate windowDT – Diptheria-tetanus.DPT – Diphtheria-pertussis-tetanus.DPTP – Diphtheria, pertussis, tetanus and polio immunization.MMR – Measles, mumps, and rubella.IVP – Inactivated poliovirus vaccine.MPRV – Measles, mumps, rubella and varicella.RCT – Randomized controlled trial.Quasi-experimental – Non-randomized, pre- post- intervention.
+Participants were between four to 15 years old; 19 studies had participants between 4–7 years old,11,30-47 three studies had participants between 8–12 years,48-50 and one study had participants between 13–15 years old.51 Three studies included participants ranging from 4–12,52-54 one study had 4–5 and 11–13 year-olds.55 Sample size ranged from 22 to 239 participants, eight studies had fewer than 50 participants,11,30,32,40,46,48,49,5410 had between 51 to 100 participants,33-36,38,42,44,45,52,55 and nine studies had more than 100 participants.31,37,39,41,43,47,50,51,53
+Twelve studies used single vaccinations,11,31,35,37-39,41,47-51 ten studies used more than one vaccination,30,32-34,40,42,43,45,53,55 and five studies used ‘routine vaccinations’ without specifying the number.36,44,46,52,54 Vaccinations that were used included Hepatitis A, Hepatitis B, Diptheria-Tetanus (DT), Diphtheria-Pertussis-Tetanus (DPT/DTP), Diphtheria, Pertussis, Tetanus and Polio (DPTP), Measles, Mumps, and Rubella (MMR), Varicella, Meningococcal and Inactivated Poliovirus (IVP) vaccinations.Self-reported pain was measured in 26 studies, using Faces Pain Scale-Revised (FPS-R;30,36,52,56), Elands Colour Assessment tool,11Wong-Baker FACES Scale (FACES),31-33,37,40,43,45,46,54 Oucher scale,32,39 Visual Analogue Scale (VAS),35,41,45,47-49,51,53,55 Coloured Analogue Scale (CAS),50 Children's Anxiety and Pain Scales (CAPS)34 and Face Pain Scale (FPS).38,42,50,53 Self-reported distress was measured in four studies using Global Mood Scale (GMS)45 and VAS.46,48,49 Fear was measured in three studies using Fearmometer,43 FACES44 and Child Medical Fear Scale (CMFS).39
+Eleven interventions were identified to be using a treatment given at the site of injection, collectively termed here as site-specific interventions. These included anaesthetic cream (Lignocaine 2.5% and Prilocaine 2.5%; Eutectic Mixture of Local Anaesthetics (EMLA) cream;37,48,49), cooling (coolants; ethyl chlorides based11,36 and fluro-ethyl base;35 and ice32), tactile stimulation,39,52 and combination of cooling and vibration.30,31 Tactile stimulation included manual stroking of skin39 or a specially designed device ‘Shotblocker’ (described as “…a small u-shaped plastic device, measuring approximately 70 mm by 50 mm across at its widest points and 2 mm thick, with rounded nubs to stimulate the skin around the site of the injection”52). The intervention that combined cooling and vibration used ‘Buzzy’ (cooling and vibrating device[31]); or a designed device that combined a coolant, arm gripper and a vibrating instrument.30 Of the 11 interventions identified as site-specific interventions, 55% found decreases in self-reported pain, distress or fear, while 45% of the studies either increased or did not find an effect.Seventeen interventions were identified as patient-led interventions which included chewing gum,50 distraction with a computerized device,54 watching video (TV),33,34,38,40,48,49 body position during vaccination,43 breath control,39,44,45,47,55 and listening to music.41,42,51 Devices used as a distraction utilized computerized tablet with two different apps designed for the specific age groups.54 Breath control interventions included expiration, blowing a pinwheel, blowing a party blower, bubble blowing and coughing. Music interventions used musical stories and music distractions with/without headphones. Of the 17 interventions identified as patient-led interventions, only 35% showed a decrease in self-reported pain, distress or fear during vaccinations.Three interventions utilised a combination of site-specific and patient-led interventions.45,46,53 All three studies combined the use of a topical analgesic (EMLA, Vapocoolant, and benzocaine), with a device to induce breath control (bubble blowing, party blower, and pinwheel blowing). All three interventions showed beneficial effects on self-reported pain or distress.Using the Risk of Bias Assessment tool, there were no studies that were considered to have a ‘low’ risk of bias, with three studies having ‘unclear’ risk of bias. Site-specific interventions had the lowest proportion of ‘high’ risk bias studies (82%), while 94% of the patient-led interventions and 100% of the combined interventions had ‘high ‘risk biased studies. Although this finding causes concern, the inability to blind the participants and their outcome assessment, due to the nature of the interventions was the primary cause of ‘high risk’ classification (Table 4). In addition, many of the studies failed to mention whether there were allocation concealments. Three studies were identified to have other sources of bias due to either not specifying the number of vaccination36 or not controlling for the number of vaccinations the participant's received.42,52 Finally, one study did not have a control group in the study.46
+Table 4.Summary of the Cochrane Collaborative Risk of Bias 5.1.0 tool. +, low risk of bias; −, high risk of bias; ?, unclear risk of bias. Cochrane Risk of Bias Version 5.1.0 Random sequence generation.Allocation concealment.Blinding of participants and personnelBlinding of outcome assessment (Self-reported)Incomplete outcome dataSelective reporting.Other sources of bias.Overall risk of biasAbbott & Fowler-Kerry, 1995+?+++++UnclearBerberich et al., 2009++−−?++HighBoivin et al., 2008−−−−−++HighBurns-Nader et al., 2016+?−−?++HighBurgess et al., 2015−−−−++−HighCassidy et al., 2001+?++−++HighCassidy et al., 2002+?−−+++HighCerne et al., 2014+?−−+++HighCobb & Cohen, 2009++++++−HighCohen et al., 1997−−−−+++HighCohen et al., 1999+?−−−++HighCohen et al., 2001−?−−−++HighCohen et al., 2009++−−++−HighCohen et al., 2015++−−?++HighEland, 1981+?+++++UnclearFowler-Kerry & Lander, 1987+?−−+++HighFrench et al., 1994+−−−−++HighGedaly-Duff et al., 1992+?−−−++HighKristjansdottir & Kristjansdottir, 2010+?−+−++HighLacey et al., 2008+?−−?++HighLewkowski et al., 2003+?++?++UnclearManimala et al., 2000+−−−?++HighNoguchi, 2006+?++?+−HighReis and Holubkov, 1997+?−−+++HighSabiner et al., 2015+?−−+++HighSparks, 2001−+−−+++HighWallace et al., 2010+?−−?++HighOpen in a separate window
+DiscussionThis systematic review examined the effectiveness of site-specific, patient-led and combined interventions on vaccination pain, distress or fear in healthy children between 4 to 15 years old. Beneficial effects were seen in all three combined interventions while only 55% of the site-specific and 35% of the patient-led interventions showed a positive effect.Site-specific interventionAnaesthetic cream Anaesthetic creams act by causing reversible blocks to conduction along nerve fibres that send pain signals and are commonly used as an analgesic during medical procedures. Indeed, in a recent review of EMLA use during needle procedures concluded that it was effective in reducing pain during venepuncture and/or cannulation in children aged three months to 15 years.57 However, during vaccinations, only one37 of the three identified studies in this review reported decreased pain. In addition, distress measures conducted in two studies48,49 did not show any effect. This inconsistency in the effectiveness of EMLA may be associated with the inherent differences between transcutaneous needle insertion to withdraw blood, such as in venepuncture and cannulation, and the intramuscular needle insertion to inject a volume of liquid, such as in vaccinations. Importantly, the depth of injection influences the pain caused by the two different injections as pain caused by transcutaneous needle insertion is thought to be elicited from pressure and movement sensitive receptors, mechanoreceptors and polymodal nociceptors located through the transcutaneous layer of the dermis.58 EMLA is effective in reducing this type of superficial cutaneous puncture pain, however, appears to have a weaker effect on vaccinations which are injected deeper into the tissue than transcutaneous injections. Furthermore, vaccinations are different in that they may also induce pressure-pain due to the injected volume.59 It may be worthwhile to note that decreased self-reported pain was found in younger children between 4–6 years old,37 while no effects were seen in older participants (8–11 years old).48,49 This may be due to the difference in epidermal and dermal thickness between the two age groups,60 which is known to be a factor that affects the onset and efficacy of the EMLA cream.58
+Cooling Cooling interventions showed mixed effects; of two studies using Vapocoolant, one reported reduced pain,11 and one reported increased pain,36 while a study using refrigerant topical anaesthetic found a decrease35 in pain and ice cooling showed no effect.32 Interestingly, in contrast to anaesthetic creams, cooling interventions have been reported to be ineffective against the pain in children during cannulation.61 This is hypothesised to be due to children's misperception of cold sensation as pain, therefore negating possible analgesic effects.22 Furthermore, analgesia from cooling is mechanistically different to anaesthetic cream with deeper subcutaneous nociceptors found to be affected by cold temperatures.62 In addition, blockage of afferent pain signals, enhanced central analgesia and decreased nerve conduction velocities are reported to contribute to the effects of decreased pain with cooling.63 Therefore, the hypothesis follows that analgesic properties of cooling may be stronger than anaesthetic creams during vaccination. However, the inconsistent evidence found in this review is not sufficient to support the benefits.Tactile stimulation Tactile stimulation of the injection site during needle procedures is thought to reduce pain based on the gate control theory of pain. The innervation of touch fibres (fast non-noxious tactile motion nerves, A-β fibre) is proposed to block the signal transmission of pain fibres (A-δ and C fibres; Acute and chronic pain accordingly),63 dampening the pain sensation. One study that utilised light stroking of the skin around the injection site reported decreased self-reported pain,39 while fear levels did not change. On the other hand, a second study that used a device designed to evenly distribute the effect of tactile stimulation around the injection site (Shotblocker), failed to show any effect on self-reported pain.52 A major difference between the two studies is the site of injection, and the methods used to stimulate the skin. Tactile stimulation was effective when the vaccination was administered to the vastus lateralis, while the Shotblocker was ineffective when used on the deltoid. A recent review highlighted the different pain thresholds of the vastus lateralis and the deltoids, and recommend the use of deltoid for vaccine injections from the age of 18 months due to a higher threshold for pain.64 Consequently, the lower pain threshold in the vastus lateralis may have allowed effects to be seen from tactile stimulation, but the higher threshold in the deltoid may have dampened the effect with the Shotblocker. Furthermore, tactile stimulation conducted by touch may have a greater impact when compared to a mechanical device, which is less personal.Multi-aspect local intervention Although the effects of tactile stimulations are mixed, evidence of an effect is slightly more consistent when combined with cooling interventions. Two studies combined the use of cooling and vibration together, and both showed a decrease in self-reported pain during vaccination.30,31 This suggests that the mechanisms of analgesia through tactile stimulation and cooling may have a synergistic effect. Consequently, interventions addressing transcutaneous and well as intramuscular pain may provide an enhanced analgesic effects during vaccinations.Patient-led interventionChewing and positioning Of the ten patient-led interventions that found no effect on self-reported pain, distress or fear of vaccination, two of the studies included chewing gum50 and different positioning during vaccination.43 In infants, chewing to mimic the effects of a pacifier, and posture, to increase the sense of control, have previously been found to be effective in reducing pain and fear,43,50 but seem to be ineffective in older children. Positioning during vaccination was not reported to change self-reported pain, although higher fear levels were reported when supine.Distractions using video (TV), music or devices Watching video (TV), using a computerized device and listening to music aims to distract the child away from the source of pain, where the mechanism of effect is most often cited to involve the aforementioned gate control theory of pain. Distraction is hypothesised to work in two ways; blocking the transmission of pain by non-pain-transmitting fibres, or centrally by the descending fibres from the brain.65 Equivocal results have been reported utilizing video distraction during other medical procedures, and only one33 of the six studies identified in this review reported a positive effect on pain, with no evidence of its effects on distress, indicating little support for efficacy. In addition, a recent study using an application through a computerized device (tablet) resulted in an increase in pain felt by the children.54 However, two41,51 out of three studies identified in this review using musical distraction found a positive effect. A notable difference in the studies that found an effect of music and those that did not seem to lie in the type of music used. Music that was specific to the target population seemed to have an effect on decreasing self-reported pain. The two studies that found an effect used either; music ‘suitable for children’41 or music from the top 10 charts of the day, chosen after a pilot study in a similar population.51 The study42 that did not find an effect used musical or spoken storytelling to participants between 4 to 6.5 year-olds, which although uses music, is different to the type of music used by the two studies mentioned above. Therefore, it may be that utilising music suitable to the target population increases the degree of engagement and therefore distraction, resulting in the decrease in self-reported pain levels.Breathing intervention Deep breathing is suggested to activate the parasympathetic nervous system which alters physiological state by decreasing oxygen consumption, heart rate and blood pressure.66 A recent review highlighted the benefits of using breathing with a toy for all children and adolescents (between 3 to 12 years old) during vaccinations.17 In the current review, two out of five breathing intervention found a decrease in pain, distress or fear (bubble blowing, party blower,39,44) when using breath control as a standalone intervention (combined interventions to be discussed later). The studies that had a beneficial effect in reducing self-reported pain or fear encouraged blowing by providing feedback in the form of an outcome (i.e. bubble, noise and visual cues), which is different to the simple expiration or coughing interventions that did not find any effect. It is possible that this outcome increases engagement by distracting the child in addition to altering breathing, therefore increasing the intensity of the intervention.Combination Three studies were identified to use a combination of site-specific and patient-led interventions, and interestingly, all used a local analgesic combined with a device that induces expiration (bubble, party blower or pinwheel blowing). Bubble blowing combined with EMLA,53 and pinwheel blowing with vapocoolant found decreases in self-reported pain45 while cooling spray with a party blower,46 and pinwheel blowing with both vapocoolant and EMLA found decreases in distress.45 It is worth noting that while the intervention using a party blower with cooling did find an effect on distress, it did not find an effect on pain. This study used recalled experiences of pain in prior vaccinations to compare reported pain, without using a control group.46 Recalled information is reported to have decreased level of sensitivity67 therefore it may have limited the capacity to detect an effect of the intervention. Interestingly, both studies measuring distress in combined interventions show a beneficial effect, while single interventions, as discussed earlier, did not influence distress measures. Although the study using recalled data may not be suitable to make conclusions on the effectiveness of combined interventions, the other two studies provide support for the beneficial effects of combining site-specific and patient-led interventions to improve pain as well as distress during vaccinations.LimitationsThe heterogeneity of the methods used in the identified studies varied considerably, including the type and number of different interventions, type and number of vaccination used, as well as the number of different questionnaires used. The vaccines used in the studies ranged from one to undefined (‘all routine vaccination’), with nine different vaccines. In addition, some studies utilised information collected during multiple administration of different vaccinations in one sitting. As some vaccines are known to be more painful than others, this may have influenced the outcome of the intervention. Of the studies that found an effect, 77% included the use of DPT however, so did 54% of studies that did not find an effect. Interestingly, 5 of the 6 studies that used only the DPT vaccine found an effect which suggests that the pain response using single vaccine may have the potential to show a better response to different interventions. However, only 13 studies out of 27 were single vaccine studies, of which 7 found an effect, and 6 did not. Due to the heterogeneity in the type and number of vaccine used, it is difficult to evaluate the potential effects of these variables. Secondly, there were nine different questionnaires used in the studies identified in this review. This limits the ability to compare the outcomes of the interventions due to the different sensitivities of the questionnaire. This review also aimed to identify interventions for adolescents as well as children. However, only two of the 27 identified studies involved adolescent participants which indicate more research in this population is needed, and we must acknowledge that our conclusions largely refer to findings in children. The risk of bias was high for most of the identified studies due to studies failing to identify their methods of allocation concealment (concealment in the order of allocation). Given the nature of the interventions, it is difficult to blind the participants of their allocated groups and this should be considered when assessing bias using these tools.ConclusionThis review found consistent evidence for reduction in pain, distress and/or fear with interventions that combined cooling and vibrating together, as well as a combination of site-specific and patient-focused interventions. We suggest that the degree of engagement of the participant, or the ‘dose’ of the intervention is important in eliciting a beneficial effect. Therefore, interventions designed to actively engage the participant are more likely to be effective in reducing self-reported pain, distress or fear, hence improve the vaccination process in children. However, the potential for these interventions to be utilized in mass vaccination settings needs to be examined further. Furthermore, due to limited data availability, the findings in this review are weighted toward children rather than adolescents.AppendixDatabase: Ovid MEDLINE(R) <1946 to January Week 2 2018>Search Strategy:——————————————————————————–1 Child/ (1541803)2 child*.mp. (2076252)3 Adolescent/ (1832767)4 youth.mp. (48047)5 Pediatrics/ (48556)6 p?diatric*.mp. (258167)7 1 or 2 or 3 or 4 or 5 or 6 (3065523)8 Intervention*.mp. (704682)9 Vaccination/ (72552)10 vaccin*.mp. (148544)11 immuni?ation.mp. (140805)12 (device* or distraction*or an?esthe*).mp. [mp = title, abstract, original title, name of substance word, subject heading word, keyword heading word, protocol supplementary concept word, rare disease supplementary concept word, unique identifier, synonyms] (301064)13 Analgesia/ (18617)14 analg*.mp. (158311)15 8 or 9 or 10 or 11 or 12 or 13 or 14 (1366634)16 Acute Pain/ (1410)17 ((acute or procedural or inject*) adj3 pain*).mp. (24478)18 16 or 17 (24478)19 7 and 15 and 18 (1886)***************************Funding StatementThis work was supported by the Financial Markets Foundation for Children (2014-233).Disclosure of potential conflicts of interestNo potential conflicts of interest were disclosed.References1. Immunization coverage: Fact sheet. World Health Organization (WHO); April 2017.  [Accessed 5 Dec 2017]. http://www.who.int/mediacentre/factsheets/fs378/en/ [Google Scholar]2. Table 1: Recommended routine immunization. WHO (World Health Organization); April 2017.  [Accessed Dec 2017]. http://www.who.int/immunization/policy/Immunization_routine_table1.pdf [Google Scholar]3. Hart D, Bossert E. 
+Self-reported fears of hospitalized school-age children. J Pediatr Nurs. 1994;9(2):83–90. PMID:8027944 [PubMed] [Google Scholar]4. Kimmel SR, Burns IT, Wolfe RM, Zimmerman RK. 
+Addressing immunization barriers, benefits, and risks. J Fam Pract. 2007;56(2 Suppl Vaccines): S61–9. PMID:17270112. [PubMed] [Google Scholar]5. Jacobson RM, Swan A, Adegbenro A, Ludington SL, Wollan PC, Poland GA, Vaccine Research Group . 
+Making vaccines more acceptable–methods to prevent and minimize pain and other common adverse events associated with vaccines. Vaccine. 2001;19(17–19): 2418–27. doi: 10.1016/S0264-410X(00)00466-7. PMID:11257372. [PubMed] [CrossRef] [Google Scholar]6. Giudice EL, Campbell JD. 
+Needle-free vaccine delivery. Adv Drug Deliv Rev. 2006;58(1): 68–89. doi: 10.1016/j.addr.2005.12.003. PMID:16564111. [PubMed] [CrossRef] [Google Scholar]7. Anand K.
+Consensus statement for the prevention and management of pain in the newborn. Arch Pediatr Adolesc Med. 2001;155(2):173–80. doi: 10.1001/archpedi.155.2.173. PMID:11177093. [PubMed] [CrossRef] [Google Scholar]8. Kennedy RM, Luhmann J, Zempsky WT. 
+Clinical implications of unmanaged needle-insertion pain and distress in children. Pediatrics. 2008;122 (Supplement 3):S130–3. doi: 10.1542/peds.2008-1055e. PMID:18978006. [PubMed] [CrossRef] [Google Scholar]9. Mefferd RB, Wieland BA. 
+Modification in autonomically mediated physiological responses to cold pressor by word associations. Psychophysiology. 1965;2(1): 1–9. doi: 10.1111/j.1469-8986.1965.tb02628.x. PMID:5830490. [PubMed] [CrossRef] [Google Scholar]10. Barber TX, Cooper BJ. 
+Effects on pain of experimentally induced and spontaneous distraction. Psychological Reports. 1972;31(2): 647–51. doi: 10.2466/pr0.1972.31.2.647. PMID:5081360. [PubMed] [CrossRef] [Google Scholar]11. Eland JM.
+Minimizing pain associated with prekindergarten intramuscular injections. Issues Compr Pediatr Nurs. 1981;5(5–6): 361–72. doi: 10.3109/01460868109106351. PMID:6922129. [PubMed] [CrossRef] [Google Scholar]12. Pillai Riddell RR, et al.. 
+Cochrane review: Non-pharmacological management of infant and young child procedural pain. [Review]. 2012: Evidence-Based Child Health: Cochrane Rev J. November.  ;7(6):1905–2121. doi: 10.1002/ebch.1883. [CrossRef] [Google Scholar]13. Boerner KE, Birnie KA, Chambers CT, Taddio A, McMurtry CM, Noel M, Shah V, Riddell RP. Simple psychological interventions for reducing pain from common needle procedures in adults: systematic review of randomized and quasi-randomized controlled trials. Clin J Pain. 2015.  Oct;31(Suppl 10):S90. [PMC free article] [PubMed] [Google Scholar]14. Uman LS, Chambers CT, McGrath PJ, Kisely S. 
+Cochrane review: Psychological interventions for needle-related procedural pain and distress in children and adolescents. [Miscellaneous Article]. 2008
+Evidence-Based Child Health: Cochrane Rev J. June.  ;3(2):323–98. doi: 10.1002/ebch.239. [PubMed] [CrossRef] [Google Scholar]15. Yamada J, Stinson J, Lamba J, Dickson A, McGrath PJ, Stevens B. 
+A review of systematic reviews on pain interventions in hospitalized infants. Pain Res Manag. 2008;13(5): 413–20. doi: 10.1155/2008/232316. PMID:18958314. [PMC free article] [PubMed] [CrossRef] [Google Scholar]16. Birnie KA, Noel M, Parker JA, Chambers CT, Uman LS, Kisely SR, McGrath PJ. 
+Systematic review and meta-analysis of distraction and hypnosis for needle-related pain and distress in children and adolescents. J Pediatr Psychol. 2014;39(8): 783–808. doi: 10.1093/jpepsy/jsu029. PMID:24891439. [PMC free article] [PubMed] [CrossRef] [Google Scholar]17. Birnie KA, Chambers CT, Taddio A, McMurtry CM, Noel M, Pillai Riddell R, Shah V, HELPinKids&Adults Team . 
+Psychological interventions for vaccine injections in children and adolescents: systematic review of randomized and quasi-randomized controlled trials. Clin J Pain. 2015;31(10 Suppl): S72–89. doi: 10.1097/AJP.0000000000000265. PMID:26348163. [PMC free article] [PubMed] [CrossRef] [Google Scholar]18. Boerner KEB, Birnie KA, Chambers CT, Taddio A, McMurtry CM, Noel M, Shah V, Pillai Riddell R, HELPinKids&Adults Team . 
+Simple psychological interventions for reducing pain from common needle procedures in adults: Systematic review of randomized and quasi-randomized controlled trials. [Miscellaneous Article]. 2015
+Clin J Pain. October.  ;31 (Supplement 10S):S90–8. doi: 10.1097/AJP.0000000000000270. [PMC free article] [PubMed] [CrossRef] [Google Scholar]19. Pillai Riddell RPCP, Taddio A, McMurtry CM, Shah V, Noel M, Chambers CT, HELPinKIDS&Adults Team . 
+Process interventions for vaccine injections: Systematic review of randomized controlled trials and quasi-randomized controlled trials. [Miscellaneous Article]
+Clin J Pain. 2015 October;31 (Supplement 10S):S99–S108. doi: 10.1097/AJP.0000000000000280. [PMC free article] [PubMed] [CrossRef] [Google Scholar]20. Riddell RP, Taddio A, McMurtry CM, Chambers C, Shah V, Noel M, HELPinKIDS Team . 
+Psychological interventions for vaccine injections in young children 0 to 3 years: systematic review of randomized controlled trials and quasi-randomized controlled trials. Clin J Pain. 2015;31(Suppl 10): S64. doi: 10.1097/AJP.0000000000000279. PMID:26201014. [PMC free article] [PubMed] [CrossRef] [Google Scholar]21. Taddio A, McMurtry CM, Shah V, Riddell RP, Chambers CT, Noel M, MacDonald NE, Rogers J, Bucci LM, Mousmanis P, et al.. 
+Reducing pain during vaccine injections: Clinical practice guideline. Can Med Assoc J. 2015;187(13): 975–82. doi: 10.1503/cmaj.150391. [PMC free article] [PubMed] [CrossRef] [Google Scholar]22. Shah V, Taddio A, McMurtry CM, Halperin SA, Noel M, Pillai Riddell R, Chambers CT, HELPinKIDS Team . 
+Pharmacological and combined interventions to reduce vaccine injection pain in children and adults: Systematic review and meta-analysis. Clin J Pain. 2015;31(10 Suppl): S38–63. doi: 10.1097/AJP.0000000000000281. PMID:26201016. [PMC free article] [PubMed] [CrossRef] [Google Scholar]23. World Health Organization (WHO). Reducing pain at the time of vaccination: WHO position paper—September 2015. Weekly Epidemiological Record [Relevé épidémiologique hebdomadaire]. 2015;90(39):505–10. [PubMed] [Google Scholar]24. Von Baeyer CL, Marche TA, Rocha EM, Salmon K. 
+Children's memory for pain: overview and implications for practice. J Pain. 2004;5(5): 241–9. doi: 10.1016/j.jpain.2004.05.001. PMID:15219255. [PubMed] [CrossRef] [Google Scholar]25. Hermann C, Hohmeister J, Demirakça S, Zohsel K, Flor H. 
+Long-term alteration of pain sensitivity in school-aged children with early pain experiences. Pain. 2006;125(3): 278–85. doi: 10.1016/j.pain.2006.08.026. PMID:17011707. [PubMed] [CrossRef] [Google Scholar]26. Goodenough B, Thomas W, Champion GD, Perrott D, Taplin JE, von Baeyer CL, Ziegler JB. 
+Unravelling age effects and sex differences in needle pain: ratings of sensory intensity and unpleasantness of venipuncture pain by children and their parents. Pain. 1999;80(1):179–90. doi: 10.1016/S0304-3959(98)00201-2. PMID:10204730. [PubMed] [CrossRef] [Google Scholar]27. Emmott AS, West N, Zhou G, Dunsmuir D, Montgomery CJ, Lauder GR, von Baeyer CL. 
+Validity of simplified versus standard self-report measures of pain intensity in preschool-aged children undergoing venipuncture. J Pain. 2017;18(5): 564–73. doi: 10.1016/j.jpain.2016.12.015. PMID:28069521. [PubMed] [CrossRef] [Google Scholar]28. Taddio A, Shah V, McMurtry CM, MacDonald NE, Ipp M, Riddell RP, Noel M, Chambers CT, HELPinKids&Adults Team . 
+Procedural and physical interventions for vaccine injections: systematic review of randomized controlled trials and quasi-randomized controlled trials. Clin J Pain. 2015;31(10): S20–37. doi: 10.1097/AJP.0000000000000264. PMID:26352919. [PMC free article] [PubMed] [CrossRef] [Google Scholar]29. Higgins JP, Green S, editors. Cochrane handbook for systematic reviews of interventions. New Jersey (USA): John Wiley & Sons; 2011.  Aug 24. [Google Scholar]30. Berberich FR, Landman Z. 
+Reducing immunization discomfort in 4- to 6-year-old children: A randomized clinical trial. Pediatrics. 2009;124(2): e203–9. doi: 10.1542/peds.2007-3466. PMID:19596729. [PubMed] [CrossRef] [Google Scholar]31. Canbulat Şahiner N, Inal S, Sevim Akbay A. 
+The effect of combined stimulation of external cold and vibration during immunization on pain and anxiety levels in children. J Perianesth Nurs. 2015;30(3): 228–35. doi: 10.1016/j.jopan.2014.05.011. PMID:26003770. [PubMed] [CrossRef] [Google Scholar]32. Gedaly‐Duff V, Burns C. 
+Reducing children's pain‐distress associated with injections using cold: A pilot study. J Am Acad Nurse Pract. 1992;4(3): 95–100. doi: 10.1111/j.1745-7599.1992.tb00818.x. PMID:1419374. [PubMed] [CrossRef] [Google Scholar]33. Cohen LL, Blount RL, Panopoulos G. 
+Nurse coaching and cartoon distraction: An effecdtive and practical intervention to reduce child, parent, and nurse distress during immunizations. J Pediatr Psychol. 1997;22(3): 355–70. doi: 10.1093/jpepsy/22.3.355. PMID:9212553. [PubMed] [CrossRef] [Google Scholar]34. Cohen LL, Rodrigues NP, Lim CS, Bearden DJ, Welkom JS, Joffe NE, McGrath PJ, Cousins LA. 
+Automated parent-training for preschooler immunization pain relief: a randomized controlled trial. J pediatr psychol. 2015;40(5): 526–34. doi: 10.1093/jpepsy/jsu162. PMID:25638483. [PMC free article] [PubMed] [CrossRef] [Google Scholar]35. Abbott K, Fowler-Kerry S. 
+The use of a topical refrigerant anesthetic to reduce injection pain in children. J Pain Symptom Manage. 1995;10(8): 584–90. doi: 10.1016/0885-3924(95)00086-0. PMID:8594118. [PubMed] [CrossRef] [Google Scholar]36. Cohen LL, MacLaren JE, DeMore M, Fortson B, Friedman A, Lim CS, Gangaram B. 
+A randomized controlled trial of vapocoolant for pediatric immunization distress relief. Clin J Pain. 2009;25(6): 490–4. doi: 10.1097/AJP.0b013e3181a00414. PMID:19542796. [PubMed] [CrossRef] [Google Scholar]37. Cassidy KL, Reid GJ, McGrath PJ, Smith DJ, Brown TL, Finley GA. 
+A randomized double-blind, placebo-controlled trial of the EMLA patch for the reduction of pain associated with intramuscular injection in four to six-year-old children. Acta Paediatr. 2001;90: 1329–36. doi: 10.1111/j.1651-2227.2001.tb01584.x. PMID:11808908. [PubMed] [CrossRef] [Google Scholar]38. Cassidy K-LMDAF, Reid GJ, McGrath PJ, Finley GA, Smith DJ, Morley C, Szudek EA, Morton B. 
+Watch Needle, Watch TV: Audiovisual distraction in preschool immunization. [Article]. 2002
+Pain Med. June.  ;3(2):108–18. doi: 10.1046/j.1526-4637.2002.02027.x. [PubMed] [CrossRef] [Google Scholar]39. Sparks L.
+Taking the “ouch” out of injections for children. Using distraction to decrease pain. MCN Am J Matern Child Nurs. 2001;26(2): 72–8. doi: 10.1097/00005721-200103000-00005. PMID:11265439. [PubMed] [CrossRef] [Google Scholar]40. Cerne D, Sannino L, Petean M. 
+A randomised controlled trial examining the effectiveness of cartoons as a distraction technique. Nurs Child young people. 2015;27(3): 28–33. doi: 10.7748/ncyp.27.3.28.e534. PMID:25858408. [PubMed] [CrossRef] [Google Scholar]41. Fowler-Kerry S, Lander JR. 
+Management of injection pain in children. Pain. 1987;30(2): 169–75. doi: 10.1016/0304-3959(87)91072-4. PMID:3670868. [PubMed] [CrossRef] [Google Scholar]42. Noguchi LK.
+The effect of music versus nonmusic on behavioral signs of distress and self-report of pain in pediatric injection patients. J Music Ther. 2006;43(1): 16–38. doi: 10.1093/jmt/43.1.16. PMID:16671836. [PubMed] [CrossRef] [Google Scholar]43. Lacey CM, Finkelstein M, Thygeson MV. 
+The impact of positioning on fear during immunizations: supine versus sitting up. J Pediatr Nurs. 2008;23(3): 195–200. doi: 10.1016/j.pedn.2007.09.007. PMID:18492548. [PubMed] [CrossRef] [Google Scholar]44. Manimala MR, Blount RL, Cohen LL. 
+The effects of parental reassurance versus distraction on child distress and coping during immunizations. Children's Health Care. 2000;29(3): 161–77. doi: 10.1207/S15326888CHC2903_2. [CrossRef] [Google Scholar]45. Reis EC, Holubkov R. Vapocoolant spray is equally effective as EMLA cream in reducing immunization pain in school-aged children. Pediatrics. 1997.  Dec 1;100(6):e5–e5. [PubMed] [Google Scholar]46. Burgess S, Nativio DG, Penrose JE. 
+Quality improvement project to reduce pain and distress associated with immunization visits in pediatric primary care. J Pediatr Nurs. 2015;30(2): 294–300. doi: 10.1016/j.pedn.2014.09.002. PMID:25251645. [PubMed] [CrossRef] [Google Scholar]47. French GM, Painter EC, Coury DL. 
+Blowing away shot pain: A technique for pain management during immunizations. Pediatrics. 1994;93: 384–8. PMID:8115196. [PubMed] [Google Scholar]48. Cohen LL, Blount RL, Cohen RJ, Schaen ER, Zaff JF. 
+Comparative study of distraction versus topical anesthesia for pediatric pain management during immunizations. Health Psychol. 1999;18(6): 591–8. doi: 10.1037/0278-6133.18.6.591. PMID:10619532. [PubMed] [CrossRef] [Google Scholar]49. Cohen LL, Blount RL, Cohen RJ, Ball CM, McClellan CB, Bernard RS. 
+Children's expectations and memories of acute distress: short- and long-term efficacy of pain management interventions. J Pediatr Psychol. 2001;26(6): 367–74. doi: 10.1093/jpepsy/26.6.367. PMID:11490039. [PubMed] [CrossRef] [Google Scholar]50. Lewkowski MD, Barr RG, Sherrard A, Lessard J, Harris AR, Young SN. 
+Effects of chewing gum on responses to routine painful procedures in children. Physiol Behav. 2003;79(2): 257–65. doi: 10.1016/S0031-9384(03)00098-2. PMID:12834797. [PubMed] [CrossRef] [Google Scholar]51. Kristjansdottir ORNMS, Kristjansdottir GRND. 
+Randomized clinical trial of musical distraction with and without headphones for adolescents' immunization pain. [Miscellaneous Article]
+2011;5(1): 19–26. [PubMed] [Google Scholar]52. Cobb JE, Cohen LL. 
+A randomized controlled trial of the ShotBlocker for children's immunization distress. Clin J Pain. 2009;25(9): 790–6. doi: 10.1097/AJP.0b013e3181af1324. PMID:19851160. [PubMed] [CrossRef] [Google Scholar]53. Boivin JM, Poupon-Lemarquis L, Iraqi W, Fay R, Schmitt C, Rossignol P. 
+A multifactorial strategy of pain management is associated with less pain in scheduled vaccination of children. A study realized by family practitioners in 239 children aged 4–12 years old. Fam Pract. 2008;25(6): 423–9. doi: 10.1093/fampra/cmn069. PMID:18836092. [PubMed] [CrossRef] [Google Scholar]54. Burns-Nader S, Atencio S, Chavez M. 
+Computer tablet distraction in children receiving an injection. Pain Med. 2016;17(3): 590–5. PMID:26218469. [PubMed] [Google Scholar]55. Wallace DP, Allen KD, Lacroix AE, Pitner SL. 
+The “Cough Trick:” A brief strategy to manage pediatric pain from immunization injections. Pediatrics. 2010;125(2): E367–73. doi: 10.1542/peds.2009-0539. PMID:20064862. [PubMed] [CrossRef] [Google Scholar]56. Burns-Nader S, Atencio S, Chavez M. 
+Computer tablet distraction in children receiving an injection. Pain Med. 2015;17(3): 590–5. [PubMed] [Google Scholar]57. Lander JA, Weltman BJ, So SS. Cochrane review: EMLA and Amethocaine for reduction of children's pain associated with needle insertion. Evidence?Based Child Health: A Cochrane Rev J. 2006.  Sep 1;1(3):897–925. [Google Scholar]58. Gajraj NM, Pennant JH, Watcha MF. 
+Eutectic Mixture of Local Anesthetics (EMLA (R)) Cream. Anesth Analg. 1994;78(3): 574–83. doi: 10.1213/00000539-199403000-00026. PMID:7818623. [PubMed] [CrossRef] [Google Scholar]59. Graven-Nielsen T, McArdle A, Phoenix J, Arendt-Nielsen L, Jensen TS, Jackson MJ, Edwards RH. 
+In vivo model of muscle pain: quantification of intramuscular chemical, electrical, and pressure changes associated with saline-induced muscle pain in humans. Pain. 1997;69(1): 137–43. doi: 10.1016/S0304-3959(96)03270-8. PMID:9060024. [PubMed] [CrossRef] [Google Scholar]60. Saitoh A, Aizawa Y, Sato I, Hirano H, Sakai T, Mori M. 
+Skin thickness in young infants and adolescents: Applications for intradermal vaccination. Vaccine. 2015;33(29):3384–91. doi: 10.1016/j.vaccine.2015.04.081. PMID:25944297. [PubMed] [CrossRef] [Google Scholar]61. Hogan ME, Smart S, Shah V, Taddio A. 
+A systematic review of vapocoolants for reducing pain from venipuncture and venous cannulation in children and adults. J Emerg Med. 2014;47(6): 736–48. doi: 10.1016/j.jemermed.2014.06.028. PMID:25168120. [PubMed] [CrossRef] [Google Scholar]62. Klement W, Arndt JO. 
+The role of nociceptors of cutaneous veins in the mediation of cold pain in man. J Physiol. 1992;449(1):73–83. doi: 10.1113/jphysiol.1992.sp019075. PMID:1522527. [PMC free article] [PubMed] [CrossRef] [Google Scholar]63. Baxter AL, Cohen LL, McElvery HL, Lawson ML, von Baeyer CL. 
+An integration of vibration and cold relieves venipuncture pain in a pediatric emergency department. Pediatr Emerg Care. 2011;27(12):1151–6. doi: 10.1097/PEC.0b013e318237ace4. PMID:22134226. [PubMed] [CrossRef] [Google Scholar]64. Schechter NL, Zempsky WT, Cohen LL, McGrath PJ, McMurtry CM, Bright NS. 
+Pain reduction during pediatric immunizations: Evidence-based review and recommendations. Pediatrics. 2007;119(5):E1184–98. doi: 10.1542/peds.2006-1107. PMID:17473085. [PubMed] [CrossRef] [Google Scholar]65. Carr EC, Mann EM. 
+Pain: creative approaches to effective management. United Kingdom: Macmillan; 2000. [Google Scholar]66. Jerath R, Edry JW, Barnes VA, Jerath V. 
+Physiology of long pranayamic breathing: neural respiratory elements may provide a mechanism that explains how slow deep breathing shifts the autonomic nervous system. Med Hypotheses. 2006;67(3):566–71. doi: 10.1016/j.mehy.2006.02.042. PMID:16624497. [PubMed] [CrossRef] [Google Scholar]67. Czaja C, Crossette L, Metlay JP. 
+Accuracy of adult reported pneumococcal vaccination status of children. Ann Epidemiol. 2005;15(4):253–6. doi: 10.1016/j.annepidem.2004.07.091. PMID:15780771. [PubMed] [CrossRef] [Google Scholar]Articles from Human Vaccines & Immunotherapeutics are provided here courtesy of Taylor & Francis
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (927K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

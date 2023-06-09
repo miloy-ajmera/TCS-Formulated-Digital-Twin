@@ -1,0 +1,366 @@
+Document Name: role of Isopropyl Myristate in Barrier Cream1
+Document link: https://www.ncbi.nlm.nih.gov/books/NBK333167/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Barrier creams - The Prevention and Management of Pressure Ulcers in Primary and Secondary Care - NCBI Bookshelf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+
+
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+Show account info
+
+
+
+
+
+
+
+
+
+
+
+Close
+Account
+
+
+							Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+Bookshelf
+Search databaseBooksAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch
+Browse Titles
+
+Advanced
+
+Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.National Clinical Guideline Centre (UK). The Prevention and Management of Pressure Ulcers in Primary and Secondary Care. London: National Institute for Health and Care Excellence (NICE); 2014 Apr. (NICE Clinical Guidelines, No. 179.)The Prevention and Management of Pressure Ulcers in Primary and Secondary Care.Show detailsNICE Clinical Guidelines, No. 179.National Clinical Guideline Centre (UK).London: National Institute for Health and Care Excellence (NICE); 2014 Apr.ContentsSearch term < PrevNext >
+ 14Barrier creamsThe skin is the largest organ of the body and our first line of defence against microbial invasion, minor trauma or a chemical breach. The skin's most outer layer called the stratum corneum provides a protective barrier. This outer layer can be damaged in many ways and a common cause of damage is through moisture. Moisture offers an increasing challenge to the skin barrier, through the corrosive effects of excess sweat, exudate, urine and faeces. It is therefore essential for people who are at risk of skin damage, their carers and health professionals to ascertain if moisture can be managed appropriately with barrier creams.Healthy skin has a pH of 5.5, which can help to protect against bacterial and fungal infection. Excess moisture on the skin in the form of urine, sweat and faeces are alkaline in nature therefore increasing the pH level through an immediate chemical reaction, which causes irritation to the skin, therefore decreasing the barrier function. This can put the skin at greater risk of breakdown, hence increasing the risk of pressure ulcers. Increased moisture in the form of exudate may result in maceration of the skin. This makes the skin more susceptible to damage from physical forces of pressure and friction.The GDG was interested in the economic and clinical evidence of the use of barrier creams in the prevention of skin damage resulting from excess moisture on the skin.14.1. Review question: What are the most clinically and cost-effective topical barrier preparations for the prevention of pressure ulcers and moisture lesions?For full details see review protocol in Appendix C.14.1.1. Clinical evidence (adults)Six studies were included in the review.23,41,80,188,208,216 Evidence from these are summarised in the clinical GRADE evidence profile below (Table 103). See also the study selection flow chart in Appendix C, forest plots in Appendix I, study evidence tables in Appendix G and exclusion list in Appendix J.Table 103Clinical evidence profile: hyperoxygenated fatty acid compound (Mepentol) versus placebo cream. Summary of included studiesView in own windowStudyIntervention/comparisonPopulationOutcomesCommentsBOU200523Mepentol (hyperoxygenated fatty acid compound)versus placebo cream.Treatment time: 1 monthPeople in hospital and residential homes with medium, high or very high risk of developing pressure ulcers.
+Incidence of new pressure ulcers.Time until pressure ulcer developed.Some people had pressure ulcers at the start of the trial, but the RCT reported new ulcers developed so these were included in the results.COOPER200141Clinisan foam cleanser (which includes barrier properties)versus standard hospital soap.Treatment time: 14 daysElderly people with incontinence.
+Changes in skin integrity.Broken skin.Only results for people who had healthy skin at the start of the trial are reported in this review.GREEN197480Dermalex: Lotion containing Cosbiol and Allantoin (moisturising properties)versus placebo (oil in water).Treatment time: 3 weeksElderly people at risk of developing pressure ulcers.
+Skin deterioration (erythema and sores).Skin deterioration (sores)Time to skin deterioration.Old and poorly reported study.SMITH1985188Conotrane (Silicone/antiseptic cream)versus placebo (Unguentum).Treatment time: 24 weeksElderly people.
+Incidence of pressure ulcers (Grade 3 - 4).Patient acceptability.-VANDERCAMMEN1987208Prevasoreversus Dermalex: Lotion containing Cosbiol and Allantoin (moisturising properties).Treatment time: 3 weeksPeople in hospital who are chair bound.
+Skin deterioration.Blistering.Old and poorly reported study.VERDU2012216IPARZINE4A-SKR creamversus placebo.Treatment time: 2 weeksPeople in hospital scoring less than 15 on the Braden Scale.
+Incidence of pressure ulcers (grade I).-Table 104Clinical evidence profile: foam cleanser (Clinisan) versus standard hospital soap. Table 105Clinical evidence profile: lotion containing Cosbiol and Allantoin versus placebo lotion. Table 106Clinical evidence profile: Conotrane versus placebo cream. Table 107Clinical evidence profile: Prevasore versus Dermalex (lotion containing Cosbiol and Allantoin). Table 108Clinical evidence profile: IPARZINE4A-SKR versus placebo. 14.1.2. Economic evidence (adults)14.1.2.1. Published literatureTwo studies were included with relevant comparisons.9,159 These are summarised in the economic evidence profiles below (Table 109- Table 111). See also the study selection flow chart in Appendix D and study evidence tables in Appendix H.Table 109Economic evidence profile: skin care protocol verses standard care. Table 110Economic evidence profile: Skin emollient verses current practice. Table 111Economic evidence profile: Foam cleanser verses current practice. Six studies that met the inclusion criteria were selectively excluded due to methodological limitations and availability of more applicable evidence13,22,137,220,224,229 – these are summarised in Appendix K, with reasons for exclusion given.One additional study was found which included a barrier preparation as part of a more complex prevention strategy.66 This study was not included as it evaluated the cost-effectiveness of the prevention strategy as a whole, and did not provide information on the cost-effectiveness of the barrier preparations alone.14.1.3. Clinical evidence (neonates, infants, children and young people)No RCTs or cohort studies were identified. Recommendations were developed using a modified Delphi consensus technique. Furter details can be found in Appendix N.14.1.4. Economic (neonates, infants, children and young people)No economic evidence was identified.14.1.5. Evidence statements14.1.5.1. Clinical (adults)14.1.5.1.1. Hyperoxygenated fatty acid compound versus placeboOne study (n=331) showed a hyperoxygenated fatty acid compound is potentially more clinically effective at reducing the incidence of pressure ulcers when compared to a placebo cream (low quality).One study (n=331) reported a higher time to development of a pressure ulcer for a hyperoxygenated fatty acid when compared to a placebo cream. The clinical importance and precision is unknown (low quality).No evidence was found for the following outcomes:Patient acceptabilityRate of development of pressure ulcersTime in hospital or NHS careHealth-related quality of life14.1.5.1.2. Foam cleanser versus standard hospital soapOne study (n=66) showed foam cleanseris potentially more clinically effective for reducing changes in skin integrity when compared to a standard hospital soap (very low quality).One study (n=66) showed foam cleanseris potentially more clinically effective for reducing broken skin when compared to a standard hospital soap (very low quality).No evidence was found for the following outcomes:Patient acceptabilityRate of development of pressure ulcersTime to develop a new pressure ulcerTime in hospital or NHS careHealth-related quality of life14.1.5.1.3. Lotion containing cosbiol and allantoin versus placebo lotionOne study (n=319) showed there may be no clinical difference between a lotion containing cosbiol and allantoin and a placebo lotion for skin deterioration (erythema and sores), the direction of effect favoured the lotion containing cosbiol and allantoin (very low quality).One study (n=319) showed there is potentially no clinical difference between a lotion containing cosbiol and allantoin and a placebo lotion for skin deterioration (sores only), the direction of effect favoured the lotion containing cosbiol and allantoin (very low quality).One study (n=319) reported no difference between a lotion containing cosbiol and allantoin and a placebo lotion for time to develop skin deterioration, the direction of effect favoured the lotion containing cosbiol and allantoin, the estimate of precision could not be derived (very low quality).No evidence was found for the following outcomes:Patient acceptabilityRate of development of pressure ulcersTime in hospital or NHS careHealth-related quality of life14.1.5.1.4. Silicone or antiseptic cream versus placeboOne study (n=258) showed there may be a clinical benefit for silicone or antiseptic cream when compared to a placebo cream for reducing the incidence of pressure ulcers (any grade) (very low quality).One study (n=258) showed there may be no clinical difference between silicone or antiseptic cream and placebo cream for the reduction of incidence of pressure ulcers (grade 3) the direction of the estimate of effect favoured placeboOne study (n=258) showed there may be no clinical difference between silicone or antiseptic cream and placebo cream for the reduction of incidence of pressure ulcers (grade 4) the direction of the estimate of effect favoured Conotrone (very low quality).One study (n=258) showed there may be no clinical difference between silicone or antiseptic cream and placebo cream for patient acceptability the direction of the estimate of effect favoured Conotrone (very low quality).No evidence was found for the following outcomes:Rate of development of pressure ulcersTime to develop new pressure ulcerTime in hospital or NHS careHealth-related quality of life14.1.5.1.5. A preparation containing the active ingredients hexyl nicotinate, zinc stearate, isopropyl myristate, dimethicone 350, cetrimide and glycerol versus a lotion containing cosbiol and allantoinOne study (n=104) showed there may be a clinical difference for a preparation containing the active ingredients hexyl nicotinate, zinc stearate, isopropyl myristate, dimethicone 350, cetrimide and glycerol for skin deterioration when compared to a lotion containing cosbiol and allantoin, the direction of the estimate of effect favoured Prevasore (very low quality).One study (n=104) showed there may be no clinical difference for a preparation containing the active ingredients hexyl nicotinate, zinc stearate, isopropyl myristate, dimethicone 350, cetrimide and glycerol for skin deterioration when compared to a lotion containing cosbiol and allantoin, the direction of the estimate of effect favoured the preparation containing the active ingredients hexyl nicotinate, zinc stearate, isopropyl myristate, dimethicone 350, cetrimide and glycerol (very low quality).No evidence was found for the following outcomes:Patient acceptabilityRate of development of pressure ulcersTime to develop new pressure ulcerTime in hospital or NHS careHealth-related quality of life14.1.5.1.6. Iparzine4A-skr versus placeboOne study (n=194) showed there may be no clinical difference for iparzine4A-skr and placebo for reducing the incidence of pressure ulcers, the direction of effect favoured iparzine4A-skr (low quality).No evidence was found for the following outcomes:Patient acceptabilityRate of development of pressure ulcersTime to develop new pressure ulcerTime in hospital or NHS careHealth-related quality of life14.1.5.2. Economic (adults)One cost-consequence analysis found that in people in a nursing home, implementation of a skin care protocol (cleanser and barrier cream/film), dominated standard care, with a reduction in costs and a reduction in the incidence of incontinence dermatitis and pressure ulcers. This analysis was assessed as partially applicable with potentially serious limitations.One cost–utility analysis found that in long term care residents, daily application of a skin emollient was not cost effective compared to current practice (ICER: £42,751 per QALY gained). The study also found that a foam cleanser (containing an emollient, a water-repellent barrier and a water deodorant) dominates current practice, with a reduction in costs and an increase in QALYs. This analysis was assessed as partially applicable with potentially serious limitations.14.1.5.3. Clinical (neonates, infants, children and young people)No evidence was identified.14.1.5.4. Economic (neonates, infants, children and young people)No evidence was identified.14.2. Recommendations and link to evidence14.2.1. AdultsView in own windowRecommendations
+40.Consider using a barrier preparation to prevent skin damage in adults who are at high risk of developing a moisture lesion or incontinence associated dermatitis, as identified by skin assessment (such as those with incontinence, oedema, dry or inflamed skin).Relative values of different outcomesThe GDG identified the proportion developing new pressure ulcers, or moisture lesions and patient acceptability were the most critical outcomes to inform decision making, given that the primary goal of pressure ulcer prevention was to limit the number of new pressure ulcers. Acceptability was identified as being critical from the perspective of the patient, as it was noted that this could have a significant impact upon quality of life.Rate of development of new pressure ulcers, time to develop new pressure ulcers, time in hospital or NHS care and health related quality of life were considered important outcomes to inform decision making.Trade off between clinical benefits and harmsThe limited evidence showed there were clinical benefits in using a barrier preparation for incidence of new pressure ulcers when compared to placebo. A hyperoxygenated fatty acid compound and a silicone/antiseptic cream both showed a clinical benefit when compared to a placebo cream (cream containing trisostearin and unguentum respectively) for incidence of new pressure ulcers. However, there was no difference between a silicone/antiseptic cream and placebo for the incidence of grade 3 and 4 pressure ulcers and for patient acceptability. The hyperoxygenated fatty acid was beneficial for having a longer time to develop new pressure ulcers.There was a clinical benefit of lotion with Cosbiol and Allantoin compared to placebo lotion (oil in water lotion) for skin deterioration (erythema and sores) and time to develop skin deterioration. There was no clinical benefit of iparzine4a-SKR compared to placebo cream (no details of consistency) for the incidence of category 1 pressure ulcers.A foam cleanser showed a clinical benefit when compared to standard hospital soap for changes in skin integrity and the incidence of broken skin.Two active barrier preparations were compared, 1 including the active ingredients hexyl nicotinate, zinc stearate, isopropyl myristate, dimethicone 350, cetrimide and glycerol and the other a lotion containing cosbiol and allantoin. There was a clinical benefit of of the hexyl nicotinate, zinc stearate, isopropyl myristate, dimethicone 350, cetrimide and glycerol preparation compared to the lotion containing cosbiol and allantoin for skin deterioration. There was no clinical benefit on skin blistering.The GDG felt that there were some potential benefits of the application of a barrier preparation in preventing skin damage after skin cleansing. The GDG noted that this may have a subsequent impact on the development of pressure ulcers. The GDG felt that the benefit would likely to apply to a range of people who are at risk of skin damage, outside of those who are incontinent and the GDG developed some examples of these populations for inclusion in the recommendation.The GDG felt that some of the barrier preparations which may be used include those containing dimethicone and white soft paraffin, however there was insufficient evidence to allow for a recommendation on a specific barrier preparation.Economic considerationsThe GDG considered 2 economic studies, containing 3 relevant comparisons. A skin care protocol (cleanser and barrier cream/barrier film), and a foam cleanser were found to be cost-effective compared to standard care/current practice. However, daily application of a skin emollient was not found to be cost effective compared with current practice. All studies were only partially applicable to the UK NHS and had potentially serious limitations. In particular, the GDG noted that the skin emollient which was not found to be cost-effective was specifically applied to residents with dry skin, rather than those more generally at risk of developing moisture lesions, thus the findings may not directly apply to this recommendation.The GDG considered the cost of the barrier preparations to be small, and the benefits (in terms of reduced treatment costs and increased quality of life) to far outweigh the initial costs of selectively using barrier preparations for people who are at significant risk of developing a moisture lesion. The use of barrier preparations is therefore considered to be cost-effective in this population.Quality of evidenceThe evidence was very limited with studies which looked at different interventions so the results could not be meta-analysed. The barrier preparations were compared to placebo or other inert substances rather than to other barrier preparations. The evidence was low to very low quality, this was due to serious to very serious imprecision and serious to very serious risk of bias in the studies.Other considerationsThe GDG noted that barrier preparations were not always likely to be licensed and would not always be included in the BNF.14.2.2. Neonates, infants, children and young peopleView in own windowRecommendations
+41.Use barrier preparations to help prevent skin damage, such as moisture lesions, for neonates, infants, children and young people who are incontinent.Relative values of different outcomesThe GDG identified the proportion developing new pressure ulcers, or moisture lesions and patient acceptability were the most critical outcomes to inform decision making, given that the primary goal of pressure ulcer prevention was to limit the number of new ulcers. Acceptability was identified as being critical from the perspective of the patient, as it was noted that this could have a significant impact upon quality of life.Rate of development of new pressure ulcers, time to develop new pressure ulcers, time in hospital or NHS care and health related quality of life were considered important outcomes to inform decision making.Trade-off between clinical benefits and harmsThe GDG used 2 statements from the Delphi consensus panel to develop the recommendation, ‘Healthcare professionals should not use barrier creams (for example cavilon and securar cream) for the prevention of pressure ulcers in neonates, infants, children and young people’ and ‘Healthcare professionals should not use barrier creams for the prevention of moisture lesions in neonates, infants, children and young people’. Neither statement was accepted by the Delphi consensus panel in Round 1 of the survey.The GDG discussed the statements and amended these as 1 statement for inclusion in Round 2. Qualitative responses from panel members identified that although barrier creams had little direct impact upon the development of pressure ulcers, they played a role in the protection of skin and reduction of friction and shear in neonates and infants, as well as children and young people who are incontinent. The GDG therefore amended the statements and clarified that the use of barrier creams was only appropriate to help prevent skin damage such as moisture lesions in neonates, infants, children and young people who are incontinent.The amended statement was included in Round 2 of the survey and was agreed by the panel. Qualitative responses gathered in Round 2 suggested that there were some contraindications for some barrier creams in neonates. Other comments noted that the use of barrier creams would not prevent the development of pressure ulcers directly as it would not prevent pressure, friction or shear.The GDG agreed with the majority of comments received and emphasised that the use of barrier creams was unlikely to have a direct effect upon the prevention of pressure ulcers. However, the GDG noted that the use of barrier creams may prevent other skin damage, notably moisture lesions, in those who are incontinent.Economic considerationsThe GDG considered the cost of the barrier preparations to be small, and the benefits (in terms of reduced treatment costs and increased quality of life) to far outweigh the initial costs of selectively using barrier preparations for people who are incontinent. The use of barrier preparations is therefore considered to be cost-effective in this population.Quality of evidenceNo RCTs or cohort studies were identified for neonates, infants, children or young people. Formal consensus using a modified Delphi was therefore used to develop the recommendation.To inform the recommendation, the GDG used 1 statement which was included in Round 1 of the Delphi consensus survey and reached 10% and 23% consensus agreement. An amended statement was therefore included in Round 2, where it reached 89% consensus and was accepted by the panel.Further details can be found in Appendix N.Other considerationsThere were no other considerations.
+Copyright © National Clinical Guideline Centre, 2014.Bookshelf ID: NBK333167Contents< PrevNext >
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+ViewsPubReaderPrint ViewCite this PageNational Clinical Guideline Centre (UK). The Prevention and Management of Pressure Ulcers in Primary and Secondary Care. London: National Institute for Health and Care Excellence (NICE); 2014 Apr. (NICE Clinical Guidelines, No. 179.) 14, Barrier creams.PDF version of this title (14M)In this PageReview question: What are the most clinically and cost-effective topical barrier preparations for the prevention of pressure ulcers and moisture lesions?Recommendations and link to evidenceOther titles in this collectionNational Institute for Health and Care Excellence: GuidelinesRelated NICE guidance and evidence2018 surveillance of pressure ulcers: prevention and management (NICE guideline CG179)The Management of Pressure Ulcers in Primary and Secondary Care: A Clinical Practice Guideline (NICE guideline CG29)Recent ActivityClearTurn OffTurn OnBarrier creams - The Prevention and Management of Pressure Ulcers in Primary and...Barrier creams - The Prevention and Management of Pressure Ulcers in Primary and Secondary CareYour browsing activity is empty.Activity recording is turned off.Turn recording back onSee more...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NCBI Insights Blog
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

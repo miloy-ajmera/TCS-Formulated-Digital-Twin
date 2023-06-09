@@ -1,0 +1,1273 @@
+Document Name: role of Keltrol F (Xanthan Gum) in Protective Cream4
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7009887/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Re‐evaluation of xanthan gum (E 415) as a food additive - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+EFSA J
+
+
+v.15(7); 2017 Jul
+
+
+                    PMC7009887
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (2.7M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+EFSA J
+
+
+v.15(7); 2017 Jul
+
+
+                    PMC7009887
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+EFSA J. 2017 Jul; 15(7): e04909. Published online 2017 Jul 14.  doi: 10.2903/j.efsa.2017.4909PMCID: PMC7009887PMID: 32625570Re‐evaluation of xanthan gum (E 415) as a food additiveEFSA Panel on Food Additives and Nutrient Sources added to Food (ANS), Alicja Mortensen, Fernando Aguilar, Riccardo Crebelli, Alessandro Di Domenico, Maria Jose Frutos, Pierre Galtier, David Gott, Ursula Gundert‐Remy, Claude Lambré, Jean‐Charles Leblanc, Oliver Lindtner, Peter Moldeus, Pasquale Mosesso, Agneta Oskarsson, Dominique Parent‐Massin, Ivan Stankovic, Ine Waalkens‐Berendsen, Rudolf Antonius Woutersen, Matthew Wright, Maged Younes, Leon Brimer, Anna Christodoulidou, Federica Lodi, Petra Gelgelova, and  Birgit DusemundAuthor information Copyright and License information DisclaimerCorrespondence: Email: ue.aporue.asfe@pifCopyright © 2017 European Food Safety Authority. EFSA Journal published by John Wiley and Sons Ltd on behalf of European Food Safety Authority.This is an open access article under the terms of the http://creativecommons.org/licenses/by-nd/4.0/ License, which permits use and distribution in any medium, provided the original work is properly cited and no modifications or adaptations are made.Associated DataSupplementary MaterialsSummary of the reported use levels (mg/kg or mg/L as appropriate) of xanthan gum (E 415) provided by industryEFS2-15-e04909-s001.xlsx (24K)GUID: EDF63D0F-E19F-48B3-8122-21BB8F251EC6Number and percentage of food products labelled with xanthan gum (E 415) out of the total number of food products present in Mintel GNPD per food sub‐category between 2011 and 2016EFS2-15-e04909-s002.xlsx (24K)GUID: 21691046-91AD-48A5-A15A-711B32A382D1Concentration levels of xanthan gum (E 415) used in the maximum level exposure scenario, the refined exposure assessment scenarios, food supplements consumers only scenario and FSMP consumers only scenario (mg/kg or ml/kg as appropriate)EFS2-15-e04909-s003.xlsx (20K)GUID: 6777749B-914E-4156-865E-5692E76734D0Summary of total estimated exposure of xanthan gum (E 415) from its use as a food additive for the maximum level exposure scenario and the refined exposure assessment scenarios per population group and survey: mean and 95th percentile (mg/kg bw per day)EFS2-15-e04909-s004.xlsx (20K)GUID: 23EBF9A0-0492-4AFC-9EAF-D6475B893852Main food categories contributing to exposure to xanthan gum (E 415) using the maximum level exposure scenario and the refined exposure assessment scenarios (> 5% to the total mean exposure)EFS2-15-e04909-s005.xlsx (15K)GUID: 5874BF79-C70D-4271-8DF1-BF4876809C23AbstractThe Panel on Food Additives and Nutrient Sources added to Food (ANS) provides a scientific opinion re‐evaluating the safety of xanthan gum (E 415) as food additive. Following the conceptual framework for the risk assessment of certain food additives re‐evaluated under Commission Regulation (EU) No 257/2010, the Panel considered that adequate exposure and toxicity data were available. Based on the reported use levels, a refined exposure of up to 64 mg/kg bw per day in children for the general population, 38 mg/kg bw per day for children consumers only of food supplements at the high level exposure and 115 mg/kg bw per day for infants consuming foods for special medical purposes and special formulae (FSMPs), were estimated. Xanthan gum (E 415) is unlikely to be absorbed intact and is expected to be fermented by intestinal microbiota. No adverse effects were reported at the highest doses tested in chronic and carcinogenicity studies and there is no concern with respect to the genotoxicity. Repeated oral intake by adults of xanthan gum up to 214 mg/kg bw per day for ten days was well tolerated, but some individuals experienced abdominal discomfort, an undesirable but not adverse effect. The Panel concluded that there is no need for a numerical ADI for xanthan gum (E 415), and that there is no safety concern for the general population at the refined exposure assessment of xanthan gum (E 415) as food additive. Considering the outcome of clinical studies and post‐marketing surveillance, the Panel concluded that there is no safety concern from the use of xanthan gum (E 415) in FSMPs for infants and young children at concentrations reported by the food industry. The current re‐evaluation of xanthan gum (E 415) as a food additive is not considered to be applicable for infants under the age of 12 weeks.Keywords: xanthan gum, E 415, CAS number: 11138‐66‐2, food additiveSummaryFollowing a request from the European Commission, the EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS) was asked to re‐evaluate the safety of xanthan gum (E 415) when used as a food additive.Xanthan gum (E 415) is authorised as a food additive in the European Union (EU) according to Annex II and III to Regulation (EC) No 1333/2008 on food additives and it was previously evaluated by the EU Scientific Committee for Food (SCF) and the Joint FAO/WHO Expert Committee on Food Additives (JECFA), who both allocated an acceptable daily intake (ADI) ‘not specified’ for this gum.The Panel was not provided with a newly submitted dossier and based its evaluation on previous evaluations and reviews, additional literature that became available since then and the data provided following public calls for data. Not all original studies on which previous evaluations were based were available for re‐evaluation by the Panel.Xanthan gum is a high molecular weight polysaccharide produced by a pure‐culture fermentation of a carbohydrate with strains of Xanthomonas campestris.The xanthan gum polysaccharide consists of a backbone of β‐(1→4) linked d‐glucose molecules. Every second glucose molecule is substituted at C3 with a trisaccharide side chain consisting of β‐d‐mannose‐(1→4)‐β‐d‐glucuronic acid‐(1→2)‐α‐d‐mannose. In the side chains, the terminal mannose moiety is partially substituted with a pyruvate residue linked as an acetal to the 4‐ and 6‐positions; the internal mannose unit is acetylated at C‐6.The Panel noted that uses of xanthan gum (E 415) as a food additive according to Annex II and III of Regulation (EC) No 1333/2008, include uses in food for infants under the age of 12 weeks. The Panel considered that these uses would require a specific risk assessment. Therefore, the current re‐evaluation of xanthan gum (E 415) as a food additive is not considered to be applicable for infants under the age of 12 weeks.Specific purity criteria on xanthan gum (E 415) have been defined in Commission Regulation (EU) No 231/2012 and by JECFA (2006).According to the industry, during the fermentation process, the bacteria produce enzymes (i.e. amylases, cellulases or protease) which are reduced as much as possible or deactivated throughout the manufacturing process.The Panel noted that limits for possible residual bacterial enzymatic activities may be required in the EU specifications.An important property of xanthan solutions is the physicochemical interaction with plant galactomannans, such as locust bean gum and guar gum, or konjac glucomannan. The addition of any of these gums to a solution of xanthan gum at room temperature causes a synergistic increase in viscosity (Tako, 1992; Copetti et al., 1997; García‐Ochoa et al., 2000).The Panel noted that in cases, where xanthan gum (E 415) is added in combination with other gums, such as locust bean gum (E 410), guar gum (E 412) or konjac glucomannan (E 425 (ii)) to food, the synergistic increase in viscosity has to be taken into consideration. This may be relevant in particular for the above mentioned combined uses of xanthan gum and guar gum in infant food for special medical purposes (see Section 1.2).An interested party has provided information on the content of lead (ND–2.0 mg/kg), arsenic (ND–2 mg/kg), cadmium (ND–0.1 mg/kg) and mercury (ND–1 mg/kg) in xanthan gum. According to the European Commission specifications, impurities of the toxic element lead are accepted up to concentration of 2 mg/kg.The Panel noted that toxicological studies with an alginate‐konjac‐xanthan polysaccharide complex, called PGX, were available for its evaluation as novel food by the EFSA Panel on Dietetic Products, Nutrition and Allergies (EFSA NDA Panel, 2017). The EFSA Panel on Food Additives and Nutrient Sources added to Food (EFSA ANS Panel) did not consider results of these studies in its re‐evaluation of the individual substance xanthan gum (E 415). It is not possible to conclude to what extent are the reported effects attributable to one of the individual components of the complex. The physicochemical properties of the individual components might also have changed during the manufacturing process of PGX.Studies on the in vitro degradation and the in vivo digestibility of xanthan gum performed in animals and humans have demonstrated that xanthan gum would not be absorbed intact and would not be metabolised by enzymes present in the gastrointestinal tract. However, it would be partially fermented during its passage through the large intestine by the action of the intestinal tract microbiota.Xanthan gum (E 415) can be regarded as non‐toxic based on the results of acute oral toxicity studies.From short‐term and subchronic toxicity studies, no toxicological relevant changes were reported apart from a decrease in red blood cell count and haemoglobin concentration in dogs receiving 2,000 mg/kg body weight (bw) per day for 12 weeks. This effect was marginal and it was not reproduced in a dog chronic toxicity study at 1,000 mg/kg bw per day, the highest dose tested. The Panel noted that decreased total serum cholesterol was frequently reported.For genotoxicity, insufficient experimental data were available. However, taking into account the information on structure–activity relationships and considering that xanthan gum has a molecular weight far above the threshold for absorption, according to absorption, distribution, metabolism, and excretion (ADME) data, it was not degraded in the intestine and is slightly fermented to non‐hazardous short‐chain fatty acids by the gut microbiota, the Panel concluded that xanthan gum (E 415) does not give rise to concerns for genotoxicity.In chronic and long‐term studies, no adverse effects, including biochemical and haematological parameters, were reported in dogs and rats. The Panel noted that decreased red blood cell counts reported in a subchronic toxicity study in dogs receiving 2,000 mg/kg bw per day at 6 and 12 weeks, effect which was marginal and not reproduced in a dog chronic toxicity study at 1,000 mg/kg bw per day for 107 weeks, the highest dose tested.Dietary feeding of xanthan gum at levels of 0 (control), 250 and 500 mg/kg bw per day to groups of albino rats of both sexes during a three‐generation reproduction study had no adverse effect on reproduction as judged by all the endpoints evaluated. No prenatal developmental toxicity studies were available to the Panel.In special studies in neonatal piglets, no test substance‐related effects in haematology or clinical chemistry parameters were observed at any dose. In the high‐dose group (3,750 mg/kg bw per day) histopathological findings rated from minimal to moderate were observed in the large intestine (caecum, colon, rectum) and small intestine (duodenum). These effects were observed in fewer animals in the lower dose groups (375 and 750 mg/kg bw per day) and the severity was considered minimal. The Panel considered the no‐observed‐effect‐level (NOEL) for xanthan gum in neonatal piglets to be 375 mg/kg bw per day, based on the changes of the faeces (green, soft, watery, increased defaecation) in the mid‐dose and high dose group, and the no‐observed‐adverse‐effect‐level (NOAEL) was 750 mg/kg bw per day based on histopathological changes in the intestine in the high dose.From a human study with repeated intake ranging from 10.4 to 12.9 g of xanthan gum per day (assuming a body weight of 70 kg corresponding to 149–184 mg/kg bw per day), it was reported that xanthan gum acts as a bulk laxative causing no adverse dietary nor physiological effects. The only effects observed were moderate (10%) reduction in serum cholesterol (p < 0.05) and a significant increase in faecal bile acid concentrations (p < 0.05) (Eastwood et al., 1987).A study investigating the effect of repeated intake of 15 g xanthan gum/day (assuming a body weight of 70 kg corresponding to 214 mg/kg bw per day) on colonic function showed significant increases in stool output (p < 0.01), frequency of defecation (p < 0.05) and flatulence (p < 0.01) due to the ingestion of the xanthan gum (Daly et al., 1993).In clinical studies involving infants, the Panel noted that consumption of xanthan gum in infant formula or formula for special medical purposes in infant was well tolerated, did not influence minerals (Ca, P, Mg), fat and nitrogen balance and did not affect growth characteristics up to concentration of 1,500 mg/L (232 mg/kg bw per day). These results were supported by the outcome of the post‐marketing surveillance with formulae containing xanthan gum at a concentration of approximately 750 mg/L of reconstituted formula.The present re‐evaluation considered the use of xanthan gum (E 415) in foods for infants from 12 weeks of age onwards and for young children.Concerning uses of xanthan gum in food for infants and young children the Panel concurs with the SCF (1999) ‘…that it is prudent to keep the number of additives used in foods for infants and young children to the minimum necessary. The Committee has stressed in the past that there should be strong evidence of need as well as safety before additives can be regarded as acceptable for use in infant formulae and foods for infants and young children’.Xanthan gum (E 415) is authorised in a wide range of foods. The Panel did not identify brand loyalty to a specific food category and therefore the Panel considered that the non‐brand‐loyal scenario covering the general population was the more appropriate and realistic scenario for risk characterisation because it is assumed that the population would probably be exposed long‐term to the food additive present at the mean reported use in processed food.A refined estimated exposure assessment scenario taking into account the food for special medical purpose for infants and young children, for consumers only, was also performed to estimate exposure for infants and toddlers who may be on a specific diet. Considering that this diet is required due to specific needs, it is assumed that consumers are loyal to the food brand, therefore only the refined brand‐loyal estimated exposure scenario was performed.A refined estimated exposure assessment scenario taking into account the consumption of food supplements for consumers only was also performed to estimate exposure for children, adolescents, adults and the elderly as exposure via food supplements may deviate largely from that via food, and the number of food supplement consumers may be low depending on populations and surveys.For the general population following the conceptual framework for the risk assessment of certain food additives re‐evaluated under Commission Regulation (EU) No 257/2010 (EFSA ANS Panel, 2014), and given that:
+from all the data received, data were adequate for a refined exposure assessment for 25 out of 79 food categories;based on the reported use levels, a refined exposure (non‐brand‐loyal scenario) of up to 64 mg/kg bw per day in children (3–9 years) was estimated;refined exposure assessments for consumers only of food supplements was also calculated and was up to 38 mg/kg bw per day for children (3–9 years) considering high level exposure (95th percentile);xanthan gum is unlikely to be absorbed intact and is expected to be partially fermented by intestinal microbiota;adequate toxicity data were available;there was no concern with respect to genotoxicity;no adverse effects were reported in chronic studies in rats and dogs up to 1,000 mg/kg bw per day, the highest dose tested. In rats, the compound was not carcinogenic;repeated oral intake by adults of large amounts of xanthan gum up to 15,000 mg/person per day, corresponding to 214 mg/kg bw per day for at least ten days was well tolerated, but some individuals experienced abdominal discomfort, which was considered by the Panel as undesirable but not adverse;
+the Panel concluded that there is no need for a numerical ADI for xanthan gum (E 415), and that there is no safety concern at the refined exposure assessment for the reported uses and use levels of xanthan gum (E 415) as a food additive.For infants and young children consuming foods for special medical purposes and special formulae, concerning the use of xanthan gum (E 415) in ‘dietary foods for special medical purposes and special formulae for infants’ (Food category 13.1.5.1) and in ‘dietary foods for babies and young children for special medical purposes as defined in Directive 1999/21/EC’ (Food category 13.1.5.2), and given that:
+for populations consuming foods for special medical purposes and special formulae, the highest refined exposure estimates (p95) on the maximum reported data from food industry (750 mg/L for categories 13.1.5.1 and 250 mg/L for 13.1.5.2) were up to 115 mg/kg bw per day for infants (12 weeks–11 months, brand loyal scenario);in a number of clinical studies, consumption of xanthan gum in infant formula or formula for special medical purposes in infant was well tolerated up to concentration of 1,500 mg/L (232 mg/kg bw per day);no cases of adverse effects were reported from post‐marketing surveillance with formulae containing xanthan gum at a concentration of approximately of 750 mg/L of reconstituted formula which supported the results of the clinical studies;
+the Panel concluded, that there is no safety concern from the use of xanthan gum (E 415) in foods for special medical purposes consumed by infants and young children at concentrations reported by the food industry.The Panel recommended:
+the European Commission to considers revising the current limit for toxic element lead in the European Commission specification for xanthan gum (E 415) and adding limits for the impurities of the other toxic elements mercury, cadmium and arsenic in order to ensure that xanthan gum (E 415) as a food additive will not be a significant source of exposure to these toxic elements in food;due to the discrepancies observed between the data reported from industry and the Mintel database, where xanthan gum is labelled in more products than in food categories for which data were reported from industry, the Panel recommended collection of data on usage and use levels of xanthan gum (E 415) in order to perform a more realistic exposure assessment.
+1. IntroductionThe present opinion document deals with the re‐evaluation of xanthan gum (E 415) when used as a food additive.1.1. Background and Terms of Reference as provided by the European Commission1.1.1. Background as provided by the European CommissionRegulation (EC) No 1333/2008 of the European Parliament and of the Council on food additives requires that food additives are subject to a safety evaluation by the European Food Safety Authority (EFSA) before they are permitted for use in the European Union (EU). In addition, it is foreseen that food additives must be kept under continuous observation and must be re‐evaluated by EFSA.For this purpose, a programme for the re‐evaluation of food additives that were already permitted in the European Union before 20 January 2009 has been set up under the Regulation (EU) No 257/20101. This Regulation also foresees that food additives are re‐evaluated whenever necessary in light of changing conditions of use and new scientific information. For efficiency and practical purposes, the re‐evaluation should, as far as possible, be conducted by group of food additives according to the main functional class to which they belong.The order of priorities for the re‐evaluation of the currently approved food additives should be set on the basis of the following criteria: the time since the last evaluation of a food additive by the Scientific Committee on Food (SCF) or by EFSA, the availability of new scientific evidence, the extent of use of a food additive in food and the human exposure to the food additive taking also into account the outcome of the Report from the Commission on Dietary Food Additive Intake in the EU of 2001. The report ‘Food additives in Europe 2000’ submitted by the Nordic Council of Ministers to the Commission, provides additional information for the prioritisation of additives for re‐evaluation. As colours were among the first additives to be evaluated, these food additives should be re‐evaluated with a highest priority.In 2003, the Commission already requested EFSA to start a systematic re‐evaluation of authorised food additives. However, as a result of adoption of Regulation (EU) 257/2010 the 2003 Terms of References are replaced by those below.1.1.2. Terms of Reference as provided by the European Commission1.1.2.1.  Re‐evaluation of xanthan gum (E 415) as a food additive The Commission asks EFSA to re‐evaluate the safety of food additives already permitted in the Union before 2009 and to issue scientific opinions on these additives, taking especially into account the priorities, procedures and deadlines that are enshrined in the Regulation (EU) No 257/2010 of 25 March 2010 setting up a programme for the re‐evaluation of approved food additives in accordance with the Regulation (EC) No 1333/2008 of the European Parliament and of the Council on food additives.1.1.3. Interpretation of Terms of ReferenceThe EFSA Panel on Food Additives and Nutrient Sources added to Food (ANS) described its risk assessment paradigm in its Guidance for submission for food additive evaluations in 2012 (EFSA ANS Panel, 2012). This Guidance states, that in carrying out its risk assessments, the Panel sought to define a health‐based guidance value, e.g. an acceptable daily intake (ADI)) (IPCS, 2004) applicable to the general population. According to the definition above, the ADI as established for the general population does not apply to infants below 12 weeks of age (JECFA, 1978; SCF, 1998). In this context, the re‐evaluation of the use of food additives, such as thickening agents and certain emulsifiers, in food for infants below 12 weeks represents a special case for which specific recommendations were given by the Joint FAO/WHO Expert Committee on Food Additives (JECFA) (JECFA, 1972, 1978) and by the SCF (1996, 1998). The Panel endorsed these recommendations.In the current EU legislation (Annex II to Regulation (EC) No 1333/20081), use levels of additives authorised in food for infants under the age of 12 weeks in categories 13.1.1 and 13.1.5 (Annex II) and uses of food additives in nutrient preparations for use in food for infants under the age of 12 weeks and maximum levels for the carry‐over from these uses (Annex III, Part 5, section B) are included. The Panel considers that these uses would require a specific risk assessment in line with the recommendations given by JECFA and the SCF, and endorsed by the Panel in its current Guidance for submission for food additives evaluations (EFSA ANS Panel, 2012). Therefore, risk assessments for the general population are not considered applicable for infants under the age of 12 weeks and will be performed separately.This re‐evaluation refers exclusively to the uses of xanthan gum (E 415) as a food additive in food, including food supplements and does not include a safety assessment of other uses of xanthan gum.1.2. Information on existing evaluations and authorisationsXanthan gum (E 415) is authorised as a food additive in the EU in accordance with Annex II and Annex III part 5 Sections A and B to Regulation (EC) No 1333/20082 on food additives and specific purity criteria on xanthan gum (E 415) have been defined in Commission Regulation (EU) No 231/2012.Xanthan gum has been evaluated by the SCF in 1978 (SCF, 1978), when the ADI of 10 mg/kg bw previously established by JECFA was endorsed. The SCF did not report details on the toxicological data considered for the evaluation. In 1990, an ADI ‘not specified’ was allocated (SCF, 1992) ‘as the highest possible feeding level was also the no‐effect‐level (NEL), the Committee considered it justified not to apply the 100‐fold safety factor. The Committee was informed that levels in the range of 1–5 g/kg in foods and 0.5 g/L in beverages are usually adequate to obtain the desired technological effects. Based on this, the Committee decided to change the ADI to not specified’. In 1997, the SCF has evaluated the use of xanthan gum in foods for special medical purposes for infants and young children. The SCF had been informed that in these products xanthan gum may act in combination with guar gum to prevent sedimentation of components. The SCF considered that the use of xanthan gum in foods for special medical purposes for infants and young children is acceptable at levels up to 1.2 g/L (SCF, 1999). Accordingly, xanthan gum is also authorised as food for medical purposes (Annex II to Regulation (EC) No 1333/2008).Xanthan gum was reviewed by JECFA in 1974, when an ADI of 10 mg/kg bw was allocated (JECFA, 1974). In 1986, JECFA changed to an ADI ‘not specified’ (JECFA, 1987a,b) based on the lack of adverse effects in the available toxicity studies but requested an adequate long‐term study in a second rodent species, because of the potential high exposure levels and the fact that xanthan gum is prepared from a microbial source not normally used in food (JECFA, 1987b). In 2016, the Committee concluded that the consumption of xanthan gum in infant formula or formula for special medical purposes intended for infants is of no safety concern at the maximum proposed use level of 1,000 mg/L (JECFA, 2016).Xanthan gum has also been reviewed in TemaNord, 2002, who concluded that there was no indication for toxic effects from xanthan gum; that there were no mutagenicity studies available and that JECFA requested an adequate long‐term study in a second rodent species. TemaNord also indicated that no information on actual use levels was available.EFSA is providing qualified presumption of safety (QPS) assessment for a broad range of biological agents in the context of notifications for market authorisation as sources of food and feed additives, enzymes and plant protection products supporting EFSA's scientific Panels. A notification referring to the taxonomic unit Xanthomonas campestris, only for the production of xanthan gum, was evaluated for the QPS status, and recommended for the QPS list based on its long and broad history of safe use in the food industry, lack of implication in human or animal disease, apart from one record and no indication of acquisition of resistance to antimicrobials in the literature (EFSA BIOHAZ Panel, 2015). Xanthomonas campestris, when used for the production of xanthan gum, has been added to the list of QPS recommended biological agents which has been published in 2013 and updated in 2015 and 2017 (EFSA BIOHAZ Panel, 2013, 2015, 2017).In 2010, the EFSA NDA Panel issued an opinion on the scientific substantiation of health claims in relation to xanthan gum and increased satiety (interpreted in this opinion as the decrease in the motivation to eat after consumption of food, leading to a reduction in energy intake). On the basis of the data presented, the Panel concludes that a cause and effect relationship has not been established between the consumption of xanthan gum and increased satiety (EFSA NDA Panel, 2010).In 2011, the EFSA NDA Panel issued an opinion on the scientific substantiation of health claims in relation to xanthan gum and changes in bowel function (such as reduced transit time, more frequent bowel movements, increased faecal bulk or softer stools). On the basis of the data presented, the Panel concludes that a cause and effect relationship has not been established between the consumption of xanthan gum and changes in bowel function (EFSA NDA Panel, 2011).Xanthan gum (E 415) is one of the food additives that composed jelly mini‐cups which were suspended in 2004 by the European Commission to be placed on the market and import (Commission Decision 2004/37/EC), following the measures taken and information provided by different Member States. Jelly mini‐cups are defined as ‘jelly confectionery of a firm consistence, contained in semi rigid mini‐cups or mini‐capsules, intended to be ingested in a single bite by exerting pressure on the mini‐cups or mini‐capsule to project the confectionery into the mouth’.In 2004, the Scientific Panel on Food Additives, Flavourings, Processing Aids and Materials in Contact with Food (AFC Panel) prepared a scientific opinion on a request from the European Commission related to the use of certain food additives derived from seaweed or non‐seaweed origin, including xanthan gum (E 415) in jelly mini cups (EFSA AFC Panel, 2004). The AFC Panel concluded that any of these gel‐forming additives or of any other type that gave rise to a confectionery product of a similar size, with similar physical and/or physicochemical properties and that could be ingested in the same way as the jelly mini‐cups, would give rise to a risk for choking (EFSA AFC Panel, 2004). The use of these additives in jelly mini‐cups is not authorised in EU.3
+In 2017, the EFSA NDA Panel published a scientific opinion on an alginate‐konjac‐xanthan polysaccharide complex (PGX) in the framework of Regulation (EC) No 258/97 (EFSA NDA Panel et al., 2017). PGX is produced by mixing konjac glucomannan, xanthan gum and sodium alginate in a specific ratio, claimed proprietary and confidential, and then processing them by a proprietary process involving heat. Based on studies comparing different physicochemical parameters for PGX and the three individual substances, the applicant claimed that PGX is a ‘novel complex’ rather than a mixture of the three substances. The maximum daily intake of PGX from fortified foods and food supplements recommended by the applicant was 15 g per person. From a 13‐week‐ study in Sprague–Dawley rats, which received a diet containing 0%, 1.25%, 2.5% or 5% of PGX, the EFSA NDA Panel derived a no‐observed‐adverse‐effect‐level (NOAEL) of 2.5% PGX in the diet equivalent to 1.8 g/kg body weight (bw) per day. This was based on statistically significant increases in serum activities of alanine transaminase (ALT) and aspartate transaminase (AST) in females in the high‐dose group. Considering the highest mean and 95th percentile anticipated daily intake of PGX from fortified foods, the EFSA NDA Panel derived margins of exposure (MoE) of 12 and 6. The MoE derived by the EFSA NDA Panel for PGX consumed as food supplements was 9. The EFSA NDA Panel concluded that the safety of PGX as novel food for the intended uses and use levels as proposed by the applicant has not been established.2. Data and methodologies2.1. DataThe Panel on Food Additives and Nutrient Sources added to Food (ANS) was not provided with a newly submitted dossier. EFSA launched public calls for data4
+,
+5
+,
+6 and, if relevant, contacted risk assessment bodies to collect information from interested parties.The Panel based its assessment on information submitted to EFSA following the public calls for data, information from previous evaluations and additional available literature up to 3 May 2017. Attempts were made at retrieving relevant original study reports on which previous evaluations or reviews were based; however, not always were these available to the Panel.The EFSA Comprehensive European Food Consumption Database (Comprehensive Database7) was used to estimate the dietary exposure.The Mintel's Global New Products Database (GNPD) is an online resource listing food products and compulsory ingredient information that should be included in labelling. This database was used to verify the use of xanthan gum (E 415) in food products.2.2. MethodologiesThis opinion was formulated following the principles described in the EFSA Guidance on transparency with regard to scientific aspects of risk assessment (EFSA Scientific Committee, 2009) and following the relevant existing guidance documents from the EFSA Scientific Committee.The ANS Panel assessed the safety of xanthan gum (E 415) as a food additive in line with the principles laid down in Regulation (EU) 257/2010 and in the relevant guidance documents: Guidance on submission for food additive evaluations by the SCF (2001) and taking into consideration the Guidance for submission for food additive evaluations in 2012 (EFSA ANS Panel, 2012).When the test substance was administered in the feed or in the drinking water, but doses were not explicitly reported by the authors as mg/kg bw per day based on actual feed or water consumption, the daily intake was calculated by the Panel using the relevant default values as indicated in the EFSA Scientific Committee Guidance document (EFSA Scientific Committee, 2012) for studies in rodents or, in the case of other animal species, by JECFA (2000). In these cases, the daily intake is expressed as equivalent. When in human studies in adults (aged above 18 years), the dose of the test substance administered was reported in mg/person per day, the dose in mg/kg bw per day was calculated by the Panel using a body weight of 70 kg as default for the adult population as described in the EFSA Scientific Committee Guidance document (EFSA Scientific Committee, 2012).Dietary exposure to xanthan gum (E 415) from its use as a food additive was estimated combining food consumption data available within the EFSA Comprehensive European Food Consumption Database with the maximum permitted levels (MPLs) according to Annex II and III to Regulation (EC) No 1333/2008 and/or reported use levels and analytical data submitted to EFSA following a call for data. Different scenarios were used to calculate exposure (see Section 3.4.1). Uncertainties on the exposure assessment were identified and discussed with regard to their impact on the final exposure calculation.In the context of this re‐evaluation, the Panel followed the conceptual framework for the risk assessment of certain food additives re‐evaluated under Commission Regulation (EC) No 257/2010 (EFSA ANS Panel, 2014).3. Assessment3.1. Technical data3.1.1. Identity of the substanceAccording to Commission Regulation (EU) No 231/20128), the food additive xanthan gum (E 415) is a high molecular weight polysaccharide gum produced by a pure‐culture fermentation of a carbohydrate with strains of Xanthomonas campestris, the strain X. campestris NRRL B‐1459 being the mostly used (De Monaco Lopes et al., 2015), purified by recovery with ethanol, or propan‐2‐ol, dried and milled. It contains d‐glucose and d‐mannose as the dominant hexose units, along with d‐glucuronic acid and pyruvic acid, and is prepared as the sodium, potassium or calcium salt. Its solutions are neutral.It is identified with EINECS Number: 234‐394‐2 and CAS number: 11138‐66‐2Xanthan gum is a polysaccharide consisting of a backbone of β‐(1→4) linked d‐glucose molecules as it is also found in cellulose. Every second glucose molecule is substituted at C3 with a trisaccharide side chain consisting of β‐d‐mannose‐(1→4)‐β‐d‐glucuronic acid‐(1→2)‐α‐d‐mannose. In the side chains, the terminal mannose moiety is partially substituted with a pyruvate residue linked as an acetal to the 4‐ and 6‐positions; the internal mannose unit is acetylated at C‐6. The degree of pyruvate substitution varies between 30% and 50%, whereas 60–70% of the internal mannose molecules are acetylated. The pyruvyl and acetyl content depends on the fermentation conditions and the bacterial strain (Sworn, 2009; Draeger et al., 2011; Voragen et al., 2012). Average reported composition of polysaccharides produced by X. campestris bacteria is 30.1% d‐glucose, 27.3% d‐mannose, 14.9% d‐glucuronic acid, 7.1% pyruvate and 6.5% acetate (García‐Ochoa et al., 2000). Faria et al. (2011) reported the ratios of glucose, mannose and glucuronic acid monomers 1.79:1.33:1 in a non‐commercial xanthan gum derived from sugar cane.The structural formula of xanthan gum is presented in Figure 2.Open in a separate windowFigure 2Xanthan gum: a polysaccharide composed of glucose, glucuronic acid, 6‐acetylmannose and 4,6‐pyruvylated mannose (Belsito et al., 2012)Synonyms of xanthan gum are xanthan, Polysaccharide B 1459, corn sugar gum.Open in a separate windowFigure 1Glucose, glucuronic acid, 6‐acetylmannose and 4,6‐pyruvylated mannose, the monosaccharide components of xanthan gum (Belsito et al., 2012)The molecular weight of xanthan gum is reported to range from approximately 1,000,000 g/mol (Draeger et al., 2011) to approximately 2,000,000 g/mol (Voragen et al., 2012).Xanthan gum is a cream‐coloured powder, soluble in water. While xanthan gum will not dissolve directly in alcohol, solutions of xanthan gum are miscible with alcohol and products containing alcohol, and can be formulated to contain up to 60% water‐miscible solvents such as ethanol (Sworn, 2009). According to the Belsito et al. (2012) the pH range of a 1% solution (25°C) is 5.5–8.5.One interested party (Documentation provided to EFSA n.2) has provided information on particle size distribution tested using laser diffraction and scanning electron microscopy (SEM) analyses. From the laser diffraction tests carried out on 22 samples, mean particle sizes were found to range from 50.70 μm (SD ± 0.56 μm) to 281 μm (SD ± 18.80 μm) on a volume basis. SEM analyses conducted on 10 samples confirmed the Laser Diffraction results with the smallest free particulates greater than 500 nm. The smallest particulates (not free) were viewed on the surface of much larger particles and none of these particles was smaller than 150 nm. According to the interested party, human consumption of xanthan gum in particulate form is highly unlikely from a technological standpoint as the gum must be dissolved in an aqueous medium to perform its additive function in food and beverage systems.Aqueous solutions of xanthan gum are highly viscous and pseudoplastic (i.e. they exhibit a reversible, shear‐thinning behaviour). The viscosity of the xanthan gum solutions is minimally influenced by pH and temperatures up to 90°C. High salt concentrations also have little influence on the viscosity (Draeger et al., 2011; Voragen et al., 2012). On the other hand, in the publication from García‐Ochoa et al. (2000) is stated that the dissolution temperature greatly affects viscosity by controlling the molecular conformation and appearance of ordered structures. Depending on the dissolution temperature, the xanthan gum molecule seems to have two conformations, helix and random coil. An important property of xanthan gum solutions is the physicochemical interaction with plant galactomannans, such as locust bean gum and guar gum, or konjac glucomannan. The addition of any of these gums to a solution of xanthan gum at room temperature causes a synergistic increase in viscosity (Tako, 1992; Copetti et al., 1997; Casas et al., 2000; García‐Ochoa et al., 2000).The Panel noted that in cases, where xanthan gum (E 415) is added in combination with other gums, such as locust bean gum (E 410), guar gum (E 412) or konjac glucomannan (E 425(ii)) to food, the synergistic increase in viscosity has to be taken into consideration.3.1.2. SpecificationsThe specifications for xanthan gum (E 415) as defined in the Commission Regulation (EU) No 231/2012 and by JECFA (2006) are listed in Table 1.Table 1Specifications for xanthan gum (E 415) according to Commission Regulation (EU) No 231/2012 and JECFA (2006)Commission Regulation (EU) No 231/2012JECFA (2006)
+Definition
+Xanthan gum is a high molecular weight polysaccharide gum produced by a pure‐culture fermentation of a carbohydrate with strains of Xanthomonas campestris, purified by recovery with ethanol or propan‐2‐ol, dried and milled. It contains d‐glucose and d‐mannose as the dominant hexose units, along with d‐glucuronic acid and pyruvic acid, and is prepared as the sodium, potassium or calcium salt. Its solutions are neutralA high molecular weight polysaccharide gum produced by a pure‐culture fermentation of a carbohydrate with Xanthomonas campestris, purified by recovery with ethanol or isopropanol, dried and milled; contains d‐glucose and d‐mannose as the dominant hexose units, along with d‐glucuronic acid and pyruvic acid, and is prepared as the sodium, potassium or calcium salt; its solutions are neutralMolecular weightApproximately 1,000,000 g/molAssayYields, on dried basis, not less than 4.2% and not more than 5% of CO2 corresponding to between 91% and 108% of xanthan gumYields, on the dried basis, not less than 4.2% and not more than 5.4% of carbon dioxide (CO2) corresponding to between 91.0% and 117.0%, respectively, of xanthan gumDescriptionCream‐coloured powderCream‐coloured powder
+Identification
+SolubilitySoluble in water, insoluble in ethanolSoluble in water, insoluble in ethanolGel formation–To 300 mL of water, previously heated to 80° and stirred rapidly with a mechanical stirrer in a 400‐mL beaker, add, at the point of maximum agitation, a dry blend of 1.5 g of the sample and 1.5 g of carob bean gum. Stir until the mixture goes into solution, and then continue stirring for 30 min longer. Do not allow the water temperature to drop below 60° during stirring. Discontinue stirring, and allow the mixture to cool at room temperature for at least 2 h. A firm rubbery gel forms after the temperature drops below 40°, but no such gel forms in a 1% control solution of the sample prepared in the same manner but omitting the carob bean gum
+Purity
+Loss on dryingNot more than 15% (105°C, 2.5 h)Not more than 15% (105°, 2.5 h)Total ashNot more than 16% on the anhydrous basis determined at 650°C after drying at 105°C for 4 hNot more than 16% after dryingPyruvic acidNot less than 1.5%Not less than 1.5%NitrogenNot more than 1.5%
+Not more than 1.5%
+Proceed according to the Kjeldahl method
+Ethanol and propan‐2‐olNot more than 500 mg/kg singly or in combinationNot more than 500 mg/kg singly or in combinationLeadNot more than 2 mg/kg
+Not more than 2 mg/kg
+Determine using an atomic absorption technique appropriate to the specified level. The selection of sample size and method of sample preparation may be based on the principles of the method described in Volume 4, ‘Instrumental Methods’a
+
+
+Microbiological criteria
+Total plate countNot more than 5,000 colonies per gramNot more than 5,000 CFU/gYeast and mouldNot more than 300 colonies per gramNot more than 500 CFU/g
+Escherichia coli
+Absent in 5 gNegative by test
+Salmonella spp.Absent in 10 gNegative by test
+Xanthomonas campestris
+Viable cells absent in 1 g–Open in a separate windowCFU: colony‐forming unit.aAccording to the recent JECFA evaluation, the limit for lead in xanthan gum was maintained at 2 mg/kg for general use, and a limit for lead of 0.5 mg/kg for use in infant formula was introduced. The test method for the determination of residual solvents that employs a gas chromatographic method using a packed column was replaced with a method using a capillary column (JECFA, 2016).An interested party (Documentation provided to EFSA n.1) has provided information in the form of ranges of concentration from recently produced batches for: loss on drying (9.2–15.0%), total ash (6.9–16%), pyruvic acid (1.5–5.8%), nitrogen (0.26–1.5%), ethanol and propan‐2‐ol (91 ‐ 500 mg/kg, singly or in combination), lead (ND–2.0 mg/kg), total plate count (30–2,000 CFU/g), mould and yeast (< LOQ), Escherichia coli (absent in 5 g), Salmonella (absent in 10 g) and X. campestris (absent viable cells/1 g) that have demonstrated that purity of analysed products comply with the European Commission specifications. The interested party also has provided information on the content of other toxic elements apart from lead in recently produced batches: arsenic (ND–2 mg/kg), cadmium (ND–0.1 mg/kg) and mercury (ND–1 mg/kg).JECFA reported, that based on the data submitted, the Committee was reassured that for xanthan gum the lead level of 0.5 mg/kg for use in infant formula was achievable (JECFA, 2016).The Panel noted that the results provided to EFSA are not sufficiently informative due to the high detection limits used and more sensitive methods of detection of these impurities need to be used. The Panel also noted that, according to the European Commission specifications for xanthan gum (E 415), impurities of the toxic element lead are accepted up to concentration of 2 mg/kg. Limits for arsenic, cadmium and mercury are missing.Contamination with lead, arsenic, cadmium and mercury could have a significant impact on the exposure to these metals, if found at the highest detection limits reported, for which the intake is already close to the health‐based guidance values or benchmark doses (lower confidence limits) established by the EFSA (EFSA CONTAM Panel, 2009a,b, 2010, 2012a,b,c, 2014).The Panel noted that residual level for solvents should be included in the specifications. Abbott Nutrition (2016) provided analytical method for determination of isopropanol in xanthan gum by headspace gas chromatography. Obtained recovery for 15 standards was 100.67%. No information on limit of detection (LOD) and limit of quantification (LOQ) of the method. The analytical results were not provided. Nitrogen content is typically around 1% (identified range 0.26–1.5%), of which around 50% is proteinaceous (present in amino acids) and 50% process‐derived nitrogen (JECFA, 1987a). Based purely on calculated conversion (N × 6.25), the protein equivalent concentration range is 0.8–4.7%.According to information provided to EFSA (Documentation provided to EFSA n.1), during the fermentation process, the bacteria produce enzymes (e.g. amylases, cellulases or proteases). Producers reduce enzyme presence as much as possible or deactivate them throughout the manufacturing process and there is no evidence of the presence of oxidases or peroxidases in xanthan gum.Concerning the pesticide residues EFSA was informed (Documentation provided to EFSA n.1) that the only likely source is the feedstock (carbohydrate) for the microorganism. The feedstock is compliant with the pesticide regulation and the final products are not tested for pesticide residues. In view of the botanical origin of the feedstock used in the production of xanthan gum, the Panel considered particularly necessary to pay attention on the compliance of feedstock raw material to existing EU regulation on pesticides.The European Pharmacopeia 8th ed. (2014) includes specifications for xanthan gum.3.1.3. Manufacturing processAccording to the information from an interested party (Documentation provided to EFSA n.1), xanthan gum is produced by aerobic submerged fermentation using the bacterium X. campestris, a microorganism which is found naturally on cabbages. The diagram summarising the main steps of the production process for xanthan gum is presented in Figure 3.Open in a separate windowFigure 3Flow diagram summarising the main steps of the production process for xanthan gum (Documentation provided to EFSA n.1)According to the literature data, xanthan gum (E 415) is produced by X. campestris in a batch‐wise fermentation process in a medium containing a nitrogen source, phosphate and magnesium ions, trace elements and carbohydrates such as glucose and sucrose (Letisse et al., 2001; El Enshasy et al., 2011). Xanthan gum is extracted from the culture broth after removal of the bacterial cells, followed by precipitation with ethanol or propan‐2‐ol. The precipitate is dried by vacuum or with hot air and processed to a marketable article by grinding and sieving (García‐Ochoa et al., 2000; Morris, 2006; Voragen et al., 2012).Faria et al. (2011) reported production of xanthan gum by X. campestris pv. Campestris NRRL B‐1459 using diluted sugar cane broth in experiments that lasted 24 h. The components used were in g/L: 27.0 sucrose; 2.0 Brewer's yeast and 0.8 NH4NO3. The mixture was fermented at 750 rpm and 0.35 vvm. These conditions produced xanthan gum with the desired molecular weight and total sugar content, which were 4.2 × 106 Da and 85.3%, respectively. The sugar consisted of 43% glucose, 32% mannose and 24% glucuronic acid in a 1.79:1.33:1 ratio. The xanthan gum produced by this method was confirmed by comparing the infrared spectrum with commercial xanthan gum.3.1.4. Methods of analysis in foodA gas chromatography method was evaluated for the determination of food grade gums (tragacanth, karaya, ghatti, carob, guar, arabic and xanthan gum) in dairy products, salad dressings and meat sauces (Lawrence and Iyengar, 1985). The gum is isolated after extraction of fat, enzymatic degradation of starch and precipitation of protein. The polysaccharide is then hydrolysed with trifluoroacetic acid, and the resulting monosaccharides are converted to their aldonitrile acetate derivatives which are analysed by gas chromatography. The gums can be identified by the fingerprint patterns produced by their constituent neutral sugars. However, problems arise when gums are used in combination with other gums as their component monosaccharides may interfere. Recoveries from the gums studies averaged 85% when spiked in various samples at concentrations of 0.25–0.50% (Lawrence and Iyengar, 1985).For the qualitative test of gums in mayonnaise and French dressing, the Association of Official Agricultural Chemists (AOAC, now AOAC International) Official Method 937.12 is available (AOAC, 2002). The gums are precipitated from the food sample, hydrolysed to sugars which are qualitatively identified. This method is not applicable in the presence of starch. A similar method (AOAC Official Method 935.61) for qualitative determination of gums in salad dressing based on a precipitation reaction is applicable in the presence of starch (AOAC, 2002). Both methods are applicable for the determination of any kind of gums used in foodstuff (i.e. it is not a specific test for intact xanthan gum).Pazur and Li (2004) developed a technique for the identification of gums in food using antibodies, isolated from the serum of rabbits after immunisation with the gums, with specificity for polysaccharide gums (xanthan, acacia gum and guar gum). Agar diffusion was performed on several foods (ice cream, soup, candy, salad dressing and cottage cheese) and antibody combinations. The formation of a precipitin band by a food extract and a specific antibody is a positive test for the present of the gum in the food item. This method is highly specific for a gum.3.1.5. Stability of the substance, and reaction and fate in foodNo specific information on reaction and fate of xanthan gum in foods is available. Enzymes commonly present in food products or added to such products (amylases, pectinases, cellulases) do not degrade xanthan gum. It can be partly degraded by endo‐1,4‐glucanases after removal of calcium ions. Xanthan gums are degraded by strong oxidants such as hypochlorite, persulfate and hydrogen peroxide, particularly at high temperature (Voragen et al., 2012).3.2. Authorised uses and use levelsMaximum levels of xanthan gum (E 415) have been defined in Annex II to Regulation (EC) No 1333/20089 on food additives, as amended. In this document, these levels are named maximum permitted levels (MPLs).Currently, xanthan gum (E 415) is an authorised food additive in the EU at quantum satis (QS) in all food categories listed in Table 2 apart from seven food categories. Xanthan gum (E 415) is included in the Group I of food additives.Table 2MPLs of xanthan gum (E 415) in foods according to the Annex II to Regulation (EC) No 1333/2008Food Category numberFood category nameE‐number/groupRestrictions/exceptionMPL (mg/L or mg/kg as appropriate)01.3Unflavoured fermented milk products, heat‐treated after fermentationGroup I
+Quantum satis
+01.4Flavoured fermented milk products including heat‐treated productsGroup I
+Quantum satis
+01.6.2Unflavoured live fermented cream products and substitute products with a fat content of less than 20%E 415
+Quantum satis
+01.6.3Other creamsGroup I
+Quantum satis
+01.7.1Unripened cheese excluding products falling in category 16Group IExcept mozzarella
+Quantum satis
+01.7.5Processed cheeseGroup I
+Quantum satis
+01.7.6Cheese products (excluding products falling in category 16)Group I
+Quantum satis
+01.8Dairy analogues, including beverage whitenersGroup I
+Quantum satis
+02.2.2Other fat and oil emulsions including spreads as defined by Council Regulation (EC) No 1234/2007 and liquid emulsionsGroup I
+Quantum satis
+02.3Vegetable oil pan sprayGroup I
+Quantum satis
+03Edible icesGroup I
+Quantum satis
+04.2.1Dried fruit and vegetablesGroup IE 410, E 412, E 415, E 417 may not be used to produce dehydrated foods intended to rehydrate on ingestion
+Quantum satis
+04.2.2Fruit and vegetables in vinegar, oil or brineGroup I
+Quantum satis
+04.2.3Canned or bottled fruit and vegetablesE 415Only chestnuts in liquid
+Quantum satis
+04.2.4.1Fruit and vegetable preparations excluding compoteGroup I
+Quantum satis
+04.2.5.2Jam, jellies and marmalades and sweetened chestnut purée as defined by Directive 2001/113/ECE 41510,000b
+04.2.5.3Other similar fruit or vegetable spreadsE 41510,000b
+04.2.5.4Nut butters and nut spreadsGroup I
+Quantum satis
+04.2.6Processed potato productsGroup I
+Quantum satis
+05.1Cocoa and Chocolate products as covered by Directive 2000/36/ECGroup IOnly energy‐reduced or with no added sugar
+Quantum satis
+05.2Other confectionery including breath freshening microsweetsGroup IThe substances listed under numbers E 400, E 401, E 402, E 403, E 404, E 406, E 407, E 407a, E 410, E 412, E 413, E 414, E 415, E 417, E 418, E 425 and E 440 may not be used in jelly mini‐cups, defined, for the purpose of this Regulation, as jelly confectionery of a firm consistence, contained in semi rigid mini‐cups or mini‐capsules, intended to be ingested in a single bite by exerting pressure on the mini‐cups or mini‐capsule to project the confectionery into the mouth; E 410, E 412, E 415, E 417 may not be used to produce dehydrated foods intended to rehydrate on ingestion
+Quantum satis
+05.3Chewing gumGroup I
+Quantum satis
+05.4Decorations, coatings and fillings, except fruit‐based fillings covered by category 4.2.4Group I
+Quantum satis
+06.2.2StarchesGroup I
+Quantum satis
+06.3Breakfast cerealsGroup I
+Quantum satis
+06.4.2Dry pastaGroup IOnly gluten free and/or pasta intended for hypoproteic diets in accordance with Directive 2009/39/EC
+Quantum satis
+06.4.4Potato GnocchiGroup IExcept fresh refrigerated potato gnocchi
+Quantum satis
+06.4.5Fillings of stuffed pasta (ravioli and similar)Group I
+Quantum satis
+06.5NoodlesGroup I
+Quantum satis
+06.6BattersGroup I
+Quantum satis
+06.7Pre‐cooked or processed cerealsGroup I
+Quantum satis
+07.1Bread and rollsGroup IExcept products in 7.1.1 and 7.1.2
+Quantum satis
+07.2Fine bakery waresGroup I
+Quantum satis
+08.2Meat preparations as defined by Regulation (EC) No 853/2004E 415Only preparations in which ingredients have been injected; meat preparations composed of meat parts that have been handled differently: minced, sliced or processed and that are combined together. Except bifteki, soutzoukaki, kebap, gyros and souvlaki
+
+Quantum satis
+08.3.1Non‐heat‐treated processed meatGroup I
+Quantum satis
+08.3.2Heat‐treated processed meatGroup IExcept foie gras, foie gras entier, blocs de foie gras, Libamáj, libamáj egészben, libamáj tömbben
+
+Quantum satis
+08.3.3Casings and coatings and decorations for meatGroup I
+Quantum satis
+09.2Processed fish and fishery products including molluscs and crustaceansGroup I
+Quantum satis
+09.3Fish roeGroup IOnly processed fish roe
+Quantum satis
+10.2Processed eggs and egg productsGroup I
+Quantum satis
+11.2Other sugars and syrupsGroup I
+Quantum satis
+11.4.1Table‐top sweeteners in liquid formE 415
+Quantum satis
+11.4.2Table‐top sweeteners in powder formE 415
+Quantum satis
+12.1.2Salt substitutesGroup I
+Quantum satis
+12.2.2Seasonings and condimentsGroup I
+Quantum satis
+12.3VinegarsGroup I
+Quantum satis
+12.4MustardGroup I
+Quantum satis
+12.5Soups and brothsGroup I
+Quantum satis
+12.6SaucesGroup I
+Quantum satis
+12.7Salads and savoury‐based sandwich spreadsGroup I
+Quantum satis
+12.8Yeast and yeast productsGroup I
+Quantum satis
+12.9Protein products, excluding products covered in category 1.8Group I
+Quantum satis
+13.1.3Processed cereal‐based foods and baby foods for infants and young children as defined by Directive 2006/125/ECE 415Only processed cereal‐based foods and baby foods10,000c
+13.1.3Processed cereal‐based foods and baby foods for infants and young children as defined by Directive 2006/125/ECE 415Only gluten‐free cereal‐based foods20,000c
+13.1.4Other foods for young childrenE 41510,000c
+13.1.5.1Dietary foods for infants for special medical purposes and special formulae for infantsE 415From birth onwards for use in products based on amino acids or peptides for use with patients who have problems with impairment of the gastrointestinal tract, protein mal‐absorption or inborn errors of metabolism1,20013.1.5.2Dietary foods for babies and young children for special medical purposes as defined in Directive 1999/21/ECE 415From birth onwards for use in products based on amino acids or peptides for use with patients who have problems with impairment of the gastrointestinal tract, protein malabsorption or inborn errors of metabolism1,20013.2Dietary foods for special medical purposes defined in Directive 1999/21/EC (excluding products from food category 13.1.5)Group I
+Quantum satis
+13.3Dietary foods for weight control diets intended to replace total daily food intake or an individual meal (the whole or part of the total daily diet)Group I
+Quantum satis
+13.4Foods suitable for people intolerant to gluten as defined by Regulation (EC) No 41/2009Group IIncluding dry pasta
+Quantum satis
+14.1.2Fruit juices as defined by Directive 2001/112/EC and vegetable juicesGroup IOnly vegetable juices
+Quantum satis
+14.1.3Fruit nectars as defined by Directive 2001/112/EC and vegetable nectars and similar productsGroup IOnly vegetable nectars
+Quantum satis
+14.1.4Flavoured drinksGroup I
+Quantum satis
+14.1.5.2OtherGroup IExcluding unflavoured leaf tea; including flavoured instant coffee
+Quantum satis
+14.2.3Cider and perryGroup I
+Quantum satis
+14.2.4Fruit wine and made wineGroup I
+Quantum satis
+14.2.5MeadGroup I
+Quantum satis
+14.2.6Spirit drinks as defined in Regulation (EC) No 110/2008Group IExcept whisky or whiskey
+Quantum satis
+14.2.7.1Aromatised winesGroup I
+Quantum satis
+14.2.7.2Aromatised wine‐based drinksGroup I
+Quantum satis
+14.2.7.3Aromatised wine‐product cocktailsGroup I
+Quantum satis
+14.2.8Other alcoholic drinks including mixtures of alcoholic drinks with non‐alcoholic drinks and spirits with less than 15% of alcoholGroup I
+Quantum satis
+15.1Potato‐, cereal‐, flour‐ or starch‐based snacksGroup I
+Quantum satis
+15.2Processed nutsGroup I
+Quantum satis
+16Desserts excluding products covered in categories 1, 3 and 4Group I
+Quantum satis
+17.1a
+Food supplements supplied in a solid form including capsules and tablets and similar forms, excluding chewable formsGroup IE 410, E 412, E 415, E 417 may not be used to produce dehydrated foods intended to rehydrate on ingestion
+Quantum satis
+17.2a
+Food supplements supplied in a liquid formGroup I
+Quantum satis
+17.3a
+Food supplements supplied in a syrup‐type or chewable formGroup I
+Quantum satis
+18Processed foods not covered by categories 1–17, excluding foods for infants and young childrenGroup I
+Quantum satis
+Open in a separate windowMPL: maximum permitted level.aFCS 17 refers to food supplements as defined in Directive 2002/46/EC of the European Parliament and of the Council excluding food supplements for infants and young children.bMaximum individually or in combination with E 400–404, E 406, E 407, E 410, E 412, E 415 and E 418.cE 410, E 412, E 414, E 415 and E 440 are authorised individually or in combination.Table 2 summarises foods that are permitted to contain xanthan gum (E 415) and the corresponding MPLs as set by Annex II to Regulation (EC) No 1333/2008.According to Annex III, Part 1 of Regulation (EC) No 1333/2008, xanthan gum (E 415) is also authorised as a carrier of food additives in all food additives with a maximum level at QS.In addition, according to Annex III, Part 2, Part 3, Part 4 and Part 5A of Regulation (EC) No 1333/2008, xanthan gum (E 415) is also authorised as a food additive in food additives with a maximum level in all food additives preparations at QS, in food enzymes with a maximum level in the products (final food and beverages) at QS, in food flavourings with a maximum level in all flavourings at QS, and in nutrients with a maximum level in all nutrients at QS.3.3. Exposure data3.3.1. Reported use levels or data on analytical levels of xanthan gum (E 415)Most food additives in the EU are authorised at a specific MPL. However, a food additive may be used at a lower level than the MPL. Therefore, information on actual use levels is required for performing a more realistic exposure assessment, especially for those food additives for which no MPL is set and which are authorised according to QS.In the framework of Regulation (EC) No 1333/2008 on food additives and of Commission Regulation (EU) No 257/2010 regarding the re‐evaluation of approved food additives, EFSA issued a public call10 for occurrence data (usage level and/or concentration data) on xanthan gum (E 415). In response to this public call, updated information on the actual use levels of xanthan gum (E 415) in foods was made available to EFSA by industry. No analytical data on the concentration of xanthan gum (E 415) in foods were made available by the Member States.3.3.1.1.  Summarised data on reported use levels in foods provided by industry Industry provided EFSA with data on use levels (n = 290) of xanthan gum (E 415) in foods for 66 out of the 79 food categories in which xanthan gum (E 415) is authorised. In addition, 15 records referring to 14 FC categories were reported as non‐use (Appendix A).Updated information on the actual use levels of xanthan gum (E 415) in foods was made available to EFSA by Associazione Industriali delle Carni e dei Salumi (ASSICA), BABBI Confectionery Industry (BABBI), an interested party, Dawn Foods Hungary Kft. (DawnFoods), EUROGUM A/S, Fabricante Embutidos del centro SA (España) (EMCESA), Food Drink Europe (FDE), International Chewing Gum Association (ICGA), Rudolf Wild GmbH & Co. KG (WILD) and Specialised Nutrition Europe (SNE) and one private company.A part of use levels (n = 24) were reported on dry matter (in form of powder or other forms to be reconstituted). Those data were converted to values expressed on a whole weight basis using standard dilution factors, and such used for the exposure assessment.Totally, 46 usage levels on xanthan gum (E 415) referred to a niche product. Out of these, 37 usage levels on dairy analogues, edible ices, decorations, coatings and fillings, fine bakery wares, processed meat, soups and broths, sauces, yeast and yeast products, dietary foods for special medical purposes, dietary foods for weight control diets, and desserts were excluded from further analysis since other usage levels were available for these food categories.The Panel noted that some data providers (i.e. an interested party and WILD) are not food industry using gums in its food products but food additive producer. Usage levels reported by food additive producers were not considered at the same level as those provided by food industry. Food additive producers might recommend usage levels to the food industry but the final levels might, ultimately, be different. Therefore, unless food additive producers confirm that these levels are used by food industry, they are not considered in the refined exposure scenario. Data from food additive producers will only be used in the maximum level exposure assessment scenario in case of QS authorisation when no data are available from food industry. In this way, the most complete exposure estimates are calculated.Appendix A provides data on the use levels of xanthan gum (E 415) in foods as reported by industry (food industry and gum producers).3.3.2. Summarised data extracted from the Mintel's Global New Products DatabaseThe Mintel's GNPD is an online database, which monitors product introductions in consumer packaged goods markets worldwide. It contains information of over 2 million food and beverage products of which more than 900,000 are or have been available on the European food market. Mintel started covering EU's food markets in 1996, currently having 20 out of its 28 member countries and Norway presented in the Mintel GNPD.11
+For the purpose of this Scientific Opinion, the Mintel GNPD12 was used for checking the labelling of products containing xanthan gum (E 415) within the EU's food products as the Mintel GNPD shows the compulsory ingredient information presented in the labelling of products.According to Mintel, xanthan gum (E 415) is labelled on food products (n = 22,133) mainly of Bakery, Dairy, Sauces & Seasonings, Processed Fish, Meat & Egg Products, Meals & Meal Centers, Desserts & Ice cream and Savoury spreads.Appendix B presents the percentage of the food products labelled with xanthan gum (E 415) between 2011 and 2016, out of the total number of food products per food subcategories according to the Mintel GNPD food classification. The overall percentage of food products labelled with xanthan gum (E 415), considering the food sub‐categories with at least one food to which xanthan gum (E 415) was added according to the label, was 4.6%.3.3.3. Food consumption data used for exposure assessment3.3.3.1.  EFSA Comprehensive European Food Consumption Database Since 2010, the EFSA Comprehensive European Food Consumption Database (Comprehensive Database) has been populated with national data on food consumption at a detailed level. Competent authorities in the European countries provide EFSA with data on the level of food consumption by the individual consumer from the most recent national dietary survey in their country (cf. Guidance of EFSA on the ‘Use of the EFSA Comprehensive European Food Consumption Database in Exposure Assessment’ (EFSA, 2011b). New consumption surveys recently13 added in the Comprehensive database were also taken into account in this assessment.7
+The food consumption data gathered by EFSA were collected by different methodologies and thus direct country‐to‐country comparisons should be interpreted with caution. Depending on the food category and the level of detail used for exposure calculations, uncertainties could be introduced owing to possible subjects’ underreporting and/or misreporting of the consumption amounts. Nevertheless, the EFSA Comprehensive Database represents the best available source of food consumption data across Europe at present.Food consumption data from the following population groups: infants, toddlers, children, adolescents, adults and the elderly were used for the exposure assessment. For the present assessment, food consumption data were available from 33 different dietary surveys carried out in 19 European countries (Table 3).Table 3Population groups considered for the exposure estimates of xanthan gum (E 415)PopulationAge rangeCountries with food consumption surveys covering more than one dayInfantsFrom 12 weeks up to and including 11 months of ageBulgaria, Denmark, Finland, Germany, Italy, UKToddlersFrom 12 months up to and including 35 months of ageBelgium, Bulgaria, Denmark, Finland, Germany, Italy, Netherlands, Spain, UKChildrena
+From 36 months up to and including 9 years of ageAustria, Belgium, Bulgaria, Czech Republic, Denmark, Finland, France, Germany, Greece, Italy, Latvia, Netherlands, Spain, Sweden, UKAdolescentsFrom 10 years up to and including 17 years of ageAustria, Belgium, Cyprus, Czech Republic, Denmark, Finland, France, Germany, Italy, Latvia, Spain, Sweden, UKAdultsFrom 18 years up to and including 64 years of ageAustria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Netherlands, Romania, Spain, Sweden, UKThe elderlya
+From 65 years of age and olderAustria, Belgium, Denmark, Finland, France, Germany, Hungary, Ireland, Italy, Romania, Sweden, UKOpen in a separate windowaThe terms ‘children’ and ‘the elderly’ correspond, respectively, to ‘other children’ and the merge of ‘elderly’ and ‘very elderly’ in the Guidance of EFSA on the ‘Use of the EFSA Comprehensive European Food Consumption Database in Exposure Assessment’ (EFSA, 2011a).Consumption records were codified according to the FoodEx classification system (EFSA, 2011b). Nomenclature from the FoodEx classification system has been linked to the Food Classification System (FCS) as presented in Annex II of Regulation (EC) No 1333/2008, part D, to perform exposure estimates. In practice, FoodEx food codes were matched to the FCS food categories.3.3.3.2.  Food categories selected for the exposure assessment of xanthan gum (E 415) The food categories in which the use of xanthan gum (E 415) is authorised were selected from the nomenclature of the EFSA Comprehensive Database (FoodEx classification system), at the most detailed level possible (up to FoodEx Level 4) (EFSA, 2011b).Some food categories or their restrictions/exceptions are not referenced in the EFSA Comprehensive Database and could therefore not be taken into account in the present estimate. This may have resulted in an underestimation of the exposure. This was the case for 17 food categories (Appendix C). The food categories which were not taken into account are described below (in ascending order of the FCS codes):
+01.6.3. Other creams;01.7.6. Cheese products (excluding products falling in category 16);02.3 Vegetable oil pan spray;04.2.3 Canned or bottled fruit and vegetables, only chestnuts in liquid;06.4.2. Dry pasta: only gluten free and/or pasta intended for hypoproteic diets in accordance with Directive 2009/39/EC;06.4.4. Potato gnocchi: except fresh refrigerated potato gnocchi;06.6. Batters;06.7. Pre‐cooked or processed cereals;08.2. Meat preparations as defined by Regulation (EC) No 853/2004, only preparations in which ingredients have been injected; meat preparations composed of meat parts that have been handled differently: minced, sliced or processed and that are combined together. Except bifteki, soutzoukaki, kebap, gyros and souvlakia;
+08.3.3. Casings and coatings and decorations for meat;12.1.2. Salt substitutes;13.1.3 Processed cereal‐based foods and baby foods for infants and young children, only gluten‐free cereal‐based foods;14.1.3. Fruit nectars, only vegetable nectars;14.2.4. Fruit wine and made wine;14.2.5. Mead;14.2.7.2. Aromatised wine‐based drinks;14.2.7.3. Aromatised wine‐product cocktails.
+For the following food categories, the restrictions/exceptions which apply to the use of xanthan gum (E 415) could not be taken into account, and therefore the whole food category was considered in the exposure assessment. This applies to five food categories (Appendix C). This may have resulted in an overestimation of the exposure:
+05.1. Cocoa and cocoa products, only energy‐reduced or with no added sugar;07.1. Bread and rolls, except products in 7.1.1 and 7.1.2;08.3.2 Heat‐treated processed meat, except foie gras, foie gras entier, blocs de foie gras, Libamáj, libamáj egészben, libamáj tömbben;09.3 Fish roe, only processed fish roe;14.1.5.2 Other, excluding unflavoured leaf tea; including flavoured instant coffee.
+In addition, for the following three food categories: FC 17.1, FC 17.2 and FC 17.3 Food supplements, in solid, liquid and syrup‐type or chewable form, which were used only in the specific exposure scenario including food supplements, the restrictions which apply to the use of xanthan gum (E 415) could not be taken into account, and therefore the whole food category (FC 17) was considered in the exposure assessment.Considering that the food category 18 (Processed foods not covered by categories 1–17, excluding foods for infants and young children) is extremely unspecific (e.g. composite foods), processed foods, prepared or composite dishes belonging to the food category 18 were reclassified under food categories in accordance to their main component. Therefore, food category 18 is not taken into account as contributor to the total exposure estimates.Use levels reported for FC 13.2, 13.3 and 13.4 were not considered in exposure assessment (as explained in Section 3.4.1).For the refined scenario, 28 additional food categories were not taken into account because no (adequate) concentration data were provided for these food categories to EFSA (Appendix C). For the remaining food categories, the refinements considering the restrictions/exceptions as set in Annex II to Regulation No 1333/2008 were applied.Overall, for the regulatory maximum level exposure scenario, 47 food categories were included, while for the refined scenarios, 25 food categories were included in the present exposure assessment to xanthan gum (E 415) (Appendix C).3.4. Exposure estimate3.4.1. Exposure to xanthan gum (E 415) from its use as a food additiveThe Panel estimated chronic exposure to xanthan gum (E 415) for the following population groups: infants; toddlers, children, adolescents, adults and the elderly. Dietary exposure to xanthan gum (E 415) was calculated by multiplying xanthan gum (E 415) concentrations for each food category (Appendix C) with their respective consumption amount per kilogram of body weight for each individual in the Comprehensive Database. The exposure per food category was subsequently added to derive an individual total exposure per day. These exposure estimates were averaged over the number of survey days, resulting in an individual average exposure per day for the survey period. Dietary surveys with only 1 day per subject were excluded as they are considered as not adequate to assess repeated exposure.This was carried out for all individuals per survey and per population group, resulting in distributions of individual exposure per survey and population group (Table 3). On the basis of these distributions, the mean and 95th percentile of exposure were calculated per survey and per population group. The 95th percentile of exposure was only calculated for those population groups where the sample size was sufficiently large to allow this calculation (EFSA, 2011a). Therefore, in the present assessment, the 95th percentile of exposure for infants from Italy and for toddlers from Belgium, Italy and Spain were not included.Exposure assessment to xanthan gum (E 415) was carried out by the ANS Panel based on (1) MPLs as set down in the EU legislation and maximum reported use levels provided to EFSA (defined as the regulatory maximum level exposure assessment scenario) and (2) reported use levels (defined as the refined exposure assessment scenario). These two scenarios are discussed in detail below. Exposure scenarios can consider only food categories for which data were available to the Panel.These scenarios do not consider the consumption of food supplements (FC 17.1, 17.2 and FC 17.3) which is covered in an additional scenario detailed below (food supplements consumers only scenario), neither foods for special medical purposes (FSMP). FSMP consumed may be very diverse; they cannot be considered because of very limited information on consumption. Eating occasions belonging to the food categories 13.2, 13.3, 13.4 were therefore reclassified under food categories in accordance to their main component.As xanthan gum (E 415) is also authorised in the food categories 13.1.5.1 and 13.1.5.2, a regulatory maximum level and refined exposure assessment scenarios taking into account these food categories were performed to estimate the exposure of infants and toddlers who may eat and drink these foods for FSMP. The consumption of food for FSMP is not reported in the EFSA Comprehensive database. To consider the exposure to food additives via consumption of these foods, the Panel assumes that the amount consumed of FSMP in infants and toddlers resembles that of comparable foods in infants and toddlers from the general population. Thus, the consumption of FSMP categorised as food category 13.1.5 is assumed to equal that of formulae and food products categorised as food categories 13.1.1, 13.1.2, 13.1.3 and 13.1.4.A possible additional exposure from the use of xanthan gum (E 415) as a carrier of food additives, as a food additive in food additives, food enzymes, flavourings and nutrients in accordance with Annex III to Regulation (EC) No 1333/2008 (Part 1, Part 2, Part 3, Part 4 and Part 5A) was not considered in any of the exposure assessment scenarios, due to the absence of information on use levels.3.4.1.1.  Regulatory maximum level exposure assessment scenario The regulatory maximum level exposure assessment scenario is based on the MPLs as set in Annex II to Regulation (EC) No 1333/2008 and listed in Table 2. As xanthan gum (E 415) is authorised according to QS in majority of food categories, the regulatory maximum level exposure assessment scenario was for those food categories estimated based on the maximum reported use levels provided by industry (food industry and food additive producers), excluding exposure via food supplements and FSMP, as described in the EFSA Conceptual framework (EFSA ANS Panel, 2014). The MPLs and maximum reported use levels as used in this exposure scenario are listed in Appendix C.The Panel considers the exposure estimates derived following this scenario as the most conservative as it is assumed that the population will be exposed to xanthan gum (E 415) present in food at the MPL/maximum reported use levels over a longer period of time, and assuming that xanthan gum (E 415) is only used in the food categories for which data were submitted by industry.One additional regulatory maximum level exposure assessment scenario for infants and toddlers considering only consumers of FSMP (considering food categories 13.1.5.1 and 13.1.5.2) was also performed.3.4.1.2.  Refined exposure assessment scenario The refined exposure assessment scenario of xanthan gum (E 415) was based on use levels reported by food industry. This exposure scenario could consider only food categories for which the above data were available to the Panel.Appendix C summarises the concentration levels of xanthan gum (E 415) used in the refined exposure assessment scenario. Based on the available data set, the Panel calculated two refined exposure estimates based on different model populations excluding exposure via food supplements and via FSMP, and two additional scenarios based on consumers only of food supplements and FSMP.
+The brand‐loyal consumer scenario: It was assumed that a consumer is exposed long‐term to xanthan gum (E 415) present at the maximum reported use level for one food category. This exposure estimate is calculated as follows: 
+–Combining food consumption with the maximum of the reported use levels for the main contributing food category at the individual level.–Using the mean of the typical reported use levels for the remaining food categories.The non‐brand‐loyal consumer scenario: It was assumed that a consumer is exposed long‐term to xanthan gum (E 415) present at the mean reported use levels in food. This exposure estimate is calculated using the mean of the typical reported use levels for all food categories.
+
+Specific scenarios:
+
+Food supplements consumers only scenario: Exposure via food supplements was addressed in an additional exposure scenario, because the exposure via this source may deviate largely from the exposure via food and the number of food supplement consumers may be low. Due to these two factors, the potentially higher exposure to xanthan gum (E 415) in food supplement users may not become evident in a whole population approach. This scenario was estimated as follows: 
+–Consumers only of food supplements were assumed to be exposed to xanthan gum (E 415) present at the maximum reported use level on a daily basis via consumption of food supplements. For the remaining food categories, the mean of the typical reported use levels was used.–As food category 17 does not include food supplements for infants and toddlers (Regulation (EC) No 1333/2008), exposure to xanthan gum (E 415) from food supplements was not estimated for these two population groups.
+Foods for special medical purposes consumers only scenario: This scenario was estimated as follows: 
+–Consumers only of FSMP were assumed to be exposed to xanthan gum (E 415) present at the maximum reported use level on a daily basis via consumption of food categories 13.1.5.1 and 13.1.5.2 (infant formulae, follow‐on formulas and processed cereal‐based foods and baby foods for infants and young children as defined by Commission Directive 2006/125/EC). For the remaining food categories, the mean of the typical reported use levels was used.
+Appendix C summarises the concentration levels of xanthan gum (E 415) used in the specific exposure assessment scenarios.3.4.1.3.  Dietary exposure to xanthan gum (E 415) Table 4 summarises the estimated exposure to xanthan gum (E 415) from its use as food additive in six population groups (Table 3) according to the different exposure scenarios. Detailed results per population group and survey are presented in Appendix D.Table 4Summary of dietary exposure to xanthan gum (E 415) from its use as food additive in the regulatory maximum level exposure assessment scenario and in the refined exposure scenarios, in six population groups (minimum–maximum across the dietary surveys in mg/kg bw per day)Infants (12 weeks–11 months)Toddlers (12–35 months)Children (3–9 years)Adolescents (10–17 years)Adults (18–64 years)The elderly (≥ 65 years)
+Regulatory maximum level exposure assessment scenario
+Mean7.3–46732–33347–24826–15829–10528–10395th percentile30–89789–502103–51152–31058–22257–223
+Refined estimated exposure assessment scenario
+
+Brand‐loyal scenario
+Mean1.8–5616–18026–13513–9316–6616–6695th percentile6.2–15157–24971–30830–21333–15428–150
+Non‐brand‐loyal scenario
+Mean0.1–8.33.5–404.6–302.4–184.1–124.2–1395th percentile0.4–2211–488.8–644.7–378.2–277.7–26Open in a separate windowIn the regulatory maximum level exposure assessment scenario, mean exposure to xanthan gum (E 415) from its use as a food additive ranged from 7.3 mg/kg bw per day in infants to 467 mg/kg bw per day in infants. The 95th percentile of exposure to xanthan gum (E 415) ranged from 30 mg/kg bw per day in infants to 897 mg/kg bw per day in infants.In the refined estimated exposure scenario, in the brand‐loyal scenario, mean exposure to xanthan gum (E 415) from its use as a food additive ranged from 1.8 mg/kg bw per day in infants to 180 mg/kg bw per day in toddlers. The high exposure to xanthan gum (E 415) ranged from 6.2 mg/kg bw per day in infants to 308 mg/kg bw per day in children. In the non‐brand‐loyal scenario, mean exposure to xanthan gum (E 415) from its use as a food additive ranged from 0.1 mg/kg bw per day in infants to 40 mg/kg bw per day in toddlers. The 95th percentile of exposure to xanthan gum (E 415) ranged from 0.4 mg/kg bw per day in infants to 64 mg/kg bw per day in children.From the regulatory maximum level exposure assessment scenario, the main contributing food categories to the total mean exposure estimates for infants were foods for infants and young children and processed fruit and vegetables, and for toddlers, the main contributors were fine bakery wares, bread and rolls and foods for infants and young children. For children, adolescents, adults and the elderly the main contributing food categories were fine bakery wares, bread and rolls, soups and broths and sauces.The main contributing food categories from the refined estimated exposure scenario, in the brand‐loyal scenario were bread and rolls, fine bakery wares, soups and broths and sauces for all population groups. In the non‐brand‐loyal scenario, the main contributing food categories were bread and rolls, fine bakery wares and soups and broths for all population groups.The main food categories contributing to the exposure to xanthan gum (E 415) are presented in Appendix E.In the food supplements consumers only exposure scenario, mean exposure to xanthan gum (E 415) from its use as a food additive ranged for children from 5.6 to 29 mg/kg bw per day and from 6.5 to 10 mg/kg bw per day for adults. The 95th percentile of exposure to xanthan gum (E 415) ranged for children from 10 to 38 mg/kg bw per day and for adults from 13 to 21 mg/kg bw per day.In the regulatory maximum level exposure scenario taking into account only the consumers of the FSMP, mean exposure to xanthan gum (E 415) from its use as a food additive ranged for infants between 46 and 73 mg/kg bw per day and between 15 and 45 mg/kg bw per day for toddlers. The 95th percentile of exposure to xanthan gum (E 415) ranged for infants between 104 and 185 mg/kg bw per day and for toddlers between 54 and 89 mg/kg bw per day. In the foods for special medical purposes consumers only scenario, mean exposure to xanthan gum (E 415) from its use as a food additive ranged for infants between 17 and 40 mg/kg bw per day and between 9.2 and 41 mg/kg bw per day for toddlers. The 95th percentile of exposure to xanthan gum (E 415) ranged for infants between 40 and 115 mg/kg bw per day and for toddlers between 34 and 54 mg/kg bw per day. The main contributing food category to the mean exposure to xanthan gum (E 415) from its use as a food additive were foods for infants and young children contributing up to 99.8% and up to 92% in infants and toddlers, respectively.3.4.1.4.  Uncertainty analysis Uncertainties in the exposure assessment of xanthan gum (E 415) have been discussed above. In accordance with the guidance provided in the EFSA opinion related to uncertainties in dietary exposure assessment (EFSA, 2007), the following sources of uncertainties have been considered and summarised in Table 5.Table 5Qualitative evaluation of influence of uncertainties on the dietary exposure estimate, excluding the food supplements consumers only scenario and foods for special medical purposes consumers only scenario
+Sources of uncertaintiesDirectiona
+Consumption data: different methodologies/representativeness/underreporting/misreporting/no portion size standard+/–Use of data from food consumption survey of a few days to estimate long‐term (chronic) exposure for high percentiles (95th percentile)+Correspondence of reported use levels and analytical data to the food items in the EFSA Comprehensive Food Consumption Database: uncertainties to which types of food the levels refer to+/–Uncertainty in possible national differences in use levels of food categories+/–
+Concentration data:
+
+levels considered applicable for all items within the entire food categoryunclear representativeness of foods on the EU market
+
+
++
++/–
+The 25 food categories which were taken into account in the refined exposure assessment scenario out of all authorised food categories (n = 79), corresponded to 14–93% of the amount (g of foods by body weight) of food consumption documented in the EFSA Consumption Database−Food categories selected for the exposure assessment: exclusion of food categories due to missing FoodEx linkage (n = 17/79 food categories)–Food categories selected for the exposure assessment: inclusion of food categories without considering the restriction/exception (n = 5/79 food categories)+Food categories included in the exposure assessment: no additional data available for authorised food categories (n = 28/79 food categories)–
+Regulatory maximum level exposure assessment scenario:
+
+exposure calculations based on the MPLs and maximum reported use levels (reported use from industry) assuming xanthan gum (E 415) is not used in the food categories for which no use levels were submittedfoods which may contain xanthan gum (E 415) according to Annex III to Regulation (EC) No 1333/2008 not taken into accountfood categories of food supplements not considered in the exposure assessment
+
+
++
+–
+–
+
+Refined exposure assessment scenarios:
+
+exposure calculations based on the maximum or mean levels (reported use from industry)foods which may contain xanthan gum (E 415) according to Annex III to Regulation (EC) No 1333/2008 not taken into accountfood categories of food supplements not considered in the exposure assessment
+
+
++/–
+–
+–
+Open in a separate windowa+, uncertainty with potential to cause overestimation of exposure; –, uncertainty with potential to cause underestimation of exposure.Overall, the Panel considered that the uncertainties identified would, in general, result in an overestimation of the exposure to xanthan gum (E 415) as a food additive in European countries considered in the EFSA European database in all exposure scenarios, assuming that the food additive is not used in the food categories for which no use levels were reported.This assumption of non‐use was supported by the observation that xanthan gum (E 415) is authorised as a Group I food additive in majority of food categories (Table 2). Since, all these food categories correspond to the general Group I food additives authorisation, xanthan gum (E 415) may not necessarily be used in some of these food categories, and may thus explain why reported use levels adequate for the refined exposure scenario of xanthan gum (E 415) were only available for 25 food categories. The Panel noted that the information from the Mintel GNPD supported the observation that due to its Group I authorisation, xanthan gum (E 415) may not be used in all food categories in which it is authorised (Section 3.3.2). For all 25 food categories considered for the refined exposure assessment, the products labelled with xanthan gum (E 415) were reported also in the Mintel GNPD. However, the Panel noted that given the information from the Mintel's GNPD, it may be assumed that xanthan gum (E 415) is used in food categories for which no data have been provided by food industry. For some of the food categories authorised not taken into account in the refined exposure assessment (because no data from food industry were provided), a use according to the Mintel GNPD was recorded, e.g. breakfast cereals, fish products. Therefore, this would lead to underestimation in exposure.Regarding food supplements consumers only scenario and foods for special medical purposes consumers only scenario, the Panel considered that the uncertainties would result in an overestimation of the exposure to xanthan gum (E 415) as a food additive, given that the calculations were based on consumers only of food supplements and FSMP and assuming a long term brand loyalty consumption of these food products on a daily basis.In none of the exposure scenarios, the use of xanthan gum (E 415) according to Annex III to Regulation No 1333/2008 was considered. Neglecting this source of exposure may have resulted in an underestimation of exposure to xanthan gum (E 415) in all scenarios.3.4.2. Exposure via other sourcesExposure to xanthan gum due to the following uses were not considered in this opinion.
+Xanthan gum as an ingredient in food supplements and other foods
+In literature, the use of xanthan gum as an ingredient of food for patients with dysphagia is described (Rofes et al., 2014).
+Pharmaceutical use
+Xanthan gum is used in pharmaceutical products mainly as technological excipient, e.g. as suspending or emulsifying agent and thickener of suspensions (Gruenwald et al., 2007; Moscovici, 2015).From data provided by the European Medicines Agency (EMA) information about the current medicinal usage of xanthan gum and the usage as excipient in medicinal products was retrieved (Letter from EMA to EFSA, personal communication, May 2015).For xanthan gum as an active ingredient, no authorised medicinal products exist within the EU.Contraindications, warnings and undesirable effects for xanthan as excipient are not known in dosages used.3.5. Biological and Toxicological data3.5.1. Absorption, distribution, metabolism and excretionThere is evidence that certain high molecular weight dietary polysaccharides, such as gums, could be partially broken down in the human large intestine. In addition to intermediate metabolites such as lactate, acrylate or fumarate, the main end products of this colonic anaerobic digestive process are short‐chain fatty acids (SCFAs) such as acetic, propionic and butyric acids, which are absorbed from the colon (Cummings and Englyst, 1987).
+In vitro studies
+In the study of Salyers et al. (1977), 188 strains from 11 species of bacteroides found in the human colon were surveyed for their ability to ferment mucins and plant polysaccharides including gums. Many of the bacteroides strains tested were able to ferment a variety of plant polysaccharides, including amylose, dextran, pectin and gums. The ability to utilise mucins and plant polysaccharides varied considerably among the bacteroides species tested. None of the bacteroides strains tested fermented xanthan gum.Fermentations of 10 polysaccharides including xanthan gum, by species of the family Enterobacteriaceae (Klebsielleae and other facultative gram‐negative bacilli) were examined by Ochuba and Von Riesen (1980). Xanthan gum was not fermented by any of the species tested.Adiotomre et al. (1990) investigated the effects of dietary fibres, including gums, on cecal fermentations by using fresh human microbiota. Evolution of SCFAs and water‐holding capacity after fermentation were also measured. Among other gums, xanthan gum (Kelco Inc.) yielded a large amount of total SCFAs (63.4 vs 15.5 mmol/L for controls). The major SCFAs produced were acetic, propionic and butyric acids, with smaller amounts of isobutyric, valeric and isovaleric acids. By contrast, the amount of water held by 1 g of the fermented residue was low in case of xanthan gum (2.15 vs 0.91 g/g for controls).A human study on xanthan gum fermentation was carried by Daly et al. (1993). Eighteen healthy male men (19–34 years old) received xanthan gum (15,000 mg/day) for 10 days. The study consisted of two 10‐day periods separated by a 3‐day rest period. The first 10 days were the control period for the xanthan gum treatment period. At the end of the control and test periods, fresh faecal homogenate from each volunteer was anaerobically incubated with xanthan gum and control solutions in order to assess the ability of the bacteria to break down the gum in vitro. The feeding of xanthan gum resulted in a significantly increased ability of the faecal bacteria to ferment xanthan gum (p < 0.05) in vitro, as indicated by the increased faecal production of SCFAs and hydrogen in faeces from xanthan gum‐treated individuals.In another study, xanthan gum was fermented using dog faeces as the source of inoculum (Sunvold et al., 1995a). Organic matter disappearance and SCFAs production were measured after 6, 12 or 24 h of incubation. Whatever the duration of incubation was, the organic matter disappearance, and acetate, propionate and butyrate productions were lower in case of xanthan gum than for other gums like acacia gum and particularly locust bean gum or guar gum. Identical conclusions were drawn from a similar study using the same substrates fermented by cat faecal microbiota (Sunvold et al., 1995b).
+In vivo studies
+
+In vivo studies on caloric availability and digestibility of xanthan gum (expressed as total intake of test material minus increase in faecal weight/total intake of test material) were performed in male weanling albino rats (n = 5 per group; not further specified) (Booth et al., 1963). The rats were fed for 7 days on supplement (0.4 g xanthan gum/rat per day) and then on basal diet for 2 days. Xanthan gum was found to be non‐digestible since practically all the gum fed during the 7‐day treatment period could be accounted for in the faeces.In the report of Gumbmann (1964), 14C‐labelled xanthan gum was prepared by fermentation of uniformly labelled 14C‐glucose with a culture of Xanthomonas campestris. Acetate and pyruvate, however, accounted for 9.8% of the label in the tested gum, indicating that also radiolabelled hexoses were used. Three rats were given a diet containing 2% of radiolabelled xanthan gum (50 mg total). During 100 h, a maximum of 15% of the label was metabolised to carbon dioxide. The distribution of 14C in tissues was investigated in two rats, no accumulation in tissues was reported and low levels of radioactivity were found in the tissues examined, the highest being in the liver followed by the kidneys and the muscle. Faecal excretion of radioactive materials was investigated by paper chromatography on faecal extracts from one rat. The unchanged or only slightly modified polysaccharide was responsible for about 98% of the faecal radioactivity. Besides acetate, none of the constituents of the polysaccharide accumulated in faeces to any significant extent and could be considered as a major breakdown product. Moreover, various in vitro tests showed that the acetate content was labile at gastric pH and indicated that the action of faecal microorganisms would cause the initial breakdown of the polysaccharide in vivo.Edwards and Eastwood (1995) investigated the caecal and faecal SCFAs and stool output in rats fed on diets containing non‐starch polysaccharides, including xanthan gum. The basal diet of male Wistar rats (n = 7) was supplemented or not with 50 g/kg of xanthan gum for 28 days. Faeces were then collected over 2 days and caecal contents obtained post‐mortem. Caecal and faecal wet and dry weights and SCFA were measured. Xanthan gum had no significant effect on amount or concentration of caecal SCFA. However, xanthan gum increased significantly the molar proportion of acetic and propionic acids in faeces and the faecal water.Overall, the in vitro degradation and the in vivo digestibility of xanthan gum have been investigated in animals and humans. These studies demonstrated that xanthan gum would not be absorbed intact and would not be metabolised by enzymes present in the gastrointestinal tract. However, it would be partially fermented during its passage through the large intestine by the action of the intestinal tract microbiota. The rate of breakdown in the gastrointestinal tract in humans is unknown. However, it is expected that the limited extent of fermentation of xanthan gum would lead to the production of fermentation products such as SCFAs. Based on the available knowledge on the role of SCFA as end products of the fermentation of dietary fibres by the anaerobic intestinal microbiota (Topping and Clifton, 2001; Den Besten et al., 2013), the Panel considered that their formation as fermentation products from xanthan gum does not raise a safety concern.3.5.2. Acute toxicityNo acute oral toxicity were observed in mice at 1 g/kg bw (Booth et al., 1963). JECFA reported oral LD50 values in rats and dogs exceed 5 g/kg bw (Jackson et al., 1968a,b; as cited by JECFA (1987b).3.5.3. Short‐term and subchronic toxicityThe short‐term and subchronic studies listed below are cited in reviews (JECFA, 1975, 1987b; SCF 1978, 1992; TemaNord, 2002). Only one new study on short‐term or subchronic toxicity study with rats was found in literature.Xanthan gum was given to albino rats in the diet for 91 days (5 males/group, no information about strain). Diets containing 3% or 6% (equivalent to 2,430 or 4,860 mg/kg bw per day) did not induce a reduction in body weights. When dietary levels of 7.5% and 10% (equivalent to 6,075 and 8,100 mg/kg bw per day) were fed, reduced feed intakes, decreased growth rates and abnormal faeces were observed. In the rats receiving 7.5% and 10% xanthan gum, no significant alteration in haemoglobin, red and white cell counts or organ weights were seen. The histological examination of the tissues of rats of the highest dose group revealed no pathological effects (Booth et al., 1963). A paired feeding experiment was made with rats (no further information available) fed a diet containing 6,075 mg/kg bw per day xanthan gum and comparable rats restricted to the same intake of basal diet. After 18 days, weight gains were identical in the two groups, indicating the absence of any growth inhibiting factor in xanthan gum (Booth et al., 1963).In the study by Hagiwara et al. (2004), xanthan gum (SAN ACE® NXG‐S) was administered to male and female F344 rats at dietary levels of 0%, 0.5%, 1.5% and 5% (equal to 0, 308, 936 and 3,301 mg/kg bw per day for males and 0, 326, 1,014 and 3,457 mg/kg bw per day for females) for 90 days (no information about number of animals per group, only abstract in English available). The treatment with xanthan gum had no influence on clinical signs, survival, feed and water consumption, of findings of urinalysis and ophthalmology. A statistically significant decrease in total serum cholesterol was observed in males and females at the highest dose. No differences of toxicological significance were observed in haematology, blood biochemistry, gross pathology and histopathology. In males of the highest dose group, a tendency of decreased body weight and feed efficiency was reported, and both sexes of the 5% group showed increased relative caecum weights. According to the authors, these effects were not considered of toxicological significance and were explained by the low caloric value of xanthan gum and the possibility of a physiological adaption. The NOAEL in this study was concluded to be 5% (reported by the authors as equal to 3,301 mg/kg bw per day for males and 3,457 mg/kg bw per day for females).Xanthan gum was tested in young adult Beagle dogs (2 males and 2 females per group). Xanthan gum was fed at levels of 1,000 and 2,000 mg/kg bw per day for 12 weeks. All treated dogs lost weight during the trial period. Weight loss was greater in the high‐dose group (20% compared to 4% in the controls, no information on statistical significance). At the highest treatment group (2,000 mg/kg bw per day), the red blood cell count and haemoglobin concentration values were lowered as compared to the untreated control. Serum cholesterol was also reduced in the highest treatment group (2,000 mg/kg bw per day) compared to the untreated control at week 12 in both males and females. Liver and kidney function tests did not show any disturbance in the function of these organs. The histopathological examination revealed no lesions related to the ingestion of xanthan gum. No signs of inflammation were detected in the intestine despite persistent diarrhoea in the high dose group and transient diarrhoea in some animals of the low dose group. The intestines of both dose groups were enlarged and foul smelling (Robbins et al., 1964).Xanthan gum was given to Beagle dogs (3 males and 3 females/group) in diet (0, 250 and 500 mg/kg bw per day) for 12 weeks. The animals of the high‐dose group had softer stools than normal. In the high‐dose group, growth was slightly reduced in males and serum cholesterol was lowered in both sexes. No other adverse effects were observed and the NOAEL of xanthan gum in this test was reported to be 250 mg/kg bw per day (USDA, 1964, as cited by JECFA, 1987b).Overall, from short‐term and subchronic toxicity studies no toxicological relevant changes were reported apart from a decrease in red blood cell count and haemoglobin concentration in dogs receiving 2,000 mg/kg bw per day for 12 weeks. The Panel noted that decreased total serum cholesterol was frequently reported.3.5.4. GenotoxicityNo specific data on genotoxicity were presented in the evaluations from JECFA (1975, 1987b) and the SCF (1978, 1992). The literature search identified only two studies.
+In vitro
+In the study by Ishizaki and Ueno (1987), xanthan gum was tested in a ‘spore rec‐assay’ with Bacillus subtilis strains H17 Rec+ and M45 Rec‐ and did not show DNA‐damaging activity when tested at 0.5 mg/disc both in the absence and in presence of S9 metabolism. However, the Panel noted that this test is not validated and is no longer employed in genotoxicity testing.
+In silico
+The evaluation of structural alerts for genotoxicity in the basic chemical structure composed by the four monosaccharide components of xanthan gum (as displayed in Figure 2) with Toxtree (v. 2.6.13) did not highlight alerts for in vitro genotoxicity (profilers ‘Alerts for in vitro mutagenicity by ISS’), for DNA binding (profilers ‘DNA binding Alerts’) and for genotoxic and non‐genotoxic carcinogenicity (profilers ‘Carcinogenicity (genotoxic and nongenotoxic) and mutagenicity rulebase by ISS’).One alert was detected by the profiler ‘Structure Alerts for the in vivo micronucleus assay in rodents’) namely ‘H‐acceptor‐path3‐H‐acceptor’. The ‘H‐acceptor‐path3‐H‐acceptor’ refers to the possibility of non‐covalent binding to DNA or proteins as a result of the presence of two bonded atoms connecting two hydrogen bond acceptors. However, the Panel noted that the positive predictivity of such alerts for in vivo genotoxicity is quite low, ranging from ‘none’ (34%) to 63% depending on the database, with a high incidence of false positives (Benigni et al., 2010, 2012).Overall, taking into account the information on structure–activity relationships and considering that:
+xanthan gum has a molecular weight greater than 1 × 106 Da, i.e. far above the threshold for absorption,according to ADME data, it is not degraded in the intestine and is slightly fermented to non‐hazardous short chain fatty acids by the gut microbiota,
+the Panel concluded that xanthan gum (E 415) does not give rise to concerns for genotoxicity.3.5.5. Chronic toxicity and carcinogenicityFour groups of 30 male and 30 female weanling Charles River CD rats received xanthan gum at levels in the basal diet to provide daily doses of 0, 250, 500 and 1,000 mg/kg bw per day for 104 weeks (Woodard et al., 1973). The rats were weighed weekly, and feed intake was measured at that time. Complete haematology, blood glucose, prothrombin time and serum glutamic‐pyruvic transaminase were determined for five male and five female rats from control and 1,000 mg/kg bw per day groups throughout the study and for five male and five female rats from each dose at termination of the study. Gross necropsies were performed for all rats that survived the experiment as well as for any found dead or sacrificed in moribund condition. Treated and control groups showed comparable survival with most deaths occurring after 78 weeks. Survival after 104 weeks was 48%, 52%, 63% and 52% for control, 250, 500 and 1,000 mg/kg bw per day groups, respectively. Body weight gain showed no significant differences among the groups. Haematologic and biochemical values remained normal throughout the study except at termination when haemoglobin and haematocrit were lowered for two out of five males in the 1,000 mg/kg bw per day group. Soft stools were noted more frequently for the high and middle level males than for the control and low‐group males. However, differences in numbers of rats for which such observations were made, were not significantly different. Differences in numbers of animals for which multiple observations of soft stool were recorded were also not significantly different. The differences among the groups with respect to the numbers of neoplasms observed were not significant. The Panel noted that no adverse effects were reported in this study up to the highest dose tested (1,000 mg/kg bw per day).Groups of four male and four female beagle dogs, 4–8 months of age were fed xanthan gum in the daily basal diet at doses calculated to yield 0, 250, 500 and 1,000 mg/kg bw per day, 7 days per week for 107 weeks (Woodard et al., 1973). Criteria evaluated were survival, body weights, eye examinations, haematology, electrocardiograms, heart rates, blood pressures and neurological examinations. Clinical chemistry determinations consisted of blood urea nitrogen, serum alkaline phosphatase, serum glutamic, oxaloacetic and ‐pyruvic transaminases, prothrombin time and serum calcium. Careful examinations of the stool were made with regard to colour, weight, consistency and pH. Urinary excretions were measured, and qualitative urinalyses were determined. All dogs were sacrificed after 107 weeks and subjected to gross necropsy. Body weights, haematology, electrocardiograms, blood pressures, behaviour, gross and histopathological examination of tissues, and absolute and relative organ weights were comparable for control and treated dogs. Serum alkaline phosphatase, prothrombin time, blood glucose, and serum glutamic‐oxaloacetic and ‐pyruvic transaminases showed no changes. Blood urea nitrogen was elevated at several test intervals for one dog at the 1,000 mg/kg bw per day male group. Stools from treated animals showed a dose‐related increase in weight, reflecting according to the author, the known capacity of xanthan gum to imbibe water, were more dense and darker than from control animals. The Panel noted that no adverse effects were reported in this study up to the highest dose tested (1,000 mg/kg bw per day).Overall, no adverse effects were reported in chronic studies in rats and dogs up to 1,000 mg/kg bw per day, the highest dose tested. In rats, the compound was not carcinogenic.3.5.6. Reproductive and developmental toxicity
+Reproductive toxicity studies
+Xanthan gum was fed in the diet to groups of 10 male and 20 female albino rats of the first generation and to groups of 20 male and 20 female albino rats of the two successive generations at levels providing daily dosages of 0, 250 and 500 mg xanthan gum/kg bw per day (stated by the authors) (Woodard et al., 1973). Pairs of rats were mated to produce 2 L per generation with the next generation selected from weanlings of the second litters. Criteria evaluated for the groups of rats were survival, mean body weights, general appearance, behaviour and reproductive performance. In addition, females that had fewer than 2 litters were examined for uterine implantation sites to determine any fetal resorption. Criteria evaluated for the litters were number of litters per group, numbers of live births and stillbirths, physical condition, mean weights at birth and at weaning, and percentage young alive at weaning. Malformations of offspring; gross autopsy observations on litters of the second and third generations; body, liver, kidney and heart weights on weanlings of the second, F2b, litters of the third generation; and histopathological observations on tissues of weanlings in each control and high level (500 mg/kg bw per day) F3b litter were also evaluated. The parent rats receiving xanthan gum and the control groups of rats were comparable in survival, general appearance and reproductive performance. Body weights of treated groups were slightly less than those of control parents during each generation. Corresponding test and control litters of the three generations were comparable in number of litters per group, numbers of live births, physical condition, mean weights at birth and weaning, percent young alive at weaning, and gross autopsy observations. Examination of females of the F0, and F1b generations that had fewer than 2 litters for uterine implantation sites revealed no effect on fetal resorption related to xanthan gum administration. No malformations were observed in any of the offspring. Gross autopsy observations for the test and control, F2 and F3 litters were comparable. Body, liver, kidney and heart weights of test and control weanlings of the F3b litters were comparable. No effect of xanthan gum administration was detected by histopathological observations on tissues of weanlings in each control and high dietary level (500 mg/kg bw per day) F3b litter.Dietary feeding of xanthan gum at levels of 0 (control), 250 and 500 mg/kg bw per day to groups of albino rats of both sexes during a three‐generation reproduction study had no adverse effect on parental, reproductive and developmental toxicity.
+Developmental toxicity studies
+No prenatal developmental toxicity studies were available to the Panel.Overall, no effects on parental toxicity, reproduction and development were observed in a dietary three‐generation reproductive toxicity study in rats at the highest dose tested (500 mg/kg bw per day). No prenatal developmental toxicity study was available.3.5.7. Hypersensitivity, allergenicity and food intoleranceNo case reports on allergic reaction after oral exposure to xanthan gum could be identified by the Panel.
+In vitro
+The effects of xanthan gum on lymphocyte proliferation and differentiation to antibody producing cells were tested in vitro using spleen cells from various mouse strains (male: C3H/HeSc, C57BL/6, BALB/c, DBAI2, A/J, SJL/J; female: CBA/N; sex not specified: AKWJ mice C3H/Tif, C57BL/10 and C3HI HeJ), outbred hamsters (not further specified) and Wistar rats (Ishizaka et al., 1983). Xanthan gum induced a significant increase in DNA synthesis in mice splenic B cells and T cells and polyclonal IgM and IgG antibody responses in B cells. Spleen cells of hamsters were weakly activated to nonspecific antibody production. B cells were activated in the absence of T cells and macrophages. The authors concluded that xanthan gum induced polyclonal antibody responses in spleen cells from mice and hamsters, but not from rats. According to the authors, the side chains protect xanthan gum from thermal and enzymatic degradation and may also play a role in lymphocyte activation. The Panel noted that the high mannose content of xanthan gum may be responsible for its capacity to activate spleen cells (Lim et al., 1998). The Panel also noted that direct contact of spleen cells with xanthan gum in vivo is unlikely and therefore the relevance of these observations for the risk assessment of xanthan gum used as a food additive is very low.3.5.8. Other studies
+Studies in young animals
+
+Piglets
+Xanthan gum in ProNurse® milk replacer was administered to Domestic Yorkshire Crossbred Swine (farm piglets) (n = 6/sex per group) for 20 days from postnatal day (PND) 2 onwards at dose levels of 0, 750 or 7,500 mg/L (equivalent to 0, 375 or 3,750 mg/kg bw per day) (Documentation provided to EFSA, n.5). In a follow‐up study performed within 2‐months in the same laboratory using the same protocol piglets were provided with 0 or 1,500 mg xanthan gum/L milk replacer (equivalent to 750 mg/kg bw per day) (Documentation provided to EFSA n.4). The milk replacer was given to all groups orally, six times per day for 20 consecutive days, at a dose volume of 500 mL/kg bw per day (approximately 83.33 mL/kg/dose). JECFA (2016) considered the two studies together as a single study. The Panel agreed with this assumption.All animals survived the daily administration until necropsy on PND 22. In the high‐dose group, alteration in the faecal output (green, soft, watery, increased defaecation) was observed in all female piglets. These clinical observations were also observed in most animals of the mid‐dose group, although the number of times these observations were made during the study were less. In the high‐dose group, the male animals showed also the following additional pelage/skin aberrations; abrasion, scabbed areas and unkempt appearance and female animals unkempt appearance. The clinical observations in the low‐dose group were comparable to the observations in the control group. Body weight gain and food consumption of the low‐ and mid‐dose group were comparable to the control group. In the high‐dose group, histopathological findings were observed in the large intestine (caecum, colon, rectum) and small intestine (duodenum). In the large intestines, goblet cell hypertrophy/hyperplasia, gland/lumen dilation, and/or increased foreign material were observed and mucosal atrophy was observed in the small intestine. These effects were observed in fewer animals in the lower dose groups and the severity was considered minimal. No test substance‐related effects among haematological and clinical chemistry parameters in either sex at any interval were observed. The Panel considered the no‐observed‐effect‐level (NOEL) for xanthan gum in neonatal piglets to be 375 mg/kg bw per day, based on the changes of the faeces (green, soft, watery, increased defaecation) in the mid‐dose and high‐dose group, and the NOAEL was 750 mg/kg bw per day based on histopathological changes in the intestine in the high dose.
+Humans
+
+Adults
+In a double‐blind study, overweight subjects were given capsules (4 capsules, 30 minutes before each meal with a glass of water, 12 capsules/day equivalent to 3,000 mg xanthan gum/day (assuming a bw of 70 kg corresponding to 43 mg/kg bw per day) or placebo) for 3 weeks. The capsules contained either 250 mg xanthan gum or 0.5 g paraffin oil as placebo. The capsules were well tolerated, no significant changes in plasma lipid levels were reported, no side effects were observed during the study period and no tendency toward frequent stools was seen. The authors concluded that xanthan gum can induce a slow but significant weight loss in individuals with varying degrees of overweight (Ockerman, 1983;, unpublished results, cited in JECFA, 1987b).Following a 7‐day control period, five healthy men (26–50 years old, body weights: 69–78 kg) consumed on each of 23 consecutive days a dose of xanthan gum, ranging from 10.4 to 12.9 g of xanthan gum per day (assuming a body weight of 70 kg corresponding to 149–184 mg/kg bw per day). No significant effects on plasma biochemistry, haematological indices, urinalysis parameters, glucose tolerance and insulin tests, serum immunoglobulins, triglycerides, phospholipids and HDL, cholesterol, breath hydrogen and methane concentrations were observed. A moderate (10%) reduction in serum cholesterol (p < 0.05) and a significant increase in faecal bile acid concentrations (p < 0.05) were reported. The xanthan gum acted as a moderate bulking agent, the faecal wet and dry weights increased and the average transit time decreased. According to the authors, the data indicate that the ingestion of xanthan caused no adverse dietary nor physiological effects in any of the subjects (Eastwood et al., 1987).The effect of xanthan gum on colonic function was investigated in 18 healthy male (19–34 years old) who received xanthan gum 15 g/day, (assuming a body weight of 70 kg corresponding to 214 mg/kg bw per day) for 10 days (Daly et al., 1993). The study consisted of two 10‐day periods separated by a 3‐day rest period. The first 10 days were the control period for the xanthan gum treatment period. In vivo measurements of stool output, transit time, frequency of defecation and flatulence during treatment period were compared with those during control period. Ingestion of xanthan gum caused significant increases in stool output (p < 0.01), frequency of defecation (p < 0.05) and flatulence (p < 0.01), but having variable effects on transit time.A study was performed to determine the relationship between handling of xanthan gum powder and reports of flu‐like symptoms and/or hypersensitivity pneumonitis and chronic pulmonary effects in workers exposed to xanthan gum powder. The most prevalent symptoms were nose and throat irritation. However, no acute or chronic effects on pulmonary function from xanthan gum exposure could be measured (Sargent et al., 1990). The Panel noted that the route of exposure was not relevant to the assessment of xanthan gum as a food additive.
+Infants
+
+Clinical studies
+The study by Ross Products Division, Pediatric Nutrition Research and Development (1997) aimed to evaluate the effect of xanthan gum added to a casein hydrolysate formula on mineral calcium (Ca), phosphorous (P), magnesium (Mg), fat and nitrogen balance as primary variables in 6 term healthy infants of age ranging from 33 to 137 days at the initiation of the study (mean body weight of 6.553 kg) in a randomised crossover design. The intake of xanthan gum (1,500 mg/L of formula) was calculated to be 176 mg/kg bw per day, based on reported mean consumption of 771 ml formula/day. Secondary variables included the evaluation of zinc balance due to the decreased precision of this assessment. Formula intake, stool pattern and gastrointestinal transit time were also measured. Infants were fed a powdered hydrolysate without or with xanthan gum for the first 11–12 days and admitted to the metabolic unit for the 72‐h balance. The results obtained did not show any consistent influence of xanthan gum on the nutrient balances of infants fed hydrolysate formula. No differences were observed in intakes or incidence of feeding‐related spit‐up and/or vomit. Positive effects on stool consistency and marked decrease of percent of stools which were watery were observed. Conversely, total zinc absorption was lower in all infants fed hydrolysate formula with xanthan gum compared to the equivalent formula without xanthan gum. However, the differences observed in this study as well had no effect on the growth of infants.In the study by Ross Products Division, Pediatric Nutrition Research and Development (1998), the tolerance of infants to four different powdered protein hydrolysate formulas, containing different levels of xanthan gum, was investigated. A number of 182 infant judged to be in good health, full term with a gestational age of 37–42 weeks, a birth weight greater than 2,500 g and age < 28 days was enrolled in the study. Infants were fed commercially labelled protein hydrolysate formula for one week, followed by a 1‐week period in which they randomly received one of the four experimental protein hydrolysate formulas containing either 500, 1,000 or 1,500 mg xanthan gum/L. The main outcome indicators to test the hypothesis were stool number, mean stool rank consistency and incidence of spit up and vomiting. From the 182 children, 125 completed the study and 12 were non‐completers due to formula intolerance (in the majority of cases taking the formula without xanthan gum) or parental dissatisfaction. The remaining 45 infants exited before the test period started. According to the authors, the xanthan gum‐containing formula was better tolerated than the corresponding formula without xanthan gum, reduced the number of stools per day and significantly decreased the percent of watery stools.In the study by Ross Products Division, Pediatric Nutrition Research and Development (2001), full‐term infants were fed either with a reconstituted protein hydrolysate formula containing xanthan gum (750 mg/L, equivalent to 102 mg/kg bw per day) or an equivalent formula without xanthan gum from 14 up to 112 days of age. The primary objective of this study was to compare growth, measured by weight and weight gain per day. Secondary study variables included length, length gain, food intake, stool characteristic and incidence of feeding‐related spit up and/or vomit. The results obtained indicated that the primary variables weight and weight gain per day did not differ for infant fed with the two formulas. Similarly, length, length gain as well as incidences of spit up or vomit associated with feedings did not differ. The volume of formula intake (mL/day and mL/kg per day) and number of stool per day were significantly greater in the infant fed with reconstituted protein hydrolysate formula without xanthan gum compared to the equivalent formula with xanthan gum.The study by Abbott Nutrition Research and Development and Scientific Affairs (2007), was conducted to demonstrate that fractional absorption of zinc was similar when infants were fed a powdered hydrolysate‐based formula containing xanthan gum compared to commercial powdered milk‐based formula. A total of 22 healthy, full term infants, between 60 and 105 days of age were enrolled. Fractional absorption of Zn was analysed as primary efficacy variable, while calcium absorption and zinc absorption and excretion were the secondary and supportive variables. The results obtained suggest that xanthan gum may affect mineral absorption. However, despite the presence of xanthan gum, calcium absorption appeared to be more than adequate to meet infant requirements. The effect on zinc was less clear, but the differences between groups observed for zinc intakes were not statistically significant.The study by Abbott Nutrition Research and Development and Scientific Affairs (2011) aimed to evaluate the tolerance of infants fed infant formula containing different carbohydrate sources, stabilisers and/or emulsifier, infants were fed with casein hydrolysate formula with or without xanthan gum at concentration of 750 mg/L (dose 120–126 mg/kg bw per day) for 20–28 days. Overall, the results obtained indicated that no clinically relevant differences in adverse effects between the infant groups fed with formula containing or not xanthan gum were observed. In addition, the presence of xanthan gum in the casein hydrolysate formula decreased vomiting and induced significant reduction in the number of stools per day compared to the corresponding formula without xanthan gum. Growth characteristics were also not affected.Post‐marketing surveillance data were collected by Abbott Nutrition from June 2010 through May 2015, evaluating the use of formulae based on hydrolysed protein and containing approximately 750 mg xanthan gum/L of reconstituted formulae as reported in the Documentation provided to EFSA, n. 11. A total of 131 million patient treatment days14 were estimated by the manufacturer based on sales data. The data showed that consumption of formula containing xanthan gum was not associated with an increased rate of adverse events. The rate for any adverse event was less than one case report per 10,000 patient treatment days. Overall, the collected data indicated that consumption of formula containing xanthan gum was not associated with increase rate of adverse events.Overall, based on the results obtained in these clinical studies, the Panel noted that consumption of xanthan gum in infant formula or formula for special medical purposes in infant was well tolerated, did not influence mineral (Ca, P, Mg), fat and nitrogen balance and did not affect growth characteristics up to concentration of 1,500 mg/L (232 mg/kg bw per day). These results were supported by the outcome of the post‐marketing surveillance with formulae containing xanthan gum at a concentration of approximately 750 mg/L of reconstituted formula.
+Paediatric case reports
+In 2011, the US FDA issued a warning concerning the use of a xanthan gum‐based thickener in premature infants with dysphagia and/or gastroesophageal reflux, due to an increased risk of late‐onset colonic necrotising enterocolitis (NEC), a life‐threatening condition, as reported by two independent publication in which the administered dose was not specified and feeding was ad libitum (Beal et al., 2012; Woods et al., 2012). The authors described 22 cases of NEC in infants who received xanthan gum‐based thickener to treat gastroesophageal reflux or feeding dysfunction. From the 22 infants, one was full‐term and 20 one premature with a median birth weight of 1,155 g (range: 470–4,215 g) and median gestational age of 30.5 weeks (range: 24 6/7 weeks–40 4/7 weeks). The thickener was added to breast milk and formula (11 infants), formula alone (10) or breast milk alone (1). The thickener was ingested by bottle (18 infants), bottle and tube feedings (3), and gavage alone (1). From the 22 cases of NEC, 14 cases required surgery and seven died (Beal et al., 2012). The authors speculated that the production of SCFAs as a result of the fermentation of xanthan gum by faecal bacteria may have a role in the development of NEC in these particular populations of premature infants. Further to these reports, there has been a market recall of some lots of the thickener (FDA, 2011) and the FDA recommended caution and informed parents, caregivers and health care professionals to be aware that infants of any age may face an increased risk of developing NEC if fed the product (FDA, 2012c).The Panel noted that the described cases of NEC are not related to the food additive use of xanthan gum in the manufacturing of infant formula and that the dosages of xanthan gum associated with the cases of NEC are not known, but are expected to be in gram amounts. The Panel also noted that the use of xanthan gum (E 416) as an additive for food for infants under the age of 12 weeks will be performed separately (see Section 1.1.3).3.6. DiscussionXanthan gum is a high molecular weight polysaccharide produced by a pure‐culture fermentation of a carbohydrate with strains of X. campestris.The xanthan gum polysaccharide consists of a backbone of β‐(1→4) linked d‐glucose molecules. Every second glucose molecule is substituted at C3 with a trisaccharide side chain consisting of β‐d‐mannose‐(1→4)‐β‐d‐glucuronic acid‐(1→2)‐α‐d‐mannose. In the side chains, the terminal mannose moiety is partially substituted with a pyruvate residue linked as an acetal to the 4‐ and 6‐positions; the internal mannose unit is acetylated at C‐6.The Panel noted that uses of xanthan gum (E 415) as a food additive according to Annex II and III of Regulation (EC) No 1333/2008, include uses in food for infants under the age of 12 weeks The Panel considered that these uses would require a specific risk assessment Therefore, the current re‐evaluation of xanthan gum (E 415) as a food additive is not considered to be applicable for infants under the age of 12 weeks.Specific purity criteria on xanthan gum (E 415) have been defined in Commission Regulation (EU) No 231/2012 and by JECFA (2006).According to the industry, during the fermentation process, the bacteria produce enzymes (i.e. amylases, cellulases or protease) which are reduced as much as possible or deactivated throughout the manufacturing process.The Panel noted that limits for possible residual bacterial enzymatic activities may be required in the EU specifications.An important property of xanthan solutions is the physicochemical interaction with plant galactomannans, such as locust bean gum and guar gum, or konjac glucomannan. The addition of any of these gums to a solution of xanthan gum at room temperature causes a synergistic increase in viscosity (Tako, 1992; Copetti et al., 1997; García‐Ochoa et al., 2000).The Panel noted that in cases, where xanthan gum (E 415) is added in combination with other gums, such as locust bean gum (E 410), guar gum (E 412) or konjac glucomannan (E 425(ii)) to food, the synergistic increase in viscosity has to be taken into consideration. This may be relevant in particular for the above‐mentioned combined uses of xanthan gum and guar gum in infant food for special medical purposes (see Section 1.2).An interested party has provided information on the content of lead (ND–2.0 mg/kg), arsenic (ND–2 mg/kg), cadmium (ND–0.1 mg/kg) and mercury (ND–1 mg/kg) in xanthan gum. According to the European Commission specifications, impurities of the toxic element lead are accepted up to concentration of 2 mg/kg. The Panel noted that, contamination with lead, arsenic, cadmium and mercury could have a significant impact on the exposure to these metals, if found at the highest detection limits reported, for which the intake is already close to the health‐based guidance values or benchmark doses (lower confidence limits) established by the EFSA (EFSA CONTAM Panel, 2009a,b, 2010, 2012a,b,c, 2014).The Panel noted that toxicological studies with an alginate‐konjac‐xanthan polysaccharide complex, called PGX, were available for its evaluation as novel food by the EFSA NDA Panel. The EFSA ANS Panel did not consider results of these studies in its re‐evaluation of the individual substance xanthan gum (E 415). It is not possible to conclude to what extent are the reported effects attributable to one of the individual components of the complex. The physicochemical properties of the individual components might also have changed during the manufacturing process of PGX (see Section 1.2).Studies on the in vitro degradation and the in vivo digestibility of xanthan gum performed in animals and humans have demonstrated that xanthan gum would not be absorbed intact and would not be metabolised by enzymes present in the gastrointestinal tract. However, it would be partially fermented during its passage through the large intestine by the action of the intestinal tract microbiota. The rate of breakdown in the gastrointestinal tract in humans is unknown. However, it is expected that the limited extent of fermentation of xanthan gum would lead to the production of fermentation products such as short chain fatty acids, which were considered of no safety concern by the Panel.No acute oral toxicity was observed in mice at 1,000 mg/kg bw (Booth et al., 1963). The reported oral LD50 values in rats and dogs exceeded 5,000 mg/kg bw (Jackson et al., 1968a,b; as cited in JECFA, 1974).From short‐term and subchronic toxicity studies, no toxicological relevant changes were reported apart from a decrease in red blood cell count and haemoglobin concentration in dogs receiving 2,000 mg/kg bw per day for 12 weeks. This effect was marginal and it was not reproduced in a dog chronic toxicity study at 1,000 mg/kg bw per day, the highest dose tested. The Panel noted that decreased total serum cholesterol was frequently reported.For genotoxicity insufficient experimental data were available. However, taking into account the information on structure–activity relationships and considering that xanthan gum has a molecular weight far above the threshold for absorption, according to ADME data, it was not degraded in the intestine and is slightly fermented to non‐hazardous short chain fatty acids by the gut microbiota, the Panel concluded that xanthan gum (E 415) does not give rise to concerns for genotoxicity.In chronic and long‐term studies, no adverse effects, including biochemical and haematological parameters, were reported in dogs and rats. The Panel noted that decreased red blood cell counts reported in a subchronic toxicity study in dogs receiving 2,000 mg/kg bw per day at 6 and 12 weeks, effect which was marginal and not reproduced in a dog chronic toxicity study at 1,000 mg/kg bw per day for 107 weeks, the highest dose tested.Dietary feeding of xanthan gum at levels of 0 (control), 250 and 500 mg/kg bw per day to groups of albino rats of both sexes during a three‐generation reproduction study had no adverse effect on reproduction as judged by all the endpoints evaluated.No prenatal developmental toxicity studies were available to the Panel.In special studies in neonatal piglets, no test substance‐related effects in haematology or clinical chemistry parameters were observed at any dose. In the high‐dose group (3,750 mg/kg bw per day) histopathological findings rated from minimal to moderate were observed in the large intestine (caecum, colon, rectum) and small intestine (duodenum). These effects were observed in fewer animals in the lower dose groups (375 and 750 mg/kg bw per day) and the severity was considered minimal. The Panel considered the NOEL for xanthan gum in neonatal piglets to be 375 mg/kg bw per day, based on the changes of the faeces (green, soft, watery, increased defaecation) in the mid‐dose and high‐dose group, and the NOAEL was 750 mg/kg bw per day based on histopathological changes in the intestine in the high dose.From a human study with repeated intake ranging from 10.4 to 12.9 g of xanthan gum per day (assuming a bw of 70 kg corresponding to 149 to 184 mg/kg bw per day), it was reported that xanthan gum acts as a bulk laxative causing no adverse dietary nor physiological effects. The only effects observed were moderate (10%) reduction in serum cholesterol (p < 0.05) and a significant increase in faecal bile acid concentrations (p < 0.05) (Eastwood et al., 1987).A study investigating the effect of repeated intake of 15 g xanthan gum/day (assuming a body weight of 70 kg corresponding to 214 mg/kg bw per day) on colonic function showed significant increases in stool output (p < 0.01), frequency of defecation (p < 0.05) and flatulence (p < 0.01) due to the ingestion of the xanthan gum (Daly et al., 1993).In clinical studies involving infants, the Panel noted that consumption of xanthan gum in infant formula or formula for special medical purposes in infant was well tolerated, did not influence mineral (Ca, P, Mg), fat and nitrogen balance and did not affect growth characteristics up to concentration of 1,500 mg/L (232 mg/kg bw per day). These results were supported by the outcome of the post‐marketing surveillance with formulae containing xanthan gum at a concentration of approximately 750 mg/L of reconstituted formula.The Panel also noted that information and warnings issued by the US FDA, concerning the use of a xanthan gum‐based thickener in infants, due to an increased risk of late‐onset NEC, a life‐threatening condition. The Panel further noted that this observation was not related to the food additive use of xanthan gum in the manufacturing of infant formula.The present re‐evaluation considered the use of xanthan gum (E 415) in foods for infants from 12 weeks of age onwards and for young children.Concerning uses of xanthan gum in food for infants and young children the Panel concurs with the SCF (1999) ‘…that it is prudent to keep the number of additives used in foods for infants and young children to the minimum necessary. The Committee has stressed in the past that there should be strong evidence of need as well as safety before additives can be regarded as acceptable for use in infant formulae and foods for infants and young children’.To assess the dietary exposure to xanthan gum (E 415) from its use as a food additive, the exposure was calculated based on (1) MPLs/maximum levels of data provided to EFSA (defined as the regulatory maximum level exposure assessment scenario) and (2) reported use levels (defined as the refined exposure assessment scenario, brand‐loyal and non‐brand‐loyal consumer scenario).Xanthan gum (E 415) is authorised in a wide range of foods. The Panel did not identify brand loyalty to a specific food category and therefore the Panel considered that the non‐brand‐loyal scenario covering the general population was the more appropriate and realistic scenario for risk characterisation because it is assumed that the population would probably be exposed long‐term to the food additive present at the mean reported use in processed food.A refined estimated exposure assessment scenario taking into account the food for special medical purpose for infants and young children (FC 13.1.5.1 dietary foods for infants for special medical purposes and special formulae for infants and 13.1.5.2 dietary foods for babies and young children for special medical purposes as defined by Commission Directive 1999/22/EC) for consumers only was also performed to estimate exposure for infants and toddlers who may be on a specific diet. Considering that this diet is required due to specific needs, it is assumed that consumers are loyal to the food brand, therefore only the refined brand‐loyal estimated exposure scenario was performed.A refined estimated exposure assessment scenario taking into account the consumption of food supplements for consumers only was also performed to estimate exposure for children, adolescents, adults and the elderly as exposure via food supplements may deviate largely from that via food, and the number of food supplement consumers may be low depending on populations and surveys.The refined estimates are based on 25 out of 79 food categories in which xanthan gum (E 415) is authorised. The Panel considered that the uncertainties identified would, in general, result in an overestimation of the exposure to xanthan gum (E 415) as a food additive in European countries for the refined scenario if it is considered that the food additive may not be used in food categories for which no usage data have been provided. However, the Panel noted that given the information from the Mintel's GNPD, it may be assumed that xanthan gum (E 415) is used in food categories for which no data have been provided by food industry.The main food categories, in term of amount consumed, not taken into account were unflavoured fermented milk products, breakfast cereals, processed fish, processed cereal‐based foods and baby food, other foods for young children and some alcoholic beverages (e.g. cider and perry, spirit drinks). According to the Mintel GNPD (Appendix B), in the EU market, fish products and alcoholic beverages are labelled with xanthan gum (E 415). Therefore, the Panel considered that if these uncertainties were confirmed, it would therefore result in an underestimation of the exposure.The Panel noted that in Annex II of Regulation (EC) No 1333/2008, use levels of xanthan gum (E 415) in food for infants under the age of 12 weeks are included in category 13.1.5.1 and 13.1.5.2. The Panel considered that these uses would require a specific risk assessment in line with the recommendations given by JECFA (1978) and the SCF (1998) and endorsed by the Panel (EFSA ANS Panel, 2012). Therefore, the current re‐evaluation of xanthan gum (E 415) as a food additive is not considered to be applicable for infants under the age of 12 weeks and will be performed separately.The Panel further noted that the exposure to xanthan gum (E 415) from its use according the Annex III (Part 1, 2, 3, 4 and 5A) was not considered in the exposure assessment.The Panel also noted that the refined exposure estimates are based on information provided on the reported level of use of xanthan gum (E 415). If actual practice changes, this refined estimates may no longer be representative and should be updated.4. Conclusions
+General population
+Following the conceptual framework for the risk assessment of certain food additives re‐evaluated under Commission Regulation (EU) No 257/2010 (EFSA ANS Panel, 2014), and given that:
+from all the data received, data were adequate for a refined exposure assessment for 25 out of 79 food categories;based on the reported use levels, a refined exposure (non‐brand‐loyal scenario) of up to 64 mg/kg bw per day in children (3–9 years) was estimated;refined exposure assessments for consumers only of food supplements was also calculated and was up to 38 mg/kg bw per day for children (3–9 years) considering high level exposure (95th percentile);xanthan gum is unlikely to be absorbed intact and is expected to be partially fermented by intestinal microbiota;adequate toxicity data were available;there was no concern with respect to genotoxicity;no adverse effects were reported in chronic studies in rats and dogs up to 1,000 mg/kg bw per day, the highest dose tested. In rats, the compound was not carcinogenic;repeated oral intake by adults of large amounts of xanthan gum up to 15,000 mg/person per day, corresponding to 214 mg/kg bw per day for at least ten days was well tolerated, but some individuals experienced abdominal discomfort, which was considered by the Panel as undesirable but not adverse;
+the Panel concluded that there is no need for a numerical ADI for xanthan gum (E 415), and that there is no safety concern at the refined exposure assessment for the reported uses and use levels of xanthan gum (E 415) as a food additive.
+Infants and young children consuming foods for special medical purposes and special formulae
+Concerning the use of xanthan gum (E 415) in ‘dietary foods for special medical purposes and special formulae for infants’ (Food category 13.1.5.1) and in ‘dietary foods for babies and young children for special medical purposes as defined in Directive 1999/21/EC’ (Food category 13.1.5.2), and given that:
+for populations consuming foods for special medical purposes and special formulae, the highest refined exposure estimates (p95) on the maximum reported data from food industry (750 mg/L for categories 13.1.5.1 and 250 mg/L for 13.1.5.2) were up to 115 mg/kg bw per day for infants (12 weeks–11 months, brand loyal scenario);in a number of clinical studies, consumption of xanthan gum in infant formula or formula for special medical purposes in infant was well tolerated up to concentration of 1,500 mg/L (232 mg/kg bw per day);no cases of adverse effects were reported from post‐marketing surveillance with formulae containing xanthan gum at a concentration of approximately of 750 mg/L of reconstituted formula which supported the results of the clinical studies;
+the Panel concluded, that there is no safety concern from the use of xanthan gum (E 415) in foods for special medical purposes consumed by infants and young children at concentrations reported by the food industry.5. RecommendationsThe Panel recommended:
+the European Commission to consider revising the current limit for toxic element lead in the European Commission specification for xanthan gum (E 415) and adding limits for the impurities of the other toxic elements mercury, cadmium and arsenic in order to ensure that xanthan gum (E 415) as a food additive will not be a significant source of exposure to these toxic elements in food;due to the discrepancies observed between the data reported from industry and the Mintel database, where xanthan gum is labelled in more products than in food categories for which data were reported from industry, the Panel recommended collection of data on usage and use levels of xanthan gum (E 415) in order to perform a more realistic exposure assessment.
+Documentation provided to EFSA
+An interested party submission for xanthan gum (E 415), 2015. Data provided in response to the call for technical data on certain thickening agents permitted as food additives in EU. Submitted 2 December 2015.An interested party submission for xanthan gum (E 415), 2016. Data provided in response to the call for technical data on certain thickening agents permitted as food additives in EU. Submitted 6 April 2016.An interested party. Metabolism of 14C polysaccharide B‐1459 (xanthan gum) by the rat, 2013. Unpublished report from Western Regional Research Laboratory, United States Department of Agriculture, Albany, CA, USA. Submitted in December 2013.EMA (European Medicines Agency): communication to EFSA request in 4 May 2015, for information on a certain group of substances used as food additives, June 2014.Abbott Nutrition, 2016. A 3‐week dietary toxicity study of xanthan gum in farm piglets. PI Research, Inc., Mattawan, Michigan, 2013. Submitted on 28 October 2016.Abbott Nutrition, 2017. Postmarketing safety report for Abbott Nutrition Alimentum Products. Surveillance report. Period of reporting: 1 June 2010 through 31 May 2015. Date of report: 30 June 2015. Abbott Nutrition Research & Development, Medical Safety Surveillance Group, Columbus, OH, USA; 2015. Submitted on 16 February 2017.Ross Products Division, Pediatric Nutrition Research & Development, 2017. Tolerance of infants to hydrolysate formula with and without stabilizer. Final report CP‐AE97 from Abbott Nutrition, a division of Abbott Laboratories; 1998. Submitted on 16 February 2017.Abbott Nutrition. Tolerance of healthy term infants fed infant formulas, 2017. Final report AK75 from Abbott Nutrition, Abbott Laboratories, Columbus, OH, USA; 2011. Submitted on 16 February 2017.Ross Products Division, 2017. Abbott Laboratories Medical and Regulatory Affairs. Growth of infants fed hydrolysate formulas. Final report AJ57 from Abbott Nutrition, a division of Abbott Laboratories; 2001. Submitted on 16 February 2017.Ross Products Division, 2017. Pediatric Nutrition Research & Development. Mineral balance in term infants. Final report CP‐AF49 from Abbott Nutrition, a division of Abbott Laboratories; 1995, amended June 1997. Submitted on 16 February 2017.Abbott Nutrition, 2017. Nutrient balance in healthy term infants fed milk‐based and hydrolysate‐based formulas. Final report AJ72 from Abbott Nutrition, Abbott Laboratories, Columbus, OH, USA; 2007. Submitted on 16 February 2017.Abbott Nutrition, 2017. Communication to EFSA, Submitted 31 May 2017.ASSICA (Associazione Industriali delle Carni e dei Salumi), 2014. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 25 September 2014.BABBI (BABBI Confectionery Industry), 2014. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 12 August 2014.An interested party. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 30 September 2014.DawnFoods (Dawn Foods Hungary Kft.), 2014. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 12 June 2014.EUROGUM A/S, 2014. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 30 September 2014.EMCESA (Fabricante Embutidos del centro SA (España)), 2014. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 29 August 2014.FDE (Food Drink Europe), 2014. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 29 November 2014.ICGA (International Chewing Gum Association), 2014. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 30 September 2014.WILD (Rudolf Wild GmbH & Co. KG), 2014. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 29 September 2014.SNE (Specialised Nutrition Europe), 2014. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 30 September 2014.Private company, 2014. Data on usage levels of Xanthan gum (E 415) in foods in response to the EFSA call for food additives usage level and/or concentration data in food and beverages intended for human consumption (Batch 3). Submitted to EFSA on 4 July 2014.Pre‐evaluation document prepared by Fraunhofer‐Gesellschaft zur Forderung derangewandten Forschung e.V. November 2012.
+Abbreviations
+ADIacceptable daily intakeADMEabsorption, distribution, metabolism, and excretionAFCPanel EFSA Former Panel on Additives, Flavourings, Processing Aids and Materials in ContactALTalanine transaminaseANSPanel EFSA Panel on Food Additives and Nutrient Sources added to FoodASSICAAssociazione Industriali delle Carni e dei SalumiASTaspartate transaminaseEINECSEuropean Inventory of Existing Commercial Chemical SubstancesEMAEuropean Medicines AgencyFAOFood and Agriculture OrganizationFCSFood Classification SystemFDAFood and Drug AdministrationFDEFood and Drink EuropeFSMPfoods for special medical purposesGNPDGlobal New Products DatabaseGRASGenerally Recognised As SafeICGAInternational Chewing Gum AssociationIgimmunoglobulinJECFAJoint FAO/WHO Expert Committee on Food AdditivesLD50lethal doseLOQlimit of quantificationMoEmargins of exposureMPLmaximum permitted levelNDAEFSA Panel on Dietetic Products, Nutrition and AllergiesNECnecrotising enterocolitisNELno‐effect‐levelNOAELno‐observed‐adverse‐effect‐levelNOELno‐observed‐effect‐levelPGXalginate‐konjac‐xanthan polysaccharide complexPNDpostnatal dayQPSqualified presumption of safetyQS
+quantum satis
+SCFScientific Committee for FoodSCFAshort‐chain fatty acidsSEMscanning electron microscopySNESpecialised Nutrition EuropeWHOWorld Health Organization
+Appendix A – Summary of the reported use levels (mg/kg or mg/L as appropriate) of xanthan gum (E 415) provided by industryAppendix B – Number and percentage of food products labelled with xanthan gum (E 415) out of the total number of food products present in Mintel GNPD per food sub‐category between 2011 and 2016Appendix C – Concentration levels of xanthan gum (E 415) used in the maximum level exposure scenario, the refined exposure assessment scenarios, food supplements consumers only scenario and FSMP consumers only scenario (mg/kg or ml/kg as appropriate)Appendix D – Summary of total estimated exposure of xanthan gum (E 415) from its use as a food additive for the maximum level exposure scenario and the refined exposure assessment scenarios per population group and survey: mean and 95th percentile (mg/kg bw per day)Appendix E – Main food categories contributing to exposure to xanthan gum (E 415) using the maximum level exposure scenario and the refined exposure assessment scenarios (> 5% to the total mean exposure)Appendices Appendix A – Summary of the reported use levels (mg/kg or mg/L as appropriate) of xanthan gum (E 415) provided by industry, Appendix B – Number and percentage of food products labelled with xanthan gum (E 415) out of the total number of food products present in Mintel GNPD per food sub‐category between 2011 and 2016, Appendix C – Concentration levels of xanthan gum (E 415) used in the maximum level exposure scenario, the refined exposure assessment scenarios, food supplements consumers only scenario and FSMP consumers only scenario (mg/kg or ml/kg as appropriate), Appendix D – Summary of total estimated exposure of xanthan gum (E 415) from its use as a food additive for the maximum level exposure scenario and the refined exposure assessment scenarios per population group and survey: mean and 95th percentile (mg/kg bw per day), Appendix E – Main food categories contributing to exposure to xanthan gum (E 415) using the maximum level exposure scenario and the refined exposure assessment scenarios (> 5% to the total mean exposure) can be found in the online version of this output (‘Supporting information’ section): https://doi.org/10.2903/j.efsa.2017.4909
+Supporting informationSummary of the reported use levels (mg/kg or mg/L as appropriate) of xanthan gum (E 415) provided by industryClick here for additional data file.(24K, xlsx)Number and percentage of food products labelled with xanthan gum (E 415) out of the total number of food products present in Mintel GNPD per food sub‐category between 2011 and 2016Click here for additional data file.(24K, xlsx)Concentration levels of xanthan gum (E 415) used in the maximum level exposure scenario, the refined exposure assessment scenarios, food supplements consumers only scenario and FSMP consumers only scenario (mg/kg or ml/kg as appropriate)Click here for additional data file.(20K, xlsx)Summary of total estimated exposure of xanthan gum (E 415) from its use as a food additive for the maximum level exposure scenario and the refined exposure assessment scenarios per population group and survey: mean and 95th percentile (mg/kg bw per day)Click here for additional data file.(20K, xlsx)Main food categories contributing to exposure to xanthan gum (E 415) using the maximum level exposure scenario and the refined exposure assessment scenarios (> 5% to the total mean exposure)Click here for additional data file.(15K, xlsx)Notes
+
+Suggested citation: 
+EFSA ANS Panel (EFSA Panel on Food Additives and Nutrient Sources added to Food)
+, Mortensen A, Aguilar F, Crebelli R, Di Domenico A, Frutos MJ, Galtier P, Gott D, Gundert‐Remy U, Lambré C, Leblanc J‐C, Lindtner O, Moldeus P, Mosesso P, Oskarsson A, Parent‐Massin D, Stankovic I, Waalkens‐Berendsen I, Woutersen RA, Wright M, Younes M, Brimer L, Christodoulidou A, Lodi F, Gelgelova P and Dusemund B, 2017. 
+Scientific Opinion on the re‐evaluation of xanthan gum (E 415) as a food additive. EFSA Journal 2017;15(7):4909, 47 pp. 10.2903/j.efsa.2017.4909
+ [CrossRef]
+
+Requestor: European Commission
+Question number: EFSA‐Q‐2011‐00514
+Panel members: Alicja Mortensen, Fernando Aguilar, Riccardo Crebelli, Alessandro Di Domenico, Maria Jose Frutos, Pierre Galtier, David Gott, Ursula Gundert‐Remy, Claude Lambré, Jean‐Charles Leblanc, Oliver Lindtner, Peter Moldeus, Pasquale Mosesso, Agneta Oskarsson, Dominique Parent‐Massin, Ivan Stankovic, Ine Waalkens‐Berendsen, Rudolf Antonius Woutersen, Matthew Wright, Maged Younes and Birgit Dusemund.
+Acknowledgements: The Panel wishes to thank the following for the support provided to this scientific opinion: Jacqueline Wiesner, Dario Battacchi and Lemmetyinen Juho. The ANS Panel wishes to acknowledge all the European competent institutions, the Member State bodies and other organisations that provided data for this scientific opinion.Reproduction of the images listed below is prohibited and permission must be sought directly from the copyright holder:Figures 1,2: Belsito, 2012Adopted: 20 June 2017Notes 1Commission Regulation (EU) No 257/2010 of 25 March 2010 setting up a programme for the re‐evaluation of approved food additives in accordance with Regulation (EC) No 1333/2008 of the European Parliament and of the Council on food additives. OJ L 80, 26.3.2010, p. 19–27.2Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives. OJ L 354, 31.12.2008, p. 16–33.3Annex II of Regulation (EC) No 1333/2008 on food additives for use in foodstuffs.4Call for scientific data on food additives permitted in the EU and belonging to the functional classes of emulsifiers, stabilisers and gelling agents. Published: 22 November 2009. Available online: http://www.efsa.europa.eu/en/dataclosed/call/ans091123
+5Call for technical data on certain thickening agents permitted as food additives in the EU – Extended Deadline: 31 December 2015. Available online: http://www.efsa.europa.eu/it/data/call/141219
+6Call for food additives usage level and/or concentration data in food and beverages intended for human consumption – Extended deadline: 30 September 2014. Available online: https://www.efsa.europa.eu/it/dataclosed/call/datex140310
+7Available online: http://www.efsa.europa.eu/en/datexfoodcdb/datexfooddb.htm
+8Commission Regulation (EU) No 231/2012 of 9 March 2012 laying down specifications for food additives listed in Annexes II and III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council. OJ L 83, 22.3.2012, p. 1–295.9Commission Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives. OJ L 354, 31.12.2008, p. 16.10Call for food additives usage level and/or concentration data in food and beverages intended for human consumption. Published 27 March 2013. http://www.efsa.europa.eu/en/dataclosed/call/130327.htm
+11Missing Bulgaria, Cyprus, Estonia, Latvia, Lithuania, Luxembourg, Malta and Slovenia.12
+http://www.gnpd.com/sinatra/home/ accessed on 2/12/201613Available online: http://www.efsa.europa.eu/en/press/news/150428.htm
+14One patient treatment day is equivalent to the consumption of 0.8 L of product by an infant in a 24‐h period.References
+Adiotomre J, Eastwood MA, Edwards CA and Brydon WG, 1990. 
+Dietary fibre: in vitro methods that anticipate nutrition and metabolic activity in humans. American Journal of Clinical Nutrition, 52, 128–134. [PubMed] [Google Scholar]
+AOAC
+(Association of Official Agricultural Chemists, now AOAC international), 2002. 
+AOAC Official Methods 937.12 and 935.61 In: Horwitz W, (eds.), Chapter 43 – Spices and Other Contaminants. Food compensition; Additives; Natural Contaminants. Official Methods of Analysis of AOC International, 17th edition, Vol. II. 14 p. [Google Scholar]
+Beal J, Silverman B, Bellant J, Young TE and Klontz K, 2012. 
+Late onset necrotizing enterocolitis in infants following use of a xanthan gum‐containing thickening agent. The Journal of Pediatrics, 161, 354–356. [PubMed] [Google Scholar]
+Belsito MD, Hill RA, Klaassen CD, Liebler D, Marks JG Jr and Ronald C, 2012. 
+Safety Assessment of Microbial Polysaccharide Gums as Used in Cosmetics. [PubMed]
+Benigni R, Bossa C and Worth A, 2010. 
+Structural analysis and predictive value of the rodent in vivo micronucleus assay results. Mutagenesis, 25, 335–341. [PubMed] [Google Scholar]
+Benigni R, Bossa C, Alivernini S and Colafranceschi M, 2012. 
+Assessment and Validation of US EPA's OncoLogic® Expert System and Analysis of Its Modulating Factors for Structural Alerts. Journal of Environmental Science and Health, Part C, 30, 152–173. [PubMed] [Google Scholar]
+Booth AN, Hendrickson AP and De Eds F, 1963. 
+Physiologic effects of three microbial polysaccharides on rats. Toxicology and Applied Pharmacology, 5, 478–484. [PubMed] [Google Scholar]
+Casas JA, Mohedano AF and García‐Ochoa F, 2000. 
+Viscosity of guar gum and xanthan/guar gum mixture solutions. Journal of the Science of Food and Agriculture, 80, 1722–1727. [Google Scholar]
+Copetti G, Grassi M, Lapasin R and Pricl S, 1997. 
+Synergistic gelation of xanthan gum with locust bean gum: a rheological investigation. Glycoconjugate Journal, 14, 951–961. [PubMed] [Google Scholar]
+Cummings JH and Englyst HN, 1987. 
+Fermentation in the human large intestine and the available substrates. American Journal of Clinical Nutrition, 45, 1243–1255. [PubMed] [Google Scholar]
+Daly J, Tomlin J and Read NW, 1993. 
+The effect of feeding xanthan gum on colonic function in man: correlation with in vitro determinants of bacterial breakdown. British Journal of Nutrition, 69, 897–902. [PubMed] [Google Scholar]
+De Monaco Lopes BRUNA, Lessa VL, Silva BM, Marco Aurelio Filho DSC, Schnitzler E and Lacerda LG, 2015. 
+Xanthan gum: properties, production conditions, quality and economic perspective. Journal of Food & Nutrition Research, 54(3), 185–194. [Google Scholar]
+Den Besten G, van Eunen K, Groen A, Venema K, Reijngoud DJ and Bakker M, 2013. 
+The role of shortchain fattyacids in the interplay between diet, gut microbiota, and host energy metabolism. The Journal of Lipid Research, 54, 2325–2340. [PMC free article] [PubMed] [Google Scholar]
+Draeger G, Krause A, Moeller L and Dumitriu S, 2011. 
+Carbohydrates (eds.). Lendlein A. and Sisson A. In: Handbook of Biodegradable Polymers: Synthesis, Characterization and Applications. Wiley‐VCH Verlag GmbH & Co KGaA;  pp. 155–193. [Google Scholar]
+Eastwood MA, Brydon WG and Anderson DM, 1987. 
+The dietary effects of xanthan gum in man. Food Additives and Contaminants, 4, 17–26. [PubMed] [Google Scholar]
+Edwards CA and Eastwood MA, 1995. 
+Caecal and faecal short‐chain fatty acids and stool output in rats fed on diets containing non‐starch polysaccharides. British Journal of Nutrition, 73, 773–781. [PubMed] [Google Scholar]
+EFSA
+(European Food Safety Authority), 2007. 
+Opinion of the Scientific Committee related to uncertainties in dietary exposure assessment. EFSA Journal 2007;5(1):438, 54 pp. 10.2903/j.efsa.2007.438
+ [CrossRef] [Google Scholar]
+EFSA
+(European Food Safety Authority), 2011a. 
+Use of the EFSA Comprehensive European Food Consumption Database in Exposure Assessment. EFSA Journal 2011;9(3):2097, 34 pp. 10.2903/j.efsa.2011.2097
+ [CrossRef] [Google Scholar]
+EFSA
+(European Food Safety Authority), 2011b. 
+Evaluation of the FoodEx, the food classification system applied to the development of the EFSA Comprehensive European Food Consumption Database. EFSA Journal 2011;9(3):1970, 27 pp. 10.2903/j.efsa.2011.1970
+ [CrossRef] [Google Scholar]
+EFSA AFC Panel
+(EFSA Panel on Food Additives, Flavourings, Processing Aids and Materials in Contact with Food), 2004. 
+Opinion on a request from the Commission related to the use of certain food additives in jelly mini cups. EFSA Journal 2004;2(8):82, 11 pp. 10.2903/j.efsa.2004.82
+ [CrossRef] [Google Scholar]
+EFSA ANS Panel
+(European Food Safety Authority Panel on Food Additives and Nutrient Sources added to Food), 2012. 
+Guidance for submission for food additive evaluations. EFSA Journal 2012;10(7):2760, 60 pp. 10.2903/j.efsa.2012.2760. Available online: http://www.efsa.europa.eu/efsajournal
+ [CrossRef] [Google Scholar]
+EFSA ANS Panel
+(EFSA ANS Panel on Food Additives and Nutrient Sources added to Food), 2014. 
+Statement on a conceptual framework for the risk assessment of certain food additives re‐evaluated under Commission Regulation (EU) No 257/2010. EFSA Journal 2014;12(6):3697, 11 pp. 10.2903/j.efsa.2014.3697
+ [CrossRef] [Google Scholar]
+EFSA BIOHAZ Panel
+(EFSA Panel on Biological Hazards), 2013. 
+Scientific Opinion on the maintenance of the list of QPS biological agents intentionally added to food and feed. EFSA Journal 2013;11(11):3449, 106 pp. 10.2903/j.efsa.2013.3449
+ [CrossRef] [Google Scholar]
+EFSA BIOHAZ Panel
+(EFSA Panel on Biological Hazards), 2015. 
+Statement on the update of the list of QPS‐recommended biological agents intentionally added to food or feed as notified to EFSA. 2: suitability of taxonomic units notified to EFSA until March 2015. EFSA Journal 2015;13(6):4138, 29 pp. 10.2903/j.efsa.2015.4138
+ [CrossRef] [Google Scholar]
+EFSA BIOHAZ Panel
+(EFSA Panel on Biological Hazards), Ricci A, Allende A, Bolton D, Chemaly M, Davies R, Girones R, Herma n L, Koutsoumanis K, Lindqvist R, Nørrung B, Robertson L, Ru G, Sanaa M, Simmons M, Skandamis P, Snary E, Speybroeck N, Ter Kuile B, Threlfall J, Wahlstr€om H, Cocconcelli PS, Klein G (deceased), Prieto Maradona M, Querol A, Peixe L, Suarez JE, Sundh I, Vlak JM, Aguilera‐Gomez M, Bari zzone F, Brozzi R, Correia S, Heng L, Istace F, Lythgo C and Fernandez Escamez PS, 2017. 
+Scientific Opinion on the update of the list of QPS‐recommended biological agents intentionally added to food or feed as notified to EFSA. EFSA Journal 2017;15(3):4664, 177 pp. 10.2903/j.efsa.2017.4664
+ [CrossRef] [Google Scholar]
+EFSA CONTAM Panel
+(EFSA Panel on Contaminants in the Food Chain), 2009a. 
+Scientific Opinion on cadmium in food. EFSA Journal 2009;7(10):980, 139 pp. 10.2903/j.efsa.2009.98
+ [CrossRef] [Google Scholar]
+EFSA CONTAM Panel
+(EFSA Panel on Contaminants in the Food Chain), 2009b. 
+Scientific Opinion on arsenic in food. EFSA Journal 2009;7(10):1351, 199 pp. 10.2903/j.efsa.2009.1351
+ [CrossRef] [Google Scholar]
+EFSA CONTAM Panel
+(EFSA Panel on Contaminants in the Food Chain), 2010. 
+Scientific Opinion on lead in food. EFSA Journal 2010;8(4):1570, 151 pp. 10.2903/j.efsa.2010.1570
+ [CrossRef] [Google Scholar]
+EFSA CONTAM Panel
+(EFSA Panel on Contaminants in the Food Chain), 2012a. 
+Scientific Opinion on the risk for public health related to the presence of mercury and methylmercury in food. EFSA Journal 2012;10(12):2985, 241 pp. 10.2903/j.efsa.2012.2985
+ [CrossRef] [Google Scholar]
+EFSA CONTAM Panel
+(EFSA Panel on Contaminants in the Food Chain), 2012b. 
+Scientific Opinion on lead dietary exposure in the European population. EFSA Journal 2012;10(7):2831, 59 pp. 10.2903/j.efsa.2012.2831
+ [CrossRef] [Google Scholar]
+EFSA CONTAM Panel
+(EFSA Panel on Contaminants in the Food Chain), 2012c. 
+Scientific Opinion on cadmium dietary exposure in the European population. EFSA Journal 2012;10(1):2551, 59 pp. 10.2903/j.efsa.2012.2831
+ [CrossRef] [Google Scholar]
+EFSA CONTAM Panel
+(EFSA Panel on Contaminants in the Food Chain), 2014. 
+Scientific Opinion on dietary exposure to inorganic arsenic in the European population. EFSA Journal 2014;12(3):3597, 68 pp. 10.2903/j.efsa.2014.3597
+ [CrossRef] [Google Scholar]
+EFSA NDA Panel
+(EFSA Panel on Dietetic Products, Nutrition and Allergies), 2010. 
+Scientific Opinion on the substantiation of health claims related to xanthan gum and increased satiety (ID 838) pursuant to Article 13(1) of Regulation (EC) No 1924/2006. EFSA Journal 2010;8(2):1481, 13 pp. 10.2903/j.efsa.2010.1481
+ [CrossRef] [Google Scholar]
+EFSA NDA Panel
+(EFSA Panel on Dietetic Products, Nutrition and Allergies), 2011. 
+Scientific Opinion on the substantiation of health claims related to xanthan gum and changes in bowel function (ID 837) pursuant to Article 13(1) of Regulation (EC) No 1924/2006. EFSA Journal 2011;9(6):2272, 11 pp. 10.2903/j.efsa.2011.2272
+ [CrossRef] [Google Scholar]
+EFSA NDA Panel
+(EFSA Panel on Dietetic Products, Nutrition and Allergies), Turck D, Bresson J‐L, Burlingame B, Dean T, Fairweather‐Tait S, Heinonen M, Hirsch‐Ernst KI, Mangelsdorf I, McArdle HJ, Naska A, Neuhauser‐Berthold M, Nowicka G, Pentieva K, Sanz Y, Siani A, Sjodin A, Stern M, Tome D, Vinceti M, Willatts P, Engel K‐H, Marchelli R, Poting A, Poulsen M, Schlatter JR, Turla E and Van Loveren H, 2017. 
+Scientific Opinion on the safety of alginate‐konjac‐xanthan polysaccharide complex (PGX) as a novel food pursuant to Regulation (EC) No 258/97. EFSA Journal 2017;15(5):4776, 24 pp. 10.2903/j.efsa.2017.4776
+ [CrossRef] [Google Scholar]
+EFSA Scientific Committee
+, 2009. 
+Guidance of the Scientific Committee on Transparency in the Scientific Aspects of Risk Assessments carried out by EFSA. Part 2: general Principles. EFSA Journal 2009;7(7):1051, 22 pp. 10.2903/j.efsa.2009.1051
+ [CrossRef] [Google Scholar]
+EFSA Scientific Committee
+, 2012. 
+Guidance on selected default values to be used by the EFSA Scientific Committee, Scientific Panels and Units in the absence of actual measured data. EFSA Journal 2012;10(3):2579, 32 pp. 10.2903/j.efsa.2012.2579. Available online: http://www.efsa.europa.eu
+ [CrossRef] [Google Scholar]
+El Enshasy H, Then C, Othman NZ, Al Homosany H, Sabry M, Sarmidi MR and Aziz RA, 2011. 
+Enhanced xanthan production process in shake flasks and pilot scale bioreactors using industrial semi‐defined medium. African Journal of Biotechnology, 10, 1029–1038. [Google Scholar]
+Faria S, deOliveira
+Petkowicz CL
+, deMorais
+SAL
+, Terrones MGH, deResende
+MM
+, deFrança
+FP
+ and Cardoso VL, 2011. 
+Characterization of xanthan gum produced from sugar cane broth. Carbohydrate Polymers, 86, 469–476. [Google Scholar]
+FDA
+(Food and Drug Administration), 2011. 
+UPDATE: June 5, 2011: FDA Continues to Investigate Necrotizing Enterocolitis and SimplyThick Following Company's Recall. Available online: http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm256253.htm
+
+FDA
+(Food and Drug Administration), 2012c. 
+FDA Expands Caution About SimplyThick. (updated Sept. 18, 2012) Available online: http://www.fda.gov/ForConsumers/ConsumerUpdates/ucm256250.htm
+
+García‐Ochoa F, Santos VE, Casas JA and Gomez E, 2000. 
+Xanthan gum: production, recovery, and properties. Biotechnology Advances, 18, 549–579. [PubMed] [Google Scholar]
+Gruenwald J, Brendler T. and Jaenicke C. (eds)., 2007. 
+PDR for Herbal Medicines, 4th Edition
+Thomson Healthcare Inc., Montvale, NJ. [Google Scholar]
+Gumbmann MR, 1964. 
+Metabolism of 14C polysaccharide B‐1459 (xanthan gum) by the rat. Unpublished report from Western Regional Research Laboratory, United States Department of Agriculture, Albany, CA, USA. [Google Scholar]
+Hagiwara A, Doi Y, Omoto T, Goto Y, Asai I, Nakamura M and Shirai T, 2004. 
+Lack of oral toxicity of SAN‐ACE® NXG‐s, a new type of xanthan gum, in a ninety‐day study in F344 rats.Foods Food Ingredients Journal of Japan, 209, 982–989. [Google Scholar]
+IPCS
+, 2004. 
+IPCS Risk Assessment Terminology (Part 1: IPCS/OECD Key Generic terms used in Chemical Hazard/Risk Assessment. Available online: http://www.inchem.org/documents/harmproj/harmproj/harmproj1.pdf
+
+Ishizaka S, Sugawara I, Hasuma T, Morisawa S and Möller G, 1983. 
+Immune responses to xanthan gum I. The characteristics of lymphocyte activation by xanthan gum. European Journal of Immunology, 13, 225–231. [PubMed] [Google Scholar]
+Ishizaki M and Ueno S, 1987. 
+The DNA‐damaging activity of natural food additives (IV). Journal of the Food Hygienics Society of Japan, 28, 498–501. [Google Scholar]
+Jackson NN, Woodard MW and Woodard G, 1968a. 
+Xanthan gum acute oral toxicity to rats. Unpublished report from Woodard Research Corporation, Herndon, VA, USA, submitted to JECFA by Kelco Co. San Diego, California, USA. Unpublished results, cited in JECFA 1987b.
+Jackson NN, Woodard MW and Woodard G, 1968b. 
+Xanthan gum acute oral toxicity to dogs. Unpublished report from Woodard Research Corporation, Herndon, VA, USA, submitted to JECFA by Kelco Co. San Diego, California, USA. Unpublished results, cited in JECFA 1987b.
+JECFA
+(Joint FAO/WHO Expert Committee on Food Additives), 1972. 
+WHO Technical Report Series, evaluation ofcertain food additives and the contaminants mercury, lead, and cadmium. Sixteenth report of the Joint FAO/WHO Expert Committee on Food Additives. No. 505. World Health Organization, Geneva.
+JECFA
+(Joint FAO/WHO Expert Committee on Food Additives), 1974. 
+Evaluation of certain food additives (Eighteenth Report of the Joint FAO/WHO Expert Committee on Food Additives). WHO Technical Report Series, No. 557, 1974. FAO Nutrition Meetings Report Series, No. 54. [PubMed]
+JECFA
+(Joint FAO/WHO Expert Committee on Food Additives), 1975. 
+Toxicological evaluation of some food colours, enzymes, flavour enhancers, thickening agents, and certain food additives, WHO Food Additives Series 6. [PubMed]
+JECFA
+(Joint FAO/WHO Expert Committee on Food Additives), 1978. 
+Evaluation of certain food additives. Twenty first report of the Joint FAO/WHO Expert Committee on Food Additives. No. 617. World Health Organization, Geneva.
+JECFA
+(Joint FAO/WHO Expert Committee on Food Additives), 1987a. 
+Evaluation of certain food additives and contaminants (Thirtieth report of the Joint FAO/WHO Expert Committee on Food Additives). WHO Technical Report Series, No. 751. [PubMed]
+JECFA
+(Joint FAO/WHO Expert Committee on Food Additives), 1987b. 
+Xanthan gum. Toxicological evaluation of certain food additives and contaminants. WHO Food Additives Series 21.
+JECFA
+(Joint FAO/WHO Expert Committee on Food Additives), 2000. 
+Safety evaluation of certain food additives and contaminants. 976. Lead. WHO Food Additives Series, 44. [PubMed]
+JECFA
+(Joint FAO/WHO Expert Committee on Food Additives), 2006. 
+Xanthan gum. Combined Compendium of Food Additive Specifications ‐ all Specifications Monographs from the 1st to the 65th Meeting (1956–2005). Food Additives Vol. 1–3, 5 p.
+JECFA
+(Joint FAO/WHO Expert Committee on Food Additives), 2016. 
+Evaluation of certain food additives: eighty‐second report of the Joint FAO/WHO Expert Committee on Food Additives. WHO Technical Report Series, No. 1000.
+Lawrence JF and Iyengar JR, 1985. 
+Gas chromatographic determination of polysaccharide gums in foods after hydrolysis and derivatization. Journal of Chromatography, 350, 237–244. [PubMed] [Google Scholar]
+Letisse F, Chevallereau P, Simon JL and Lindley ND, 2001. 
+Kinetic analysis of growth and xanthan gum production with Xanthomonas campestris on sucrose, using sequentially consumed nitrogen sources. Applied Microbiology and Biotechnology, 55, 417–422. [PubMed] [Google Scholar]
+Lim SB, Kanthimathi MS and Hashim OH, 1998. 
+Effect of the mannose‐binding Artocarpus integer lectin on the cellular proliferation of murine lymphocytes. Immunological Investigations, 27, 395–404. [PubMed] [Google Scholar]
+Morris VJ, 2006. 
+Bacterial polysaccharides. Food Science and Technology, 160, 413–454. [Google Scholar]
+Moscovici M, 2015. 
+Present and future medical applications of microbial exopolysaccharides. Frontiers in Microbiology, 6, 2012. [Google Scholar]
+Ochuba GU and Von Riesen VL, 1980. 
+Fermentation of polysaccharides by Klebsielleae and other facultative bacilli. Applied and Environmental Microbiology, 39, 988–992. [PMC free article] [PubMed] [Google Scholar]
+Ockerman PA, 1983. 
+Untitled unpublished report discussing clinical study of xanthan gum used for weight control. Department of Clinical Chemistry, University Hospital, Lund, Sweden. Untiteled unpublished results, cited in JECFA 1987b.
+Pazur JH and Li NQ, 2004. 
+Application of antibodies for the identification of polysaccharide gum additives in processed foods. Food Additives and Contaminants, 21, 1027–1034. [PubMed] [Google Scholar]
+Robbins DJ, Moulton JE and Booth AB, 1964. 
+Subacute toxicity study of a microbial polysaccharide fed to dogs. Food and Cosmetics Toxicology, 2, 545–550. [PubMed] [Google Scholar]
+Rofes L, Arreola V, Mukherjee R and Clave P, 2014. 
+Sensitivity and specificity of the Eating Assessment Tool and the Volume‐Viscosity Swallow Test for clinical evaluation of oropharyngeal dysphagia. Neurogastroenterology & Motility, 26, 1256–1265. [PMC free article] [PubMed] [Google Scholar]
+Salyers AA, Vercellotti JR, West SHE and Wilkins TD, 1977. 
+Fermentation of mucins and plant polysaccharides by strains of Bacteroides from the human colon. Applied and Environmental Microbiology, 33, 319–322. [PMC free article] [PubMed] [Google Scholar]
+Sargent EV, Adolph J, Clemmons MK, Kirk GD, Pena BM and Fedoruk MJ, 1990. 
+Evaluation of flu‐like symptoms in workers handling xanthan gum powder. Journal of Occupational and Environmental Medicine, 32, 625–630. [PubMed] [Google Scholar]
+SCF
+(Scientific Committee for Food), 1978. 
+Reports of the Scientific Committee for Food on emulsifiers, stabilizers, thickeners and gelling agents, Opinion expressed 30 November 1978, 7th series. Food science and techniques, 1978.
+SCF
+(Scientific Committee for Food), 1992. 
+Report of the Scientific Committee for Food on a second series of food additives of various technological functions, Opinion expressed 19 October 1990, 26th series. Food science and techniques, 1992.
+SCF
+(Scientific Committee on Food), 1996. 
+Opinion on additives in nutrient preparations for use in infant formulae, follow‐on formulae and weaning foods. 7 June 1996. Available online: http://ec.europa.eu/food/fs/sc/scf/reports/scf_reports_40.pdf
+
+SCF
+(Scientific Committee for Food), 1998. 
+Opinion of the Scientific Committee of Food on the applicability of the ADI (Acceptable Daily Intake) for food additives to infants. 17 September 1998. Available online: http://ec.europa.eu/food/fs/sc/scf/out13_en.html
+
+SCF
+(Scientific Committee for Food), 1999. 
+Reports from the Scientific Committee for Food, Opinion expressed 1997, 43rd series. Food science and techniques, 1999.
+SCF
+(Scientific Committee on Food), 2001. 
+Guidance on submissions for food additive evaluations by the scientific committee on food. Opinion expressed on 11 July 2001. Available online: http://ec.europa.eu/food/fs/sc/scf/out98_en.pdf
+
+Sunvold GD, Fahey GC, Merchen NR, Titgemeyer EC, Bourquin LD, Bauer LL and Reinhart GA, 1995a. 
+Dietary fiber for dogs: IV. In vitro fermentation of selected fiber sources by dog faecal inoculum and in vivo digestion and metabolism of fiber‐supplemented diets. Journal of Animal Sciences, 73, 1099–1109. [PubMed] [Google Scholar]
+Sunvold GD, Fahey GC, Merchen NR, Bourquin LD, Titgemeyer EC, Bauer LL and Reinhart GA, 1995b. 
+Dietary fiber for cats: in vitro fermentation of selected fiber sources by cat faecal inoculum and in vivo utilization of diets containing selected fiber sources and their blends. Journal of Animal Sciences, 73, 2329–2339. [PubMed] [Google Scholar]
+Sworn G, 2009. 
+Xanthan gum In: Phillips GO. and Williams PA. (eds.). Handbook of Hydrocolloids, 2nd Edition
+Woodhead Publishing Limited, Oxford, Cambridge, New Delhi:  pp. 186–203. [Google Scholar]
+Tako M, 1992. 
+Synergistic interaction between xanthan and konjac glucomannan in aqueous media. Bioscience, Biotechnology, and Biochemistry, 56, 1188–1192. [Google Scholar]
+TemaNord
+, 2002. 
+Nordic Council of Ministers. E 415 Xanthan gum. In: Food Additives in Europe 2000 – Status of safety assessments of food additives presently permitted in the EU, 3 p.
+Topping DL and Clifton PM, 2001. 
+Short‐chain fatty acids and human colonic function: roles and resistant starch and nonstarch polysaccharides. Physiological Reviews, 81, 1031–1064. [PubMed] [Google Scholar]
+USDA
+(United States Department of Agriculture), 1964. 
+Safety evaluation of polysaccharide B‐1459 (xanthan gum) in laboratory animals – effects of feeding dogs. Unpublished report from Western Regional Research Laboratory, United States Department of Agriculture, Albany, CA, USA, cited in JECFA, 1987b.
+Voragen ACJ, Rolin C, Marr BU, Challen I, Riad A, Lebbar R and Knutsen SH, 2012. 
+Polysaccharides In: Ullmann's Encyclopedia of Industrial Chemistry. Wiley‐VCH Verlag GmbH & Co. KGaA, Weinheim. [Google Scholar]
+Woodard G, Woodard MW, McNeely WH, Kovacs P and Cronin MTI, 1973. 
+Xanthan gum: safety evaluation by two year feeding studies in rats and dogs and a three‐generation reproduction study in rats. Toxicology and Applied Pharmacology, 24, 30–36. [PubMed] [Google Scholar]
+Woods CW, Oliver T, Lewis K and Yang Q, 2012. 
+Development of necrotizing enterocolitis in premature infants receiving thickened feeds using SimplyThick. Journal of Perinatology, 32, 150–152. [PubMed] [Google Scholar]Articles from EFSA Journal are provided here courtesy of Wiley-Blackwell
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (2.7M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

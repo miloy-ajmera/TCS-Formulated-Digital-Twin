@@ -1,0 +1,6201 @@
+Document Name: role of Hypan SA100H 2 in Protective Cream2
+Document link: https://patents.google.com/patent/US7488471B2/en
+
+
+
+US7488471B2 - Transparent oil-in-water emulsion 
+        - Google Patents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US7488471B2 - Transparent oil-in-water emulsion 
+        - Google Patents
+Transparent oil-in-water emulsion 
+       
+
+Download PDF
+Info
+
+Publication number
+US7488471B2
+
+
+
+US7488471B2
+US10/282,821
+US28282102A
+US7488471B2
+US 7488471 B2
+US7488471 B2
+US 7488471B2
+ 
+ 
+ 
+US 28282102 A
+US28282102 A
+US 28282102A
+US 7488471 B2
+US7488471 B2
+US 7488471B2
+Authority
+US
+United States
+Prior art keywords
+sucrose
+composition according
+phase
+oil
+oil phase
+Prior art date
+2002-10-28
+Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+
+Expired - Fee Related, expires 2023-09-10
+
+
+Application number
+US10/282,821
+Other versions
+
+
+US20040081633A1
+      (en
+
+
+Inventor
+Michel F. Mercier
+Paul Thau
+John A. Chase
+Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+
+    MMP Inc
+  
+Original Assignee
+MMP Inc
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+2002-10-28
+Filing date
+2002-10-28
+Publication date
+2009-02-10
+
+2002-10-28
+Application filed by MMP Inc
+filed
+Critical
+MMP Inc
+
+
+2002-10-28
+Priority to US10/282,821
+priority
+Critical
+patent/US7488471B2/en
+
+
+2003-01-14
+Assigned to MMP, INC.
+reassignment
+MMP, INC.
+ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).
+Assignors: CHASE, JOHN A., MERCIER, MICHEL F., THAU, PAUL
+
+
+2003-10-28
+Priority to FR0312595A
+priority
+patent/FR2846234B1/en
+
+
+2004-04-29
+Publication of US20040081633A1
+publication
+Critical
+patent/US20040081633A1/en
+
+
+2004-09-24
+Priority to US10/948,993
+priority
+patent/US7563435B2/en
+
+
+2009-02-10
+Application granted
+granted
+Critical
+
+
+2009-02-10
+Publication of US7488471B2
+publication
+Critical
+patent/US7488471B2/en
+
+
+Status
+Expired - Fee Related
+legal-status
+Critical
+Current
+
+
+2023-09-10
+Adjusted expiration
+legal-status
+Critical
+
+Links
+
+
+
+USPTO
+
+
+
+USPTO PatentCenter
+
+
+
+USPTO Assignment
+
+
+
+Espacenet
+
+
+
+Global Dossier
+
+
+
+Discuss
+
+
+
+
+239000007764
+o/w emulsion
+Substances
+
+
+
+
+0.000
+title
+description
+10
+
+
+239000012071
+phase
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+198
+
+
+239000000839
+emulsion
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+150
+
+
+239000008346
+aqueous phase
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+62
+
+
+-1
+fatty acid ester
+Chemical class
+
+
+
+
+0.000
+claims
+abstract
+description
+54
+
+
+239000003995
+emulsifying agent
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+52
+
+
+235000014113
+dietary fatty acids
+Nutrition
+
+
+
+
+0.000
+claims
+abstract
+description
+30
+
+
+239000000194
+fatty acid
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+30
+
+
+GCSPRLPXTPMSTL-IBDNADADSA-N
+[(2S,3R,4S,5S,6R)-2-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl] dodecanoate
+Chemical compound
+
+
+CCCCCCCCCCCC(=O)O[C@@]1([C@]2(CO)[C@H]([C@H](O)[C@@H](CO)O2)O)O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O
+GCSPRLPXTPMSTL-IBDNADADSA-N
+0.000
+claims
+abstract
+description
+24
+
+
+239000002904
+solvent
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+22
+
+
+XYFGTTCGHCGTDZ-ZRVLSRDKSA-N
+[(2R,3S,4S,5R,6R)-6-[(2S,3S,4S,5R)-3,4-dihydroxy-2,5-bis(hydroxymethyl)oxolan-2-yl]oxy-3,4,5-trihydroxyoxan-2-yl]methyl hexadecanoate
+Chemical compound
+
+
+O[C@@H]1[C@@H](O)[C@H](O)[C@@H](COC(=O)CCCCCCCCCCCCCCC)O[C@@H]1O[C@@]1(CO)[C@@H](O)[C@H](O)[C@@H](CO)O1
+XYFGTTCGHCGTDZ-ZRVLSRDKSA-N
+0.000
+claims
+abstract
+description
+16
+
+
+239000003921
+oil
+Substances
+
+
+
+
+0.000
+claims
+description
+102
+
+
+235000019198
+oils
+Nutrition
+
+
+
+
+0.000
+claims
+description
+90
+
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+
+
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+claims
+description
+82
+
+
+239000000203
+mixture
+Substances
+
+
+
+
+0.000
+claims
+description
+66
+
+
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+glycerine
+Chemical compound
+
+
+OCC(O)CO
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+0.000
+claims
+description
+46
+
+
+235000011187
+glycerol
+Nutrition
+
+
+
+
+0.000
+claims
+description
+46
+
+
+CZMRCDWAGMRECN-GDQSFJPYSA-N
+Sucrose
+Natural products
+
+
+O([C@@H]1[C@H](O)[C@@H](O)[C@H](O)[C@H](CO)O1)[C@@]1(CO)[C@H](O)[C@@H](O)[C@@H](CO)O1
+CZMRCDWAGMRECN-GDQSFJPYSA-N
+0.000
+claims
+description
+30
+
+
+239000005720
+sucrose
+Substances
+
+
+
+
+0.000
+claims
+description
+30
+
+
+229920001223
+polyethylene glycol
+Polymers
+
+
+
+
+0.000
+claims
+description
+24
+
+
+239000002202
+Polyethylene glycol
+Substances
+
+
+
+
+0.000
+claims
+description
+22
+
+
+210000003491
+Skin
+Anatomy
+
+
+
+
+0.000
+claims
+description
+20
+
+
+239000012530
+fluid
+Substances
+
+
+
+
+0.000
+claims
+description
+20
+
+
+229920005862
+polyol
+Polymers
+
+
+
+
+0.000
+claims
+description
+20
+
+
+150000003077
+polyols
+Chemical group
+
+
+
+
+0.000
+claims
+description
+20
+
+
+229920001296
+polysiloxane
+Polymers
+
+
+
+
+0.000
+claims
+description
+18
+
+
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+propylene glycol
+Chemical group
+
+
+CC(O)CO
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+0.000
+claims
+description
+16
+
+
+229920000642
+polymer
+Polymers
+
+
+
+
+0.000
+claims
+description
+12
+
+
+239000002562
+thickening agent
+Substances
+
+
+
+
+0.000
+claims
+description
+12
+
+
+229960001631
+Carbomer
+Drugs
+
+
+
+
+0.000
+claims
+description
+10
+
+
+239000004215
+Carbon black (E152)
+Substances
+
+
+
+
+0.000
+claims
+description
+10
+
+
+XMSXQFUHVRWGNA-UHFFFAOYSA-N
+Decamethylcyclopentasiloxane
+Chemical compound
+
+
+C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1
+XMSXQFUHVRWGNA-UHFFFAOYSA-N
+0.000
+claims
+description
+10
+
+
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+acrylic acid
+Chemical compound
+
+
+OC(=O)C=C
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+0.000
+claims
+description
+10
+
+
+229940086555
+cyclomethicone
+Drugs
+
+
+
+
+0.000
+claims
+description
+10
+
+
+229940008099
+dimethicone
+Drugs
+
+
+
+
+0.000
+claims
+description
+10
+
+
+239000004205
+dimethyl polysiloxane
+Substances
+
+
+
+
+0.000
+claims
+description
+10
+
+
+235000013870
+dimethyl polysiloxane
+Nutrition
+
+
+
+
+0.000
+claims
+description
+10
+
+
+150000002430
+hydrocarbons
+Chemical class
+
+
+
+
+0.000
+claims
+description
+10
+
+
+229920000435
+poly(dimethylsiloxane)
+Polymers
+
+
+
+
+0.000
+claims
+description
+10
+
+
+229920001888
+polyacrylic acid
+Polymers
+
+
+
+
+0.000
+claims
+description
+10
+
+
+CZMRCDWAGMRECN-UGDNZRGBSA-N
+D-sucrose
+Chemical compound
+
+
+O[C@H]1[C@H](O)[C@@H](CO)O[C@@]1(CO)O[C@@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O1
+CZMRCDWAGMRECN-UGDNZRGBSA-N
+0.000
+claims
+description
+8
+
+
+UQEAIHBTYFGYIE-UHFFFAOYSA-N
+Hexamethyldisiloxane
+Chemical compound
+
+
+C[Si](C)(C)O[Si](C)(C)C
+UQEAIHBTYFGYIE-UHFFFAOYSA-N
+0.000
+claims
+description
+8
+
+
+241001558929
+Sclerotium <basidiomycota>
+Species
+
+
+
+
+0.000
+claims
+description
+8
+
+
+229940005550
+Sodium alginate
+Drugs
+
+
+
+
+0.000
+claims
+description
+8
+
+
+229920000591
+gum
+Polymers
+
+
+
+
+0.000
+claims
+description
+8
+
+
+MSXHSNHNTORCAW-UHFFFAOYSA-M
+sodium 3,4,5,6-tetrahydroxyoxane-2-carboxylate
+Chemical compound
+
+
+[Na+].OC1OC(C([O-])=O)C(O)C(O)C1O
+MSXHSNHNTORCAW-UHFFFAOYSA-M
+0.000
+claims
+description
+8
+
+
+239000000661
+sodium alginate
+Substances
+
+
+
+
+0.000
+claims
+description
+8
+
+
+235000010413
+sodium alginate
+Nutrition
+
+
+
+
+0.000
+claims
+description
+8
+
+
+125000004432
+carbon atoms
+Chemical group
+
+
+C*
+
+0.000
+claims
+description
+6
+
+
+229920001577
+copolymer
+Polymers
+
+
+
+
+0.000
+claims
+description
+6
+
+
+150000002191
+fatty alcohols
+Chemical class
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000007788
+liquid
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+150000003626
+triacylglycerols
+Chemical class
+
+
+
+
+0.000
+claims
+description
+6
+
+
+IMAYJYGCQCZYID-UHFFFAOYSA-N
+1,3,5,7,9,11-hexaoxa-2,4,6,8,10,12-hexasilacyclododecane
+Chemical compound
+
+
+O1[SiH2]O[SiH2]O[SiH2]O[SiH2]O[SiH2]O[SiH2]1
+IMAYJYGCQCZYID-UHFFFAOYSA-N
+0.000
+claims
+description
+4
+
+
+229940058015
+1,3-butylene glycol
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+XDOFQFKRPWOURC-UHFFFAOYSA-M
+16-methylheptadecanoate
+Chemical compound
+
+
+CC(C)CCCCCCCCCCCCCCC([O-])=O
+XDOFQFKRPWOURC-UHFFFAOYSA-M
+0.000
+claims
+description
+4
+
+
+SVTBMSDMJJWYQN-UHFFFAOYSA-N
+2-Methyl-2,4-pentanediol
+Chemical compound
+
+
+CC(O)CC(C)(C)O
+SVTBMSDMJJWYQN-UHFFFAOYSA-N
+0.000
+claims
+description
+4
+
+
+GTJOHISYCKPIMT-UHFFFAOYSA-N
+2-Methylundecane
+Chemical compound
+
+
+CCCCCCCCCC(C)C
+GTJOHISYCKPIMT-UHFFFAOYSA-N
+0.000
+claims
+description
+4
+
+
+ICIDSZQHPUZUHC-UHFFFAOYSA-N
+2-octadecoxyethanol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCCOCCO
+ICIDSZQHPUZUHC-UHFFFAOYSA-N
+0.000
+claims
+description
+4
+
+
+FBPFZTCFMRRESA-FSIIMWSLSA-N
+D-Glucitol
+Natural products
+
+
+OC[C@H](O)[C@H](O)[C@@H](O)[C@H](O)CO
+FBPFZTCFMRRESA-FSIIMWSLSA-N
+0.000
+claims
+description
+4
+
+
+FBPFZTCFMRRESA-JGWLITMVSA-N
+D-glucitol
+Chemical compound
+
+
+OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+FBPFZTCFMRRESA-JGWLITMVSA-N
+0.000
+claims
+description
+4
+
+
+229940100573
+METHYLPROPANEDIOL
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229940068918
+Polyethylene Glycol 400
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229920001451
+Polypropylene glycol
+Polymers
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229940100459
+STEARETH-20
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+ZZXIXQRNGZFIQT-JSJITEFISA-N
+[(2S,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)-2-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxolan-2-yl]methyl (Z)-octadec-9-enoate
+Chemical compound
+
+
+O([C@@H]1[C@@H]([C@@H](O)[C@H](O)[C@@H](CO)O1)O)[C@]1(COC(=O)CCCCCCC\C=C/CCCCCCCC)O[C@H](CO)[C@@H](O)[C@@H]1O
+ZZXIXQRNGZFIQT-JSJITEFISA-N
+0.000
+claims
+description
+4
+
+
+SZYSLWCAWVWFLT-UTGHZIEOSA-N
+[(2S,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)-2-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxolan-2-yl]methyl octadecanoate
+Chemical compound
+
+
+O([C@@H]1[C@@H]([C@@H](O)[C@H](O)[C@@H](CO)O1)O)[C@]1(COC(=O)CCCCCCCCCCCCCCCCC)O[C@H](CO)[C@@H](O)[C@@H]1O
+SZYSLWCAWVWFLT-UTGHZIEOSA-N
+0.000
+claims
+description
+4
+
+
+UEYVMVXJVDAGBB-ZHBLIPIOSA-N
+[(2S,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)-2-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxolan-2-yl]methyl tetradecanoate
+Chemical compound
+
+
+O([C@@H]1[C@@H]([C@@H](O)[C@H](O)[C@@H](CO)O1)O)[C@]1(COC(=O)CCCCCCCCCCCCC)O[C@H](CO)[C@@H](O)[C@@H]1O
+UEYVMVXJVDAGBB-ZHBLIPIOSA-N
+0.000
+claims
+description
+4
+
+
+125000005250
+alkyl acrylate group
+Chemical group
+
+
+
+
+0.000
+claims
+description
+4
+
+
+235000019437
+butane-1,3-diol
+Nutrition
+
+
+
+
+0.000
+claims
+description
+4
+
+
+GZSSFSARCMSPPW-UHFFFAOYSA-N
+butane-2,2-diol
+Chemical compound
+
+
+CCC(C)(O)O
+GZSSFSARCMSPPW-UHFFFAOYSA-N
+0.000
+claims
+description
+4
+
+
+PUPZLCDOIYMWBV-UHFFFAOYSA-N
+butylene glycol
+Chemical compound
+
+
+CC(O)CCO
+PUPZLCDOIYMWBV-UHFFFAOYSA-N
+0.000
+claims
+description
+4
+
+
+229920003086
+cellulose ether
+Polymers
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229940071160
+cocoate
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000006184
+cosolvent
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+DDJSWKLBKSLAAZ-UHFFFAOYSA-N
+cyclotetrasiloxane
+Chemical compound
+
+
+O1[SiH2]O[SiH2]O[SiH2]O[SiH2]1
+DDJSWKLBKSLAAZ-UHFFFAOYSA-N
+0.000
+claims
+description
+4
+
+
+229940051250
+hexylene glycol
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000000600
+sorbitol
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229960002920
+sorbitol
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+235000015112
+vegetable and seed oil
+Nutrition
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000008158
+vegetable oil
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000000230
+xanthan gum
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229920001285
+xanthan gum
+Polymers
+
+
+
+
+0.000
+claims
+description
+4
+
+
+235000010493
+xanthan gum
+Nutrition
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229940082509
+xanthan gum
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+URZHQOCYXDNFGN-UHFFFAOYSA-N
+2,4,6-trimethyl-2,4,6-tris(3,3,3-trifluoropropyl)-1,3,5,2,4,6-trioxatrisilinane
+Chemical compound
+
+
+FC(F)(F)CC[Si]1(C)O[Si](C)(CCC(F)(F)F)O[Si](C)(CCC(F)(F)F)O1
+URZHQOCYXDNFGN-UHFFFAOYSA-N
+0.000
+claims
+4
+
+
+150000002148
+esters
+Chemical class
+
+
+
+
+0.000
+claims
+2
+
+
+239000002537
+cosmetic
+Substances
+
+
+
+
+0.000
+abstract
+description
+14
+
+
+230000001804
+emulsifying
+Effects
+
+
+
+
+0.000
+abstract
+description
+8
+
+
+150000003445
+sucroses
+Chemical class
+
+
+
+
+0.000
+abstract
+description
+6
+
+
+239000000499
+gel
+Substances
+
+
+
+
+0.000
+description
+48
+
+
+239000004615
+ingredient
+Substances
+
+
+
+
+0.000
+description
+36
+
+
+HEMHJVSKTPXQMS-UHFFFAOYSA-M
+sodium hydroxide
+Chemical compound
+
+
+[OH-].[Na+]
+HEMHJVSKTPXQMS-UHFFFAOYSA-M
+0.000
+description
+24
+
+
+239000002585
+base
+Substances
+
+
+
+
+0.000
+description
+18
+
+
+239000000654
+additive
+Substances
+
+
+
+
+0.000
+description
+16
+
+
+239000008367
+deionised water
+Substances
+
+
+
+
+0.000
+description
+16
+
+
+239000003109
+Disodium ethylene diamine tetraacetate
+Substances
+
+
+
+
+0.000
+description
+14
+
+
+230000000996
+additive
+Effects
+
+
+
+
+0.000
+description
+14
+
+
+235000019301
+disodium ethylene diamine tetraacetate
+Nutrition
+
+
+
+
+0.000
+description
+14
+
+
+ZGTMUACCHSMWAC-UHFFFAOYSA-L
+disodium;2-[2-[carboxylatomethyl(carboxymethyl)amino]ethyl-(carboxymethyl)amino]acetate
+Chemical compound
+
+
+[Na+].[Na+].OC(=O)CN(CC([O-])=O)CCN(CC(O)=O)CC([O-])=O
+ZGTMUACCHSMWAC-UHFFFAOYSA-L
+0.000
+description
+14
+
+
+238000000034
+method
+Methods
+
+
+
+
+0.000
+description
+14
+
+
+239000003205
+fragrance
+Substances
+
+
+
+
+0.000
+description
+12
+
+
+239000004530
+micro-emulsion
+Substances
+
+
+
+
+0.000
+description
+12
+
+
+VLPFTAMPNXLGLX-UHFFFAOYSA-N
+Axona
+Chemical group
+
+
+CCCCCCCC(=O)OCC(OC(=O)CCCCCCC)COC(=O)CCCCCCC
+VLPFTAMPNXLGLX-UHFFFAOYSA-N
+0.000
+description
+10
+
+
+239000003795
+chemical substances by application
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+239000002781
+deodorant agent
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+LADGBHLMCUINGV-UHFFFAOYSA-N
+tricaprin
+Chemical compound
+
+
+CCCCCCCCCC(=O)OCC(OC(=O)CCCCCCCCC)COC(=O)CCCCCCCCC
+LADGBHLMCUINGV-UHFFFAOYSA-N
+0.000
+description
+10
+
+
+239000004480
+active ingredient
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+239000002002
+slurry
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+230000015572
+biosynthetic process
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+238000005755
+formation reaction
+Methods
+
+
+
+
+0.000
+description
+6
+
+
+239000000047
+product
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000000516
+sunscreening agent
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+WLAMNBDJUVNPJU-UHFFFAOYSA-N
+2-methylbutyric acid
+Chemical compound
+
+
+CCC(C)C(O)=O
+WLAMNBDJUVNPJU-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+229940120503
+Dihydroxyacetone
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+RXKJFZQQPQGTFL-UHFFFAOYSA-N
+Dihydroxyacetone
+Chemical compound
+
+
+OCC(=O)CO
+RXKJFZQQPQGTFL-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+241000209140
+Triticum
+Species
+
+
+
+
+0.000
+description
+4
+
+
+230000003213
+activating
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+FPIPGXGPPPQFEQ-OVSJKPMPSA-N
+all-trans-retinol
+Chemical compound
+
+
+OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C
+FPIPGXGPPPQFEQ-OVSJKPMPSA-N
+0.000
+description
+4
+
+
+239000000470
+constituent
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000007854
+depigmenting agent
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000008384
+inner phase
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000000873
+masking
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+239000011159
+matrix material
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000003020
+moisturizing
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+229920000058
+polyacrylate
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+102000004169
+proteins and genes
+Human genes
+
+
+
+
+0.000
+description
+4
+
+
+108090000623
+proteins and genes
+Proteins
+
+
+
+
+0.000
+description
+4
+
+
+239000000126
+substance
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000000699
+topical
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+235000021307
+wheat
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+VKPSKYDESGTTFR-UHFFFAOYSA-N
+2,2,4,6,6-pentamethylheptane
+Chemical compound
+
+
+CC(C)(C)CC(C)CC(C)(C)C
+VKPSKYDESGTTFR-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940035676
+ANALGESICS
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940116904
+ANTIINFLAMMATORY THERAPEUTIC RADIOPHARMACEUTICALS
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+XNEFYCZVKIDDMS-UHFFFAOYSA-N
+Avobenzone
+Chemical compound
+
+
+C1=CC(OC)=CC=C1C(=O)CC(=O)C1=CC=C(C(C)(C)C)C=C1
+XNEFYCZVKIDDMS-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+230000036912
+Bioavailability
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+TYQCGQRIZGCHNB-JLAZNSOCSA-N
+L-ascorbic acid
+Chemical compound
+
+
+OC[C@H](O)[C@H]1OC(O)=C(O)C1=O
+TYQCGQRIZGCHNB-JLAZNSOCSA-N
+0.000
+description
+2
+
+
+229940074726
+OPHTHALMOLOGIC ANTIINFLAMMATORY AGENTS
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229960003921
+Octisalate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+YBGZDTIWKVFICR-JLHYYAGUSA-N
+Octyl methoxycinnamate
+Chemical compound
+
+
+CCCCC(CC)COC(=O)\C=C\C1=CC=C(OC)C=C1
+YBGZDTIWKVFICR-JLHYYAGUSA-N
+0.000
+description
+2
+
+
+229940057874
+PHENYL TRIMETHICONE
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229920002565
+Polyethylene Glycol 400
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229940029983
+VITAMINS
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940021016
+Vitamin IV solution additives
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+230000032683
+aging
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000000202
+analgesic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000000730
+antalgic agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000058
+anti acne agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002260
+anti-inflammatory agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000000111
+anti-oxidant
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000001153
+anti-wrinkle
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000003963
+antioxidant agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000006708
+antioxidants
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000003908
+antipruritic agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229960005070
+ascorbic acid
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000010323
+ascorbic acid
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000011668
+ascorbic acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229960005193
+avobenzone
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+230000035514
+bioavailability
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000004581
+coalescence
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000008406
+cosmetic ingredient
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000003247
+decreasing
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000003111
+delayed
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000018109
+developmental process
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+QXNVGIXVLWOKEQ-UHFFFAOYSA-N
+disodium
+Chemical compound
+
+
+[Na][Na]
+QXNVGIXVLWOKEQ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000006185
+dispersion
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+KCXVZYZYPLLWCC-UHFFFAOYSA-N
+edta
+Chemical compound
+
+
+OC(=O)CN(CC(O)=O)CCN(CC(O)=O)CC(O)=O
+KCXVZYZYPLLWCC-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000003974
+emollient agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000012467
+final product
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000009472
+formulation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000012458
+free base
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000004676
+glycans
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+glycol
+Chemical compound
+
+
+OCCO
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000003906
+humectant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000000887
+hydrating
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000007791
+liquid phase
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000463
+material
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229960001679
+octinoxate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+WCJLCOAEJIHPCW-UHFFFAOYSA-N
+octyl 2-hydroxybenzoate
+Chemical compound
+
+
+CCCCCCCCOC(=O)C1=CC=CC=C1O
+WCJLCOAEJIHPCW-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000008385
+outer phase
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000825
+pharmaceutical preparation
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000049
+pigment
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920001282
+polysaccharide
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+239000005017
+polysaccharide
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000004804
+polysaccharides
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229960003471
+retinol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000020944
+retinol
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000011607
+retinol
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000000926
+separation method
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000003381
+stabilizer
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000000475
+sunscreen
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000004094
+surface-active agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+LINXHFKHZLOLEI-UHFFFAOYSA-N
+trimethyl-[phenyl-bis(trimethylsilyloxy)silyl]oxysilane
+Chemical compound
+
+
+C[Si](C)(C)O[Si](O[Si](C)(C)C)(O[Si](C)(C)C)C1=CC=CC=C1
+LINXHFKHZLOLEI-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000011782
+vitamin
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000013343
+vitamin
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229930003231
+vitamins
+Natural products
+
+
+
+
+0.000
+description
+2
+
+
+239000007762
+w/o emulsion
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920003169
+water-soluble polymer
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+
+Classifications
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/60—Sugars; Derivatives thereof
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/02—Cosmetics or similar toiletry preparations characterised by special physical form
+
+
+A61K8/04—Dispersions; Emulsions
+
+
+A61K8/06—Emulsions
+
+
+A61K8/062—Oil-in-water emulsions
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q15/00—Anti-perspirants or body deodorants
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+A61Q19/04—Preparations for care of the skin for chemically tanning the skin
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q5/00—Preparations for care of the hair
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/20—Chemical, physico-chemical or functional or structural properties of the composition as a whole
+
+
+A61K2800/26—Optical properties
+
+
+A61K2800/262—Transparent; Translucent
+
+
+
+
+
+
+
+
+Abstract
+
+The present invention relates to transparent or clear emulsions for cosmetic or pharmaceutical use. The transparent emulsions of the present invention comprise an oil phase, containing at least one lipophilic solvent; an aqueous phase; and an emulsifying system containing at least one non-ethoxylated fatty acid ester emulsifier having a hydrophilic-lipophilic balance (âHLBâ) from about 11 to about 16. Preferred non-ethoxylated fatty acid ester emulsifiers are sucrose esters, in particular sucrose palmitate and sucrose laurate.
+
+
+
+
+Description
+
+BACKGROUND OF THE INVENTION
+Emulsions are formed from at least two liquid phases, typically oil and water, that are immiscible in each other. In an oil-in-water emulsion, for example, the oil phase is comprised of ingredients which are substantially insoluble in water. In this type of emulsion, the oil phase is composed of droplets that are finely dispersed in the water phase. It is therefore referred to as the inner or discontinuous phase, while the water phase is referred to as the outer or continuous phase. Conversely, in a water-in-oil emulsion, the water phase is finely dispersed in the oil phase and is referred to as the inner, discontinuous, phase, while the oil phase is the outer, continuous phase. Emulsions are inherently unstable and tend to separate into their constituent phases. Emulsions must therefore include emulsifiers which help create and maintain the uniform fine dispersion of the inner phase in the outer phase, and retard or prevent coalescence of the droplets and eventual separation of the emulsion into its constituent phases.
+Emulsionsâboth water-in-oil and oil-in-waterâare typically opaque (i.e., white or pale yellow in color). Transparent emulsion systems were described, in theory, as early as the 1940s. In those systems, in order to achieve transparency, the refractive indexes of the oil and water phases had to be matched prior to formation of the emulsion. See, e.g., Clayton, Theory of Emulsions, page 153 (4th Edition, 1943). Although they had been described in the 1940's, transparent emulsion systems of this type did not become commercially available until much later.
+Transparent emulsions first became commercially available in the early 1960s. However, these emulsions did not achieve their transparency by matching refractive indexes. Rather, a transparent appearance was achieved by making the size of the dispersed droplets small enough (i.e., less than about 0.08 microns) so as to be unresolvable by visible light. Such emulsions are known as microemulsions. See, e.g., Gallagher, âMicroemulsion Gels: A Formulator's Guide,â Happi (February 1993). Microemulsions typically required a high content (i.e., 15-20%) of high hydrophilic-lipophilic balance (âHLBâ) non-ionic ethoxylated emulsifiers. Illustrative are Scoreâ¢ and Clean and Groomâ¢ hair dressings. See, e.g., U.S. Pat. No. 3,101,300. Because non-ionic ethoxylated emulsifiers are defatting and irritating to the skin when used at high levels, products containing them were viewed as unacceptable for topical application to the skin for an extended period of time. At least one previous attempt to formulate a clear microemulsion gel without the use of ethoxylated emulsifiers was unsuccessful. Gallagher described such an ethoxylated emulsifier-free microemulsion gel as not stable, having a very high set point, becoming clouded upon aging. Gallagher, supra.
+By the early 1980sâwith the availability of cyclomethicone and the introduction of specialty water-in-silicone emulsifiers (e.g. dimethicone copolyols) as raw materialsâthe development of transparent water-in-oil emulsions that were not microemulsions and that achieved their transparency by matching the refractive indexes of the oil and water phase became commercially possible. See, e.g., Dow Corning, âUsing Silicone Formulation Aids to Formulate Cosmetic Systems: Quick Start Guideâ (1995). Such transparent water-in-oil emulsions had several drawbacks. For example, they have the drawbacks typically associated with water-in-oil emulsions in general, such as delayed bioavailability of water-soluble active ingredients. Because such active ingredients are in the inner phase they can only become bioavailable after the emulsion breaks down. In addition, it is difficult to make refractive index adjustments at the end of processing. Therefore, in order to achieve transparency, the refractive indexes of the oil and water phases of these transparent water-in-oil emulsions had to be matched before combining the two phases.
+Transparent oil-in-water emulsions overcome the above limitations. First, they have the advantageous characteristics typical of oil-in-water emulsions. Thus, for example, water-soluble active ingredients can be easily added to the aqueous phase and are bioavailable at, or shortly after, application. In addition the refractive index of the aqueous phase can be readily adjusted (e.g., by adding water to adjust the refractive index downward, or by adding glycerin or propylene glycol to adjust the refractive index upward) after the emulsion has been formed to match the refractive index of the oil phase. It is therefore not necessary to perfectly match the refractive indexes of the two phases before formation of the emulsion.
+While some transparent oil-in-water emulsions have been described in the prior art, such emulsions generally contain ethoxylated emulsifiers and have a tendency to dry the skin. Furthermore, they generally require more vigorous mixing and are more viscous so that they tend to trap bubbles, which are difficult to remove and which negatively affect the clarity of the final product. Thus, there is a need for transparent oil-in-water emulsions which are not only milder to the skin, but also easier to process.
+SUMMARY OF THE INVENTION
+The invention is a novel transparent or clear oil-in-water emulsion which comprises an oil phase containing at least one lipophilic solvent; an aqueous phase; and an emulsifying system containing at least one non-ethoxylated fatty acid ester having an HLB from about 11 to about 16. The refractive indexes of the aqueous and oil phases of the emulsion are matched so that the resulting emulsion is essentially transparent or clear. The refractive index of the aqueous phase is about Â±0.003 to about Â±0.007 of that of the oil phase, preferably about or less than Â±0.005. Optionally, a polymeric additive may be incorporated into the aqueous phase of the emulsion to create an emulsion gel of varying viscosities depending on the amount and type of polymer used.
+DETAILED DESCRIPTION OF INVENTION
+The transparent oil-in-water emulsion of the present invention is suitable for application to skin or hair. The novel transparent or clear oil-in-water emulsion comprises an oil phase containing at least one lipophilic solvent; an aqueous phase; and an emulsifying system containing at least one non-ethoxylated fatty acid ester having an HLB from about 11 to about 16. The refractive indexes of the aqueous and oil phases of the emulsion are matched so that the resulting emulsion is essentially transparent or clear. The refractive index of the aqueous phase is about Â±0.003 to about Â±0.007 of that of the oil phase, preferably about or less than Â±0.005. Optionally, a polymeric additive may be incorporated into the aqueous phase of the emulsion to create an emulsion gel of varying viscosities depending on the amount and type of polymer used.
+The oil-in-water emulsions of the present invention are exceptionally mild. This is not only because the emulsifiers used in the present invention are exceptionally mild and considerably less irritating to the skin and eyes than ethoxylated emulsifiers, but also because surprisingly the level necessary to stabilize the emulsions (and thus the total level of total emulsifier present) has been found to be very low. Indeed, surprisingly sucrose esters alone can stabilize the emulsions of the invention. The water-in-oil emulsions of the present invention surprisingly have also been found to have skin moisturizing properties.
+In addition to their mild and hydrating characteristics, the emulsions of the present invention are also more conveniently processed. In order to achieve transparency in an emulsion, it is important that air bubbles be eliminated or essentially minimized from the emulsion. Prior art emulsions, in particular those containing ethoxylated emulsifiers, required high shear mixing which tends to entrap small bubbles. Since removal of smaller bubbles is difficult, those bubbles often remain in the final products, thereby decreasing clarity and transparency. In contrast, it has been surprisingly found that transparent oil-in-water emulsions of the present invention may be formed by medium energy loop mixing. Bubbles produced during this lower energy process tend to be bigger and rise to the surface of the emulsion (where they burst), thus resulting in an essentially bubble-free emulsion. Furthermore, since a stable emulsion according to the present invention can be formed with low levels of sucrose esters, the resulting base emulsion is relatively more flowable than prior art emulsions which required a larger concentration of surfactant, and thus tend to be more viscous. Whereas bubbles become entrapped in the more viscous prior art base emulsions, the more flowable emulsions of the present invention allow bubbles to rise and dissipate, producing an aesthetically acceptable transparent base emulsion. The increased flowability of the emulsions of the present invention is also advantageous because the viscosity and consistency of the emulsion may be adjusted within a relatively wide range after formation of the emulsion by the addition of polymeric additives in the quantity and type necessary to achieve the desired characteristics. Furthermore, this is accomplished on an essentially bubble-free base emulsion. In contrast, the addition of polymeric thickeners to prior art emulsions tends to further entrap smaller bubbles already present.
+The oil phase of the present invention comprises at least one lipophilic solvent and preferably other lipophilic cosmetic or pharmaceutically useful ingredients known to those of ordinary skill in the art. Preferably the lipophilic solvent is selected from the group consisting of volatile silicone fluids, non-volatile silicone fluids, high molecular weight silicone polymers in the range from about 60,000 centistokes to about 1,000,000 centistokes, liquid fatty alcohols from 16 to 22 carbon atoms per molecule, volatile hydrocarbon fluids and vegetable oils. Preferred volatile silicone fluids which can be used in the oil phase of the present invention include cyclomethicone (cyclopentasiloxane, cyclohexasiloxane, cyclotetrasiloxane) and dimethicone (0.65 centistokes). A preferred volatile hydrocarbon fluid usable in the present invention is isododecane, sold under the tradename Permethyl 99A, by Presperse Inc., Piscataway, N.J. The oil phase may further comprise a lipophilic co-solvent selected from the group consisting of fatty acid esters, liquid branched chain fatty alcohols from 16 to 20 carbon atoms in length, and triglycerides. A preferred triglyceride is caprylic/capric triglyceride. To improve feel, dimethicone/vinyl dimethicone cross polymer may be added to the oil phase. The oil phase comprises from about 30% to about 70% by weight of the emulsion, preferably from about 40% to about 50%. In order to aid in matching refractive indexes of the aqueous and oil phases, the oil phase may include index adjusting agents known to those of ordinary skill in the art such as halogenated solvents.
+The aqueous phase of the present invention comprises water and preferably other water-soluble cosmetically or pharmaceutically useful ingredients known to those of ordinary skill in the art. In order to aid in matching the refractive indexes of the aqueous and oil phases, the aqueous preferably includes one or more polyols selected from the group consisting of glycerin, polyethylene glycol, propylene glycol, polypropylene glycol, 1,3 butylene glycol, methylpropanediol, hexylene glycol and sorbitol. Preferably the polyol has a molecular weight from about 75 to about 10,000 daltons, more preferably from about 200 to about 5000 daltons, and most preferably from about 300 to about 1000 daltons. A preferred polyol for use in the present invention is polyethylene glycol 400, sold under the tradename Carbowax PEG 400 by Union Carbide, Houston, Tex., alone or in combination with glycerin. Preferably, the polyol is present in an amount of from about 10% to about 35% of the total composition, more preferably from about 15% to about 30% of the total composition, and most preferably it makes up from about 18% to about 25% of the total composition. Alternatively to the polyol, the aqueous phase of the emulsion may contain polysaccharides or other agents known to those of ordinary skill in the art to be useful in adjusting the refractive index of the aqueous phase.
+The emulsifying system includes at least one non-ethoxylated fatty acid ester emulsifier having an HLB from about 11 to about 16, preferably from about 13 to about 16. Preferably the emulsifier is a sucrose ester. More preferably the sucrose ester emulsifier is selected from the group consisting of sucrose laurate, sucrose stearate, sucrose palmitate, sucrose oleate, sucrose myristate, sucrose cocoate and sucrose isostearate, or a combination thereof. Most preferably the non-ethoxylated emulsifier is a sucrose laurate or a sucrose palmitate. Preferably the percentage of the non-ethoxylated fatty acid ester is less than 5% by weight of the total composition, more preferably less than 3% by weight of the total composition, and most preferably less than 1.5%. When the non-ethoxylated fatty acid ester is a sucrose ester, the preferred range is from about 0.5 to 5% by weight of the total composition, and more preferably from about 1 to about 2.5% by weight of the total composition, and most preferably less than 1.5% of the total composition.
+Optionally, a polymeric additive may be incorporated into the aqueous phase of the emulsion in order to achieve a desired viscosity or gel consistency. The polymeric additive is a water soluble polymer selected from the group consisting of sclerotium gum, xanthan gum, sodium alginate, carbomer, cellulose ethers and acrylate polymers. Sclerotium gum is sold under the tradename Clearogel CS11D by MMP, Inc., South Plainfield, N.J. Acrylate polymers usable in the present invention include: steareth-20 methylacrylate copolymer, sold under the tradename Aculyn 22 by Rohm & Haas Company, Philadelphia, Pa.; Pemulen TR-1 and TR-2 (C10-C30 alkyl acrylate crosspolymer), both sold by Goodrich Specialty Chemicals, Cleveland, Ohio; and Hypan QT1000 and SA100H, both acrylonitrogen copolymers, sold by Lipo Chemicals, Inc., Patterson, N.J. Preferred polymers for use in the present invention are Clearogel CS11D and Aculyn 22. Depending upon the viscosity to be achieved, the amount of polymeric additive can range from about 0.1% to about 2.5% by weight of the total composition, preferably 0.5 % to 0.75 % by weight of the total composition. In general, the greater the amount of the polymeric additive, the greater the viscosity.
+The present invention can be utilized in a wide range of cosmetic and pharmaceutical products, including, but not limited to, transparent deodorant gels, transparent skin and eye moisturizing gels, transparent hair conditioner and glosser gels, transparent autobronzer gels, transparent sunscreen gels, transparent skin tightening gels and other transparent dermatologic vehicles for delivering pharmaceutically active ingredients (e.g., ascorbic acid and retinol).
+In order to produce the desired products, the basic components of the invention as described above may be combined with other cosmetic and pharmaceutical ingredients which are well known to cosmetic and pharmaceutical chemists. Examples of such additional components include, but are not limited to, antiseborrheic agents, anti-acne agents, antioxidants, skin lightening agents, depigmenting agents, anti-wrinkle agents, vitamins, sunscreen agents, self-tanning agents, topical analgesics, anti-inflammatory agents, antipruritic agents, deodorants, as well as purely cosmetic ingredients, such as pigments, water soluble emollients, humectants, stabilizers and fragrances. Sunscreen agents which are most suitable for use in the present invention include octyl methoxycinnamate, octyl salicylate and avobenzone.
+The transparent oil-in-water gel emulsion of the present invention is prepared according to principles and techniques generally known to those skilled in the cosmetic and pharmaceutical arts. As described below, a base emulsion comprising the oil and water phases and non-ethoxylated fatty acid ester emulsifier is prepared. A polymeric thickener is optionally added to the base emulsion when increased viscosity is desired. Finally, refractive indexes of the oil and water phases are matched. More particularly, ingredients which are miscible or soluble in the water phase are combined with the non-ethoxylated fatty acid ester emulsifier using a loop blade mixer at medium speed (i.e., from about 200 to about 250 rotations per minute) in a main vessel. Air bubbles, if any, are removed from the aqueous phase by slow mixing with a loop blade mixer (i.e., from about 60 to about 100 rotations per minute). Oil phase ingredients are combined in a separate vessel. After the refractive indexes of the oil and water phases are matched to one another using the polyols described above or other techniques and materials known to those of ordinary skill in the art, the oil phase is gradually added to the main vessel. The two phases are combined and emulsified by gradually increasing the speed of the loop mixer from slow to medium as described above. Next, polymeric thickeners are added. Lastly, final adjustments to match the refractive indexes are made (e.g., by adding water to adjust the refractive index downward, or by adding glycerin or propylene glycol to adjust the refractive index upward).
+The invention is further illustrated by the following examples, which are intended to illustrate and not limit the invention.
+EXAMPLE 1
+
+
+
+
+
+ 
+
+
+Transparent Deodorant Gel
+
+
+
+
+ 
+% w/w
+
+
+ 
+ 
+
+
+
+
+ 
+Phase A
+Deionized water
+15.50
+
+
+ 
+ 
+Disodium ethylenediamine-
+0.10
+
+
+ 
+ 
+tetraacetate (EDTA)
+
+
+ 
+ 
+Glycerin
+12.00
+
+
+ 
+ 
+Polyethylene glycol (PEG-8)
+12.00
+
+
+ 
+ 
+Sucrose laurate (38% Sol.)
+4.00
+
+
+ 
+Phase B
+Caprylic/Capric Triglyceride
+15.95
+
+
+ 
+ 
+Masking Fragrance
+0.30
+
+
+ 
+ 
+Cyclopentasiloxane
+35.00
+
+
+ 
+Phase C
+Aculyn 22
+2.00
+
+
+ 
+ 
+Water
+2.00
+
+
+ 
+Phase D
+Sodium hydroxide (18% Sol.)
+1.15
+
+
+ 
+ 
+
+
+
+
+
+The transparent deodorant gel of Example 1 was made according to the following procedure: The non-ethoxylated fatty acid ester emulsifier (i.e., sucrose laurate) and the remaining aqueous phase ingredients (i.e., deionized water, disodium EDTA, glycerin and PEG-8) were combined in a main mixing vessel with a loop blade mixer at medium speed (i.e., from about 200 to about 250 rpm). When the aqueous phase ingredients were fully combined, air bubbles were removed by slow mixing with a loop blade mixer (i.e., from about 60 to about 100 rpm), and the refractive index of Phase A was measured. Next, the oil phase ingredients (Phase B) were combined with a stirrer. Since the Phase B ingredients are easily miscible in one another, mechanical mixing (e.g., loop blade mixing) was not required. The refractive index of aqueous Phase A was measured and matched to within 0.005 of that of oil Phase B. Phase B was then gradually added to the main vessel containing Phase A; the two phases were combined using a loop blade mixer at medium speed creating a base emulsion. Next, the polymeric thickener of Phase C (i.e., Aculyn 22) was added to the base emulsion. Sodium hydroxide (Phase D) was then added to the emulsion of Phases A, B and C thereby raising the pH of the base emulsion, activating the Aculyn 22 to form a polymeric matrix, and thickening the emulsion to the desired viscosity. Final adjustments were made to match the refractive index of the water phase to that of the oil phase by adding water or glycerin.
+The deodorant gel of Example 1 was transparent and had a viscosity 49,500 centipoise with a pH of 7.0. Viscosity was measured using a Brookfield viscometer with an LV4 spindle at 12 rpm; pH was measured using a standard pH meter. This emulsion was stable at 45Â° C. for more than two months, at room temperature for more than six months, and after three freeze/thaw cycles.
+EXAMPLE 2
+
+
+
+
+
+ 
+
+
+Transparent Hair Gel
+
+
+
+
+ 
+% w/w
+
+
+ 
+ 
+
+
+
+
+ 
+Phase A
+Deionized Water
+17.30
+
+
+ 
+ 
+Disodium EDTA
+0.10
+
+
+ 
+ 
+Carbomer
+0.50
+
+
+ 
+ 
+Sucrose laurate (38% Sol.)
+4.00
+
+
+ 
+ 
+Hydrolyzed wheat protein
+1.00
+
+
+ 
+ 
+Glycerin
+12.00
+
+
+ 
+ 
+PEG-8
+12.00
+
+
+ 
+Phase B
+Cyclopentasiloxane
+35.00
+
+
+ 
+ 
+Phenyl trimethicone
+5.00
+
+
+ 
+ 
+Caprylic/Capric triglyceride
+11.45
+
+
+ 
+ 
+Masking fragrance
+0.30
+
+
+ 
+Phase C
+Sodium hydroxide (18% Sol.)
+1.35
+
+
+ 
+ 
+
+
+
+
+
+The transparent hair gel of Example 2 was made as described below. The aqueous phase ingredients (Phase A) were combined in the following order: Carbomer was fully dispersed in the mixture of deionized water and disodium EDTA in a main mixing vessel with a loop blade mixer at medium speed (i.e., from about 200 to about 250 rpm). Next, the non-ethoxylated fatty acid ester emulsifier (i.e., sucrose laurate) was added, followed by the hydrolized wheat protein, then PEG-8 and, finally, glycerin. When the aqueous phase ingredients were fully combined, air bubbles were removed by slow mixing with the loop blade mixer (i.e., from about 60 to about 100 rpm), and the refractive index of Phase A was measured. Next, the oil phase ingredients (Phase B) were combined with a stirrer. Since the Phase B ingredients are easily miscible in one another, mechanical mixing (e.g., loop blade mixer) was not required. The refractive index of aqueous Phase A was measured and matched to within 0.005 of that of oil Phase B. Phase B was then gradually added to the main vessel containing Phase A and the two phases were combined using a loop blade mixer at medium speed. Finally, sodium hydroxide (Phase C) was added to raise the pH of the base emulsion, thereby activating the carbomer to form a polymeric matrix and thickening the emulsion to the desired viscosity. Final adjustments were made to match the refractive index of the water phase to that of the oil phases by adding water or glycerin.
+The hair gel of Example 2 was transparent and had a viscosity of 42,000 centipoise with a pH of 6.8. Viscosity and pH were measured as in Example 1. This emulsion was stable at 40Â° C. for more than two months, at room temperature for more than six months, and after three freeze/thaw cycles.
+EXAMPLE 3
+
+
+
+
+
+ 
+
+
+Transparent Autobronzer
+
+
+
+
+ 
+% w/w
+
+
+ 
+ 
+
+
+
+
+ 
+Phase A
+Deionized water
+27.50
+
+
+ 
+ 
+Disodium EDTA
+0.10
+
+
+ 
+ 
+Glycerin
+5.00
+
+
+ 
+ 
+PEG-8
+10.00
+
+
+ 
+ 
+Dihydroxyacetone
+5.00
+
+
+ 
+ 
+Sucrose laurate (38% Sol.)
+4.00
+
+
+ 
+Phase B
+Cyclopentasiloxane
+42.50
+
+
+ 
+ 
+Fragrance
+0.30
+
+
+ 
+Phase C
+Glycerin
+5.00
+
+
+ 
+ 
+Sodium alginate
+0.60
+
+
+ 
+ 
+
+
+
+
+
+The transparent autobronzer gel of Example 3 was made according to the following procedure: The aqueous phase of the emulsion was prepared by combining the non-ethoxylated fatty acid ester emulsifier (i.e., sucrose laurate) with deionized water, disodium EDTA, PEG-8 and dihydroxyacetone in a main mixing vessel with a loop blade mixer at medium speed (i.e., from about 200 to about 250 rpm). When the aqueous phase ingredients were fully combined, air bubbles were removed by slow mixing with the loop blade mixer (i.e., from about 60 to about 100 rpm). The refractive indexes of Phases A and B were matched to within 0.005 of one another. Phase B was then gradually added to the main vessel; mixing speed was gradually increased from slow to medium according to the above-described ranges. Glycerin and sodium alginate were combined into a slurry in a separate vessel. That slurry was then gradually added to the main vessel and medium speed mixing was continued for 30 minutes. Final adjustments were made to match the refractive index of the water phase to that of the oil phase by adding water or glycerin.
+The autobronzer gel of Example 3 was transparent and had a viscosity of 17,000 centipoise with a pH of 5.0. Viscosity and pH were measured as in Example 1. This emulsion was stable at 40Â° C. for more than two months, at room temperature for more than six months, and after three freeze/thaw cycles.
+EXAMPLE 4
+
+
+
+
+
+ 
+
+
+Transparent Eye Gel
+
+
+
+
+ 
+% w/w
+
+
+ 
+ 
+
+
+
+
+ 
+Phase A
+Deionized water
+27.50
+
+
+ 
+ 
+Disodium EDTA
+0.10
+
+
+ 
+ 
+Sucrose Palmitate
+2.00
+
+
+ 
+ 
+Glycerin
+7.00
+
+
+ 
+ 
+PEG-8
+13.00
+
+
+ 
+Phase B
+Cyclomethicone
+32.95
+
+
+ 
+ 
+Caprylic/Capric Triglyceride
+12.00
+
+
+ 
+ 
+Fragrance
+0.30
+
+
+ 
+Phase C
+Glycerin
+5.00
+
+
+ 
+ 
+Clearogel CS11D
+0.15
+
+
+ 
+ 
+
+
+
+
+
+The transparent eye gel of Example 4 was made according to the following procedure: A trial aqueous phase system was prepared by combining at 55Â° C. the non-ethoxylated fatty acid ester emulsifier (i.e., sucrose palmitate) with deionized water, disodium EDTA, glycerin and PEG-8 of Phase A with the glycerin of Phase C in a main mixing vessel with a loop blade mixer at medium speed (i.e., from about 200 to about 250 rpm). When the trial aqueous system ingredients were fully combined, air bubbles were removed by slow mixing with the loop blade mixer (i.e., from about 60 to about 100 rpm). The trial aqueous system was allowed to cool to about 40Â° C. at which time its refractive index was measured. Next, the oil Phase B of the emulsion was prepared by combining cyclomethicone, caprylic/capric triglyceride and fragrance in a side mixing vessel. Since the Phase B ingredients are easily miscible in one another, mechanical mixing (e.g., loop blade mixer) was not required. The refractive index of the trial aqueous phase system was then matched to within 0.005 of that of oil Phase B by adding glycerin or water to the trial aqueous phase.
+Aqueous Phase A (i.e., without the glycerin of Phase C) was then prepared by combining the ingredients listed in the table above in a main mixing vessel with an amount of water or glycerin determined to be necessary to match the refractive index of the trial aqueous phase system to within 0.005 of that of oil Phase B. Phase B was then gradually added to the main mixing vessel; mixing speed was gradually increased from slow to medium according to the above-described ranges. Next, the sclerotium gum polymeric additive (i.e., Clearogel CS11D) and glycerin of Phase C were combined into a slurry in a separate vessel. That slurry was then gradually added to the main vessel and medium speed mixing was continued for 30 minutes at 35-40Â° C. Final adjustments were made to match the refractive index of the aqueous phase to 0.005 of that of oil phase.
+The eye gel of Example 4 was transparent and had a viscosity of 16,000 centipoise with a pH of 6.45. Viscosity and pH were measured as in Example 1.
+
+
+
+
+Claims (16)
+
+ 
+1. A transparent oil-in-water gel emulsion composition for application to skin or hair comprising:
+(a) an oil phase, containing at least one lipophilic solvent;
+(b) an aqueous phase, containing at least one polyol;
+(c) at least one sucrose ester emulsifier having an HLB from about 11 to about 16 at a concentration of less than 5% by weight of the total composition; wherein the at least one sucrose ester emulsifier is selected from the group consisting of sucrose laurate, sucrose stearate, sucrose palmitate, sucrose oleate, sucrose myristate, sucrose cocoate, and sucrose isostearate; and
+(d) a polymeric thickener wherein the polymeric thickener is selected from the group consisting of sclerotium gum, xanthan gum, sodium alginate, Carbomer, cellulose ethers, steareth-20 methylacrylate copolymer and C10-C30 alkyl acrylate crosspolymer
+
+wherein the refractive index of the aqueous phase is about or less than +/â0.005 of that of the oil phase.
+
+  
+2. A composition according to claim 1 wherein the lipophilic solvent of the oil phase is selected from the group consisting of volatile silicone fluids, non-volatile silicone fluids, high molecular weight silicone polymers in the viscosity range of from about 60,000 centistokes to about 1,000,000 centistokes, liquid fatty alcohols from 16 to 22 carbon atoms per molecule, volatile hydrocarbon fluids, esters and vegetable oils.
+
+  
+3. A composition according to claim 2 wherein the lipophilic solvent of the oil phase is a volatile silicone fluid.
+
+  
+4. A composition according to claim 3 wherein the volatile silicone fluid is selected from the group consisting of cyclomethicone (cyclopentasiloxane, cyclohexasiloxane, cyclotetrasiloxane) and dimethicone (0.65 centistokes).
+
+  
+5. A composition according to claim 2 wherein the lipophilic solvent of the oil phase is a volatile hydrocarbon fluid.
+
+  
+6. A composition according to claim 5 wherein the volatile hydrocarbon fluid is isododecane.
+
+  
+7. A composition according to claim 1 wherein the lipophilic solvent of the oil phase further comprises a lipophilic co-solvent selected from the group consisting of fatty acid esters and triglycerides.
+
+  
+8. A composition according to claim 1 wherein the polyol of the aqueous phase is selected from the group consisting of glycerin, polyethylene glycol, propylene glycol, polypropylene glycol, 1,3 butylene glycol, methylpropanediol, hexylene glycol and sorbitol.
+
+  
+9. A composition according to claim 1 wherein the molecular weight of the polyol is from about 300 to about 1,000 daltons.
+
+  
+10. A composition according to claim 1 wherein the polyol is polyethylene glycol 400.
+
+  
+11. A composition according to claim 1 wherein the at least one sucrose ester emulsifier is present at a concentration of less than about 3% by weight of the total composition.
+
+  
+12. A composition according to claim 11 wherein the at least one sucrose ester is a sucrose laurate.
+
+  
+13. A composition according to claim 11 wherein the at least one sucrose ester is a sucrose palmitate.
+
+  
+14. composition according to claim 1 wherein the at least one sucrose ester emulsifier is present at a concentration of less than about 1.5% by weight of the total composition.
+
+  
+15. A composition according to claim 14 wherein the at least one sucrose ester is a sucrose laurate.
+
+  
+16. A composition according to claim 14 wherein the at least one sucrose ester is a sucrose palmitate. 
+
+ 
+
+
+
+
+US10/282,821
+2002-10-28
+2002-10-28
+Transparent oil-in-water emulsion 
+       
+Expired - Fee Related
+
+US7488471B2
+            (en)
+        
+
+Priority Applications (3)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+US10/282,821
+
+US7488471B2
+                          (en)
+                      
+2002-10-28
+2002-10-28
+Transparent oil-in-water emulsion 
+       
+
+
+FR0312595A
+
+FR2846234B1
+                          (en)
+                      
+2002-10-28
+2003-10-28
+
+  TRANSPARENT EMULSION OIL IN WATER
+ 
+     
+
+
+US10/948,993
+
+US7563435B2
+                          (en)
+                      
+2002-10-28
+2004-09-24
+Transparent lip treatment gel 
+       
+
+
+
+Applications Claiming Priority (2)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+US10/282,821
+
+US7488471B2
+                          (en)
+                      
+2002-10-28
+2002-10-28
+Transparent oil-in-water emulsion 
+       
+
+
+FR0312595A
+
+FR2846234B1
+                          (en)
+                      
+2002-10-28
+2003-10-28
+
+  TRANSPARENT EMULSION OIL IN WATER
+ 
+     
+
+
+
+Related Child Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+US10/948,993
+Continuation-In-Part
+
+US7563435B2
+                          (en)
+                      
+2002-10-28
+2004-09-24
+Transparent lip treatment gel 
+       
+
+
+
+Publications (2)
+
+
+
+Publication Number
+Publication Date
+
+
+
+
+
+US20040081633A1
+US20040081633A1
+                       (en)
+                   
+
+2004-04-29
+
+
+US7488471B2
+true
+US7488471B2
+                       (en)
+                   
+
+2009-02-10
+
+
+
+
+
+Family
+ID=32826965
+Family Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+US10/282,821
+Expired - Fee Related
+
+US7488471B2
+                          (en)
+                      
+
+2002-10-28
+2002-10-28
+Transparent oil-in-water emulsion 
+       
+
+
+
+Country Status (2)
+
+
+
+Country
+Link
+
+
+
+
+
+US
+                (1)
+              
+
+
+
+US7488471B2
+                  (en)
+              
+
+
+
+FR
+                (1)
+              
+            
+
+
+FR2846234B1
+                  (en)
+              
+
+
+
+
+Cited By (7)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US20040265258A1
+              (en)
+            
+*
+
+2002-12-31
+2004-12-30
+Robinson Freda E.
+Hair care compositions 
+       
+
+
+
+US20040265261A1
+              (en)
+            
+*
+
+2003-04-24
+2004-12-30
+Beiersdorf Ag
+Cleansing emulsion 
+       
+
+
+
+US20060147504A1
+              (en)
+            
+*
+
+2004-12-30
+2006-07-06
+Bobby Corry
+Feminine anti-itch cloth 
+       
+
+
+
+US8933134B2
+              (en)
+            
+
+2010-06-09
+2015-01-13
+L'oreal
+Compositions containing agar and a softening agent 
+       
+
+
+
+US9872832B2
+              (en)
+            
+
+2015-10-23
+2018-01-23
+LG Bionano, LLC
+Nanoemulsions having reversible continuous and dispersed phases 
+       
+
+
+
+US9999578B2
+              (en)
+            
+
+2011-06-16
+2018-06-19
+Chanel Parfums Beaute
+Translucent and syrupy cosmetic composition 
+       
+
+
+
+US20200148859A1
+              (en)
+            
+*
+
+2016-04-06
+2020-05-14
+Rohm And Haas Company
+Air treatment and long term fragrance release gel 
+       
+
+
+
+Families Citing this family (23)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+DE602005012829D1
+              (en)
+            
+*
+
+2004-07-20
+2009-04-02
+Ciba Holding Inc
+
+  COSMETIC OR WZW. DERMATOLOGICAL PREPARATIONS WITH EFFECTIVE LIGHT PROTECTION
+ 
+     
+
+
+
+US7276553B2
+              (en)
+            
+*
+
+2004-12-10
+2007-10-02
+Avon Products, Inc.
+Aesthetic, stable chromatic emulsions 
+       
+
+
+
+US20070134174A1
+              (en)
+            
+*
+
+2005-11-03
+2007-06-14
+Christopher Irwin
+Personal care composition 
+       
+
+
+
+US20070183994A1
+              (en)
+            
+*
+
+2006-02-03
+2007-08-09
+Toma's, L.L.C.
+Self-tanning product having slimming, firming and toning properties associated therewith 
+       
+
+
+
+EP1967178A1
+              (en)
+            
+*
+
+2007-03-07
+2008-09-10
+Raffinerie Notre Dame - Orafti S.A.
+Fructan-based epilatory compositions 
+       
+
+
+
+GB0822823D0
+              (en)
+            
+*
+
+2008-12-15
+2009-01-21
+Dow Corning
+Silicone oi-in-water emulsions 
+     
+
+
+
+US8673329B2
+              (en)
+            
+*
+
+2009-11-06
+2014-03-18
+Kao Corporation
+Oil-in-water-type emulsion cosmetic 
+       
+
+
+
+JP5698675B2
+              (en)
+            
+*
+
+2009-11-06
+2015-04-08
+è±çæ ªå¼ä¼ç¤¾
+
+  Emulsified cosmetics
+ 
+       
+
+
+
+RS53930B1
+              (en)
+            
+
+2010-09-20
+2015-08-31
+L'orÃ©al
+Aqueous cosmetic composition comprising alkylcellulose 
+       
+
+
+
+FR2985176B1
+              (en)
+            
+
+2012-01-02
+2015-05-29
+Oreal
+
+  AQUEOUS LIQUID COSMETIC COMPOSITION COMPRISING ALKYLCELLULOSE, NON-VOLATILE OILS AND AT LEAST ONE SURFACTANT
+ 
+     
+
+
+
+US9668474B2
+              (en)
+            
+
+2012-02-10
+2017-06-06
+Stepan Company
+Structured surfactant suspending systems 
+       
+
+
+
+FR2987745B1
+              (en)
+            
+*
+
+2012-03-07
+2014-04-11
+Gilbert Lab
+
+  HEALTH CARE HEALTH AND CARE COMPOSITION
+ 
+     
+
+
+
+US20130243717A1
+              (en)
+            
+*
+
+2012-03-19
+2013-09-19
+The Procter & Gamble Company
+Superabsorbent polymers and silicone elastomer for use in hair care compositions 
+       
+
+
+
+GB201313583D0
+              (en)
+            
+
+2013-07-30
+2013-09-11
+Sphere Fluidics Ltd
+Emulsion 
+     
+
+
+
+GB2516684A
+              (en)
+            
+
+2013-07-30
+2015-02-04
+Sphere Fluidics Ltd
+Microfluidic devices and systems 
+       
+
+
+
+CN106687105B
+              (en)
+            
+*
+
+2014-09-03
+2021-03-23
+è·å°èåå©åæéå¬å¸
+Transparent cosmetic and personal care compositions 
+       
+
+
+
+CN107007480B
+              (en)
+            
+*
+
+2015-11-30
+2021-08-17
+å¯å£«è¶çæ ªå¼ä¼ç¤¾
+Gel-like oil-in-water emulsion composition, external skin preparation, and method for producing oil-in-water emulsion composition 
+       
+
+
+
+WO2017108584A1
+              (en)
+            
+
+2015-12-21
+2017-06-29
+L'oreal
+Composition comprising alkylcellulose, incompatible hydrocarbon and silicone oils and method employing it 
+       
+
+
+
+US20190224332A1
+              (en)
+            
+*
+
+2016-09-07
+2019-07-25
+Cadila Healthcare Limited
+Sterile injectable compositions comprising drug micelles 
+       
+
+
+
+EP3613408B1
+              (en)
+            
+*
+
+2017-04-21
+2021-02-24
+FUJIFILM Corporation
+Gel type oil-in-water emulsion composition 
+       
+
+
+
+FR3079745B1
+              (en)
+            
+*
+
+2018-04-06
+2020-03-13
+Sederma
+
+  OIL IN WATER EMULSION FORMING A MEMORY SHAPE CREAM
+ 
+     
+
+
+
+CN114752660A
+              (en)
+            
+*
+
+2018-10-19
+2022-07-15
+å çº½ç¾çåæ¯å¬å¸
+Phase-isolated water-in-oil transparent coarse emulsion and application thereof 
+       
+
+
+
+GB202006525D0
+              (en)
+            
+
+2020-05-04
+2020-06-17
+Sphere Fluidics Ltd
+Surfactant 
+     
+
+
+
+Citations (53)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+GB2079300A
+              (en)
+            
+
+1980-07-01
+1982-01-20
+Gen Electric
+>Transparent Silicone Emulsions 
+     
+
+
+
+US4379755A
+              (en)
+            
+*
+
+1978-08-10
+1983-04-12
+Nihon Surfactant Industry Co., Ltd.
+Gelatinizing agent composition, and gel and aqueous emulsion prepared therefrom 
+       
+
+
+
+US4526780A
+              (en)
+            
+
+1981-03-09
+1985-07-02
+Colgate-Palmolive Company
+Anhydrous antiperspirant composition 
+       
+
+
+
+US4784844A
+              (en)
+            
+
+1979-12-03
+1988-11-15
+General Electric Company
+Volatile silicone-water emulsions and methods of preparation and use 
+       
+
+
+
+FR2618351A1
+              (en)
+            
+
+1987-07-20
+1989-01-27
+Mero Rousselot Satia
+Transparent gelled emulsions and process for obtaining them 
+       
+
+
+
+US4814165A
+              (en)
+            
+
+1987-03-03
+1989-03-21
+Kolmar Laboratories Inc.
+Emulsified hydrated stick product 
+       
+
+
+
+US4842848A
+              (en)
+            
+
+1985-07-11
+1989-06-27
+Sumitomo Chemical Company, Limited
+Make-up cosmetics 
+       
+
+
+
+US4983377A
+              (en)
+            
+
+1989-10-31
+1991-01-08
+The Procter & Gamble Company
+Silicone hairspray compositions 
+       
+
+
+
+US4983418A
+              (en)
+            
+
+1989-10-31
+1991-01-08
+The Procter & Gamble Company
+Silicone hairspray compositions 
+       
+
+
+
+US5250289A
+              (en)
+            
+
+1987-07-24
+1993-10-05
+The Boots Company Plc
+Sunscreen compositions 
+       
+
+
+
+US5290555A
+              (en)
+            
+
+1989-09-14
+1994-03-01
+Revlon Consumer Products Corporation
+Cosmetic compositions with structural color 
+       
+
+
+
+US5300286A
+              (en)
+            
+
+1992-07-14
+1994-04-05
+Dow Corning Corporation
+Silicone emulsion for personal care application 
+       
+
+
+
+US5478550A
+              (en)
+            
+
+1992-11-06
+1995-12-26
+Nippon Inorganic Colour & Chemical Co., Ltd.
+Ultraviolet-shielding agent, method for the preparation thereof and cosmetic composition compounded therewith 
+       
+
+
+
+US5599533A
+              (en)
+            
+
+1994-12-15
+1997-02-04
+Estee Lauder, Inc.
+Stable water-in-oil emulsion system 
+       
+
+
+
+US5620682A
+              (en)
+            
+
+1993-03-25
+1997-04-15
+Bernel Chemical Co.
+Sunscreen compositions 
+       
+
+
+
+US5725845A
+              (en)
+            
+
+1995-11-03
+1998-03-10
+Revlon Consumer Products Corporation
+Transfer resistant cosmetic stick compositions with semi-matte finish 
+       
+
+
+
+US5746945A
+              (en)
+            
+*
+
+1993-12-06
+1998-05-05
+Stepan Company
+Water-in-oil emulsions containing increased amounts of oil and methods for preparing same 
+       
+
+
+
+US5750096A
+              (en)
+            
+
+1996-12-20
+1998-05-12
+The Procter & Gamble Company
+Low residue antiperspirant gel-solid stick compositions containing select gellants 
+       
+
+
+
+US5789506A
+              (en)
+            
+
+1992-06-16
+1998-08-04
+Nippon Shokubai Co., Ltd.
+Resinous particles, method for production thereof, and uses therefor 
+       
+
+
+
+US5798111A
+              (en)
+            
+
+1997-06-27
+1998-08-25
+Chesebrough-Pond's Usa Co., Division Of Conopco, Inc.
+Clear emulsion cosmetic compositions 
+       
+
+
+
+US5800816A
+              (en)
+            
+
+1994-10-25
+1998-09-01
+Revlon Consumer Products Corporation
+Cosmetic compositions 
+       
+
+
+
+US5804173A
+              (en)
+            
+
+1996-09-04
+1998-09-08
+The Procter & Gamble Company
+Personal care compositions 
+       
+
+
+
+US5830447A
+              (en)
+            
+
+1996-09-04
+1998-11-03
+The Procter & Gamble Company
+Personal care compositions 
+       
+
+
+
+US5840286A
+              (en)
+            
+
+1996-12-20
+1998-11-24
+Procter & Gamble Company
+Methods of making low residue antiperspirant gel-solid stick compositions 
+       
+
+
+
+US5863525A
+              (en)
+            
+
+1990-10-04
+1999-01-26
+The Gillette Company
+Cosmetic formulation 
+       
+
+
+
+US5863546A
+              (en)
+            
+
+1997-03-02
+1999-01-26
+Swinehart; James M
+Cosmetic composition 
+       
+
+
+
+US5863527A
+              (en)
+            
+
+1996-09-04
+1999-01-26
+The Proctor & Gamble Company
+Personal care compositions 
+       
+
+
+
+US5876702A
+              (en)
+            
+*
+
+1995-12-21
+1999-03-02
+Beiersdorf Ag
+Cosmetic and dermatological light protection formulations in the form of O/W macroemulsions, O/W microemulsions or O/W/O emulsions 
+       
+
+
+
+US5916548A
+              (en)
+            
+
+1996-09-04
+1999-06-29
+The Procter & Gamble Company
+Personal care compositions 
+       
+
+
+
+US5922311A
+              (en)
+            
+*
+
+1996-02-07
+1999-07-13
+L'oreal
+Oil-in-water emulsion, compositions comprising an oil-in-water emulsion, and uses thereof 
+       
+
+
+
+US5972359A
+              (en)
+            
+
+1997-05-23
+1999-10-26
+The Procter & Gamble Company
+Skin care compositions and method of improving skin appearance 
+       
+
+
+
+US5980921A
+              (en)
+            
+
+1995-11-06
+1999-11-09
+The Procter & Gamble Company
+Topical compositions for regulating the oily/shiny appearance of skin 
+       
+
+
+
+US5997890A
+              (en)
+            
+
+1997-05-23
+1999-12-07
+The Procter & Gamble Company
+Skin care compositions and method of improving skin appearance 
+       
+
+
+
+US6001373A
+              (en)
+            
+
+1993-10-02
+1999-12-14
+The Procter & Gamble Company
+Cosmetic make-up compositions 
+       
+
+
+
+US6001377A
+              (en)
+            
+
+1997-05-23
+1999-12-14
+The Procter & Gamble Company
+Skin care compositions and method of improving skin appearance 
+       
+
+
+
+US6022547A
+              (en)
+            
+
+1994-12-06
+2000-02-08
+Helene Curtis, Inc.
+Rinse-off water-in-oil-in-water compositions 
+       
+
+
+
+US6066314A
+              (en)
+            
+
+1997-10-29
+2000-05-23
+Colgate-Palmolive Company
+Antiperspirant actives and formulations made therefrom 
+       
+
+
+
+US6103250A
+              (en)
+            
+
+1999-07-06
+2000-08-15
+Revlon Consumer Products Corporation
+Anhydrous cosmetic compositions containing emulsifying siloxane elastomer 
+       
+
+
+
+US6120778A
+              (en)
+            
+
+1995-12-21
+2000-09-19
+L'oreal
+Transparent nanoemulsion based on silicone surfactants and use in cosmetics or in dermopharmaceuticals 
+       
+
+
+
+US6171581B1
+              (en)
+            
+
+1998-12-18
+2001-01-09
+Revlon Consumer Products Corporation
+Water and oil emulsion solid antiperspirant/deodorant compositions 
+       
+
+
+
+US6171601B1
+              (en)
+            
+
+1996-12-20
+2001-01-09
+The Procter & Gamble Company
+Low residue antiperspirant gel-solid stick compositions 
+       
+
+
+
+US6174533B1
+              (en)
+            
+
+1997-05-23
+2001-01-16
+The Procter & Gamble Company
+Skin care compositions and method of improving skin appearance 
+       
+
+
+
+US6183766B1
+              (en)
+            
+
+1999-02-12
+2001-02-06
+The Procter & Gamble Company
+Skin sanitizing compositions 
+       
+
+
+
+EP1097704A1
+              (en)
+            
+
+1999-11-05
+2001-05-09
+L'oreal
+Transparent or translucide emulsions, their preparation process and their use in cometic 
+       
+
+
+
+US6274152B1
+              (en)
+            
+
+1994-10-25
+2001-08-14
+Revlon Consumer Products Corporation
+Cosmetic compositions 
+       
+
+
+
+US6299890B1
+              (en)
+            
+
+1999-12-22
+2001-10-09
+Revlon Consumer Products Corporation
+Makeup compositions 
+       
+
+
+
+US6333053B1
+              (en)
+            
+
+1998-10-06
+2001-12-25
+L'oreal
+Use of a specific particulate phase in a cosmetic composition, in particular a makeup composition, and cosmetic composition comprising such a particulate phase 
+       
+
+
+
+US6355260B1
+              (en)
+            
+
+1996-12-10
+2002-03-12
+Catalysts & Chemicals Industries Co., Ltd.
+Inorganic compound-coated pigments and cosmetics using the same 
+       
+
+
+
+US6361783B2
+              (en)
+            
+
+1997-06-27
+2002-03-26
+Reulon Consumer Products Corporation
+Compositions containing stabilized ascorbic acid and related methods 
+       
+
+
+
+US6365629B1
+              (en)
+            
+
+1999-05-10
+2002-04-02
+Alto, Inc.
+Fatty acid esters of aromatic alcohols and their use in cosmetic formulations 
+       
+
+
+
+US6365141B2
+              (en)
+            
+
+1998-11-06
+2002-04-02
+General Electric Company
+Method of using an aralkylsiloxane 
+       
+
+
+
+US6379682B1
+              (en)
+            
+
+2000-02-07
+2002-04-30
+Color Access, Inc.
+Clear water-in-oil emulsions 
+       
+
+
+
+US7262158B1
+              (en)
+            
+*
+
+1999-07-01
+2007-08-28
+Johnson & Johnson Companies, Inc.
+Cleansing compositions comprising a liquid silicone and ester mixture 
+       
+
+
+
+Family Cites Families (3)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+JPS5436162B2
+              (en)
+            
+*
+
+1972-05-23
+1979-11-07
+
+
+
+
+
+US5725493A
+              (en)
+            
+*
+
+1994-12-12
+1998-03-10
+Avery; Robert Logan
+Intravitreal medicine delivery 
+       
+
+
+
+US5977890A
+              (en)
+            
+*
+
+1997-06-12
+1999-11-02
+International Business Machines Corporation
+Method and apparatus for data compression utilizing efficient pattern discovery 
+       
+
+
+
+
+
+2002
+
+
+2002-10-28
+US
+US10/282,821
+patent/US7488471B2/en
+not_active
+Expired - Fee Related
+
+
+
+
+
+2003
+
+
+2003-10-28
+FR
+FR0312595A
+patent/FR2846234B1/en
+not_active
+Expired - Fee Related
+
+
+
+
+
+
+Patent Citations (60)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US4379755A
+              (en)
+            
+*
+
+1978-08-10
+1983-04-12
+Nihon Surfactant Industry Co., Ltd.
+Gelatinizing agent composition, and gel and aqueous emulsion prepared therefrom 
+       
+
+
+
+US4784844A
+              (en)
+            
+
+1979-12-03
+1988-11-15
+General Electric Company
+Volatile silicone-water emulsions and methods of preparation and use 
+       
+
+
+
+GB2079300A
+              (en)
+            
+
+1980-07-01
+1982-01-20
+Gen Electric
+>Transparent Silicone Emulsions 
+     
+
+
+
+US4526780A
+              (en)
+            
+
+1981-03-09
+1985-07-02
+Colgate-Palmolive Company
+Anhydrous antiperspirant composition 
+       
+
+
+
+US4842848A
+              (en)
+            
+
+1985-07-11
+1989-06-27
+Sumitomo Chemical Company, Limited
+Make-up cosmetics 
+       
+
+
+
+US4814165A
+              (en)
+            
+
+1987-03-03
+1989-03-21
+Kolmar Laboratories Inc.
+Emulsified hydrated stick product 
+       
+
+
+
+FR2618351A1
+              (en)
+            
+
+1987-07-20
+1989-01-27
+Mero Rousselot Satia
+Transparent gelled emulsions and process for obtaining them 
+       
+
+
+
+US5250289A
+              (en)
+            
+
+1987-07-24
+1993-10-05
+The Boots Company Plc
+Sunscreen compositions 
+       
+
+
+
+US5290555A
+              (en)
+            
+
+1989-09-14
+1994-03-01
+Revlon Consumer Products Corporation
+Cosmetic compositions with structural color 
+       
+
+
+
+US4983377A
+              (en)
+            
+
+1989-10-31
+1991-01-08
+The Procter & Gamble Company
+Silicone hairspray compositions 
+       
+
+
+
+US4983418A
+              (en)
+            
+
+1989-10-31
+1991-01-08
+The Procter & Gamble Company
+Silicone hairspray compositions 
+       
+
+
+
+US5863525A
+              (en)
+            
+
+1990-10-04
+1999-01-26
+The Gillette Company
+Cosmetic formulation 
+       
+
+
+
+US5789506A
+              (en)
+            
+
+1992-06-16
+1998-08-04
+Nippon Shokubai Co., Ltd.
+Resinous particles, method for production thereof, and uses therefor 
+       
+
+
+
+US5300286A
+              (en)
+            
+
+1992-07-14
+1994-04-05
+Dow Corning Corporation
+Silicone emulsion for personal care application 
+       
+
+
+
+US5478550A
+              (en)
+            
+
+1992-11-06
+1995-12-26
+Nippon Inorganic Colour & Chemical Co., Ltd.
+Ultraviolet-shielding agent, method for the preparation thereof and cosmetic composition compounded therewith 
+       
+
+
+
+US5620682A
+              (en)
+            
+
+1993-03-25
+1997-04-15
+Bernel Chemical Co.
+Sunscreen compositions 
+       
+
+
+
+US6001373A
+              (en)
+            
+
+1993-10-02
+1999-12-14
+The Procter & Gamble Company
+Cosmetic make-up compositions 
+       
+
+
+
+US5746945A
+              (en)
+            
+*
+
+1993-12-06
+1998-05-05
+Stepan Company
+Water-in-oil emulsions containing increased amounts of oil and methods for preparing same 
+       
+
+
+
+US6274152B1
+              (en)
+            
+
+1994-10-25
+2001-08-14
+Revlon Consumer Products Corporation
+Cosmetic compositions 
+       
+
+
+
+US5800816A
+              (en)
+            
+
+1994-10-25
+1998-09-01
+Revlon Consumer Products Corporation
+Cosmetic compositions 
+       
+
+
+
+US5800816C1
+              (en)
+            
+
+1994-10-25
+2001-10-02
+Revlon Consumer Prod Corp
+Cosmetic compositions 
+     
+
+
+
+US5985298A
+              (en)
+            
+
+1994-10-25
+1999-11-16
+Revlon Consumer Products Corporation
+Cosmetic compositions 
+       
+
+
+
+US5911974A
+              (en)
+            
+
+1994-10-25
+1999-06-15
+Revlon Consumer Products Corporation
+Cosmetic compositions 
+       
+
+
+
+US6022547A
+              (en)
+            
+
+1994-12-06
+2000-02-08
+Helene Curtis, Inc.
+Rinse-off water-in-oil-in-water compositions 
+       
+
+
+
+US5599533A
+              (en)
+            
+
+1994-12-15
+1997-02-04
+Estee Lauder, Inc.
+Stable water-in-oil emulsion system 
+       
+
+
+
+US5725845A
+              (en)
+            
+
+1995-11-03
+1998-03-10
+Revlon Consumer Products Corporation
+Transfer resistant cosmetic stick compositions with semi-matte finish 
+       
+
+
+
+US6045782A
+              (en)
+            
+
+1995-11-03
+2000-04-04
+Revlon Consumer Products Corporation
+Transfer resistant cosmetic stick composition with semi-matte finish 
+       
+
+
+
+US5980921A
+              (en)
+            
+
+1995-11-06
+1999-11-09
+The Procter & Gamble Company
+Topical compositions for regulating the oily/shiny appearance of skin 
+       
+
+
+
+US6120778A
+              (en)
+            
+
+1995-12-21
+2000-09-19
+L'oreal
+Transparent nanoemulsion based on silicone surfactants and use in cosmetics or in dermopharmaceuticals 
+       
+
+
+
+US5876702A
+              (en)
+            
+*
+
+1995-12-21
+1999-03-02
+Beiersdorf Ag
+Cosmetic and dermatological light protection formulations in the form of O/W macroemulsions, O/W microemulsions or O/W/O emulsions 
+       
+
+
+
+US5922311A
+              (en)
+            
+*
+
+1996-02-07
+1999-07-13
+L'oreal
+Oil-in-water emulsion, compositions comprising an oil-in-water emulsion, and uses thereof 
+       
+
+
+
+US5916548A
+              (en)
+            
+
+1996-09-04
+1999-06-29
+The Procter & Gamble Company
+Personal care compositions 
+       
+
+
+
+US5804173A
+              (en)
+            
+
+1996-09-04
+1998-09-08
+The Procter & Gamble Company
+Personal care compositions 
+       
+
+
+
+US5863527A
+              (en)
+            
+
+1996-09-04
+1999-01-26
+The Proctor & Gamble Company
+Personal care compositions 
+       
+
+
+
+US5830447A
+              (en)
+            
+
+1996-09-04
+1998-11-03
+The Procter & Gamble Company
+Personal care compositions 
+       
+
+
+
+US6355260B1
+              (en)
+            
+
+1996-12-10
+2002-03-12
+Catalysts & Chemicals Industries Co., Ltd.
+Inorganic compound-coated pigments and cosmetics using the same 
+       
+
+
+
+US5750096A
+              (en)
+            
+
+1996-12-20
+1998-05-12
+The Procter & Gamble Company
+Low residue antiperspirant gel-solid stick compositions containing select gellants 
+       
+
+
+
+US5840286A
+              (en)
+            
+
+1996-12-20
+1998-11-24
+Procter & Gamble Company
+Methods of making low residue antiperspirant gel-solid stick compositions 
+       
+
+
+
+US6171601B1
+              (en)
+            
+
+1996-12-20
+2001-01-09
+The Procter & Gamble Company
+Low residue antiperspirant gel-solid stick compositions 
+       
+
+
+
+US5863546A
+              (en)
+            
+
+1997-03-02
+1999-01-26
+Swinehart; James M
+Cosmetic composition 
+       
+
+
+
+US6174533B1
+              (en)
+            
+
+1997-05-23
+2001-01-16
+The Procter & Gamble Company
+Skin care compositions and method of improving skin appearance 
+       
+
+
+
+US6001377A
+              (en)
+            
+
+1997-05-23
+1999-12-14
+The Procter & Gamble Company
+Skin care compositions and method of improving skin appearance 
+       
+
+
+
+US5972359A
+              (en)
+            
+
+1997-05-23
+1999-10-26
+The Procter & Gamble Company
+Skin care compositions and method of improving skin appearance 
+       
+
+
+
+US5997890A
+              (en)
+            
+
+1997-05-23
+1999-12-07
+The Procter & Gamble Company
+Skin care compositions and method of improving skin appearance 
+       
+
+
+
+US5798111A
+              (en)
+            
+
+1997-06-27
+1998-08-25
+Chesebrough-Pond's Usa Co., Division Of Conopco, Inc.
+Clear emulsion cosmetic compositions 
+       
+
+
+
+US6361783B2
+              (en)
+            
+
+1997-06-27
+2002-03-26
+Reulon Consumer Products Corporation
+Compositions containing stabilized ascorbic acid and related methods 
+       
+
+
+
+US6066314A
+              (en)
+            
+
+1997-10-29
+2000-05-23
+Colgate-Palmolive Company
+Antiperspirant actives and formulations made therefrom 
+       
+
+
+
+US6333053B1
+              (en)
+            
+
+1998-10-06
+2001-12-25
+L'oreal
+Use of a specific particulate phase in a cosmetic composition, in particular a makeup composition, and cosmetic composition comprising such a particulate phase 
+       
+
+
+
+US6365141B2
+              (en)
+            
+
+1998-11-06
+2002-04-02
+General Electric Company
+Method of using an aralkylsiloxane 
+       
+
+
+
+US6171581B1
+              (en)
+            
+
+1998-12-18
+2001-01-09
+Revlon Consumer Products Corporation
+Water and oil emulsion solid antiperspirant/deodorant compositions 
+       
+
+
+
+US6183766B1
+              (en)
+            
+
+1999-02-12
+2001-02-06
+The Procter & Gamble Company
+Skin sanitizing compositions 
+       
+
+
+
+US6365629B1
+              (en)
+            
+
+1999-05-10
+2002-04-02
+Alto, Inc.
+Fatty acid esters of aromatic alcohols and their use in cosmetic formulations 
+       
+
+
+
+US7262158B1
+              (en)
+            
+*
+
+1999-07-01
+2007-08-28
+Johnson & Johnson Companies, Inc.
+Cleansing compositions comprising a liquid silicone and ester mixture 
+       
+
+
+
+US6103250A
+              (en)
+            
+
+1999-07-06
+2000-08-15
+Revlon Consumer Products Corporation
+Anhydrous cosmetic compositions containing emulsifying siloxane elastomer 
+       
+
+
+
+EP1097704A1
+              (en)
+            
+
+1999-11-05
+2001-05-09
+L'oreal
+Transparent or translucide emulsions, their preparation process and their use in cometic 
+       
+
+
+
+US6419909B1
+              (en)
+            
+
+1999-11-05
+2002-07-16
+L'oreal
+Transparent or translucent emulsions, process for preparing them and cosmetic use thereof 
+       
+
+
+
+US20020172703A1
+              (en)
+            
+
+1999-11-05
+2002-11-21
+L'oreal
+Transparent or translucent emulsions, process for preparing them and cosmetic use thereof 
+       
+
+
+
+US6616917B2
+              (en)
+            
+
+1999-11-05
+2003-09-09
+L'oreal
+Transparent or translucent emulsions, process for preparing them and cosmetic use thereof 
+       
+
+
+
+US6299890B1
+              (en)
+            
+
+1999-12-22
+2001-10-09
+Revlon Consumer Products Corporation
+Makeup compositions 
+       
+
+
+
+US6379682B1
+              (en)
+            
+
+2000-02-07
+2002-04-30
+Color Access, Inc.
+Clear water-in-oil emulsions 
+       
+
+
+
+
+
+Non-Patent Citations (11)
+
+* Cited by examiner, â  Cited by third party
+
+
+Title
+
+
+
+
+
+Database WPI Week 197430, Derwent Publications Ltd., London GB AN 1974-54387V; JP 49 009506 A.
+
+
+
+Deroni, "Microemulsions: A New Vehicle to Enhance the Efficacy of Active Ingredients in Cosmetics" from the 16th Congress of the IFSCC, The New York Hilton, New York, NY, vol. 2, pp. 62-67 (Oct. 1993).
+
+
+
+DiSapio, "New Approaches to Antiperspirant and Deodorant Formulation," Household & Personal Products Industry, pp. 43, 46, 50, 52 (Feb. 1986).
+
+
+
+Dow Corning, "Silicone Formulation Aids" (1995) (16 pages).
+
+
+
+Gallagher, "Microemulsion Gels: A Formulator's Guide," Household & Personal Products Industry pp. 58-64 (Feb. 1993).
+
+
+
+Goldemberg, "Silicones in Clear Emulsions," Drug & Cosmetic Industry, vol. 138, No. 2, pp. 34, 38, 40, 44 (Feb. 1986).
+
+
+
+Kahlweit, "Microemulsions" Science vol. 240, pp. 617-621 (Apr. 1988).
+
+
+
+Nelen, "Sisterna Sucrose Esters: The Route to Mildness,"from the HBA Global Exposition, Jacob Javits Convention Center, New York, NY (Oct. 14, 2002) (1 page).
+
+
+
+Rosen, "Silicone Innovation for Hair," Global Cosmetic Industry, vol. 170, No. 5, pp. 37-39 (May 2002).
+
+
+
+Sisterna, "Sisterna Sucrose Esters: A Novel Range of Multifunctional Raw Materials" (140 pages).
+
+
+
+Sisterna, "The Route to Mildness in Personal Care" from the HBA Global Exposition, Jacob Javits Convention Center, New York, NY (Oct. 14, 2002) (27 pages).
+
+
+
+
+
+Cited By (8)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US20040265258A1
+            (en)
+          
+*
+
+2002-12-31
+2004-12-30
+Robinson Freda E.
+Hair care compositions 
+       
+
+
+
+US20040265261A1
+            (en)
+          
+*
+
+2003-04-24
+2004-12-30
+Beiersdorf Ag
+Cleansing emulsion 
+       
+
+
+
+US20060147504A1
+            (en)
+          
+*
+
+2004-12-30
+2006-07-06
+Bobby Corry
+Feminine anti-itch cloth 
+       
+
+
+
+US8933134B2
+            (en)
+          
+
+2010-06-09
+2015-01-13
+L'oreal
+Compositions containing agar and a softening agent 
+       
+
+
+
+US9999578B2
+            (en)
+          
+
+2011-06-16
+2018-06-19
+Chanel Parfums Beaute
+Translucent and syrupy cosmetic composition 
+       
+
+
+
+US9872832B2
+            (en)
+          
+
+2015-10-23
+2018-01-23
+LG Bionano, LLC
+Nanoemulsions having reversible continuous and dispersed phases 
+       
+
+
+
+US20200148859A1
+            (en)
+          
+*
+
+2016-04-06
+2020-05-14
+Rohm And Haas Company
+Air treatment and long term fragrance release gel 
+       
+
+
+
+US10899913B2
+            (en)
+          
+*
+
+2016-04-06
+2021-01-26
+Rohm And Haas Company
+Air treatment and long term fragrance release gel 
+       
+
+
+
+
+Also Published As
+
+
+
+Publication number
+Publication date
+
+
+
+
+
+
+FR2846234B1
+              (en)
+            
+
+2005-08-05
+
+
+
+US20040081633A1
+              (en)
+            
+
+2004-04-29
+
+
+
+FR2846234A1
+              (en)
+            
+
+2004-04-30
+
+
+
+
+
+Similar Documents
+
+
+
+Publication
+Publication Date
+Title
+
+
+
+
+
+
+
+US7488471B2
+                (en)
+              
+
+
+2009-02-10
+
+Transparent oil-in-water emulsion 
+       
+
+
+
+
+AU706178B2
+                (en)
+              
+
+
+1999-06-10
+
+Stable water-in-oil emulsion system 
+       
+
+
+
+
+US5942213A
+                (en)
+              
+
+
+1999-08-24
+
+Water-in-oil emulsion stable in the course of time, with silicone content 
+       
+
+
+
+
+US9839588B2
+                (en)
+              
+
+
+2017-12-12
+
+Skin external preparation comprising an aqueous dispersion of finely dispersed wax, nonionic surfactant, and ionic water-soluble thickener 
+       
+
+
+
+
+US7276553B2
+                (en)
+              
+
+
+2007-10-02
+
+Aesthetic, stable chromatic emulsions 
+       
+
+
+
+
+CA2155765C
+                (en)
+              
+
+
+1999-05-11
+
+Cosmetic compositions 
+       
+
+
+
+
+US6509024B2
+                (en)
+              
+
+
+2003-01-21
+
+Composition in the form of water-in-oil emulsion and its cosmetic uses 
+       
+
+
+
+
+KR101490713B1
+                (en)
+              
+
+
+2015-02-06
+
+Low viscous O/W cosmetic composition having improved cosmetics formulation stability and safety 
+       
+
+
+
+
+JP2006528222A
+                (en)
+              
+
+
+2006-12-14
+
+
+  Clear oil-in-water emulsion
+ 
+       
+
+
+
+
+JP3608623B2
+                (en)
+              
+
+
+2005-01-12
+
+
+  Cosmetic composition
+ 
+     
+
+
+
+
+US11318074B2
+                (en)
+              
+
+
+2022-05-03
+
+Oil-in-water form cosmetic composition 
+       
+
+
+
+
+JP2014097936A
+                (en)
+              
+
+
+2014-05-29
+
+Water-in-silicone oil macroemulsion cosmetic composition 
+       
+
+
+
+
+US7563435B2
+                (en)
+              
+
+
+2009-07-21
+
+Transparent lip treatment gel 
+       
+
+
+
+
+US20040219125A1
+                (en)
+              
+
+
+2004-11-04
+
+Oily thickened gel-like composition, emulsified composition using the composition and preparation method thereof 
+       
+
+
+
+
+JP2003003013A
+                (en)
+              
+
+
+2003-01-08
+
+Oil-in-water emulsifier composition composed of alkylated polysaccharide and cosmetic using the same 
+       
+
+
+
+
+EP1214050A1
+                (en)
+              
+
+
+2002-06-19
+
+Skin-balance moisturizing cream 
+       
+
+
+
+
+JP2000290459A
+                (en)
+              
+
+
+2000-10-17
+
+Oil-in-water type emulsion composition having acrylic terpolymer, and its usage, especially pharmaceutical application 
+       
+
+
+
+
+JP5269243B1
+                (en)
+              
+
+
+2013-08-21
+
+
+  High internal water phase water-in-oil emulsified composition
+ 
+     
+
+
+
+
+GB2275419A
+                (en)
+              
+
+
+1994-08-31
+
+Cosmetic composition comprising silicone gum 
+       
+
+
+
+
+US20200368119A1
+                (en)
+              
+
+
+2020-11-26
+
+Oil-in-water fine emulsion cosmetic composition 
+     
+
+
+
+
+JPH0615449B2
+                (en)
+              
+
+
+1994-03-02
+
+
+  External water phase type cosmetics
+ 
+       
+
+
+
+
+JP3921426B2
+                (en)
+              
+
+
+2007-05-30
+
+
+  Oil-in-water gel composition containing sucrose fatty acid ester and water-soluble polymer
+ 
+     
+
+
+
+
+KR100388692B1
+                (en)
+              
+
+
+2003-06-25
+
+Stable oil-in-water emulsion, method for preparing same and use in cosmetics and dermatology 
+       
+
+
+
+
+CN115702863A
+                (en)
+              
+
+
+2023-02-17
+
+Multiple emulsion composition with improved stability of insoluble functional ingredient 
+       
+
+
+
+
+CN115702862A
+                (en)
+              
+
+
+2023-02-17
+
+Multiple emulsion composition with improved stability of insoluble functional ingredient 
+       
+
+
+
+
+
+Legal Events
+
+
+
+Date
+Code
+Title
+Description
+
+
+
+
+2003-01-14
+AS
+Assignment
+
+
+Owner name:
+              MMP, INC., NEW JERSEY
+
+
+Free format text:
+              ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MERCIER, MICHEL F.;THAU, PAUL;CHASE, JOHN A.;REEL/FRAME:013659/0667;SIGNING DATES FROM 20021220 TO 20021224
+
+
+
+
+2009-01-21
+STCF
+Information on status: patent grant
+
+
+Free format text:
+              PATENTED CASE
+
+
+
+
+2012-08-06
+FPAY
+Fee payment
+
+
+Year of fee payment:
+              4
+
+
+
+
+2016-07-18
+FPAY
+Fee payment
+
+
+Year of fee payment:
+              8
+
+
+
+
+2020-09-28
+FEPP
+Fee payment procedure
+
+
+Free format text:
+              MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+
+
+
+
+2021-03-15
+LAPS
+Lapse for failure to pay maintenance fees
+
+
+Free format text:
+              PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: SMALL ENTITY
+
+
+
+
+2021-03-15
+STCH
+Information on status: patent discontinuation
+
+
+Free format text:
+              PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+
+
+
+
+2021-04-06
+FP
+Lapsed due to failure to pay maintenance fee
+
+
+Effective date:
+              20210210
+
+
+
+
+
+
+
+
+
+
+
+
+
+

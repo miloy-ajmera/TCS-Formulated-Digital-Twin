@@ -1,0 +1,187 @@
+Document Name: role of Allantoin in Cream3
+Document link: https://go.drugbank.com/drugs/DB11100
+Allantoin: Uses, Interactions, Mechanism of Action | DrugBank Online
+OnlineBrowse
+
+
+ Drugs
+
+
+ Starred Drugs
+
+
+ Categories
+
+
+ Pathways
+
+
+ Drug Reactions
+
+
+ Drug Classification
+
+
+ Drug Targets
+
+
+ Pharmaco-genomics
+
+
+ Pharmaco-metabolomics
+
+
+ Pharmaco-transcriptomics
+
+
+ Pharmaco-proteomicsSearch
+
+
+ Chemical Structure
+
+
+ Molecular Weight
+
+
+ Drug & Food Interactions
+
+
+ Target Sequences
+
+
+ Pharmaco-omics
+
+
+ Advanced Search
+
+
+ MS Search
+
+
+ MS/MS Search
+
+
+ GC/MS Search
+
+
+ 1D NMR Search
+
+
+ 2D NMR SearchInteraction CheckerDownloadsProducts  Navigate to DrugBank.com to check out our commercial products, use cases and more!DrugBank For Commercial Research  Drug DatasetsStructured drug data for data science & MLDrugBank For Clinical Software  Clinical APIClinical intelligence tool for your softwareFeatures  Drug SearchCustomizable drug search options  Drug-Drug Interaction CheckerSearch for drug interactions with our API  Drug AllergyGet drug allergy and cross sensitivities info  US Drug LabelsIntegrate drug manufacturer informationAbout   Help Center
+
+
+ Citing DrugBank
+
+
+ DrugBank Online FAQs
+
+
+ Searching DrugBank
+
+
+ Other Databases
+
+
+ Data Sources   About
+
+
+ About DrugBank Online
+
+
+ DrugBank in Research
+
+
+ Statistics
+
+
+ Blog
+
+
+ Wishart Research Group
+
+
+ Contact Us
+
+
+ Log inDrugs
+Targets
+Pathways
+Indications 
+
+
+  
+
+
+ Achieve your goals faster with DrugBank on your side.Read Blog!
+
+
+
+
+
+NAV   
+
+
+ IdentificationSummaryBrand NamesNameAccession NumberBackgroundTypeGroupsStructureWeightChemical FormulaSynonymsPharmacologyIndicationAssociated ConditionsAssociated TherapiesContraindications & Blackbox WarningsPharmacodynamicsMechanism of actionAbsorptionVolume of distributionProtein bindingMetabolismRoute of eliminationHalf-lifeClearanceAdverse EffectsToxicityPathwaysPharmacogenomic Effects/ADRsInteractionsDrug InteractionsFood InteractionsProductsOver the Counter ProductsMixture ProductsUnapproved/Other ProductsCategoriesDrug CategoriesChemical TaxonomyAffected organismsChemical IdentifiersUNIICAS numberInChI KeyInChIIUPAC NameSMILESReferencesGeneral ReferencesExternal LinksFDA labelClinical TrialsPharmacoeconomicsManufacturersPackagersDosage FormsPricesPatentsPropertiesStateExperimental PropertiesPredicted PropertiesPredicted ADMET FeaturesSpectraMass SpecSpectraCarriers (1)Allantoin
+
+
+Star1IdentificationSummaryAllantoin is an ingredient used in skin care products to relieve irritation and protect minor cuts, scrapes, and burns.Brand NamesAllegra Cooling Relief Anti-itch, Anbesol Cold Sore Therapy, Mederma Advanced ScarGeneric NameAllantoinDrugBank Accession NumberDB11100BackgroundAllantoin is a substance that is endogenous to the human body and also found as a normal component of human diets Label. In healthy human volunteers, the mean plasma concentration of allantoin is about 2-3 mg/l. During exercise, the plasma allantoin concentration rapidly increases about two fold and remains elevated Label. In human muscle, urate is oxidized to allantoin during such exercise Label. The concentration of allantoin in muscles increases from a resting value of about 5000 ug/kg to about 16000 ug/kg immediately after short-term exhaustive cycling exercise Label. 
+More specifically, allantoin is a diureide of glyoxylic acid that is produced from uric acid. It is a major metabolic intermediate in most organisms. Allantoin is found in OTC cosmetic products and other commercial products such as oral hygiene products, in shampoos, lipsticks, anti-acne products, sun care products, and clarifying lotions 4. Allantoin has also demonstrated to ameliorate the wound healing process in some studies 1.
+TypeSmall MoleculeGroupsApprovedStructure
+
+
+3DDownload MOLSDF3D-SDFPDBSMILESInChI
+
+
+ Similar StructuresStructure for Allantoin (DB11100)× CloseWeightAverage: 158.1154 Monoisotopic: 158.043990078 Chemical FormulaC4H6N4O3Synonyms(2,5-Dioxo-4-imidazolidinyl)urea2,5-Dioxo-4-imidazolidinyl-urea4-ureido-2,5-imidazolidinedione5-Ureido-2,4-imidazolidindione5-UreidohydantoinAlantoínaAllantoinGlyoxyldiureideN-(2,5-Dioxo-4-imidazolidinyl)ureaPharmacologyIndicationAllantoin is commonly applied in a variety of topical vehicles or applications such as cosmetic creams, toothpastes, mouthwashes, shampoos, lipsticks, anti-acne products, and lotions 4 for the purpose of moisturizing skin, enhancing the smoothness of skin, stimulating the healing of wounds, and soothing irritated skin 4,Label.
+Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See howAssociated ConditionsScarringAssociated Therapies
+
+
+
+
+
+Dental cleaning therapy
+Skin Lightening
+Skin protectionContraindications & Blackbox WarningsAvoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn morePharmacodynamicsThere is no well controlled and appropriate data that can formally substantiate the pharmacodynamic properties of allantoin Label. Nevertheless, ongoing studies suggest that allantoin possesses moisturizing and keratolytic effects, as well as abilities to increase the water content of the extracellular matrix and enhance the desquamation of upper layers of dead skin cells, all of which are activities that can promote cell proliferation and facilitate wound healing 1.
+Mechanism of actionThere is no well controlled data that can formally substantiate the method of action Label. However, ongoing studies suggest that there may exist a histological wound healing profile induced by allantoin in rats that leads to the amelioration and fastening of the reestablishment of normal skin 1. This facilitation of wound healing is supported by observations that wounds inflicted to rat subjects to which topical allantoin preparations were applied histologically demonstrated increased vasodilation, presence of inflammatory exudates, number of inflammatory cells, angiogenesis, fibroblast proliferation, and increased collagen deposition when compared to rat subjects with wounds that did not receive any allantoin administration 1.
+AbsorptionIn studies on human subjects, a recovery of 19% and 34% of allantoin in the urine was observed but only in two individuals and only after the administration of massive doses of allantoin 5. After intravenous administration, recovery in the urine was practically quantitative with doses of 75 to 600 mgm in the human model 5. After 240 mgm, excretion continued for 72 hours in human subjects and the results were similar in regards to subcutaneous injection 5.
+Volume of distributionNot AvailableProtein bindingNot AvailableMetabolismUricase is the enzyme that possesses the functionality to convert uric acid to allantoin. Considering humans do not possess any endogenous uricase, uric acid is the only final breakdown product in the purine degradation of unwanted waste product purine nucleotides 5. The presence of allantoin in human urine is subsequently the result of non-enzymatic processes on uric acid with reactive oxygen species 3. Such non-enzymatic processes are consequently potentially suitable biomarkers for measuring oxidative stress in chronic illnesses and aging 3. Furthermore, as allantoin is found endogenously and is part of basic, natural metabolic pathways, no accumulation is expected of it Label. Additionally, allantoin is not believed to be metabolized to a measurable extent in humans and animals Label.
+Route of eliminationUrinary clearance is the predominant excretion route Label.
+Half-lifeWhen studied in cattle, sheep, and horses, the half-life of allantoin is in the range of 1 to 2.5 hours Label.
+ClearanceSome studies suggest that the average renal clearance of allantoin in normal, healthy human subjects is approximately 123 cc per minute 2. It is generally agreed upon that exogenously administered allantoin is rapidly excreted Label.
+Adverse EffectsImprove decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn moreToxicityNo studies on repeated dose toxicity and reproductive toxicity have been submitted. Moreover, studies show that the tumor incidence in allantoin treated animals did not differ largely from that found in untreated controls. As a result, further or additional toxicity, mutagenicity, or carcinogenicity tests are not required in view of the endogenous nature of allantoin and the general lack of overall toxicity Label.
+Finally, as allantoin is a normal component of the diet in humans and is a substance of endogenous origin present in the body of humans, it is generally recognized as being a safe substance for humans Label.
+PathwaysNot AvailablePharmacogenomic Effects/ADRs 
+
+
+Not AvailableInteractionsDrug Interactions 
+
+
+This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your software
+
+
+Asparaginase Erwinia chrysanthemiThe therapeutic efficacy of Allantoin can be increased when used in combination with Asparaginase Erwinia chrysanthemi.Asparaginase Escherichia coliThe therapeutic efficacy of Allantoin can be increased when used in combination with Asparaginase Escherichia coli.Beclomethasone dipropionateThe therapeutic efficacy of Allantoin can be increased when used in combination with Beclomethasone dipropionate.CarbamazepineThe therapeutic efficacy of Allantoin can be increased when used in combination with Carbamazepine.CiclesonideThe therapeutic efficacy of Allantoin can be increased when used in combination with Ciclesonide.ClofibrateThe therapeutic efficacy of Allantoin can be decreased when used in combination with Clofibrate.Conjugated estrogensThe therapeutic efficacy of Allantoin can be decreased when used in combination with Conjugated estrogens.DanazolThe therapeutic efficacy of Allantoin can be increased when used in combination with Danazol.DantroleneThe therapeutic efficacy of Allantoin can be increased when used in combination with Dantrolene.DexketoprofenThe risk or severity of adverse effects can be increased when Dexketoprofen is combined with Allantoin.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   Food InteractionsNo interactions found.ProductsDrug product information from 10+ global regionsOur datasets provide approved product information including:dosage, form, labeller, route of administration, and marketing period.Access now  Access drug product information from over 10 global regions.Access nowOver the Counter ProductsNameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImage12 Hour HealingOintment0.5 g/100gTopicalCanadian Custom Packaging Company2017-05-022017-11-17US12 Hour HealingOintment0.5 g/100gTopicalSkinfix, Inc.2017-05-022020-01-03US12 Hour MiracleOintment0.5 g/100gTopicalSkinfix, Inc.2015-05-232020-01-03US28 Remedy Aqua Brightening PeelingGel0.05 g/100mLTopicalNoTS Co.,Ltd2016-01-022018-12-01US3ce Fixer and Mascara BlackLiquid0.006 g/6.6gTopicalNanda Co., Ltd.2016-08-20Not applicableUS3ce Fixer and Mascara BrownLiquid0.006 g/6.6gTopicalNanda Co., Ltd.2016-08-20Not applicableUS911Ointment0.5 g/100gTopicalSkinfix, Inc.2018-12-26Not applicableUS911 Balm-COintment1 g/100gTopicalSkinfix, Inc.2017-02-272020-01-03USAAFX HairSolution0.02 mg/71TopicalProstemics Co., Ltd.2014-12-012018-11-01USAAFX SkinSolution0.02 mg/71TopicalProstemics Co., Ltd.2014-12-012018-11-01USMixture ProductsNameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImage3M Nexcare Cold Sore TreatmentAllantoin (10 mg/1g) + Benzocaine (50 mg/1g)OintmentTopical3M Company2008-02-202015-09-30US4JointzAllantoin (0.025 g/100g) + Eucalyptus oil (4 g/100g) + Tannic acid (5 g/100g)CreamTopicalArp(usa) Pty Ltd2017-01-312018-04-05USA.H.c Cotton 100 Mask Multi PeptideAllantoin (0.025 g/25mL) + Adenosine (0.01 g/25mL) + Nicotinamide (0.05 g/25mL)PatchTopicalCarver Korea Co.,Ltd.2017-09-202018-12-01USA.H.c Cotton 100 Mask Skin CeramideAllantoin (0.025 g/25mL) + Adenosine (0.01 g/25mL) + Nicotinamide (0.05 g/25mL)PatchTopicalCarver Korea Co.,Ltd.2017-09-052018-12-01USA.H.c Cotton 100 Mask Soy IsoflavoneAllantoin (0.025 g/25mL) + Adenosine (0.01 g/25mL) + Nicotinamide (0.05 g/25mL)PatchTopicalCarver Korea Co.,Ltd.2017-09-142018-12-01USA.H.c Cotton 100 Mask Triple HyaluronicAllantoin (0.025 g/25mL) + Adenosine (0.01 g/25mL) + Nicotinamide (0.05 g/25mL)PatchTopicalCarver Korea Co.,Ltd.2017-09-202017-09-21USA.H.c Cotton 100 Mask Triple HyaluronicAllantoin (0.025 g/25mL) + Adenosine (0.01 g/25mL) + Nicotinamide (0.05 g/25mL)PatchTopicalCarver Korea Co.,Ltd.2017-09-202018-12-01USActinac PwrAllantoin (24 mg / g) + Chloramphenicol (40 mg / g) + Hydrocortisone acetate (40 mg / g) + Nicoboxil (24 mg / g) + Octasulfur (320 mg / g)PowderTopicalRoussel Canada Inc.1978-12-311996-09-09CanadaActinac PwsAllantoin (24 mg / g) + Chloramphenicol (40 mg / g) + Hydrocortisone acetate (40 mg / g) + Nicoboxil (24 mg / g) + Octasulfur (320 mg / g)Powder, for solutionTopicalHoechst Roussel Canada Inc.1994-12-312001-07-20CanadaAhc Radiance Gommage PeelingAllantoin (1 g/100mL) + Panthenol (1 g/100mL)GelTopicalCarver Korea Co.,Ltd.2017-05-102018-12-01USUnapproved/Other Products 
+
+
+NameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImage28 Remedy Aqua Brightening PeelingAllantoin (0.05 g/100mL)GelTopicalNoTS Co.,Ltd2016-01-022018-12-01US3ce Fixer and Mascara BlackAllantoin (0.006 g/6.6g)LiquidTopicalNanda Co., Ltd.2016-08-20Not applicableUS3ce Fixer and Mascara BrownAllantoin (0.006 g/6.6g)LiquidTopicalNanda Co., Ltd.2016-08-20Not applicableUSA.H.c Cotton 100 Mask Multi PeptideAllantoin (0.025 g/25mL) + Adenosine (0.01 g/25mL) + Nicotinamide (0.05 g/25mL)PatchTopicalCarver Korea Co.,Ltd.2017-09-202018-12-01USA.H.c Cotton 100 Mask Skin CeramideAllantoin (0.025 g/25mL) + Adenosine (0.01 g/25mL) + Nicotinamide (0.05 g/25mL)PatchTopicalCarver Korea Co.,Ltd.2017-09-052018-12-01USA.H.c Cotton 100 Mask Soy IsoflavoneAllantoin (0.025 g/25mL) + Adenosine (0.01 g/25mL) + Nicotinamide (0.05 g/25mL)PatchTopicalCarver Korea Co.,Ltd.2017-09-142018-12-01USA.H.c Cotton 100 Mask Triple HyaluronicAllantoin (0.025 g/25mL) + Adenosine (0.01 g/25mL) + Nicotinamide (0.05 g/25mL)PatchTopicalCarver Korea Co.,Ltd.2017-09-202018-12-01USA.H.c Cotton 100 Mask Triple HyaluronicAllantoin (0.025 g/25mL) + Adenosine (0.01 g/25mL) + Nicotinamide (0.05 g/25mL)PatchTopicalCarver Korea Co.,Ltd.2017-09-202017-09-21USAC Control SerumAllantoin (0.1 g/50mL)CreamTopicalMiguhara2016-01-02Not applicableUSAhc Radiance Gommage PeelingAllantoin (1 g/100mL) + Panthenol (1 g/100mL)GelTopicalCarver Korea Co.,Ltd.2017-05-102018-12-01USCategoriesDrug CategoriesAmides
+Basic Ointments and Protectants
+Dermatologicals
+Herbs and Natural Products
+Hydantoins
+Imidazoles
+Imidazolidines
+Thyroxine-binding globulin substratesChemical TaxonomyProvided by ClassyfireDescriptionThis compound belongs to the class of organic compounds known as imidazoles. These are compounds containing an imidazole ring, which is an aromatic five-member ring with two nitrogen atoms at positions 1 and 3, and three carbon atoms.KingdomOrganic compoundsSuper ClassOrganoheterocyclic compoundsClassAzolesSub ClassImidazolesDirect ParentImidazolesAlternative ParentsIsoureas / Propargyl-type 1,3-dipolar organic compounds / Carboximidamides / Azacyclic compounds / Organopnictogen compounds / Organooxygen compounds / Imines / Hydrocarbon derivativesSubstituentsAliphatic heteromonocyclic compound / Azacycle / Carboximidamide / Carboximidic acid derivative / Hydrocarbon derivative / Imidazole / Imine / Isourea / Organic 1,3-dipolar compound / Organic nitrogen compoundMolecular FrameworkAliphatic heteromonocyclic compoundsExternal Descriptorsureas, imidazolidine-2,4-dione (CHEBI:15676)  / a small molecule (S-ALLANTOIN) Affected organismsHumans and other mammalsChemical IdentifiersUNII344S277G0ZCAS number97-59-6InChI KeyPOJWUDADGALRAB-UHFFFAOYSA-NInChIInChI=1S/C4H6N4O3/c5-3(10)6-1-2(9)8-4(11)7-1/h1H,(H3,5,6,10)(H2,7,8,9,11)IUPAC Name(2,5-dioxoimidazolidin-4-yl)ureaSMILESNC(=O)NC1NC(=O)NC1=OReferencesGeneral ReferencesAraujo LU, Grabe-Guimaraes A, Mosqueira VC, Carneiro CM, Silva-Barcellos NM: Profile of wound healing process induced by allantoin. Acta Cir Bras. 2010 Oct;25(5):460-6. [Article] FRIEDMAN M, MYERS SO, ABRAHM PM: Allantoin clearance as a measure of glomerular filtration rate in man. Proc Soc Exp Biol Med. 1947 Dec;66(3):522. [Article] Kand'ar R, Zakova P: Allantoin as a marker of oxidative stress in human erythrocytes. Clin Chem Lab Med. 2008;46(9):1270-4. doi: 10.1515/CCLM.2008.244. [Article] Thornfeldt C: Cosmeceuticals containing herbs: fact, fiction, and future. Dermatol Surg. 2005 Jul;31(7 Pt 2):873-80; discussion 880. [Article] Toxnet Toxicology Data Network: Allantoin [Link] TITCK Product Information: Noskar (allium cepa extract/allantoin/heparin sodium) topical gel [Link] External LinksHuman Metabolome DatabaseHMDB0000462KEGG DrugD00121KEGG CompoundC01551PubChem Substance347911116ChemSpider199RxNav508ChEBI15676ChEMBLCHEMBL593429WikipediaAllantoinFDA labelDownload (115 KB) Clinical TrialsClinical Trials 
+
+
+PhaseStatusPurposeConditionsCount3Unknown StatusTreatmentPostoperative paralytic ileus12CompletedTreatmentEpidermolysis Bullosa (EB)12CompletedTreatmentLeg Injuries and Disorders / Venous Leg Ulcer (VLU)12RecruitingTreatmentChildren, Adult / Impaired Glucose Tolerance12, 3RecruitingTreatmentDiabetic Foot Ulcers (DFUs)11CompletedTreatmentSafety Study for Future Treatment of Psoriasis11, 2Unknown StatusTreatmentPsoriasis Vulgaris (Plaque Psoriasis)1Not AvailableCompletedPreventionCicatrix1Not AvailableCompletedTreatmentScar Tissue or Healthy Skin1PharmacoeconomicsManufacturersNot AvailablePackagersNot AvailableDosage FormsFormRouteStrengthOintmentTopical0.5 g/100gLiquidTopical0.006 g/6.6gOintmentTopical1 g/100gSolutionTopical0.02 mg/71SolutionTopical0.03 mg/61CreamTopical0.1 g/50mLCreamCutaneous0.2 mg/20mLPowder, for solutionTopicalPaste, dentifriceTopicalAerosol, sprayTopical0.425 g/85gSprayTopical0.425 g/85gGelTopical0.5 g/100mLGelTopical0.15 g/30mLCreamTopical0.0005 g/1mLLiquidTopical0.001 g/1mLCreamTopical0.8 mg/160mLLotionTopical0.8 mg/160mLGelTopical0.8 mg/160mLShampooTopical1.5 mg/300mLLotionTopical1.5 g/300mLShampooTopical1.5 g/300mLLiquidTopical0.25 g/100mLLiquidTopical0.50 g/100mLLiquidTopical0.15 g/30mLLiquidTopical0.25 g/50mLLiquidTopical0.1 g/20mLSoapTopical0.5 g/100gLiquidTopical1.0 g/200mLSolutionTopical0.005 mg/181LotionTopical0.4 mL/200mLLiquidTopical0.004 mL/2mLLiquidTopical0.5 g/100gPatchTopical0.12 g/60gElixirTopicalEmulsionTopical0.6 %LotionTopical0.25 g/250gCreamCutaneous0.2 g/40gPatchTopical0.15 g/31GelTopical0.15 g/31PatchTopical0.004 g/2.4gEmulsionTopical0.1 g/100mLPatchTopical0.2 g/40gStickTopical0.5 g/100gSalveTopical5 mg/1gLiquidTopical0.15 g/100mLGelTopical0.55 g/100gPaste, dentifriceOralGelTopical0.75 g/75gCreamTopical0.225 mg/45mLCreamTopical0.65 mg/130mLSprayTopical0.6 mg/120mLCreamTopical0.22 mg/45mLCreamTopical2 g/100gPatchTopical0.5 1/25gPatchTopical0.06 g/51LiquidTopical0.05 g/100mLCreamTopical0.5 mg/100gCreamTopical5 mg/1gJellyTopical0.5 g/100mLCreamTopical50 mg/5gLipstickTopicalGelCutaneousCreamTopical0.5 mL/100mLCreamTopical0.5 g/100mLGelTopical0.2 g/5mLPowderTopical0.02 g/50gDiscTopicalPaste, dentifriceDentalEmulsionTopical0.24 g/120mLEmulsionTopicalPatchTopical0.05 g/25mLCreamTopical3.6 mL/60mLLotionTopical0.5 1/50mLCreamTopical0.5 mg/100mLGelTopical0.05 g/100gCreamTopical0.1 g/100gCreamCutaneousPatchTopical0.1 g/49gShampooTopical6.0 g/300mLLotionTopical0.75 mg/150mLGelTopical2 %LotionTopical2 %GelTopical0.1 g/100mLLiquidTopicalLiquidTopical0.1 g/100mLPowder, dentifriceOralCreamTopical1 g/50gSprayTopical0.3 g/60gSprayTopical1.2 g/100gTablet, solubleTopical0.5 mg/100mgLiquidTopical0.02 g/4mLLiquidTopical0.19 g/100gLotionTopical0.5 g/100mLCreamTopical0.1 g/100mLPowderTopical0.44 mg/80mLPowderTopical0.055 g/10gGelTopical0.8 g/100gSoapTopical2.0 g/100gLiquidTopical0.54 mg/90mLSolutionTopical0.96 g/120mLSprayTopical0.8 g/100mLSolutionTopical0.96 mg/120mLSolutionTopicalLiquidTopical0.1 g/10gGelTopical0.5 g/100gOintmentTopical.02 g/1gCreamTopical10 mg/1gSolutionTopical0.04 g/5gCreamTopical20 mg/1gLotionTopical3 g/600gLotionCutaneous0.1 mL/20mLSoapCutaneous; Topical5 mg/1gPowderTopical0.002 g/1gSolutionTopical0.25 g/205gTabletVaginal0.2 1/1TabletVaginal0.11 1/600mgTabletVaginal66 mg/600mgLiquidTopical0.05 g/100gGelExtracorporealStickTopicalGelTopical51.0 mg/10mLGelTopical50 mg/10mLGelTopical0.00003 g/10mLCreamTopical0.67 mg/135mLCreamTopical0.25 mg/50mLPatchTopical0.2 g/100gCreamTopical1 g/100mLGelTopical10 mg/1mLGelTopical0.1 mg/1mLGelTopical1 g/100gLiquidTopical1 g/100gCreamTopicalLotionTopical0.55 %SprayTopicalPatchTopical0.17 mg/35mLSoapTopical0.6 g/100gLiquidTopical0.01 g/100mLOintmentTopical1 %GelTopicalCreamTopical0.075 g/15mLLiquidTopical1 mg/30mLLiquidTopical0.08 g/100mLLiquidTopical0.75 mg/150mLPatchTopical0.028 g/28gSprayTopical0.3 mg/60mLCreamTopical0.5 g/100gLiquidOphthalmicSolution / dropsOphthalmicLiquidTopical0.6 mg/30mLLiquidTopical0.54 mg/30mLSoapTopical0.55 g/110gGelTopical3 mg/1mLLiquidTopical0.05 g/10mLShampooTopical0.75 g/150mLSolutionTopical0.30 g/60mLLiquidTopical0.025 g/5mLLiquidTopical0.0005 g/1mLSoapTopical1.30 g/100gAerosol, foamTopical1.25 mg/250mLOilTopical0.75 mg/150mLGelTopical5 mg/1gSolutionTopical0.1 g/100mLEmulsionTopical0.002 g/1mLCreamTopical1 mg/100mLLiquidTopical2 g/100mLAerosol, foamTopical0.5 g/100mLLotionTopical0.1 mL/50mLLiquidTopical0.2 g/100mLLotionTopical0.4 g/20mLLiquidTopical0.02 mg/1mLClothTopical0.2 g/23mLLiquidTopical0.1 g/100gPowderTopical0.007 g/0.7gClothTopical0.75 mL/1mLLiquidTopical1 g/100mLGelTopical0.05 g/100mLCreamTopical0.25 g/50gInjectionTopicalShampooTopical0.75 mg/150mLSolutionTopical0.3 mg/60mLLiquidTopical0.025 mg/5mLLiquidTopical0.3 g/100mLSolutionTopical0.175 mg/51PatchTopical0.16 g/32gLotionTopical0.1 g/100mLGelTopical0.00009 g/30mLPatchTopical0.015 mg/101SprayTopical0.36 mg/60mLSprayTopical0.1 g/100mLCreamTopical0.0125 mg/25gCreamTopical0.004 mg/20mLCreamTopical0.0042 mg/21mLSoapTopical0.05 g/100gStickTopical5 mg/1gLotionTopical0.5 mL/100 mLCreamTopical5 mg/100mLCreamTopical5 mg/1mLLotionTopical0.5 mL/100mLCreamTopical1 g/100gGelTopical0.3 g/100gCreamTopical0.005 mg/1gGelTopical10 mg/1gCreamTopical1.5 g/300gLiquidTopical0.48 mg/80mLSolutionTopical0.48 mg/80mLCreamTopical0.2 g/100mLEmulsionTopical0.02 g/100mLCreamTopical0.02 g/100mLLiquidTopical0.02 g/100mLSoapCutaneous5 mg/1gLotionTopical0.1 g/100gCreamTopical7.5 mg/1mLLotion / shampooTopical5.5 mg/1mLEmulsionTopical0.55 %ShampooTopicalGelTopical5 mg/1mLCreamTopical1.2 g/120mLPaste, dentifriceDental0.1 mg/100gLiquidDental0.2 g/100mLCreamTopical0.28 mg/40mLCreamTopical1 %ConcentrateTopical0.22 g/45mLLiquidTopical0.075 g/15mLLiquidTopical0.002 mg/1mLCreamTopical0.000003 g/30mLLiquidTopical0.002 g/1mLKitTopicalOintmentTopicalCreamTopical0.002 g/1gLiquidTopical5 mg/1mLSolutionTopical1.9 mg/380mLEmulsionTopical0.65 mg/130mLCreamTopical0.15 mg/30mLCreamTopical0.75 mg/150mLCreamTopical0.1 mL/100mLCreamTopical0.0075 g/25gLiquidTopical0.5 g/100mLLiquidTopical0.625 mg/125mLLiquidTopical0.57 g/113gLiquidTopical0.75 g/150gPatchTopicalCreamTopical0.51 %PowderTopical0.3 mg/3gPowderTopical0.003 g/3gPowderTopical0.2 mg/2gPowderTopicalLiquidTopical0.1 mg/1mLMouthwashDentalGel, dentifriceDentalCreamTopical0.0005 g/1gPowderTopical0.0001 g/1gLotionTopicalCreamTopical0.425 g/85mLCreamTopical0.02 mg/1mLGelTopical5.5 g/1LPricesNot AvailablePatentsNot AvailablePropertiesStateNot AvailableExperimental PropertiesNot AvailablePredicted PropertiesPropertyValueSourceWater Solubility4.73 mg/mLALOGPSlogP-2ALOGPSlogP-2.4ChemaxonlogS-1.5ALOGPSpKa (Strongest Acidic)7.95ChemaxonpKa (Strongest Basic)-3.4ChemaxonPhysiological Charge0ChemaxonHydrogen Acceptor Count3ChemaxonHydrogen Donor Count4ChemaxonPolar Surface Area113.32 Å2ChemaxonRotatable Bond Count1ChemaxonRefractivity32.02 m3·mol-1ChemaxonPolarizability12.89 Å3ChemaxonNumber of Rings1ChemaxonBioavailability1ChemaxonRule of FiveYesChemaxonGhose FilterNoChemaxonVeber's RuleNoChemaxonMDDR-like RuleNoChemaxonPredicted ADMET FeaturesNot AvailableSpectraMass Spec (NIST)Not AvailableSpectraSpectrumSpectrum TypeSplash KeyGC-MS Spectrum - GC-EI-TOF (Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies)GC-MSsplash10-0uds-0911000000-d6d990e16a15b9f27262GC-MS Spectrum - GC-EI-TOF (Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies)GC-MSsplash10-0udi-0920000000-abb5512bfc08cbdd004fGC-MS Spectrum - GC-EI-TOF (Pegasus III TOF-MS system, Leco; GC 6890, Agilent Technologies)GC-MSsplash10-0f79-0900000000-bf39d4fc494ccd722796GC-MS Spectrum - GC-MS (5 TMS)GC-MSsplash10-00kr-4911230000-f2112ac79e45fb821ab6GC-MS Spectrum - GC-MS (4 TMS)GC-MSsplash10-0f8i-3933100000-45367e01790bfc8afd6eGC-MS Spectrum - GC-MS (3 TMS)GC-MSsplash10-0zfr-4951100000-88808e71aea4d5ad7885Predicted GC-MS Spectrum - GC-MSPredicted GC-MSNot AvailableGC-MS Spectrum - EI-BGC-MSsplash10-0006-9100000000-5f4cd23ea44234e5a455GC-MS Spectrum - EI-BGC-MSsplash10-0006-9100000000-c9c0d8a7f1e5f105a9c3GC-MS Spectrum - GC-EI-TOFGC-MSsplash10-0uds-0911000000-d6d990e16a15b9f27262GC-MS Spectrum - GC-EI-TOFGC-MSsplash10-0f79-0900000000-bf39d4fc494ccd722796GC-MS Spectrum - GC-MSGC-MSsplash10-00kr-4911230000-f2112ac79e45fb821ab6GC-MS Spectrum - GC-MSGC-MSsplash10-0f8i-3933100000-45367e01790bfc8afd6eGC-MS Spectrum - GC-MSGC-MSsplash10-0zfr-4951100000-88808e71aea4d5ad7885Mass Spectrum (Electron Ionization)MSsplash10-0006-9200000000-5ad052308edfab7b8c5fMS/MS Spectrum - Quattro_QQQ 10V, Positive (Annotated)LC-MS/MSsplash10-02t9-8900000000-bb0a5fee22239a104e6fMS/MS Spectrum - Quattro_QQQ 25V, Positive (Annotated)LC-MS/MSsplash10-03dj-9000000000-09992debd5f3d399b902MS/MS Spectrum - Quattro_QQQ 40V, Positive (Annotated)LC-MS/MSsplash10-01oy-9000000000-8fe7df22b2abb81b934aMS/MS Spectrum - EI-B (Unknown) , PositiveLC-MS/MSsplash10-0006-9100000000-08b1881abaf98821d201MS/MS Spectrum - EI-B (HITACHI M-60) , PositiveLC-MS/MSsplash10-0006-9100000000-297710f62f9699946151Predicted MS/MS Spectrum - 10V, Positive (Annotated)Predicted LC-MS/MSsplash10-066r-0900000000-4e30eec1c2a8c4cb7fa8Predicted MS/MS Spectrum - 20V, Positive (Annotated)Predicted LC-MS/MSsplash10-014i-5900000000-0e0e6cbea70e14292a57Predicted MS/MS Spectrum - 40V, Positive (Annotated)Predicted LC-MS/MSsplash10-006w-9000000000-d53fc563af9567f05b8aPredicted MS/MS Spectrum - 10V, Positive (Annotated)Predicted LC-MS/MSsplash10-066r-0900000000-4e30eec1c2a8c4cb7fa8Predicted MS/MS Spectrum - 20V, Positive (Annotated)Predicted LC-MS/MSsplash10-014i-5900000000-0e0e6cbea70e14292a57Predicted MS/MS Spectrum - 40V, Positive (Annotated)Predicted LC-MS/MSsplash10-006w-9000000000-d53fc563af9567f05b8aPredicted MS/MS Spectrum - 10V, Positive (Annotated)Predicted LC-MS/MSsplash10-066r-0900000000-4e30eec1c2a8c4cb7fa8Predicted MS/MS Spectrum - 20V, Positive (Annotated)Predicted LC-MS/MSsplash10-014i-5900000000-0e0e6cbea70e14292a57Predicted MS/MS Spectrum - 40V, Positive (Annotated)Predicted LC-MS/MSsplash10-006w-9000000000-d53fc563af9567f05b8aPredicted MS/MS Spectrum - 10V, Positive (Annotated)Predicted LC-MS/MSsplash10-066r-0900000000-4e30eec1c2a8c4cb7fa8Predicted MS/MS Spectrum - 20V, Positive (Annotated)Predicted LC-MS/MSsplash10-014i-5900000000-0e0e6cbea70e14292a57Predicted MS/MS Spectrum - 40V, Positive (Annotated)Predicted LC-MS/MSsplash10-006w-9000000000-d53fc563af9567f05b8aPredicted MS/MS Spectrum - 10V, Negative (Annotated)Predicted LC-MS/MSsplash10-03k9-9600000000-775f532f9c5d9acd1ee6Predicted MS/MS Spectrum - 20V, Negative (Annotated)Predicted LC-MS/MSsplash10-01vo-9400000000-a4e69e926b530e953cc3Predicted MS/MS Spectrum - 40V, Negative (Annotated)Predicted LC-MS/MSsplash10-0006-9000000000-4c973a5209a8104a49e3Predicted MS/MS Spectrum - 10V, Negative (Annotated)Predicted LC-MS/MSsplash10-03k9-9600000000-775f532f9c5d9acd1ee6Predicted MS/MS Spectrum - 20V, Negative (Annotated)Predicted LC-MS/MSsplash10-01vo-9400000000-a4e69e926b530e953cc3Predicted MS/MS Spectrum - 40V, Negative (Annotated)Predicted LC-MS/MSsplash10-0006-9000000000-4c973a5209a8104a49e3Predicted MS/MS Spectrum - 10V, Negative (Annotated)Predicted LC-MS/MSsplash10-03k9-9600000000-775f532f9c5d9acd1ee6Predicted MS/MS Spectrum - 20V, Negative (Annotated)Predicted LC-MS/MSsplash10-01vo-9400000000-a4e69e926b530e953cc3Predicted MS/MS Spectrum - 40V, Negative (Annotated)Predicted LC-MS/MSsplash10-0006-9000000000-4c973a5209a8104a49e3Predicted MS/MS Spectrum - 10V, Negative (Annotated)Predicted LC-MS/MSsplash10-03k9-9600000000-775f532f9c5d9acd1ee6Predicted MS/MS Spectrum - 20V, Negative (Annotated)Predicted LC-MS/MSsplash10-01vo-9400000000-a4e69e926b530e953cc3Predicted MS/MS Spectrum - 40V, Negative (Annotated)Predicted LC-MS/MSsplash10-0006-9000000000-4c973a5209a8104a49e3MS/MS Spectrum - DI-ESI-qTof , PositiveLC-MS/MSNot AvailableMS/MS Spectrum - Linear Ion Trap , negativeLC-MS/MSsplash10-0006-3900000000-4522c35cdff00863fb30MS/MS Spectrum - Linear Ion Trap , negativeLC-MS/MSsplash10-0006-3900000000-958f71dbb6c860bba8ceMS/MS Spectrum - , negativeLC-MS/MSsplash10-01ot-7900000000-496295ec2eda1d1fe993LC-MS/MS Spectrum - LC-ESI-ITFT , positiveLC-MS/MSsplash10-0002-9100000000-8c779bd6b0021171c0c2MS/MS Spectrum - Linear Ion Trap , positiveLC-MS/MSsplash10-014i-1900000000-7a7ef98117854df99d9cMS/MS Spectrum - Linear Ion Trap , positiveLC-MS/MSsplash10-014i-1900000000-2559050d81e822a0197dMS/MS Spectrum - Linear Ion Trap , positiveLC-MS/MSsplash10-000j-1900000000-cba5c4c47b0dac6d035aMS/MS Spectrum - Linear Ion Trap , positiveLC-MS/MSsplash10-000i-0900000000-cca693ae9b6a97cf20d613C NMR Spectrum1D NMRNot Applicable1H NMR Spectrum1D NMRNot Applicable1H NMR Spectrum1D NMRNot Applicable13C NMR Spectrum1D NMRNot Applicable[1H,13C] 2D NMR Spectrum2D NMRNot ApplicableCarriers
+
+
+ Details1. Thyroxine-binding globulinKindProteinOrganismHumansPharmacological actionNoActionsSubstrateGeneral FunctionSerine-type endopeptidase inhibitor activitySpecific FunctionMajor thyroid hormone transport protein in serum.Gene NameSERPINA7Uniprot IDP05543Uniprot NameThyroxine-binding globulinMolecular Weight46324.12 DaReferencesCYTOMEL (liothyronine) FDA label [File] ×Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   Drug created at December 03, 2015 16:51 / Updated at April 26, 2023 07:53 Product Image×Show full imageInterested in using DrugBank in a commercial product or application?Visit DrugBank.com   Stay up-to-date with the latest from DrugBank!SubscribeThank you for subscribing!AboutAbout DrugBank OnlineBlogWishart Research GroupCareersTerms of UsePrivacy PolicySupportHelp CenterDrugBank Online FAQsContact SupportProductsCommercial Drug DatasetsAcademic Drug DatasetsClinical APIContact Sales
+
+
+
+
+
+
+
+
+Website design by Educe Design & Innovation Inc.

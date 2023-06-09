@@ -1,0 +1,744 @@
+Document Name: role of Imidazolidinyl Urea/Preservative in Barrier Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6254638/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Effects of Several Cosmetic Preservatives on ROS-Dependent Apoptosis of Rat Neural Progenitor Cells - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Biomol Ther (Seoul)
+
+
+v.26(6); 2018 Nov
+
+
+                    PMC6254638
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (2.5M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Biomol Ther (Seoul)
+
+
+v.26(6); 2018 Nov
+
+
+                    PMC6254638
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Biomol Ther (Seoul). 2018 Nov; 26(6): 608–615. Published online 2018 Feb 12.  doi: 10.4062/biomolther.2017.221PMCID: PMC6254638PMID: 29429147Effects of Several Cosmetic Preservatives on ROS-Dependent Apoptosis of Rat Neural Progenitor CellsOnjeon Ryu,1 Bo Kyung Park,1 Minji Bang,1 Kyu Suk Cho,1 Sung Hoon Lee,2 Edson Luck T. Gonzales,1 Sung Min Yang,1 Seonmin Kim,1 Pyeong Hwa Eun,1 Joo Young Lee,3 Kyu-Bong Kim,4 Chan Young Shin,1 and  Kyoung Ja Kwon1,*Onjeon Ryu
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of KoreaFind articles by Onjeon RyuBo Kyung Park
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of KoreaFind articles by Bo Kyung ParkMinji Bang
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of KoreaFind articles by Minji BangKyu Suk Cho
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of KoreaFind articles by Kyu Suk ChoSung Hoon Lee
+2College of Pharmacy, Chung-Ang University, Seoul 06974, 
+Republic of KoreaFind articles by Sung Hoon LeeEdson Luck T. Gonzales
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of KoreaFind articles by Edson Luck T. GonzalesSung Min Yang
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of KoreaFind articles by Sung Min YangSeonmin Kim
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of KoreaFind articles by Seonmin KimPyeong Hwa Eun
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of KoreaFind articles by Pyeong Hwa EunJoo Young Lee
+3BK21plus Team, College of Pharmacy, The Catholic University of Korea, Bucheon 14662, 
+Republic of KoreaFind articles by Joo Young LeeKyu-Bong Kim
+4College of Pharmacy, Dankook University, Cheonan 31116, 
+Republic of KoreaFind articles by Kyu-Bong KimChan Young Shin
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of KoreaFind articles by Chan Young ShinKyoung Ja Kwon
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of KoreaFind articles by Kyoung Ja KwonAuthor information Article notes Copyright and License information Disclaimer
+1Department of Neuroscience, School of Medicine and Center for Neuroscience Research, Konkuk University, Seoul 05029, 
+Republic of Korea
+2College of Pharmacy, Chung-Ang University, Seoul 06974, 
+Republic of Korea
+3BK21plus Team, College of Pharmacy, The Catholic University of Korea, Bucheon 14662, 
+Republic of Korea
+4College of Pharmacy, Dankook University, Cheonan 31116, 
+Republic of Korea*Corresponding Author: E-mail: ten.liamnah@enimsajjk, Tel: +82-2-454-5630, Fax: +82-2030-7899Received 2017 Oct 31; Revised 2018 Jan 5; Accepted 2018 Jan 9.Copyright  ©2018, The Korean Society of Applied PharmacologyThis is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/4.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.AbstractBenzalkonium chloride, diazolidinyl urea, and imidazolidinyl urea are commonly used preservatives in cosmetics. Recent reports suggested that these compounds may have cellular and systemic toxicity in high concentration. In addition, diazolidinyl urea and imidazolidinyl urea are known formaldehyde (FA) releasers, raising concerns for these cosmetic preservatives. In this study, we investigated the effects of benzalkonium chloride, diazolidinyl urea, and imidazolidinyl urea on ROS-dependent apoptosis of rat neural progenitor cells (NPCs) in vitro. Cells were isolated and cultured from embryonic day 14 rat cortices. Cultured cells were treated with 1–1,000 nM benzalkonium chloride, and 1–50 μM diazolidinyl urea or imidazolidinyl urea at various time points to measure the reactive oxygen species (ROS). PI staining, MTT assay, and live-cell imaging were used for cell viability measurements. Western blot was carried out for cleaved caspase-3 and cleaved caspase-8 as apoptotic protein markers. In rat NPCs, ROS production and cleaved caspase-8 expression were increased while the cell viability was decreased in high concentrations of these substances. These results suggest that several cosmetic preservatives at high concentrations can induce neural toxicity in rat brains through ROS induction and apoptosis.Keywords: Benzalkonium chloride, Diazolidinyl urea, Imidazolidinyl urea, Apoptosis, Cosmetic preservatives, Reactive oxygen speciesINTRODUCTIONBenzalkonium chloride is widely used as an antimicrobial agent and preservative in pharmaceutical products, personal care products, skin antiseptic, throat lozenges, mouthwashes, spermicidal cream, spray disinfectants, cleaners, and softener for textiles (Graf, 2001). Imidazolidinyl urea and diazolidinyl urea are also commonly used in cosmetics and personal care products as antimicrobial preservatives (Lehmann et al., 2006). Benzalkonium chloride was used in 83 cosmetic products at a concentration ranging from ≤0.1% to 5% in 1986 and has been used in 567 cosmetic products (0.46% of total cosmetic products) at concentrations ranging from 0.01% to 0.5% in 2013 (Cosmetic Ingredient Review Expert Panel, 2008; Siegert, 2014). In that span of twenty years, benzalkonium chloride had been widely used in cosmetic products while noting a significant decline in applied concentrations. In Europe, benzalkonium chloride is allowed up to 3% concentration in rinse-off hair care products and 0.05% in other products. Imidazolidinyl urea is authorized in Europe at a maximum concentration of 0.6% in cosmetics, while in the USA, its regulated concentration is between 0.1% to 0.3% in cosmetics but sometimes used as high as 5% (Elder, 1980; SCCNFP, 2002). On the other hand, diazolidinyl urea content in cosmetic products is restricted up to 0.5% concentration in Europe. The main route of exposure for these cosmetic compounds is through dermal applications.Imidazolidinyl urea and diazolidinyl urea are synthesized by the chemical reaction of allantoin and formaldehyde (Lehmann et al., 2006). These compounds are well-known formaldehyde releasers and could cause contact allergies (Yim et al., 2014). The data from FDA showed that one out of five cosmetic products are formaldehyde-releasers and among them, imidazolidinyl urea is the most widely used (de Groot and Veenstra, 2010). Diazolidinyl urea is used between 5–8% of total cosmetic products in the USA and Europe but has shown 3.5% dermal irritation rate (Pratt et al., 2004). When diazolidinyl urea is hydrolyzed, formaldehyde (FA) is released, which could cause irritation.In a human patch test, 2% and 0.3% concentrations of diazolidinyl urea-induced skin sensitization supporting its potential toxic effects (Jordan, 1984). Meanwhile, benzalkonium chloride showed some ocular toxicity and irritation properties with a possibility of penetration and accumulation in deep ocular structures (Baudouin et al., 2010; Desbenoit et al., 2013; Rosin and Bell, 2013). When applied to the skin from 2.5% to 10% concentrations for 24 h, benzalkonium chloride induced skin irritations to 50% of dermatitis patients in the 2.5%-concentration group and caused primary irritant dermatitis of all patients in the 10%-concentration group (Liebert, 1989). In another study, application of 0.02% benzalkonium chloride to the eyes of 51 human volunteers induced a slight hyperemia conjunctivae in only one person. On the other hand, a standardized patch test containing 0.1% benzalkonium chloride induced sensitization to 66 out of 2,806 eczema patients (Camarasa, 1979). Moreover, 9 out of 142 patients with chronic external otitis had developed contact allergies to 0.1% of benzalkonium chloride (Fräki et al., 1985).Chronic exposure to benzalkonium chloride has deleterious effects via oxidative stress, leading to cholinergic neurotoxicity (Antunes et al., 2016). Benzalkonium chloride caused a dose-related significant reduction in neurites in corneal nerves both in vivo and in vitro (Sarkar et al., 2012). Additionally, the toxic effects of these materials were reported in in vitro studies as well. Cell exposure to 0.5 and 1 mg/ml benzalkonium chloride induced cell lysis immediately after treatment. Furthermore, the cells treated with 0.1 mg/ml benzalkonium chloride died with most of the characteristics of apoptosis (De Saint Jean et al., 1999). Meanwhile, diazolidinyl urea has cytotoxic effects in salmonella strains at 2.5–50 μmol/L concentrations (Pfuhler and Wolf, 2002). Such is the treatment of imidazolidinyl urea in skin human fibroblast cells, which induced an accelerated inflammation and loss of cell viability in a concentration-dependent manner (An et al., 2012). All these studies suggest the risk of potential toxicity in those preservatives, prompting the need for further evaluation.Despite some levels of evidence on their potential toxicity to animals and humans, the three preservatives of interests are still widely used in cosmetics. Interestingly, the FDA banned benzalkonium chloride in antibacterial soaps due to lack of evidence for its safety and efficacy (Food and Drug Adminnistration, 2016). Accordingly, this matter of concern is not only confined to benzalkonium chloride but also to all other formaldehyde releasers. The data found in the literature for these substances are insufficient to ensure their safety, and most of these data are only about skin sensitization and irritation. Examining the possible toxicity properties of these products in internal tissues and cells, especially the brain, is of great value and interest. We conducted this study to elucidate the effects of these three preservatives in neural progenitor cells (NPCs) using in vitro system. We focused our investigation on cell viability, expression of apoptotic markers, and production of reactive oxygen species in NPCs after treatment with the three preservatives.MATERIALS AND METHODSMaterialsThe materials used in this study were obtained from the following: Dulbecco’s modified Eagle medium (DMEM)/F12, Penicillin-Streptomycin (P/S), 0.25% trypsin-EDTA from Gibco BRL (Grand Island, NY, USA); B-27 supplement, FGF, and Dimethyl sulfoxide (DMSO) from Invitrogen (Carlsbad, CA, USA); EGF from Sigma-Aldrich Co (St. Louis, MO, USA); Tween® 20 and ECLTM Western blotting detection reagent from Amersham Life Science (Arlington Heights, IL, USA); benzalkonium chloride (≥95%), diazolidinyl urea ≥95%), and imidazolidinyl urea (<=100%) from Sigma (St. Louis, MO, USA); BAX from BD Biosciences (BD Biosciences, USA); Bcl-2 from Santa Cruz (CA, USA); anti-β-actin from Sigma; cleaved caspase-3 from Cell Signaling (Boston, MA, USA).Neural progenitor cells (NPCs) cultureAll animal experimental procedures were carried out using protocols permitted by the Institutional Animal Care and Use Committee (IAC UC) of Konkuk University (KU17105). Pregnant Sprague-Dawley (SD) rats at embryonic day 14 were purchased from Orient Bio Inc. (Gyeonggi, Korea), and neural stem cells were extracted and cultured on the same day from embryonic brains as described previously (Park et al., 2016). Briefly, cortices were dissected and suspended in single cells by mechanical trituration. Cultured cells were maintained in DMEM/F12 with 100 U/ml of penicillin, 100 mg/ml of streptomycin, B27 serum-free supplement and growth factor (10 ng/ml FGF and 20 ng/ml EGF) in a 5% CO2 incubator. EGF and FGF were administered to culture cells daily (Park et al., 2016). When cells begin to form floating neurospheres, they were dissociated into single cells using 0.1% trypsin with ethylene diamine tetraacetic acid (EDTA) and were sub-cultured by replacing in the 24-well or 6-well plates.Drug treatmentBenzalkonium chloride was treated with cultured neural progenitor cells at 1, 10, 100 and 1000 nM concentrations (De Saint Jean et al., 1999). Diazolidinyl urea and imidazolidinyl urea were treated at 1, 10, 30 and 50 μM concentrations (Pfuhler and Wolf, 2002; An et al., 2012). Preservatives were applied at different exposure times. In the case of MTT assay, preservatives were treated 1, 3, 6, 12 and 24 h to determine time-dependent effects. Western blot experiments were measured at 24 h, and the determination of reactive oxygen species (ROS) was measured at 6 h. Cells were exposed for PI staining.Measurement of cell viabilityMTT (3-(4,5-dimethylthiazol-2yl)-2, 5-diphenyltrtrazolium bromide) assay depends on a reductive coloring reagent to estimate cell viability and cytotoxicity in a colorimetric method. Neural stem cells were cultured and stabilized for 3 h in an incubator. The cells were treated with benzalkonium chloride (at 1, 10, 100 and 1000 nM concentrations), diazolidinyl urea and imidazolidinyl urea (at 1, 10, 30 and 50 μM concentrations). The treated cells were incubated for different time periods (1, 3, 6, 12, and 24 h). MTT reagent was added to the culture medium to be incubated for an hour without light. Then, the culture medium was replaced with DMSO and the absorbance was analyzed by ELISA reader at 570 nm.Time-lapse imaging of cytotoxicityLive-cell imaging of cytotoxicity was detected by IncuCyte live-cell analysis system (Essen Bioscience, Ann Arbor, MI, USA). Neural stem cells were treated with benzalkonium chloride (1000 nM), diazolidinyl urea and imidazolidinyl urea (50 μM) and then IncuCyte Cytotox reagent (250 nM, Essen Bioscience) is diluted in the medium. This reagent is a highly sensitive cyanine nucleic acid dye for validating long-term and real-time assessment of in vitro cytotoxicity in the IncuCyte® ZOOM Live-Cell Imaging System (ESSEN Bioscience). This reagent exhibits an increase in fluorescence of 100–1000-fold upon binding to genomic deoxyribonucleic acid (DNA), allowing the cell membrane integrity to be measured kinetically. Phase contrast and red fluorescence images were captured every 2 h until 24 h. Cytotoxicity of cosmetic preservatives was analyzed by counting red fluorescent time-lapse images (1/mm2).Propidium iodide (PI) stainingPropidium iodide (PI) staining was performed to assess death of neural stem cells treated with benzalkonium chloride (at 1, 10, 100 and 1000 nM concentrations), diazolidinyl urea and imidazolidinyl urea (at 1, 10, 30 and 50 μM concentrations). Neural stem cells were cultured on cover glass coated with poly-L-ornithine hydrobromide. They were then fixed with 4% paraformaldehyde (PFA) and stained with PI (1: 1,000 diluted in DPBS) and DAPI (1:1,000 diluted in DPBS) at room temperature for 15 min, which was also washed and mounted using GEL/MOUNTTM (Bio Neda, CA, USA). Cell images were determined by fluorescence microscope (IRIS Digital Cell Imaging System, Logos Biosystems, MD, USA).Determination of ROSThe level of ROS in a cell was detected using a cell permanent reagent 2′,7′-dichlorodihydrofluorescein diacetate (H2DCF-DA). This reagent diffuses into the cell, which goes through deacetylation and oxidization by cellular enzymes into 2′,7′-dichlorofluorescein (DCF). After treatment of each agent, cells were washed with DPBS and 50 μM H2DCF-DA was added before incubation for 20 min in the dark. The samples were washed with DPBS and the cell images were taken by fluorescence microscope (IRIS Digital Cell Imaging System, Logos Biosystems).Western blot analysisCells were harvested and suspended with a Radioimmunoprecipitation assay (RIPA) buffer containing 150 mM sodium chloride, 1% Triton X-100, 1% (w/v) sodium deoxycholate, 0.1% (w/v) SDS, 50 mM Tris-HCl, and 2 mM EDTA. Proteins were quantified by BCA assay to make equal amounts of protein per sample. Proteins were boiled for 5 min at 105°C. Equalized protein samples were run in SDS-polyacrylamide gel electrophoresis (SDS-PAGE) to proteins according to their molecular weights. Separated proteins were transferred to nitrocellulose membranes for 90 min. All blots were blocked with polyvinyl alcohol (PVA) at room temperature for 5 min. After 3 times of washing the blots with Tris-buffered saline and 0.1% Tween 20 (TBS-T), they were incubated overnight with primary antibodies (β-actin, 1/40,000; BCl-2, 1/2,000; Bax, 1/2,000; cleaved caspase-3, 1/2,000) in TBS-T at 4°C. The next day, blots were incubated with horseradish peroxidase-conjugated secondary antibodies at room temperature for 60 min. Bands were detected and quantified by chemiluminescence detection system (Amersham Biosciences, Piscataway, NJ, USA). β-actin was used as the loading control.Statistical analysisExperimental results were expressed as the mean ± SEM. Statistical comparisons were performed by one-way ANOVA followed by Newman-Keuls test using GraphPad Prism Version 5 software (CA, USA), and a value of p<0.05 was considered significant.RESULTSCell viability was decreased in preservatives-treated rat cultured NPCsIn the previous study, we found that triclosan, a commonly used preservative in cosmetics, showed the stimulatory effect on NPCs proliferation at low concentration but a negative effect on cell viability at high concentration (Park et al., 2016). In this study, we checked more carefully the effects of three currently studied preservatives on NPCs viability. We performed MTT assay and checked for time- and/or dose-dependent effects. Indeed, we found that benzalkonium chloride, diazolidinyl urea, and imidazolidinyl urea reduced the NPCs viability in both time- and concentration-dependent manners. In all time points, treatment of preservatives showed a reduction of viability in NPCs at the highest concentrations: 1,000 nM for benzalkonium chloride (Fig. 1A), and 50 μM for diazolidinyl urea and imidazolidinyl urea (Fig. 1B, 1C).Open in a separate windowFig. 1.Cell viability of cultured rat NPCs treated with preservatives. Cell viability was measured by MTT assay after preservative treatment in different concentration and incubation time. H2O2 (200 μM) was used as positive control. benzalkonium chloride (A), diazolinidyl urea (B) and imidazolinidyl urea (C). Values are expressed as the mean ± SEM (N=4). *p<0.05; **p<0.01; ***p<0.001 vs. vehicle.All tested preservatives induced apoptotic cell death in cultured NPCsResults from MTT assay reflect mitochondrial function including proliferation and apoptosis, and to support the primary results of negative effects on cell viability, we performed PI staining to detect apoptosis markers. We determined whether benzalkonium chloride, diazolidinyl urea, and imidazolidinyl urea have apoptotic effects on NPCs using the highest dose that induced reduction of cell viability in MTT assay. Interestingly, all three preservatives induced significantly increased PI-positive cells (Fig. 2) suggesting an apoptotic effect of these preservatives in NPCs.Open in a separate windowFig. 2.PI staining of NPCs to detect the dead cells by preservatives. PI staining and imaging were done to detect the dead cells in NPCs treated with benzalkonium chloride (1000 nM), diazolinidyl urea and imidazolinidyl urea (50 μM) at 12 h. H2O2 (200 μM) was used as positive control. The ratio of PI positive cells to DAPI was shown. Values are expressed as the mean ± SEM (N=4). ***p<0.001 vs. vehicle. Scale bar=50 μm. Veh:vehicle (0.1% DMSO).Since only a few studies have demonstrated the toxic effects of these preservatives on NPCs viability, we further performed a time-lapse imaging technique using IncuCyte livecell analysis system to verify cytotoxicity effects. As shown in Fig. 3, benzalkonium chloride, diazolidinyl urea, and imidazolidinyl urea-induced time-dependent cytotoxicity in NPCs at the maximum concentration. A correlation was observed between live-cell cytotoxicity analysis and PI staining results suggesting a negative effect on NPCs survival.Open in a separate windowFig. 3.Cytotoxic effect of preservatives in NPCs. NPCs were treated with benzalkonium chloride (1000 nM), diazolinidyl urea (50 μM), and imidazolinidyl urea (50 μM) for 24 h. Images were captured every 2 hours using IncuCyte live-cell analysis system. Red fluorescent objects were counted for quntification (1/mm2). Values are expressed as the mean ± SEM (N=4). *p<0.05, **p<0.01, ***,$$$,###p<0.001 vs. vehicle. Scale bar=100 μm.Preservatives treatment induce ROS generation in cultured rat NPCsReleasing formaldehyde has been reported to induce overproduction of ROS (de Groot and Veenstra, 2010), an inducer of apoptotic cell death, leading us to measure the ROS in preservatives-treated condition. ROS generation was measured to investigate the toxic effect of preservatives in cultured NPCs. We selected the dose which induced apoptotic cell death in the previous experiment. Both benzalkonium chloride (1,000 nM), diazolidinyl urea (50 μM), and imidazolidinyl urea (50 μM) treated cells showed 9-fold increased ROS generation in cells than the vehicle-treated group (Fig. 4). Therefore, the effect of ROS generation by these preservatives may correlate with the results on cell viability.Open in a separate windowFig. 4.ROS induction of cultured NPCs by preservatives. NPCs were treated with benzalkonium chloride (1000 nM), diazolinidyl urea and imidazolinidyl urea (50 μM) for 6 h. ROS generation was detected by H2DCF-DA assay after preservatives treatment. The results are shown as the fluorescent intensities of H2DCF-DA. Values are expressed as the mean ± SEM. (N=5). ***p<0.001 vs. vehicle. Scale bar=50 μm. Veh:vehicle (0.1% DMSO).Apoptotic protein expressionTo further confirm whether benzalkonium chloride, diazolidinyl urea, and imidazolidinyl urea have individual effects on cell death, we checked the expression of apoptosis-related proteins through Western blot analysis. Activation of caspases play essential roles in the execution phase of apoptosis and caspase-3 interacts with many of the currently known caspases. Cleaved caspase-3 protein expressions were increased in all the preservatives tested but only significant in imidazolinidyl urea (Fig. 5). Cleaved caspase-8, which interacts with cleaved caspase-3, was also highly expressed in cells treated with all three preservatives of interest. Overall, the results suggest that the three preservatives under investigation could induce cleaved caspase-3 and caspase 8 expressions, presumably by ROS generation resulting to apoptosis in NPCs.Open in a separate windowFig. 5.Apoptotic effect of preservatives on NPCs. The apoptotic protein expression was measured at 24 h exposure after treatment with NPCs. Cleaved caspase-3 and cleaved caspase-8 were quantified by densitometric procedure reflected as bar graphs. Values are expressed as the mean ± SEM (N=5). *p<0.05; **p<0.01; ***p<0.001 vs. vehicle.DISCUSSIONIn this study, we investigated the effects of preservatives on NPCs, which have important roles in the developing brain. Preservatives decreased cell viability and induced ROS production resulting in caspase-dependent apoptosis. The results suggest the potential detrimental effects of preservatives in the developing mammalian brain.Risk assessment studies of preservatives had been conducted in previous studies. While dermal and eye irritation toxicity studies were frequently performed, experimental data are scarce on the effects on neural cells such as neuron and NPCs. In this study, we focused on the effect of preservatives in cultured NPCs which have important roles in the developing brain. Neural progenitor cells (NPCs), also called neural precursor cells, are a population of cells derived from embryonic brain stem cells that can be recognized due to their specific morphologic characteristics. These cells can differentiate into diverse CNS cell types including neurons, astrocytes, and oligodendrocytes (Fisher, 1997). NPCs have essential implications for the treatment of neural dysfunction. We chose this cell type to identify the possible effects of preservatives examined in this study during embryonic development. Embryonic period is highly crucial for the development of the immature fetus. At this stage, various environmental factors can give rise to the increasing prevalence of many neurodevelopmental disorders. With the lack of in vitro study in this area, we wanted to explore the potential outcome of preservatives exposure using the cultured rat NPCs. We used three cosmetic preservatives including benzalkonium chloride, diazolidinyl urea, and imidazolidinyl urea and found benzalkonium chloride decreased cell viability and induced apoptosis at low concentration in NPCs. Diazolidinyl urea and imidazolidinyl urea also showed similar effects.All three preservatives decreased the NPC viability in a time and concentration-dependent manner. Remarkably, diazolidinyl urea and imidazolidinyl urea severely decreased the cell viability, similar to hydrogen peroxide, 24 h after treatment. In addition, these chemicals induced time-dependent cytotoxicity as detected by PI staining. Furthermore, the preservatives increased the ROS production and apoptosis marked by caspase-3 and 8 activations. It seems apparent that the preservatives have caused apoptosis by ROS production, which is rooted from mitochondrial dysfunction. However, it is yet to be uncovered whether these preservatives induce cell death by autophagy pathway as well.The apoptotic effect of preservatives in NPCs potentially raises the concern as to whether they are safe to use in cosmetic products, especially for pregnant women. To our knowledge, the neurotoxic effect of preservatives in the developing brain has not yet been studied. Interestingly, the use of products containing diazolidinyl urea and imidazolidinyl urea during pregnancy is said to be avoided mainly due to the concern for its effect as a formaldehyde releaser, which induces overproduction of ROS and cancer (de Groot and Veenstra, 2010). In water-containing cosmetics, formaldehyde release is not only increased by pH and temperature rise but also in longer periods of storage (Cosmetic Ingredient Review Expert Panel, 1980; SCCNFP, 2002). In addition, benzalkonium chloride increases the intracellular ROS in human corneal epithelial cells (Wu et al., 2011) and induces corneal neurotoxicity in vivo and in vitro (Sarkar et al., 2012). Based on the Cosmetic Ingredient Review (CIR) Expert Panel, up to 0.5% of benzalkonium chloride and 0.5% of diazolidinyl urea (Cosmetic Ingredient Review Expert Panel, 2008) are safe, but the assurance of safety from repeated exposures still needs to be determined. Imidazolidinyl urea-induced slight toxicity to the fetus of albino mice treated from day 6 to 15 of gestation (Cosmetic Ingredient Review Expert Panel, 1980). Because cosmetics are used in a long-term and repetitive manner, the safety of preservatives in cosmetics should be determined based on chronic exposure to avoid the possible neurotoxic effect by ROS overproduction.The other concern about the use of preservatives is the penetration of placental barrier and blood-brain barrier. Absorption profiles of benzalkonium chloride by skin application in rats skin were 16% and 14%, in male and female, respectively (SCC, 2000), but the absorption profiles of imidazolidinyl urea and diazolidinyl urea are not yet reported. Moreover, the penetration activities to the blood-brain barrier are also still unknown in all preservatives. These preservatives including benzalkonium chloride, imidazolidinyl urea, and diazolidinyl urea have potential acute health effects in case of skin contact (irritant, sensitizer), eye contact (irritant), ingestion and inhalation. Additionally, these materials cause potential chronic effects in case of skin contact (sensitizer) and may be toxic to the eyes. The MSDS warns that repeated or prolonged exposure to these materials can produce target organ damage. These materials exposed by eye contact and inhalation can induce neuronal cell death as well as neuroinflammation through glial activation. The increase of neuroinflammation can break down the BBB, which subsequently allows more toxic substances to pass through. The lymphatic system, a functional waste clearance pathway of the CNS, may also be impaired after inflammation and/or brain injury (Weller et al., 2009; Sun et al., 2017). It was reported that triclosan, a commonly used antimicrobial agent and preservative, may cross and accumulate in the brain (Geens et al., 2012). Imidazolidinyl urea and diazolidinyl urea are formaldehyde releasers. Formaldehyde is a well-known neurotoxin that affects learning, memory, and behavior. It can be a threat to the central nervous system by entering the blood and crossing the blood-brain barrier and ultimately reach the brain (Tulpule and Dringen, 2013). In healthy individuals, the formaldehyde concentration in the blood is around 0.1 mM (Heck and Casanova, 2004) and in the brain is 0.2–0.4 mM (Tong et al., 2013). A low excess of formaldehyde will be quickly cleared. However, exposure to high concentrations of exogenous formaldehyde could exceed beyond the normal tolerable concentration in the blood and could cause neuronal damage. Undoubtedly, exposure to exogenous formaldehyde has been reported to cause neurotoxicity in various systems depending on the dose and the exposure duration (Kilburn et al., 1985; Songur et al., 2010). Toxicity studies of preservatives and chemicals should also include penetration studies to the brain especially in the developing embryo.In our experiment, preservatives induced NPCs apoptosis by overproduction of ROS. ROS, a normal product of oxygen metabolism, is required for cellular homeostasis and signaling, and their level is maintained by balancing between generation and scavenging. In contrast, ROS promotes cell survival by activating the PI3K/Akt pathway in normal condition but overproduction of ROS damages mitochondria that result in cell death. In the brain, ROS-induced oxidative damage decreases proliferation of NPCs through aerobic glycolysis preference and oxidative phosphorylation repression. (Paik et al., 2009; Yeo et al., 2013). This process may compromise the defense mechanism of the brain by the induction of ROS-induced senescence and cell death in NPCs (Davalli et al., 2016).Environmental factors are reported to increase the risks of neurodevelopment disorders including autism spectrum disorders and ADHD. The prevalence of autism has increased in recent years and potential toxins from the environment that induce oxidative stress could be one of the etiological factors. In the current study, the three preservatives seem to induce oxidative stress through the production of ROS in NPCs. The wide use of preservatives in many cosmetics raises the importance of the assessment of preservatives on possible neurotoxicity in a developing brain. Experiments to test the safety or toxicity of preservatives using human embryonic or induced neural stem cells would be better option to assess the potential neurotoxicity of cosmetic ingredients in humans. Because these preservatives are widely included in several products, combined exposure may increase the risk of neurotoxicity. Therefore, potential health threats of combined use of similar ingredients should be considered in the future.In this study, we presented the potential effects of benzalkonium chloride, diazolidinyl urea and imidazolidinyl urea in the primary cultured rat NPCs in vitro. Especially, we investigated the effect of preservatives on NPCs derived from embryonic day 14 of gestation, which is a critical period for the development of the immature offspring. Obviously, their potential neurotoxic effects in vivo and in human should be assessed in the future studies along with determining their pharmacokinetic and blood-brain barrier penetration properties.AcknowledgmentsThis work was supported by Basic Science Research Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science, ICT & Future Planning (NRF-2016R1A2B4014707), by the Bio & Medical Technology Development Program of the National Research Foundation (NRF)& funded by the Korean government (MSIT) (NRF-2017M3A9G2077568) and by a grant of the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea (HI14C2339 and HI15C1540).REFERENCESAn JH, Lee J-S, Chun J-R, Oh B-K, Kafi M, Choi J-W. Cell chip-based monitoring of toxic effects of cosmetic compounds on skin fibroblast cells. J. Nanosci. Nanotechnol. 2012;12:5143–5148. doi: 10.1166/jnn.2012.6272. [PubMed] [CrossRef] [Google Scholar]Antunes SC, Nunes B, Rodrigues S, Nunes R, Fernandes J, Correia AT. Effects of chronic exposure to benzalkonium chloride in Oncorhynchus mykiss: cholinergic neurotoxicity, oxidative stress, peroxidative damage and genotoxicity. Environ. Toxicol. Pharmacol. 2016;45:115–122. doi: 10.1016/j.etap.2016.04.016. [PubMed] [CrossRef] [Google Scholar]Baudouin C, Labbe A, Liang H, Pauly A, Brignole-Baudouin F. Preservatives in eyedrops: the good, the bad and the ugly. Prog. Retin. Eye Res. 2010;29:312–334. doi: 10.1016/j.preteyeres.2010.03.001. [PubMed] [CrossRef] [Google Scholar]Camarasa JM. First epidemiological study of contact dermatitis in Spain - 1977. Spanish Contact Dermatitis Research Group. Acta Derm. Venereol. Suppl. (Stockh) 1979;59:33–37. [PubMed] [Google Scholar]Cosmetic Ingredient Review Expert Panel  Final report of the safety assessment for imidazolidinyl urea. J. Environ. Pathol. Toxicol. 1980;4:133–146. [Google Scholar]Cosmetic Ingredient Review Expert Panel  Annual review of cosmetic ingredient safety assessments: 2005/2006. Int. J. Toxicol. 2008;27(Suppl 1):77–142. doi: 10.1080/10915810802032362. [PubMed] [CrossRef] [Google Scholar]Davalli P, Mitic T, Caporali A, Lauriola A, D’Arca D. ROS, cell senescence, and novel molecular mechanisms in aging and age-related diseases. Oxid. Med. Cell. Longev. 2016;2016:3565127. doi: 10.1155/2016/3565127. [PMC free article] [PubMed] [CrossRef] [Google Scholar]de Groot AC, Veenstra M. Formaldehyde-releasers in cosmetics in the USA and in Europe. Contact Derm. 2010;62:221–224. doi: 10.1111/j.1600-0536.2009.01623.x. [PubMed] [CrossRef] [Google Scholar]De Saint Jean M, Brignole F, Bringuier A-F, Bauchet A, Feldmann G, Baudouin C. Effects of benzalkonium chloride on growth and survival of Chang conjunctival cells. Invest. Ophthalmol. Vis. Sci. 1999;40:619–630. [PubMed] [Google Scholar]Desbenoit N, Schmitz-Afonso I, Baudouin C, Laprévote O, Touboul D, Brignole-Baudouin F, Brunelle A. Localisation and quantification of benzalkonium chloride in eye tissue by TOF-SIMS imaging and liquid chromatography mass spectrometry. Anal. Bioanal. Chem. 2013;405:4039–4049. doi: 10.1007/s00216-013-6811-7. [PubMed] [CrossRef] [Google Scholar]Elder R. Final report on the safety assessment for imidazolidinyl urea. J. Environ. Pathol. Toxicol. 1980;4:5–17. [Google Scholar]Fisher LJ. Neural precursor cells: applications for the study and repair of the central nervous system. Neurobiol. Dis. 1997;4:1–22. doi: 10.1006/nbdi.1997.0137. [PubMed] [CrossRef] [Google Scholar]Food and Drug Adminnistration, H. H. S  Safety and effectiveness of consumer antiseptics; topical antimicrobial drug products for over-the-counter human use. Final rule. Fed. Regist. 2016;81:61106–61130. [PubMed] [Google Scholar]Fräki JE, Kalimo K, Tuohimaa P, Aantaa E. Contact allergy to various components of topical preparations for treatment of external otitis. Acta Otolaryngol. 1985;100:414–418. doi: 10.3109/00016488509126565. [PubMed] [CrossRef] [Google Scholar]Geens T, Neels H, Covaci A. Distribution of bisphenol-A, triclosan and n-nonylphenol in human adipose tissue, liver and brain. Chemosphere. 2012;87:796–802. doi: 10.1016/j.chemosphere.2012.01.002. [PubMed] [CrossRef] [Google Scholar]Graf P. Benzalkonium chloride as a preservative in nasal solutions: re-examining the data. Respir. Med. 2001;95:728–733. doi: 10.1053/rmed.2001.1127. [PubMed] [CrossRef] [Google Scholar]Heck Hd, Casanova M. The implausibility of leukemia induction by formaldehyde: a critical review of the biological evidence on distant-site toxicity. Regul. Toxicol. Pharmacol. 2004;40:92–106. doi: 10.1016/j.yrtph.2004.05.001. [PubMed] [CrossRef] [Google Scholar]Jordan W. Human studies that determine the sensitizing potential of haptens-experimental allergic contact-dermatitis. Dermatol. Clin. 1984;2:533–538. doi: 10.1016/S0733-8635(18)30933-1. [CrossRef] [Google Scholar]Kilburn KH, Warshaw R, Boylen CT, Johnson S-J, Seidman B, Sinclair R, Takaro T. Pulmonary and neurobehavioral effects of formaldehyde exposure. Arch. Environ. Occup Health. 1985;40:254–260. doi: 10.1080/00039896.1985.10545928. [PubMed] [CrossRef] [Google Scholar]Lehmann SV, Hoeck U, Breinholdt J, Olsen CE, Kreilgaard B. Characterization and chemistry of imidazolidinyl urea and diazolidinyl urea. Contact Derm. 2006;54:50–58. doi: 10.1111/j.0105-1873.2006.00735.x. [PubMed] [CrossRef] [Google Scholar]Liebert M. Final report on the safety assessment of benzalkonium chloride. J. Am. Coll. Toxicol. 1989;8:589–625. doi: 10.3109/10915818909010524. [CrossRef] [Google Scholar]Paik JH, Ding Z, Narurkar R, Ramkissoon S, Muller F, Kamoun WS, Chae SS, Zheng H, Ying H, Mahoney J, Hiller D, Jiang S, Protopopov A, Wong WH, Chin L, Ligon KL, DePinho RA. FoxOs cooperatively regulate diverse pathways governing neural stem cell homeostasis. Cell Stem Cell. 2009;5:540–553. doi: 10.1016/j.stem.2009.09.013. [PMC free article] [PubMed] [CrossRef] [Google Scholar]Park BK, Gonzales EL, Yang SM, Bang M, Choi CS, Shin CY. Effects of triclosan on neural stem cell viability and survival. Biomol. Ther (Seoul) 2016;24:99–107. doi: 10.4062/biomolther.2015.164. [PMC free article] [PubMed] [CrossRef] [Google Scholar]Pfuhler S, Wolf HU. Effects of the formaldehyde releasing preservatives dimethylol urea and diazolidinyl urea in several short-term genotoxicity tests. Mutat. Res. 2002;514:133–146. doi: 10.1016/S1383-5718(01)00335-7. [PubMed] [CrossRef] [Google Scholar]Pratt MD, Belsito DV, DeLeo VA, Fowler JF, Jr, Fransway AF, Maibach HI, Marks JG, Mathias CG, Rietschel RL, Sasseville D, Sherertz EF, Storrs FJ, Taylor JS, Zug K. North American Contact Dermatitis Group patch-test results, 2001–2002 study period. Dermatitis. 2004;15:176–183. [PubMed] [Google Scholar]Rosin LM, Bell NP. Preservative toxicity in glaucoma medication: clinical evaluation of benzalkonium chloride-free 0.5% timolol eye drops. Clin. Ophthalmol. 2013;7:2131–2135. [PMC free article] [PubMed] [Google Scholar]Sarkar J, Chaudhary S, Namavari A, Ozturk O, Chang JH, Yco L, Sonawane S, Khanolkar V, Hallak J, Jain S. Corneal neurotoxicity due to topical benzalkonium chloride. Invest. Ophthalmol. Vis. Sci. 2012;53:1792–1802. doi: 10.1167/iovs.11-8775. [PMC free article] [PubMed] [CrossRef] [Google Scholar]SCC  . Reports of the Scientific Committee on Cosmetology (ninth Series) European Commission; 2000.  [Google Scholar]SCCNFP  2002.  The Determination of Certain Formaldehyde Releasers in Cosmetic Products.Siegert W. 2014.  Approved Preservatives for Cosmetics. 2014. A Review of Actives Listed in Regulation (EC) NO 1223/2009 on cosmetic products - Annex V.Songur A, Ozen OA, Sarsilmaz M. The toxic effects of formaldehyde on the nervous system. Rev. Environ. Contam. Toxicol. 2010;203:105–118. [PubMed] [Google Scholar]Sun B, Wang L, Yang T, Mao L, Sun J, Yang M, Yuan H, Colvin RA, Yang X. Lymphatic drainage system of the brain: A novel target for intervention of neurological diseases. Prog. Neurobiol. 2017;163–164:118–143. [PubMed] [Google Scholar]Tong Z, Han C, Luo W, Wang X, Li H, Luo H, Zhou J, Qi J, He R. Accumulated hippocampal formaldehyde induces age-dependent memory decline. Age (Dordr) 2013;35:583–596. doi: 10.1007/s11357-012-9388-8. [PMC free article] [PubMed] [CrossRef] [Google Scholar]Tulpule K, Dringen R. Formaldehyde in brain: an overlooked player in neurodegeneration? J. Neurochem. 2013;127:7–21. [PubMed] [Google Scholar]Weller RO, Djuanda E, Yow H-Y, Carare RO. Lymphatic drainage of the brain and the pathophysiology of neurological disease. Acta Neuropathol. 2009;117:1–14. doi: 10.1007/s00401-008-0457-0. [PubMed] [CrossRef] [Google Scholar]Wu H, Zhang H, Wang C, Wu Y, Xie J, Jin X, Yang J, Ye J. Genoprotective effect of hyaluronic acid against benzalkonium chloride-induced DNA damage in human corneal epithelial cells. Mol. Vis. 2011;17:3364–3370. [PMC free article] [PubMed] [Google Scholar]Yeo H, Lyssiotis CA, Zhang Y, Ying H, Asara JM, Cantley LC, Paik JH. FoxO3 coordinates metabolic pathways to maintain redox balance in neural stem cells. EMBO J. 2013;32:2589–2602. doi: 10.1038/emboj.2013.186. [PMC free article] [PubMed] [CrossRef] [Google Scholar]Yim E, Nole KLB, Tosti A. Contact dermatitis caused by preservatives. Dermatitis. 2014;25:215–231. doi: 10.1097/DER.0000000000000061. [PubMed] [CrossRef] [Google Scholar]Articles from Biomolecules & Therapeutics are provided here courtesy of Korean Society of Applied Pharmacology
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (2.5M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

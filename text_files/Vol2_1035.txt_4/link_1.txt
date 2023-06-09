@@ -1,0 +1,1848 @@
+Document Name: role of Glycerol Monostearate in Cold Cream1
+Document link: https://cooking.stackexchange.com/questions/68959/gms-and-cmc-ratios-in-ice-cream
+
+
+
+emulsion - GMS and CMC ratios in Ice Cream - Seasoned Advice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stack Exchange Network
+
+						Stack Exchange network consists of 181 Q&A communities including Stack Overflow, the largest, most trusted online community for developers to learn, share their knowledge, and build their careers.
+					
+Visit Stack Exchange
+
+
+
+
+
+
+
+
+
+
+
+Loading…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                Tour
+                                
+                                    Start here for a quick overview of the site
+                                
+
+
+
+
+                            Help Center
+                            
+                                Detailed answers to any questions you might have
+                            
+
+
+
+
+                                        Meta
+                                        
+                                            Discuss the workings and policies of this site
+                                        
+
+
+
+
+                                    About Us
+                                    
+                                        Learn more about Stack Overflow the company, and our products.
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+current community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Seasoned Advice
+        
+
+
+
+help
+chat
+
+
+
+
+
+
+
+
+
+            Seasoned Advice Meta
+        
+
+
+
+
+
+
+your communities            
+
+
+
+Sign up or log in to customize your list.                
+
+
+more stack exchange communities
+
+company blog
+
+
+
+
+
+
+
+
+Log in
+
+Sign up
+
+
+
+
+
+
+
+
+Seasoned Advice is a question and answer site for professional and amateur chefs. It only takes a minute to sign up.
+Sign up to join this community
+
+
+
+
+
+
+
+                    Anybody can ask a question
+                
+
+
+
+
+
+
+                    Anybody can answer
+                
+
+
+
+
+
+
+                    The best answers are voted up and rise to the top
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Home
+                
+
+
+
+
+
+Public
+
+
+ Questions
+
+
+
+
+
+
+                    Tags
+                
+
+
+
+
+
+
+
+                    Users
+                
+
+
+
+
+
+
+
+                    Unanswered
+                
+
+
+
+
+
+
+Teams
+
+Stack Overflow for Teams
+        – Start collaborating and sharing organizational knowledge.
+        
+        
+Create a free Team
+Why Teams?
+
+
+
+Teams
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Create free Team
+                
+
+
+
+
+
+
+
+
+
+Teams
+Q&A for work
+Connect and share knowledge within a single location that is structured and easy to search.
+
+                    Learn more about Teams
+                
+
+
+
+
+
+
+
+
+
+
+
+GMS and CMC ratios in Ice Cream
+
+
+        Ask Question
+    
+
+
+
+
+Asked
+6 years, 11 months ago
+
+
+Modified
+2 years, 7 months ago
+
+
+Viewed
+                        26k times
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            9
+        
+
+
+
+
+
+
+
+
+
+
+
+
+I was exploring a variety of online sources and I stumbled into the emulsifier Glycerol Monostearate (GMS). According to Wikipedia it is commonly used in ice cream to make its texture creamier.  I also noticed that it's commonly used with Carboxylmethyl Cellulose (CMC).
+I have a Kitchen Aid ice cream maker accessory and one of common problems I have is that I feel like the overrun is very high and the ice cream is crunchy.  I wanted to try to address these issues with these additives.  Unfortunately, they're not mentioned in the Ben and Jerry's Ice Cream book. ;)  Information on the internet is relatively sparse as well. 
+Does anyone know the appropriate proportions for these ingredients in a French-style ice cream (with eggs)?  
+
+
+
+
+ice-creamemulsionadditives
+
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this question
+
+
+
+                    Follow
+                
+
+
+
+
+
+
+
+
+        asked May 12, 2016 at 17:59
+
+
+
+
+
+CorezCorez
+
+14111 gold badge11 silver badge77 bronze badges
+
+
+
+
+
+
+
+5
+
+
+
+
+
+
+
+
+
+
+It might well be possible to fix these problems without additives. Are you really set on that?
+
+– Cascabel
+♦ 
+May 12, 2016 at 18:32
+
+
+
+
+
+
+
+
+
+
+In this case I am.  I'm trying to learn where these additives fit into ice cream.
+
+– Corez
+
+May 12, 2016 at 18:35
+
+
+
+
+
+
+
+
+
+
+I have a kitchen aid ice cream maker and I've had great success with it. If you are getting poor results I'd say it's with your recipe or method. I would not recommend trying to use those ingredients - you don't need them.
+
+– GdD
+
+May 13, 2016 at 8:43
+
+
+
+
+
+
+8
+
+
+
+
+I am very surprised at the answers and comments posted here. The OP asked a very concrete detail about a method they want to use, and everybody wrote that they shouldn't use it, because there are other ones. Note that the question wasn't "how to prevent crystals" and the OP wants to know about their chosen method. This is like asking people "What time does the train to Munich leave" and hearing in response "You shouldn't go by train, because there is a bus".
+
+– rumtscho
+♦ 
+May 13, 2016 at 9:15
+
+
+
+
+
+
+7
+
+
+
+
+(cont.) We have problems getting new users to understand that our model is to answer the question straightforwardly instead of discussing all possible related questions and rehashing the same few tips one hears over and over once a keyword is mentioned. And then a new user appears and we start posting somewhat related information, asserting that they should use that instead of what they (obviously after some research) want to use - that's quite counterproductive.
+
+– rumtscho
+♦ 
+May 13, 2016 at 9:17
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+                                        7 Answers
+                                    7
+
+
+
+
+
+
+            Sorted by:
+        
+
+            Reset to default
+        
+
+
+
+
+                        Highest score (default)
+                    
+
+                        Date modified (newest first)
+                    
+
+                        Date created (oldest first)
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            5
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+After some more research, I stumbled onto this post. The "standard ice cream" recipe linked from there uses 0.4% of a "stabilizer blend" (8g out of 1950g of ingredients).
+GMS and CMC would fall into the stabilizers and emulsifiers category.  I used 7g of GMS and 1g of CMC, which seems to be a fairly common ratio in recipes using these ingredients.
+The post itself says "standard" ice cream has 0 to 1% stabilizers and emulsifiers, which at least provides an upper bound:
+
+One can very generally place ice cream formulas and their constituent components within the following ranges:
+Milk Fat: 10–16%
+Egg Yolk Solids: 0–2%
+Nonfat Milk Solids: 9–12%
+Sweeteners: 12–16%
+Stabilizers and Emulsifiers: 0–1%
+Water: 55–64%
+
+The challenge is calculating the amounts of various components in the ingredients that are added.  I can say that I made delicious French Vanilla Ice Cream (with GMS and CMC) using that basic recipe  and the Kitchen Aid Ice Cream accessory.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                    Follow
+                
+
+
+
+
+
+
+
+
+edited Jun 16, 2020 at 11:23
+
+
+
+
+
+CommunityBot
+
+1
+
+
+
+
+
+
+
+        answered May 17, 2016 at 17:34
+
+
+
+
+
+CorezCorez
+
+14111 gold badge11 silver badge77 bronze badges
+
+
+
+
+
+
+
+7
+
+
+
+
+
+
+
+
+
+
+How did you actually find out how much of each to use based on that page? Presumably different stabilizers and emulsifiers have different strengths, and knowing that you might use at most 1% of them is hardly any information at all! The recipe linked from there just says "8g stabilizer blend" which is perhaps a bit better but without knowing what was in that blend I'm not sure how much it helps, either.
+
+– Cascabel
+♦ 
+May 17, 2016 at 17:56
+
+
+
+
+
+
+
+
+
+
+Good point.  I used 7g of GMS and 1g of CMC.  As seems to be the general consensus online regarding ratios of these additives.  Updated answer to that effect.
+
+– Corez
+
+May 17, 2016 at 18:03
+
+
+
+
+
+
+
+
+
+
+
+
+
+So... it sounds like the important things are actually the recipes that you found using that ratio of GMS and CMC, and the recipe with the 8g of "stabilizer blend". (What is that 8g as a weight percentage?) The basic formula part and the rest of that post don't really provide much information about the stabilizer/emulsifier ratio question.
+
+– Cascabel
+♦ 
+May 17, 2016 at 18:26
+
+
+
+
+
+
+
+
+
+
+
+
+
+First off, the 8g is from the standard recipe that's referenced in the url that is in the answer.  In that recipe the 8g of stabilizer would be .4%.  In my answer, based on the original formula, it says 0-1% Stabilizers and Emulsifiers.  This would be a ratio.  Regarding GMS and CMC, I haven't seen exact ratios but I provided mine.  If there's more specific information available then I'd be happy to upvote a more thorough answer.
+
+– Corez
+
+May 17, 2016 at 19:04
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+Are you kidding me?  You can see Stabilizers and Emulsifiers: 0-1% in the answer.  Should I clarify that these are GMS and CMC?  Oh wait - I did.
+
+– Corez
+
+May 17, 2016 at 19:09
+
+
+
+
+
+
+
+
+
+
+ | 
+Show 2 more comments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            3
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Use 0.3% of Glycerol Monostearate, it is plenty to stabilise the emulsion.
+CMC is generaly used in quantity ranging from 0.05 to 0.15% in the ice cream industry.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                    Follow
+                
+
+
+
+
+
+
+
+
+        answered May 13, 2016 at 10:16
+
+
+
+
+
+Matt R. FMatt R. F
+
+4133 bronze badges
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+Any common/easily available ingredients to thicken the ice-cream?   I've heard CMC helps but I'm not sure where to go about finding it...
+
+– Qasim
+
+Jun 1, 2017 at 16:01
+
+
+
+
+
+
+
+
+
+
+Yes you can use locust bean gum instead (which can be found easily) ranging from 0.1 to 0.3% it is plenty to get a thicker ice cream mix.
+
+– Matt R. F
+
+Jun 2, 2017 at 16:52
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GMS will increase overrun, not decrease it. And there's really no point to using it unless you're making eggless ice cream. CMC is an effective stabilizer, but it's not the answer to your problem. 
+You'd have to post your recipe and procedure to give me a clue. I use the Kitchenaid machine, and can assure you that it can get as much or as little overrun as you want. It's the only consumer machine that's variable speed (this is huge). Between this, and your ability to adjust the formula, you should be able to go from very dense to very airy. 
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                    Follow
+                
+
+
+
+
+
+
+
+
+        answered Apr 8, 2019 at 4:50
+
+
+
+
+
+paulraphaelpaulraphael
+
+29922 silver badges44 bronze badges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            0
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In general stabilizer would be used at .1-.5% (total mix 3000 grams x .005= 15 grams) and generally are used in a combination for reasons like: cost, availability, synergistic effect, and other.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                    Follow
+                
+
+
+
+
+
+
+
+
+edited Sep 1, 2017 at 1:48
+
+
+
+
+
+
+
+
+
+
+
+
+        answered Aug 29, 2017 at 23:52
+
+
+
+
+
+KennyKenny
+
+1122 bronze badges
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            0
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I have used http://www.khanakhazana.com/recipes/view.aspx?id=589. It uses 2 tbsp GMC and 1 tsp CMC for a liter of milk. This is a gelato style recipe though it has cornstarch but no egg yolk. I got excellent results with it. 
+It turns out better if while cooling the base you keep stirring it, do not cool under cold air or cold water. 
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                    Follow
+                
+
+
+
+
+
+
+
+
+edited May 11, 2018 at 8:52
+
+
+
+
+
+rumtscho♦
+
+132k4444 gold badges297297 silver badges537537 bronze badges
+
+
+
+
+
+
+
+        answered May 11, 2018 at 8:04
+
+
+
+
+
+pretty pretty 
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            0
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How high is the overrun? Then, GMS wouldn't help reduce it. But if your ice cream is icy 
+it is because your ice crystal are too large, then CMC would help stabilise your ice cream.
+Use maybe about 0.1-0.15% of your total weight for CMC then, 0.4-0.5% for the GMS. 
+If the ice cream is still icy, reduce your CMC as it also functions as a water retention agent .It would help also help if you add sweet whey powder as milk protein is known to help promote smaller ice crystals. 
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                    Follow
+                
+
+
+
+
+
+
+
+
+        answered Jun 28, 2019 at 8:12
+
+
+
+
+
+EllaElla
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            -1
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+You do not need those additive for home-made ice cream; just practice some more or use a different recipe.
+To answer your question: 
+Those two additives are (mostly) used by commercial ice-cream makers either as a emulsifier (GMS) and thickener (CMC), i.e. instead of properly churning the custard at the proper temperature; and that will also help the ice-cream survive less than ideal storage conditions (will not melt at higher temperature).
+There are recipes that can be google with GMS and CMC, and both additives are easily available for home-use.
+Edit: 
+For example, one recipe (http://www.khanakhazana.com/recipes/view.aspx?id=589):
+
+1 liter Milk
+1 cup Sugar
+3 tbsp Cornflour
+2 tbsp GMS powder
+1/4 tsp CMC Powder
+vanilla essence 1/2 tsp, 
+1 cup fresh cream
+1/2 cup powdered sugar
+
+After looking at the above recipe, it looks like the CMC and GMS more or less replaces the eggs (and custard) 
+Good luck with that.
+
+
+
+
+
+
+
+
+Share
+
+
+Improve this answer
+
+
+
+                    Follow
+                
+
+
+
+
+
+
+
+
+edited May 12, 2016 at 19:45
+
+
+
+
+
+
+
+
+
+
+
+
+        answered May 12, 2016 at 19:01
+
+
+
+
+
+MaxMax
+
+20.3k11 gold badge3434 silver badges5252 bronze badges
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+If you can find those recipes, could you include the typical ratios used?
+
+– Cascabel
+♦ 
+May 12, 2016 at 19:40
+
+
+
+
+
+
+
+
+
+
+A French-Style ice cream is built around the custard.  Are you saying that the GMS and CMC replace the need for a custard?
+
+– Corez
+
+May 12, 2016 at 21:34
+
+
+
+
+
+
+
+
+
+
+@Corez In this recipe, the corn starch is also a partial replacement. But it may also just not be the same texture as French-style ice cream. I guess the ratios could still give you a rough idea?
+
+– Cascabel
+♦ 
+May 12, 2016 at 23:45
+
+
+
+
+
+
+
+
+
+Add a comment
+ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Highly active question. Earn 10 reputation (not counting the association bonus) in order to answer this question. The reputation requirement helps protect this question from spam and non-answer activity.                    
+
+
+
+
+
+
+Not the answer you're looking for? Browse other questions tagged ice-creamemulsionadditives or ask your own question.                                
+
+
+
+
+
+
+
+                            Featured on Meta
+                        
+
+
+ 
+
+New blog post from our CEO Prashanth: Community is the future of AI
+
+
+
+
+ 
+
+Improving the copy in the close modal and post notices - 2023 edition
+
+
+
+
+
+
+
+
+
+Linked
+
+
+
+4
+
+Ice cream stabilizer - ratio of components
+
+
+
+4
+
+Baileys ice cream stabilizer
+
+
+
+
+Related
+
+
+
+2
+
+Clementine ice cream
+
+
+
+3
+
+Ice cream problems
+
+
+
+4
+
+Baileys ice cream stabilizer
+
+
+
+4
+
+Custard based ice cream vs eggless ice cream
+
+
+
+3
+
+Making ice cream and fats don't dissolve in base
+
+
+
+6
+
+Semifreddo vs Ice Cream
+
+
+
+11
+
+"Soften" ice cream to make ice cream bars
+
+
+
+0
+
+Ideal temperature and stabilizer for chewy ice cream?
+
+
+
+3
+
+Emulsifying (and stabilizing?) a sesame oil ice cream
+
+
+
+
+
+
+            Hot Network Questions
+        
+
+
+
+
+                    To what laws does Thoreau allude in "Slavery in Massachusetts"?
+                
+
+
+
+                    Is it possible to extend the ResourceFunction CombinePlots for more than two axes?
+                
+
+
+
+                    Did God win or lose the argument in the book of Job?
+                
+
+
+
+                    Find Index of Rational Number in Calkin-Wilf Sequence
+                
+
+
+
+                    Plural for numbers as decades in French? (E.g. The '80s)
+                
+
+
+
+                    Vertical alignment of \underset
+                
+
+
+
+                    What factors result in the West being more accepting of India's neutrality over the Ukraine war than China's?
+                
+
+
+
+                    white-coloured light brick for the iron man sets
+                
+
+
+
+                    Why don't blackbodies emit gravitational waves
+                
+
+
+
+                    How was the order of Unicode block-quadrant characters chosen?
+                
+
+
+
+                    Is it possible to produce 30W (5V 6A) using a flyback topology without opto-isolation?
+                
+
+
+
+                    Two switches, double connection, no LACP: how does it work?
+                
+
+
+
+                    What is the plural of the pronoun "one"?
+                
+
+
+
+                    Tiling the plane with pairwise non-congruent rational triangles
+                
+
+
+
+                    What dice do I need to display every integer up to X?
+                
+
+
+
+                    Why is this sentence unnatural? "It won't take at least 15 minutes to walk there."
+                
+
+
+
+                    Phd Advisor with Apparent Mental Deterioration
+                
+
+
+
+                    In dramatic dialogue, would it be okay NOT to drop the definite article from a character's name?
+                
+
+
+
+                    What, if anything, can a person accomplish who has intercepted an emailed QR image for Authenticator?
+                
+
+
+
+                    Two EXACTLY the same .jpg images with one image more than twice the file size of the other - Why? (PART 2)
+                
+
+
+
+                    Can you guess the phrase?
+                
+
+
+
+                    Why does playing Rancor on an illusion send it to the graveyard?
+                
+
+
+
+                    Can the target of a dream spell simply choose to wake up to end the spell?
+                
+
+
+
+                    What makes my planetary shields more practical on the surface of planets than in space?
+                
+
+
+
+            more hot questions
+        
+
+
+
+
+            Question feed
+        
+
+
+
+
+                Subscribe to RSS
+            
+
+
+
+                        Question feed
+                        To subscribe to this RSS feed, copy and paste this URL into your RSS reader.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seasoned Advice
+
+Tour
+Help
+Chat
+Contact
+Feedback
+
+
+
+Company
+
+Stack Overflow
+Teams
+Advertising
+Collectives
+Talent
+About
+Press
+Legal
+Privacy Policy
+Terms of Service
+Cookie Settings
+Cookie Policy
+
+
+
+
+Stack Exchange Network
+
+
+
+                                    Technology
+                                
+
+
+
+                                    Culture & recreation
+                                
+
+
+
+                                    Life & arts
+                                
+
+
+
+                                    Science
+                                
+
+
+
+                                    Professional
+                                
+
+
+
+                                    Business
+                                
+
+
+
+                                    API
+                                
+
+
+
+                                    Data
+                                
+
+
+
+
+
+
+
+Blog
+Facebook
+Twitter
+LinkedIn
+Instagram
+
+
+Site design / logo © 2023 Stack Exchange Inc; user contributions licensed under CC BY-SA.                    rev 2023.4.21.43403
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Your privacy
+                    
+
+                        By clicking “Accept all cookies”, you agree Stack Exchange can store cookies on your device and disclose information in accordance with our Cookie Policy.
+                    
+
+
+                            Accept all cookies
+                        
+
+                            Necessary cookies only
+                        
+
+
+
+                            Customize settings
+                        
+
+
+
+
+
+ 
+
+
+

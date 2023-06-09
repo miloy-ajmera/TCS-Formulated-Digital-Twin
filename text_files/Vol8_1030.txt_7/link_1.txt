@@ -1,0 +1,157 @@
+Document Name: role of Glycerin/Glycerin in Anti Ozone Cream1
+Document link: http://www.thecosmeticchemist.com/education/skin_science/the_beauty_and_the_beast_in_tandem_glycerin_and_ozone_together_tackle_the_dark_spots.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Cosmetic Chemist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home 
+ About 
+ News 
+ Events 
+ Education
+
+ Skin Science 
+ Hair Care Technology 
+ Oral Care 
+ Regulatory 
+ Formulation Science 
+ Career Corner 
+ Molecule of the Week 
+ Crossword Puzzles 
+
+
+ Resources
+
+ Links 
+ Societies 
+ Online Education 
+ Cosmetic Science Degrees 
+ Journals 
+ Research Groups 
+
+
+ Careers
+
+ Job Listing 
+ Post an Ad 
+
+
+
+
+
+Menu
+
+
+
+
+  The Beauty and the Beast in Tandem: Glycerin and
+Ozone Together Tackle the Dark Spots?
+
+	   by Gertrude-Emilia Costin1 and Gopinathan Menon2
+1Institute for In Vitro Sciences, Inc. (IIVS), Gaithersburg, MD, USA 
+2Fellow, California Academy of Sciences, San Francisco, CA, USA
+October 10, 2022 
+
+ 
+ 
+Ozonized glycerin (OG) is the latest addition to the armamentarium of the skin-lightening (or brightening) brigade of cosmetic actives.1 As its name implies, OG is formulated as a glycerol gel containing ozone.2 Regarding its stability, characterization, and activity, OG has been reported to have a long half-life;2 be safe for the skin, eyes, and oral mucosa;3,4 and to exert antibacterial2,4 and hemostatic5 effects. In a recent manuscript, Hanada et al. tested OG formulations (80 and 800 ppm) using in chemico assays and clinical studies to assess their ability to degrade melanin as a new activity of interest.6 Furthermore, the authors investigated in vitro the effects of OG formulations on gene expression of keratinocyte differentiation markers involved in cell maturation. Here we present our take on the results reported by the authors of this publication with particular interest in the new direction this manuscript introduces regarding the melanogenic pathway mechanisms that OG seems to impact directly or indirectly. 
+
+In Chemico Assays
+Both OG formulations tested by Hanada et al. showed direct melanin degradation activity in a time-dependent manner, with significant effects observed as early as 6 hours. The 800 ppm OG formulation showed higher degradation activity than the 80 ppm OG formulation, and the amount of melanin was decreased by about 40% on Day 14 of the mixing reaction.
+
+Clinical Study
+In a clinical study for evaluating effects of OG formulations on age spots on facial skin, 48 women were measured for the melanin content of skin by a Mexameter at 4 and 8 weeks after twice daily application of OG formulations. The OG 80 and 800 ppm formulations showed larger decreases in melanin content at 8 weeks compared with those at 4 weeks and their mean values of â³melanin index were â16.7 and â15.2, respectively. No adverse events related to the use of the OG 80 and 800 ppm formulations were reported in the clinical study. 
+
+In Vitro Sudies
+In studies using human keratinocytes the gene expression of involucrin and serine palmitoyltransferase was upregulated by OG at a concentration that was almost equivalent to the 80 ppm used in the other experiments, suggesting that OGs can enhance epidermal differentiation and turnover of the skin. This faster turnover may therefore contribute also to the overall impact of OG formulations on skin pigmentation as the transfer of melanosomes containing melanin from melanocytes to keratinocytes is one of the mechanisms that could be at play in this case. 
+
+ What is Counter-Intuitive About the Finding Reported by Hanada et al.?
+Taken separately, glycerol and ozone have their own share of properties that affect the skin in either a beneficial or detrimental way, respectively. Their combination seems however to incline the balance towards the benefits, likely through synergistic effects that are yet to be investigated in-depth. Glycerol is a classic ingredient for topical dermatological preparations, shown to influence skin hydration, barrier function, and mechanical properties; and reported to inhibit stratum corneum lipid phase transition, to protect against irritating stimuli, to enhance exfoliation by accelerated desmosomal degradation, helping wound-healing processes, and exerting antimicrobial effects. Topical application of glycerol-containing products improves skin properties in diseases characterized by xerosis and impaired epidermal barrier function, such as atopic dermatitis.7 Considering all these properties, this Wonder ingredient almost sounds like a silver bullet for all skin maladies as the Beauty in the classic story. But one of the missing actions is the one on hyper-pigmentation, an important manifestation of photoageing, especially in several ethnicities like Asian and Latin-American populations.
+
+On the other hand, ground-level ozone (a major component of smog) is a highly reactive environmental pollutant that induces oxidative stress in skin through free radical reactions,8-10 positioning itself like the Beast in the story. At the molecular level, ozone induces biomolecules oxidation, production of reactive oxygen species (ROS) which further lead to cytotoxicity, collagen loss, and skin barrier damage. Exposure to increased ground levels of ozone may be associated with wrinkle formation in the face,11 which is believed to be the result of depletion of vitamin E and other antioxidant molecules from the stratum corneum,12 however reportedly preventable by the use of vitamin C compounds.13 Ozone has been shown to activate the aryl hydrocarbon receptors,14 and this in turn is claimed to lead to more lentigenes on the face.11 A recent clinical study, however, brought a different view on ozoneâs impact on skin ageing specifically from the pigmentation perspective. Hyper-pigmentation in various forms is one of the hallmarks of skin ageing, alongside wrinkle formation, loss of intradermal hydration, and skin laxity; and ozone has been known to be one of the major causes of skin ageing. When the typical aspects of skin ageing have been broken down in detail, a clinical study on two German cohorts indeed brought to light the positive associations of ozone exceedances with coarse wrinkles in the face but not with pigmented spots.15 This lack of association between pigmented spots and ozone exposure suggests that the observed effect of ozone was independent from the UV radiation. So, there is more than meets the eye when it comes to ozoneâs impact on skin from the pigmentation perspective which is surely worth investigating further. This work needs to be put in a wider perspective: it is already known that long-term exposure to ozone can have adverse effects on skin; however, its short-term effects may be beneficial, as shown when used in skin therapy to increase oxygenation and accelerated wound-healing. Petracca et al. reported that ozone induced chemical changes of the unsaturated bonds in ceramides and cholesterol, however these modifications unexpectedly improved the barrier function of the stratum corneum substitute membrane that was used to conduct the experiments.16 Whether such a positive impact will be seen in vivo remains a matter of speculation, thus widening the landscape of opportunities to research OGâs impact on pigmentation and skin barrier.
+
+What Next?
+The manuscript by Hanada et al. indicates that this unseemly and intriguing association of glycerin and ozone solves the missing benefit of glycerol as a player in the pigmentation game and absolves ozone of all its classic detrimental activities that contribute to ageing as a well-known environmental aggressor. Many pieces of the puzzle, however, remain scattered on the table awaiting proper placement if OG is to be considered a contender for skin lightening or brightening products. For example, in vitro studies that are cell- or tissue-based should be considered to further investigate the OGâs impact on the melanogenic pathway since a complex biological test system can provide mechanistic insights. It would be of interest to monitor the presumed slow release of ozone in culture and investigate if its use is not detrimental in the long term, by inducing cytotoxicity through formation of ROS. The ideal compound to be considered for products intended for skin lightening or brightening is to be non-toxic and efficient on one or more steps involved in melanin production, including inhibition of enzymes activity, effects on their folding or ubiquitination, transfer of melanin from melanocytes to keratinocytes, melanin degradation, etc. The preservation of the integrity of melanocytes in the skin is paramount given their participation in skin safety and ozone use must be tread carefully given the fine line it plays as a highly reactive molecule. Along the same lines, the OGâs effects on skin microbiome would be another aspect that needs consideration. Last but not least, the synergistic effects should also be investigated if the assumption or hope is that by acting in tandem, glycerin and ozone make for a perfect pair, safe and efficacious. This could be accomplished by testing the components individually and in combination especially using a biological test system. A thorough understanding of how the cells uptake, use, and metabolize OG is a key component of investigating the synergistic effects. It seems that glycerin and ozone complement each other and like in any relationship, it needs to pass the test of time and validate itself as a novel addition to the library of compounds with skin lightening activity at the disposal of cosmetic industry.
+
+
+References
+1. K. Hanada, D. Okuda, R. Ogi, S. Kojima, R. Tsuruoka, and G. Shiota, Ozonized glycerin (OG)-based cosmetic products lighten age spots on human facial skin, J. Cosmet. Dermatol., 21, 3133-3139 (2022).
+2. K. Niinomi, A. Kanaishi, A. Shiba, H. Tsukasaki, F. Iwasa, and T. Hirata, The bactericidal effects of ozone gel, J. Showa Univ. Dent. Soc., 24, 103-109 (2004).
+3. P.L. Wang, Y. Tachi, K. Masuno, N. Okusa, and Y. Imamura, The study of ozone ointment on human gingival fibroblasts cell proliferation ability and anti-inflammatory, J. Hard Tissue Biol., 27, 209-212 (2018).
+4. T. Fukui, K. Masuno, Y. Makita, S. Fujiwara, G. Shiota, Y. Imamura, A. Shiba, and P.L. Wang, Antimicrobial effects of ozone gel against periodontal bacteria, J. Hard Tissue Biol., 23, 445-448 (2014).
+5. D. Sakai, Y. Makita, K. Masuno, S. Fujiwara, J. Okazaki, and P.L. Wang, Local hemostatic effect of acqueous ozone in cutting wound surface, J. Hard Tissue Biol., 23, 245-248 (2014).
+6. K. Hanada, D. Okuda, R. Ogi, S. Kojima, R. Tsuruoka, and G. Shiota, Ozonized glycerin (OG)-based cosmetic products lighten age spots on human facial skin, J. Cosmet. Dermatol., 21, 3133-3139 (2022).
+7. J.W. Fluhr, R. Darlenski, and C. Surber, Glycerol and the skin: holistic approach to its origin and functions, Br. J. Dermatol., 159, 23-34 (2008).
+8. A. Pecorelli, D.H. McDaniel, M. Wortzman, and D.B. Nelson, Protective effects of a comprehensive topical antioxidant against ozone-induced damage in a reconstructed human skin model, Arch. Dermatol. Res., 313, 139-146 (2021).
+9. F. Xu, S. Yan, M. Wu, F. Li, X. Xu, W. Song, J. Zhao, J. Xu, and H. Kan, Ambient ozone pollution as a risk factor for skin disorders, Br. J. Dermatol., 165, 224-225 (2011).
+10. V. Cardile, X. Jiang, A. Russo, F. Casella, M. Renis, and M. Bindoni, Effects of ozone on some biological activities of cells in vitro, Cell. Biol. Toxicol., 11, 11-21 (1995).
+11. A. HÃ¼ls, T. Schikowski, U. KrÃ¤mer, D. Sugiri, S. Stolz, A. VierkÃ¶tter, and J. Krutmann, Ozone exposure and extrinsic skin aging: results from the SALIA cohort, J. Invest. Dermatol., 135, S49-S47, 286 (2015)
+12. J.J. Thiele, M.G. Traber, T.G. Polefka, C.E. Cross, and L. Packer, Ozone-exposure depletes vitamin E and induces lipid peroxidation in murine stratum corneum, J. Invest. Dermatol., 108, 753-757 (1997).
+13. G. Valacchi, V. Fortino, and V. Bocci, The dual action of ozone on the skin, Br. J. Dermatol., 153, 1096-1100 (2005).
+14. F. Afaq, M.A. Zaid, E. Pelle, N. Khan, D.N. Syed, M.S. Matsui, D. Maes, and H. Mukhtar, Aryl hydrocarbon receptor is an ozone sensor in human skin, J. Invest Dermatol., 129, 2396-2403 (2009).
+15. K.B. Fuks, A. HÃ¼ls, D. Sugiri, H. Altug, A. VierkÃ¶tter, M.J. Abramson, H. Goebel, G.G. Wagner, I. Demuth, J. Krutmann, and T. Schikowski, Tropospheric ozone and skin aging: results from two German cohort studies, Environ. Int., 124, 139-144 (2019).
+16. B. Petracca, A. Nabadan, M. Eeman G.S. Gooris, and J.A. Bouwstra, Effects of ozone on stratum corneum lipid integrity and assembly, Chem. Phys. Lipids., 240, 105121 (2021).
+
+
+
+
+  
+
+
+
+
+
+ Home 
+ Contact 
+ Terms of Use 
+ Privacy Policy 
+ Advertising 
+
+
+
+Menu
+
+
+
+ 
+Copyright 2016-2022, The Cosmetic Chemist, LLC. All Rights Reserved.
+
+
+
+
+

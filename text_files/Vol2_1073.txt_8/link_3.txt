@@ -1,0 +1,1484 @@
+Document Name: role of Titanium Dioxide 3228 in Protective Cream3
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7261933/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Antimicrobial Mechanisms and Effectiveness of Graphene and Graphene-Functionalized Biomaterials. A Scope Review - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Front Bioeng Biotechnol
+
+
+                    PMC7261933
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (2.8M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Front Bioeng Biotechnol
+
+
+                    PMC7261933
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Front Bioeng Biotechnol. 2020; 8: 465. Published online 2020 May 25.  doi: 10.3389/fbioe.2020.00465PMCID: PMC7261933PMID: 32523939Antimicrobial Mechanisms and Effectiveness of Graphene and Graphene-Functionalized Biomaterials. A Scope ReviewHiba Mohammed,1,2,† Ajay Kumar,1,2,† Elena Bekyarova,3,4 Yas Al-Hadeethi,5 Xixiang Zhang,6 Mingguang Chen,6 Mohammad Shahnawaze Ansari,7 Andrea Cochis,1,2,* and  Lia Rimondini1,2,*Hiba Mohammed1Biomaterials Lab, Department of Health Sciences, Università degli Studi del Piemonte Orientale, Novara, Italy2Biomaterials Lab, Interdisciplinary Research Center of Autoimmune Diseases, Center for Translational Research on Autoimmune and Allergic Diseases–CAAD, Novara, ItalyFind articles by Hiba MohammedAjay Kumar1Biomaterials Lab, Department of Health Sciences, Università degli Studi del Piemonte Orientale, Novara, Italy2Biomaterials Lab, Interdisciplinary Research Center of Autoimmune Diseases, Center for Translational Research on Autoimmune and Allergic Diseases–CAAD, Novara, ItalyFind articles by Ajay KumarElena Bekyarova3Department of Chemical and Environmental Engineering, University of California, Riverside, Riverside, CA, United States4Center for Nanoscale Science and Engineering, University of California, Riverside, Riverside, CA, United StatesFind articles by Elena BekyarovaYas Al-Hadeethi5Department of Physics, King Abdulaziz University, Jeddah, Saudi ArabiaFind articles by Yas Al-HadeethiXixiang Zhang6Advanced Nanofabrication, Imaging and Characterization Core Lab, King Abdullah University of Science and Technology, Thuwal, Saudi ArabiaFind articles by Xixiang ZhangMingguang Chen6Advanced Nanofabrication, Imaging and Characterization Core Lab, King Abdullah University of Science and Technology, Thuwal, Saudi ArabiaFind articles by Mingguang ChenMohammad Shahnawaze Ansari7Center of Nanotechnology, King Abdulaziz University, Jeddah, Saudi ArabiaFind articles by Mohammad Shahnawaze AnsariAndrea Cochis1Biomaterials Lab, Department of Health Sciences, Università degli Studi del Piemonte Orientale, Novara, Italy2Biomaterials Lab, Interdisciplinary Research Center of Autoimmune Diseases, Center for Translational Research on Autoimmune and Allergic Diseases–CAAD, Novara, ItalyFind articles by Andrea CochisLia Rimondini1Biomaterials Lab, Department of Health Sciences, Università degli Studi del Piemonte Orientale, Novara, Italy2Biomaterials Lab, Interdisciplinary Research Center of Autoimmune Diseases, Center for Translational Research on Autoimmune and Allergic Diseases–CAAD, Novara, ItalyFind articles by Lia RimondiniAuthor information Article notes Copyright and License information Disclaimer1Biomaterials Lab, Department of Health Sciences, Università degli Studi del Piemonte Orientale, Novara, Italy2Biomaterials Lab, Interdisciplinary Research Center of Autoimmune Diseases, Center for Translational Research on Autoimmune and Allergic Diseases–CAAD, Novara, Italy3Department of Chemical and Environmental Engineering, University of California, Riverside, Riverside, CA, United States4Center for Nanoscale Science and Engineering, University of California, Riverside, Riverside, CA, United States5Department of Physics, King Abdulaziz University, Jeddah, Saudi Arabia6Advanced Nanofabrication, Imaging and Characterization Core Lab, King Abdullah University of Science and Technology, Thuwal, Saudi Arabia7Center of Nanotechnology, King Abdulaziz University, Jeddah, Saudi ArabiaEdited by: Vincent Ball, Université de Strasbourg, FranceReviewed by: Fatemeh Kabirian, Materials and Energy Research Center, Iran; David K. Mills, Louisiana Tech University, United States*Correspondence: Andrea Cochis, ti.opuinu.dem@sihcoc.aerdnaLia Rimondini, ti.opuinu.dem@inidnomir.ail†These authors have contributed equally to this workThis article was submitted to Biomaterials, a section of the journal Frontiers in Bioengineering and BiotechnologyReceived 2019 Sep 17; Accepted 2020 Apr 21.Copyright  © 2020 Mohammed, Kumar, Bekyarova, Al-Hadeethi, Zhang, Chen, Ansari, Cochis and Rimondini.This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.AbstractBacterial infections represent nowadays the major reason of biomaterials implant failure, however, most of the available implantable materials do not hold antimicrobial properties, thus requiring antibiotic therapy once the infection occurs. The fast raising of antibiotic-resistant pathogens is making this approach as not more effective, leading to the only solution of device removal and causing devastating consequences for patients. Accordingly, there is a large research about alternative strategies based on the employment of materials holding intrinsic antibacterial properties in order to prevent infections. Between these new strategies, new technologies involving the use of carbon-based materials such as carbon nanotubes, fullerene, graphene and diamond-like carbon shown very promising results. In particular, graphene- and graphene-derived materials (GMs) demonstrated a broad range antibacterial activity toward bacteria, fungi and viruses. These antibacterial activities are attributed mainly to the direct physicochemical interaction between GMs and bacteria that cause a deadly deterioration of cellular components, principally proteins, lipids, and nucleic acids. In fact, GMs hold a high affinity to the membrane proteoglycans where they accumulate leading to membrane damages; similarly, after internalization they can interact with bacteria RNA/DNA hydrogen groups interrupting the replicative stage. Moreover, GMs can indirectly determine bacterial death by activating the inflammatory cascade due to active species generation after entering in the physiological environment. On the opposite, despite these bacteria-targeted activities, GMs have been successfully employed as pro-regenerative materials to favor tissue healing for different tissue engineering purposes. Taken into account these GMs biological properties, this review aims at explaining the antibacterial mechanisms underlying graphene as a promising material applicable in biomedical devices.Keywords: graphene materials, graphene oxide, reduced graphene oxide, nanosheet, antibacterial, biomaterialsIntroductionCarbon is one of the most important chemical elements that, due to its valency, has atoms that show a considerable capability for binding to other carbon atoms in different manners, exhibiting a variety of allotropes as listed in Table 1. Interestingly, carbon-based materials have emerged as promising principles for a broad range of applications due to their unique mechanical and biological properties. Carbon-based nanostructures (CNSs) such as fullerene, carbon nanotubes (CNTs) and different forms of diamond retain much attention for their wide applications in biological applications such as drug delivery, tissue engineering, imaging diagnosis and cancer therapy (Fisher et al., 2012). These carbon nanostructures have been shown to have potent antibacterial activities toward a broad range of pathogens (Al-Jumaili et al., 2017). Accordingly, their use raised great attention as alternative antibacterial tools. Among the various types of carbon, graphene is considered as a most interesting material due to its unique properties (Ibrahim, 2013; Rojas-Andrade et al., 2017). Over the last few years, research on graphene has significantly increased, due to its physical-chemical properties, which includes strong mechanical strength, large surface area and high resistance to degradation. Graphene active segments and the chemically reactive surface enable graphene tight adhesion to both prokaryotic and eukaryotic cells (Al-Thani et al., 2014) for in vivo imaging, diagnosis as well as in the treatment of cancer (Karahan et al., 2018). Moreover, recent literature studies have shown that GMs such as Graphene oxide (GO) and its derivates hold a broad-spectrum antiviral activity toward Virus-like pseudorabies viruses (PRV) and an RNA virus porcine epidemic diarrhea virus (PEDV) (Du et al., 2019).TABLE 1Chemical bond and dimensionality of carbon allotropes.Carbon allotropeDefinitionCarbon atom bondDimensionalityReferencesDiamondCarbon atoms are bonded together in a tetrahedral lattice arrangement;sp3 hybridization3DÖhrström and O’Keeffe, 2013GraphiteCarbon atoms are bonded together in sheets of the hexagonal lattice.sp2 hybridization3DÖhrström and O’Keeffe, 2013GrapheneConsists of a single sheet of graphite.sp2 hybridization2DGurunathan and Kim, 2016Nano carbonsCarbon atoms are bonded together in hexagonal and pentagonal rings as the basis of an icosahedral symmetry closed-cage structure with different dimensionality:
+•Fullerenes; referred to as buckyballs or buckminsterfullerenes•carbon nanotubes; single-wall, double-wall and multi-wallsp2 hybridization0D 1DBühl and Hirsch, 2001; Yadav and Ritesh, 2008Graphenylene (biphenylene carbon)Carbon atoms are bonded together in a hexagonal lattice based on biphenylene-like subunits.sp2 hybridization2DLüder et al., 2016Open in a separate windowGraphene is precisely defined as single carbon layer of the graphite structure (Fitzer et al., 1995; Geim and Novoselov, 2007). This monolayer is composed of sp2-hybridized carbon atoms bonded to each other with a 0.142 nm length bond (Dasari et al., 2017) and tightly packed into a honeycomb lattice, forming a two-dimensional crystal (Novoselov, 2004). The interest in this material escalated in 2004 when Nobel laureates Andre Geim and Konstantin Novoselov published the deposition and characterization of graphene on solid supports (Novoselov, 2004). Since the inception of these experiments, researchers around the world have continuously explored the excellent physical and mechanical properties of this “miracle or wonder material” (Novoselov et al., 2012; Edwards and Coleman, 2013; Eigler and Hirsch, 2014). Graphene exhibits remarkably high mechanical stiffness (Berger et al., 2006; Novoselov et al., 2012; Edwards and Coleman, 2013; Suk et al., 2013), exceptional electronic transport properties (Zhang et al., 2005; Berger et al., 2006; Miao et al., 2007; Bunch et al., 2008; Nair et al., 2008; Loh et al., 2010; Balandin, 2011), good thermal conductivity (Balandin, 2011; Suk et al., 2013), high surface area (Nair et al., 2008), desirable elastic properties (Zhang et al., 2005) and gas impermeability (Bunch et al., 2008). The chemical inertness and the presence of free π electrons make graphene as a promising carrier for controlled drug delivery (Loh et al., 2010). In general, all these properties enable the application of graphene in the fields of energy storage devices (Xu et al., 2013), sensors (Wu et al., 2013), fuel cells (Chen Y. et al., 2013), solar cells, electronics (Hu et al., 2010), and high-strength materials (Lee et al., 2013).In the biomedical field, graphene demonstrates impressive properties in diagnosis (Castillo et al., 2013; Chen J.Y. et al., 2013; Hu et al., 2013; Kwon et al., 2013; Wang et al., 2013b) and has therapeutic potential as a nanocarrier and drug delivery vehicle (Gonçalves et al., 2013; Wang Y. et al., 2014; Vinothini and Rajan, 2017). Graphene and its derivatives also demonstrate a valuable impact in tissue engineering and exhibit strict antimicrobial activities; these capabilities render them suitable candidates for fabricating nanohybrid structures applicable in various biomedical fields such as tissue differentiation, regeneration and infection control (Shang et al., 2019). Graphene nanohybrids have been fabricated as potentially effective dressing scaffolds aimed at wound healing. The idea of such nanohybrid scaffolds relied on the synergistic effects of graphene for infection control as well as its regenerative capacity (Shang et al., 2019). The high antibacterial capacity is mainly associated with the physical damages occurred upon direct contact to bacterial membranes by the sharp edges of graphene sheets, while the regenerative impact is based on the scaffold potential to promote the adhesion and proliferation of mesenchymal stem cells (MSCs) (Vinothini and Rajan, 2017). Many research works have revealed the efficacy of graphene against both gram-positive and gram-negative bacteria depending on a variety of mechanisms and factors related to both the bacterial components and the nanoparticles themselves (Al-Thani et al., 2014; Karahan et al., 2018). This Review article offers a detailed discussion of the antibacterial activities of graphene, graphene derivatives, and graphene nanocomposites.Graphene DerivativesDespite graphene’s sophisticated properties, it exhibits some limitations in certain applications that require definite characteristics (Dreyer et al., 2010). One of the main limitations is graphene’s tendency to agglomerate due to its very low water dispersibility as a hydrophobic material in addition to its large surface area and high surface energy (Dreyer et al., 2010; Yang et al., 2014). To improve graphene’s properties, chemical modifications were considered valuable approaches resulting in graphene derivatives which are applicable in different fields (Romero et al., 2017). Some examples are reported below.Graphene Oxide Graphene oxide (GO) is the oxidized derivative of a graphene molecule, obtained by acid oxidation of graphite (Dreyer et al., 2010), i.e., it contains oxygen functional groups (hydroxyl, carboxyl, carbonyl, and epoxy). Thus, GO is an extremely hydrophilic molecule which is significantly beneficial in power-harvesting and electronic applications (Romero et al., 2017). The extreme hydrophilic properties of GO render these molecules insoluble in organic solvents such as alcohol, toluene, etc. (Romero et al., 2017). Moreover, GO is an amorphous molecule with many defects that weaken its mechanical characteristics, rendering them much weaker than those of pristine graphene or reduced graphene oxide (Dreyer et al., 2010). Thus, GO is chemically or thermally reduced to partially restore the properties and structure of graphene; the generated material is referred as reduced graphene oxide, rGO (Dreyer et al., 2010; Pei and Cheng, 2012).Reduced Graphene Oxide (rGO) Reduced graphene oxide (rGO) is a graphene derivative obtained through chemical or thermal reduction of GO, i.e., the reduction of the oxygen functional groups in GO. rGO is characterized by its moderately reduced number of functional groups, a high number of electroactive sites, and its structural similarity to graphene (Báez et al., 2017). Moreover, it exhibits a large surface area, high reactivity and biocompatibility (Wang and Shi, 2015; Báez et al., 2017). rGO demonstrates properties of both pristine graphene (high surface area and strength) and GO (moderate dispersibility in water) (Singh et al., 2011; Lv et al., 2013; Babak et al., 2014; Pan et al., 2015; Sharma and Kothiyal, 2015; Lu et al., 2016; Zheng et al., 2017). Therefore, graphene characteristics are partially restored through rGO generations (Dreyer et al., 2010).Antimicrobial ActivityProgressive advances in the nanoscience has opened the door to a considerable number of nanomaterial applications in a variety of fields. Interestingly, graphene material (GM) and its derivatives occupy a significant area of the contemporary applications with a significant role in the biological and medical domains, especially due to their nanomaterial-triggered biosensing action and direct interaction with various cell types and statuses such as bacteria, fungi, and tumoral/normal mammalian cells (Liu S. et al., 2011; Akhavan et al., 2012; Al-Thani et al., 2014). Inspired by GMs’ properties in thermotics, electronics, optics, and mechanics, in addition to their unique structure, much effort has been made to uncover their broader therapeutic roles (Hu et al., 2010; Krishnamoorthy et al., 2012) not only in diagnosis and treatment but also in microbial infections (Zou et al., 2016).Despite the progress made in investigating GMs’ antimicrobial activity, the underlying antimicrobial mechanisms remain controversial (Zou et al., 2016). However, several recent experimental outcomes have suggested that the physicochemical characteristics of GMs, such as particle size, morphology, and surface functionality (Dallavalle et al., 2015; Mangadlao et al., 2015; Perreault et al., 2015a) play a pivotal role in the predominant mechanisms including oxidative stress, nanoknives, and wrapping/trapping (Akhavan et al., 2011; Li et al., 2015; Pham et al., 2015).The research findings of this review which involve the antibacterial activity of graphene materials were obtained through MEDLINE and Scopus databases using the following keywords: graphene, reduced graphene oxide, graphene nanohybrids AND antibacterial activity. Based on our research findings, this review aims to illustrate the possible mechanisms that might influence the GMs’ antibacterial activities.Carbon-Based MaterialsCarbon nanostructures (CNSs) such as fullerene and carbon nanotubes (CNTs) have been shown to hold strong antibacterial activities toward a broad-rang of pathogens (Al-Jumaili et al., 2017).The mechanism by which CNSs kills bacteria is complex and depends on different properties such as composition and surface physical-chemical modifications. Moreover, the properties of the target microorganisms and the characteristics of the environment in which cell CNS interactions take place can also represent an important factor.Fullerenes antibacterial activity takes place by the physical interaction between fullerenes and the outer cell membrane (Lyon et al., 2008). Where fullerene tightly binds the lipidic portion of the cell membrane, it determines wall disruption and DNA cleavage after internalization due to its high surface hydrophobicity that strongly interact with membrane lipids. Due to the different percentage of membrane lipids between Gram-positive and Gram-negative bacteria, most of the studies demonstrated that fullerene was more active toward Gram-positive species. Moreover, it seems to be light-sensitive because of a powerful antibacterial activity toward many bacterial species when exposed to light (Brunet et al., 2009). This can be due to the unique fullerene shape: in fact, it looks like a cage that is able to absorb light through π electrons causing reactive oxygen species release (Maas, 2016).Carbon nanotubes (CNTs) are described as a hollow structure formed by rolled graphene sheets. Moreover, CNTs can be categorized as single-walled nanotubes (SWNTs) and multi-walled nanotubes (MWNTs) (Kang et al., 2008).SWNTs have a higher antibacterial effect than most of carbon nanomaterials. This can be due to their small size that enables membrane perturbation. The mechanism of CNTs is particularly affected by several factors like surface functional group, surface chemistry, diameter, length and electronic structure. In particular, nanotubes length seems to play an important role during the interaction of the cell membrane even if the exact mechanism by which CNTs interact with cell wall is still unclear (Kang et al., 2007).The two-dimensional graphene exhibits distinct physicochemical characteristics which depend on the synthetic method (Liu et al., 2012; Song et al., 2015; Zou et al., 2016). With the application of certain synthetic approaches such as chemical vapour deposition (CVD) and epitaxial growth methods, a flawless crystal graphene structure is obtained while the implementation of other synthetic methods such as chemical exfoliation, mechanical cleavage, and chemical synthesis generate structurally defective graphene materials which in turn influence their physicochemical properties (Hummers and Offeman, 1958; Novoselov et al., 2005; Hao et al., 2013).Interestingly, the presence of different defects within graphene – such as basal plane destruction and oxygen-containing groups – creates more active sites for enhanced interaction with various ions, molecules, and materials (Ameen et al., 2013; Huang et al., 2014; Zhang et al., 2015; Zou et al., 2016). Furthermore, these defects modify the intrinsic characteristics of GMs such as morphology, layer number, lateral size, and dispersibility (Zhang et al., 2009, 2014; Wang X. et al., 2011; Liu R. et al., 2011). Based on the continuously increasing experimental and theoretical reports, a close relevance exists between the antibacterial efficacy and the physicochemical and/or structural characteristics of GMs (Hu et al., 2010; Krishnamoorthy et al., 2012; Tu et al., 2013; Hui et al., 2014; Li et al., 2015; Pham et al., 2015).Physical-Chemical Properties Influencing Graphene Antibacterial ActivityLateral SizeLateral size is a crucial determinant of GMs’ antimicrobial effectiveness and it can be modified based on the synthetic method or post-treatment (Figure 1). The GM’s adsorption, dispersion, and sharp edges are hugely affected by the particle size; these properties are, in turn, pivotal to the GMs’/microorganism’s physicochemical interaction (Cai et al., 2011). The larger the lateral size of the GM, the stronger the adsorption ability, which is attributed to the higher surface energies (Zou et al., 2016). An investigative study stated that antimicrobial effects were stronger in association with larger-sized GO sheets than with smaller sheets (Liu et al., 2012). The lateral size is generally affected by the synthesis method and defects are always present in the GMs prepared by the redox method. Meanwhile, more defects are associated with a decreased lateral size of the produced GMs (Zou et al., 2016). To that end, the findings obtained by Perreault et al. (2015a) demonstrate that the greater the defects in smaller GO nanosheets, the stronger the antimicrobial activity against Escherichia coli (E. coli).Open in a separate windowFIGURE 1AFM height images of GO sheets dried on mica surface after tip sonication for 0 (A), 10 (C), 30 (E), 50 (G), 120 (I), and 240 min (K). All scale bars are at 1 μm. The corresponding height profiles along red lines in AFM images: 0 (B), 10 (D), 30 (F), 50 (H), 120 (J), and 240 min (L). Reproduced with permission from Perreault et al. (2015a).The Number of LayersThe number of graphene layers is an important determinant of its antimicrobial activity; i.e., increased GMs’ layers increase the thickness, causing a weakened “nano knife” effect, decreased dispersibility, and increased aggregation tendency, resulting in reduced contact between GMs and microorganisms (Zou et al., 2016). Wang et al. (2013a) demonstrated, through theoretical results, that the energy barrier for three-layer graphene sheets with nooks to penetrate the lipid bilayer is superior to that for monolayer sheets of the same lateral size. This might indicate that few-layer graphene sheets have an intensive capacity to damage the bacterial cell membrane (Zou et al., 2016). On the other hand, the experimental results obtained by Mangadlao et al. demonstrated that an increased number of GO-sheets resulted in a stronger antimicrobial effect against E. coli as illustrated in Figure 2 (Mangadlao et al., 2015). This finding has been interpreted as follows: The number of layers influences the surface properties which induce the basal plane antimicrobial activity, i.e., both the edges and surface of GMs play key roles in antimicrobial activity (Zou et al., 2016).Open in a separate windowFIGURE 2Representative fluorescence images of E. coli on a single (a), double (b), and triple (c) layers of GO-LB and bare PET (d). (e) Comparison of the antibacterial effect before and after ultrasonication. (f) UV-Vis absorbance of 3-layer GO-LB film before and after ultrasonication. Reproduced with permission from Akhavan et al. (2012).Particles ShapeThe antimicrobial activity of nanoparticles is considerably influenced by the particle shape. Previous studies have demonstrated the shape-dependent cytotoxicity of both carbon nanotubes (CNTs) and silver nanoparticles (AgNPs) (Poland et al., 2008; Sadeghi et al., 2012). Moreover, theoretical simulation states that nanoparticle shapes are essential for their interaction with the lipid bilayer in a translocation process (Yang and Ma, 2010). An interesting finding demonstrated that the sharp edges of GO nanowalls (GONWs) and rGO nanowalls (RGNWs) significantly decreased the rate of survival of both Staphylococcus aureus (S. aureus) and E. coli (Akhavan and Ghaderi, 2010) as illustrated in Figure 3.Open in a separate windowFIGURE 3Antimicrobial activity of graphene oxide nanowalls (GONWs) and reduced graphene oxide nanowalls (RGNWs). (a–c) SEM images of (a) the GONWs deposited on stainless steel substrate by electrophoretic deposition, (b) the nanowalls at higher magnification showing those are nearly perpendicular to the substrate, and (c) the cross-sectional view of the nanowalls. (d) Cytotoxicity of GONWs and RGNWs to S. aureus, and concentrations of RNA in the PBS of the S. aureus bacteria exposed to the nanowalls. Reproduced with permission from Ameen et al. (2013).Additionally, experimental verification of particle shape efficacy was carried out through the use of graphene films with different topography on both aspects to observe the effects of S. aureus and Pseudomonas aeruginosa (P. aeruginosa) (Al-Thani et al., 2014). Interestingly, the smooth-top-side graphene film presented efficient bactericidal activity against both round-shape S. aureus and P. aeruginosa, while the rough-bottom-side graphene film was effective in deactivating only rod-shaped P. aeruginosa (Zou et al., 2016). This antimicrobial activity might be attributed to the easy permeation of graphene nanoparticles into the cell membrane due to the low energy barrier of these sharp-corner protruded particles (Li et al., 2013).Surface ModificationsThe contact and interaction between GMs and other molecules, such as other materials, proteins, DNA/RNA, lipids, etc., are essential for their antimicrobial activity. The agglomeration tendency of pristine graphene potentially decreases its contact with other particles (Zou et al., 2016). Thus, the modification of graphene’s surface or edge characteristics via covalent and non-covalent modulation has been found to play a key role in preventing particle agglomeration and, consequently, influencing their antimicrobial activities (Li et al., 2008; Park et al., 2010). An interesting study demonstrated that rGO exhibited stronger antimicrobial activity against S. aureus and E. coli than GO did (Ameen et al., 2013; Figure 3). Another study demonstrated that E. coli proliferation was inhibited by rGO, whereas no cytotoxicity was observed in association with GO (Akhavan and Ghaderi, 2012), as shown in Figure 4.Open in a separate windowFIGURE 4Effective reduction of graphene oxide (GO) with bacteria produces bacteria-reduced GO (BRGO). Peak deconvolution of C(1s) core level of XPS of the graphene (oxide) sheets: (a) before exposure to the bacteria, and after exposure to the bacteria for (b) 12 h, (c) 24 h, (d) 36 h, and (e) 48 h in panel (A), and after exposure to (f) only the culture medium of the bacteria (without the bacteria) and (g) the culture medium containing the bacteria but without any glucose, for 48 h in panel (B). (C) Shows the peak area (A) ratios of the oxygen-containing bonds to the C-C bonds (obtained by XPS) vs. contact time of the bacteria to the sheets. (C) Bioactivity of the E. coli bacteria on surfaces of the bare SiO2 substrate, GO and BRGO sheets at room temperature after 2 h. Reproduced with permission from Zhang et al. (2014).This variation between rGO and GO is related mainly to the surface modulation and surface properties. In this respect, studies have presented that GMs’ antimicrobial efficacy might be enhanced by the impact of covalent modulation with oxygen-containing groups. The oxygen groups can influence GMs’ amphipathic and blade effect, which subsequently modifies their antimicrobial activities (Balandin et al., 2008; Yadav et al., 2013; Fan et al., 2014; Hui et al., 2014; Musico et al., 2014; Tian et al., 2014). In conclusion, GMs can influence microorganism survival through the adsorption interaction between GMs and other materials, ions, and molecules. This interaction modifies the microenvironment of bacteria or other microorganisms, thereby inhibiting their proliferation (Zou et al., 2016).Agglomeration and DispersionDue to the high surface energies of GMs (including CNTs, graphene and rGO), these particles are predisposed to agglomeration. This property modulates the edge and surface characteristics of the nanoparticles, which in turn alters their antimicrobial activities (Wick et al., 2007). Regarding CNTs, one of the primary factors directing their antimicrobial activities is the agglomeration tendency, which causes a reduced surface area and shapes alteration of the nanomaterials (Wick et al., 2007). GMs’ agglomeration weakens their dispersibility and adsorption capacity, which alters blade efficacy and consequently reduces their interaction with the microorganisms (Zou et al., 2016). However, these properties differ among the different forms of graphene, with GO dispersion exhibiting the most potent antimicrobial activity against E. coli, followed by rGO, graphite (Gt), and graphite oxide, successively (Liu S. et al., 2011). These findings were interpreted as different dispersion conjunctures of the mentioned nanomaterial, i.e., the proper dispersion of GO results in thin sheets of this nanomaterial which is capable of easily wrapping bacteria, whereas rGO exhibits aggregate formation and reduced antimicrobial impact when it is not fully exfoliated (Zou et al., 2016). On the other hand, the results obtained by Akhavan et al. show that rGO is more potent than GO in bacterial inactivation; this is attributed to E. coli trapping and its ability to gradually wrap bacteria during the formation of rGO aggregates in the suspension (Akhavan et al., 2011).GMs Antimicrobial ActivitiesA variety of experimental circumstances should be considered when assessing the antimicrobial activities of GMs. These include the state of the applied material, the bacterial type (aerobic/anaerobic), the implemented ambiance (in vitro/in vivo), and the microorganism genera such as the shape (rod/round) and category (Gram-positive/Gram-negative). Each microorganism has its capacity for growth under certain physicochemical circumstances; thus, it is important to realize and grasp these conditions to control microorganism growth in a definite and clear manner (Zou et al., 2016). For example, an experimental study carried out by Pham et al. (2015) found that the antimicrobial activity of the rough surface of graphene films was stronger against P. aeruginosa than against S. aureus, with 87.6 and 43.1% of these bacteria killed, respectively. These results were interpreted as indicating the extent to which the antimicrobial impact is extremely dependent on the selected bacterial species; some examples are given in Table 2.TABLE 2Antibacterial activity of GMs concerning experimental surroundings.GMsExperimental surroundingType of experimental surroundingImpactReferencesGOLuria-BertaniNutrient brothE. coli growth enhancementZhou, 2004GO, rGOPapers and suspensionMaterial stateE. coli inactivationAkhavan et al., 2011GOLuria-Bertani, bovine serum albumin (BSA), L-tryptophan (TrP) added to the salineNutrient brothInhibition of the antimicrobial activityFan et al., 2014GOImpurities such as manganese and sulfurHummer’s synthesis methodCarboxyl and hydroxyl groups of GO detach, causing low pH, which disturbs the microorganism microenvironments and influences the dispersibility of GMsLiu et al., 2012; Dallavalle et al., 2015Open in a separate windowDirect Contact MechanismsDuring the primary bacterial-antibacterial agent interaction, bacterial cell death is induced via the inhibition of essential bacterial cell functions (Zou et al., 2016). These antimicrobials involve mainly the bacterial components or systems, inhibiting cellular growth (bacteriostatic) or inducing cell death (bactericidal). These antibacterial activities are attributed mainly to the physicochemical interaction caused by deteriorated cellular components, principally proteins, lipids, and nucleic acids (DNA/RNA) (Zou et al., 2016). It is well known that bacterial cell form and rigidity are tightly linked to the peptidoglycan proteins and the lipid bilayer that constitute the principal cell wall/membrane components. Thus, bacterial cell death can be induced by any interference with peptidoglycan precursor assembly resulting in a weakened and, consequently, collapsed cell wall. Moreover, nucleic acid damage results in the inhibition of microorganism duplication. Interestingly, GMs, as capable antimicrobials, can exhibit both bacteriostatic and bactericidal activities by interfering with bacterial lipids, proteins, and nucleic acids through electrostatic adsorption, hydrogen bonding, and π-π stacking (Akhavan and Ghaderi, 2010; Li et al., 2013, 2015; Tu et al., 2013). This interaction might induce lipid extraction, protein disruption, nanoknives, or reactive oxygen species (ROS) mechanisms, inhibiting or killing the cell (Zou et al., 2016).Interaction With Bacterial DNA/RNABacterial genomes consist of a single circular molecule called bacterial chromosome (double-stranded DNA). Besides, bacteria often contain small extrachromosomal circular DNA molecules named plasmids. The antibiotic-resistant genes or virulence factors are contained within the genome. Thus, when the bacterial DNA is exposed to corruption or malfunction during its replication, the bacterial cell undergoes mutation or dies. Once DNA/RNA is exposed to GMs, interactions with these nanoparticles may occur through hydrogen bonding, π-π stacking, and electrostatic adsorption due to the presence of oxygen- and nitrogen-containing groups in addition to the π-conjugated structure (He et al., 2010; Lv et al., 2010). The GMs’ permeation into the microorganism alters the DNA/RNA structures and properties (He et al., 2010; Lv et al., 2010), leading to inactivation or death of the microorganism (He et al., 2010; Gurunathan et al., 2012). Several experimental findings have proven the strong bacterial DNA-GMs’ interactions through the application of DNA/RNA-coated GMs in molecule recognition (He et al., 2010; Lv et al., 2010), DNA translocation and sequencing (He et al., 2011; Banerjee et al., 2015), and anticancer drug delivery (Kim et al., 2015; Mo et al., 2015). A graphical example of graphene interaction with DNA is given in Figure 5.Open in a separate windowFIGURE 5Adsorption of DNA on graphene. (A) Hybridization of graphene with ss-DNA strands. (a) digital photos of graphene suspensions with different dispersants (SDS, CTAB and DNA); (b) UV-vis spectra of DNA aqueous solution and graphene suspensions. (B) AFM images of graphene-DNA GN/DNA hybrids. (a) AFM image with a cross-section contour and (b) a phase image of a single GN/DNA sheet. Reproduced with permission from Li et al. (2013).GMs’ Interaction With Bacterial ProteinsCellular proteins are generally divided into functional and structural proteins. Functional proteins are responsible for metabolism regulation, while structural proteins act as building units for different cellular components. Proteins are found in the cell wall, cell membrane, and cytoplasm and are composed of amino acids (nitrogen-containing groups) that can drive the hydrogen- bonding interactions with a variety of substances. Besides, the π-conjugated structures that exist in some amino acids can induce interaction with other substances that contain π-conjugated structures via π-π stacking. Moreover, under certain conditions, amino acids demonstrate various electronegativities. GMs are characterized by large π-conjugated structures and an abundance of oxygen-containing groups; thus, strong interactions of GMs with cellular proteins have frequently been reported (Zou et al., 2016). To investigate graphene-protein interaction, a graphene-modified Si/SiO2 device was designed by Alva and coworkers, who found that the direct adsorption of protein on graphene leads to immediate protein denaturation (Alava et al., 2013). On the other hand, the protein might also influence the properties and antimicrobial action of GMs. Accordingly, Chong et al. (2015) investigated the interactions between different GMs and four proteins and concluded that both GO and rGO were not cytotoxic when coated with proteins via hydrophobic or π-π stacking interactions. The π-π stacking interactions occur through the aromatic rings corresponding to Trp, Tyr, and Phe which align with the graphene surface (Chong et al., 2015; Figure 6).Open in a separate windowFIGURE 6Molecular dynamics snapshots of the absorption of bovine fibrinogen onto graphene. Cartoon representations of the full protein are depicted in yellow, and hydrophobic Tyr (purple), Phe (orange), and Trp (blue) within 0.5 nm distance of the graphene surface are represented as van der Waals spheres. Atoms corresponding to the graphene sheet are colored in gray. Reproduced with permission from Yadav et al. (2013).GMs’ Interaction With PhospholipidsThe phospholipid bilayer consists of the basal plane of the cell membrane and acts as a barrier, keeping proteins, ions, and different molecules in place as well as protecting the cell from damage. Destruction of the phospholipid bilayer in microbial cells was found to be a key factor in the microorganism’s death (Li et al., 2013). As mentioned previously, GMs comprise large π-conjugated structures and exhibit extreme hydrophobic properties. Once GMs contact the microorganism, a hydrophobic interaction called “nanoscale dewetting” takes place between the GMs and phospholipid molecules at the cell membrane to forcibly extract the lipid bilayers onto the GMs’ surfaces and drive the collapse of the cell membrane (Zhou, 2004; Liu et al., 2005; Berne et al., 2009). As a proof, Tu et al. (2013) proved, by theoretical and experimental results, that GO exerts a destructive extraction of phospholipids from E. coli and reduces its viability via potent dispersion interaction between GO and the cell membrane of E. coli.Moreover, Dallavalle et al. (2015) used theoretical modeling to shed light into the interactions between graphene and phospholipids. Figure 7 shows that the phospholipids directly under the graphene interacted with the sheet with the hydrophobic tail and these hydrophobic–hydrophobic interactions allowed the graphene sheet to adhere to the membrane.Open in a separate windowFIGURE 7(A) Sheet adhering to the phospholipid membrane. (B) Peeling off the sheet shows that the hydrophobic tails directly interact with hydrophobic graphene. Reproduced with permission from Liu S. et al. (2011).Furthermore, this study revealed that the hydrophobic interaction enables the small graphene sheets to penetrate the phospholipid bilayer while forcing the larger nanosheets to lie on the cell membrane surface, interrupting the phospholipid molecules’ interactions. Another important finding demonstrated by Li et al. (2013) revealed that micrometer-scale graphene sheets with sharp edges and protruding corners are capable of easily permeating the cell membrane via coping the decreased energy barrier that the powerful hydrophobic interactions generated.Mechanisms of Graphene-Mediated Antimicrobial ActivitiesDespite the substantial effort devoted to uncovering the exact mechanism of graphene antimicrobial activity, the experimental findings are still controversial, and a universal mechanism remains to be established. As mentioned previously, the physicochemical interaction between GMs and microorganisms can drive their antimicrobial activity. Accordingly, three principal mechanisms have been proposed; (i) nanoknives through the sharp GM edges (cell membrane stress) (Akhavan and Ghaderi, 2010; Liu S. et al., 2011), (ii) oxidative stress with/without ROS production (West and Marnett, 2006; Li et al., 2015), or (iii) wrapping or trapping the bacterial cell membrane by the flexible thin-film structure of GMs (wrapping mediated blockage of membrane transport) (Mejías Carpio et al., 2012; Liu et al., 2012).Nanoknives’ Action of Sharp-Edged GMs by Cell Membrane StressAs many cumulative studies have documented, the antimicrobial impact of GMs is critically influenced by the nanoknives’ action, which is related to the GMs’ sharp edges, which resemble blades or cutters. The nanoknives’ mechanism of action is referred to as “penetration mode” or “insertion mode” and has been interpreted according to theoretical simulations and experimental results as “the intrusion of the blade-like GMs into the microbial cell membrane with the consequent leakage of the cytoplasmic content and cell death (Zou et al., 2016). In this context, Akhavan and Ghaderi (2010) discovered that direct contact between the extremely sharp edges of both GONWs and rGONWs with the bacteria S. aureus and E. coli destroys the bacterial cell membrane as well as RNA leakage and, subsequently, bacterial death. Supporting this, many other research findings indicate the leakage of intracellular content, including DNA/RNA, as a result of the mechanical disruption of the cell membrane-derived by sharp-edge GM contact (Chen J. et al., 2013, 2014; Wang et al., 2013c; Musico et al., 2014; He et al., 2015). Moreover, Liu S. et al. (2011) investigated the impact of GMs on E. coli and concluded that sharp edges act as cutters that induce cell membrane stress, resembling the cytotoxic effect caused by single-walled CNTs (Kang et al., 2007). Another significant parameter influencing the antimicrobial activity of GMs could be edge density; this suggestion was recently introduced by Pham et al. (2015), who designed graphene nanosheets with various edge densities and angle orientations and who found that graphene surfaces with a 37o orientation have a potent antimicrobial impact against S. aureus and P. aeruginosa, while a surface orientation of 90o was proven to possess the maximum bactericidal influence. Furthermore, they suggested that a graphene nanofilm surface does not act as a simple blade but, rather, causes pore formation within the bacterial cell membrane, resulting in osmotic disruption and, as consequence, cell death. Conversely, other findings suggest that GMs’ antimicrobial effects are determined by the availability of the basal planes rather than the edges of these nanosheets. In this regard, Mangadlao et al. (2015) performed an experiment in which they eliminated the GO edge effect by embedding them in polyethylene terephthalate (PET) and observed that GO did not lose its antimicrobial activity against E. coli when the edge effect was unavailable. Furthermore, they observed that the greater the number of basal planes, the better the antimicrobial activity. Based on this information, it can be supposed that the mechanical action of edges might not be required and that the basal planes of GO are considered the active sites in which the antibacterial effects of GO can be compromised by masking these basal planes through non-covalent adsorption (Hui et al., 2014).Oxidative Stress With or Without ROS ProductionGenerally, oxidative stress takes place through either a ROS-dependent or a ROS-independent pathway which, in either case, disrupts the cellular functions and mechanisms resulting in cellular inactivation and death. ROS-dependent oxidative stress occurs as a result of excessively cumulated intracellular ROS such as hydroxyl radicals (OH•), hydrogen peroxide (H2O2), singlet molecular oxygen (IO2), and superoxide anions (O2• –). These intracellular accumulated ROS induce cell membrane degeneration, lipid peroxidation, protein inactivation, mitochondrial dysfunction, and cell necrosis (West and Marnett, 2006). The ROS-independent pathway induces cell oxidation and disruption without ROS production; this may occur through charge transfer from the cell membrane to GMs, where graphene acts as an electron pump (Li et al., 2015).ROS-Dependent Oxidative Stress Reactive oxygen species production is considered a principal contributor to the antimicrobial activity of GMs (Gurunathan et al., 2012). GM-mediated ROS production starts from O2 adsorption on the GMs’ edges and defective sites, which subsequently undergo reduction through a variety of cell-enzymatic reactions such as interaction with glutathione (GSH) (Perreault et al., 2015a, b; Liu X. et al., 2011; Lu et al., 2017), α-tocopherol (Lu et al., 2016), or N-acetyl cysteine (NAC) (Gurunathan et al., 2012). GSH, as a significant antioxidant compound, is considered an indicator of the intracellular redox state because, in the presence of ROS, GSH can undergo oxidation into glutathione disulfide (GSSG); its depletion indicates the cytotoxic impact related to oxidative stress generated inside the involved bacterial cell (Gurunathan et al., 2012; Musico et al., 2014; Perreault et al., 2015a; Romero-Vargas Castrillón et al., 2015). Interestingly, the high number of oxygen-containing functional groups such as − OH and − COOH on the GMs’ surface enhances ROS production and prompts the antimicrobial activity of graphene particles. This statement was proven by Musico et al. (2014), who observed that increased ROS generation results in more oxidative stress to B. subtilis and E. coli. Furthermore, Gurunathan et al. (2012) proved the cytotoxic effects of ROS produced by GO and rGO against E. coli. it was proven that GM-induced ROS accumulation, intracellularly, is significantly related to mitochondrial membrane depolarization and dysfunction (Li et al., 2012). Also, ROS-induced cellular lipid oxidation results in the formation of lipid peroxide radicals, which cause progressive cell membrane damage and, subsequently, bacterial death (Jana et al., 1990; West and Marnett, 2006). However, it is crucial to perform additional investigations to obtain a better understanding of GM-bacteria interactions and their related pathways.ROS-Independent Oxidative Stress Despite the favorable concept of a ROS-mediated antimicrobial mechanism, not all researchers accept it. Scientists have continued their attempts to better explore various oxidative stress pathways, supposing that GMs’ oxidative capacity could be related to the high conductivity of these particles. In this regard, it was supposed that rGO’s capacity to oxidize GSH originates from the much higher conductivity of rGO in comparison to GO, in which rGO serves as a conductive bridge across the insulating lipid bilayer to intercede in the process of electron transmission from the bacterial intracellular environment to the external ambiance (Liu S. et al., 2011; Chen J. et al., 2013). debatable report, proposed by Li et al. (2015), supposed that GMs’ antimicrobial mechanism originates from electron transfer and not from ROS. Thus, they investigated the antimicrobial activity of GMs against E. coli and S. aureus, utilizing a graphene sheet on a Cu conductor, Ge semiconductor, and SiO2 insulator. They found that bacterial growth was inhibited in association with G-Cu and G-Ge films while G-SiO2 exhibited the opposite results. This contradiction was explained by the electron transfer theory, which is explained as follows: circuit formation enables electrons to transfer from the bacterial cell membrane to the graphene sheet and then to the underlying conductor or semiconductor (Cu and Ge, respectively) substrate while these electrons do not transfer to the underlying insulator (SiO2) substrate. This means that GMs serve as electron acceptors which pump electrons away from the bacterial cell membrane. These boosts both the theory of ROS-independent oxidative stress as well as the graphene surface interaction rather than ROS or edge-dependent mechanisms of GMs’ antimicrobial activity (Zou et al., 2016).Wrapping/Trapping Bacterial Membrane by the Thin, Flexible GM SheetsAs mentioned previously, graphene is the thinnest known material sheet, composed of a single layer of sp2-bonded carbon atoms in a honeycomb (hexagonal crystalline) structure. This structure gives graphene the property of unique flexibility, enabling it to act as a barrier which wraps and isolates bacteria from the circumferential environment. As with any other living organism, bacteria need specific physicochemical and nutritive conditions to survive; when these conditions are interrupted, the bacterial cell may die. Thus, GMs, with their unique wrapping property, have a significant antibacterial impact. Regarding this mechanism, the Rodrigues group found that GO exhibits potential antibacterial activity against both Gram-positive (Rhodococcus opacus and Bacteriodes subtilis) and Gram-negative (Cupriavidus metallidurans and E. coli) via wrapping the bacteria and inhibiting their proliferation (Mejías Carpio et al., 2012). Furthermore, other studies observed the perturbation of the bacterial cell membrane induced by GMs’ wrapping/trapping. In this regard, Chen J. et al. (2014) scanning electron microscopy (SEM) results revealed that GO sheets wrap/trap bacterial cells (Pseudomonas syringae and Xanthomonas campestris pv undulosa) to cause bacterial membrane perturbation. Moreover, their findings revealed bacterial cell membrane damage as a result of membrane depolarization due to the wrapping effect. Supporting these findings, the three-dimensional porous GO membrane, designed by Kanchanapally et al. (2015) with an approximately 300 nm pore size, demonstrated bactericidal activity against S. aureus due to mechanical wrapping/trapping with consequent cell membrane damage. Interestingly, several studies were carried out to correlate the GMs’ sheet size with their antimicrobial activities. Dallavalle et al. (2015) simulations to investigate the interaction models between a bacterial cell membrane and graphene nanosheets that range between 0.9 and 13.3 nm demonstrated that graphene nanosheets greater than 5.2 nm in size were capable of partially wrapping the bacterial surface via the intense hydrophobic interaction between lipid bilayers on a bacterial membrane and graphene sheets. This interaction leads to an undermined bacterial membrane. On the other hand, graphene nanosheets of less than 5.2 nm in size were capable of penetrating the cell membrane rather than wrapping. Similarly, Eda and Chhowalla (2010) result demonstrated the capability of large GO nanosheets to easily wrap cells, blocking the membrane’s active sites and inhibiting cellular proliferation. In contrast, smaller GO nanosheets were not capable of completely wrapping the bacterial surface; hence, the bacterial cell remains able to interact with the ambiance and realize its survival requirements. Several other researchers, however, are not convinced by the wrapping/trapping antibacterial mechanism (Akhavan et al., 2011; Liu S. et al., 2011). Thus, much effort is needed to conduct this mechanism to other GMs’ related factors that can modify their cytotoxic influence, such as particle size, material concentration, exposure duration, pH, and cell type.Self-Killing EffectInterestingly, the interaction between bacteria and GMs reveals bacteria’s ability to reduce graphene. Akhavan and Ghaderi (2012) findings show that when viable bacteria were incubated with GO-nanosheets, those bacteria interacted with GONPs, decreased their oxygen-containing functional groups by glycolysis interaction. Those bacterially reduced GO nanosheets demonstrated further inhibition of bacterial proliferation in comparison to GO nanosheets that are not bacterially reduced. Another study demonstrated the capability of the marine bacteria Shewanella to reduce GO via a bacterial respiratory process under both aerobic and anaerobic conditions (Salas et al., 2010; Jiao et al., 2011; Wang G. et al., 2011). Similarly, E. coli were also shown to be capable of reducing CuO to CuO2 during bacterial inactivation (Paschoalino et al., 2008). This bacterial phenomenon was referred to as the self-killing effect because bacteria seem to be passively killing themselves while reducing GMs-NPs (Zou et al., 2016). The mechanism of the self-killing effect is still unclear; further investigation is required to illustrate the underlying pathway.Advantages of GMs UseDespite the increasing demand of medical devices due to the increase in the age of the population, the number of patients experiencing infections after undergoing implants is constantly growing. This evidence is mainly due to the inefficacy of most of the anti-infective therapies that are commonly applied to counteract bacteria device colonization.First of all, it has been largely demonstrated that most of the pathogens recovered around implants are resistant to antibiotics (Aslam et al., 2018); due to their fast and effective ability to adapt to the environment changes, bacteria developed many mechanisms to escape drugs effect. Accordingly, drug-resistant bacteria are able to pump out drugs by efflux pumps and to produce enzymes dedicated to the active principles inactivation; moreover, most of the antibiotics were developed some decades ago, thus they are not anymore targeted to the correct binding site as bacteria evolved their genome as a protective tool (Aslam et al., 2018).Metallic ions such as silver has been also largely applied as antibacterial tool to their ability to perturbate bacteria membrane and interference with DNA replication. However, the extensive use of such ions also for daily tools such as topic creams and toothbrushes speeded up bacteria resistance; so, literature reported numerous examples where pathogens were able to counteract also metallic ions by modifying the outer membrane to inhibit ions penetration or by specialize efflux pump to bind and pump out metals (Maillard and Hartemann, 2013; Hobman and Crossman, 2015). Moreover, by increasing the dosage of silver to enhance its efficacy, strong side effects can occur such as irreversible pigmentation in the skin and the eyes, organ damages such as liver and kidney, irritation in the respiratory and intestinal tract (Stensberg et al., 2011).Nitric oxide (NO) was also proposed as antibacterial tool with promising results toward the treatment of infected wounds (Mowbray et al., 2008), however, a prolonged exposure to NO was demonstrated to strongly activate the inflammatory cascade thus causing severe side effect due to this disproportionate immune response (Mowbray et al., 2008).On the opposite, until today the use of GMs seems to be exempt from these side effects thus providing some important advantages in comparison to the previously mentioned strategies as summarized in Table 3.TABLE 3Most promising advantages and disadvantages of GMs applications.AdvantagesDisadvantagesReferences(1) Conductivity: GMs can act as a superior electrical conductivity enables as a supercapacitor to power up the biomedical devices such as wearable or implantable devicesThe presence of GMs can cause an imbalance of the environment such as pH lowering and causing inflammatory responseHamzah et al., 2017; Reina et al., 2017; Huang et al., 2019(2) Mechanical: GMs can confer excellent mechanical properties which enable sustained proliferation, proper adhesion an enhanced differentiation for hard tissue such as boneThe presence of GMs can modify the physical-chemical properties of the bulk material thus influencing its response to the environmentReina et al., 2017; Priyadarsini et al., 2018(3) Antibacterial: GMs hold a wide-range activity and can be used for both antibacterial and antiviral applicationThe GMs activity is not targeted toward specific receptors or pathways, so resistance can be developed by bacteria after long exposureYe et al., 2015; Yang et al., 2017; Valentini et al., 2019; Xia et al., 2019(4) Detection: GMs ultra-sensitivity can strongly enhance biosensors efficacy for thermal or optical signals detectionGMs ultra-sensitivity can somehow interfere with detected signals and their use get up a lot the productive costsHe et al., 2010; Mo et al., 2015; Peña-Bahamonde et al., 2018(5) Water decontamination: GMs can be used for industrial water treatment to remove ions bacteria and other contaminantsGMs are more effective than other decontamination agents but much more expensiveWei et al., 2018Open in a separate windowMoreover, GMs have been recently proposed as antiviral materials to fight some difficult viral infections. Firstly demonstrated that GO and rGO exhibit broad-spectrum antiviral activity toward both the DNA of Pseudorabies Virus (PRV) and to the RNA of porcine epidemic diarrhea virus (PEDV) at a nanocytoxic concentrations (Ye et al., 2015). Furthermore, Yang et al. (2017) looked at β-cyclodextrin functionalized graphene oxide and its possible role in combating respiratory syncytial virus (RSV), suggesting that the curcumin loaded functional GO was a highly efficient inhibitor of RSV infections maintaining cytocompatibility toward mammalian cells. Also showed that hypericin loaded onto graphene oxide (GO/HY) hold antiviral activity against Novel duck reovirus (NDRV), both in vitro and in vivo (Zheng et al., 2017; Zhou, 2004; Zou et al., 2016).Graphene AlloysAlthough several mechanisms underlying the antimicrobial activities of metallic ions are not yet fully understood, metal ions are known for their potential antibacterial influence against both Gram-positive and Gram-negative bacteria. Attempts have been made to enhance the antibacterial impact of various metallic ions by conjugating different metals together to construct a hybridized alloy that maintains the desirable antibacterial properties of every single metallic component. Some alloy examples are discussed below:Silver-GMs AlloysSilver nanoparticles (AgNPs) are well known for their broad-spectrum antimicrobial activity, and many studies have demonstrated their antibacterial efficacy against a variety of bacterial strains including E. coli, S. aureus, methicillin-resistant S. aureus (MRSA), and methicillin-resistant Staphylococcus epidermidis (Mansor et al., 2009; O’Hanlon and Enright, 2009; Lara et al., 2010). This antibacterial activity was explained by three possible mechanisms that ultimately result in bacterial cell death: (i) AgNPs-cell membrane direct contact, which results in increased permeability and damages the cell membrane, (ii) AgNPs and Ag-induced reactive oxygen species (ROS) production, or (iii) disturbed DNA replication and ATP production (Dakal et al., 2016). Furthermore, the bactericidal impact of Ag ions is influenced by the particle size; it has been confirmed that the smaller the AgNPs, the greater the antimicrobial activity (Matijevic, 1993; Khanna and Subbarao, 2003; Leopold and Lendl, 2003; Baker et al., 2005).Because antimicrobial activity significantly affects the entire structure of the nanoparticles, a novel antibacterial system was introduced by GO-Ag hybrid composite construction (Anandan et al., 2010; Lightcap et al., 2010; Das et al., 2011; Liu L. et al., 2011). This composite demonstrates enhanced antimicrobial properties due to the modification of GO nanosheets’ surface by Ag, leading to better dispersion and stability of GONPs, in addition to the negative surface charge of the conjugated GO-Ag that reduces the bacteria-bacteria cell interaction (Dakal et al., 2016; Ma et al., 2011).Different linking materials were used to conjugate AgNPs to GO sheets. Zhu et al. utilized diallyl-dimethyl-ammonium chloride (PDDA) to attach AgNPs to GO. The resulting GO-PDDA-AgNPs composite demonstrated significantly increased antibacterial activity in comparison to AgNPs alone (Dakal et al., 2016). Polyethyleneimine (PEI) is another linker material that Cai et al. used to produce a GO-PEI-AgNPs hybrid with antibacterial activity based on the blade-like edge which is characterized by long-term antibacterial activity and excellent stability and, consequently, causes bacterial cell destruction (Cai et al., 2011; Kooti et al., 2018). In another study, Cai et al. (2012b) conjugated AgNPs to sodium 1-naphthalenesulfonate functionalized reduced graphene oxide (NArGO); the resulting AgNP-NA-rGO nanostructure hybrid demonstrated extensive antibacterial capability, tremendous stability, and minor cytotoxicity. These conjugation approaches show significant enhancement in the antimicrobial activity by merging two potent antimicrobial materials, which is promising in different biomedical applications.GO-TiO2 AlloysTitanium dioxide (TiO2) is a well-known semiconductor generally applied to industrial waste detoxification as a photocatalyst utilizing light energy (Fujishima and Honda, 1972). This compound has been employed in a diversity of applications. In addition to the safety outcomes of TiO2 for both ecological and human applications, as well as its high stability, it reveals significant bactericidal and bacteriostatic activities via its intense oxidative capacity and super hydrophilicity (Ditta et al., 2008; Ghosh and Das, 2015). As a photocatalytic antibacterial system, the antimicrobial activity can be derived using various mechanisms (Linsebigler et al., 1995): (i) electron-hole pair generation on the TiO2 surface when the excitation wavelength moves to the visible light (Fu et al., 2005; Li et al., 2005), (ii) the reaction of photo-generated holes with the adsorbed H2O or -OH, producing highly reactive hydroxyl radicals, and the response of electrons to oxygen to produce superoxide ions, and (iii) the destruction, by active oxygen species, of microorganisms attached to the TiO2 surface via oxidation activity (Linsebigler et al., 1995). Moreover, the photocatalytic capability of TiO2 can be enhanced by many strategies including particle size and/or surface modification by the addition of other semiconductors or metal nanoparticles (Sakthivel et al., 2004; Li et al., 2005; Liu et al., 2009). Thus, GO layers were modified with TiO2 to produce a nanocomposite that comprises the properties of both TiO2 and carbon (Han et al., 2015). Despite the desirable characteristics that the TiO2-GO nanocomposite showed, including clearness, conductivity, absorptivity, and controllability (Chang, 2013), it demonstrated cytotoxic effects toward some human cell lines such as adenocarcinomas human- alveolar basal epithelial cells (A549). These damaging effects were derived by the entrance of TiO2-GO nanoparticles into the cell, causing the mitochondrial injury which results in increased lysosome numbers as well as cellular disruption and damage (Jin et al., 2014).GO-ZnO AlloysZinc oxide (ZnO) is one of the distinct nanoparticles known for its high stability, high surface area to volume ratio (Sawai, 2003; Sawai and Yoshikawa, 2004; Huang et al., 2008; Jones et al., 2008; Tam et al., 2008), biosafety, low toxicity, and remarkable antibacterial activities against Gram-positive and Gram-negative bacteria and bacterial spores. Thus, in the medical research field, ZnONPs was introduced as a suitable drug delivery system, as well as in the cosmetic products field as an active ingredient (Rosi and Mirkin, 2005). Interestingly, ZnONPs demonstrate a superior antimicrobial impact against S. aureus in comparison to other metallic oxides, as reported by Jones et al. (2008). Another study carried out by Huang et al. (2008) explained that ZnO has a considerable antibacterial effect against Streptococcus agalactia and S. aureus by increasing the cell wall/membrane permeability and, thereby, bacterial cell disruption. Once these nanoparticles invade the bacterial cell wall/membrane, the antibacterial mechanism may take place through two pathways: (i) ROS production (Franklin et al., 2007; Lipovsky et al., 2009; Yang et al., 2009) and (ii) the interruption of the membrane and cellular functions as a result of NPs’ accumulation on the bacterial surface, inside the bacterial cytoplasm, or at the periplasmic space (Xu and Wang, 2009; Liu et al., 2010; Zhou et al., 2011; Wang et al., 2012, Wang Y.W. et al., 2014). The antimicrobial influence of ZnO can be affected by a variety of factors – mainly, the particle shape and size (Baruah and Dutta, 2009), UV light, aqueous suspension (Thill et al., 2006), and its concentration and hybridization with other NPs (Franklin et al., 2007; Lipovsky et al., 2009; Yang et al., 2009). Recently, ZnO and GO NPs was incorporated to construct a ZnO-GO nanocomposite that holds outstanding properties enabling it to be exploited in a variety of fields, including optics, sensors, electronics, and catalysts, as well as, more interestingly, targeted drug carriers and antibacterial tools (Xu and Wang, 2009; Liu et al., 2010; Zhou et al., 2011; Wang et al., 2012; Wang Y.W. et al., 2014). According to Wang and Cao’s investigations, it has been reported that ZnO-GO nanoparticles manifest high bactericidal activity against E. coli as well as low cytotoxic effects toward HeLa cells in different concentrations (Baruah and Dutta, 2009).GO-Gold AlloysBecause gold nanoparticles (AuNPs) are biocompatible, they have been significantly applied in the biomedical field for gene and drug delivery and photothermal therapy, as a contrast enhancer, and in biosensor technology (Skrabalak et al., 2008). The particles’ physical and chemical properties differ based on the particle shape manifestation and the size reduction to a nanometer level. The nanostructure of gold particles can be greatly influenced by the synthetic technique applied. Gold nanorods (GNR) were found to be favorable candidates for exterminating both S. aureus and Propionibacterium acnes, which are involved in follicular and dermatological diseases (Mahmoud et al., 2017). Biosynthesized AuPNs demonstrate optimistic activity against many pathogenic bacteria in which these NPs destroy the bacterial cell membrane via intracellular ROS production. Eventually, cell membrane disrupts due to the ROS-derived membrane lipid peroxidation that results in bacterial death (Zada et al., 2018). To enhance the antibacterial activity of AuNPs, they are bio-conjugated with various NPs, including GO, to produce AuNPs-GO and AuNPs-rGO hybrids that demonstrate high antimicrobial activity. The bactericidal activity of Au-GO nanocomposites was investigated by He et al. (2013) to reveal its antimicrobial potential against Gram-positive or Gram-negative bacteria and fungus following 2 h of irradiation under solar light. Furthermore, Hussain et al. (2014) decorated an Au-rGO nanocomposite; this study showed high bactericidal activity against some Gram-positive and Gram-negative bacteria as well as good biocompatibility in association with HeLa cells.GO-CuO AlloysFor a long time, copper has been known as a highly potent antimicrobial agent that rapidly kills bacteria, viruses, and yeasts through a process termed “contact killing,” i.e., the microorganism is killed when it comes into contact with the metallic copper surface (Grass et al., 2011). Because copper has been safely used as an antimicrobial agent in medical applications, it has recently been recorded with the United States Environmental Protection Agency (EPA) as the first solid antimicrobial material (Grass et al., 2011).As copper particles became reduced to nano-size (CuNPs), they exhibit a highly toxic effect against most microorganisms in which cellular damage is derived by the CuNPs’ redox properties that cause lipid and protein oxidation and, ultimately, cell destruction (Yoshida et al., 1993; Faúndez et al., 2004). To avoid the cytotoxic effects of CuNPs in humans, it is crucial to increase the CuNPs’ stability and to control the Cu2+ release. To realize these goals, different substances were conjugated as copper carriers, such as titanium oxide (Sunada et al., 2003), silicon dioxide (Kim et al., 2006; Singh et al., 2010), activated carbon fiber (Byeon et al., 2007), zeolite (Top and Ülkü, 2004), phosphate glass fiber (Abou Neel et al., 2005), and montmorillonite (Hu and Xia, 2006). To improve the long-term antibacterial activity and water solubility of CuNPs, poly-l-lysine/reduced graphene oxide/copper nanoparticles (PLL-rGO-CuNPs) were produced in which PLL-rGO served as a carrier of CuNPs that were anchored on the rGO surface. The choice of this hybrid composition relied on the desirable properties of both PLL and rGO. PLL is characterized by its flexible framework structure, good biocompatibility, and favorable water solubility (Shan et al., 2009). Besides, as mentioned previously, rGO exhibits extreme potency as an antibacterial agent (Akhavan and Ghaderi, 2010; Hu et al., 2010). Moreover, previous studies have reported that rGO-based hybrids show superior antibacterial activity, desirable water solubility, and mild cytotoxicity (Cai et al., 2011). Thus, the PLL-rGO-CuNPs demonstrated a long-term additively antibacterial impact against Gram-negative E. coli and Gram-positive S. aureus in which 99.9% of bacteria were killed and the antibacterial mechanism was carried on throughout disruption of the ion concentrations of intracellular fluid, all of which indicate potential in microbial control applications (Ouyang et al., 2013; Yousefi et al., 2017). Additionally, copper dioxide nanoparticles (CuONPs) exhibit significant physical and chemical properties comprising antibacterial and antiviral activities (Gabbay et al., 2006; Borkow et al., 2009). This antibacterial activity against both Gram-positive and Gram-negative bacteria is derived from CuONPs’ ability to increase the permeability of the bacterial cell membrane followed by cell membrane disruption, accumulation of these nanoparticles inside the cell, and bacterial cell death as a consequence (Suleiman et al., 2013). The mechanism of this process relies on oxidative stress, genotoxicity, nano-hemostasis, and coordination influence that results in microorganism death (Chang et al., 2012).GO-Fe AlloysIron oxides, in particular Fe2O3 nanoparticles, are well known for their biological applications including biological tissue detoxification, tissue repair, and magnetic resonance imaging (MRI) resolution improvement (Amiri et al., 2012). Fe2O3NPs bactericidal activity was reported against P. aeruginosa, E. coli, and S. aureus (Yousefi et al., 2017). Fe2O3NPs with a bandgap of ≅2.2 eV exhibit bacterial inhibition as a result of their visible light absorption properties (≅564 nm) and unique magnetic properties (Long et al., 2017). Although these nanoparticles show moderate antibacterial activities against both Gram-positive and Gram-negative pathogenic bacteria, their antibacterial mechanism is still not clear. Similar to other metallic oxides, the antibacterial activity of Fe2O3NPs is particle-size-dependent and increases when the particle size is less than 50 nm. However, small nanoparticles can easily accumulate to form larger aggregates due to their high surface energy, resulting in restricted antibacterial activity (Long et al., 2017). A nanocomposite system consisting of rGO-iron oxide nanoparticles (rGO-IONPs) was used to study the antibacterial activity toward S. aureus. The mechanism of interaction between rGO-IONPs and bacteria was dependent on the generated heat and the high amount of hydroxyl radicals. The near-infrared (NIR) spectroscopy investigations demonstrated a noticeable reduction in bacterial cell viability both in vitro and in vivo (Pan et al., 2016). In another study, GO surface doped with Fe2O3 and AgNPs (MGO-Ag) displayed high antibacterial activity against E. coli and S. aureus where the viability decreased as 99.99 and 99.96%, respectively. Generally, the involved antibacterial mechanism is based on physical pressure, oxidative stress, and ROS production exerted by the applied nanoparticles (Feng et al., 2000; Morones et al., 2005; Tran et al., 2010; Yousefi et al., 2017).GMs Biomedical ApplicationGraphene and its derivatives have gained multidisciplinary interests in biomedical research because of their unique physio-chemical properties. Development of new methods of GMs synthesis has made this material much easier accessible in today’s market and gained more interesting in biomedical applications such as antimicrobial agents for tooth and bone implants, anticancer therapy, biofunctionalization of protein and in drug delivery application (Hamzah et al., 2017; Reina et al., 2017; Priyadarsini et al., 2018; Valentini et al., 2019).Over the past few years, numerous new therapies and devices based on different materials have been discovered for the treatment of several diseases (Gillespie et al., 1988). Metallic devices such as stainless steel and other alloys have used in implants due to their mechanical properties. However, there are some disadvantages regarding their use due to exogenous toxicity or the lack of cellular adhesion (Huang et al., 2003).Accordingly, GMs can be used in combination with other materials to improve their cytocompatibility and to introduce antibacterial properties as prior discussed.As an example, GMs was successfully used in combination with hydroxyapatite to improve mechanical and pro-osteogenic properties of bone healing dedicated ceramics (Liu et al., 2014).In the Dentistry field, GMs can be used to improve the mechanical properties of polymers used for reconstructive procedures: in fact, these materials hold poor resistance toward mechanical stress due to chewing compression, thus fast degrading and releasing toxic compounds. The use of GMs was successful in enhancing polymers mechanical resistance, thus prolonging their lifespan and reducing the release of toxic compounds coming from the degradation (Rosa et al., 2013).Another example is related to smooth muscle repair. Here, GMs were successfully applied in combination with nitinol, an alloy made of nickel and titanium, to improve its cytocompatibilty resulting in enhancing cells proliferation (Shradhanjali et al., 2017).Therefore, GMs have been shown to be effective in ameliorating the repair performance of different bulk materials for several biomedical applications.Conclusion and Future PerspectivesIn summary, we presented recent advances and knowledge about graphene and its derivates for biomedical application with a particular focus on antibacterial properties and mechanisms. Graphene materials show a promising perspective in a variety of fields such as electronics, thermotics, biomedical applications and many others. In the Biomedical sector, GMs revealed a potent capacity to be involved in diagnostics, drug delivery, tissue engineering and infection control domains.Many works proven that GMs hold high antibacterial activity against both Gram-positive and Gram-negative bacteria but depending on a variety of mechanisms and factors related to both, the bacterial components and the nanoparticle’s characteristics themselves. This review highlighted those factors including structural and physical-chemical properties, topographical features and material dispersion to offer a general view for further studies design. Also, the discussion about bacteria related factors including cellular components such as lipids, proteins and nucleic acids (DNA/RNA), as well as the bacterial self-killing mechanism, can offer the view of potential mechanism suitable to design MGs-based antibacterial tools.However, many aspects are still worthy of further investigations to better understand GMs relation with bacteria and human body. In particular, much evidence is required to clearly understand and establish graphene antibacterial activity and to correlate this activity to the innate immune system as promising future applicable biomaterials for simultaneous tissue rehabilitation and potential substitution/or reduction of antibiotic usage.Author ContributionsHM and LR wrote the main part of the manuscript. MC and XZ greatly contributed to the graphene alloys part. EB made major contributions particularly in choosing the figures. YA-H, MA, and AC made a significant contribution at the revision stage. AK prepared and formulated the references and was responsible for manuscript revision.Conflict of InterestThe authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.FootnotesFunding. This project received funding from the European Union’s Horizon 2020 Research and Innovation Program under Grant Agreement No. 814558 - project RESTORE.ReferencesAbou Neel E. A., Ahmed I., Pratten J., Nazhat S. N., Knowles J. C. (2005). Characterisation of antibacterial copper releasing degradable phosphate glass fibres.
+Biomaterials
+26
+2247–2254. 10.1016/j.biomaterials.2004.07.024
+ [PubMed] [CrossRef] [Google Scholar]Akhavan O., Ghaderi E. (2010). Toxicity of graphene and graphene oxide nanowalls against bacteria.
+ACS Nano
+4
+5731–5736. 10.1021/nn101390x
+ [PubMed] [CrossRef] [Google Scholar]Akhavan O., Ghaderi E. (2012). Escherichia coli bacteria reduce graphene oxide to bactericidal graphene in a self-limiting manner.
+Carbon
+50
+1853–1860. 10.1016/j.carbon.2011.12.035 [CrossRef] [Google Scholar]Akhavan O., Ghaderi E., Akhavan A. (2012). Size-dependent genotoxicity of graphene nanoplatelets in human stem cells.
+Biomaterials
+33
+8017–8025. 10.1016/j.biomaterials.2012.07.040
+ [PubMed] [CrossRef] [Google Scholar]Akhavan O., Ghaderi E., Esfandiar A. (2011). Wrapping bacteria by graphene nanosheets for isolation from environment, reactivation by sonication, and inactivation by near-infrared irradiation.
+J. Phys. Chem. B
+115
+6279–6288. 10.1021/jp200686k
+ [PubMed] [CrossRef] [Google Scholar]Alava T., Mann J. A., Théodore C., Benitez J. J., Dichtel W. R., Parpia J. M., et al. (2013). Control of the graphene–protein interface is required to preserve adsorbed protein function.
+Anal. Chem.
+85
+2754–2759. 10.1021/ac303268z [PubMed] [CrossRef] [Google Scholar]Al-Jumaili A., Alancherry S., Bazaka K., Jacob M. V. (2017). Review on the antimicrobial properties of carbon nanostructures.
+Materials
+10:1066
+ 10.3390/ma10091066 [PMC free article] [PubMed] [CrossRef] [Google Scholar]Al-Thani R. F., Patan N. K., Al-Maadeed M. A. (2014). Graphene oxide as antimicrobial against two gram-positive and two gram-negative bacteria in addition to one fungus.
+J. Biol. Sci.
+14
+230–239. 10.3844/ojbsci.2014.230.239 [CrossRef] [Google Scholar]Ameen S., Shaheer Akhtar M., Seo H. K., Shik Shin H. (2013). Advanced ZnO–graphene oxide nanohybrid and its photocatalytic applications.
+Mater. Lett.
+100
+261–265. 10.1016/j.matlet.2013.03.012 [CrossRef] [Google Scholar]Amiri G. R., Yousefi M. H., Fatahian S. (2012). Preparatin and investigation of Ni1-xZnxFe2O4 nanoparticles: the effect of x parameter on the magnetic properties.
+Optoelectron Adv. Mat.
+6
+564–567. [Google Scholar]Anandan S., Ohashi N., Miyauchi M. (2010). ZnO-based visible-light photocatalyst: band-gap engineering and multi-electron reduction by co-catalyst.
+Appl. Catal. B Environ.
+100
+502–509. 10.1016/j.apcatb.2010.08.029 [CrossRef] [Google Scholar]Aslam B., Wang W., Arshad M., Khurshid M., Muzammil S., Rasool M. (2018). Antibiotic resistance: a rundown of a global crisis.
+Infect. Drug Resist.
+11
+1645–1658. 10.2147/IDR.S173867
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Babak F., Abolfazl H., Alimorad R., Parviz G. (2014). Preparation and mechanical properties of graphene oxide: cement nanocomposites.
+Sci. World J.
+2014
+1–10. 10.1155/2014/276323
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Báez D., Pardo H., Laborda I., Marco J., Yáñez C., Bollo S. (2017). Reduced graphene oxides: influence of the reduction method on the electrocatalytic effect towards nucleic acid oxidation.
+Nanomaterials.
+7:168. 10.3390/nano7070168
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Baker C., Pradhan A., Pakstis L., Pochan D. J., Shah S. I. (2005). Synthesis and antibacterial properties of silver nanoparticles.
+J Nanosci. Nanotechnol.
+5
+244–249. 10.1166/jnn.2005.034
+ [PubMed] [CrossRef] [Google Scholar]Balandin A. A. (2011). Thermal properties of graphene and nanostructured carbon materials.
+Nat. Mater.
+10
+569–581. 10.1038/nmat3064 [PubMed] [CrossRef] [Google Scholar]Balandin A. A., Ghosh S., Bao W., Calizo I., Teweldebrhan D., Miao F., et al. (2008). Superior thermal conductivity of single-layer graphene.
+Nano Lett.
+8
+902–907. 10.1021/nl0731872
+ [PubMed] [CrossRef] [Google Scholar]Banerjee S., Wilson J., Shim J., Shankla M., Corbin E. A., Aksimentiev A., et al. (2015). Slowing DNA transport using graphene-DNA interactions.
+Adv. Funct. Mater.
+25
+936–946. 10.1002/adfm.201403719
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Baruah S., Dutta J. (2009). Hydrothermal growth of ZnO nanostructures.
+Sci. Technol. Adv. Mater.
+10:013001. 10.1088/1468-6996/10/1/013001
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Berger C., Song Z., Li X., Wu X., Brown N., Naud C., et al. (2006). Electronic confinement and coherence in patterned epitaxial graphene.
+Science
+312
+1191–1196. 10.1126/science.1125925
+ [PubMed] [CrossRef] [Google Scholar]Berne B. J., Weeks J. D., Zhou R. (2009). Dewetting and hydrophobic interaction in physical and biological systems.
+Annu. Rev. Phys. Chem.
+60
+85–103. 10.1146/annurev.physchem.58.032806.104445 [PMC free article] [PubMed] [CrossRef] [Google Scholar]Borkow G., Zatcoff R. C., Gabbay J. (2009). Reducing the risk of skin pathologies in diabetics by using copper impregnated socks.
+Med. Hypotheses
+73
+883–886. 10.1016/j.mehy.2009.02.050
+ [PubMed] [CrossRef] [Google Scholar]Brunet L. N., Lyon D. Y., Hotze E. M., Alvarez P. J., Wiesner M. R. (2009). Comparative photoactivity and antibacterial properties of C60 fullerenes and titanium dioxide nanoparticles.
+Environ. Sci. Technol.
+43
+4355–4360. 10.1021/es803093t
+ [PubMed] [CrossRef] [Google Scholar]Bühl M., Hirsch A. (2001). Spherical aromaticity of fullerenes.
+Chem. Rev.
+101
+1153–1184. 10.1021/cr990332q [PubMed] [CrossRef] [Google Scholar]Bunch J. S., Verbridge S. S., Alden J. S., van der Zande A. M., Parpia J. M., Craighead H. G., et al. (2008). Impermeable atomic membranes from graphene sheets.
+Nano Lett.
+8
+2458–2462. 10.1021/nl801457b
+ [PubMed] [CrossRef] [Google Scholar]Byeon J. H., Yoon K. Y., Park J. H., Hwang J. (2007). Characteristics of electroless copper-deposited activated carbon fibers for antibacterial action and adsorption–desorption of volatile organic compounds.
+Carbon
+45
+2313–2316. 10.1016/j.carbon.2007.06.026 [CrossRef] [Google Scholar]Cai X., Lin M., Tan S., Mai W., Zhang Y., Liang Z., et al. (2012a). The use of polyethyleneimine-modified reduced graphene oxide as a substrate for silver nanoparticles to produce a material with lower cytotoxicity and long-term antibacterial activity.
+Carbon
+50
+3407–3415. [Google Scholar]Cai X., Tan S., Lin M., Xie A., Mai W., Zhang X., et al. (2011). Synergistic antibacterial brilliant blue/reduced graphene oxide/quaternary phosphonium salt composite with excellent water solubility and specific targeting capability.
+Langmuir
+27
+7828–7835. 10.1021/la201499s
+ [PubMed] [CrossRef] [Google Scholar]Cai X., Tan S., Yu A., Zhang J., Liu J., Mai W., et al. (2012b). Sodium 1-naphthalenesulfonate-functionalized reduced graphene oxide stabilizes silver nanoparticles with lower cytotoxicity and long-term antibacterial activity.
+Chem. Asian J.
+7
+1664–1670. 10.1002/asia.201200045
+ [PubMed] [CrossRef] [Google Scholar]Castillo J. J., Svendsen W. E., Rozlosnik N., Escobar P., Martínez F., Castillo-León J. (2013). Detection of cancer cells using a peptidenanotube–folic acid modified graphene electrode.
+Analyst
+138
+1026–1031. 10.1039/c2an36121c
+ [PubMed] [CrossRef] [Google Scholar]Chang B. Y. S. (2013). Synthesis and Characterization of Reduced Graphene Oxide / TiO2 Nanocomposites as High Performance Photocatalyst.
+Ph.D. thesis, University of Malaya, Kuala Lumpur. [Google Scholar]Chang Y. N., Zhang M., Xia L., Zhang J., Xing G. (2012). The toxic effects and mechanisms of CuO and ZnO nanoparticles.
+Materials
+5
+2850–2871. 10.3390/ma5122850 [CrossRef] [Google Scholar]Chen J., Peng H., Wang X., Shao F., Yuan Z., Han H. (2014). Graphene oxide exhibits broad-spectrum antimicrobial activity against bacterial phytopathogens and fungal conidia by intertwining and membrane perturbation.
+Nanoscale
+6
+1879–1889. 10.1039/C3NR04941H
+ [PubMed] [CrossRef] [Google Scholar]Chen J., Wang X., Han H. (2013). A new function of graphene oxide emerges: inactivating phytopathogenic bacterium Xanthomonas oryzae pv, oryzae.
+J. Nanopart. Res.
+15
+1658
+ 10.1007/s11051-013-1658-6 [CrossRef] [Google Scholar]Chen J. Y., Shen-Ming C., Wen-Hui W., Ying L., Shauh-Der Y. (2013). Simultaneous detection of DNA bases on electrodes chemically modified with graphene-new fuchsin.
+Int. J. Electrochem. Sci.
+8
+3963–3973. [Google Scholar]Chen Y., Prasad K. P., Wang X., Pang H., Yan R., Than A., et al. (2013). Enzymeless multi-sugar fuel cells with high power output based on 3D graphene–Co3O4 hybrid electrodes.
+Phys. Chem. Chem. Phys.
+15:9170. 10.1039/C3CP51410B
+ [PubMed] [CrossRef] [Google Scholar]Chong Y., Ge C., Yang Z., Garate J. A., Gu Z., Weber J. K., et al. (2015). Reduced cytotoxicity of graphene nanosheets mediated by blood-protein coating.
+ACS Nano
+9
+5713–5724. 10.1021/nn5066606
+ [PubMed] [CrossRef] [Google Scholar]Dakal T. C., Kumar A., Majumdar R. S., Yadav V. (2016). Mechanistic basis of antimicrobial actions of silver nanoparticles.
+Front. Microbiol.
+7:1831. 10.3389/fmicb.2016.01831
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Dallavalle M., Calvaresi M., Bottoni A., Melle-Franco M., Zerbetto F. (2015). Graphene can wreak havoc with cell membranes.
+ACS Appl. Mater. Interfaces
+7
+4406–4414. 10.1021/am508938u
+ [PubMed] [CrossRef] [Google Scholar]Das M. R., Sarma R. K., Saikia R., Kale V. S., Shelke M. V., Sengupta P. (2011). Synthesis of silver nanoparticles in an aqueous suspension of graphene oxide sheets and its antimicrobial activity.
+Colloids Surf. B Biointerfaces
+83
+16–22. 10.1016/j.colsurfb.2010.10.033
+ [PubMed] [CrossRef] [Google Scholar]Dasari B. L., Nouri J. M., Brabazon D., Naher S. (2017). Graphene and derivatives – synthesis techniques, properties and their energy applications.
+Energy
+140
+766–778. 10.1016/j.energy.2017.08.048 [CrossRef] [Google Scholar]Ditta I. B., Steele A., Liptrot C., Tobin J., Tyler H., Yates H. M., et al. (2008). Photocatalytic antimicrobial activity of thin surface films of TiO2, CuO and TiO2/CuO dual layers on Escherichia coli and bacteriophage T4.
+Appl. Microbiol. Biotechnol.
+79
+127–133. 10.1007/s00253-008-1411-8 [PubMed] [CrossRef] [Google Scholar]Dreyer D. R., Park S., Bielawski C. W., Ruoff R. S. (2010). The chemistry of graphene oxide.
+Chem. Soc. Rev.
+39
+228–240. 10.1039/B917103G
+ [PubMed] [CrossRef] [Google Scholar]Du X., Xiao R., Fu H., Yuan Z., Zhang W., Yin L., et al. (2019). Hypericin-loaded graphene oxide protects ducks against a novel duck reovirus.
+Mater. Sci. Eng. C
+105:110052. 10.1016/j.msec.2019.110052
+ [PubMed] [CrossRef] [Google Scholar]Eda G., Chhowalla M. (2010). Chemically derived graphene oxide: towards large-area thin-film electronics and optoelectronics.
+Adv. Mater.
+22
+2392–2415. 10.1002/adma.200903689
+ [PubMed] [CrossRef] [Google Scholar]Edwards R. S., Coleman K. S. (2013). Graphene synthesis: relationship to applications.
+Nanoscale
+5
+38–51. 10.1039/c2nr32629a
+ [PubMed] [CrossRef] [Google Scholar]Eigler S., Hirsch A. (2014). Chemistry with graphene and graphene oxide-challenges for synthetic chemists.
+Angew. Chem. Int. Ed.
+53
+7720–7738. 10.1002/chin.201439265
+ [PubMed] [CrossRef] [Google Scholar]Fan Z., Li Y., Li X., Fan L., Zhou S., Fang D., et al. (2014). Surrounding media sensitive photoluminescence of boron-doped graphene quantum dots for highly fluorescent dyed crystals, chemical sensing and bioimaging.
+Carbon
+70
+149–156. 10.1016/j.carbon.2013.12.085 [CrossRef] [Google Scholar]Faúndez G., Troncoso M., Navarrete P., Figueroa G. (2004). Antimicrobial activity of copper surfaces against suspensions of Salmonella enterica and Campylobacter jejuni.
+BMC Microbiol.
+4:19. 10.1186/1471-2180-4-19
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Feng Q. L., Wu J., Chen G., Cui F., Kim T., Kim J. (2000). A mechanistic study of the antibacterial effect of silver ions on Escherichia coli and Staphylococcus aureus.
+J. Biomed. Mater. Res.
+52
+662–668. 10.1002/1097-4636(20001215)52:4<662::AID-JBM10<3.0.CO;2-3
+ [PubMed] [CrossRef] [Google Scholar]Fisher C., Rider A. E., Jun Han Z., Kumar S., Levchenko I., Ostrikov K. K. (2012). Applications and nanotoxicity of carbon nanotubes and graphene in biomedicine.
+J. Nanomater.
+2012:315185. 10.1155/2012/315185
+ [CrossRef] [Google Scholar]Fitzer E., Kochling K.-H., Boehm H. P., Marsh H. (1995). IUPAC – Graphene layer (G02683). Available online at: http://goldbook.iupac.org/terms/view/G02683
+(accessed April 21, 2020). [Google Scholar]Franklin N. M., Rogers N. J., Apte S. C., Batley G. E., Gadd G. E., Casey P. S. (2007). Comparative toxicity of nanoparticulate ZnO, bulk ZnO, and ZnCl 2 to a freshwater microalga (Pseudokirchneriella subcapitata): the importance of particle solubility.
+Environ. Sci. Technol.
+41
+8484–8490. 10.1021/es071445r [PubMed] [CrossRef] [Google Scholar]Fu G., Vary P. S., Lin C. T. (2005). Anatase TiO 2 nanocomposites for antimicrobial coatings.
+J. Phys. Chem. B
+109
+8889–8898. 10.1021/jp0502196
+ [PubMed] [CrossRef] [Google Scholar]Fujishima A., Honda K. (1972). Electrochemical photolysis of water at a semiconductor electrode.
+Nature
+238
+37–38. 10.1038/238037a0 [PubMed] [CrossRef] [Google Scholar]Gabbay J., Borkow G., Mishal J., Magen E., Zatcoff R., Shemer Avni Y. (2006). Copper oxide impregnated textiles with potent biocidal activities.
+J. Ind. Text.
+35
+323–335. 10.1177/1528083706060785 [CrossRef] [Google Scholar]Geim A. K., Novoselov K. S. (2007). The rise of graphene.
+Nat. Mater.
+6
+183–191. 10.1142/9789814287005_0002 [PubMed] [CrossRef] [Google Scholar]Ghosh S., Das A. P. (2015). Modified titanium oxide (TiO 2) nanocomposites and its array of applications: a review.
+Toxicol. Environ. Chem.
+97
+491–514. 10.1080/02772248.2015.1052204 [CrossRef] [Google Scholar]Gillespie W., Frampton C., Henderson R., Ryan P. (1988). The incidence of cancer following total hip replacement.
+J. Bone Joint Surg. Br.
+70
+539–542.  [PubMed] [Google Scholar]Gonçalves G., Vila M., Portolés M. T., Vallet-Regi M., Gracio J., Marques P. A. A. P. (2013). Nano-graphene oxide: a potential multifunctional platform for cancer therapy.
+Adv. Healthc. Mater.
+2
+1072–1090. 10.1002/adhm.201300023
+ [PubMed] [CrossRef] [Google Scholar]Grass G., Rensing C., Solioz M. (2011). Metallic copper as an antimicrobial surface.
+Appl. Environ. Microbiol.
+77
+1541–1547. 10.1128/AEM.02766-10
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Gurunathan S., Kim J. H. (2016). Synthesis, toxicity, biocompatibility, and biomedical applications of graphene and graphene-related materials.
+Int. J. Nanomed.
+11
+1927–1945. 10.2147/IJN.S105264
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Gurunathan S., Woong Han J., Abdal Daye A., Eppakayala V., Kim J. (2012). Oxidative stress-mediated antibacterial activity of graphene oxide and reduced graphene oxide in Pseudomonas aeruginosa.
+Int. J. Nanomed.
+7
+5901–5914. 10.2147/IJN.S37397
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Hamzah A. A., Selvarajan R. S., Majlis B. Y. (2017). Graphene for biomedical applications: a review.
+Sains Malaysiana
+46
+1125–1139. 10.17576/jsm-2017-4607-16 [CrossRef] [Google Scholar]Han G. S., Song Y. H., Jin Y. U., Lee J. W., Park N. G., Kang B. K., et al. (2015). Reduced graphene oxide/mesoporous TiO2 nanocomposite based perovskite solar cells.
+ACS Appl. Mater. Interfaces
+7
+23521–23526. 10.1021/acsami.5b06171
+ [PubMed] [CrossRef] [Google Scholar]Hao Y., Bharathi M. S., Wang L., Liu Y., Chen H., Nie S., et al. (2013). The role of surface oxygen in the growth of large single-crystal graphene on copper.
+Science
+342
+720–723. 10.1126/science.1243879
+ [PubMed] [CrossRef] [Google Scholar]He J., Zhu X., Qi Z., Wang C., Mao X., Zhu C., et al. (2015). Killing dental pathogens using antibacterial graphene oxide.
+ACS Appl. Mater. Interfaces
+7
+5605–5611. 10.1021/acsami.5b01069
+ [PubMed] [CrossRef] [Google Scholar]He S., Song B., Li D., Zhu C., Qi W., Wen Y., et al. (2010). A graphene nanoprobe for rapid, sensitive, and multicolor fluorescent DNA analysis.
+Adv. Funct. Mater.
+20
+453–459. 10.1002/adfm.200901639 [CrossRef] [Google Scholar]He W., Huang H., Yan J., Zhu J. (2013). Photocatalytic and antibacterial properties of Au-TiO 2 nanocomposite on monolayer graphene: from experiment to theory.
+J. Appl. Phys.
+114:204701
+ 10.1063/1.4836875 [CrossRef] [Google Scholar]He Y., Scheicher R. H., Grigoriev A., Ahuja R., Long S., Huo Z., et al. (2011). Enhanced DNA sequencing performance through edge-hydrogenation of graphene electrodes.
+Adv. Funct. Mater.
+21
+2674–2679. 10.1002/adfm.201002530 [CrossRef] [Google Scholar]Hobman J. L., Crossman L. C. (2015). Bacterial antimicrobial metal ion resistance.
+J. Med. Microbiol.
+64
+471–497. 10.1099/jmm.0.023036-0
+ [PubMed] [CrossRef] [Google Scholar]Hu C., Liu Y., Qin J., Nie G., Lei B., Xiao Y., et al. (2013). Fabrication of reduced graphene oxide and sliver nanoparticle hybrids for raman detection of absorbed folic acid: a potential cancer diagnostic probe.
+ACS Appl. Mater. Interfaces
+5
+4760–4768. 10.1021/am4000485
+ [PubMed] [CrossRef] [Google Scholar]Hu C. H., Xia M. S. (2006). Adsorption and antibacterial effect of copper-exchanged montmorillonite on Escherichia coli K88.
+Appl. Clay Sci.
+31
+180–184. 10.1016/j.clay.2005.10.010 [CrossRef] [Google Scholar]Hu W., Peng C., Luo W., Lv M., Li X., Li D., et al. (2010). Graphene-based antibacterial paper.
+ACS Nano
+4
+4317–4323. 10.1021/nn101097v [PubMed] [CrossRef] [Google Scholar]Huang H., Su S., Wu N., Wan H., Wan S., Bi H., et al. (2019). Graphene-based sensors for human health monitoring.
+Front. Chem.
+7:399. 10.3389/fchem.2019.00399
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Huang J. J., Zhong Z. F., Rong M. Z., Zhou X., Chen X. D., Zhang M. Q. (2014). An easy approach of preparing strongly luminescent carbon dots and their polymer based composites for enhancing solar cell efficiency.
+Carbon
+70
+190–198. 10.1016/j.carbon.2013.12.092 [CrossRef] [Google Scholar]Huang N., Yang P., Leng Y., Chen J., Sun H., Wang J., et al. (2003). Hemocompatibility of titanium oxide films.
+Biomaterials
+24
+2177–2187. 10.1016/S0142-9612(03)00046-2
+ [PubMed] [CrossRef] [Google Scholar]Huang Z., Zheng X., Yan D., Yin G., Liao X., Kang Y., et al. (2008). Toxicological effect of ZnO nanoparticles based on bacteria.
+Langmuir
+24
+4140–4144. 10.1021/la7035949
+ [PubMed] [CrossRef] [Google Scholar]Hui L., Piao J.-G., Auletta J., Hu K., Zhu Y., Meyer T., et al. (2014). Availability of the basal planes of graphene oxide determines whether it is antibacterial.
+ACS Appl. Mater. Interfaces
+6
+13183–13190. 10.1021/am503070z
+ [PubMed] [CrossRef] [Google Scholar]Hummers W. S., Offeman R. E. (1958). Preparation of graphitic oxide.
+J. Am. Chem. Soc.
+80
+1339–1339. 10.1021/ja01539a017 [CrossRef] [Google Scholar]Hussain N., Gogoi A., Sarma R. K., Sharma P., Barras A., Boukherroub R., et al. (2014). Reduced graphene oxide nanosheets decorated with Au nanoparticles as an effective bactericide: investigation of biocompatibility and leakage of sugars and proteins.
+ChemPlusChem
+79
+1774–1784. 10.1002/cplu.201402240 [CrossRef] [Google Scholar]Ibrahim K. S. (2013). Carbon nanotubes-properties and applications: a review.
+Carbon Lett.
+14
+131–144. 10.5714/CL.2013.14.3.131 [CrossRef] [Google Scholar]Jana A. K., Agarwal S., Chatterjee S. N. (1990). The induction of lipid peroxidation in liposomal membrane by ultrasound and the role of hydroxyl radicals.
+Radiat. Res.
+124
+7–14. 10.2307/3577687
+ [PubMed] [CrossRef] [Google Scholar]Jiao Y., Qian F., Li Y., Wang G., Saltikov C. W., Gralnick J. A. (2011). Deciphering the electron transport pathway for graphene oxide reduction by shewanella oneidensis MR-1.
+J. Bacteriol.
+193
+3662–3665. 10.1128/JB.00201-11
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Jin C., Wang F., Tang Y., Zhang X., Wang J., Yang Y. (2014). Distribution of graphene oxide and TiO2-graphene oxide composite in A549 Cells.
+Biol. Trace Elem. Res.
+159
+393–398. 10.1007/s12011-014-0027-3
+ [PubMed] [CrossRef] [Google Scholar]Jones N., Ray B., Ranjit K. T., Manna A. C. (2008). Antibacterial activity of ZnO nanoparticle suspensions on a broad spectrum of microorganisms.
+FEMS Microbiol. Lett.
+279
+71–76. 10.1111/j.1574-6968.2007.01012.x
+ [PubMed] [CrossRef] [Google Scholar]Kanchanapally R., Viraka Nellore B. P., Sinha S. S., Pedraza F., Jones S. J., Pramanik A., et al. (2015). Antimicrobial peptide-conjugated graphene oxide membrane for efficient removal and effective killing of multiple drug resistant bacteria.
+RSC Adv.
+5
+18881–18887. 10.1039/C5RA01321F
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Kang S., Herzberg M., Rodrigues D. F., Elimelech M. (2008). Antibacterial effects of carbon nanotubes: size does matter!
+Langmuir
+24
+6409–6413. 10.1021/la800951v
+ [PubMed] [CrossRef] [Google Scholar]Kang S., Pinault M., Pfefferle L. D., Elimelech M. (2007). Single-walled carbon nanotubes exhibit strong antimicrobial activity.
+Langmuir
+23
+8670–8673. 10.1021/la701067r
+ [PubMed] [CrossRef] [Google Scholar]Karahan H. E., Wiraja C., Xu C., Wei J., Wang Y., Wang L., et al. (2018). Graphene materials in antimicrobial nanomedicine: current status and future perspectives.
+Adv. Healthc. Mater.
+7:1701406. 10.1002/adhm.201701406
+ [PubMed] [CrossRef] [Google Scholar]Khanna P. K., Subbarao V. V. V. S. (2003). Nanosized silver powder via reduction of silver nitrate by sodium formaldehydesulfoxylate in acidic pH medium.
+Mater. Lett.
+57
+2242–2245. 10.1016/S0167-577X(02)01203-X [CrossRef] [Google Scholar]Kim M. G., Park J. Y., Miao W., Lee J., Oh Y. K. (2015). Polyaptamer DNA nanothread-anchored, reduced graphene oxide nanosheets for targeted delivery.
+Biomaterials
+48
+129–136. 10.1016/j.biomaterials.2015.01.009
+ [PubMed] [CrossRef] [Google Scholar]Kim Y. H., Lee D. K., Cha H. G., Kim C. W., Kang Y. C., Kang Y. S. (2006). Preparation and characterization of the antibacterial Cu nanoparticle formed on the surface of SiO 2 nanoparticles.
+J. Phys. Chem. B
+110
+24923–24928. 10.1021/jp0656779
+ [PubMed] [CrossRef] [Google Scholar]Kooti M., Sedeh A. N., Motamedi H., Rezatofighi S. E. (2018). Magnetic graphene oxide inlaid with silver nanoparticles as antibacterial and drug delivery composite.
+Appl. Microbiol. Biotechnol.
+102
+3607–3621. 10.1007/s00253-018-8880-1
+ [PubMed] [CrossRef] [Google Scholar]Krishnamoorthy K., Veerapandian M., Zhang L.-H., Yun K., Kim S. J. (2012). Antibacterial efficiency of graphene nanosheets against pathogenic bacteria via lipid peroxidation.
+J. Phys. Chem. C
+116
+17280–17287. 10.1021/jp3047054 [CrossRef] [Google Scholar]Kwon O. S., Lee S. H., Park S. J., An J. H., Song H. S., Kim T., et al. (2013). Large-scale graphene micropattern nano-biohybrids: high-performance transducers for FET-type flexible fluidic HIV immunoassays.
+Adv. Mater.
+25
+4177–4185. 10.1002/adma.201301523
+ [PubMed] [CrossRef] [Google Scholar]Lara H. H., Ayala-Nuñez N. V., Ixtepan-Turrent L., Rodriguez-Padilla C. (2010). Mode of antiviral action of silver nanoparticles against HIV-1.
+J. Nanobiotechnol.
+8:1. 10.1186/1477-3155-8-1
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Lee G.-H., Cooper R. C., An S. J., Lee S., van der Zande A., Petrone N., et al. (2013). High-strength chemical-vapor-deposited graphene and grain boundaries.
+Science
+340
+1073–1076. 10.1126/science.1235126
+ [PubMed] [CrossRef] [Google Scholar]Leopold N., Lendl B. (2003). A new method for fast preparation of highly surface-enhanced raman scattering (SERS) active silver colloids at room temperature by reduction of silver nitrate with hydroxylamine hydrochloride.
+J. Phys. Chem. B
+107
+5723–5727. 10.1021/jp027460u [CrossRef] [Google Scholar]Li D., Müller M. B., Gilje S., Kaner R. B., Wallace G. G. (2008). Processable aqueous dispersions of graphene nanosheets.
+Nat. Nanotech.
+3
+101–105. 10.1038/nnano.2007.451
+ [PubMed] [CrossRef] [Google Scholar]Li J., Wang G., Zhu H., Zhang M., Zheng X., Di Z., et al. (2015). Antibacterial activity of large-area monolayer graphene film manipulated by charge transfer.
+Sci. Rep.
+4:4359. 10.1038/srep04359
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Li X. Z., He C., Graham N., Xiong Y. (2005). Photoelectrocatalytic degradation of bisphenol A in aqueous solution using a Au–TiO2/ITO film.
+J. Appl. Electrochem.
+35
+741–750. 10.1007/s10800-005-1385-5 [CrossRef] [Google Scholar]Li Y., Liu Y., Fu Y., Wei T., Le Guyader L., Gao G., et al. (2012). The triggering of apoptosis in macrophages by pristine graphene through the MAPK and TGF-beta signaling pathways.
+Biomaterials
+33
+402–411. 10.1016/j.biomaterials.2011.09.091
+ [PubMed] [CrossRef] [Google Scholar]Li Y., Yuan H., von dem Bussche A., Creighton M., Hurt R. H., Kane A. B., et al. (2013). Graphene microsheets enter cells through spontaneous membrane penetration at edge asperities and corner sites.
+Proc. Natl. Acad. Sci. U.S.A.
+110
+12295–12300. 10.1073/pnas.1222276110
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Lightcap I. V., Kosel T. H., Kamat P. V. (2010). Anchoring semiconductor and metal nanoparticles on a two-dimensional catalyst mat. storing and shuttling electrons with reduced graphene oxide.
+Nano Lett.
+10
+577–583. 10.1021/nl9035109
+ [PubMed] [CrossRef] [Google Scholar]Linsebigler A. L., Lu G., Yates J. T. (1995). Photocatalysis on TiO2 surfaces: principles, mechanisms, and selected results.
+Chem. Rev.
+95
+735–758. 10.1021/cr00035a013 [CrossRef] [Google Scholar]Lipovsky A., Tzitrinovich Z., Friedmann H., Applerot G., Gedanken A., Lubart R. (2009). EPR study of visible light-induced ROS generation by nanoparticles of ZnO.
+J. Phys. Chem. C
+113
+15997–16001. 10.1021/jp904864g [CrossRef] [Google Scholar]Liu H., Cheng J., Chen F., Hou F., Bai D., Xi P., et al. (2014). Biomimetic and cell-mediated mineralization of hydroxyapatite by carrageenan functionalized graphene oxide.
+ACS Appl. Mater. Interfaces
+6
+3132–3140. 10.1021/am4057826
+ [PubMed] [CrossRef] [Google Scholar]Liu J., Bai H., Wang Y., Liu Z., Zhang X., Sun D. D. (2010). Self-assembling TiO2 nanorods on large graphene oxide sheets at a two-phase interface and their anti-recombination in photocatalytic applications.
+Adv. Funct. Mater.
+20
+4175–4181. 10.1002/adfm.201001391 [CrossRef] [Google Scholar]Liu L., Liu J., Wang Y., Yan X., Sun D. D. (2011). Facile synthesis of monodispersed silver nanoparticles on graphene oxide sheets with enhanced antibacterial activity.
+New J. Chem.
+35:1418
+ 10.1039/C1NJ20076C [CrossRef] [Google Scholar]Liu P., Huang X., Zhou R., Berne B. J. (2005). Observation of a dewetting transition in the collapse of the melittin tetramer.
+Nature
+437
+159–162. 10.1038/nature03926
+ [PubMed] [CrossRef] [Google Scholar]Liu R., Wu D., Feng X., Müllen K. (2011). Bottom-Up fabrication of photoluminescent graphene quantum dots with uniform morphology.
+J. Am. Chem. Soc.
+133
+15221–15223. 10.1021/ja204953k
+ [PubMed] [CrossRef] [Google Scholar]Liu S., Hu M., Zeng T. H., Wu R., Jiang R., Wei J., et al. (2012). Lateral dimension-dependent antibacterial activity of graphene oxide sheets.
+Langmuir
+28
+12364–12372. 10.1021/la3023908
+ [PubMed] [CrossRef] [Google Scholar]Liu S., Zeng T. H., Hofmann M., Burcombe E., Wei J., Jiang R., et al. (2011). Antibacterial activity of graphite, graphite oxide, graphene oxide, and reduced graphene oxide: membrane and oxidative stress.
+ACS Nano
+5
+6971–6980. 10.1021/nn202451x [PubMed] [CrossRef] [Google Scholar]Liu X., Sen S., Liu J., Kulaots I., Geohegan D., Kane A., et al. (2011). Antioxidant deactivation on graphenic nanocarbon surfaces.
+Small
+7
+2775–2785. 10.1002/smll.201100651
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Liu Y. J., Wang Z. M., Aizawa M., Peng W. Q., Hirotsu T. (2009). Nanoporous composite of carbon nanosheets and functional titania nanoparticles formed by reassembling of exfoliated graphite oxides with colloidal titania.
+Mater. Lett.
+63
+260–262. 10.1016/j.matlet.2008.10.023 [CrossRef] [Google Scholar]Loh K. P., Bao Q., Ang P. K., Yang J. (2010). The chemistry of graphene.
+J. Mater. Chem.
+20:2277
+ 10.1039/B920539J [CrossRef] [Google Scholar]Long M., Zhang Y., Shu Z., Tang A., Ouyang J., Yang H. (2017). Fe 2 O 3 nanoparticles anchored on 2D kaolinite with enhanced antibacterial activity.
+Chem. Commun.
+53
+6255–6258. 10.1039/C7CC02905E [PubMed] [CrossRef] [Google Scholar]Lu C., Zeyu L., Zongjin L., Christopher K. Y. L. (2016). Effect of graphene oxide on the mechanical behavior of strain hardening cementitious composites.
+Construct. Build. Mater.
+120
+457–464. 10.1016/j.conbuildmat.2016.05.122 [CrossRef] [Google Scholar]Lu X., Feng X., Werber J. R., Chu C., Zucker I., Kim J. H., et al. (2017). Enhanced antibacterial activity through the controlled alignment of graphene oxide nanosheets.
+Proc. Natl. Acad. Sci. U.S.A.
+114
+E9793–E9801. 10.1073/pnas.1710996114
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Lüder J., Puglia C., Ottosson H., Eriksson O., Sanyal B., Brena B. (2016). Many-body effects and excitonic features in 2D biphenylene carbon.
+J. Chem. Phys.
+144:024702. 10.1063/1.4939273
+ [PubMed] [CrossRef] [Google Scholar]Lv S., Ma Y., Qiu C., Sun T., Liu J., Zhou Q. (2013). Effect of graphene oxide nanosheets of microstructure and mechanical properties of cement composites.
+Construct. Build. Mater.
+49
+121–127. 10.1016/j.conbuildmat.2013.08.022
+ [CrossRef] [Google Scholar]Lv W., Guo M., Liang M. H., Jin F. M., Cui L., Zhi L., et al. (2010). Graphene-DNA hybrids: self-assembly and electrochemical detection performance.
+J. Mater. Chem.
+20:6668
+ 10.1039/C0JM01066A [CrossRef] [Google Scholar]Lyon D. Y., Brunet L., Hinkal G. W., Wiesner M. R., Alvarez P. J. (2008). Antibacterial activity of fullerene water suspensions (nC60) is not due to ROS-mediated damage.
+Nano Lett.
+8
+1539–1543. 10.1021/nl0726398
+ [PubMed] [CrossRef] [Google Scholar]Ma J., Zhang J., Xiong Z., Yong Y., Zhao X. S. (2011). Preparation, characterization and antibacterial properties of silver-modified graphene oxide.
+J. Mater. Chem.
+21
+3350–3352. 10.1039/C0JM02806A [CrossRef] [Google Scholar]Maas M. (2016). Carbon nanomaterials as antibacterial colloids.
+Materials
+9:617
+ 10.3390/ma9080617 [PMC free article] [PubMed] [CrossRef] [Google Scholar]Mahmoud N. N., Alkilany A. M., Khalil E. A., Al-Bakri A. G. (2017). Antibacterial activity of gold nanorods against Staphylococcus aureus and Propionibacterium acnes: misinterpretations and artifacts.
+Int. J. Nanomed.
+12
+7311–7322. 10.2147/IJN.S145531
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Maillard J.-Y., Hartemann P. (2013). Silver as an antimicrobial: facts and gaps in knowledge.
+Crit. Rev. Microbiol.
+39
+373–383. 10.3109/1040841X.2012.713323
+ [PubMed] [CrossRef] [Google Scholar]Mangadlao J. D., Santos C. M., Felipe M. J. L., de Leon A. C. C., Rodrigues D. F., Advincula R. C. (2015). On the antibacterial mechanism of graphene oxide (GO) Langmuir–Blodgett films.
+Chem. Commun.
+51
+2886–2889. 10.1039/C4CC07836E [PubMed] [CrossRef] [Google Scholar]Mansor A., Kamyar S., Majid D., Wan M., Nor A. I., Azizah A. H., et al. (2009). Synthesis and antibacterial activity of silver/montmorillonite nanocomposites.
+Res. J. Biol. Sci.
+9
+1032–1036. [Google Scholar]Matijevic E. (1993). Preparation and properties of uniform size colloids.
+Chem. Mater.
+5
+412–426. 10.1021/cm00028a004 [CrossRef] [Google Scholar]Mejías Carpio I. E., Santos C. M., Wei X., Rodrigues D. F. (2012). Toxicity of a polymer–graphene oxide composite against bacterial planktonic cells, biofilms, and mammalian cells.
+Nanoscale
+4
+4746–4756. 10.1039/C2NR30774J
+ [PubMed] [CrossRef] [Google Scholar]Miao F., Wijeratne S., Zhang Y., Coskun U. C., Bao W., Lau C. N. (2007). Phase-coherent transport in graphene quantum billiards.
+Science
+317
+1530–1533. 10.1126/science.1144359
+ [PubMed] [CrossRef] [Google Scholar]Mo R., Jiang T., Sun W., Gu Z. (2015). ATP-responsive DNA-graphene hybrid nanoaggregates for anticancer drug delivery.
+Biomaterials
+50
+67–74. 10.1016/j.biomaterials.2015.01.053
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Morones J. R., Elechiguerra J. L., Camacho A., Holt K., Kouri J. B., Ramírez J. T., et al. (2005). The bactericidal effect of silver nanoparticles.
+Nanotechnology
+16
+2346–2353. 10.1088/0957-4484/16/10/059
+ [PubMed] [CrossRef] [Google Scholar]Mowbray M., Tan X., Wheatley P. S., Morris R. E., Weller R. B. (2008). Topically applied nitric oxide induces T-lymphocyte infiltration in human skin, but minimal inflammation.
+J. Invest. Dermatol.
+128
+352–360. 10.1038/sj.jid.5701096
+ [PubMed] [CrossRef] [Google Scholar]Musico Y. L. F., Santos C. M., Dalida M. L. P., Rodrigues D. F. (2014). Surface modification of membrane filters using graphene and graphene oxide-based nanomaterials for bacterial inactivation and removal.
+ACS Sustainable Chem. Eng.
+2
+1559–1565. 10.1021/sc500044p [CrossRef] [Google Scholar]Nair R. R., Blake P., Grigorenko A. N., Novoselov K. S., Booth T. J., Stauber T., et al. (2008). Fine structure constant defines visual transparency of graphene.
+Science
+320
+1308–1308. 10.1126/science.1156965
+ [PubMed] [CrossRef] [Google Scholar]Novoselov K. S. (2004). Electric field effect in atomically thin carbon films.
+Science
+306
+666–669. 10.1126/science.1102896
+ [PubMed] [CrossRef] [Google Scholar]Novoselov K. S., Fal’ko V. I., Colombo L., Gellert P. R., Schwab M. G., Kim K. (2012). A roadmap for graphene.
+Nature
+490
+192–200. 10.1038/nature11458
+ [PubMed] [CrossRef] [Google Scholar]Novoselov K. S., Jiang D., Schedin F., Booth T. J., Khotkevich V. V., Morozov S. V., et al. (2005). Two-dimensional atomic crystals.
+Proc. Natl. Acad. Sci. U.S.A.
+102
+10451–10453. 10.1073/pnas.0502848102 [PMC free article] [PubMed] [CrossRef] [Google Scholar]O’Hanlon S. J., Enright M. C. (2009). A novel bactericidal fabric coating with potent in vitro activity against meticillin-resistant Staphylococcus aureus (MRSA).
+Int. J. Antimicrob. Agents
+33
+427–431. 10.1016/j.ijantimicag.2008.10.020 [PubMed] [CrossRef] [Google Scholar]Öhrström L., O’Keeffe M. (2013). Network topology approach to new allotropes of the group 14 elements.
+Z. Kristallogr. Cryst. Mater.
+228
+343–346. 10.1524/zkri.2013.1620 [CrossRef] [Google Scholar]Ouyang Y., Cai X., Shi Q., Liu L., Wan D., Tan S., et al. (2013). Poly-l-lysine-modified reduced graphene oxide stabilizes the copper nanoparticles with higher water-solubility and long-term additively antibacterial activity.
+Colloids Surf. B Biointerfaces
+107
+107–114. 10.1016/j.colsurfb.2013.01.073
+ [PubMed] [CrossRef] [Google Scholar]Pan W. Y., Huang C. C., Lin T. T., Hu H. Y., Lin W. C., Li M. J., et al. (2016). Synergistic antibacterial effects of localized heat and oxidative stress caused by hydroxyl radicals mediated by graphene/iron oxide-based nanocomposites.
+Nanomedicine
+12
+431–438. 10.1016/j.nano.2015.11.014
+ [PubMed] [CrossRef] [Google Scholar]Pan Z., He L., Qiu L., Korayem A. H., Li G., Zhu J. W., et al. (2015). Mechanical properties and microstructure of a graphene oxide–cement composite.
+Cem. Concr. Compos.
+58
+140–147. 10.1016/j.cemconcomp.2015.02.001 [CrossRef] [Google Scholar]Park S., Mohanty N., Suk J. W., Nagaraja A., An J., Piner R. D., et al. (2010). Biocompatible, robust free-standing paper composed of a TWEEN/Graphene composite.
+Adv. Mater.
+22
+1736–1740. 10.1002/adma.200903611 [PubMed] [CrossRef] [Google Scholar]Paschoalino M., Guedes N. C., Jardim W., Mielczarski E., Mielczarski J. A., Bowen P., et al. (2008). Inactivation of E. coli mediated by high surface area CuO accelerated by light irradiation >360nm.
+J. Photochem. Photobiol. A Chem.
+199
+105–111. 10.1016/j.jphotochem.2008.05.010 [CrossRef] [Google Scholar]Pei S., Cheng H. M. (2012). The reduction of graphene oxide.
+Carbon
+50
+3210–3228. 10.1016/j.carbon.2011.11.010 [CrossRef] [Google Scholar]Peña-Bahamonde J., Nguyen H. N., Fanourakis S. K., Rodrigues D. F. (2018). Recent advances in graphene-based biosensor technology with applications in life sciences.
+J. Nanobiotechnol.
+16:75. 10.1186/s12951-018-0400-z
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Perreault F., de Faria A. F., Nejati S., Elimelech M. (2015a). Antimicrobial properties of graphene oxide nanosheets: why size matters.
+ACS Nano
+9
+7226–7236. 10.1021/acsnano.5b02067
+ [PubMed] [CrossRef] [Google Scholar]Perreault F., Fonseca de Faria A., Elimelech M. (2015b). Environmental applications of graphene-based nanomaterials.
+Chem. Soc. Rev.
+44
+5861–5896. 10.1039/C5CS00021A [PubMed] [CrossRef] [Google Scholar]Pham V. T. H., Truong V. K., Quinn M. D. J., Notley S. M., Guo Y., Baulin V. A., et al. (2015). Graphene induces formation of pores that kill spherical and rod-shaped bacteria.
+ACS Nano
+9
+8458–8467. 10.1021/acsnano.5b03368
+ [PubMed] [CrossRef] [Google Scholar]Poland C. A., Duffin R., Kinloch I., Maynard A., Wallace W. A. H., Seaton A., et al. (2008). Carbon nanotubes introduced into the abdominal cavity of mice show asbestos-like pathogenicity in a pilot study.
+Nat. Nanotech.
+3
+423–428. 10.1038/nnano.2008.111
+ [PubMed] [CrossRef] [Google Scholar]Priyadarsini S., Mohanty S., Mukherjee S., Basu S., Mishra M. (2018). Graphene and graphene oxide as nanomaterials for medicine and biology application.
+J. Nanostruct. Chem.
+8
+123–137. 10.1007/s40097-018-0265-6
+ [CrossRef] [Google Scholar]Reina G., González-Domínguez J. M., Criado A., Vázquez E., Bianco A., Prato M. (2017). Promises, facts and challenges for graphene in biomedical applications.
+Chem. Soc. Rev.
+46
+4400–4416. 10.1039/c7cs00363c
+ [PubMed] [CrossRef] [Google Scholar]Rojas-Andrade M. D., Chata G., Rouholiman D., Liu J., Saltikov C., Chen S. (2017). Antibacterial mechanisms of graphene-based composite nanomaterials.
+Nanoscale
+9
+994–1006. 10.1039/C6NR08733G
+ [PubMed] [CrossRef] [Google Scholar]Romero U. A. M., Soto M. ÁV., Jiménez L. L., Quintana J. Á, García S. A. P. (2017). “Graphene derivatives: controlled properties, nanocomposites, and energy harvesting applications,” in Graphene Materials - Structure, Properties and Modifications, eds
+Kyzas G. Z., Mitropoulos A. C. H. (London: IntechOpen Limited; ), 10.5772/67474 [CrossRef] [Google Scholar]Romero-Vargas Castrillón S., Perreault F., de Faria A. F., Elimelech M. (2015). Interaction of graphene oxide with bacterial cell membranes: insights from force spectroscopy.
+Environ. Sci. Technol. Lett.
+2
+112–117. 10.1021/acs.estlett.5b00066 [CrossRef] [Google Scholar]Rosa V., Zhang Z., Grande R. H. M., Nör J. (2013). Dental pulp tissue engineering in full-length human root canals.
+J. Dent. Res.
+92
+970–975. 10.1177/0022034513505772
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Rosi N. L., Mirkin C. A. (2005). Nanostructures in biodiagnostics.
+Chem. Rev.
+105
+1547–1562. 10.1021/cr030067f [PubMed] [CrossRef] [Google Scholar]Ruiz O. N., Fernando K. A. S., Wang B., Brown N. A., Luo P. G., McNamara N. D., et al. (2011). Graphene oxide: a nonspecific enhancer of cellular growth.
+ACS Nano
+5
+8100–8107. 10.1021/nn202699t
+ [PubMed] [CrossRef] [Google Scholar]Sadeghi B., Garmaroudi F. S., Hashemi M., Nezhad H. R., Nasrollahi A., Ardalan S., et al. (2012). Comparison of the anti-bacterial activity on the nanosilver shapes: nanoparticles, nanorods and nanoplates.
+Adv. Powder Technol.
+23
+22–26. 10.1016/j.apt.2010.11.011 [CrossRef] [Google Scholar]Sakthivel S., Shankar M. V., Palanichamy M., Arabindoo B., Bahnemann D. W., Murugesan V. (2004). Enhancement of photocatalytic activity by metal deposition: characterisation and photonic efficiency of Pt, Au and Pd deposited on TiO2 catalyst.
+Water Res.
+38
+3001–3008. 10.1016/j.watres.2004.04.046
+ [PubMed] [CrossRef] [Google Scholar]Salas E. C., Sun Z., Lüttge A., Tour J. M. (2010). Reduction of graphene oxide via bacterial respiration.
+ACS Nano
+4
+4852–4856. 10.1021/nn101081t
+ [PubMed] [CrossRef] [Google Scholar]Sawai J. (2003). Quantitative evaluation of antibacterial activities of metallic oxide powders (ZnO, MgO and CaO) by conductimetric assay.
+J. Microbiol. Methods
+54
+177–182. 10.1016/S0167-7012(03)00037-X
+ [PubMed] [CrossRef] [Google Scholar]Sawai J., Yoshikawa T. (2004). Quantitative evaluation of antifungal activity of metallic oxide powders (MgO, CaO and ZnO) by an indirect conductimetric assay.
+J. Appl. Microbiol.
+96
+803–809. 10.1111/j.1365-2672.2004.02234.x
+ [PubMed] [CrossRef] [Google Scholar]Shan C., Yang H., Han D., Zhang Q., Ivaska A., Niu L. (2009). Water-soluble graphene covalently functionalized by biocompatible Poly- l -lysine.
+Langmuir
+25
+12030–12033. 10.1021/la903265p
+ [PubMed] [CrossRef] [Google Scholar]Shang L., Qi Y., Lu H., Pei H., Li Y., Qu L., et al. (2019). “Graphene and graphene oxide for tissue engineering and regeneration,” in Theranostic Bionanomaterials, eds
+Cui W., Zhao X. (Amsterdam: Elsevier; ), 165–185. 10.1016/B978-0-12-815341-3.00007-9 [CrossRef] [Google Scholar]Sharma S., Kothiyal N. C. (2015). Influence of graphene oxide as dispersed phase in cement mortar matrix in defining the crystal patterns of cement hydrates and its effect on mechanical, microstructural and crystallization properties.
+RSC Adv.
+5
+52642–52657. 10.1039/C5RA08078A [CrossRef] [Google Scholar]Shradhanjali A., Bouzid T., Sinitskii A., Lim J. Y. (2017). Graphene for dental implant applications.
+Interfaces
+7
+19876–19881. 10.19080/ADOH.2017.04.555642 [CrossRef] [Google Scholar]Singh A., Krishna V., Angerhofer A., Do B., MacDonald G., Moudgil B. (2010). Copper coated silica nanoparticles for odor removal.
+Langmuir
+26
+15837–15844. 10.1021/la100793u
+ [PubMed] [CrossRef] [Google Scholar]Singh A. P., Mishra M., Chandra A., Dhawan S. K. (2011). Graphene oxide/ferrofluid/cement composites for electromagnetic interference shielding application.
+Nanotechnology
+22:465701. 10.1088/0957-4484/22/46/465701
+ [PubMed] [CrossRef] [Google Scholar]Skrabalak S. E., Chen J., Sun Y., Lu X., Au L., Cobley C. M., et al. (2008). Gold nanocages: synthesis, properties, and applications.
+Acc. Chem. Res.
+41
+1587–1595. 10.1021/ar800018v
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Song Y., Zhu S., Zhang S., Fu Y., Wang L., Zhao X., et al. (2015). Investigation from chemical structure to photoluminescent mechanism: a type of carbon dots from the pyrolysis of citric acid and an amine.
+J. Mater. Chem. C
+3
+5976–5984. 10.1039/C5TC00813A [CrossRef] [Google Scholar]Stensberg M. C., Wei Q., McLamore E. S., Porterfield D. M., Wei A., Sepúlveda M. S. (2011). Toxicological studies on silver nanoparticles: challenges and opportunities in assessment, monitoring and imaging.
+Nanomedicine
+6
+879–898. 10.2217/nnm.11.78
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Suk J. W., Lee W. H., Lee J., Chou H., Piner R. D., Hao Y., et al. (2013). Enhancement of the electrical properties of graphene grown by chemical vapor deposition via controlling the effects of polymer residue.
+Nano Lett.
+13
+1462–1467. 10.1021/nl304420b
+ [PubMed] [CrossRef] [Google Scholar]Suleiman M., Mousa M., Hussein A., Hammouti B., Hadda T. B., Warad I. (2013). Copper (II)-oxide nanostructures: synthesis, characterizations and their applications-review.
+J. Mater. Environ. Sci.
+5
+792–797. [Google Scholar]Sunada K., Watanabe T., Hashimoto K. (2003). Bactericidal activity of copper-deposited TiO 2 thin film under weak UV light illumination.
+Environ. Sci. Technol.
+37
+4785–4789. 10.1021/es034106g [PubMed] [CrossRef] [Google Scholar]Tam K. H., Djurišiæ A. B., Chan C. M. N., Xi Y. Y., Tse C. W., Leung Y. H., et al. (2008). Antibacterial activity of ZnO nanorods prepared by a hydrothermal method.
+Thin Solid Films
+516
+6167–6174. 10.1016/j.tsf.2007.11.081 [CrossRef] [Google Scholar]Thill A., Zeyons O., Spalla O., Chauvat F., Rose J., Auffan M., et al. (2006). Cytotoxicity of CeO 2 Nanoparticles for Escherichia coli. Physico-chemical insight of the cytotoxicity mechanism.
+Environ. Sci. Technol.
+40
+6151–6156. 10.1021/es060999b
+ [PubMed] [CrossRef] [Google Scholar]Tian T., Shi X., Cheng L., Luo Y., Dong Z., Gong H., et al. (2014). Graphene-based nanocomposite as an effective, multifunctional, and recyclable antibacterial agent.
+ACS Appl. Mater. Interfaces
+6
+8542–8548. 10.1021/am5022914
+ [PubMed] [CrossRef] [Google Scholar]Tong Y., Bohm S., Song M. (2013). Graphene based materials and their composites as coatings.
+Austin J. Nanomed. Nanotechnol.
+1:1003. [Google Scholar]Top A., Ülkü S. (2004). Silver, zinc, and copper exchange in a Na-clinoptilolite and resulting effect on antibacterial activity.
+Appl. Clay Sci.
+27
+13–19. 10.1016/j.clay.2003.12.002 [CrossRef] [Google Scholar]Tran N., Mir A., Mallik D., Sinha A., Nayar S., Webster T. J. (2010). Bactericidal effect of iron oxide nanoparticles on Staphylococcus aureus.
+Int. J. Nanomed.
+5
+277–283. 10.2147/ijn.s9220
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Tu Y., Lv M., Xiu P., Huynh T., Zhang M., Castelli M., et al. (2013). Destructive extraction of phospholipids from Escherichia coli membranes by graphene nanosheets.
+Nat. Nanotech.
+8
+594–601. 10.1038/nnano.2013.125
+ [PubMed] [CrossRef] [Google Scholar]Valentini F., Calcaterra A., Ruggiero V., Pichichero E., Martino A., Iosi F., et al. (2019). Functionalized graphene derivatives: antibacterial properties and cytotoxicity.
+J. Nanomater.
+2019:2752539
+ 10.1155/2019/2752539 [CrossRef] [Google Scholar]Vecitis C. D., Zodrow K. R., Kang S., Elimelech M. (2010). Electronic-structure-dependent bacterial cytotoxicity of single-walled carbon nanotubes.
+ACS Nano
+4
+5471–5479. 10.1021/nn101558x
+ [PubMed] [CrossRef] [Google Scholar]Vinothini K., Rajan M. (2017). Investigation on the use of graphene as a unique drug delivery platform for dissimilar anticancer drugs.
+Prog. Biosci. Bioeng.
+1
+11–17. 10.29269/pbb2017.v1i1.2 [CrossRef] [Google Scholar]Wang G., Qian F., Saltikov C. W., Jiao Y., Li Y. (2011). Microbial reduction of graphene oxide by Shewanella.
+Nano Res.
+4
+563–570. 10.1007/s12274-011-0112-2 [CrossRef] [Google Scholar]Wang J., Wei Y., Shi X., Gao H. (2013a). Cellular entry of graphene nanosheets: the role of thickness, oxidation and surface adsorption.
+RSC Adv.
+3:15776
+ 10.1039/C3RA40392K [CrossRef] [Google Scholar]Wang X., Bai H., Shi G. (2011). Size fractionation of graphene oxide sheets by pH-assisted selective sedimentation.
+J. Am. Chem. Soc.
+133
+6338–6342. 10.1021/ja200218y
+ [PubMed] [CrossRef] [Google Scholar]Wang X., Chen L., Su X., Ai S. (2013b). Electrochemical immunosensor with graphene quantum dots and apoferritin-encapsulated Cu nanoparticles double-assisted signal amplification for detection of avian leukosis virus subgroup J.
+Biosens. Bioelectron.
+47
+171–177. 10.1016/j.bios.2013.03.021
+ [PubMed] [CrossRef] [Google Scholar]Wang X., Liu X., Han H. (2013c). Evaluation of antibacterial effects of carbon nanomaterials against copper-resistant Ralstonia solanacearum.
+Colloids Surf. B Biointerfaces
+103
+136–142. 10.1016/j.colsurfb.2012.09.044
+ [PubMed] [CrossRef] [Google Scholar]Wang X., Shi G. (2015). An introduction to the chemistry of graphene.
+Phys. Chem. Chem. Phys.
+17
+28484–28504. 10.1039/C5CP05212B [PubMed] [CrossRef] [Google Scholar]Wang Y., Huang R., Liang G., Zhang Z., Zhang P., Yu S., et al. (2014). MRI-visualized, dual-targeting, combined tumor therapy using magnetic graphene-based mesoporous silica.
+Small
+10
+109–116. 10.1002/smll.201301297
+ [PubMed] [CrossRef] [Google Scholar]Wang Y., Liu J., Liu L., Sun D. D. (2012). Enhancing stability and photocatalytic activity of ZnO nanoparticles by surface modification of graphene oxide.
+J Nanosci. Nanotech.
+12
+3896–3902. 10.1166/jnn.2012.6174
+ [PubMed] [CrossRef] [Google Scholar]Wang Y. W., Cao A., Jiang Y., Zhang X., Liu J. H., Liu Y., et al. (2014). Superior antibacterial activity of zinc oxide/graphene oxide composites originating from high zinc concentration localized around bacteria.
+ACS Appl. Mater. Interfaces
+6
+2791–2798. 10.1021/am4053317
+ [PubMed] [CrossRef] [Google Scholar]Wei Y., Zhang Y., Gao X., Ma Z., Wang X., Gao C. (2018). Multilayered graphene oxide membranes for water treatment: a review.
+Carbon
+139
+964–981. 10.1016/j.carbon.2018.07.040 [CrossRef] [Google Scholar]West J. D., Marnett L. J. (2006). Endogenous reactive intermediates as modulators of cell signaling and cell death.
+Chem. Res. Toxicol.
+19
+173–194. 10.1021/tx050321u [PubMed] [CrossRef] [Google Scholar]Wick P., Manser P., Limbach L., Dettlaffweglikowska U., Krumeich F., Roth S., et al. (2007). The degree and kind of agglomeration affect carbon nanotube cytotoxicity.
+Toxicol. Lett.
+168
+121–131. 10.1016/j.toxlet.2006.08.019
+ [PubMed] [CrossRef] [Google Scholar]Wu S., He Q., Tan C., Wang Y., Zhang H. (2013). Graphene-based electrochemical sensors.
+Small
+9
+1160–1172. 10.1002/smll.201202896
+ [PubMed] [CrossRef] [Google Scholar]Xia M.-Y., Xie Y., Yu C.-H., Chen G.-Y., Li Y.-H., Zhang T., et al. (2019). Graphene-based nanomaterials: the promising active agents for antibiotics-independent antibacterial applications.
+J. Control. Release
+307
+16–31. 10.1016/j.jconrel.2019.06.011
+ [PubMed] [CrossRef] [Google Scholar]Xu C., Wang X. (2009). Fabrication of flexible metal-nanoparticle films using graphene oxide sheets as substrates.
+Small
+5
+2212–2217. 10.1002/smll.200900548
+ [PubMed] [CrossRef] [Google Scholar]Xu C., Xu B., Gu Y., Xiong Z., Sun J., Zhao X. S. (2013). Graphene-based electrodes for electrochemical energy storage.
+Energy Environ. Sci.
+6:1388
+ 10.1039/C3EE23870A [CrossRef] [Google Scholar]Yadav B. C., Ritesh K. (2008). Structure, properties and applications of fullerenes.
+Int. J. Nanotechnol. Appl.
+2
+15–24. [Google Scholar]Yadav S. K., Jung Y. C., Kim J. H., Ko Y. I., Ryu H. J., Yadav M. K., et al. (2013). Mechanically robust, electrically conductive biocomposite films using antimicrobial chitosan-functionalized graphenes.
+Part. Part. Syst. Charact.
+30
+721–727. [Google Scholar]Yang H., Liu C., Yang D., Zhang H., Xi Z. (2009). Comparative study of cytotoxicity, oxidative stress and genotoxicity induced by four typical nanomaterials: the role of particle size, shape and composition.
+J. Appl. Toxicol.
+29
+69–78. 10.1002/jat.1385
+ [PubMed] [CrossRef] [Google Scholar]Yang K., Ma Y. Q. (2010). Computer simulation of the translocation of nanoparticles with different shapes across a lipid bilayer.
+Nat. Nanotech.
+5
+579–583. 10.1038/nnano.2010.141
+ [PubMed] [CrossRef] [Google Scholar]Yang K., Wang J., Chen B. (2014). Facile fabrication of stable monolayer and few-layer graphene nanosheets as superior sorbents for persistent aromatic pollutant management in water.
+J. Mater. Chem. A
+2
+18219–18224. 10.1039/C4TA04300F [CrossRef] [Google Scholar]Yang X. X., Li C. M., Li Y. F., Wang J., Huang C. Z. (2017). Synergistic antiviral effect of curcumin functionalized graphene oxide against respiratory syncytial virus infection.
+Nanoscale
+9
+16086–16092. 10.1039/C7NR06520E
+ [PubMed] [CrossRef] [Google Scholar]Ye S., Shao K., Li Z., Guo N., Zuo Y., Li Q., et al. (2015). Antiviral activity of graphene oxide: how sharp edged structure and charge matter.
+ACS Appl. Mater. Interfaces
+7
+21571–21579. 10.1021/acsami.5b06876
+ [PubMed] [CrossRef] [Google Scholar]Yoshida Y., Furuta S., Niki E. (1993). Effects of metal chelating agents on the oxidation of lipids induced by copper and iron.
+Biochim. Biophys. Acta
+1210
+81–88. 10.1016/0005-2760(93)90052-B [PubMed] [CrossRef] [Google Scholar]Yousefi M., Dadashpour M., Hejazi M., Hasanzadeh M., Behnam B., de la Guardia M., et al. (2017). Anti-bacterial activity of graphene oxide as a new weapon nanomaterial to combat multidrug-resistance bacteria.
+Mater. Sci. Eng. C
+74
+568–581. 10.1016/j.msec.2016.12.125
+ [PubMed] [CrossRef] [Google Scholar]Zada S., Ahmad A., Khan S., Iqbal A., Ahmad S., Ali H., et al. (2018). Biofabrication of gold nanoparticles by Lyptolyngbya JSC-1 extract as super reducing and stabilizing agents: synthesis, characterization and antibacterial activity.
+Microb. Pathog.
+114
+116–123. 10.1016/j.micpath.2017.11.038
+ [PubMed] [CrossRef] [Google Scholar]Zhang L., Liang J., Huang Y., Ma Y., Wang Y., Chen Y. (2009). Size-controlled synthesis of graphene oxide sheets on a large scale using chemical exfoliation.
+Carbon
+47
+3365–3368. 10.1016/j.carbon.2009.07.045 [CrossRef] [Google Scholar]Zhang W., Zou X., Zhao J. (2015). Preparation and performance of a novel graphene oxide sheets modified rare-earth luminescence material.
+J. Mater. Chem. C
+3
+1294–1300. 10.1039/C4TC02172J [CrossRef] [Google Scholar]Zhang Y., Hui C., Sun R., Li K., He K., Ma X., et al. (2014). A large-area 15 nm graphene nanoribbon array patterned by a focused ion beam.
+Nanotechnology
+25:135301. 10.1088/0957-4484/25/13/135301
+ [PubMed] [CrossRef] [Google Scholar]Zhang Y., Tan Y. W., Stormer H. L., Kim P. (2005). Experimental observation of the quantum hall effect and Berry’s phase in graphene.
+Nature
+438
+201–204. 10.1038/nature04235
+ [PubMed] [CrossRef] [Google Scholar]Zhao X. (2011). Self-assembly of DNA segments on graphene and carbon nanotube arrays in aqueous solution: a molecular simulation study.
+J. Phys. Chem. C
+115
+6181–6189. 10.1021/jp110013r [CrossRef] [Google Scholar]Zheng Q., Han B., Cui X., Yu X., Ou J. (2017). Graphene-engineered cementitious composites: small makes a big impact.
+Nanomater. Nanotechnol.
+7:184798041774230
+ 10.1177/1847980417742304 [CrossRef] [Google Scholar]Zhou K., Zhu Y., Yang X., Li C. (2011). Preparation and application of mediator-free H2O2 biosensors of graphene-Fe3O4 composites.
+Electroanalysis
+23
+862–869. 10.1002/elan.201000629 [CrossRef] [Google Scholar]Zhou R. (2004). Hydrophobic collapse in multidomain protein folding.
+Science
+305
+1605–1609. 10.1126/science.1101176
+ [PubMed] [CrossRef] [Google Scholar]Zou X., Zhang L., Wang Z., Luo Y. (2016). Mechanisms of the antimicrobial activities of graphene materials.
+J. Am. Chem. Soc.
+138
+2064–2077. 10.1021/jacs.5b11411
+ [PubMed] [CrossRef] [Google Scholar]Articles from Frontiers in Bioengineering and Biotechnology are provided here courtesy of Frontiers Media SA
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (2.8M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

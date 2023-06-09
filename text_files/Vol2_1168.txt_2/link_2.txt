@@ -1,0 +1,3816 @@
+Document Name: role of DYNASAN 110 in Cream2
+Document link: https://www.mdpi.com/1999-4923/14/4/831
+
+
+
+
+
+
+
+
+Pharmaceutics | Free Full-Text | Fundamental Aspects of Lipid-Based Excipients in Lipid-Based Product Development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next Article in Journal
+An Explainable Supervised Machine Learning Model for Predicting Respiratory Toxicity of Chemicals Using Optimal Molecular Descriptors
+Next Article in Special Issue
+An Overview of Herbal-Based Antidiabetic Drug Delivery Systems: Focus on Lipid- and Inorganic-Based Nanoformulations
+
+
+
+
+
+
+
+Previous Article in Journal
+Add Sugar to Chitosan: Mucoadhesion and In Vitro Intestinal Permeability of Mannosylated Chitosan Nanocarriers
+Previous Article in Special Issue
+Improved Bioavailability of Poorly Soluble Drugs through Gastrointestinal Muco-Adhesion of Lipid Nanoparticles
+
+
+
+
+
+
+
+
+Journals
+
+
+
+
+Active Journals
+Find a Journal
+Proceedings Series
+
+
+
+
+
+Topics
+
+
+
+Information
+
+
+
+
+For Authors
+For Reviewers
+For Editors
+For Librarians
+For Publishers
+For Societies
+For Conference Organizers
+
+
+Open Access Policy
+Institutional Open Access Program
+Special Issues Guidelines
+Editorial Process
+Research and Publication Ethics
+Article Processing Charges
+Awards
+Testimonials
+
+
+
+
+
+Author Services
+
+
+
+Initiatives
+
+
+
+
+Sciforum
+MDPI Books
+Preprints.org
+Scilit
+SciProfiles
+Encyclopedia
+JAMS
+Proceedings Series
+
+
+
+
+
+
+About
+
+
+
+
+Overview
+Contact
+Careers
+News
+Blog
+
+
+
+
+
+
+Sign In / Sign Up
+
+
+
+
+
+Notice
+
+
+
+
+
+You can make submissions to other journals
+here.
+
+
+
+
+clear
+
+
+
+
+
+Notice
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+
+
+
+Continue
+Cancel
+
+
+
+clear
+
+
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+                        You seem to have javascript disabled. Please note that many of the page functionalities won't work as expected without javascript enabled.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+
+
+search
+
+
+menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journals
+
+
+
+
+
+
+
+Active Journals
+
+
+
+
+Find a Journal
+
+
+
+
+Proceedings Series
+
+
+
+
+
+
+
+
+
+Topics
+
+
+Information
+
+
+
+
+
+
+For Authors
+
+
+For Reviewers
+
+
+For Editors
+
+
+For Librarians
+
+
+For Publishers
+
+
+For Societies
+
+
+For Conference Organizers
+
+
+
+
+
+
+Open Access Policy
+
+
+Institutional Open Access Program
+
+
+Special Issues Guidelines
+
+
+Editorial Process
+
+
+Research and Publication Ethics
+
+
+Article Processing Charges
+
+
+Awards
+
+
+Testimonials
+
+
+
+
+
+
+
+
+Author Services
+
+
+Initiatives
+
+
+
+
+
+
+
+Sciforum
+
+
+
+
+MDPI Books
+
+
+
+
+Preprints.org
+
+
+
+
+Scilit
+
+
+
+
+SciProfiles
+
+
+
+
+Encyclopedia
+
+
+
+
+JAMS
+
+
+
+
+Proceedings Series
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Contact
+
+
+
+
+Careers
+
+
+
+
+ News
+
+
+
+
+Blog
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In / Sign Up
+Submit
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+Search for Articles:
+
+
+
+
+Title / Keyword
+
+
+
+
+
+Author / Affiliation / Email
+
+
+
+
+
+Journal
+
+
+All Journals
+
+Acoustics
+
+
+Actuators
+
+
+Administrative Sciences
+
+
+Adolescents
+
+
+Advances in Respiratory Medicine
+
+
+Aerospace
+
+
+Agriculture
+
+
+AgriEngineering
+
+
+Agrochemicals
+
+
+Agronomy
+
+
+AI
+
+
+Air
+
+
+Algorithms
+
+
+Allergies
+
+
+Alloys
+
+
+Analytica
+
+
+Analytics
+
+
+Anatomia
+
+
+Anesthesia Research
+
+
+Animals
+
+
+Antibiotics
+
+
+Antibodies
+
+
+Antioxidants
+
+
+Applied Biosciences
+
+
+Applied Mechanics
+
+
+Applied Microbiology
+
+
+Applied Nano
+
+
+Applied Sciences
+
+
+Applied System Innovation (ASI)
+
+
+AppliedChem
+
+
+AppliedMath
+
+
+Aquaculture Journal
+
+
+Architecture
+
+
+Arthropoda
+
+
+Arts
+ 
+
+Astronomy
+
+
+Atmosphere
+
+
+Atoms
+
+
+Audiology Research
+
+
+Automation
+
+
+Axioms
+
+
+Bacteria
+
+
+Batteries
+
+
+Behavioral Sciences
+
+
+Beverages
+
+
+Big Data and Cognitive Computing (BDCC)
+
+
+BioChem
+
+
+Bioengineering
+
+
+Biologics
+
+
+Biology
+
+
+Biology and Life Sciences Forum
+
+
+Biomass
+
+
+Biomechanics
+
+
+BioMed
+
+
+Biomedicines
+
+
+BioMedInformatics
+
+
+Biomimetics
+
+
+Biomolecules
+
+
+Biophysica
+
+
+Biosensors
+
+
+BioTech
+
+
+Birds
+
+
+Blockchains
+
+
+Brain Sciences
+
+
+Buildings
+
+
+Businesses
+
+
+C
+
+
+Cancers
+
+
+Cardiogenetics
+
+
+Catalysts
+ 
+
+Cells
+
+
+Ceramics
+
+
+Challenges
+
+
+ChemEngineering
+
+
+Chemistry
+
+
+Chemistry Proceedings
+
+
+Chemosensors
+
+
+Children
+
+
+Chips
+
+
+CivilEng
+
+
+Clean Technologies (Clean Technol.)
+
+
+Climate
+
+
+Clinical and Translational Neuroscience (CTN)
+
+
+Clinics and Practice
+
+
+Clocks & Sleep
+
+
+Coasts
+
+
+Coatings
+
+
+Colloids and Interfaces
+
+
+Colorants
+
+
+Commodities
+
+
+Complications
+
+
+Compounds
+
+
+Computation
+
+
+Computer Sciences & Mathematics Forum
+
+
+Computers
+
+
+Condensed Matter
+
+
+Conservation
+
+
+Construction Materials
+
+
+Corrosion and Materials Degradation (CMD)
+
+
+Cosmetics
+
+
+COVID
+
+
+Crops
+
+
+Cryptography
+
+
+Crystals
+
+
+Current Issues in Molecular Biology (CIMB)
+
+
+Current Oncology
+
+
+Dairy
+
+
+Data
+
+
+Dentistry Journal
+
+
+Dermato
+
+
+Dermatopathology
+
+
+Designs
+
+
+Diabetology
+
+
+Diagnostics
+
+
+Dietetics
+
+
+Digital
+
+
+Disabilities
+
+
+Diseases
+
+
+Diversity
+
+
+DNA
+
+
+Drones
+
+
+Drugs and Drug Candidates (DDC)
+
+
+Dynamics
+
+
+Earth
+
+
+Ecologies
+
+
+Econometrics
+
+
+Economies
+
+
+Education Sciences
+
+
+Electricity
+
+
+Electrochem
+
+
+Electronic Materials
+
+
+Electronics
+
+
+Encyclopedia
+
+
+Endocrines
+
+
+Energies
+
+
+Eng
+
+
+Engineering Proceedings
+
+
+Entropy
+
+
+Environmental Sciences Proceedings
+
+
+Environments
+
+
+Epidemiologia
+
+
+Epigenomes
+
+
+European Burn Journal (EBJ)
+
+
+European Journal of Investigation in Health, Psychology and Education (EJIHPE)
+
+
+Fermentation
+
+
+Fibers
+
+
+FinTech
+
+
+Fire
+
+
+Fishes
+
+
+Fluids
+
+
+Foods
+
+
+Forecasting
+
+
+Forensic Sciences
+
+
+Forests
+
+
+Fossils
+
+
+Foundations
+
+
+Fractal and Fractional (Fractal Fract)
+
+
+Fuels
+
+
+Future
+
+
+Future Internet
+
+
+Future Pharmacology
+
+
+Future Transportation
+
+
+Galaxies
+
+
+Games
+
+
+Gases
+
+
+Gastroenterology Insights
+
+
+Gastrointestinal Disorders
+
+
+Gastronomy
+
+
+Gels
+
+
+Genealogy
+
+
+Genes
+
+
+Geographies
+
+
+GeoHazards
+
+
+Geomatics
+
+
+Geosciences
+
+
+Geotechnics
+
+
+Geriatrics
+
+
+Gout, Urate, and Crystal Deposition Disease (GUCDD)
+
+
+Grasses
+
+
+Hardware
+
+
+Healthcare
+
+
+Hearts
+
+
+Hemato
+
+
+Hematology Reports
+
+
+Heritage
+
+
+Histories
+
+
+Horticulturae
+
+
+Hospitals
+
+
+Humanities
+
+
+Humans
+
+
+Hydrobiology
+
+
+Hydrogen
+
+
+Hydrology
+
+
+Hygiene
+
+
+Immuno
+
+
+Infectious Disease Reports
+
+
+Informatics
+
+
+Information
+
+
+Infrastructures
+
+
+Inorganics
+
+
+Insects
+
+
+Instruments
+
+
+International Journal of Environmental Research and Public Health (IJERPH)
+
+
+International Journal of Financial Studies (IJFS)
+
+
+International Journal of Molecular Sciences (IJMS)
+
+
+International Journal of Neonatal Screening (IJNS)
+
+
+International Journal of Plant Biology (IJPB)
+
+
+International Journal of Translational Medicine (IJTM)
+
+
+International Journal of Turbomachinery, Propulsion and Power (IJTPP)
+
+
+International Medical Education (IME)
+
+
+Inventions
+
+
+IoT
+
+
+ISPRS International Journal of Geo-Information (IJGI)
+
+
+J
+
+
+Journal of Ageing and Longevity (JAL)
+
+
+Journal of Cardiovascular Development and Disease (JCDD)
+
+
+Journal of Clinical & Translational Ophthalmology (JCTO)
+
+
+Journal of Clinical Medicine (JCM)
+
+
+Journal of Composites Science (J. Compos. Sci.)
+
+
+Journal of Cybersecurity and Privacy (JCP)
+
+
+Journal of Developmental Biology (JDB)
+
+
+Journal of Experimental and Theoretical Analyses (JETA)
+
+
+Journal of Functional Biomaterials (JFB)
+
+
+Journal of Functional Morphology and Kinesiology (JFMK)
+
+
+Journal of Fungi (JoF)
+
+
+Journal of Imaging (J. Imaging)
+
+
+Journal of Intelligence (J. Intell.)
+
+
+Journal of Low Power Electronics and Applications (JLPEA)
+
+
+Journal of Manufacturing and Materials Processing (JMMP)
+
+
+Journal of Marine Science and Engineering (JMSE)
+
+
+Journal of Molecular Pathology (JMP)
+
+
+Journal of Nanotheranostics (JNT)
+
+
+Journal of Nuclear Engineering (JNE)
+
+
+Journal of Otorhinolaryngology, Hearing and Balance Medicine (OHBM)
+
+
+Journal of Personalized Medicine (JPM)
+
+
+Journal of Respiration (JoR)
+
+
+Journal of Risk and Financial Management (JRFM)
+
+
+Journal of Sensor and Actuator Networks (JSAN)
+
+
+Journal of Theoretical and Applied Electronic Commerce Research (JTAER)
+
+
+Journal of Vascular Diseases (JVD)
+
+
+Journal of Xenobiotics (JoX)
+
+
+Journal of Zoological and Botanical Gardens (JZBG)
+
+
+Journalism and Media
+
+
+Kidney and Dialysis
+
+
+Kinases and Phosphatases
+
+
+Knowledge
+
+
+Land
+
+
+Languages
+
+
+Laws
+
+
+Life
+
+
+Liquids
+
+
+Literature
+
+
+Livers
+
+
+Logics
+
+
+Logistics
+
+
+Lubricants
+
+
+Lymphatics
+
+
+Machine Learning and Knowledge Extraction (MAKE)
+
+
+Machines
+
+
+Macromol
+
+
+Magnetism
+
+
+Magnetochemistry
+
+
+Marine Drugs
+
+
+Materials
+
+
+Materials Proceedings
+
+
+Mathematical and Computational Applications (MCA)
+
+
+Mathematics
+
+
+Medical Sciences
+
+
+Medical Sciences Forum
+
+
+ Medicina
+
+
+Medicines
+
+
+Membranes
+
+
+Merits
+
+
+Metabolites
+
+
+Metals
+
+
+Meteorology
+
+
+Methane
+
+
+Methods and Protocols (MPs)
+
+
+Metrology
+
+
+Micro
+
+
+Microbiology Research
+
+
+Micromachines
+
+
+Microorganisms
+
+
+Microplastics
+
+
+Minerals
+
+
+Mining
+
+
+Modelling
+
+
+Molbank
+
+
+Molecules
+
+
+Multimodal Technologies and Interaction (MTI)
+
+
+Muscles
+
+
+Nanoenergy Advances
+
+
+Nanomanufacturing
+
+
+Nanomaterials
+
+
+NDT
+
+
+Network
+
+
+Neuroglia
+
+
+Neurology International
+
+
+NeuroSci
+
+
+Nitrogen
+
+
+Non-Coding RNA (ncRNA)
+
+
+Nursing Reports
+
+
+Nutraceuticals
+
+
+Nutrients
+
+
+ Obesities
+
+
+Oceans
+
+
+Onco
+
+
+Optics
+
+
+Oral
+
+
+Organics
+
+
+Organoids
+
+
+Osteology
+
+
+Oxygen
+
+
+Parasitologia
+
+
+Particles
+
+
+Pathogens
+
+
+Pathophysiology
+
+
+Pediatric Reports
+
+
+Pharmaceuticals
+
+
+Pharmaceutics
+
+
+Pharmacoepidemiology
+
+
+Pharmacy
+
+
+Philosophies
+
+
+Photochem
+
+
+Photonics
+
+
+Phycology
+
+
+Physchem
+
+
+Physical Sciences Forum
+
+
+Physics
+
+
+Physiologia
+
+
+Plants
+
+
+Plasma
+
+
+Platforms
+
+
+Pollutants
+
+
+Polymers
+
+
+Polysaccharides
+
+
+Poultry
+
+
+Powders
+
+
+Proceedings
+
+
+Processes
+
+
+Prosthesis
+
+
+Proteomes
+
+
+Psych
+
+
+Psychiatry International
+
+
+Psychoactives
+
+
+Publications
+
+
+Quantum Beam Science (QuBS)
+
+
+Quantum Reports
+
+
+Quaternary
+
+
+Radiation
+
+
+Reactions
+
+
+Receptors
+
+
+Recycling
+
+
+Religions
+
+
+Remote Sensing
+
+
+Reports
+
+
+Reproductive Medicine (Reprod. Med.)
+
+
+Resources
+
+
+Rheumato
+
+
+Risks
+
+
+Robotics
+
+
+Ruminants
+
+
+Safety
+
+
+Sci
+
+
+Scientia Pharmaceutica (Sci. Pharm.)
+
+
+Sclerosis
+
+
+Seeds
+
+
+Sensors
+
+
+Separations
+
+
+Sexes
+
+
+Signals
+
+
+Sinusitis
+
+
+Smart Cities
+
+
+Social Sciences
+
+
+Societies
+
+
+Software
+
+
+Soil Systems
+
+
+Solar
+
+
+Solids
+
+
+Spectroscopy Journal
+
+
+Sports
+
+
+Standards
+
+
+Stats
+
+
+Stresses
+
+
+Surfaces
+
+
+Surgeries
+
+
+Surgical Techniques Development
+
+
+Sustainability
+
+
+Sustainable Chemistry
+
+
+Symmetry
+
+
+SynBio
+
+
+Systems
+
+
+Targets
+
+
+Taxonomy
+
+
+Technologies
+
+
+Telecom
+
+
+Textiles
+
+
+Thalassemia Reports
+
+
+Thermo
+
+
+Tomography
+
+
+Tourism and Hospitality
+
+
+Toxics
+
+
+Toxins
+
+
+Transplantology
+
+
+Trauma Care
+
+
+Trends in Higher Education
+
+
+Tropical Medicine and Infectious Disease (TropicalMed)
+
+
+Universe
+
+
+Urban Science
+
+
+Uro
+
+
+Vaccines
+
+
+Vehicles
+
+
+Venereology
+
+
+Veterinary Sciences
+
+
+Vibration
+
+
+Virtual Worlds
+
+
+Viruses
+
+
+Vision
+
+
+Waste
+
+
+Water
+
+
+Wind
+
+
+Women
+
+
+World
+
+
+World Electric Vehicle Journal (WEVJ)
+
+
+Youth
+
+
+Zoonotic Diseases
+
+
+
+
+
+Article Type
+
+
+All Article Types
+Article
+Review
+Communication
+Editorial
+Book Review
+Brief Report
+Case Report
+Comment
+Commentary
+Concept Paper
+Conference Report
+Correction
+Creative
+Data Descriptor
+Discussion
+Entry
+Essay
+Expression of Concern
+Extended Abstract
+Guidelines
+Hypothesis
+Interesting Images
+Letter
+New Book Received
+Obituary
+Opinion
+Perspective
+Proceeding Paper
+Project Report
+Protocol
+Registered Report
+Reply
+Retraction
+Short Note
+Study Protocol
+Systematic Review
+Technical Note
+Tutorial
+Viewpoint
+
+
+
+ 
+
+
+
+ 
+Advanced Search
+
+
+
+
+
+ 
+
+
+Section
+
+
+
+
+
+
+
+Special Issue
+
+
+
+
+
+
+Volume
+
+
+
+Issue
+
+
+
+Number
+
+
+
+Page
+
+
+
+
+
+
+
+
+
+
+ 
+
+Logical OperatorOperator
+
+AND
+OR
+
+
+
+Search Text
+
+
+
+Search Type
+
+All fields
+Title
+Abstract
+Keywords
+Authors
+Affiliations
+Doi
+Full Text
+References
+
+
+
+ 
+
+
+add_circle_outline
+
+
+
+
+remove_circle_outline
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+Journals
+
+
+Pharmaceutics
+
+
+Volume 14
+
+
+Issue 4
+
+
+10.3390/pharmaceutics14040831
+
+
+
+
+
+
+
+
+
+
+
+
+Submit to this Journal
+
+
+Review for this Journal
+
+
+Edit a Special Issue
+
+
+
+
+►
+▼
+Article Menu
+
+
+
+
+Article Menu
+
+
+
+Academic Editors
+
+
+
+
+
+Ana Beloqui García
+
+
+
+
+
+
+
+Maria Camilla Bergonzi
+
+
+
+
+
+
+Subscribe SciFeed
+
+
+Recommended Articles
+
+
+Related Info Links
+
+
+
+PubMed/Medline
+
+
+Google Scholar
+
+
+
+
+
+More by Authors Links
+
+
+
+on DOAJ
+
+
+
+
+Nakmode, D.
+
+
+
+Bhavana, V.
+
+
+
+Thakor, P.
+
+
+
+Madan, J.
+
+
+
+Singh, P. Kumar
+
+
+
+Singh, S. Bala
+
+
+
+Rosenholm, J. M.
+
+
+
+Bansal, K. K.
+
+
+
+Mehra, N. Kumar
+
+
+
+
+
+on Google Scholar
+
+
+
+
+Nakmode, D.
+
+
+
+Bhavana, V.
+
+
+
+Thakor, P.
+
+
+
+Madan, J.
+
+
+
+Singh, P. Kumar
+
+
+
+Singh, S. Bala
+
+
+
+Rosenholm, J. M.
+
+
+
+Bansal, K. K.
+
+
+
+Mehra, N. Kumar
+
+
+
+
+
+on PubMed
+
+
+
+
+Nakmode, D.
+
+
+
+Bhavana, V.
+
+
+
+Thakor, P.
+
+
+
+Madan, J.
+
+
+
+Singh, P. Kumar
+
+
+
+Singh, S. Bala
+
+
+
+Rosenholm, J. M.
+
+
+
+Bansal, K. K.
+
+
+
+Mehra, N. Kumar
+
+
+
+
+
+
+
+
+
+/ajax/scifeed/subscribe
+
+
+
+
+
+
+
+Article Views
+
+
+
+
+
+
+
+Citations
+-
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Altmetric
+
+
+share
+Share
+
+
+announcement
+Help
+
+
+format_quote
+Cite
+
+
+question_answer
+Discuss in SciProfiles
+
+
+thumb_up
+
+...
+
+Endorse
+
+
+textsms
+
+...
+
+Comment
+
+
+
+
+
+Need Help?
+
+
+Support
+
+Find support for a specific problem in the support section of our website.
+
+
+Get Support
+
+
+
+Feedback
+
+Please let us know what you think of our products and services.
+
+
+Give Feedback
+
+
+
+Information
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+Get Information
+
+
+
+
+clear
+
+
+
+
+
+
+
+JSmol Viewer
+
+
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+first_page
+
+
+settings
+
+
+Order Article Reprints
+
+
+
+
+
+
+
+Font Type:
+
+
+Arial
+Georgia
+Verdana
+
+
+
+
+
+Font Size:
+
+Aa
+Aa
+Aa
+
+
+
+
+
+
+
+Line Spacing:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Column Width:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open AccessReview
+
+Fundamental Aspects of Lipid-Based Excipients in Lipid-Based Product Development 
+
+
+by
+Deepa Nakmode 1, Valamla Bhavana 1, Pradip Thakor 1, Jitender Madan 1, Pankaj Kumar Singh 1, Shashi Bala Singh 2, Jessica M. Rosenholm 3, Kuldeep K. Bansal 3,* and Neelesh Kumar Mehra 1,*
+
+
+
+
+
+
+
+1
+Pharmaceutical Nanotechnology Research Laboratory, Department of Pharmaceutics, National Institute of Pharmaceutical Education and Research, Hyderabad 500037, India
+
+
+2
+Department of Pharmacology, National Institute of Pharmaceutical Education and Research, Hyderabad 500037, India
+
+
+3
+Pharmaceutical Sciences Laboratory, Faculty of Science and Engineering, Åbo Akademi University, 20520 Turku, Finland
+
+
+*
+Authors to whom correspondence should be addressed. 
+
+
+
+
+Pharmaceutics 2022, 14(4), 831; https://doi.org/10.3390/pharmaceutics14040831
+
+
+Received: 13 February 2022
+/
+Revised: 31 March 2022
+/
+Accepted: 6 April 2022
+/
+Published: 11 April 2022
+
+
+(This article belongs to the Special Issue Oral Drug Delivery Systems Based on Lipid-Based Carriers)
+
+
+
+
+Download
+
+
+Download PDF
+
+Download PDF with Cover
+
+Download XML
+
+Download Epub
+
+
+
+Browse Figures
+
+
+
+
+
+
+
+Versions Notes
+
+
+
+
+
+
+
+
+Abstract:
+Poor aqueous solubility of drugs is still a foremost challenge in pharmaceutical product development. The use of lipids in designing formulations provides an opportunity to enhance the aqueous solubility and consequently bioavailability of drugs. Pre-dissolution of drugs in lipids, surfactants, or mixtures of lipid excipients and surfactants eliminate the dissolution/dissolving step, which is likely to be the rate-limiting factor for oral absorption of poorly water-soluble drugs. In this review, we exhaustively summarize the lipids excipients in relation to their classification, absorption mechanisms, and lipid-based product development. Methodologies utilized for the preparation of solid and semi-solid lipid formulations, applications, phase behaviour, and regulatory perspective of lipid excipients are discussed. 
+
+
+Keywords: lipid excipients; bioavailability; poorly soluble drugs; lipid-based nanosystems; oral absorption; computational modeling
+
+
+
+
+
+
+
+
+
+
+
+
+ 1. IntroductionLipid-based drug delivery systems (LBDDS) are formulations consisting of drugs dissolved or suspended in the lipid excipients. LBDDS have been extensively explored for delivering lipophilic drugs, wherein lipids maintain the drug in the solubilized form [1,2]. LBDDS are usually formulated by the dissolution of the drug in the molten mixed lipids and emulsified with water to form a stable lipid system [3]. Solubility screening is most often performed for determining the best lipid excipients for a given drug. Surfactants are used to stabilize the lipid particles by reducing surface free energy or the interfacial energy of the solid particles, thus inhibiting aggregation. Lipid excipients also promote drug partitioning within the skin epidermal lipids and thus accelerate the penetration of drugs through and within human skin [4]. Physicochemical properties and absorption mechanism of the lipids make them different from other classes of carriers leading to substantial cost saving and availability to reach the market.In this review, we exhaustively cover the lipids excipients useful in formulation development with physicochemical and biochemical behaviour, along with the computational simulations in solubility prediction, phase behaviour, drug absorption and regulatory perspective [5,6]. Lipid excipients are mainly categorized as triglycerides (TG), mixed glycerides and polar oils, water-soluble and insoluble surfactants, co-solvents, and other additives. Ethanol, propylene glycol, glycerol, and polyethylene glycols-400 (PEG-400) are the commonly used co-solvents along with lipid excipients. Surfactants of intermediate hydrophilic-lipophilic balance (HLB) (8–12 lipid excipients, water-insoluble surfactants) that shows adsorption at the oil-water interfaces are available commercially. The lipid-based synthetic surfactant (including non-ionic surfactants), e.g., PEG-40 Hydrogenated castor oil, PEG-60 Hydrogenated castor oil, Polyoxyl 35 hydrogenated castor oil, Polyoxyethylene (20) sorbitan monolaurate and Polyoxyethylene sorbitan monooleate, Glyceryl monooleate, Caprylocaproyl macrogol-8 glycerides, Oleoyl polyoxyl-6 glycerides, and Linoleoyl polyoxyl-6 glycerides are widely used lipid excipients. The water-insoluble surfactant (Propylene glycol monocaprylate, Propylene glycol monolaurate, and Polyglyceryl-3 dioleate) and water-soluble surfactant (Polyoxyl stearate, Polyoxyethylene lauryl ether) has been widely used in the lipid-based formulations [7].The nature and type of lipids require further scrutiny since digestible lipids might have an impact on absorption in a different way than that of non-digestible lipids. Lipid vehicles classified based on the chemical structure, polarity of lipids, their characteristics, and the degree of interaction between water and lipids. The class of digestible lipids include phospholipids, fatty acids, cholesterol esters, and several synthetic derivatives [7]. The emulsifier has been classified based on the original nature and shown in Scheme 1. The various available lipid excipients in the lipid-based pharmaceutical product development are summarized in Table 1. 2. Lipid Excipients Used in the Pharmaceutical Product DevelopmentThe lipid excipients have promising potential in lipid formulation development and their uses are described in this section. 2.1. Glyceryl DibehenateGlyceryl dibehenate is obtained by esterification of glycerol with behenic acid. It is widely used in the development of lipid-based nanocarriers, e.g., solid lipid nanoparticles (SLNs), nanostructured lipid carriers (NLCs), and nanoparticles.Abdelbary and Fahmy prepared SLNs by utilizing a modified high shear homogenization process and ultrasonication technique, containing various concentrations levels of glyceryl dibehenate and glyceryl stearate. Glyceryl dibehenate and glyceryl stearate were added as lipid components. It was concluded that the glyceryl dibehenate formed bigger size SLNs along with higher entrapment and significant sustained release of diazepam compared to formulations with glyceryl stearate [21].Mancini and co-workers explored the application of glyceryl dibehenate in preparation of SLN for topical application. The SLNs were prepared using glyceryl dibehenate as solid lipid and Polyoxyethylene sorbitan monooleate as surfactant using the fusion emulsification method. A liquid (etofenamate) and a solid (ibuprofen) drug molecule is loaded into hydrogel prepared using 2% hydroxypropyl methylcellulose gel by gelation of SLN suspension. The encapsulation of the drug into lipid nanoparticles prevents drug leakage and also protects from external environment. The prepared formulations were found to be of suitable particle size (<250 nm) with encapsulation efficacy 90%. Also, SLN containing hydrogel showed increased drug permeation compared with marketed hydrogel formulation [22]. 2.2. DynasanThese pure mono-acid triglycerides are the glycerine esters of saturated, even-numbered, and unbranched single fatty acids like glyceryl trimyristate (Dynasan®114), glyceryl tristearate (Dynasan®118), and glyceryl tripalmitin (Dynasan®116) of plant source. Dynasan® can also be used as a component to regulate the release rate, depending on the concentration [23].Suvarna and co-workers prepared SLNs using various grades of dyanasan114, 116 and 118. SLNs were prepared by hot homogenization followed by ultra-sonication method. All the six SLNs were prepared using three lipids, each at two different concentrations. Characterization of SLNs was done by measuring particle size, PDI index (poly dispersity index) and zeta potential. By formulating the rosuvastatin calcium solid lipid nanoparticles, an increase in oral bioavailability by 2.2 times compared to a control suspension was observed owing to bypass the effect of first pass metabolism by following lymphatic transport pathway [24].Gamal and co-workers investigated domperidone-loaded SLN (DOP-SLN) for sustaining the drug release and to improve oral bioavailability. SLNs were prepared using hot homogenization followed by the ultrasonification technique using different solid lipids (glyceryl stearate, stearic acid, hydrogenated palm oil, and Dynasan118®). Prepared formulation was characterized physiochemically and evaluated for in vitro drug release and in vivo studies. The oral bioavailability of domperidone SLN prepared using dynasan 118 was around 2.62 times higher compared with conventional tablets. The pharmacokinetic profile in rats (male Wistar Albino rats) revealed that the optimized SLN controlled the absorption of DOP as compared with DOP conventional tablets [25]. 2.3. Glyceryl DistearateGlyceryl distearate constitutes of stearic acid and palmitic acid esters. It offers excellent anti-friction properties and is ideal for capsule filling as well for taste masking [26].Glyceryl distearate is widely used for taste masking mainly by using melt granulation technique and by matrix encapsulation. Forster and co-workers explored twin-screw melt granulation as a strategy for preparing taste-masked ibuprofen granules, using glyceryl distearate as lipid binder. The ibuprofen release from the granules was found to be slower compared with neat API and physical blend. Glyceryl distearate prevent dissolution by forming a physical barrier to dissolution, i.e., matrix encapsulation where drug is encapsulated in a lipid matrix, where a very small amount of the drug remains on the surface which is tolerable on dissolution into the saliva [27]. 2.4. Glyceryl CaprylateThese mono- and di-glycerides emulsifiers are prepared by the glycerolysis of particular oils, fats, and fractionated vegetable oil fatty acids used in lipid formulation. Kim & co-workers proposes the use of microemulsion formulation for increasing oral bioavailability of Rebamipide. A medium chain glyceride (glyceryl caprylate) was used as lipid phase, ethanol was added as co-surfactant, and polyoxyethylene esters of 12-hydroxystearic acid as surfactant. The microemulsion showed significant enhancement in the dissolution profile and oral bioavailability of Rebamipide without any intestinal toxicity [28].Bandivadekar and co-workers prepared self-micro emulsified drug delivery system (SMEDDS) with Atorvastatin calcium as a prototypical molecule, which was filled into HPMC capsules. Higher solubilization capacity for Atorvastatin (ATS) calcium was found with glyceryl caprylate amongst other lipids glyceryl monooleate, propylene glycol monocaprylate and propylene glycol monolaurate [29]. These experimentations have proven that the smaller volume oils possess a higher solubilizing potential and self-emulsification ability. 2.5. Non-Ionic Surfactant (Lauroyl Polyoxyl-32 Glycerides)The Lauroyl Polyoxyl-32 glycerides is a family of vehicles derived from mono-, di-, and triglyceride blends of fatty acid PEG esters. Lauroyl polyoxyl-32 glycerides can form microemulsion, i.e., emulsifying to a fine dispersion on contact with aqueous media. It is a non-ionic surfactant dispersible in water. Due to its surface-active property, it promotes enhancement in solubility and wetting ability of API both in vitro and in vivo. For topical formulations, it is used as a coherence agent (thickener) [30].In a study, Mura and co-workers optimized SLN and NLC formulation of hydrochlorothiazide suitable for paediatric therapy by overcoming the solubility and stability issues. Formulations were prepared using glyceryl distearate and diethylene glycol monoethyl ether as solid and lipid carrier based on solubility results. The impact of several surfactants, in various combinations and amounts, on particle size, homogeneity, and surface-charge of nanoparticles was thoroughly examined. The best formulations were chosen considering drug loading and entrapment efficiency, as well as release behaviour. The use of lauroyl Polyoxyl-32 glycerides as a surfactant instead of PluronicF68 (polyoxyethylene-polyoxypropylene block copolymer) or polyoxyethylene sorbitan monooleate in both the SLN and NLC series resulted in a significant particle size reduction (95–75 nm compared to roughly 600–400 nm), as well as an increase in entrapment efficiency and drug release rate. NLC showed better performance than SLN, with nearly 90% of the drug entrapped (vs. 80%) and more than 90% of the drug released after 300 min (vs. about 65%) [31]. 2.6. Caprylocaproyl Macrogol-8 GlycerideThe liquid caprylocaproyl macrogol-8 glyceride is a non-ionic oil-in-water surfactant, which is soluble in both oil and water. It has wide application in topical and transdermal formulation for its emulsifying and absorption enhancement property [32,33]. Zhou and co-workers observed an increase in resveratrol oral bioavailability attributable to inhibition of intestinal glucuronidation due to the use of caprylocaproyl macrogol-8 glyceride (labrasol) as a co-emulsifier. Nanoemulsion was prepared using soybean oil as an oily phase, soy lecithin as an emulsifying agent, and caprylocaproyl macrogol-8 glyceride as a co-emulsifier. In vitro absorption study was carried with everted sacs and the results suggested the effect of labrasol on UDP-glucuronosyltransferase inhibition has improved the transfer rate of resveratrol in the everted sacs and the AUC was found to be increased in labrasol nanoemulsion by 2.92 and 5.60-folds in vivo in comparison to negative control nanoemulsion. The superior output of nanoemulsion in the presence of UDP-glucuronosyltransferase inhibitory excipients was attributed to the inhibition of intestinal glucuronidation [32]. 2.7. Medium Chain TriglyceridesThey offer excellent spreadability on the skin and better skin absorption. Caprylic/Capric Triglyceride is used as an emollient, penetration enhancer, drug carrier, solvent, for oral and dermal formulation. The composition of self-emulsified drug delivery system (SEDDS) blend (oil phase) contained CsA, polyoxyethylated castor oil, diethylene glycol monoethyl ether and capric triglyceride. Coating of ethylcellulose and pectin polymers of varying thickness were applied at a low, medium, and high level on SmPill minispheres. Bioavailability obtained from SmPill minispheres was compared with marketed Neoral® PO and Sandimmun® iv of CsA using pig model, after oral administration [34].In a study, the nanogels that contained methotrexate (MTX)-loaded nanostructured lipid carrier (MTX-NLC) prepared using hot-homogenization. The lipid component constitutes capric triglyceride and glyceryl distearate was used whereas poloxamer 407 was used as a surfactant. Slow and prolonged release of MTX at the end of 48 h (47.32 ± 0.94 percent) compared with methotrexate gel (94.23 ± 0.79 percent) was shown by optimized formulations of MTX-NLC gel. Besides, with the normal recovery of the skin of mice, MTX-NLC gel significantly reduced the Psoriatic area and Severity index (PASI) score [35]. 2.8. Glyceryl StearateThe glyceryl stearate with approximately 40%–55% monoester works as co-emulsifier and consistency enhancer in o/w emulsions. Prombutara and co-workers prepared SLNs filled with nisin using high-pressure homogenization to protect from the food environment and to prolong its effect in vivo (slow release). The evidence of antibacterial activity of nisin-loaded SLNs against listeria mono-cytogenes DMST 2871 and lactobacillus plantarum TISTR 850 was observed for up to 20 and 15 days compared to only 1 and 3 days for free nisin, respectively [36]. 3. Absorption of Lipid FormulationsThere are three different major pathways for absorption of lipidic formulations by the body namely lymphatic transport, enterocyte-based drug delivery, reduced pre-systemic absorption. When it comes to orally given lipid nanoparticles (LN), there are two basic digestion and absorption pathways. Lipolysis has been postulated as the primary mechanism of ingested LN in certain investigations. The LN will be digested by lipases and co-lipases after oral delivery, and then converted into mixed micelles for absorption, whereas on the other hand, some studies have discovered that LN can be taken up and delivered as intact nanoparticles across the GI tract [37]. 3.1. Lymphatic Transport MechanismCompounds absorbed via the intestinal lymph shows an increase in bioavailability due to the existence of lipids including both dietary lipids and the lipids presented in formulations. They are transported along with long-chain TGs (triglyceride) lipid centre of intestinal lipoproteins, which are produced in enterocytes after the re-esterification of free fatty acids (FFA) and medium-chain glycerides [38,39]. On the walls of lymphatic capillaries, a single layer of squamous epithelial cells is present, and this thin wall allows tissue fluid (interstitial fluid) or drug to pass through interstitial space to the lymphatic capillaries. Besides, the endothelial lymph vessel structure enables the selective transport of high molecular weight substances such as chylomicrons. The access of chylomicrons through the blood is limited by capillary endothelium. In lymphatic drug transport, the free fatty acid (FFA) chain length and composition of the lymph lipid precursor pool in the enterocyte, play a major role. FFA with a chain length of <12 carbons are normally absorbed through the portal blood, while FFA with a chain length of >12 carbons are re-esterified and transferred through the intestinal lymph. Furthermore, an increasing degree of unsaturation creates the larger size lymph lipoproteins, which leads to the selective enhancement of lymphatic uptake [40,41]. For instance, Hauss and coworkers prepared SEDDS formulations of ontazolast (a potent inhibitor of calcium ionophore), composed of glyceryl monooleate and lauroyl polyoxyl-32 glycerides, and reported that the total amount of ontazolast transported by the lymph over 8 h was almost three times as compared to the control suspension formulation [42]. 3.2. Enterocyte-Based Transport MechanismsFatty acids and di-glycerides follow enterocyte-based transport mechanisms such as persorption, receptor-mediated transcellular pathways, and para-cellular pathways via the tight junction [41]. Figure 1 emphasizes the mechanism of enterocyte-based transport, which includes three possibilities [43]. Paracellular transport (I)—Drug particles are transported directly through intracellular spaces such as tight junctions. In addition, tight junctions make only roughly 0.1 percent of the intestine’s total absorption surface area.Receptor-mediated Transcellular transport (II)—It occurs mainly by transcytosis, which is initiated with endocytosis process. Endocytosis is a biological process that involves the transport of extracellular materials into the cell via membrane vesicles. The process begins when nanocarriers binds to the receptors located on the apical membrane, particles are then carried through the cells before being discharged on the basolateral side [37].Persorption (III)—Extrusion of dead enterocytes from epithelial layers produces holes, which leads to passage of intact particles via holes and this process is known as persorption. Same of the studies have reported GI uptake of numerous big particles by persorption [37].Numerous lipid-based surfactants used in the lipid-based formulation indirectly inhibit efflux pumps, i.e., p-glycoprotein (p-gp) by affecting the lipid membrane and thereby improving intestinal permeability and oral drug absorption [44]. These inhibitor surfactants include polyoxyl-35 castor oil, polyoxyethylene esters of 12-hydroxystearic acid, polysorbates, PEG esters such as caprylocaproyl polyoxyl-8 glycerides, PEG-6 caprylic and PEG-50 hydrogenated palm glycerides [45,46].
+
+
+
+
+
+
+
+Figure 1.
+Representation of drug absorption via an enterocyte-based transport mechanism. I—Paracellular transport, II—Receptor-mediated transcellular transport and III—Persorption.
+
+
+
+
+ Figure 1.
+Representation of drug absorption via an enterocyte-based transport mechanism. I—Paracellular transport, II—Receptor-mediated transcellular transport and III—Persorption.
+
+ 3.3. Reduced Pre-Systemic Drug Metabolism MechanismSome fatty acids products of lipid-excipients digestion absorbed into the enterocytes are reported to inhibit pre-systemic enzyme activity, which results in a high cellular concentration of the drug [47]. By reducing pre-systemic metabolism, inhibition of CYP enzymes in the intestinal epithelium and liver can significantly influence the bioavailability of drugs that are substrates of these enzymes. The activity of CYP3A4 is mainly inhibit by presence of polyoxyethylene sorbitan monooleate and PEG 400 and thus affected the active drug’s metabolism. Poly-unsaturated-based lipid drug delivery inhibits CYP enzymes in the human body. Therefore, it reduced pre-systemic drug metabolism inside the body and polyunsaturated fatty acid was a potent inhibitor of CYP2C9 and CYP2C19 enzymes [48]. 4. Methodologies for the Formulation of Solid and Semi-Solid Lipid-Based FormulationsThe variety of commercially available lipid excipients has aided formulation designs for LBDDS, which typically function by increasing the oral absorption of the poorly aqueous soluble drugs by formulating emulsion, microemulsion, and vesicular systems. In the last few decades, the conversion of liquid-based formulation to solid dosage forms has been explored, and now it has been thoroughly investigated as the vital subject of pharmaceutical research with in-depth knowledge. Since, for the stabilization of lipid colloidal systems, solidification is the most feasible method, which eliminates the stringent processing requirements related to liquid systems. 4.1. Filling into Capsules (Encapsulation)Hard gelation comprises a lipophilic vehicle, viscosity modifiers for improving the viscosity of liquid vehicles, lipid solubilizer, surfactants, emulsifiers, and absorption enhancers. Lipid vehicle includes arachis oil, cottonseed oil, maize oil, and olive oil, etc. Lipophilic liquid vehicle modifiers include hard fat, emulsifiers, solubilizers, surfactants, and adsorption enhancers. These excipients are compatible with hard gelatin capsules. Softgel fill formulation comprises lipophilic vehicles, which include free fatty acids ( FFA), e.g., fatty acids esters of hydroxyl compounds and oleic acid. The lipid-filled systems consist of drugs dissolved or dispersed in the individual or mixture containing oil, surfactants, and co-solvents. These formulations strategy usually applied for highly lipophilic compounds or potent drugs (with log P > 4) [49,50].For the soft gel fill formulation, the hydrophilic vehicles include PEGs, methoxy-polyethylene glycols, transcutol, propylene carbonate, tetrahydrofurfuryl alcohol, glycerin, ethanol, N-methyl-2-pyrrolidone, and water. The limit for usage of ethanol, water, and propylene glycol is <10% concentration of the complete formulation fill, since they act as a plasticizer for the capsule shell and can migrate out of the shell [51]. Likewise, the usage of PEG 200 and 300, which are low molecular weight PEG is limited because of their capability of diffusing into the shell besides acts as gelatin plasticizer [52]. A diffusion level of the PEG into the shell from the fill formulation decreases as the molecular weight increases. There is a constraint for the addition of the volatile components (e.g., ethanol) into formulations because they quickly diffuse through shell material or from other filled components that are permitted in the formulation [50].Heating of reservoir containing solid or semi-solid lipid excipients and retaining formulation in the molten state along with the stirring is requisite before filling. It will help avoid separation of phases and prevent sedimentation if the drug is in the dispersed form. This technique has been explored in the manufacturing of several drugs into soft gelatin capsules (e.g., Bexarotene, calcitriol, dutasteride, lopinavir, nifedipine, nimodipine, and tipranavir) or hard gelatin capsules (e.g., cyclosporin A, ibuprofen, indomethacin, and tolterodine) [53]. The advantages of filling LBDDS in capsules includes straightforward process of formulation, low dose drugs (highly potent) can be filled suitably; and up to 50% w/w drug loading is possible. 4.2. Conversion of Liquid Lipid to SolidsThe liquid lipid formulations can be converted to free-flowing powder by adsorption of the lipid formulation on top of solid carrier material. The adsorption method is a simple addition to carriers and involves mixing the liquid preparation with the carrier. The adsorption process is a simple addition onto carriers and includes blending of the liquid formulation with the carrier. The carriers used for solidification are, e.g., calcium silicate, SiO2, carbon nanotubes, and neusilin®. The selection of the carrier is dependent on its capacity to absorb significant amounts of liquid excipients (to allow high loading of drugs and high exposure to lipids). The resultant free-flowing powders can be filled directly into capsules or instead mixed with suitable excipients for compression into tablet dosage form [53].Solid carrier acts by direct adsorption of liquid formulation or by the encapsulation of lipid colloids, which are in the dispersed form before drying. Generally, the water-insoluble (highly porous silica-based carriers) and water-soluble (such as polymeric, protein, and polysaccharide) carriers are used as a solid carrier for absorption of a liquid. Solid carriers, such as water-insoluble, silica-based adsorbent highly porous in nature (Flourite RE 7.429 60 20 Neusilin US2 7.429 60 30 Sylysia 320) and water-soluble polysaccharide-based, polymeric, and protein-based carriers are widely used. Good content uniformity and the likelihood of high lipid exposure, for example, up to 70% w/w of SMEDDS absorption have been recorded to suitable carriers, which is a significant advantage of the adsorption process [54].SMEDDS thermotropic stability and high drug loading efficiency make them a promising method for low-water solubility drugs, forming small-sized particles. The process is simple and required minimum investment in equipment and more importantly, aids formulation of the tablet, which is globally the most acceptable dosage form [55].Solidification of lipid colloidal systems is the most acceptable means for the stabilization, with the elimination of strict handling necessities related to liquid formulations. Other advantages of solidification include: (i) Reduced volume of administration if liquid emulsion or suspension consisting of greater than 50% water is converted to the dry powder. It can either be filled into a single capsule or the tablet can be compressed. (ii) Dosage precision is improved, e.g., compared to administration of suspension using a syringe or spoon, pre-encapsulation of the total dose into capsule or tablet offers accurate dosing. (iii) Easy transfer and storage [56,57,58]. 4.3. Carriers Used for the Solidification of Lipid FormulationsSilica-based carriers are biocompatible, chemically inert, and retain stealth properties [59], and thus evaluated for the formulation of dry emulsion, silica lipid hybrid (SLH) microparticles, and solid SMEDDS [60]. Several amorphous silica or silicate products are available commercially based on varying particle size and porosity (or specific surface area) [61]. The physical adsorption approach is followed with the silica-based carriers for liquid lipids solidification (by simple blending method). Using silica-based carriers, dry emulsion and SLH microparticles are formulated, which are stated to include 30–55% of lipid content and are easily converted into tablet formulation with acceptable tablet friability, hardness, and disintegration. Along with tablet forming aids, the addition of film former and disintegrants is required for ensuring tablets having good matrices and disintegration [62]. Solidification of the lipidic formulation is beneficial using silica-based carrier but the therapeutic activity of parent compound was decreased using these types of solid carriers.Polysaccharides (carbohydrates)-based carriers have been widely used in food and pharmaceuticals as a sweetening agent, coater, bulking agent, thickness enhancer, binders for tablet, diluents and directly compressing agent. Solid carriers of this class are known for the creation of pro-vesicular formulations essentially owing to cryo-protection property. Nevertheless, the nature of solid carriers (crystalline and hygroscopic) must be taken into consideration while designing the formulation. While processing the polysaccharide-based carriers by spray-drying, lyophilization, and rotary evaporation technique, it is possible that carriers could undergo either partial or complete conversion to the high-energy amorphous form [63].Polymers soluble in aqueous media shows great solubilization potential for lipophilic compounds. Poloxamers, HPMC, carboxymethylcellulose (CMC), poly-methacrylate, and polyvinyl pyrrolidone (PVP) are some examples of the polymeric carrier. Some polymers act as inhibitors for drug precipitation or promoters of supersaturation. In a study, a low-water-soluble drug Docetaxel (DTX) was loaded in the solid supersaturable SEDDS (DTX-S-sSEDDS) to improve the aqueous solubility and oral bioavailability of poorly soluble drug. This supersaturable SEDDS comprising of the Labrafac, Cremophhore RH 40, Transcutol P and HPMC along with solid carriers. In conclusion, SEDDS shows the improved dissolution and bioavailability of the poorly soluble drug Docetaxel [64,65]. 4.4. Advanced Formulations Based on Lipids 4.4.1. Self-Emulsifying Drug Delivery SystemsSelf-emulsification term is self-explanatory and defines the system’s ability to emulsify the oil phase due to the presence of one or mixture of surfactants. Self-nano emulsifying drug delivery systems (SNEDDS) or SMEDDS are classified based on the droplet size. In a given example, Benznidazole (BZ) loaded SEDDS formulations were prepared for improving the bioavailability of the same. The formulation was prepared using capric triglyceride: propylene glycol monocaprylate: soybean phospholipids (Lipoid® S75): caprylocaproyl polyoxyl-8 glycerides: N-methyl pyrrolidone in (30:15:20:15:20) (% v/v) ratio where capric triglyceride was used as oil phase, propylene glycol monocaprylate and caprylocaproyl polyoxyl-8 glycerides as a surfactant, and N-methyl pyrrolidone as co-solvent. Approximately 100% of BZ was released into simulated gastric fluid (SGF) media within 6 h in BZ-SEDDS formulation. BZ-SEDDS formulation has shown a better absorption profile compared to suspension of crushed tablets [66]. 4.4.2. Vesicular Drug Delivery SystemsLiposomes have spherical bilayer structures, which in their arrangement resemble the cell membrane. The lipids mainly used are phospholipids with a hydrophilic head and a hydrophobic tail, which are amphiphilic (fatty acid) [67]. In liposome, amphiphilic phospholipid molecules are arranged in a closed spherical bilayer with fatty acids components facing other molecules. Lipid-soluble drugs are surrounded in “fatty” regions, whereas water-soluble components can be encapsulated in the aqueous core of these globular vesicles [68,69].Transferosomes are modified liposomes, which have the capability of crossing stratum corneum (SC) and penetrating deep into the skin [70]. Transferosomes are the second generation of versatile liposomes with phospholipid and edge activator combinations., e.g., sodium cholate, deoxycholate, and di-potassium glycyrrhizinate. An edge activator typically requires one chain surfactant, which results in the vesicle’s fat bilayer becoming destabilized and improves vesicular fluidity and elasticity. Transferosomes, under the influence of a cross-sectional water gradient, are ultra-deforming or ultra-flexible liposomes that quickly cross the skin. It has been a well-known that, due to the less vesicle material found in the deeper skin layer, liposomes have been restricted to the outer skin layers, i.e., stratum. Hence, different vesicular structures, e.g., transferosomes and ethosomes are formulated where due to their versatile nature such intact vesicles improved penetration to the deeper skin layers [71,72,73]. 4.4.3. Solid Lipid Nanoparticles (SLNs)SLNs resemble solid lipid core, which is stabilized by surfactant in the aqueous phase. Lipid core comprises either single solid lipid or mixed solid lipids at 0.1% to 30% w/w level disperse in the aqueous phase. The addition of surfactant ensures the stability of the system added at the level commonly from 0.5% to 5% w/w. Advantages of SLNs include resistance to degradation, sustained drug release, and biocompatibility [74]. Fabrication of the SLNs can be done using a range of lipids, which share some common characters such as high melting point and solidness at ambient and body temperature. Lipids explored for fabrication are mono stearin, stearyl alcohol, cetyl palmitate, glyceryl distearate, glyceryl dibehenate, and glycerol monostearate. Poloxamers 188, and dimethyl dioctadecyl ammonium bromide (DDAB) are the most used surfactants in SLN preparation [75]. 4.4.4. Nanostructured Lipid Nanocarriers (NLCs)They are new generation lipid nanoparticles comprised of a combination of solid lipid and liquid lipids to obtain higher payloads. NLCs improve loading efficiency, stability and prevent the burst release of drugs [76]. Like SLNs, NLCs also offer controlled release for the active moiety along with protection from light, oxidation, and hydrolysis. Besides, NLCs show good biocompatibility and tolerability [77,78]. 4.4.5. Mixed MicellesThese types of micelles comprised several molecular species. Mixed micelles resemble a lipid bilayer and show a disc-like structure. Using 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine (POPC) and cholate. Mastrogiacomo and co-workers synthesized mixed micelles filled with lycopene-rich oleoresin (LRO) antioxidants using two slightly different procedures. To generate vesicles of well-defined lamellarity and size, micelle to vesicle transition (MVT) method was employed. The antioxidant capacity of preparations was assessed by calculating the radical scavenging activity of 2,2’-azino-bis(3-ethylbenzothiazoline-6-sulphonate) against the colored radical cation (ABTS). Significant information was obtained on the reliability of different approaches for the evaluation of the antioxidant potential of micelle and liposome preparations and the effective incorporation of LRO antioxidant strength in a bio-deliverable water-dispersed form was shown [79,80,81]. 4.4.6. Lipid Drug Conjugates (LDC)LDC are lipid prodrugs that contain a lipid moiety covalently linked to the drug [82]. Lipid drug conjugate benefits include controlled release of drugs, targeted release of drugs, augmented intestinal permeability, and improved bioavailability. The permeability of drugs incorporated into lipids and stabilized using surfactants is high, since both acts as good drug permeation enhancers in the GIT. Some of the surfactants have the intrinsic property of enhancing intestinal permeability of drug by inhibiting p-gp efflux, which is used for stabilization of the LDC nanoparticles. The LDC nanoparticles show superior loading capacity for nicotine (about 50%) compared to non-LDC SLN (less than 10%), e.g., Berga Care SmartLipids® [83]. 5. Gaps and Limitations in Development of Lipid-Based ProductsWhile entering into the development, most pharmaceutical companies initially design the pre-formulation and developmental packages for their molecules [84]. This not only helps in assessment of development risks, also provide input into the project plan, including estimated timelines and costs. It provides preliminary direction to the scientific disciplines that will work on the compound during the development phase. Stressed stability testing is a most important investigation, which is used as a warning sign of possible excipient compatibility problems [85].When it comes to the compounds that are sensitive to oxidation, it is common perceptive that the lipid-based formulations are less optimized because they may contain traces of peroxides that catalysis their degradation. It creates difficulty to acquire required shelf-life of the formulation for supporting the pre-clinical and clinical studies. Generally, two years stability is needed for a commercial product. Although this viewpoint is valid in theory, there are no documented antioxidants that can be added in formulations to prevent this degradation, and it is a general practice in the pharmaceutical industries to check the degradation pattern of lipid based formulation. Nonetheless, reliable testing methods are still crucial, as the relationship between the stability derived from more representative and less stressful parameters like ICH stability conditions, in relation with lipid-based formulations, is mainly unclear [86].In addition, several parameters are involved in the formulation approach for a new therapeutic molecule in an industrial setting. Solubility analyses is naturally one of the most important investigations, to check if lipid-based excipients have an ability to dissolve the compound. Additionally, stress stability testing results indicate that the drug is generally stable against oxidation, and lipids can be chosen as an excipient. The decision to use a lipid-based formulation would be heavily influenced by the company’s experience as well as stated scientific and production platforms. Thus, defining meaningful formulation composition for the molecule, is not adequately illustrated in public domain. The description of development stories and how to define their composition can provide insight into how to reduce risk perception. For in vitro and in vivo studies, the necessary in vitro characteristics in design of lipid-based formulation for identifying optimized formulation composition as well as relevant quality methods is needed to be explored. More insights are needed into which animal species should be used for study of lipid-based formulations. 6. Characterization of Lipid-Based Product DevelopmentThe lipid-based product development are the critical and complex product development involve multi-unit operation and critical process parameter (CPP) and critical quality attributes (CQAs) [87] to complete the quality target product profile (QTPP) as per the regulatory approval requirements. The exhaustive characterization is an important aspect of the product development. Various parameter like appearance (colour, odour taste), sterile, pH, particle or droplet size, SPAN value, d10, d50, d90, morphology, lipid contents, encapsulation or drug loading efficiency, assay of drug substances, residual solvents content [88], rheology, viscosity, osmolality, related substances, heavy metals, and elemental profile are crucial in designing. Currently in complex product development, extractable and leachable (E & L) profile of the formulation is a regulatory requirement . Physical stability can be checked by particle size and zeta potential measurement. The SPAN value can be calculated by using [(d90 − d10)/d50] through the particle size measurement equipment and the polydispersity index (PDI), zeta potential can be determine using the dynamic light scattering (DLS) [89] or photon correlation spectroscopy techniques. The surface topography and morphology can be measured by the electron microscopy [90] or atomic force microscopic technique. In lipids-based formulation lipid/excipients ratio and lipid contents is very crucial to determine and can be analyzed by the HPLC, gel permeation chromatography, etc. X-ray powder diffraction (PXRD) for studying polymorphic transformation or crystallinity of the lipid excipients [90]. In vitro studies for evaluation of permeability of oral [91] and topical formulations [90], and in vivo studies are also important characteristics, which need to be established.The thermal behaviour of the lipid, excipients, polymer and active pharmaceutical ingredients (API) can be determine using the thermal techniques such as Thermal gravimetric analysis (TGA), Differential scanning calorimetry (DSC) [88]. The stability of the lipid-based product to ascertain the shelf-life, degradation behaviour and expiry date with storage condition is required as per the ICH guidelines to mention on the leaflet of the product. Additionally, the various critical evaluation parameters of the container-closure system to pack the product need to be perform as per regulatory requirements. 7. Application of Lipid Excipients in Lipid-Based Drug Delivery SystemsThe various lipid excipients, which offer numerous applications in delivery of drug have been summarized in Table 2. 7.1. Enhancement of Oral BioavailabilityLipid-based formulations provides an advantage of increased oral bioavailability of poorly aqueous soluble drug using various mechanism. Rifampicin and isoniazid are first-line anti-tuberculosis (anti-TB) medications typically used for tuberculosis therapy. However, isoniazid hastens the hydrolytic degradation in the acidic atmosphere of rifampicin’s poorly absorbed 3-formyl rifamycin SV (3-FRSV) derivative. Further 3-FRSV reversibly reacts with isoniazid and leads to the formation of isonicotinyl hydrazone. The amount of rifampicin remaining for absorption after oral administration is lower, therefore the low oral bioavailability of these anti-TB drugs is reported. The SLNs loaded with anti-TB drugs have enhanced the drug stability in gastrointestinal (GI) environment, besides by-pass first-pass metabolism. Thus, resulting in oral bioavailability improvement by reducing systemic side effects due to decreased dosing frequency [106]. 7.2. p-gp Efflux Inhibitionp-gp is a trans-membrane protein located at the apical surface of enterocyte, and is responsible for efflux of compounds. The in vivo studies have shown that p-gp is determinant of extent of oral absorption [107]. Surprisingly, the number of excipients, which are used in the formulation of SNEDDS, has a potential to hinder p-gp efflux activity. Furthermore, the entrapment of the drug molecule which is p-gp substrate in the oil droplets would protect the molecule recognition by p-gp transport [100].The candesartan cilexetil loaded SNEDDS was prepared using peppermint oil, caprylocaproyl polyoxyl-8 glycerides and PEG-40 hydrogenated castor oil to increase the intestinal oral bioavailability by p-gp transporter inhibition. The optimized and successful formulation comprising of peppermint oil 55% w/w; PEG-40 hydrogenated castor oil 25% w/w and caprylocaproyl polyoxyl-8 glycerides 20% w/w, which depicts the best emulsification properties. The optimized formulation shows the prolonged control of blood pressure up to 24 h of hypertensive animal model due to enhanced absorption by opening tight junction and efflux pump inhibitor for more drug absorption. It shows the rapid reduction of systolic blood pressure (136 ± 6.7 to 89 ± 14.6 mm Hg in initial 2 h and depicting the superior activity. Compared to the revolutionary product (ATACAND® tablets), the SNEDDS successfully increased the oral bioavailability of candesartan by 1.69-fold [108]. 7.3. Enhanced PermeationNiosomes is a vesicular system commonly used for lipid-based transdermal drug delivery. By changing the structure of the stratum corneum (sc), lipid nanocarriers enhance the drug permeability through the skin [109]. These formulations could prolong the release of drugs thus acts as a drug reservoir, which releases drugs at a steady state. The permeability may be enhanced due to the presence of a larger amount of non-ionic surfactant in niosomes. Improvement in permeability and anti-psoriatic activity was observed for lipophilic celastrol loaded niosomes hydrogel.Niosomal formulation has been explored in the topical delivery of resveratrol for the pain-related disorder. Thin-film hydration and ether injection methods were employed for niosomes preparation, using surfactant (sorbitan oleate) at three different concentrations. The particle size was observed in range from 214.0 to 331.9 nm Resveratrol was entrapped into niosomal gel, prepared by gelling with carbopol 934. The % entrapment efficiency was reported in the range from 59.2 ± 1.55 to 67.2 ± 1.17 and 46.4 ± 1.21 to 49.6 ± 1.30 for thin film hydration (TFH) and ether injection method (EIM), respectively. The in vitro release studies, ex vivo permeation, and dermokinetic study results showed the potential of the formulation for better cutaneous delivery of resveratrol compared to the plain drug. Resveratrol trapped niosomal gel was found to minimize edema in pharmacodynamics experiments and has extended therapeutic activity relative to the marketed anti-inflammatory gel formulation [80]. 7.4. PhotostabilityBeing highly photosensitive, Resveratrol readily undergoes degradation upon exposing to light. Encapsulation of resveratrol in lipid could protect the drug against photo-degradation. Pandita and coworkers prepared and extensively characterized resveratrol loaded stearic acid-based SLNs (RLNs) coated with poloxamer 188 by the process of solvent diffusion-solvent evaporation. After 6 h of UV-A irradiation, the drug content in RLNs (86 percent) was considerably higher than the drug solution (36 percent). The findings showed that resveratrol lipid encapsulation effectively protected the drug from photodegradation for a longer period [110]. 7.5. DNA DeliveryLipid formulations are promising in oral delivery of both hydrophilic and lipophilic drugs including DNA delivery. Lipoplexes are examples of a complex of DNA with liposomes used in non-viral gene therapy. Lipoplexes (cationic liposomes) are non-viral (synthetic) lipid carriers of DNA. Due to their positive surface charge, they may form complexes (spherical and continuous bilayer structures) with negatively charged DNA [111]. 8. Administration Routes of Lipid-Based Formulation 8.1. Oral DeliveryParticle size has strong influence on the uptake of non-soluble particulate matter through the digestive tract. Microparticles in the gut lumen can release drug, which are then absorbed into the body by persorption. The absorption of NPs, on the other hand, has piqued the interest of researchers working to find effective carriers for oral absorption of drugs that are either poorly absorbed or sensitive to gastrointestinal degradation [112]. Schultz and co-workers explored the supersaturation technique for improve the drug loading in lipid-based formulations. Thus, the silica-lipid hybrids are solid lipid-based formulations developed mainly for improving an oral delivery of poorly soluble drugs. They prepared supersaturated silica-lipid hybrids using poorly water-soluble ibuprofen (IBU), based on solubility in lipids propylene glycol monocaprylate was selected as the lipid, lipid and silica were used in 1:1 ratio for loading ibuprofen. The drug loading of 8–44% w/w was achieved, which was greater than previously developed ibuprofen silica-lipid hybrids (5.6% w/w). It was discovered that a new fabrication method for supersaturating SLH (silica–lipid hybrids). The IBU load was higher than previously reported, indicating a considerable advancement in overcoming the IBU loading limitation in solid-state LBFs. When compared to pure ibuprofen, Super-SLH produced higher rates and extents of dissolution, regardless of the drug content. At 60 min, the percentage increase in dissolution extent ranged from 200 to 600 percent. The current study’s findings shows that supersaturation increases drug loading and that 16–25 percent w/w is the optimum loading level for ibuprofen oral administration while maintaining good dissolving behaviour, which might be applied to other poorly water-soluble medicines [113].Buparvaquone (BPQ) used in treatment of Visceral Leishmaniasis available in market as I.M. injection, but the orally administered formulations have limited success. Lindsay and co-workers investigated the formulation of buparvaquone SNEDDS for oral delivery. The prepared formulation consisting of buparvaquone, oleoyl macragol-6 glycerides as oily solubilizer, co-surfactant propylene glycol monocaprylate and caprylocaproyl macragol-8 glycerides as surfactant in ratio of 0.01:3:1:5.99. The prepared SNEDDS were obtained with high drug loading and with 6 months stability. The in vitro studies were carried out using flow through cell apparatus and the vitro-lipolysis test revealed that the SNEDDS has increased the solubilization capacity of buparvaquone in GI media. The prepared SNEDDS demonstrated enhancement in oral bioavailability comparative to the aqueous dispersion of drug (Male CD-1 outbred mice) resulting in AUC0-24 that are four folds. The addition of caprylocaproyl macragol-8 glycerides as surfactant has proved the ability of surfactant to enable diffusion through mucous layers [114].Olmesartan is a BCS class II drug with poor aqueous solubility. Pandya and co-workers prepared Olmesartan medoxomil loaded SLNs with the objective of enhancing the oral bioavailability of the drug. SLN were developed utilizing a heat homogenization process. The formulation variables lipid (Glyceryl monostearate) and surfactant were optimized using central composite design (Poloxamer 407: polyethylene sorbitan monooleate). The optimized SLN formulations were of nanometric particle size (121.20 ± 3.5 nm) with spherical in shape with high zeta potential indicating good long-term stability. The controlled release profile of olmesartan loaded SLN was seen for at least 24 h in vitro. The rate and extent of drug diffusion were investigated using dialysis sac, rat stomach, and intestine tissues. The results showed that drug release from SLN was much higher than drug suspension. When compared to commercial formulations, in vivo pharmacokinetic studies using olmesartan loaded SLN exhibited greater Cmax of 1610 ng/mL, and enhanced relative bioavailability by about 2.3 times. It would seem reasonable that SLNs, due to their small particle size and sustained release, might be easily absorbed from the duodenum to the lymph, allowing the drug to enter the systemic circulation and produce the desired therapeutic effect [115]. 8.2. Topical DeliveryTopically applied drug-loaded nanoparticles are mainly intended for local effect, to prevent the drug administration systemically, and to lower the amount of dose required to reach therapeutic level at the targeted site, i.e., skin thereby reduces the off-target effects [112]. The stratum corneum (SC), the epidermis’ outermost sublayer and a physical barrier to substances contacting the skin, is a critical issue in cutaneous delivery. For overcoming the absorption constraint caused by SC, suitable carrier systems for topical administration of multiple drugs are required.Maghrabi and coworkers [116] developed the Miconazole nitrate (MN)-loaded solid lipid nanoparticles for topical delivery to increase the effectiveness against the fungal infection. MN loaded SLNs were prepared by using high shear homogenization technique. The prepared formulations were evaluated for entrapment efficiency (EE), poly dispersity index (PDI), particle size and zeta potential. Finally, the optimized formulation containing gelucire 39/01: GMS(glycerol monostearate) 1:1 ratio as lipid, PEG-40 hydrogenated castor oil (5%) as surfactant and transcutol as co-surfactant (1%) showed particle size range 244.2 ± 27.2 nm to 493.6 ± 35.3 nm, EE up to 95% and SLNs were of spherical shape. Later, formulation was evaluated for in vitro release, ex vivo studies, skin toxicity test and anti-fungal activity. The in vitro release studies showed controlled release profile up to 48 h. The optimized formulation showed higher miconazole nitrate flux in the skin compared to MN solution in ex vivo studies. Furthermore, when compared to a simple MN solution, selected MN-SLN exhibits a larger zone of inhibition against Candida albicans. MN-SLN showed the lowest skin toxicity value. Furthermore, compared to MN-solution on immune-suppressing albino rats with generated candidiasis fungal infection, the selected MN-SLNs significantly reported antifungal efficacy with the least histological improvements [116].Hamed and co-workers combined the two systems, the microemulsion and the organogel to explore the application of this combined system in the delivery of lipophilic drug Lidocaine. The O/W type microemulsion was prepared by dissolving lidocaine in oil phase and the emulsion was stabilized by using lipid surfactant. The oil droplets were reduced to submicron size to improve the skin penetration. The prepared microemulsion was gelled using glyceryl behenate as organogelling agent. Based on the droplet size and physical stability of microemulsions, optimised formulations of lidocaine microemulsions with oil, water, and surfactant:cosurfactant (polyethylene sorbitan monolaurate:ethanol) at 4:1 and 2:1 v/v were chosen. As a control, Lidocaine standard organogel was made without the inclusion of microemulsion. Lidocaine organogels rheological characteristics and release profiles were examined. The viscoelastic characteristics of Lidocaine conventional and microemulsion organogels were shown to be more elastic. When compared to microemulsion organogel containing polyethylene sorbitan monolaurate:ethanol (2:1 v/v), microemulsion organogel containing polyethylene sorbitan monolaurate:ethanol (4:1 v/v) displayed lower viscoelastic characteristics and higher rate of release [117].The encapsulation of the API into the lipid-based nanoparticles with particle size < 100 nm, could be used for enhancement of lymphatic uptake after intradermal administration. To explore this approach, Permana and co-workers developed dissolving microneedles containing antifilariasis drugs (doxycycline, diethylcarbamazine and albendazole) loaded SLNs. The SLN were prepared using glycerol monostearate as lipid matrix and polyethylene sorbitan monooleate as stabilizer. SLN prepared using glycerol monostearate showed high encapsulation efficiency, owing to the formation of hydrogen bonds between two hydrogen bond donor functional groups in glycerol monostearate (hydroxyl groups of glyceryls) and hydrogen bond acceptor functional groups in doxycycline, diethylcarbamazine and albendazole, which could result in a molecular complex Using a central composite design, the formulas were optimized to produce SLNs with diameters of less than 100 nm. In comparison to pure drug substances, drug release from SLNs was sustained for 48 h. The SLNs were then mixed with a polymeric hydrogel and cast to create SLN-loaded microneedles (MN). MNs filled with SLNs exhibited adequate mechanical and insertion properties. Importantly, dermatokinetic experiments indicated that >40% of drugs were retained in the dermis of excised newborn pig skin for up to 24 h after MN administration, showing that the SLNs are highly likely to be absorbed by the lymphatic system. The maximum lymph concentrations of the three drugs in rats reached after intradermal delivery was varied between 4 to 7-fold greater than those recorded after oral administration in in vivo experiments. Dissolving MNs are a type of drug delivery method that can bypass the stratum corneum, the main skin barrier, and are thus regarded as innovative intradermal drug delivery systems [118]. 8.3. Pulmonary DeliveryBecause of the high vascularity and circumvention of the first-pass effect, the pulmonary route provides a non-invasive form of drug delivery as well as a large surface area with quick absorption. Inhalation enables localized delivery for lung-related diseases, enhancing treatment efficacy at the site of action. These lipid-based micro or nanoparticles being used to treat the pulmonary-related diseases. Inhalable microparticles are generally prepared using spray-drying [119,120,121]. Umerska and co-workers prepared lipid nanocapsules-trojan particles in carbohydrates-microparticles using spray-drying technique with particle size 59 ± 3 nm. These LNCs prepared by the polyoxyl-15-hydroxy stearate (MHS), hydrogenated lecithin, and caprylic/capric acid triglycerides (TGs). These microparticles show promising delivery of bioactive using dry powder inhalation dosage forms for pulmonary disease [122].Messenger RNA (miRNA) is a promising class of nucleic acid therapeutics that can be used to treat a wide range of ailments, including genetic disorders. The creation of a stable and effective mRNA pulmonary delivery system would allow for high therapeutic concentrations to be achieved locally in the lungs, improving efficacy while reducing potential toxicities. Zhang and co-workers used design of experiment for screening the numerous combinations for optimizing lipid nanoparticles formulation, finally to get formulation with high potency before and after aerosolization. Lipid nanoparticles (LNPs) was found to be stable physico-chemically after being stored at 4 °C for at least 14 days, and most formulations had high encapsulation capacity of more than 80%. Formulations were found to have higher intracellular protein expression capabilities in vitro, even after aerosolization, and were tested in vivo on Balb C mice. For the four lead formulations, luciferase protein was shown to be primarily produced in the mouse lung before and after nebulization. This work showed that LNPs have the potential to be used for pulmonary mRNA delivery via aerosolization [123].Ethambutol hydrochloride (EMB) is an anti-tuberculosis medicine that is frequently used as a preventative measure against the development of undetected resistance to other drugs used to treat the lung disease. The oral form of EMB has some side effects and cellular toxicity, and thus administering EMB directly into the lungs appears to be an appealing and reasonable option for overcoming these issues. Nemati and co-workers investigated the pulmonary administration of EMB-loaded SLNs via a dry powder inhaler (DPI). They used two methods to make EMB-loaded SLNs (i.e., hot homogenization and ultrasonication) using glycerol behenate as solid lipid. Spray drying EMB-loaded SLNs with and without mannitol yielded DPI formulations. Carr’s index and Hausner ratio were used to investigate the flowability of the produced powders. The resulting particles encapsulation efficiency was found to be greater than 98% with a particle size less than 100 nm. Toxicity testing of EMB-loaded SLNs was carried out using the MTT assay, which revealed that the SLNs are biocompatible and non-toxic. Overall, the findings revealed that EMB-loaded SLN DPI has a high potential for direct tuberculosis treatment [124]. 8.4. Parenteral DeliveryParenteral administration is a typical method of delivering the active drug substances that have low oral bioavailability and therapeutic index [112]. The lipid-based nanoparticles including SLN, NLC and lipid-drug conjugates are gaining significant attention owing to their stability, large scale-up manufacturing, non-toxic and non-immunogenicity. A few lipid-based products, e.g., Doxil® and AmBisome® are available on the market with the high therapeutic efficacy and safety data [125].Ziprasidone (ZP) is a novel atypical antipsychotic drug that is beneficial in combating both positive and negative symptoms of schizophrenia. ZP has a low oral bioavailability of 50%, a short biological half-life of 2.5 h, and a repeated dose is required due to substantial first-pass metabolism, making the therapy non-adherent and contributing to patient non-compliance. As a result, Khan and co-workers explored the parenteral ZP-loaded sustained-release phospholipid-based phase-transition system (ZP-LPS). Biocompatible ingredients such as phospholipid E 80 [126], medium chain triglyceride (MCT), and ethanol were mixed to prepare ZP-LPS system. Aqueous titration with a pseudo-ternary phase diagram and dynamic rheological data were used to optimise the process. Gamma scintigraphy following subcutaneous injection confirmed the generation of in vivo depots. Finally, Sprague Dawley rats were used to test the formulation’s effectiveness. Optimized ZP-LPS gelled quickly (2 min), had the largest viscosity change (mPa.s), and released ZP for 1 month. The low-viscosity ZP-LPS system gels rapidly in situ, according to gamma scintigraphy results [127].Curcumin, which has a wide spectrum of biological and pharmacological properties such as antioxidant, anti-inflammatory, anti-tumor, anti-carcinogenic, anti-bacterial, and anti-HIV activity, has low water solubility and low bioavailability [128]. Saedi and co-workers investigated effect of various lipids on different features of NLCs for delivering curcumin. Coconut oil, fish oil, black seed oil, and linseed oil were used as liquid lipids, whereas cetyl palmitate was used as a solid lipid in all NLCs formulations. All the NLCs were analyzed for particle size, zeta potential, polydispersity index (PDI), drug entrapment percentage, and drug loading capacity. The NLC containing black seed oil had the smallest size, according to the results. Other characteristics, such as PDI, zeta potential, and entrapment efficiency, were consistent across all liquid lipids. In comparison to the other NLCs, the NLC containing black seed oil showed the highest % of drug release and antioxidant activity. According to Higuchi’s drug release kinetics, diffusion was the main mechanism of drug release [129]. When compared to free curcumin, the curcumin loaded NLC of linseed oil demonstrated better cytotoxic efficacy in a cell viability experiment on MCF-7 cells. 8.5. Implantable Drug Delivery SystemAn implantable drug delivery system, which includes SLN-based alendronate in situ gel formulation for local therapeutic activity utilizing a thermogelling system was developed and reported. Alendronate-loaded SLN (ALD-SLN) prepared by high pressure homogenization (HPH) followed by ultrasonication. Ultrasonication and HPH have been using for micronization (particle size) of API. The formulation was prepared using lipid phase glyceryl monostearate (GMO) and polyoxylethylene sorbitan monooleate was used as a surfactant, while Pluronic-127 and Pluronic-68 (PF-68) were used as the polymer. The implantable system could overcome the risk of oesophageal ulceration, which is the drawback of the conventional dosage form. The prepared ALD-SLN-based in situ gel formulation was proved to be an efficient delivery system for osteoporosis treatment [130]. 9. Regulatory PerspectivesEarlier it was reported that excipients are considered as inert components, which mainly used as a tablet binder, lubricating agent, diluents, coating agent, vehicle, and dyes in the production of the pharmaceutical product. The advancement in pharmaceutical science and technology has eased the accessibility of wide-ranging novel excipients. Specific excipients may show known or unknown interaction among excipients and actives, other inactive ingredients, or a container closure system (CCS). Therefore, currently, it is predictable that not all the excipients are inert, but few may exhibit potential toxicity [131].In the Code of federal regulations (CFR), a list of substances is published by United States of Food & Drug administration (US-FDA), which is generally recognized as safe (GRAS) prominence. Additionally, it holds the materials lists, which are inactive components for excipients so-called inactive ingredient guide (IIG). This IIG guide also enlisted the maximum concentration tolerable along with a specific route of administration. These GRAS and IIG list provide information to the formulator for development of any new and generic pharmaceutical drug product. As excipients are the essential component of the formulation, no specific review process is followed differing from drug products and the regulatory process is suitable from a scientific perspective [132].Once the excipient is approved in the drug product for a particular route of administration during new drug development, the inactive ingredient is no newer for the formulator. A less extensive review process is required for next time to use it in the dosage form development. Clinical and non-clinical studies have been required in terms of safety to use of new excipients in product. In this perspective, the guidance document for the industry was published from USFDA for the conduction of non-clinical studies for evaluating novel pharmaceutical excipients’ safety. The guidance also offers the safety evaluation parameters for excipients used in over the counter (OTC) drugs and generic product and explained the type of toxicity data used in the determination of the safety of new excipients. Significantly, this guidance has highlighted the need for performing risk to benefit assessments on the approved excipients in the drug product. There is currently no FDA process or framework available for independently testing of new excipients so far. Instead, excipients used in the drug products or biological formulation, which are in the premarketing approval process are reviewed and accepted as “component” of drug products or the biological formulation in use. Because of their distinct physicochemical properties and possible complex interactions with other ingredients or the physiological environment that may occur in vivo, this is particularly true for lipid excipients. Conversion of oils or lipids into cytotoxic agents is possible due to reduction to nano range in situ (e.g., in SNEDDS), and thus formulators need to investigate in detail the oils used in such a system [133].International Pharmaceutical Excipients Council (IPEC): The aim of the IPEC guide is to regulate the content of the Certificate of Analysis (COA) and to recommend the organization of excipients. The functions and responsibilities of the excipients manufacturers and distributors were also defined. The first original guidance was published in year 2000, but due to the changing global pharmaceutical market and the regulatory area, a revision of the guide was released in 2013. COA guidance has been available in USP32/NF-27 as the chapter (1080) bulk pharmaceutical excipients-COA. Besides, IPEC released an excipients information package (EIP) that includes information relating to excipients qualification and sourcing in the regular package. Due to the EIP kit, the need for the number of questionnaires and surveys needed to gather information from different sources is reduced. The EIP package was set up in the same way as that of the material safety data sheet (MSDS), which comprises titled segments to contain certain data on subject. The EIP package includes an overview of site quality and a datasheet of product regulatory and supply chain security [134]. 10. Computational Prediction 10.1. Formulation Design and DevelopmentThe molecular dynamic (MD) simulations play an important role in the pre-formulation screening of the carriers, polymers, excipients and identification of the drug molecule. MD mimics atoms and molecules physical motion under Newton’s physics laws [135]. Based on the reliable prediction results and correlation with the experimental data make these approach more reliable, process time and cost-effective. All mathematical models depend on the generation of actual data relating to the formulation of interest. This data can include in vitro, iv vivo and clinical data as well as physicochemical data relating to formulation of APIs [136].To begin with, the carrier’s ability to retain its cargo (drug payload) is the critical aspect for a successful lipid formulation. Pharmaceutical formulation designing by in silico method is becoming an important aspect of modern drug delivery research. It is becoming more popular since it gives researchers a highly pixilated image of their target based on molecular characteristics of both the drug and the carrier [137].Metwally and Hathout used MD to simulate the loading of 21 API in tripalmitin and polylactide-co-glycolide (PLGA) 50:50-based nanocarriers using a larger dataset that included a lipid carrier. Where ten drug molecules were set for PLGA system and eleven for tripalmitin. They used all-atom MD simulation (in GROMACS software) and docking (ArugsLab and Autodock Vina). The clear correlations were obtained between the docking ΔG data for drug loadings in tripalmitin and PLGA and their respective documented drug loadings. In addition, the authors used model drug curcumin to assess the predictability of the developed model. For tripalmitin SLN and PLGA nanoparticles, the projected percentage bias between actual and projected loading values was 12% and 2.03%, respectively [137].Haoshi and coworkers in 2021, acquired dataset for SEDDS formulation comprising 4495 composition ratios. Models were constructed with 7 machine algorithms for determination if the oil, surfactant, and co-surfactant can form the SEDDS. In a five-fold cross-validation, random forest has the best accuracy, sensitivity, and specificity in comparison to other machine learning algorithms, with 91.3% accuracy, 92.0% sensitivity, and 90.7% specificity. For further screening of the ratios, the DOE method of central composite design (CCD) was applied (PBPK) [138]. The molecular interaction between drugs and excipients can be studied using MD simulation, which demonstrates the diffusion behaviour in water and role of co-surfactant. Finally, for rational SEDDS formulation design, this study incorporated machine learning, central composite design, molecular modelling, and experimental techniques. The molecular simulation can imitate the physicochemical process at molecular scale. Gradually, MD simulation has become more effective tool to aid in understanding the solubility, dissolution mechanism and target specific delivery [139]. 10.2. Pharmacokinetics PredictionNew modelling tools that can simulate the interaction of emerging molecular structures with the biological macromolecules are available. The number of conditions is necessary to consider in the designing and development of nanomedicines such as stability of formulation, control drug release rate and targeting ability [140]. The MD models merged with the PBPK (Physiologically based pharmacokinetics) or QSP (quantitative structure property) models for creating effective approaches will characterize not only the disposition and activity of the compound of interest but also the activity and interaction of various excipients existing in the administered formulation with the different biological matrices across the body. Such models integration across several computational tools can give a completed image of the formulation pharmacodynamic (PD) [136].The PK software such as SimCyp, GastroPlus, and STELLA can be used to analyze the performance of formulations in silico. Shea and co-workers [141], as well as Zheng and co-workers [142] presented examples of current computer guided lipid based formulation (LBF) performance studies. It should be noted that for these simulations to be correct, a certain amount of in vitro data is typically required as input, and that totally in silico approaches are still out of reach [143]. The PBPK method is a valuable tool for evaluating drug formulation PK characteristics.For orally administered drugs, the prediction of PK profile can be done with PBPK model, which has benefited from the advancement of in vitro experimental methodology [135]. PBPK modeling is type of PK prediction technique which can depict the concentration versus time profile of the drug in the body, which is bases for the correlation of therapeutic or toxic effect of drugs. The PBPK consists of numerous compartments which are likely to be linked by the differential equations, which represents that the body organs are connected to the circulating system. For calculating PK profile, the model parameters include drug physicochemical properties such as lipophilicity, pKa, solubility and molecular weight or physiological properties which include tissue volume, blood flow, transporters, and enzymes, etc. [144]. As a result, PBPK modelling is easy to elucidate and allows modifications according to real conditions.An integrated PK/PD model is reported in a study of an mRNA therapy, uridine-diphosphate-glucuronosyltransferase (hUGT1A1)-modRNA. In this study, mRNA was administered through lipid nanoparticle (LNP), delivering the UGT1A1 for the treatment of Crigler Najjjar syndrome type 1. Classical compartment model was used for the simulation of PK part, i.e., LNP elimination from the plasma, whereas PD models mimics the LNP endocytosis by liver hepatocytes, mRNA release from endosome, mRNA translation into UGT1A1, and UGT1A1 clearance of unconjugated bilirubin, which is a disease biomarker. For finding the proper dose for first-in-human clinical trials, this model can be used [145]. Additionally, while developing PBPK models, particular nanoformulation properties should be taken into consideration necessitating the use of novel algorithms and modelling strategies. 10.3. Phase Behaviour during DispersionA MD simulation delivers an unprecedented view of lipid-based formulations structure, possesses extensive possibilities as an in-silico tool for the formulators and can be used to study the phase behaviour of liquid and liquid crystal systems. Among the available application areas, MD has great potential as a method for predicting the microstructure of lipid-based drug formulations [146,147]. MD specifically provides detailed information of molecular interaction within formulations, which could not be studied by X-ray diffraction method or spectroscopic techniques [148,149].Warren et al. investigated the microstructure of lipid-based formulations or their structure changes in the gastrointestinal tract. The basic lipid formulation system was investigated alone and in the presence of the drug. The composition of the formulation includes acyclovir, danazol, hydrocortisone, ketoprofen, mono- and dilauroyl glyceride at 0–75% water for dynamic behaviour and localization during dispersion was evaluated. GROMACS (Groningen Machine for Chemical Simulation) software was used for performing MD simulations [150,151]. The simulation trajectories were visualized using VMD (visual molecular dynamics). The programs used for the analysis of MD trajectories were part of the GROMACS software package. Improved MD techniques have been developed that include atomic-scale drug dispersion and dynamics model, enhanced MD provides first drug dissolution simulations inside the lipid formulation/water framework. Three separate phase regions in the range of 0–75% w/w water were revealed from the simulation studies of Type I formulation [152]:(i)A phase like single reverse micelle comprising included water molecules on the lower concentration of water,(ii)Single reverse phase of micelle at intermediate and high-water levels and,(iii)The lamellar glycerides a two-phase system and lose water groups.Simulation experiments in the formulation or water systems of poorly water-soluble drugs such as hydrocortisone, ketoprofen, danazol, acyclovir, and progesterone have shown that drug localization is driven by confined hydrophobic/hydrophilic properties of the drugs only at all levels of water concentration. Drug localization is a means of establishing localized hydrophobic interactions with water, formulations, or other drugs within the system. Hydrophilic drugs, e.g., acyclovir has hydrophobic faces which allows interactions with the lipid formulation. For acyclovir, it was observed that the polar portion of the drug possesses the ability to interact with water or polar lipid atoms, whereas the less hydrophilic region, i.e., aromatic ring surfaces can be protected from the aqueous environment by interacting with lipids. Analogous behaviour was detected in the case of other polar drugs as well, e.g., ketoprofen and hydrocortisone. The drugs with fewer bonding groups of hydrogen display deeper binding in the alkane tail of the lipid section. Progesterone containing two hydrogen bond acceptor atoms exists deep inside the lipid portion. While the more hydrophilic danazol molecule consisting of 1 donor of hydrogen bond and 3 acceptors of a hydrogen bond is presented inside the lipid closer to the lipid/water interface where an interaction with the water could be seen by the hydroxyl group (-OH). Knowledge on localization in the formulation and dynamic processes such as aggregation that results in poor solubility can be obtained from the developed MD for lipid-based formulations. MD shows the patterns of different compounds in physical behaviour. It serves as the basis for in-silico design of lipid formulation [153,154,155,156,157,158]. 11. Future Perspectives and ConclusionsThe LBDDS have shown enormous potential for improving absorption and oral bioavailability of medicinal products that are poorly soluble in water. A proper understanding of drug physicochemical properties and nature of lipid excipients including design thinking such as quality by design approaches and in vivo performance is required before initiating the product development. The process responsible for enhancing the bioavailability of drugs is very different from other delivery systems, and these systems require the use of complex methods of characterization to understand the fate of GIT transit formulation. It is still a major challenge to establish robust and simple methods for the in vitro-in vivo correlation of LBDDS. Weak stability and difficult manipulation due to their liquid nature have been the major challenges that have limited LBDDS in the past. With different methods for the solidification of liquid formulations, these challenges have been effectively unravelled. The use of these industrial techniques, such as freeze-drying, spray-drying, spray-coating, and granulation on inert pellets, enabled the manufacture of these products on a large scale, triggering the expansion of their market availability. We here covered the mechanism of drug absorption, the role of MD in solubility and pharmacokinetics prediction, and regulatory perspectives in designing, developing lipidic products mostly for poorly aqueous soluble drugs. Guidelines and experimental methods need to be established for lipid formulations at early stages. During capsule filling, solution stability and capsule compatibility need to be understood, especially for drugs predisposed to oxidation and sensitive to moisture. Relevant strategies to examine in vitro and in vivo drug solubilization to predict the dynamic changes that occur in the gut after administration of the formulation are need to be explored.
+
+
+Author ContributionsConceptualization, N.K.M.; data collection, J.M. and P.K.S.; writing—original draft preparation, D.N., V.B. and P.T.; writing—review and editing, K.K.B., J.M.R. and N.K.M.; supervision, S.B.S. and N.K.M.; funding acquisition, K.K.B., J.M.R. and N.K.M. All authors have read and agreed to the published version of the manuscript.FundingThe APC was funded by the APC pool at Åbo Akademi University, funded by The Åbo Akademi University Foundation, Finland.Institutional Review Board StatementNot Applicable.Informed Consent StatementNot Applicable.Data Availability StatementNot Applicable.AcknowledgmentsAuthors would like to acknowledge the Department of Pharmaceutics, National Institute of Pharmaceutical Education & Research (NIPER), Hyderabad for providing facilities for writing this manuscript. NK Mehra would like to acknowledge the Department of Science & technology (DST), New Delhi, Government of India under Start up research grant (F. No. SRG/2021/000708) for extending facilities. The authors would also like to thank Ministry of Chemical and Fertilizer, Department of Pharmaceuticals and Department of science and technology, New Delhi.Conflicts of InterestThe authors declare no conflict of interest.ReferencesKumar, R. Lipid-Based Nanoparticles for Drug-Delivery Systems. Nanocarr. Drug Deliv. 2019, 249–284. [Google Scholar] [CrossRef]Mu, H.; Holm, R.; Müllertz, A. Lipid-based formulations for oral administration of poorly water-soluble drugs. Int. J. Pharm. 2013, 453, 215–224. [Google Scholar] [CrossRef] [PubMed]Liu, L.; Li, J.; Zhao, M.; Xu, H.; Li, L.S.; Wang, S. Loading of tacrolimus containing lipid based drug delivery systems into mesoporous silica for extended release. Asian J. Pharm. Sci. 2016, 11, 751–759. [Google Scholar] [CrossRef][Green Version]Sun, S.; Zhang, H.; Wang, X.; He, S.; Zhai, G. Development and evaluation of ibuprofen loaded mixed micelles preparations for topical delivery. J. Drug Deliv. Sci. Technol. 2018, 48, 363–371. [Google Scholar] [CrossRef]Small, D. A Classification of Biologic Lipids Based upon Their Interaction in Aqueous Systems. J. Am. Oil Chem. Soc. 1968, 45, 108–116. [Google Scholar] [CrossRef] [PubMed]Shimada, A.; Ohashi, K. Interfacial and emulsifying properties of diacylglycerol. Food Sci. Technol. Res. 2003, 9, 142–147. [Google Scholar] [CrossRef][Green Version]Nanjwade, B.K.; Patel, D.J.; Udhani, R.A.; Manvi, F.V. Functions of Lipids for Enhancement of Oral Bioavailability of Poorly Water-Soluble Drugs. Sci. Pharm. 2011, 79, 705–727. [Google Scholar] [CrossRef][Green Version]Sangsen, Y.; Wiwattanawongsa, K.; Likhitwitayawuid, K.; Sritularak, B.; Graidist, P.; Wiwattanapatapee, R. Influence of surfactants in self-microemulsifying formulations on enhancing oral bioavailability of oxyresveratrol: Studies in Caco-2 cells and in vivo. Int. J. Pharm. 2016, 498, 294–303. [Google Scholar] [CrossRef]Ferreira, M.; Chaves, L.L.; Costa, A.; Reis, S. Optimization of nanostructured lipid carriers loaded with methotrexate: A tool for inflammatory and cancer therapy. Int. J. Pharm. 2015, 492, 65–72. [Google Scholar] [CrossRef]Espinosa-olivares, M.A.; Delgado-buenrostro, N.L.; Chirino, Y.I.; Trejo-márquez, M.A.; De Estudios, D.; Tecnología, D.P.; De Estudios, F.; Cuautitlán, S.; Nacional, U.; De México, A.; et al. Nanostructured lipid carriers loaded with curcuminoids: Physicochemical characterization, in vitro release, ex vivo skin penetration, stability and antioxidant activity. Eur. J. Pharm. Sci. 2020, 155, 105533. [Google Scholar] [CrossRef]Abbas, H.; El-Deeb, N.M.; Zewail, M. PLA-coated Imwitor® 900 K-based herbal colloidal carriers as novel candidates for the intra-articular treatment of arthritis. Pharm. Dev. Technol. 2021, 26, 682–692. [Google Scholar] [CrossRef] [PubMed]Milanovic, A.; Aleksic, I.; Ibric, S.; Parojčić, J.; Cvijic, S. Hot-melt coating with Precirol ATO 5 in a fluidized-bed apparatus: Application of experimental design in the optimization of process parameters. J. Drug Deliv. Sci. Technol. 2018, 46, 274–284. [Google Scholar] [CrossRef]Lam, H.T.; Le, N.M.N.; Phan, T.N.Q.; Bernkop-Schnürch, A. Mucolytic self-emulsifying drug delivery systems (SEDDS) containing a hydrophobic ion-pair of proteinase. Eur. J. Pharm. Sci. 2020, 162, 105658. [Google Scholar] [CrossRef] [PubMed]Weerapol, Y.; Limmatvapirat, S.; Nunthanid, J.; Sriamornsak, P. Self-Nanoemulsifying Drug Delivery System of Nifedipine: Impact of Hydrophilic—Lipophilic Balance and Molecular Structure of Mixed Surfactants. AAPS PharmSciTech 2014, 15, 456–464. [Google Scholar] [CrossRef] [PubMed][Green Version]Hussein, A.; Afouna, M. Enhancement of the in-vitro dissolution and in-vivo oral bioavailability of silymarin from liquid-filled hard gelatin capsules of semisolid dispersion using Gelucire 44/14 as a carrier. Pharmazie 2012, 67, 209–214. [Google Scholar] [CrossRef]Kushwaha, J.P.; Baidya, D.; Patil, S. Harmine-loaded galactosylated pluronic F68-gelucire 44/14 mixed micelles for liver targeting. Drug Dev. Ind. Pharm. 2019, 45, 1361–1368. [Google Scholar] [CrossRef]Cirri, M.; Mura, P.; Mora, P.C. Liquid spray formulations of xibornol by using self-microemulsifying drug delivery systems. Int. J. Pharm. 2007, 340, 84–91. [Google Scholar] [CrossRef]Pando, D.; Caddeo, C.; Manconi, M.; Fadda, A.M.; Pazos, C. Nanodesign of olein vesicles for the topical delivery of the antioxidant resveratrol. J. Pharm. Pharmacol. 2013, 65, 1158–1167. [Google Scholar] [CrossRef]Mora-Huertas, C.E.; Garrigues, O.; Fessi, H.; Elaissari, A. Nanocapsules prepared via nanoprecipitation and emulsification—Diffusion methods: Comparative study. Eur. J. Pharm. Biopharm. 2012, 80, 235–239. [Google Scholar] [CrossRef]Bertoni, S.; Albertini, B.; Facchini, C.; Prata, C.; Passerini, N. Glutathione-Loaded Solid Lipid Microparticles as Innovative Delivery System for Oral Antioxidant Therapy. Pharmaceutics 2019, 11, 364. [Google Scholar] [CrossRef][Green Version]Abdelbary, G.; Fahmy, R.H. Diazepam-Loaded Solid Lipid Nanoparticles: Design and Characterization. AAPS PharmSciTech 2009, 10, 211–219. [Google Scholar] [CrossRef] [PubMed][Green Version]Mancini, G.; Gonçalves, L.; Marto, J.; Carvalho, F.; Sim, S.; Ribeiro, H.; Almeida, A. Increased Therapeutic Efficacy of SLN Containing Etofenamate and Ibuprofen in Topical Treatment of Inflammation. Pharmaceutics 2021, 13, 328. [Google Scholar] [CrossRef] [PubMed]Dudhipala, N.; Adel, A. Amelioration of ketoconazole in lipid nanoparticles for enhanced antifungal activity and bioavailability through oral administration for management of fungal infections. Chem. Phys. Lipids 2020, 232, 104953. [Google Scholar] [CrossRef] [PubMed]Suvarna, G.; Narender, D.; Kishan, V. Preparation, Characterization and in vivo Evaluation of Rosuvastatin Calcium Loaded Solid Lipid Nanoparticles. Int. J. Pharm. Sci. Nanotechnol. 2015, 8, 2779–2785. [Google Scholar] [CrossRef]Shazly, G.A.; AlShehri, S.; Ibrahim, M.A.; Tawfeek, H.M.; Razik, J.A.; Hassan, Y.A.; Shakeel, F. Development of Domperidone Solid Lipid Nanoparticles: In Vitro and In Vivo Characterization. AAPS PharmSciTech 2018, 19, 1712–1719. [Google Scholar] [CrossRef]Becker, K.; Salar-Behzadi, S.; Zimmer, A. Solvent-Free Melting Techniques for the Preparation of Lipid-Based Solid Oral Formulations. Pharm. Res. 2015, 32, 1519–1545. [Google Scholar] [CrossRef][Green Version]Forster, S.; Lebo, D. Continuous Melt Granulation for Taste-Masking of Ibuprofen. Pharmaceutics 2021, 13, 863. [Google Scholar] [CrossRef]Kim, K.T.; Lee, J.; Park, J.; Cho, H.; Yoon, I.; Kim, D. Capmul MCM/Solutol HS15-Based Microemulsion for Enhanced Oral Bioavailability of Rebamipide. J. Nanosci. Nanotechnol. 2017, 17, 2340–2344. [Google Scholar] [CrossRef]Bandivadeka, M.M.; Pancholi, S.S.; Kaul-Ghanekar, R. Self-microemulsifying smaller molecular volume oil (Capmul MCM) using non-ionic surfactants: A delivery system for poorly water-soluble drug. Drug Dev. Ind. Pharm. 2012, 38, 883–892. [Google Scholar] [CrossRef]Panigrahi, K.C.; Patra, C.N.; Jena, G.K.; Ghose, D.; Jena, J.; Panda, S.K.; Sahu, M. Gelucire: A versatile polymer for modified release drug delivery system. Future J. Pharm. Sci. 2018, 4, 102–108. [Google Scholar] [CrossRef]Mura, P.; Maestrelli, F.; D’Ambrosio, M.; Luceri, C. Evaluation and Comparison of Solid Lipid Nanoparticles (SLNs) and Nanostructured Lipid Carriers (NLCs) as Vectors to Develop Hydrochlorothiazide Effective and Safe Pediatric Oral Liquid Formulations. Pharmaceutics 2021, 13, 437. [Google Scholar] [CrossRef] [PubMed]Zhou, J.; Zhou, M.; Yang, F.; Liu, C.; Pan, R.; Chang, Q.; Liu, X.; Liao, Y. Involvement of the Inhibition of Intestinal Glucuronidation in Enhancing the Oral Bioavailability of Resveratrol by Labrasol Containing Nanoemulsions. Mol. Pharm. 2015, 12, 1084–1095. [Google Scholar] [CrossRef] [PubMed]Zupancic, O.; Leonaviciute, G.; Lam, H.T.; Partenhauser, A.; Podričnik, S.; Bernkop-schnürch, A. Development and in vitro evaluation of an oral SEDDS for desmopressin. Drug Deliv. 2016, 23, 2074–2083. [Google Scholar] [CrossRef] [PubMed][Green Version]Coulter, I.S.; Griffin, B.T.; Keohane, K. Enhanced colonic delivery of ciclosporin A self-emulsifying drug delivery system encapsulated in coated minispheres. Drug Dev. Ind. Pharm. 2015, 42, 245–253. [Google Scholar] [CrossRef]Avasatthi, V.; Pawar, H.; Dora, C.P.; Bansod, P.; Gill, M.S.; Suresh, S. A novel nanogel formulation of methotrexate for topical treatment of psoriasis: Optimization, in vitro and in vivo evaluation. Pharm. Dev. Technol. 2015, 21, 554–562. [Google Scholar] [CrossRef] [PubMed]Prombutara, P.; Kulwatthanasal, Y.; Supaka, N.; Sramala, I. Production of nisin-loaded solid lipid nanoparticles for sustained antimicrobial activity. Food Control 2012, 24, 184–190. [Google Scholar] [CrossRef]Wang, T.; Luo, Y. Biological fate of ingested lipid-based nanoparticles: Current understanding and future directions. Nanoscale 2019, 11, 11048–11063. [Google Scholar] [CrossRef]O’Driscoll, C.M. Lipid-based formulations for intestinal lymphatic delivery. Eur. J. Pharm. Sci. 2002, 15, 405–415. [Google Scholar] [CrossRef]Trevaskis, N.L.; Charman, W.N.; Porter, C.J.H. Lipid-based delivery systems and intestinal lymphatic drug transport: A mechanistic update. Adv. Drug Deliv. Rev. 2008, 60, 702–716. [Google Scholar] [CrossRef]Chakraborty, S.; Shukla, D.; Mishra, B.; Singh, S. Lipid—An emerging platform for oral delivery of drugs with poor bioavailability. Eur. J. Pharm. Biopharm. 2009, 73, 1–15. [Google Scholar] [CrossRef]van Aken, G.A. Relating Food Emulsion Structure and Composition to the Way It Is Processed in the Gastrointestinal Tract and Physiological Responses: What Are the Opportunities? Food Biophys. 2010, 5, 258–283. [Google Scholar] [CrossRef]Hauss, D.J.; Fogal, S.E.; Ficorilli, J.V.; Price, C.A.; Roy, T.; Jayaraj, A.A.; Keirns, J.J. Lipid-Based Delivery Systems for Improving the Bioavailability and Lymphatic Transport of a Poorly Water-Soluble LTB4 Inhibitor. J. Pharm. Sci. 1998, 87, 164–169. [Google Scholar] [CrossRef] [PubMed]McClements, D.J. Edible lipid nanoparticles: Digestion, absorption, and potential toxicity. Prog. Lipid Res. 2013, 52, 409–423. [Google Scholar] [CrossRef] [PubMed]Beloqui, A.; Solinís, M.; Gascón, A.R.; del Pozo-Rodríguez, A.; des Rieux, A.; Préat, V. Mechanism of transport of saquinavir-loaded nanostructured lipid carriers across the intestinal barrier. J. Control. Release 2013, 166, 115–123. [Google Scholar] [CrossRef] [PubMed][Green Version]Constantinides, P.P.; Wasan, K.M. Lipid Formulation Strategies for Enhancing Intestinal Transport and Absorption of P-Glycoprotein (P-gp) Substrate Drugs: In vitro/In vivo Case Studies. J. Pharm. Sci. 2007, 96, 235–248. [Google Scholar] [CrossRef]Singh, A.; Neupane, Y.R.; Mangla, B.; Kohli, K. Nanostructured Lipid Carriers for Oral Bioavailability Enhancement of Exemestane: Formulation Design, In Vitro, Ex Vivo, and In Vivo Studies. J. Pharm. Sci. 2019, 108, 3382–3395. [Google Scholar] [CrossRef]Zhang, Z.; Gao, F.; Jiang, S.; Ma, L.; Li, Y. Nano-based Drug Delivery System Enhances the Oral Absorption of Lipophilic Drugs with Extensive Presystemic Metabolism. Curr. Drug Metab. 2012, 13, 1110–1118. [Google Scholar] [CrossRef]Zhang, C.; Xu, Y.; Zhong, Q.; Li, X.; Gao, P.; Feng, C.; Chu, Q.; Chen, Y.; Liu, D. In vitro evaluation of the inhibitory potential of pharmaceutical excipients on human carboxylesterase 1A and 2. PLoS ONE 2014, 9, e93819. [Google Scholar] [CrossRef][Green Version]Pouton, C.W. Formulation of poorly water-soluble drugs for oral administration: Physicochemical and physiological issues and the lipid formulation classification system. Eur. J. Pharm. Sci. 2006, 29, 278–287. [Google Scholar] [CrossRef]Psimadas, D.; Georgoulias, P.; Valotassiou, V.; Loudos, G. Molecular Nanomedicine towards Cancer: 111In-Labeled Nanoparticles. J. Pharm. Sci. 2012, 101, 2271–2280. [Google Scholar] [CrossRef]Nazzal, S.; Wang, Y. Characterization of soft gelatin capsules by thermal analysis. Int. J. Pharm. 2001, 230, 35–45. [Google Scholar] [CrossRef]Cao, N.; Yang, X.; Fu, Y. Effects of various plasticizers on mechanical and water vapor barrier properties of gelatin films. Food Hydrocoll. 2009, 23, 729–735. [Google Scholar] [CrossRef]Jannin, V.; Musakhanian, J.; Marchaud, D. Approaches for the development of solid and semi-solid lipid-based formulations. Adv. Drug Deliv. Rev. 2008, 60, 734–746. [Google Scholar] [CrossRef] [PubMed]Ito, Y.; Kusawake, T.; Ishida, M.; Tawa, R.; Shibata, N.; Takada, K. Oral solid gentamicin preparation using emulsifier and adsorbent. J. Control. Release 2005, 105, 23–31. [Google Scholar] [CrossRef] [PubMed]Pouton, C.W.; Porter, C.J.H. Formulation of lipid-based delivery systems for oral administration: Materials, methods and strategies. Adv. Drug Deliv. Rev. 2008, 60, 625–637. [Google Scholar] [CrossRef] [PubMed]Humberstone, A.J.; Charman, W.N. Lipid-based vehicles for the oral delivery of poorly water soluble drugs. Adv. Drug Deliv. Rev. 1997, 25, 103–128. [Google Scholar] [CrossRef]Dollo, G.; Le Corre, P.; Guérin, A.; Chevanne, F.; Burgot, J.L.; Leverge, R. Spray-dried redispersible oil-in-water emulsion to improve oral bioavailability of poorly soluble drugs. Eur. J. Pharm. Sci. 2003, 19, 273–280. [Google Scholar] [CrossRef]Jang, D.-J.; Jeong, E.J.; Lee, H.-M.; Kim, B.-C.; Lim, S.-J.; Kim, C.-K. Improvement of bioavailability and photostability of amlodipine using redispersible dry emulsion. Eur. J. Pharm. Sci. 2006, 28, 405–411. [Google Scholar] [CrossRef]Barbé, C.J.; Bartlett, J.R.; Kong, L.; Finnie, K.S.; Lin, H.Q.; Larkin, M.; Calleja, S.; Bush, A.; Calleja, G. Silica particles: A novel drug-delivery system. Adv. Mater. 2004, 16, 1959–1966. [Google Scholar] [CrossRef]Jaganathan, H.; Godin, B. Biocompatibility assessment of Si-based nano- and micro-particles. Adv. Drug Deliv. Rev. 2012, 64, 1800–1819. [Google Scholar] [CrossRef][Green Version]Hentzschel, C.M.; Sakmann, A.; Leopold, C.S. Suitability of various excipients as carrier and coating materials for liquisolid compacts. Drug Dev. Ind. Pharm. 2011, 37, 1200–1207. [Google Scholar] [CrossRef] [PubMed]Tan, A.; Rao, S.; Prestidge, C.A. Transforming Lipid-Based Oral Drug Delivery Systems into Solid Dosage Forms: An Overview of Solid Carriers, Physicochemical Properties, and Biopharmaceutical Performance. Pharm. Res. 2013, 30, 2993–3017. [Google Scholar] [CrossRef] [PubMed]Christensen, K.; Pedersen, G.; Kristensen, H. Preparation of redispersible dry emulsions by spray drying. Int. J. Pharm. 2001, 212, 187–194. [Google Scholar] [CrossRef]Hansen, T.; Holm, P.; Rohde, M.; Schultz, K. In vivo evaluation of tablets and capsules containing spray-dried o/w-emulsions for oral delivery of poorly soluble drugs. Int. J. Pharm. 2005, 293, 203–211. [Google Scholar] [CrossRef]Chen, Y.; Chen, C.; Zheng, J.; Chen, Z.; Shi, Q.; Liu, H. Development of a solid supersaturatable self-emulsifying drug delivery system of docetaxel with improved dissolution and bioavailability. Biol. Pharm. Bull. 2011, 34, 278–286. [Google Scholar] [CrossRef][Green Version]Mazzeti, A.L.; Oliveira, L.T.; Gonçalves, K.R.; Schaun, G.C.; Mosqueira, V.C.F.; Bahia, M.T. Benznidazole Self-Emulsifying Delivery System: A Novel Alternative Dosage Form for Chagas Disease Treatment. Eur. J. Pharm. Sci. 2020, 145, 105234. [Google Scholar] [CrossRef]Garg, T.; Goyal, A.K. Liposomes: Targeted and Controlled Delivery System. Drug Deliv. Lett. 2014, 4, 62–71. [Google Scholar] [CrossRef]Nekkanti, V.; Kalepu, S. Recent Advances in Liposomal Drug Delivery: A Review. Pharm. Nanotechnol. 2015, 3, 35–55. [Google Scholar] [CrossRef]Joshny, J.; Hari, B.N.V.; Devi, D.R. The purpose of the present investigation is to formulate liposomes of Lornoxicam for topical SC. Eur. J. Pharm. Sci. 2018, 112, 38–51. [Google Scholar] [CrossRef]Chime, A.; Onyishi, I.V. Lipid-based drug delivery systems (LDDS): Recent advances and applications of lipids in drug delivery. Afr. J. Pharm. Pharmacol. 2013, 7, 3034–3059. [Google Scholar] [CrossRef][Green Version]Sala, M.; Diab, R.; Elaissari, A.; Fessi, H. Lipid nanocarriers as skin drug delivery systems: Properties, mechanisms of skin interactions and medical applications. Int. J. Pharm. 2017, 535, 1–17. [Google Scholar] [CrossRef] [PubMed]Ainbinder, D.; Paolino, D.; Fresta, M.; Touitou, E. Drug delivery applications with ethosomes. J. Biomed. Nanotechnol. 2010, 6, 558–568. [Google Scholar] [CrossRef] [PubMed]Bhardwaj, P.; Tripathi, P.; Gupta, R.; Pandey, S. Niosomes: A review on niosomal research in the last decade. J. Drug Deliv. Sci. Technol. 2020, 56, 101581. [Google Scholar] [CrossRef]Mishra, V.; Bansal, K.K.; Verma, A.; Yadav, N.; Thakur, S.; Sudhakar, K.; Rosenholm, J.M. Solid lipid nanoparticles: Emerging colloidal nano drug delivery systems. Pharmaceutics 2018, 10, 191. [Google Scholar] [CrossRef] [PubMed][Green Version]Doktorovova, S.; Shegokar, R.; Souto, E.B. Role of Excipients in formulation development and biocompatibility of lipid nanoparticles (SLNs/NLCs). Nanostruct. Nov. Ther. 2017, 811–843. [Google Scholar] [CrossRef]Dolatabadi, J.E.N.; Omidi, Y. Solid lipid-based nanocarriers as efficient targeted drug and gene delivery systems. Trends Anal. Chem. 2016, 77, 100–108. [Google Scholar] [CrossRef]Pin, E.; Ganem-Rondero, A. Lipid Nanocarriers as Skin Drug Delivery Systems; Elsevier Inc.: Amsterdam, The Netherlands, 2019. [Google Scholar] [CrossRef]Akhlaghi, S.P.; Loh, W. European Journal of Pharmaceutics and Biopharmaceutics Interactions and release of two palmitoyl peptides from phytantriol cubosomes. Eur. J. Pharm. Biopharm. 2017, 117, 60–67. [Google Scholar] [CrossRef]Kalepu, S.; Manthina, M.; Padavala, V. Oral lipid-based drug delivery systems—An overview. Acta Pharm. Sin. B 2013, 3, 361–372. [Google Scholar] [CrossRef][Green Version]Negi, P.; Aggarwal, M.; Sharma, G.; Rathore, C.; Sharma, G.; Singh, B.; Katare, O. Niosome-based hydrogel of resveratrol for topical applications: An effective therapy for pain related disorder(s). Biomed. Pharmacother. 2017, 88, 480–487. [Google Scholar] [CrossRef]Mastrogiacomo, D.; Lenucci, M.S.; Bonfrate, V.; Di Carolo, M.; Piro, G.; Valli, L.; Rescio, L.; Milano, F.; Comparelli, R.; De Leo, V.; et al. Lipid/detergent mixed micelles as a tool for transferring antioxidant power from hydrophobic natural extracts into bio-deliverable liposome carriers: The case of lycopene rich oleoresins. RSC Adv. 2015, 5, 3081–3093. [Google Scholar] [CrossRef]Adhikari, P.; Pal, P.; Das, A.K.; Ray, S.; Bhattacharjee, A.; Mazumder, B. Nano lipid-drug conjugate: An integrated review. Int. J. Pharm. 2017, 529, 629–641. [Google Scholar] [CrossRef] [PubMed]Ding, Y.; Nielsen, K.A.; Nielsen, B.P.; Bøje, N.W.; Rainer, H.; Pyo, S.M. Lipid-drug-conjugate (LDC) solid lipid nanoparticles (SLN) for the delivery of nicotine to the oral cavity—Optimization of nicotine loading efficiency. Eur. J. Pharm. Biopharm. 2018, 128, 10–17. [Google Scholar] [CrossRef] [PubMed]Saxena, V.; Panicucci, R.; Joshi, Y.; Garad, S. Developability Assessment in Pharmaceutical Industry: An Integrated Group Approach for Selecting Developable Candidates. J. Pharm. Sci. 2009, 98, 1962–1979. [Google Scholar] [CrossRef] [PubMed]Bharate, S.S.; Vishwakarma, R.A. Impact of preformulation on drug development. Expert Opin. Drug Deliv. 2013, 10, 1239–1257. [Google Scholar] [CrossRef]Holm, R. Bridging the gaps between academic research and industrial product developments of lipid-based formulations. Adv. Drug Deliv. Rev. 2019, 142, 118–127. [Google Scholar] [CrossRef] [PubMed]Fan, Y.; Marioli, M.; Zhang, K. Analytical characterization of liposomes and other lipid nanoparticles for drug delivery. J. Pharm. Biomed. Anal. 2021, 192, 113642. [Google Scholar] [CrossRef]Shete, H.; Patravale, V. Long chain lipid based tamoxifen NLC. Part I: Preformulation studies, formulation development and physicochemical characterization. Int. J. Pharm. 2013, 454, 573–583. [Google Scholar] [CrossRef]Caputo, F.; Arnould, A.; Bacia, M.; Ling, W.L.; Rustique, E.; Texier, I.; Mello, A.P.; Couffin, A.C. Measuring Particle Size Distribution by Asymmetric Flow Field Flow Fractionation: A Powerful Method for the Preclinical Characterization of Lipid-Based Nanoparticles. Mol. Pharm. 2019, 16, 756–767. [Google Scholar] [CrossRef][Green Version]Bose, S.; Michniak-Kohn, B. Preparation and characterization of lipid based nanosystems for topical delivery of quercetin. Eur. J. Pharm. Sci. 2013, 48, 442–452. [Google Scholar] [CrossRef]Thakkar, H.; Nangesh, J.; Parmar, M.; Patel, D. Formulation and characterization of lipid-based drug delivery system of raloxifene-microemulsion and self-microemulsifying drug delivery system. J. Pharm. Bioallied Sci. 2011, 3, 442–448. [Google Scholar] [CrossRef]Jawahar, N.; Hingarh, P.K.; Arun, R.; Selvaraj, J.; Anbarasan, A.; Sathianarayanan, S.; Nagaraju, G. Enhanced oral bioavailability of an antipsychotic drug through nanostructured lipid carriers. Int. J. Biol. Macromol. 2018, 110, 269–275. [Google Scholar] [CrossRef] [PubMed]Zou, L.; Zheng, B.; Liu, W.; Liu, C. Enhancing nutraceutical bioavailability using excipient emulsions: Influence of lipid droplet size on solubility and bioaccessibility of powdered curcumin. J. Funct. Foods 2015, 15, 72–83. [Google Scholar] [CrossRef]Cirri, A.M.; Mennini, N.; Mura, P.; Ghelardini, C.; Cesare, L. Development and in vivo evaluation of an innovative “Hydrochlorothiazide-in Cyclodextrins-in Solid Lipid Nanoparticles” formulation with sustained release and enhanced oral bioavailability for the hypertension treatment in pediatrics. Int. J. Pharm. 2017, 521, 73–83. [Google Scholar] [CrossRef] [PubMed]Schultz, H.B.; Wignall, A.D.; Thomas, N.; Prestidge, C.A. Enhancement of Abiraterone Acetate Oral Bioavailability by Supersaturated-Silica Lipid. Int. J. Pharm. 2020, 582, 119264. [Google Scholar] [CrossRef] [PubMed]Nornoo, A.O.; Zheng, H.; Lopes, L.B.; Johnson-Restrepo, B.; Kannan, K.; Reed, R. Oral microemulsions of paclitaxel: In situ and pharmacokinetic studies. Eur. J. Pharm. Biopharm. 2009, 71, 310–317. [Google Scholar] [CrossRef]Alcantara, K.P.; Zulfakar, M.H.; Castillo, A.L. Development, characterization and pharmacokinetics of mupirocin-loaded nanostructured lipid carriers (NLCs) for intravascular administration. Int. J. Pharm. 2019, 571, 118705. [Google Scholar] [CrossRef]Simon, L.; Vincent, M.; Le Saux, S.; Lapinte, V.; Marcotte, N.; Morille, M.; Dorandeu, C.; Devoisselle, J.; Begu, S. Polyoxazolines based mixed micelles as PEG free formulations for an effective quercetin antioxidant topical delivery. Int. J. Pharm. 2019, 570, 118516. [Google Scholar] [CrossRef]Caldeira, S.; Ariany, R.; Vinícius, M.; Dutra, L.; Antônio, L.; Eduardo, P.; Tedesco, A.; Bentes, R.; Gontijo, M.; Cristina, M. Photodiagnosis and Photodynamic Therapy Topical photodynamic therapy with chloroaluminum phthalocyanine liposomes is as e ff ective as systemic pentavalent antimony in the treatment of experimental cutaneous leishmaniasis. Photodiagn. Photodyn. Ther. 2019, 28, 210–215. [Google Scholar] [CrossRef]Manca, M.L.; Matricardi, P.; Cencetti, C.; Peris, J.E.; Melis, V.; Carbone, C.; Escribano, E.; Zaru, M.; Fadda, A.M.; Manconi, M. Combination of argan oil and phospholipids for the development of an effective liposome-like formulation able to improve skin hydration and allantoin dermal delivery. Int. J. Pharm. 2016, 505, 204–211. [Google Scholar] [CrossRef]Lv, X.; Cong, Z.; Liu, Z.; Ma, X.; Xu, M.; Tian, Y.; Zhang, X.; Xu, B.; Zhang, J.; Tang, Z. Improvement of the solubility, photostability, antioxidant activity and UVB photoprotection of trans-resveratrol by essential oil based microemulsions for topical application. J. Drug Deliv. Sci. Technol. 2018, 48, 346–354. [Google Scholar] [CrossRef]Ferreira, M.; Barreiros, L.; Segundo, M.; Torres, T.; Selores, M.; Lima, S.; Reis, S. Topical co-delivery of methotrexate and etanercept using lipid nanoparticles: A targeted approach for psoriasis management. Colloids Surf. B Biointerfaces 2017, 159, 23–29. [Google Scholar] [CrossRef] [PubMed]Simone, C.B.; Friedberg, J.S.; Glatstein, E.; Stevenson, J.P.; Sterman, D.H.; Hahn, S.M.; Cengel, K.A. Photodynamic therapy for the treatment of non-small cell lung cancer. J. Thorac. Dis. 2011, 4, 63–75. [Google Scholar] [CrossRef]Xiang, Q.; Wang, M.; Chen, F.; Gong, T.; Jian, Y.; Zhang, Z.; Huang, Y. Lung-Targeting Delivery of Dexamethasone Acetate Loaded Solid Lipid Nanoparticles. Arch. Pharm. Res. 2007, 30, 519–525. [Google Scholar] [CrossRef] [PubMed]Kumar, Y.; Kuche, K.; Swami, R.; Katiyar, S.S.; Chaudhari, D.; Katare, P.B.; Banerjee, S.; Jain, S. Exploring the potential of novel pH sensitive lipoplexes for tumor targeted gene delivery with reduced toxicity. Int. J. Pharm. 2019, 573, 118889. [Google Scholar] [CrossRef] [PubMed]Pandey, R.; Sharma, S.; Khuller, G. Oral solid lipid nanoparticle-based antitubercular chemotherapy. Tuberculosis 2005, 85, 415–420. [Google Scholar] [CrossRef]Johnson, B.M.; Charman, W.N.; Porter, C.J.H. An In Vitro Examination of the Impact of Polyethylene Glycol 400, Pluronic P85, and Vitamin E d-a-Tocopheryl Polyethylene Glycol 1000 Succinate on P-Glycoprotein Efflux and Enterocyte-Based Metabolism in Excised Rat Intestine. AAPS PharmSciTech 2002, 4, 193–205. [Google Scholar] [CrossRef]AboulFotouh, K.; Allam, A.A.; El-Badry, M.; El-Sayed, A.M. A Self-Nanoemulsifying Drug Delivery System for Enhancing the Oral Bioavailability of Candesartan Cilexetil: Ex Vivo and In Vivo Evaluation. J. Pharm. Sci. 2019, 108, 3599–3608. [Google Scholar] [CrossRef]Jain, S.; Patel, N.; Shah, M.K.; Khatri, P.; Vora, N. Recent Advances in Lipid-Based Vesicles and Particulate Carriers for Topical and Transdermal Application. J. Pharm. Sci. 2016, 106, 423–445. [Google Scholar] [CrossRef]Pandita, D.; Kumar, S.; Poonia, N.; Lather, V. Solid lipid nanoparticles enhance oral bioavailability of resveratrol, a natural polyphenol. Food Res. Int. 2014, 62, 1165–1174. [Google Scholar] [CrossRef]Leite, T.; Hillaireau, H.; Vergnaud, J.; Rivano, M.; Deloménie, C.; Courilleau, D.; Arpicco, S.; Suk, J.S.; Hanes, J.; Fattal, E. Hyaluronic acid-conjugated lipoplexes for targeted delivery of siRNA in a murine metastatic lung cancer model. Int. J. Pharm. 2016, 514, 103–111. [Google Scholar] [CrossRef]Islan, G.A.; Martin-Saldaña, S.; Chevalier, M.T.; Alvarez, V.A.; Castro, G.R. ADME. Processes in Pharmaceutical Sciences. In Nanotechnology and Drug Delivery; Springer: Berlin, Germany, 2018. [Google Scholar] [CrossRef]Schultz, H.B.; Thomas, N.; Rao, S.; Prestidge, C.A. Supersaturated Silica-Lipid Hybrids (Super-SLH): An Improved Solid-State Lipid-Based Oral Drug Delivery System with Enhanced Drug Loading. Eur. J. Pharm. Biopharm. 2017, 125, 13–20. [Google Scholar] [CrossRef] [PubMed]Smith, L.A.; Serrano, D.R.; Mauger, M.; Dea-ayuela, M.A.; Lalatsa, A. Orally Bioavailable and Effective Buparvaquone Lipid Based Nanomedicines for Visceral Leishmaniasis. Mol. Pharm. 2018, 15, 2570–2583. [Google Scholar] [CrossRef]Pandya, N.T.; Jani, P.; Vanza, J.; Tandel, H. Solid lipid nanoparticles as an efficient drug delivery system of olmesartan medoxomil for the treatment of hypertension. Colloids Surf. B Biointerfaces 2018, 165, 37–44. [Google Scholar] [CrossRef] [PubMed]Al-Maghrabi, P.M.; Khafagy, E.-S.; Ghorab, M.M.; Gad, S. Influence of formulation variables on miconazole nitrate–loaded lipid based nanocarrier for topical delivery. Colloids Surf. B Biointerfaces 2020, 193, 111046. [Google Scholar] [CrossRef] [PubMed]Hamed, R.; Farhan, A.; Abu-Huwaij, R.; Mahmoud, N.N.; Kamal, A. Lidocaine Microemulsion-Laden Organogels as Lipid-Based Systems for Topical Delivery. J. Pharm. Innov. 2019, 15, 521–534. [Google Scholar] [CrossRef]Permana, A.D.; Tekko, I.A.; McCrudden, M.T.C.; Anjani, Q.K.; Ramadon, D.; McCarthy, H.O.; Donnelly, R.F. Solid lipid nanoparticle-based dissolving microneedles: A promising intradermal lymph targeting drug delivery system with potential for enhanced treatment of lymphatic filariasis. J. Control. Release 2019, 316, 34–52. [Google Scholar] [CrossRef]Mehta, P.; Ghoshal, D.; Pawar, A.P.; Kadam, S.S.; Dhapte-Pawar, V.S. Recent advances in inhalable liposomes for treatment of pulmonary diseases: Concept to clinical stance. J. Drug Deliv. Sci. Technol. 2020, 56, 101509. [Google Scholar] [CrossRef]Zhu, X.; Kong, Y.; Liu, Q.; Lu, Y.; Xing, H.; Lu, X.; Yang, Y.; Xu, J.; Li, N.; Zhao, D.; et al. Pulmonary Pharmacology & Therapeutics Inhalable dry powder prepared from folic acid-conjugated docetaxel liposomes alters pharmacodynamic and pharmacokinetic properties relevant to lung cancer chemotherapy. Pulm. Pharmacol. Ther. 2019, 55, 50–61. [Google Scholar] [CrossRef]Jaafar-Maalej, C.; Elaissari, A.; Fessi, H. Lipid-based carriers: Manufacturing and applications for pulmonary route. Expert Opin. Drug Deliv. 2012, 9, 1111–1127. [Google Scholar] [CrossRef]Umerska, A.; Mugheirbi, N.A.; Kasprzak, A.; Saulnier, P.; Tajber, L. Carbohydrate-based Trojan microparticles as carriers for pulmonary delivery of lipid nanocapsules using dry powder inhalation. Powder Technol. 2020, 364, 507–521. [Google Scholar] [CrossRef]Zhang, H.; Leal, J.; Soto, M.; Smyth, H.; Ghosh, D. Aerosolizable lipid nanoparticles for pulmonary delivery of mRNA through design of experiments. Pharmaceutics 2020, 12, 1042. [Google Scholar] [CrossRef] [PubMed]Nemati, E.; Mokhtarzadeh, A.; Panahi-Azar, V.; Mohammadi, A.; Hamishehkar, H.; Mesgari-Abbasi, M.; Dolatabadi, J.E.N.; De La Guardia, M. Ethambutol-Loaded Solid Lipid Nanoparticles as Dry Powder Inhalable Formulation for Tuberculosis Therapy. AAPS PharmSciTech 2019, 20, 120. [Google Scholar] [CrossRef] [PubMed]Marcano, R.G.D.J.V.; Tominaga, T.T.; Khalil, N.M.; Pedroso, L.S.; Mainardes, R.M. Chitosan functionalized poly (ε-caprolactone) nanoparticles for amphotericin B delivery. Carbohydr. Polym. 2018, 202, 345–354. [Google Scholar] [CrossRef] [PubMed]Zhang, T.; Peng, Q.; San, F.; Luo, J.; Wang, M.; Wu, W. Biomaterials A high-efficiency, low-toxicity, phospholipids-based phase separation gel for long-term delivery of peptides. Biomaterials 2015, 45, 1–9. [Google Scholar] [CrossRef] [PubMed]Khan, U.A.; Parveen, U.; Hasan, N.; Ahmed, M.Z.; Saad, S.; Ahmad, F.; Jain, G.K. Parenteral sustained release lipid phase-transition system of ziprasidone: Fabrication and evaluation for schizophrenia therapy. Drug Des. Dev. Ther. 2020, 14, 2237–2247. [Google Scholar] [CrossRef] [PubMed]Aggarwal, B.B.; Harikumar, K.B. Potential therapeutic effects of curcumin, the anti-inflammatory agent, against neurodegenerative, cardiovascular, pulmonary, metabolic, autoimmune and neoplastic diseases. Int. J. Biochem. Cell Biol. 2009, 41, 40–59. [Google Scholar] [CrossRef][Green Version]Saedi, A.; Rostamizadeh, K.; Parsa, M.; Dalali, N.; Ahmadi, N. Preparation and characterization of nanostructured lipid carriers as drug delivery system: Influence of liquid lipid types on loading and cytotoxicity. Chem. Phys. Lipids 2018, 216, 65–72. [Google Scholar] [CrossRef]Das, T.; Venkatesh, M.; Kumar, T.P.; Koland, M. SLN based alendronate in situ gel as an implantable drug delivery system—A full factorial design approach. J. Drug Deliv. Sci. Technol. 2019, 55, 101415. [Google Scholar] [CrossRef]Chen, M. Lipid excipients and delivery systems for pharmaceutical development: A regulatory perspective. Adv. Drug Deliv. Rev. 2008, 60, 768–777. [Google Scholar] [CrossRef]Inactive Ingredient Search for Approved Drug Products. Available online: https://www.accessdata.fda.gov/scripts/cder/iig/index.cfm (accessed on 1 January 2022).Kohli, K.; Chopra, S.; Dhar, D.; Arora, S.; Khar, R.K. Self-emulsifying drug delivery systems: An approach to enhance oral bioavailability. Drug Discov. Today 2010, 15, 958–965. [Google Scholar] [CrossRef]Saluja, V.; Sekhon, B.S. The regulation of Pharmaceutical Excipients The regulation of pharmaceutical excipients. J. Excip. Food Chem. 2014, 4, 1049. [Google Scholar]Wang, W.; Ye, Z.; Gao, H.; Ouyang, D. Computational pharmaceutics—A new paradigm of drug delivery. J. Control. Release 2021, 338, 119–136. [Google Scholar] [CrossRef] [PubMed]Cottura, N.; Howarth, A.; Rajoli, R.K.; Siccardi, M. The Current Landscape of Novel Formulations and the Role of Mathematical Modeling in Their Development. J. Clin. Pharmacol. 2020, 60, S77–S97. [Google Scholar] [CrossRef] [PubMed]Abd-Algaleel, S.A.; Abdel-Bar, H.M.; Metwally, A.A.; Hathout, R.M. Evolution of the computational pharmaceutics approaches in the modeling and prediction of drug payload in lipid and polymeric nanocarriers. Pharmaceuticals 2021, 14, 645. [Google Scholar] [CrossRef] [PubMed]Gao, H.; Jia, H.; Dong, J.; Yang, X.; Li, H.; Ouyang, D. Integrated in silico formulation design of self-emulsifying drug delivery systems. Acta Pharm. Sin. B 2021, 11, 3585–3594. [Google Scholar] [CrossRef] [PubMed]Bunker, A.; Róg, T. Mechanistic Understanding from Molecular Dynamics Simulation in Pharmaceutical Research 1: Drug Delivery. Front. Mol. Biosci. 2020, 7, 371. [Google Scholar] [CrossRef] [PubMed]Aminpour, M.; Montemagno, C.; Tuszynski, J.A. An Overview of Molecular Modeling for Drug Discovery with Specific Illustrative Examples of Applications. Molecules 2019, 24, 1693. [Google Scholar] [CrossRef] [PubMed][Green Version]O’Shea, J.P.; Faisal, W.; Ruane-O’Hora, T.; Devine, K.J.; Kostewicz, E.S.; O’Driscoll, C.M.; Griffin, B.T. Lipidic dispersion to reduce food dependent oral bioavailability of fenofibrate: In vitro, in vivo and in silico assessments. Eur. J. Pharm. Biopharm. 2015, 96, 207–216. [Google Scholar] [CrossRef]Zheng, W.; Jain, A.; Papoutsakis, D.; Dannenfelser, R.; Panicucci, R.; Garad, S. Selection of oral bioavailability enhancing formulations during drug discovery. Drug Dev. Ind. Pharm. 2012, 38, 235–247. [Google Scholar] [CrossRef]Bergström, C.A.; Charman, W.; Porter, C. Computational prediction of formulation strategies for beyond-rule-of-5 compounds. Adv. Drug Deliv. Rev. 2016, 101, 6–21. [Google Scholar] [CrossRef]Jones, H.M. Basic Concepts in Physiologically Based Pharmacokinetic Modeling in Drug Discovery and Development. CPT: Pharmacomet. Syst. Pharmacol. 2013, 2, e63. [Google Scholar] [CrossRef] [PubMed]Apgar, J.F.; Tang, J.-P.; Singh, P.; Balasubramanian, N.; Burke, J.; Hodges, M.R.; Lasaro, M.A.; Lin, L.; Miliard, B.L.; Moore, K.; et al. Quantitative Systems Pharmacology Model of hUGT1A1-modRNA Encoding for the UGT1A1 Enzyme to Treat Crigler-Najjar Syndrome Type 1. CPT Pharmacomet. Syst. Pharmacol. 2018, 7, 404–412. [Google Scholar] [CrossRef] [PubMed][Green Version]Turner, D.C.; Yin, F.; Kindt, J.T.; Zhang, H. Molecular Dynamics Simulations of Glycocholate—Oleic Acid Mixed Micelle Assembly. Langmuir 2010, 26, 4687–4692. [Google Scholar] [CrossRef] [PubMed]Bogusz, S.; Venable, R.M.; Pastor, R.W. Molecular Dynamics Simulations of Octyl Glucoside Micelles: Structural Properties. J. Phys. Chem. B 2000, 104, 5462–5470. [Google Scholar] [CrossRef]Birru, W.A.; Warren, D.B.; Han, S.; Benameur, H.; Porter, C.J.H.; Pouton, C.W.; Chalmers, D.K.; Birru, W.A.; Warren, D.B.; Han, S.; et al. Computational and experimental models of the gastrointestinal environment 2. Phase behavior and drug solubilisation capacity of a Type I lipid-based drug formulation after digestion. Mol. Pharm. 2016, 14, 580–592. [Google Scholar] [CrossRef] [PubMed]King, D.T.; Warren, D.B.; Pouton, C.W.; Chalmers, D.K. Using Molecular Dynamics to Study Liquid Phase Behavior: Simulations of the Ternary Sodium Laurate/Sodium Oleate/Water System. Langmuir 2011, 27, 11381–11393. [Google Scholar] [CrossRef]Berendsen, H.J.C.; Van Der Spoel, D.; Van Drunen, R. GROMACS: A message-passing parallel molecular dynamics implementation. Comput. Phys. Commun. 1995, 91, 43–56. [Google Scholar] [CrossRef]Lindahl, E.; Hess, B. GROMACS 3.0: A package for molecular simulation and trajectory analysis. J. Mol. Model. 2001, 7, 306–317. [Google Scholar] [CrossRef]Warren, D.B.; King, D.; Benameur, H.; Pouton, C.W.; Chalmers, D.K. Glyceride Lipid Formulations: Molecular Dynamics Modeling of Phase Behavior during Dispersion and Molecular Interactions between Drugs and Excipients. Pharm. Res. 2013, 30, 3238–3253. [Google Scholar] [CrossRef]Egberts, E.; Marrink, S.; Berendsen, H.J.C. Molecular dynamics simulation of a phospholipid membrane. Eur. Biophys. J. 1994, 22, 423–436. [Google Scholar] [CrossRef]Kandt, C.; Ash, W.L.; Tieleman, D.P. Setting up and running molecular dynamics simulations of membrane proteins. Methods 2007, 41, 475–488. [Google Scholar] [CrossRef] [PubMed]Poger, D.; Mark, A.E. Turning the growth hormone receptor on: Evidence that hormone binding induces subunit rotation. Proteins Struct. Funct. Bioinform. 2009, 78, 1163–1174. [Google Scholar] [CrossRef] [PubMed]Alskär, L.C.; Bergström, C.A.S. Models for Predicting Drug Absorption from Oral Lipid-Based Formulations. Curr. Mol. Biol. Rep. 2015, 1, 141–147. [Google Scholar] [CrossRef][Green Version]Wei, H.; Löbenberg, R. Biorelevant dissolution media as a predictive tool for glyburide a class II drug. Eur. J. Pharm. Sci. 2006, 29, 45–52. [Google Scholar] [CrossRef] [PubMed]Aburub, A.; Risley, D.S.; Mishra, D. A critical evaluation of fasted state simulating gastric fluid (FaSSGF) that contains sodium lauryl sulfate and proposal of a modified recipe. Int. J. Pharm. 2008, 347, 16–22. [Google Scholar] [CrossRef] [PubMed]
+
+
+
+
+
+
+
+Scheme 1.
+Classification of commercially available lipid excipients.
+
+
+
+
+ Scheme 1.
+Classification of commercially available lipid excipients.
+
+
+
+
+
+
+
+
+
+Table 1.
+List of lipid excipients used in the pharmaceutical product development USFDA IID- United States of Food and drug administration inactive ingredient database, USP—United States Pharmacopeia, NF—National formulary.
+
+
+
+Table 1.
+List of lipid excipients used in the pharmaceutical product development USFDA IID- United States of Food and drug administration inactive ingredient database, USP—United States Pharmacopeia, NF—National formulary.
+
+Chemical NameFunctionalitiesExampleRegulatory StatusCaprylocaproyl macrogol-8 glyceridesSolubilizerSMEDDS [8]FDA IIDHard FatTaste masking, Hot melt coatingHME, Melt granulation, NLCs [9]USFDAGlycerol dibehenateSustained-release, Lubricant, API protectionSR tablet, SLN and NLCs [10]FDA IIDGlyceryl MonostearateLubricant, EmulsifierColloidal carriers [11]USFDAGlycerol distearateSustained release,Lubricant, Taste-maskingSR Tablet, Lipid nanoparticles, Hot melt coating [12]FDA IIDGlyceryl MonocaprylatePermeability enhancer, Emulsifier, SolubilizerSEDDS [13]USP/NFPropylene Glycol MonocaprylateEmulsifier, SolubilizerSEDDS, Nanoparticles [13]USFDAGlycerol MonocaprylocaprateSolubilizer, penetration enhancerSNEDDS [14]USFDASuccinic TriglyceridesSuper fattingAgentCreams [15]USFDALauroyl macrogol-32 glyceridesBioavailability enhancerHard gelatin capsule [15] (SNEDDS, SMEDDS), Mixed micelles [16]FDA IIDOleoyl macrogrol-32 glycerideBioavailability enhancer, SolubilizerOral solutions, SMEDDS [17]FDA IIDPolyglyceryl-3 dioleateSurfactantNiosomes [18]FDA IIDPropylene glycol dicaprylocaprateOily vehicleEmulsions and Nanocapsules [19]FDA IIDTrimyristinControlled release, Lubricant, taste maskingSLNs [20], HME, SEDDS, SLMs [20]USFDATristearin/Glyceryl TristearateControlled release, Lubricant, lipid carrierHME, Hot melt coating as a taste masking agent, SMEDDS and SLMs [20,21]USFDAGlyceryl CaprylatePermeability enhancer, Emulsifier, SolubilizerSMEDDS [22,23]IIG/USFDAPolyoxyl stearateBioavailability enhancer(SNEDDS, SMEDDS) and Solid dispersion [23,24,25,26]FDA IIDStearoylmacrogol-32 glycerideBioavailability enhancerSolid dispersion [26]FDA IID
+
+
+
+
+
+
+
+
+
+Table 2.
+Summary of application of lipid excipients.
+
+
+
+Table 2.
+Summary of application of lipid excipients.
+
+S. No.DrugFormulationExcipientsApplicationReferences1OlanzapineNLCsGlyceryl monostearate,Tripalmitate, polyoxypropylenepolyoxyethylene block copolymer (pluronic F-68)Enhancement in oral bioavailability bypassing pre systemic metabolismJawahar N. et al. [92]2CurcuminEmulsionCorn oil, polyethylene sorbitan monooleateImproved bioavailabilityLiqiang et al. [93]3HydrochlorothiazideSLNGlyceryl distearate, polyoxypropylenepolyoxyethylene block copolymer (pluronic F-68) and polyethylene sorbitan monooleateIncreased diuretic effect and bioavailabilityCirri et al. [94]4Abiraterone acetateSilica-lipid hybridsPropylene glycol monocaprylate, glyceryl caprylate, PEG-35 castor oilExceeded the bioavailability by 1.43 foldSchultz et al. [95]5PaclitaxelMicroemulsionDistilled diacetylated monoglyceride, lecithin, glyceryl caprylatep-gp efflux inhibition, increase in in situ permeabilityNornoo et al. [96]6MupirocinNLCCetyl palmitate, caprylic/caprylic acid, polyethylene sorbitan monooleate, phosphatidylcholinepreventing enzymatic degradationAlcantar et al. [97]7QuercetinMixed micellesPolyoxazolines, phosphatidylcholineImproved antioxidant effectSimon et al. [98]8IbuprofenMixed micellesSodium deoxycholate, polyethylene sorbitan monooleateEnhanced topical deliverySun et al. [4]9ChloraluminumphthalocyanineLiposomesegg phosphatidylcholineReduced parasitic load in liver and spleenLopes SC et al. [99]10AllantoinLiposomesArgan oil, phospholipidsEnhanced penetrationManca et al. [100]11trans-resveratrolMicroemulsionsPEG-35 castor oil,1,2-propanediol, essential oilsEnhanced skin permeationCong et al. [101]12Methotrexate and etanerceptSLNsCetyl palmitateimproved drug therapeutic effectFerreira et al. [102]13Ferrous chlorophyllinEthosomesSoya Lecithin, ceteareth-25Increased skin penetrationSimone et al. [103]14Dexamethasone acetateSLNsSoybean lecithin, glycerol tristearate, pluronic F-68Higher uptake by the lungXiang et al. [104]15Lipofectamine®Lipoplexes1,2-dioleoyloxy-3(trimethylammonium)propane, dioleoylphosphatidylethanolamin, DNase I1.3-fold higher tumor transfectionKumar et al. [105]
+
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+© 2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).
+
+
+
+Share and Cite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MDPI and ACS Style
+
+Nakmode, D.; Bhavana, V.; Thakor, P.; Madan, J.; Singh, P.K.; Singh, S.B.; Rosenholm, J.M.; Bansal, K.K.; Mehra, N.K. Fundamental Aspects of Lipid-Based Excipients in Lipid-Based Product Development. Pharmaceutics 2022, 14, 831.
+https://doi.org/10.3390/pharmaceutics14040831
+
+
+AMA Style
+
+Nakmode D, Bhavana V, Thakor P, Madan J, Singh PK, Singh SB, Rosenholm JM, Bansal KK, Mehra NK. Fundamental Aspects of Lipid-Based Excipients in Lipid-Based Product Development. Pharmaceutics. 2022; 14(4):831.
+https://doi.org/10.3390/pharmaceutics14040831
+
+Chicago/Turabian Style
+
+Nakmode, Deepa, Valamla Bhavana, Pradip Thakor, Jitender Madan, Pankaj Kumar Singh, Shashi Bala Singh, Jessica M. Rosenholm, Kuldeep K. Bansal, and Neelesh Kumar Mehra. 2022. "Fundamental Aspects of Lipid-Based Excipients in Lipid-Based Product Development" Pharmaceutics 14, no. 4: 831.
+https://doi.org/10.3390/pharmaceutics14040831
+
+
+Find Other Styles
+
+
+
+
+
+
+
+
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here.
+
+Article Metrics
+
+
+No
+
+No
+
+
+
+
+Article Access Statistics
+
+For more information on the journal statistics, click here.
+
+Multiple requests from the same IP address are counted as one view.
+
+
+
+
+
+
+
+
+
+
+Zoom
+|
+ Orient 
+|
+ As Lines 
+|
+ As Sticks 
+|
+ As Cartoon 
+|
+ As Surface 
+|
+Previous Scene
+|
+Next Scene
+
+
+
+
+
+
+
+
+
+
+Cite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Export citation file:
+BibTeX |
+EndNote |
+RIS
+
+
+
+
+MDPI and ACS Style
+
+Nakmode, D.; Bhavana, V.; Thakor, P.; Madan, J.; Singh, P.K.; Singh, S.B.; Rosenholm, J.M.; Bansal, K.K.; Mehra, N.K. Fundamental Aspects of Lipid-Based Excipients in Lipid-Based Product Development. Pharmaceutics 2022, 14, 831.
+https://doi.org/10.3390/pharmaceutics14040831
+
+
+AMA Style
+
+Nakmode D, Bhavana V, Thakor P, Madan J, Singh PK, Singh SB, Rosenholm JM, Bansal KK, Mehra NK. Fundamental Aspects of Lipid-Based Excipients in Lipid-Based Product Development. Pharmaceutics. 2022; 14(4):831.
+https://doi.org/10.3390/pharmaceutics14040831
+
+Chicago/Turabian Style
+
+Nakmode, Deepa, Valamla Bhavana, Pradip Thakor, Jitender Madan, Pankaj Kumar Singh, Shashi Bala Singh, Jessica M. Rosenholm, Kuldeep K. Bansal, and Neelesh Kumar Mehra. 2022. "Fundamental Aspects of Lipid-Based Excipients in Lipid-Based Product Development" Pharmaceutics 14, no. 4: 831.
+https://doi.org/10.3390/pharmaceutics14040831
+
+
+Find Other Styles
+
+
+
+
+
+
+
+
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here.
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+Pharmaceutics,
+EISSN 1999-4923,
+Published by MDPI
+
+
+
+RSS
+
+
+Content Alert
+
+
+
+
+
+
+Further Information
+
+
+Article Processing Charges
+
+
+Pay an Invoice
+
+
+Open Access Policy
+
+
+ Contact MDPI
+
+
+Jobs at MDPI
+
+
+
+
+Guidelines
+
+
+For Authors
+
+
+For Reviewers
+
+
+For Editors
+
+
+For Librarians
+
+
+For Publishers
+
+
+For Societies
+
+
+For Conference Organizers
+
+
+
+
+MDPI Initiatives
+
+
+Sciforum
+
+
+MDPI Books
+
+
+Preprints.org
+
+
+Scilit
+
+
+SciProfiles
+
+
+Encyclopedia
+
+
+JAMS
+
+
+Proceedings Series
+
+
+
+
+Follow MDPI
+
+
+LinkedIn
+
+
+Facebook
+
+
+Twitter
+
+
+
+
+
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+Acoustics
+Actuators
+Administrative Sciences
+Adolescents
+Advances in Respiratory Medicine
+Aerospace
+Agriculture
+AgriEngineering
+Agrochemicals
+Agronomy
+AI
+Air
+Algorithms
+Allergies
+Alloys
+Analytica
+Analytics
+Anatomia
+Anesthesia Research
+Animals
+Antibiotics
+Antibodies
+Antioxidants
+Applied Biosciences
+Applied Mechanics
+Applied Microbiology
+Applied Nano
+Applied Sciences
+Applied System Innovation
+AppliedChem
+AppliedMath
+Aquaculture Journal
+Architecture
+Arthropoda
+Arts
+Astronomy
+Atmosphere
+Atoms
+Audiology Research
+Automation
+Axioms
+Bacteria
+Batteries
+Behavioral Sciences
+Beverages
+Big Data and Cognitive Computing
+BioChem
+Bioengineering
+Biologics
+Biology
+Biology and Life Sciences Forum
+Biomass
+Biomechanics
+BioMed
+Biomedicines
+BioMedInformatics
+Biomimetics
+Biomolecules
+Biophysica
+Biosensors
+BioTech
+Birds
+Blockchains
+Brain Sciences
+Buildings
+Businesses
+C
+Cancers
+Cardiogenetics
+Catalysts
+Cells
+Ceramics
+Challenges
+ChemEngineering
+Chemistry
+Chemistry Proceedings
+Chemosensors
+Children
+Chips
+CivilEng
+Clean Technologies
+Climate
+Clinical and Translational Neuroscience
+Clinics and Practice
+Clocks & Sleep
+Coasts
+Coatings
+Colloids and Interfaces
+Colorants
+Commodities
+Complications
+Compounds
+Computation
+Computer Sciences & Mathematics Forum
+Computers
+Condensed Matter
+Conservation
+Construction Materials
+Corrosion and Materials Degradation
+Cosmetics
+COVID
+Crops
+Cryptography
+Crystals
+Current Issues in Molecular Biology
+Current Oncology
+Dairy
+Data
+Dentistry Journal
+Dermato
+Dermatopathology
+Designs
+Diabetology
+Diagnostics
+Dietetics
+Digital
+Disabilities
+Diseases
+Diversity
+DNA
+Drones
+Drugs and Drug Candidates
+Dynamics
+Earth
+Ecologies
+Econometrics
+Economies
+Education Sciences
+Electricity
+Electrochem
+Electronic Materials
+Electronics
+Encyclopedia
+Endocrines
+Energies
+Eng
+Engineering Proceedings
+Entropy
+Environmental Sciences Proceedings
+Environments
+Epidemiologia
+Epigenomes
+European Burn Journal
+European Journal of Investigation in Health, Psychology and Education
+Fermentation
+Fibers
+FinTech
+Fire
+Fishes
+Fluids
+Foods
+Forecasting
+Forensic Sciences
+Forests
+Fossils
+Foundations
+Fractal and Fractional
+Fuels
+Future
+Future Internet
+Future Pharmacology
+Future Transportation
+Galaxies
+Games
+Gases
+Gastroenterology Insights
+Gastrointestinal Disorders
+Gastronomy
+Gels
+Genealogy
+Genes
+Geographies
+GeoHazards
+Geomatics
+Geosciences
+Geotechnics
+Geriatrics
+Gout, Urate, and Crystal Deposition Disease
+Grasses
+Hardware
+Healthcare
+Hearts
+Hemato
+Hematology Reports
+Heritage
+Histories
+Horticulturae
+Hospitals
+Humanities
+Humans
+Hydrobiology
+Hydrogen
+Hydrology
+Hygiene
+Immuno
+Infectious Disease Reports
+Informatics
+Information
+Infrastructures
+Inorganics
+Insects
+Instruments
+International Journal of Environmental Research and Public Health
+International Journal of Financial Studies
+International Journal of Molecular Sciences
+International Journal of Neonatal Screening
+International Journal of Plant Biology
+International Journal of Translational Medicine
+International Journal of Turbomachinery, Propulsion and Power
+International Medical Education
+Inventions
+IoT
+ISPRS International Journal of Geo-Information
+J
+Journal of Ageing and Longevity
+Journal of Cardiovascular Development and Disease
+Journal of Clinical & Translational Ophthalmology
+Journal of Clinical Medicine
+Journal of Composites Science
+Journal of Cybersecurity and Privacy
+Journal of Developmental Biology
+Journal of Experimental and Theoretical Analyses
+Journal of Functional Biomaterials
+Journal of Functional Morphology and Kinesiology
+Journal of Fungi
+Journal of Imaging
+Journal of Intelligence
+Journal of Low Power Electronics and Applications
+Journal of Manufacturing and Materials Processing
+Journal of Marine Science and Engineering
+Journal of Molecular Pathology
+Journal of Nanotheranostics
+Journal of Nuclear Engineering
+Journal of Otorhinolaryngology, Hearing and Balance Medicine
+Journal of Personalized Medicine
+Journal of Respiration
+Journal of Risk and Financial Management
+Journal of Sensor and Actuator Networks
+Journal of Theoretical and Applied Electronic Commerce Research
+Journal of Vascular Diseases
+Journal of Xenobiotics
+Journal of Zoological and Botanical Gardens
+Journalism and Media
+Kidney and Dialysis
+Kinases and Phosphatases
+Knowledge
+Land
+Languages
+Laws
+Life
+Liquids
+Literature
+Livers
+Logics
+Logistics
+Lubricants
+Lymphatics
+Machine Learning and Knowledge Extraction
+Machines
+Macromol
+Magnetism
+Magnetochemistry
+Marine Drugs
+Materials
+Materials Proceedings
+Mathematical and Computational Applications
+Mathematics
+Medical Sciences
+Medical Sciences Forum
+Medicina
+Medicines
+Membranes
+Merits
+Metabolites
+Metals
+Meteorology
+Methane
+Methods and Protocols
+Metrology
+Micro
+Microbiology Research
+Micromachines
+Microorganisms
+Microplastics
+Minerals
+Mining
+Modelling
+Molbank
+Molecules
+Multimodal Technologies and Interaction
+Muscles
+Nanoenergy Advances
+Nanomanufacturing
+Nanomaterials
+NDT
+Network
+Neuroglia
+Neurology International
+NeuroSci
+Nitrogen
+Non-Coding RNA
+Nursing Reports
+Nutraceuticals
+Nutrients
+Obesities
+Oceans
+Onco
+Optics
+Oral
+Organics
+Organoids
+Osteology
+Oxygen
+Parasitologia
+Particles
+Pathogens
+Pathophysiology
+Pediatric Reports
+Pharmaceuticals
+Pharmaceutics
+Pharmacoepidemiology
+Pharmacy
+Philosophies
+Photochem
+Photonics
+Phycology
+Physchem
+Physical Sciences Forum
+Physics
+Physiologia
+Plants
+Plasma
+Platforms
+Pollutants
+Polymers
+Polysaccharides
+Poultry
+Powders
+Proceedings
+Processes
+Prosthesis
+Proteomes
+Psych
+Psychiatry International
+Psychoactives
+Publications
+Quantum Beam Science
+Quantum Reports
+Quaternary
+Radiation
+Reactions
+Receptors
+Recycling
+Religions
+Remote Sensing
+Reports
+Reproductive Medicine
+Resources
+Rheumato
+Risks
+Robotics
+Ruminants
+Safety
+Sci
+Scientia Pharmaceutica
+Sclerosis
+Seeds
+Sensors
+Separations
+Sexes
+Signals
+Sinusitis
+Smart Cities
+Social Sciences
+Societies
+Software
+Soil Systems
+Solar
+Solids
+Spectroscopy Journal
+Sports
+Standards
+Stats
+Stresses
+Surfaces
+Surgeries
+Surgical Techniques Development
+Sustainability
+Sustainable Chemistry
+Symmetry
+SynBio
+Systems
+Targets
+Taxonomy
+Technologies
+Telecom
+Textiles
+Thalassemia Reports
+Thermo
+Tomography
+Tourism and Hospitality
+Toxics
+Toxins
+Transplantology
+Trauma Care
+Trends in Higher Education
+Tropical Medicine and Infectious Disease
+Universe
+Urban Science
+Uro
+Vaccines
+Vehicles
+Venereology
+Veterinary Sciences
+Vibration
+Virtual Worlds
+Viruses
+Vision
+Waste
+Water
+Wind
+Women
+World
+World Electric Vehicle Journal
+Youth
+Zoonotic Diseases
+
+
+Subscribe
+
+
+
+
+
+
+
+© 1996-2023 MDPI (Basel, Switzerland) unless otherwise stated
+
+
+
+Disclaimer
+
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely
+those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or
+the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas,
+methods, instructions or products referred to in the content.
+
+
+Terms and Conditions
+
+
+Privacy Policy
+
+
+
+
+
+
+
+We use cookies on our website to ensure you get the best experience.
+Read more about our cookies here.
+
+
+Accept
+
+
+
+
+We have just recently launched a new version of our website.
+
+Help us to further improve by taking part in this short 5 minute survey 
+here.
+here.
+
+
+
+
+Never show this again
+
+
+
+
+
+
+Share Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy
+
+
+
+clear
+
+
+
+
+
+Share
+
+
+
+
+
+https://www.mdpi.com/1582182
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+
+
+Back to TopTop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

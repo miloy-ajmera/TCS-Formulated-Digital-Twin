@@ -1,0 +1,11700 @@
+Document Name: role of DYNACERIN 660 in Cream3
+Document link: https://patents.google.com/patent/WO2011064384A1/en
+
+
+
+WO2011064384A1 - Hatching fluid enzymes and uses thereof 
+        - Google Patents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WO2011064384A1 - Hatching fluid enzymes and uses thereof 
+        - Google Patents
+Hatching fluid enzymes and uses thereof 
+       
+
+Download PDF
+Info
+
+Publication number
+WO2011064384A1
+
+
+
+WO2011064384A1
+PCT/EP2010/068509
+EP2010068509W
+WO2011064384A1
+WO 2011064384 A1
+WO2011064384 A1
+WO 2011064384A1
+ 
+ 
+ 
+EP 2010068509 W
+EP2010068509 W
+EP 2010068509W
+WO 2011064384 A1
+WO2011064384 A1
+WO 2011064384A1
+Authority
+WO
+WIPO (PCT)
+Prior art keywords
+sequence
+skin
+polypeptide
+nucleic acid
+seq
+Prior art date
+2009-11-30
+
+Application number
+PCT/EP2010/068509
+Other languages
+
+
+French (fr)
+    
+
+Inventor
+Hans Kristian Leren
+Bernt Walther
+Original Assignee
+Aqua Bio Technology Asa
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+2009-11-30
+Filing date
+2010-11-30
+Publication date
+2011-06-03
+Family has litigation 
+
+
+
+Priority claimed from GB0921001.4
+external-priority
+
+
+2010-11-30
+Priority to NZ60049910A
+priority
+Critical
+patent/NZ600499A/en
+
+
+2010-11-30
+Priority to US13/511,326
+priority
+patent/US9133256B2/en
+
+
+2010-11-30
+Priority to JP2012540460A
+priority
+patent/JP5913117B2/en
+
+
+2010-11-30
+Priority to CA2781834A
+priority
+patent/CA2781834C/en
+
+
+2010-11-30
+Priority to ES10784313T
+priority
+patent/ES2741586T3/en
+
+
+2010-11-30
+Priority to EP10784313.8A
+priority
+patent/EP2506825B1/en
+
+
+2010-11-30
+Priority to MX2012006090A
+priority
+patent/MX340231B/en
+
+
+2010-11-30
+Priority to CN201080054198.1A
+priority
+patent/CN102724954B/en
+
+
+2010-11-30
+Priority to IN4918DEN2012
+priority
+patent/IN2012DN04918A/en
+
+
+2010-11-30
+Application filed by Aqua Bio Technology Asa
+filed
+Critical
+Aqua Bio Technology Asa
+
+
+2010-11-30
+Priority to KR1020127016994A
+priority
+patent/KR101842521B1/en
+
+
+2010-11-30
+Priority to AU2010323022A
+priority
+patent/AU2010323022B2/en
+
+
+2010-11-30
+Priority to PL10784313T
+priority
+patent/PL2506825T3/en
+
+
+2010-11-30
+Priority to BR112012012909A
+priority
+patent/BR112012012909A2/en
+
+
+2010-11-30
+Priority to RU2012127298/10A
+priority
+patent/RU2595399C2/en
+
+
+2011-06-03
+Publication of WO2011064384A1
+publication
+Critical
+patent/WO2011064384A1/en
+
+
+2012-06-04
+Priority to ZA2012/04066A
+priority
+patent/ZA201204066B/en
+
+
+2013-01-16
+First worldwide family litigation filed
+litigation
+Critical
+https://patents.darts-ip.com/?family=41572950&utm_source=google_patent&utm_medium=platform_link&utm_campaign=public_patent_search&patent=WO2011064384(A1)
+"Global patent litigation datasetâ by Darts-ip is licensed under a Creative Commons Attribution 4.0 International License.
+
+
+2015-04-21
+Priority to AU2015202010A
+priority
+patent/AU2015202010B2/en
+
+
+2015-07-30
+Priority to US14/813,390
+priority
+patent/US9624483B2/en
+
+
+2017-03-06
+Priority to US15/450,479
+priority
+patent/US9950031B2/en
+
+Links
+
+
+
+Espacenet
+
+
+
+Global Dossier
+
+
+
+PatentScope
+
+
+
+Discuss
+
+
+
+
+230000012447
+hatching
+Effects
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+58
+
+
+239000012530
+fluid
+Substances
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+50
+
+
+102000004190
+Enzymes
+Human genes
+
+
+
+
+0.000
+title
+description
+8
+
+
+108090000790
+Enzymes
+Proteins
+
+
+
+
+0.000
+title
+description
+8
+
+
+229920001184
+polypeptide
+Polymers
+
+
+
+
+0.000
+claims
+abstract
+description
+272
+
+
+210000003491
+Skin
+Anatomy
+
+
+
+
+0.000
+claims
+abstract
+description
+230
+
+
+150000007523
+nucleic acids
+Chemical group
+
+
+
+
+0.000
+claims
+abstract
+description
+176
+
+
+108020004707
+nucleic acids
+Proteins
+
+
+
+
+0.000
+claims
+abstract
+description
+170
+
+
+239000002537
+cosmetic
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+76
+
+
+229920001850
+Nucleic acid sequence
+Polymers
+
+
+
+
+0.000
+claims
+abstract
+description
+68
+
+
+239000008194
+pharmaceutical composition
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+42
+
+
+230000003020
+moisturizing
+Effects
+
+
+
+
+0.000
+claims
+abstract
+description
+34
+
+
+239000000203
+mixture
+Substances
+
+
+
+
+0.000
+claims
+description
+84
+
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+
+
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+claims
+description
+64
+
+
+125000003275
+alpha amino acid group
+Chemical group
+
+
+
+
+0.000
+claims
+description
+56
+
+
+201000010099
+disease
+Diseases
+
+
+
+
+0.000
+claims
+description
+56
+
+
+150000001413
+amino acids
+Chemical class
+
+
+
+
+0.000
+claims
+description
+52
+
+
+230000014509
+gene expression
+Effects
+
+
+
+
+0.000
+claims
+description
+32
+
+
+206010020649
+Hyperkeratosis
+Diseases
+
+
+
+
+0.000
+claims
+description
+30
+
+
+230000000295
+complement
+Effects
+
+
+
+
+0.000
+claims
+description
+30
+
+
+206010062080
+Pigmentation disease
+Diseases
+
+
+
+
+0.000
+claims
+description
+28
+
+
+CSCPPACGZOOCGX-UHFFFAOYSA-N
+acetone
+Chemical compound
+
+
+CC(C)=O
+CSCPPACGZOOCGX-UHFFFAOYSA-N
+0.000
+claims
+description
+28
+
+
+ZHNUHDYFZUAESO-UHFFFAOYSA-N
+formamide
+Chemical compound
+
+
+NC=O
+ZHNUHDYFZUAESO-UHFFFAOYSA-N
+0.000
+claims
+description
+20
+
+
+239000003085
+diluting agent
+Substances
+
+
+
+
+0.000
+claims
+description
+16
+
+
+239000000463
+material
+Substances
+
+
+
+
+0.000
+claims
+description
+16
+
+
+230000027455
+binding
+Effects
+
+
+
+
+0.000
+claims
+description
+14
+
+
+235000013601
+eggs
+Nutrition
+
+
+
+
+0.000
+claims
+description
+14
+
+
+239000002773
+nucleotide
+Substances
+
+
+
+
+0.000
+claims
+description
+14
+
+
+125000003729
+nucleotide group
+Chemical group
+
+
+
+
+0.000
+claims
+description
+14
+
+
+206010000496
+Acne
+Diseases
+
+
+
+
+0.000
+claims
+description
+12
+
+
+208000005679
+Eczema
+Diseases
+
+
+
+
+0.000
+claims
+description
+12
+
+
+208000000260
+Warts
+Diseases
+
+
+
+
+0.000
+claims
+description
+12
+
+
+240000008042
+Zea mays
+Species
+
+
+
+
+0.000
+claims
+description
+12
+
+
+235000002017
+Zea mays subsp mays
+Nutrition
+
+
+
+
+0.000
+claims
+description
+12
+
+
+235000005822
+corn
+Nutrition
+
+
+
+
+0.000
+claims
+description
+12
+
+
+235000005824
+corn
+Nutrition
+
+
+
+
+0.000
+claims
+description
+12
+
+
+201000004624
+dermatitis
+Diseases
+
+
+
+
+0.000
+claims
+description
+12
+
+
+231100001003
+eczema
+Toxicity
+
+
+
+
+0.000
+claims
+description
+12
+
+
+239000008188
+pellet
+Substances
+
+
+
+
+0.000
+claims
+description
+12
+
+
+201000004681
+psoriasis
+Diseases
+
+
+
+
+0.000
+claims
+description
+12
+
+
+201000010153
+skin papilloma
+Diseases
+
+
+
+
+0.000
+claims
+description
+12
+
+
+206010021198
+Ichthyosis
+Diseases
+
+
+
+
+0.000
+claims
+description
+10
+
+
+206010064127
+Solar lentigo
+Diseases
+
+
+
+
+0.000
+claims
+description
+10
+
+
+238000005406
+washing
+Methods
+
+
+
+
+0.000
+claims
+description
+10
+
+
+206010021197
+Ichthyosis
+Diseases
+
+
+
+
+0.000
+claims
+description
+8
+
+
+208000010247
+Contact Dermatitis
+Diseases
+
+
+
+
+0.000
+claims
+description
+6
+
+
+206010012442
+Dermatitis contact
+Diseases
+
+
+
+
+0.000
+claims
+description
+6
+
+
+231100000080
+dermatitis contact
+Toxicity
+
+
+
+
+0.000
+claims
+description
+6
+
+
+238000002560
+therapeutic procedure
+Methods
+
+
+
+
+0.000
+claims
+description
+6
+
+
+238000001914
+filtration
+Methods
+
+
+
+
+0.000
+claims
+description
+4
+
+
+230000001939
+inductive effect
+Effects
+
+
+
+
+0.000
+claims
+description
+4
+
+
+238000000464
+low-speed centrifugation
+Methods
+
+
+
+
+0.000
+claims
+description
+4
+
+
+230000001360
+synchronised
+Effects
+
+
+
+
+0.000
+claims
+description
+4
+
+
+206010040844
+Skin exfoliation
+Diseases
+
+
+
+
+0.000
+abstract
+description
+42
+
+
+238000004299
+exfoliation
+Methods
+
+
+
+
+0.000
+abstract
+description
+38
+
+
+241000251468
+Actinopterygii
+Species
+
+
+
+
+0.000
+abstract
+description
+24
+
+
+208000006641
+Skin Disease
+Diseases
+
+
+
+
+0.000
+abstract
+description
+12
+
+
+210000004027
+cells
+Anatomy
+
+
+
+
+0.000
+description
+60
+
+
+102000004169
+proteins and genes
+Human genes
+
+
+
+
+0.000
+description
+52
+
+
+108090000623
+proteins and genes
+Proteins
+
+
+
+
+0.000
+description
+52
+
+
+230000000694
+effects
+Effects
+
+
+
+
+0.000
+description
+38
+
+
+239000004480
+active ingredient
+Substances
+
+
+
+
+0.000
+description
+34
+
+
+241000277263
+Salmo
+Species
+
+
+
+
+0.000
+description
+30
+
+
+210000002615
+Epidermis
+Anatomy
+
+
+
+
+0.000
+description
+28
+
+
+238000000034
+method
+Methods
+
+
+
+
+0.000
+description
+28
+
+
+206010013786
+Dry skin
+Diseases
+
+
+
+
+0.000
+description
+24
+
+
+230000037336
+dry skin
+Effects
+
+
+
+
+0.000
+description
+24
+
+
+102000017649
+lce
+Human genes
+
+
+
+
+0.000
+description
+24
+
+
+108030001718
+EC 3.4.24.66
+Proteins
+
+
+
+
+0.000
+description
+22
+
+
+210000000434
+stratum corneum
+Anatomy
+
+
+
+
+0.000
+description
+22
+
+
+150000001875
+compounds
+Chemical class
+
+
+
+
+0.000
+description
+20
+
+
+235000019688
+fish
+Nutrition
+
+
+
+
+0.000
+description
+20
+
+
+239000000126
+substance
+Substances
+
+
+
+
+0.000
+description
+20
+
+
+239000006071
+cream
+Substances
+
+
+
+
+0.000
+description
+18
+
+
+241000972773
+Aulopiformes
+Species
+
+
+
+
+0.000
+description
+16
+
+
+239000000816
+peptidomimetic
+Substances
+
+
+
+
+0.000
+description
+16
+
+
+239000000047
+product
+Substances
+
+
+
+
+0.000
+description
+16
+
+
+235000019515
+salmon
+Nutrition
+
+
+
+
+0.000
+description
+16
+
+
+210000000981
+Epithelium
+Anatomy
+
+
+
+
+0.000
+description
+14
+
+
+241000277334
+Oncorhynchus
+Species
+
+
+
+
+0.000
+description
+14
+
+
+230000002378
+acidificating
+Effects
+
+
+
+
+0.000
+description
+14
+
+
+239000003795
+chemical substances by application
+Substances
+
+
+
+
+0.000
+description
+14
+
+
+238000002360
+preparation method
+Methods
+
+
+
+
+0.000
+description
+14
+
+
+241001465754
+Metazoa
+Species
+
+
+
+
+0.000
+description
+12
+
+
+239000004909
+Moisturizer
+Substances
+
+
+
+
+0.000
+description
+12
+
+
+KRKNYBCHXYNGOX-UHFFFAOYSA-N
+citric acid
+Chemical compound
+
+
+OC(=O)CC(O)(C(O)=O)CC(O)=O
+KRKNYBCHXYNGOX-UHFFFAOYSA-N
+0.000
+description
+12
+
+
+229920003013
+deoxyribonucleic acid
+Polymers
+
+
+
+
+0.000
+description
+12
+
+
+LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+ethanol
+Chemical compound
+
+
+CCO
+LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+0.000
+description
+12
+
+
+239000004615
+ingredient
+Substances
+
+
+
+
+0.000
+description
+12
+
+
+230000001333
+moisturizer
+Effects
+
+
+
+
+0.000
+description
+12
+
+
+239000000243
+solution
+Substances
+
+
+
+
+0.000
+description
+12
+
+
+230000000699
+topical
+Effects
+
+
+
+
+0.000
+description
+12
+
+
+102000011782
+Keratins
+Human genes
+
+
+
+
+0.000
+description
+10
+
+
+108010076876
+Keratins
+Proteins
+
+
+
+
+0.000
+description
+10
+
+
+208000002193
+Pain
+Diseases
+
+
+
+
+0.000
+description
+10
+
+
+208000006981
+Skin Abnormality
+Diseases
+
+
+
+
+0.000
+description
+10
+
+
+125000000539
+amino acid group
+Chemical group
+
+
+
+
+0.000
+description
+10
+
+
+238000003776
+cleavage reaction
+Methods
+
+
+
+
+0.000
+description
+10
+
+
+239000003814
+drug
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+239000000839
+emulsion
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+-1
+ketomethylene
+Chemical group
+
+
+
+
+0.000
+description
+10
+
+
+230000019612
+pigmentation
+Effects
+
+
+
+
+0.000
+description
+10
+
+
+OZAIFHULBGXAKX-UHFFFAOYSA-N
+precursor
+Substances
+
+
+N#CC(C)(C)N=NC(C)(C)C#N
+OZAIFHULBGXAKX-UHFFFAOYSA-N
+0.000
+description
+10
+
+
+239000000725
+suspension
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+210000004207
+Dermis
+Anatomy
+
+
+
+
+0.000
+description
+8
+
+
+108060002523
+ELOVL6
+Proteins
+
+
+
+
+0.000
+description
+8
+
+
+210000004927
+Skin cells
+Anatomy
+
+
+
+
+0.000
+description
+8
+
+
+238000007792
+addition
+Methods
+
+
+
+
+0.000
+description
+8
+
+
+108010076331
+choriogenin H
+Proteins
+
+
+
+
+0.000
+description
+8
+
+
+239000000499
+gel
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+230000002068
+genetic
+Effects
+
+
+
+
+0.000
+description
+8
+
+
+238000000338
+in vitro
+Methods
+
+
+
+
+0.000
+description
+8
+
+
+238000002955
+isolation
+Methods
+
+
+
+
+0.000
+description
+8
+
+
+HQKMJHAJHXVSDF-UHFFFAOYSA-L
+magnesium stearate
+Chemical compound
+
+
+[Mg+2].CCCCCCCCCCCCCCCCCC([O-])=O.CCCCCCCCCCCCCCCCCC([O-])=O
+HQKMJHAJHXVSDF-UHFFFAOYSA-L
+0.000
+description
+8
+
+
+239000002674
+ointment
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+239000000843
+powder
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+propylene glycol
+Chemical group
+
+
+CC(O)CO
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+0.000
+description
+8
+
+
+239000002562
+thickening agent
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+238000001890
+transfection
+Methods
+
+
+
+
+0.000
+description
+8
+
+
+230000003612
+virological
+Effects
+
+
+
+
+0.000
+description
+8
+
+
+210000002510
+Keratinocytes
+Anatomy
+
+
+
+
+0.000
+description
+6
+
+
+GUBGYTABKSRVRQ-UUNJERMWSA-N
+Lactose
+Natural products
+
+
+O([C@@H]1[C@H](O)[C@H](O)[C@H](O)O[C@@H]1CO)[C@H]1[C@@H](O)[C@@H](O)[C@H](O)[C@H](CO)O1
+GUBGYTABKSRVRQ-UUNJERMWSA-N
+0.000
+description
+6
+
+
+241001325354
+Lamiinae
+Species
+
+
+
+
+0.000
+description
+6
+
+
+210000002752
+Melanocytes
+Anatomy
+
+
+
+
+0.000
+description
+6
+
+
+108010078762
+Protein Precursors
+Proteins
+
+
+
+
+0.000
+description
+6
+
+
+102000014961
+Protein Precursors
+Human genes
+
+
+
+
+0.000
+description
+6
+
+
+HRXKRNGNAMMEHJ-UHFFFAOYSA-K
+Trisodium citrate
+Chemical compound
+
+
+[Na+].[Na+].[Na+].[O-]C(=O)CC(O)(CC([O-])=O)C([O-])=O
+HRXKRNGNAMMEHJ-UHFFFAOYSA-K
+0.000
+description
+6
+
+
+241000700605
+Viruses
+Species
+
+
+
+
+0.000
+description
+6
+
+
+230000002159
+abnormal effect
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+239000000443
+aerosol
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+150000001280
+alpha hydroxy acids
+Chemical class
+
+
+
+
+0.000
+description
+6
+
+
+238000004458
+analytical method
+Methods
+
+
+
+
+0.000
+description
+6
+
+
+239000000969
+carrier
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000006185
+dispersion
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000003974
+emollient agent
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+238000001415
+gene therapy
+Methods
+
+
+
+
+0.000
+description
+6
+
+
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+glycerine
+Chemical compound
+
+
+OCC(O)CO
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+0.000
+description
+6
+
+
+108091007008
+high choriolytic enzyme
+Proteins
+
+
+
+
+0.000
+description
+6
+
+
+230000003463
+hyperproliferative
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+238000005342
+ion exchange
+Methods
+
+
+
+
+0.000
+description
+6
+
+
+239000008101
+lactose
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+GUBGYTABKSRVRQ-XLOQQCSPSA-N
+lactose
+Chemical compound
+
+
+O[C@@H]1[C@@H](O)[C@@H](O)[C@@H](CO)O[C@H]1O[C@@H]1[C@@H](CO)O[C@H](O)[C@H](O)[C@H]1O
+GUBGYTABKSRVRQ-XLOQQCSPSA-N
+0.000
+description
+6
+
+
+210000000056
+organs
+Anatomy
+
+
+
+
+0.000
+description
+6
+
+
+239000000546
+pharmaceutic aid
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000000902
+placebo
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+229940068196
+placebo
+Drugs
+
+
+
+
+0.000
+description
+6
+
+
+125000002924
+primary amino group
+Chemical group
+
+
+[H]N([H])*
+
+0.000
+description
+6
+
+
+108090000765
+processed proteins & peptides
+Proteins
+
+
+
+
+0.000
+description
+6
+
+
+102000004196
+processed proteins & peptides
+Human genes
+
+
+
+
+0.000
+description
+6
+
+
+239000000651
+prodrug
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+229940002612
+prodrugs
+Drugs
+
+
+
+
+0.000
+description
+6
+
+
+230000002797
+proteolythic
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+230000001603
+reducing
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+230000000717
+retained
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+239000001509
+sodium citrate
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+210000000439
+stratum lucidum
+Anatomy
+
+
+
+
+0.000
+description
+6
+
+
+238000006467
+substitution reaction
+Methods
+
+
+
+
+0.000
+description
+6
+
+
+239000004094
+surface-active agent
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000000375
+suspending agent
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+230000001225
+therapeutic
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+230000001131
+transforming
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+239000011778
+trisodium citrate
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+229940061720
+Alpha Hydroxy Acids
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+229920002134
+Carboxymethyl cellulose
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+210000001136
+Chorion
+Anatomy
+
+
+
+
+0.000
+description
+4
+
+
+229920002676
+Complementary DNA
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+229920002261
+Corn starch
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+FBPFZTCFMRRESA-FSIIMWSLSA-N
+D-Glucitol
+Natural products
+
+
+OC[C@H](O)[C@H](O)[C@@H](O)[C@H](O)CO
+FBPFZTCFMRRESA-FSIIMWSLSA-N
+0.000
+description
+4
+
+
+FBPFZTCFMRRESA-KAZBKCHUSA-N
+D-Mannitol
+Natural products
+
+
+OC[C@@H](O)[C@H](O)[C@H](O)[C@H](O)CO
+FBPFZTCFMRRESA-KAZBKCHUSA-N
+0.000
+description
+4
+
+
+FBPFZTCFMRRESA-JGWLITMVSA-N
+D-glucitol
+Chemical compound
+
+
+OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+FBPFZTCFMRRESA-JGWLITMVSA-N
+0.000
+description
+4
+
+
+CZMRCDWAGMRECN-UGDNZRGBSA-N
+D-sucrose
+Chemical compound
+
+
+O[C@H]1[C@H](O)[C@@H](CO)O[C@@]1(CO)O[C@@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](CO)O1
+CZMRCDWAGMRECN-UGDNZRGBSA-N
+0.000
+description
+4
+
+
+239000004150
+EU approved colour
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+229940116364
+Hard Fat
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+241000238631
+Hexapoda
+Species
+
+
+
+
+0.000
+description
+4
+
+
+229940088597
+Hormone
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+102000008100
+Human Serum Albumin
+Human genes
+
+
+
+
+0.000
+description
+4
+
+
+108091006822
+Human Serum Albumin
+Proteins
+
+
+
+
+0.000
+description
+4
+
+
+206010020648
+Hyperkeratosis
+Diseases
+
+
+
+
+0.000
+description
+4
+
+
+206010022114
+Injury
+Diseases
+
+
+
+
+0.000
+description
+4
+
+
+210000004185
+Liver
+Anatomy
+
+
+
+
+0.000
+description
+4
+
+
+241000124008
+Mammalia
+Species
+
+
+
+
+0.000
+description
+4
+
+
+FBPFZTCFMRRESA-KVTDHHQDSA-N
+Mannitol
+Chemical compound
+
+
+OC[C@@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+FBPFZTCFMRRESA-KVTDHHQDSA-N
+0.000
+description
+4
+
+
+229920000168
+Microcrystalline cellulose
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+102000001708
+Protein Isoforms
+Human genes
+
+
+
+
+0.000
+description
+4
+
+
+108010029485
+Protein Isoforms
+Proteins
+
+
+
+
+0.000
+description
+4
+
+
+208000003251
+Pruritus
+Diseases
+
+
+
+
+0.000
+description
+4
+
+
+108020004511
+Recombinant DNA
+Proteins
+
+
+
+
+0.000
+description
+4
+
+
+YGSDEFSMJLZEOE-UHFFFAOYSA-N
+Salicylic acid
+Chemical compound
+
+
+OC(=O)C1=CC=CC=C1O
+YGSDEFSMJLZEOE-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+241000277331
+Salmonidae
+Species
+
+
+
+
+0.000
+description
+4
+
+
+QIQXTHQIDYTFRH-UHFFFAOYSA-N
+Stearic acid
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(O)=O
+QIQXTHQIDYTFRH-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+CZMRCDWAGMRECN-GDQSFJPYSA-N
+Sucrose
+Natural products
+
+
+O([C@@H]1[C@H](O)[C@@H](O)[C@H](O)[C@H](CO)O1)[C@@]1(CO)[C@H](O)[C@@H](O)[C@@H](CO)O1
+CZMRCDWAGMRECN-GDQSFJPYSA-N
+0.000
+description
+4
+
+
+210000001789
+adipocyte
+Anatomy
+
+
+
+
+0.000
+description
+4
+
+
+150000001408
+amides
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+239000012298
+atmosphere
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+150000001277
+beta hydroxy acids
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+239000011575
+calcium
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+229910052791
+calcium
+Inorganic materials
+
+
+
+
+0.000
+description
+4
+
+
+VTYYLEPIZMXCLO-UHFFFAOYSA-L
+calcium carbonate
+Chemical compound
+
+
+[Ca+2].[O-]C([O-])=O
+VTYYLEPIZMXCLO-UHFFFAOYSA-L
+0.000
+description
+4
+
+
+150000001720
+carbohydrates
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+125000003178
+carboxy group
+Chemical group
+
+
+[H]OC(*)=O
+
+0.000
+description
+4
+
+
+239000001768
+carboxy methyl cellulose
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+235000010948
+carboxy methyl cellulose
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+239000008112
+carboxymethyl-cellulose
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000015556
+catabolic process
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+239000002299
+complementary DNA
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000012050
+conventional carrier
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000008120
+corn starch
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+238000010192
+crystallographic characterization
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+SASYSVUEVMOWPL-NXVVXOECSA-N
+decyl oleate
+Chemical compound
+
+
+CCCCCCCCCCOC(=O)CCCCCCC\C=C/CCCCCCCC
+SASYSVUEVMOWPL-NXVVXOECSA-N
+0.000
+description
+4
+
+
+230000004059
+degradation
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+238000006731
+degradation reaction
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+230000032798
+delamination
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+230000035618
+desquamation
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+235000014113
+dietary fatty acids
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+KCXVZYZYPLLWCC-UHFFFAOYSA-N
+edta
+Chemical compound
+
+
+OC(=O)CN(CC(O)=O)CCN(CC(O)=O)CC(O)=O
+KCXVZYZYPLLWCC-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+210000002257
+embryonic structures
+Anatomy
+
+
+
+
+0.000
+description
+4
+
+
+239000003995
+emulsifying agent
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+210000003527
+eukaryotic cell
+Anatomy
+
+
+
+
+0.000
+description
+4
+
+
+238000001704
+evaporation
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+239000000194
+fatty acid
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+150000004665
+fatty acids
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+102000037240
+fusion proteins
+Human genes
+
+
+
+
+0.000
+description
+4
+
+
+108020001507
+fusion proteins
+Proteins
+
+
+
+
+0.000
+description
+4
+
+
+DHMQDGOQFOQNFH-UHFFFAOYSA-N
+glycine
+Chemical compound
+
+
+NCC(O)=O
+DHMQDGOQFOQNFH-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+AEMRFAOFKBGASW-UHFFFAOYSA-N
+glycolic acid
+Chemical compound
+
+
+OCC(O)=O
+AEMRFAOFKBGASW-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+230000003899
+glycosylation
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+238000006206
+glycosylation reaction
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+102000036691
+hatching enzymes
+Human genes
+
+
+
+
+0.000
+description
+4
+
+
+108091007010
+hatching enzymes
+Proteins
+
+
+
+
+0.000
+description
+4
+
+
+239000005556
+hormone
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000001329
+hyperkeratotic
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+238000002347
+injection
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+239000007924
+injection
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+238000001155
+isoelectric focusing
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+150000002632
+lipids
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+239000007788
+liquid
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000006210
+lotion
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+235000019359
+magnesium stearate
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+239000000594
+mannitol
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+235000010355
+mannitol
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+235000019813
+microcrystalline cellulose
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+239000008108
+microcrystalline cellulose
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+229940016286
+microcrystalline cellulose
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+239000003921
+oil
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+229940006093
+opthalmologic coloring agents Diagnostic
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+238000007911
+parenteral administration
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+230000001575
+pathological
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+229920001223
+polyethylene glycol
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+229920000023
+polynucleotide
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+239000002157
+polynucleotide
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000001267
+polyvinylpyrrolidone
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+229920000036
+polyvinylpyrrolidone
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+235000013855
+polyvinylpyrrolidone
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+230000002265
+prevention
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+239000003380
+propellant
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000001681
+protective
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+238000000746
+purification
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+239000007787
+solid
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000000600
+sorbitol
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+235000010356
+sorbitol
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+241000894007
+species
+Species
+
+
+
+
+0.000
+description
+4
+
+
+239000007921
+spray
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+210000000498
+stratum granulosum
+Anatomy
+
+
+
+
+0.000
+description
+4
+
+
+125000001424
+substituent group
+Chemical group
+
+
+
+
+0.000
+description
+4
+
+
+239000005720
+sucrose
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000002459
+sustained
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+238000003786
+synthesis reaction
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+239000006188
+syrup
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+235000020357
+syrup
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+239000003826
+tablet
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000036572
+transepidermal water loss
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+241000701161
+unidentified adenovirus
+Species
+
+
+
+
+0.000
+description
+4
+
+
+XSQUKJJJFZCRTK-UHFFFAOYSA-N
+urea
+Chemical compound
+
+
+NC(N)=O
+XSQUKJJJFZCRTK-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+LNAZSHAWQACDHT-XIYTZBAFSA-N
+(2R,3R,4S,5R,6S)-4,5-dimethoxy-2-(methoxymethyl)-3-[(2S,3R,4S,5R,6R)-3,4,5-trimethoxy-6-(methoxymethyl)oxan-2-yl]oxy-6-[(2R,3R,4S,5R,6R)-4,5,6-trimethoxy-2-(methoxymethyl)oxan-3-yl]oxyoxane
+Chemical compound
+
+
+CO[C@@H]1[C@@H](OC)[C@H](OC)[C@@H](COC)O[C@H]1O[C@H]1[C@H](OC)[C@@H](OC)[C@H](O[C@H]2[C@@H]([C@@H](OC)[C@H](OC)O[C@@H]2COC)OC)O[C@@H]1COC
+LNAZSHAWQACDHT-XIYTZBAFSA-N
+0.000
+description
+2
+
+
+HVYWMOMLDIMFJA-DPAQBDIFSA-N
+(3Î²)-Cholest-5-en-3-ol
+Chemical compound
+
+
+C1C=C2C[C@@H](O)CC[C@]2(C)[C@@H]2[C@@H]1[C@@H]1CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC2
+HVYWMOMLDIMFJA-DPAQBDIFSA-N
+0.000
+description
+2
+
+
+229920000160
+(ribonucleotides)n+m
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+WHSXTWFYRGOBGO-UHFFFAOYSA-M
+2-carboxy-6-methylphenolate
+Chemical class
+
+
+CC1=CC=CC(C([O-])=O)=C1O
+WHSXTWFYRGOBGO-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+KRKNYBCHXYNGOX-UHFFFAOYSA-K
+2qpq
+Chemical compound
+
+
+[O-]C(=O)CC(O)(CC([O-])=O)C([O-])=O
+KRKNYBCHXYNGOX-UHFFFAOYSA-K
+0.000
+description
+2
+
+
+BHQCQFFYRZLCQQ-UMZBRFQRSA-N
+4-[(3R,5S,7R,12S)-3,7,12-trihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid
+Chemical class
+
+
+C([C@H]1C[C@H]2O)[C@H](O)CCC1(C)C1C2C2CCC(C(CCC(O)=O)C)C2(C)[C@@H](O)C1
+BHQCQFFYRZLCQQ-UMZBRFQRSA-N
+0.000
+description
+2
+
+
+244000215068
+Acacia senegal
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000006491
+Acacia senegal
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+241000432074
+Adeno-associated virus
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241000416162
+Astragalus gummifer
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241000271566
+Aves
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241000894006
+Bacteria
+Species
+
+
+
+
+0.000
+description
+2
+
+
+210000002469
+Basement Membrane
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+229940093761
+Bile Salts
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+210000004204
+Blood Vessels
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+101800001415
+Bri23 peptide
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+102400000107
+C-terminal peptide
+Human genes
+
+
+
+
+0.000
+description
+2
+
+
+101800000655
+C-terminal peptide
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+229960005069
+Calcium
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229960003563
+Calcium Carbonate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+JHLNERQLKQQLRZ-UHFFFAOYSA-N
+Calcium silicate
+Chemical compound
+
+
+[Ca+2].[Ca+2].[O-][Si]([O-])([O-])[O-]
+JHLNERQLKQQLRZ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+241000282472
+Canis lupus familiaris
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241000283707
+Capra
+Species
+
+
+
+
+0.000
+description
+2
+
+
+229940105329
+Carboxymethylcellulose
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+241000700198
+Cavia
+Species
+
+
+
+
+0.000
+description
+2
+
+
+229920000623
+Cellulose acetate phthalate
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+241000282693
+Cercopithecidae
+Species
+
+
+
+
+0.000
+description
+2
+
+
+BXWNKGSJHAJOGX-UHFFFAOYSA-N
+Cetyl alcohol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCO
+BXWNKGSJHAJOGX-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229920002759
+Circular DNA
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+108020004638
+Circular DNA
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+102000008186
+Collagen
+Human genes
+
+
+
+
+0.000
+description
+2
+
+
+108010035532
+Collagen
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+206010010356
+Congenital anomaly
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+210000002808
+Connective Tissue
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+241000938605
+Crocodylia
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241001440269
+Cutina
+Species
+
+
+
+
+0.000
+description
+2
+
+
+102000001189
+Cyclic Peptides
+Human genes
+
+
+
+
+0.000
+description
+2
+
+
+108010069514
+Cyclic Peptides
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+150000008574
+D-amino acids
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+229920002271
+DEAE-Sepharose
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+102000033147
+ERVK-25
+Human genes
+
+
+
+
+0.000
+description
+2
+
+
+210000003278
+Egg Shell
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+102000016942
+Elastin
+Human genes
+
+
+
+
+0.000
+description
+2
+
+
+108010014258
+Elastin
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+206010014970
+Ephelide
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+240000005149
+Epigaea repens
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241000283086
+Equidae
+Species
+
+
+
+
+0.000
+description
+2
+
+
+206010015150
+Erythema
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+241000588724
+Escherichia coli
+Species
+
+
+
+
+0.000
+description
+2
+
+
+AEOCXXJPGCBFJA-UHFFFAOYSA-N
+Ethionamide
+Chemical compound
+
+
+CCC1=CC(C(N)=S)=CC=N1
+AEOCXXJPGCBFJA-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+241000282326
+Felis catus
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241000276438
+Gadus morhua
+Species
+
+
+
+
+0.000
+description
+2
+
+
+108010010803
+Gelatin
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+229940014259
+Gelatin
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+210000004907
+Glands
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+102000005720
+Glutathione Transferase family
+Human genes
+
+
+
+
+0.000
+description
+2
+
+
+108010070675
+Glutathione Transferase family
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+239000004471
+Glycine
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920000084
+Gum arabic
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+WZUVPPKBWHMQCE-VYIIXAMBSA-N
+Haematoxylin
+Chemical compound
+
+
+C12=CC(O)=C(O)C=C2C[C@@]2(O)C1C1=CC=C(O)C(O)=C1OC2
+WZUVPPKBWHMQCE-VYIIXAMBSA-N
+0.000
+description
+2
+
+
+210000004209
+Hair
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+210000003780
+Hair Follicle
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+241000282412
+Homo
+Species
+
+
+
+
+0.000
+description
+2
+
+
+206010020880
+Hypertrophy
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+206010061218
+Inflammation
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+210000004692
+Intercellular Junctions
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+229920002459
+Intron
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+208000002260
+Keloid
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+210000001117
+Keloid
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+208000001126
+Keratosis
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+210000001821
+Langerhans Cells
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+241000316144
+Macrodon ancylodon
+Species
+
+
+
+
+0.000
+description
+2
+
+
+BJEPYKJPYRNKOW-UHFFFAOYSA-N
+Malic acid
+Chemical compound
+
+
+OC(=O)C(O)CC(O)=O
+BJEPYKJPYRNKOW-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+FEWJPZIEWOKRBE-XIXRPRMCSA-N
+Mesotartaric acid
+Chemical compound
+
+
+OC(=O)[C@@H](O)[C@@H](O)C(O)=O
+FEWJPZIEWOKRBE-XIXRPRMCSA-N
+0.000
+description
+2
+
+
+210000004080
+Milk
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+210000004400
+Mucous Membrane
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+241000699670
+Mus sp.
+Species
+
+
+
+
+0.000
+description
+2
+
+
+210000000282
+Nails
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+229920002957
+Naked DNA
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+210000004940
+Nucleus
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+229940120511
+OLEYL ERUCATE
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+241000283973
+Oryctolagus cuniculus
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241000283898
+Ovis
+Species
+
+
+
+
+0.000
+description
+2
+
+
+206010033554
+Palmoplantar keratoderma
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+108091005771
+Peptidases
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+HXEACLLIILLPRG-UHFFFAOYSA-N
+Pipecolic acid
+Chemical compound
+
+
+OC(=O)C1CCCCN1
+HXEACLLIILLPRG-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229920002732
+Polyanhydride
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+239000004698
+Polyethylene (PE)
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002202
+Polyethylene glycol
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920000954
+Polyglycolide
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229950008882
+Polysorbate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+241001085205
+Prenanthella exigua
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241000288906
+Primates
+Species
+
+
+
+
+0.000
+description
+2
+
+
+239000004365
+Protease
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+241000700159
+Rattus
+Species
+
+
+
+
+0.000
+description
+2
+
+
+210000003705
+Ribosomes
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+241000277289
+Salmo salar
+Species
+
+
+
+
+0.000
+description
+2
+
+
+206010039580
+Scar
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+210000002374
+Sebum
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+210000002966
+Serum
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+206010040840
+Skin erosion
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+231100000950
+SkinEthic RHE
+Toxicity
+
+
+
+
+0.000
+description
+2
+
+
+229920002472
+Starch
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+235000021355
+Stearic acid
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+GLDOVTGHNKAZLK-UHFFFAOYSA-N
+Stearyl alcohol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCCO
+GLDOVTGHNKAZLK-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+210000004304
+Subcutaneous Tissue
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+241000282887
+Suidae
+Species
+
+
+
+
+0.000
+description
+2
+
+
+210000004243
+Sweat
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+229940116362
+Tragacanth
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229920001615
+Tragacanth
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+QORWJWZARLRLPR-UHFFFAOYSA-H
+Tricalcium phosphate
+Chemical compound
+
+
+[Ca+2].[Ca+2].[Ca+2].[O-]P([O-])([O-])=O.[O-]P([O-])([O-])=O
+QORWJWZARLRLPR-UHFFFAOYSA-H
+0.000
+description
+2
+
+
+239000007983
+Tris buffer
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+208000007089
+Vaccinia
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+206010046865
+Vaccinia virus infection
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+229940088594
+Vitamin
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+SZAMSYKZCSDVBH-CLFAGFIQSA-N
+[(Z)-octadec-9-enyl] (Z)-docos-13-enoate
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCCCCCC(=O)OCCCCCCCC\C=C/CCCCCCCC
+SZAMSYKZCSDVBH-CLFAGFIQSA-N
+0.000
+description
+2
+
+
+238000005299
+abrasion
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+235000010489
+acacia gum
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+238000009825
+accumulation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+QTBSBXVTEAMEQO-UHFFFAOYSA-M
+acetate
+Chemical compound
+
+
+CC([O-])=O
+QTBSBXVTEAMEQO-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+239000008351
+acetate buffer
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002253
+acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002535
+acidifier
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+acrylic acid
+Chemical group
+
+
+OC(=O)C=C
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000000654
+additive
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000001335
+aliphatic alkanes
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+230000002009
+allergen
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000003321
+amplification
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000002518
+antifoaming agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000003078
+antioxidant
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000003963
+antioxidant agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000009360
+aquaculture
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+244000144974
+aquaculture
+Species
+
+
+
+
+0.000
+description
+2
+
+
+102000037083
+astacin
+Human genes
+
+
+
+
+0.000
+description
+2
+
+
+108090000658
+astacin
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+230000001580
+bacterial
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+244000052616
+bacterial pathogens
+Species
+
+
+
+
+0.000
+description
+2
+
+
+239000003833
+bile salt
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000011230
+binding agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000004621
+biodegradable polymer
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920002988
+biodegradable polymer
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+230000015572
+biosynthetic process
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+UIIMBOGNXHQVGW-UHFFFAOYSA-M
+buffer
+Substances
+
+
+[Na+].OC([O-])=O
+UIIMBOGNXHQVGW-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+235000001465
+calcium
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229910000019
+calcium carbonate
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+235000010216
+calcium carbonate
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000001506
+calcium phosphate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229910000389
+calcium phosphate
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+229960001714
+calcium phosphate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000011010
+calcium phosphates
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000000378
+calcium silicate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229910052918
+calcium silicate
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+229960003340
+calcium silicate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000012241
+calcium silicate
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+238000005251
+capillar electrophoresis
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000002775
+capsule
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000004202
+carbamide
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000014633
+carbohydrates
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229940096529
+carboxypolymethylene
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+230000003197
+catalytic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000001413
+cellular
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000001913
+cellulose
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920002678
+cellulose
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+235000010980
+cellulose
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229940081734
+cellulose acetate phthalate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+238000005119
+centrifugation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+229940081733
+cetearyl alcohol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229960000541
+cetyl alcohol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000002738
+chelating agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000007385
+chemical modification
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+238000004587
+chromatography analysis
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000001684
+chronic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+235000015165
+citric acid
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+238000010367
+cloning
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+235000019516
+cod
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229920001436
+collagen
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229960005188
+collagen
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000003086
+colorant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000000875
+corresponding
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000002950
+deficient
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000007857
+degradation product
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000003111
+delayed
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000003795
+desorption
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000008121
+dextrose
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000004069
+differentiation
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+201000009910
+diseases by infectious agent
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+239000002270
+dispersing agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002552
+dosage form
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000006196
+drop
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000009510
+drug design
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+229940079593
+drugs
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000013399
+edible fruits
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+101700073169
+egg-1
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+101700070054
+egg-2
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+101700068245
+egg-3
+Proteins
+
+
+
+
+0.000
+description
+2
+
+
+229920002549
+elastin
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+239000003792
+electrolyte
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000003379
+elimination reaction
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000003623
+enhancer
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000002708
+enhancing
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000002255
+enzymatic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+201000009040
+epidermolytic hyperkeratosis
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+210000002919
+epithelial cells
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+238000005886
+esterification reaction
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000001747
+exhibiting
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+150000002191
+fatty alcohols
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+239000000945
+filler
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000010408
+film
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000796
+flavoring agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000006260
+foam
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000013355
+food flavoring agent
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000003599
+food sweetener
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+WSFSSNUMVMOOMR-UHFFFAOYSA-N
+formaldehyde
+Chemical compound
+
+
+O=C
+WSFSSNUMVMOOMR-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+238000005755
+formation reaction
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000003205
+fragrance
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000004108
+freeze drying
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000005714
+functional activity
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+125000000524
+functional group
+Chemical group
+
+
+
+
+0.000
+description
+2
+
+
+239000007789
+gas
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000008273
+gelatin
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920000159
+gelatin
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+239000007903
+gelatin capsule
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000019322
+gelatine
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+235000011852
+gelatine desserts
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000003349
+gelling agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940075529
+glyceryl stearate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+glycol
+Chemical compound
+
+
+OCCO
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000008187
+granular material
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000003979
+granulating agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000002391
+heterocyclic compounds
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+UBHWBODXJBSFLH-UHFFFAOYSA-N
+hexadecan-1-ol;octadecan-1-ol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCO.CCCCCCCCCCCCCCCCCCO
+UBHWBODXJBSFLH-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+238000004128
+high performance liquid chromatography
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000003054
+hormonal
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000003906
+humectant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000001257
+hydrogen
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229910052739
+hydrogen
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+230000002209
+hydrophobic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000005661
+hydrophobic surface
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+210000002865
+immune cell
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+230000001771
+impaired
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000007943
+implant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000012535
+impurity
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000010348
+incorporation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000004054
+inflammatory process
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000003978
+infusion fluid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000003993
+interaction
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000000968
+intestinal
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000003834
+intracellular
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000003522
+irritant
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000002085
+irritant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+231100000021
+irritant
+Toxicity
+
+
+
+
+0.000
+description
+2
+
+
+239000000787
+lecithin
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000010445
+lecithin
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+238000002898
+library design
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000003446
+ligand
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002502
+liposome
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000006193
+liquid solution
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+244000144972
+livestock
+Species
+
+
+
+
+0.000
+description
+2
+
+
+239000007937
+lozenge
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000314
+lubricant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000002678
+macrocyclic compounds
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+239000011777
+magnesium
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229910052749
+magnesium
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+229940099690
+malic acid
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000001630
+malic acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000011090
+malic acid
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+238000004949
+mass spectrometry
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000011159
+matrix material
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920000609
+methyl cellulose
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+125000000250
+methylamino group
+Chemical group
+
+
+[H]N(*)C([H])([H])[H]
+
+0.000
+description
+2
+
+
+230000011987
+methylation
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000007069
+methylation reaction
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+MGJXBDMLVWIYOQ-UHFFFAOYSA-N
+methylazanide
+Chemical compound
+
+
+[NH-]C
+MGJXBDMLVWIYOQ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000001923
+methylcellulose
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000010981
+methylcellulose
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000004005
+microsphere
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000013336
+milk
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+230000003278
+mimic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000002480
+mineral oil
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000010446
+mineral oil
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+230000004048
+modification
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000006011
+modification reaction
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000002105
+nanoparticle
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000005445
+natural product
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229930014626
+natural products
+Natural products
+
+
+
+
+0.000
+description
+2
+
+
+239000002353
+niosome
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000820
+nonprescription drug
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000037311
+normal skin
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000010899
+nucleation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+238000003199
+nucleic acid amplification method
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+235000015097
+nutrients
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000007764
+o/w emulsion
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920001542
+oligosaccharide
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+150000002482
+oligosaccharides
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+230000034004
+oogenesis
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000003605
+opacifier
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000003960
+organic solvent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000003204
+osmotic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+IPCSVZSSVZVIGE-UHFFFAOYSA-N
+palmitic acid group
+Chemical group
+
+
+C(CCCCCCCCCCCCCCC)(=O)O
+IPCSVZSSVZVIGE-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000012188
+paraffin wax
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002245
+particle
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000000149
+penetrating
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000002093
+peripheral
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000008363
+phosphate buffer
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002953
+phosphate buffered saline
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+NJRWNWYFPOFDFN-UHFFFAOYSA-L
+phosphonate(2-)
+Chemical compound
+
+
+[O-][P]([O-])=O
+NJRWNWYFPOFDFN-UHFFFAOYSA-L
+0.000
+description
+2
+
+
+239000000049
+pigment
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000006187
+pill
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000004033
+plastic
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920003023
+plastic
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229920000747
+poly(lactic acid) polymer
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229920000728
+polyester
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229920000573
+polyethylene
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+239000004633
+polyglycolic acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000004626
+polylactic acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920000642
+polymer
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229920001296
+polysiloxane
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229920000136
+polysorbate
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229920002689
+polyvinyl acetate
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+239000011118
+polyvinyl acetate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940075065
+polyvinyl acetate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+238000001556
+precipitation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000003755
+preservative agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+210000001236
+prokaryotic cell
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+LZFIOSVZIQOVFW-UHFFFAOYSA-N
+propyl 2-hydroxybenzoate
+Chemical class
+
+
+CCCOC(=O)C1=CC=CC=C1O
+LZFIOSVZIQOVFW-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+238000000164
+protein isolation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000017854
+proteolysis
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+VBICKXHEKHSIBG-UHFFFAOYSA-N
+rac-1-monostearoylglycerol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OCC(O)CO
+VBICKXHEKHSIBG-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+238000002708
+random mutagenesis
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+238000003259
+recombinant expression
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000001172
+regenerating
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000022532
+regulation of transcription, DNA-dependent
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000001105
+regulatory
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000001850
+reproductive
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+229960004889
+salicylic acid
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+150000003839
+salts
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+231100000241
+scar
+Toxicity
+
+
+
+
+0.000
+description
+2
+
+
+230000037387
+scars
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000003248
+secreting
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000000926
+separation method
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000003352
+sequestering agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000002741
+site-directed mutagenesis
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000036555
+skin type
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000000344
+soap
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000011780
+sodium chloride
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000003381
+stabilizer
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000019698
+starch
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000007858
+starting material
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000008117
+stearic acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000012058
+sterile packaged powder
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+210000000438
+stratum basale
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+239000000758
+substrate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000006228
+supernatant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000003319
+supportive
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000000829
+suppository
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000001356
+surgical procedure
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000003765
+sweetening agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000454
+talc
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229910052623
+talc
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+235000012222
+talc
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000011975
+tartaric acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000002906
+tartaric acid
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229960001367
+tartaric acid
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+150000007970
+thio esters
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+210000001519
+tissues
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+239000000196
+tragacanth
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000010487
+tragacanth
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+238000003146
+transient transfection
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+238000001419
+two-dimensional polyacrylamide gel electrophoresis
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+238000004450
+types of analysis
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+241000701447
+unidentified baculovirus
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241001515965
+unidentified phage
+Species
+
+
+
+
+0.000
+description
+2
+
+
+239000003981
+vehicle
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000013343
+vitamin
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000011782
+vitamin
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000003722
+vitamin derivatives
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+229930003231
+vitamins
+Natural products
+
+
+
+
+0.000
+description
+2
+
+
+239000007762
+w/o emulsion
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000080
+wetting agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000037303
+wrinkles
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+WQZGKKKJIJFFOK-VFUOTHLCSA-N
+Î²-D-glucose
+Chemical compound
+
+
+OC[C@H]1O[C@@H](O)[C@H](O)[C@@H](O)[C@@H]1O
+WQZGKKKJIJFFOK-VFUOTHLCSA-N
+0.000
+description
+2
+
+
+
+Classifications
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C07—ORGANIC CHEMISTRY
+
+
+C07K—PEPTIDES
+
+
+C07K14/00—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof
+
+
+C07K14/435—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof from animals; from humans
+
+
+C07K14/46—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof from animals; from humans from vertebrates
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K38/00—Medicinal preparations containing peptides
+
+
+A61K38/16—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof
+
+
+A61K38/17—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof from animals; from humans
+
+
+A61K38/1703—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof from animals; from humans from vertebrates
+
+
+A61K38/1706—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof from animals; from humans from vertebrates from fish
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K38/00—Medicinal preparations containing peptides
+
+
+A61K38/16—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof
+
+
+A61K38/43—Enzymes; Proenzymes; Derivatives thereof
+
+
+A61K38/46—Hydrolases (3)
+
+
+A61K38/48—Hydrolases (3) acting on peptide bonds (3.4)
+
+
+A61K38/4886—Metalloendopeptidases (3.4.24), e.g. collagenase
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/60—Sugars; Derivatives thereof
+
+
+A61K8/606—Nucleosides; Nucleotides; Nucleic acids
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/64—Proteins; Peptides; Derivatives or degradation products thereof
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/64—Proteins; Peptides; Derivatives or degradation products thereof
+
+
+A61K8/66—Enzymes
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K9/00—Medicinal preparations characterised by special physical form
+
+
+A61K9/0012—Galenical forms characterised by the site of application
+
+
+A61K9/0014—Skin, i.e. galenical aspects of topical compositions
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K9/00—Medicinal preparations characterised by special physical form
+
+
+A61K9/06—Ointments; Bases therefor; Other semi-solid forms, e.g. creams, sticks, gels
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61P—SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS
+
+
+A61P17/00—Drugs for dermatological disorders
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61P—SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS
+
+
+A61P17/00—Drugs for dermatological disorders
+
+
+A61P17/04—Antipruritics
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61P—SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS
+
+
+A61P17/00—Drugs for dermatological disorders
+
+
+A61P17/06—Antipsoriatics
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61P—SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS
+
+
+A61P17/00—Drugs for dermatological disorders
+
+
+A61P17/10—Anti-acne agents
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61P—SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS
+
+
+A61P17/00—Drugs for dermatological disorders
+
+
+A61P17/12—Keratolytics, e.g. wart or anti-corn preparations
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61P—SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS
+
+
+A61P17/00—Drugs for dermatological disorders
+
+
+A61P17/16—Emollients or protectives, e.g. against radiation
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+A61Q19/007—Preparations for dry skin
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+A61Q19/02—Preparations for care of the skin for chemically bleaching or whitening the skin
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+A61Q19/10—Washing or bathing preparations
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C07—ORGANIC CHEMISTRY
+
+
+C07K—PEPTIDES
+
+
+C07K14/00—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof
+
+
+C07K14/435—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof from animals; from humans
+
+
+C07K14/46—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof from animals; from humans from vertebrates
+
+
+C07K14/461—Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof from animals; from humans from vertebrates from fish
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C12—BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING
+
+
+C12N—MICROORGANISMS OR ENZYMES; COMPOSITIONS THEREOF; PROPAGATING, PRESERVING, OR MAINTAINING MICROORGANISMS; MUTATION OR GENETIC ENGINEERING; CULTURE MEDIA
+
+
+C12N9/00—Enzymes; Proenzymes; Compositions thereof; Processes for preparing, activating, inhibiting, separating or purifying enzymes
+
+
+C12N9/14—Hydrolases (3)
+
+
+C12N9/48—Hydrolases (3) acting on peptide bonds (3.4)
+
+
+C12N9/50—Proteinases, e.g. Endopeptidases (3.4.21-3.4.25)
+
+
+C12N9/64—Proteinases, e.g. Endopeptidases (3.4.21-3.4.25) derived from animal tissue
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C12—BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING
+
+
+C12N—MICROORGANISMS OR ENZYMES; COMPOSITIONS THEREOF; PROPAGATING, PRESERVING, OR MAINTAINING MICROORGANISMS; MUTATION OR GENETIC ENGINEERING; CULTURE MEDIA
+
+
+C12N9/00—Enzymes; Proenzymes; Compositions thereof; Processes for preparing, activating, inhibiting, separating or purifying enzymes
+
+
+C12N9/14—Hydrolases (3)
+
+
+C12N9/48—Hydrolases (3) acting on peptide bonds (3.4)
+
+
+C12N9/50—Proteinases, e.g. Endopeptidases (3.4.21-3.4.25)
+
+
+C12N9/64—Proteinases, e.g. Endopeptidases (3.4.21-3.4.25) derived from animal tissue
+
+
+C12N9/6402—Proteinases, e.g. Endopeptidases (3.4.21-3.4.25) derived from animal tissue from non-mammals
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C12—BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING
+
+
+C12N—MICROORGANISMS OR ENZYMES; COMPOSITIONS THEREOF; PROPAGATING, PRESERVING, OR MAINTAINING MICROORGANISMS; MUTATION OR GENETIC ENGINEERING; CULTURE MEDIA
+
+
+C12N9/00—Enzymes; Proenzymes; Compositions thereof; Processes for preparing, activating, inhibiting, separating or purifying enzymes
+
+
+C12N9/14—Hydrolases (3)
+
+
+C12N9/48—Hydrolases (3) acting on peptide bonds (3.4)
+
+
+C12N9/50—Proteinases, e.g. Endopeptidases (3.4.21-3.4.25)
+
+
+C12N9/64—Proteinases, e.g. Endopeptidases (3.4.21-3.4.25) derived from animal tissue
+
+
+C12N9/6402—Proteinases, e.g. Endopeptidases (3.4.21-3.4.25) derived from animal tissue from non-mammals
+
+
+C12N9/6405—Proteinases, e.g. Endopeptidases (3.4.21-3.4.25) derived from animal tissue from non-mammals not being snakes
+
+
+C12N9/6416—Metalloendopeptidases (3.4.24)
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C12—BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING
+
+
+C12Y—ENZYMES
+
+
+C12Y304/00—Hydrolases acting on peptide bonds, i.e. peptidases (3.4)
+
+
+C12Y304/24—Metalloendopeptidases (3.4.24)
+
+
+C12Y304/24066—Choriolysin L (3.4.24.66)
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/20—Chemical, physico-chemical or functional or structural properties of the composition as a whole
+
+
+A61K2800/28—Rubbing or scrubbing compositions; Peeling or abrasive compositions; Containing exfoliants
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K38/00—Medicinal preparations containing peptides
+
+
+
+
+
+
+
+
+Abstract
+
+The present invention relates to various polypeptides from fish hatching fluid, their encoding nucleic acid sequences, pharmaceutical compositions comprising said polypeptides and nucleic acid molecules and their use in various medical and cosmetic applications to the skin, particularly for moisturizing skin and/or for exfoliation of the horny layer of the skin for treating or preventing skin disorders or conditions in an animal.
+
+
+
+
+Description
+
+ Hatching fluid enzymes and uses thereof 
+The present invention relates to the use of choriolysin and very acidic proteins (VAPs) derivable from fish hatching fluid, alone or in combination in various cosmetic and medical applications to the skin. The present invention also relates to the very acidic proteins which are described for these uses. 
+ The skin is one of the more vulnerable organs of the body. Though seldom life- threatening, skin disorders or conditions can be uncomfortable and may cause chronic disabilities. In addition, because the skin is so visible, skin disorders and conditions can lead to psychological stress. There is therefore a continuing need for effective treatments of skin conditions and disorders. 
+ Skin forms the largest organ of the body, accounting for about 12-16 per cent of a person's weight. It performs many vital roles as both a barrier and a regulating influence between the outside world and the controlled environment within our bodies. 
+ Skin consists of 3 layers, namely the epidermis, dermis and subcutis. The epidermis is the uppermost, epithelial layer of the skin. It acts as a physical barrier, preventing loss of water from the body, and preventing entry of substances and organisms into the body. Its thickness varies according to body site. 
+ The epidermis consists of stratified squamous epithelium, i.e. it consists of layers of flattened cells. Skin, hair and nails are keratinised, meaning they have a dead, hardened hydrophobic surface made of a protein called keratin. Epidermis is made impermeable due to its contents of extracellular lipids associated with keratinocytes, especially in the middle layer of the epidermis (stratum lucidum). Mucous membranes (e.g. of the oesophagus, oral pharyngeal cavity, reproductive organs, and others) are mainly non-keratinised and moist. The epidermis has three main types of cell, namely keratinocytes (skin cells), melanocytes (pigment-producing cells) and Langerhans cells (immune cells). The Merkel cell is a fourth, less prevalent, epidermal cell. 
+ The keratinocytes mature and differentiate with accumulation of keratin as they move outwards. They eventually fall or rub off. They form four or five distinct strata, which from the most superficial to the deepest are (i) the Stratum corneum (horny layer) with dead, dried-out hard cells without nuclei, (ii) the Stratum granulosum (granular layer) with cells containing basophilic granules and outwardly separated from stratum corneum by the thin stratum lucidum, (iii) the Stratum spinulosum (spinous, spiny or prickle cell layer) in which the cells become increasingly flattened as they move upward and (iv) the Stratum basale (basal layer) with columnar (tall) regenerative cells. 
+
+ Immediately below the epidermis is the basement membrane, a specialised structure that lies between the epidermis and dermis. 
+ The dermis is the fibrous connective tissue or supportive layer of the skin. The major fibres are collagen fibres and elastin which are interwoven. 
+ The subcutis is the fat layer immediately below the dermis and epidermis. It is also called subcutaneous tissue, hypodermis or panniculus. The subcutis mainly consists of fat cells (adipocytes), nerves and blood vessels. 
+ New epithelial skin cells are created in the skin's lower layer, the stratum granulosum. Over time, cells migrate to the surface of the skin and become more acidic. During their 30 day journey, they die and become saturated with keratin. Keratin and associated lipids are important because they protect the skin from outside elements. 
+ Disease, injury, environmental factors, age, hormone levels, medication, externally applied or ingested materials, genetic conditions or a variety of other factors may lead to abnormal functioning of the skin resulting in irregularities or abnormalities. Some of these irregularities or abnormalities may be purely cosmetic in nature, e.g. dry skin, wrinkles or altered pigmentation, or may be more severe leading to pain or discomfort, e.g. eczema and psoriasis. 
+ Dry skin is one of the most common skin conditions or abnormalities. Although certain individuals are more susceptible to dry skin, the condition can affect anyone, regardless of age, gender, or skin type. 
+ Dry skin occurs when the skin's outer layer (the stratum corneum with the stratum lucidum) is depleted of water. When this layer is well-moistened, it minimizes water loss through the skin and helps keep out irritants, allergens, and germs. However, when the stratum corneum dries out, its protective function is reduced. This allows greater water loss, leaving skin vulnerable to environmental factors. 
+ Under normal conditions, the stratum corneum has a water content of 10% to 30%. This water imparts to the skin its soft, smooth, and flexible texture. The water comes from the atmosphere, the underlying layers of skin, and sweat. Oil produced by skin glands and fatty substances produced by skin cells act as natural moisturizers, allowing the stratum corneum to seal in water. 
+ The body continuously loses water from the skin's surface by evaporation. Under normal conditions, the rate of loss is slow, and the water is adequately replaced. 
+Characteristic signs and symptoms of dry skin occur when the water loss exceeds the water replacement, and the stratum corneum's water content falls below 10%. 
+ Moisturizers which improve or eradicate dry skin are highly desirable. Whilst many moisturizers are known in the art, there remains a need for natural products which are 
+
+ effective yet gentle. 
+ Another common skin abnormality or condition is excessive amounts of the horny layer of the skin. This may result from failure of the horny layer to be sloughed off or through excessive keratin deposition in the horny layer. The former may result when the natural process of skin erosion becomes uneven, which gives skin a dry and rough character. 
+Benign hyperproliferative disorders include epidermolytic hyperkeratosis (or cracked skin) and hair follicle keratosis. One common benign hyperproliferative condition is peripheral hypertrophy around scars and/or formation of keloids. Other hyperproliferative conditions are corns, calluses, hyperkeratotic warts (particularly veruca vulgaris), ichthyoses and palmoplantar keratoses. 
+ Current treatments involve exfoliation or surgery in extreme cases. Hyperkeratosis is usually treated by softening the horny layer and removing the thickened skin. 
+ Exfoliation may also be used to remove impaired epidermal cells, e.g. epidermal cells from an epidermis exhibiting a pigmentation disorder, e.g. liver spots. 
+ Exfoliation removes the outer strata of epidermis to reveal the newer skin cells beneath. Exfoliation may be achieved by physical means (i.e. abrasion of the skin) or by chemical means. Chemical exfoliants include scrubs containing salicylic acid, glycolic acid, fruit enzymes, citric acid or malic acid and may be applied in high concentrations by a dermatologist, or in lower concentrations in over-the-counter products. Chemical exfoliation may involve the use of products that contain alpha hydroxy acids (AHAs) or beta hydroxy acids (BHAs), or enzymes that act to loosen the glue-like substances that hold the cells together at cell junctions, allowing them to ease away. This type of exfoliation is 
+recommended for people treating acne. 
+ The greatest disadvantage to exfoliation is the high price of some of the products and methods used to achieve it. Exfoliation will lead to some initial redness to the skin. Near the end of chemical peels, the skin will frost, with colours varying from a bright white to gray on the skin surface. More effective methods which are gentler on the skin are therefore desirable. 
+ There thus remains a need for treatments suitable for moisturizing skin and/or for exfoliation of the horny layer of the skin. 
+ Certain molecules which are found in fish hatching fluid have surprisingly now been found to be remarkably effective moisturizers and exfoliants, namely choriolysin and a newly identified group of very acidic proteins (VAPs). 
+ Hatching of fish embryos is achieved, at least in part, by the so-called hatching enzymes, choriolysins. Choriolysin is a metalloproteinase found in fish hatching fluid and is generally found in two forms, namely the high choriolytic enzyme (choriolysin H, HCE) and 
+
+ the low choriolytic enzyme (choriolysin L, LCE), which are similar in some structural and catalytic characteristics and belong to the astacin family but with markedly different substrate preferences. 
+ In salmon the LCE is relatively unusual compared to known choriolysins from other fish species and may be applied for purposes which are described hereinafter. The sequence of salmon LCE is set forth in SEQ ID No. 1 , below. 
+ As mentioned above, a group of very acidic proteins (VAPs) have now been identified in fish hatching fluid by precipitation from other components in 80% acetone and removal of the acetone by evaporation of the centrifuged pellet as described in the Examples. 
+ These VAPs are generated by proteolytic cleavage of the polymerized and cross- linked eggshell or chorion by hatching enzymes during hatching and are fragments of components incorporated into the chorion during oogenesis, such as choriogenin H and L as described hereinbelow in more detail. These fragments of choriogenic proteins, which here are termed VAPs, are released into the perivitelline fluid during hatching to become components of the hatching fluid. VAPs appear in various forms. When analyzed by isoelectric focussing (see the Examples), VAPs I, II and III (as discussed below) appear in at least 2, 6 and 3 isoforms, respectively. 
+ We disclose herein three VAPs which have been identified and which have surprising properties as described hereinafter. The sequences of these VAPs have been determined by mass spectroscopy as described in the Examples and are presented in SEQ ID Nos. 2-4. 
+ VAPs I, II and III as referred to herein have the sequences as set forth in SEQ ID Nos. 2, 3 and 4, respectively. 
+ VAP I is 1 17 amino acids in size and has a molecular weight of around 15.5kDa and pi around 3.5. This VAP is a fragment of a 439 amino acid, 57kDa eggshell protein (also referred to as zona radiata protein, SEQ ID No. 5). VAP I may alternatively be derived from a homologous zona radiata protein comprising 467 amino acid residues (SEQ ID NO: 8). 
+ VAP II is 261 amino acids in size and has a molecular weight of around 35kDa and pi around 4.0. This VAP is a fragment of a 524 amino acid protein, 68kDa choriogenin H beta (SEQ ID No. 6). 
+ VAP III is 224 amino acids in size and has a molecular weight of around 29kDa and pi around 5.2. This VAP is a fragment of a 438 amino acid protein, 57kDa choriogenin L (SEQ ID No. 7). 
+ As shown in the Examples and discussed above, each VAP may exist in various isoforms. 
+ Thus, in a first aspect the present invention provides a polypeptide consisting of: (i) an amino acid sequence as set forth in any one of SEQ ID Nos. 2-4 or a sequence which 
+
+ is at least 50% identical to said sequence, or a portion of any of said sequences; and optionally 
+ (ii) a flanking amino acid sequence at the N and/or C terminal of the amino acid sequence in (i) which is from 1 to 100 amino acids in length. 
+ "Polypeptides" as referred to herein are molecules with preferably more than 50, 100, 150, 200 or 250 residues and/or less than 400, 300, 200 or 100 residues or a range selected therefrom. As referred to herein a "portion" preferably comprises at least 30, 40, 50, 60, 70, 80, 90, 100, 150, 200 or more amino acids of the sequence from which it is derived. Said portion may be obtained from a central or N-terminal or C-terminal portion of the sequence. In a preferred aspect said portion consists of the full length sequence from which it is derived from which at least 1 , 2, 3, 4 or 5 amino acid residues have been removed, preferably from the N-terminus. 
+ As referred to herein a "flanking sequence" is an amino acid sequence which is attached at the terminal N or C end of the central amino acid sequence via normal peptide bonds to form a continuous amino acid sequence (except as modified in functional equivalents as discussed hereinbelow). A flanking sequence may be present on the N or C terminal end of the central amino acid sequence or may be present on both ends. The flanking sequence may be as short as 1 amino acid or as long as 100 amino acids, preferably from 1 -50 (or from 5-100 or 10-50), e.g. 1-25, e.g. 1-5 amino acids in length. When flanking sequences are present at both the N and C terminal ends they may be of the same or different sequences and may be of the same or different lengths. The flanking sequences may be derived from the native sequence of which the VAP in question is a fragment or may have less than 80, 70, 60 or 50% identity to the native sequence in the comparable portion (see e.g. native sequences relative to SEQ ID Nos. 2-4 provided in SEQ ID Nos. 5-7, respectively and SEQ ID No: 8, which provides an alternative native sequence for SEQ ID No. 2). 
+ Preferably said sequence in part (i) above is at least 55, 60, 65, 70, 75, 80, 85, 90, 95, 96, 97, 98 or 99% identical to the sequence (SEQ ID Nos 2-8) to which it is compared. 
+ Sequence identity may be determined by, e.g. using the SWISS-PROT protein sequence databank using FASTA pep-cmp with a variable pamfactor, and gap creation penalty set at 12.0 and gap extension penalty set at 4.0, and a window of 2 amino acids. Preferably said comparison is made over the full length of the sequence, but may be made over a smaller window of comparison, e.g. less than 200, 100 or 50 contiguous amino acids. 
+ Preferably such sequence identity related polypeptides are functionally equivalent to the polypeptides which are set forth in the recited SEQ ID Nos. Such functionally equivalent polypeptides may take the form of derivatives as set forth below. Similarly, the polypeptides 
+
+ with sequences as set forth in the SEQ ID Nos. may be modified without affecting the sequence of the polypeptide as described below. 
+ Furthermore, "portions" as described herein may be functionally equivalents. 
+Preferably these portions satisfy the identity (relative to a comparable region) conditions mentioned herein. Preferred polypeptides of the invention including portions and 
+polypeptides which include the above described flanking sequences are preferably acidic, e.g. have a pi from 3 to 5.5, preferably from 3.5 to 5.2. 
+ As referred to herein, to achieve "functional equivalence" the polypeptide may show some reduced efficacy in performing the medical or cosmetic function relative to the parent molecule (i.e. the molecule from which it was derived, e.g. by amino acid substitution), but preferably is as efficient or is more efficient. Thus, functional equivalence relates to a polypeptide which is effective to treat a condition or disorder or to cosmetically improve the condition and/or appearance of skin as referred to herein, i.e. to reduce one or more symptoms of the patient, e.g. the appearance, texture, thickness or moisture content of the skin as described hereinafter. This may be tested by comparison of the effects of the derivative polypeptide relative to the polypeptide from which it is derived in a qualitative or quantitative manner, e.g. by performing the analyses referred to in the Examples. Where quantitative results are possible, the derivative is at least 30, 50, 70 or 90% as effective as the parent polypeptide. 
+ Functionally-equivalent proteins which are related to or derived from the naturally- occurring protein, may be obtained by modifying the native amino acid sequence by single or multiple (e.g. 2-20, preferably 2-10) amino acid substitutions, additions and/or deletions (providing they satisfy the above-mentioned sequence identity requirements), but without destroying the molecule's function. Such proteins are encoded by "functionally-equivalent nucleic acid molecules" which are generated by appropriate substitution, addition and/or deletion of one or more bases. 
+ Preferred functional equivalents are "addition" variants in which amino and/or carboxy terminal fusion proteins or polypeptides are generated, comprising an additional protein or polypeptide fused to the parent polypeptide. As described above, any sequences which when added to the central polypeptide form a contiguous amino acid sequence are limited to flanking sequences as described above. 
+ Further preferred functional equivalents are "deletion" or "truncation" variants in which proteins or polypeptides are generated wherein amino and/or carboxy terminal residues have been removed from the central polypeptide. In a particularly preferred embodiment, residues are removed from the amino terminus, wherein at least 1 , 2, 3, 4 or 5 amino acid residues are removed. Such functional equivalents are portions as described hereinbefore. 
+
+ Particularly preferred functionally-equivalent variants are natural biological variations (e.g. allelic variants or geographical variations within a species or alternatively in different genera, e.g. plants, animals or bacteria, particularly fish, particularly from the family 
+Salmonidae, especially the sub-families Salmo and Oncorhynchus) and derivatives prepared using known techniques. For example, nucleic acid molecules encoding functionally- equivalent proteins may be produced by chemical synthesis or in recombinant form using the known techniques of site-directed mutagenesis including deletion, random mutagenesis, or enzymatic cleavage and/or ligation of nucleic acids. 
+ The present invention also provides a nucleic acid molecule consisting of a nucleotide sequence which encodes only said polypeptide or a complementary sequence thereof. 
+ In a preferred aspect, the present invention thus provides a nucleic acid molecule consisting of: 
+ (i) a nucleotide sequence as set forth in any one of SEQ ID Nos. 10-12, a sequence which is at least 50% identical to said sequence, or a sequence which hybridizes to said sequence under non-stringent binding conditions of 6 x SSC/50% formamide at room temperature and washing under conditions of high stringency, e.g. 2 x SSC, 65Â°C, where SSC = 0.15 M NaCI, 0.015M sodium citrate, pH 7.2, or a sequence complementary to any of the aforesaid sequences, or a portion thereof; and optionally 
+ (ii) a flanking nucleotide sequence at the 5' or 3' end of the nucleotide sequence in (i) which is from 1 to 300 nucleotides in length, 
+or a complementary sequence thereof. 
+ Preferably said nucleic acid molecule encodes a polypeptide as set forth 
+hereinbefore. 
+ "Nucleic acid molecules" as referred to herein are molecules with preferably more than 150, 300, 450, 600 or 750 bases and/or less than 1200, 900, 600 or 300 bases or a range selected therefrom. "Portions" as referred to above, preferably comprise at least 90, 120, 150, 180, 210, 240, 270, 300, 450 or 600 nucleotide bases of the sequence from which it is derived. Preferably said portions encode N-terminal, central or C-terminal peptides as described hereinbefore. In a preferred aspect said portion consists of the full length sequence from which it is derived from which at least 1 , 2, 3, 4, 5, 6, 7, 8, 9, 10, 1 1 , 12, 13, 14 or 15 bases have been removed, preferably from the 5' end. 
+ As referred to herein a "flanking sequence" is a nucleotide sequence which is attached at the terminal 5' or 3' end of the central nucleotide sequence via normal phosphodiester bonds to form a continuous nucleotide sequence (except as modified in functional equivalents as discussed hereinbelow). A flanking sequence may be present on 
+
+ the 5' or 3' terminal end of the central nucleotide sequence or may be present on both ends. The flanking sequence may be as short as 1 nucleotide or as long as 300 nucleotides, preferably from 1 -150 (or from 15-300 or 30-150), e.g. 1 -75, e.g. 1-15 nucleotides in length. When flanking sequences are present at both the 5' and 3' terminal ends they may be of the same or different sequences and may be of the same or different lengths. The flanking sequences may be derived from the native sequence of which the VAP encoding sequence in question is a fragment or may have less than 80, 70, 60 or 50% identity to the native encoding sequence in the comparable portion (see e.g. native sequences relative to SEQ ID Nos. 10-12 provided in SEQ ID Nos 13-15, respectively and SEQ ID No: 16, which provides an alternative native sequence for SEQ ID No. 10). 
+ Preferably said sequence in part (i) above is at least 55, 60, 65, 70, 75, 80, 85, 90, 95, 96, 97, 98 or 99% identical to the sequence (SEQ ID Nos 10-16) to which it is compared. 
+ Sequence identity may be determined by, e.g. FASTA Search using GCG packages, with default values and a variable pamfactor, and gap creation penalty set at 12.0 and gap extension penalty set at 4.0 with a window of 6 nucleotides. 
+ Preferably such sequence identity related or hybridizing nucleic acid molecules are functionally equivalent to the nucleic acid molecules which are set forth in the recited SEQ ID Nos. Such functionally equivalent nucleic acid molecules may take the form of derivatives as set forth below and are considered functionally equivalent if they encode polypeptides which would be considered functional equivalents according to the tests described hereinbefore. Preferred functional equivalents are those which encode the preferred polypeptides as set out above, e.g. nucleic acid molecules which encode polypeptides found in different genera or species than the specific molecules mentioned herein. 
+ Furthermore, "portions" as described herein may be functionally equivalents. 
+Preferably these portions satisfy the identity (relative to a comparable region) or hybridizing conditions mentioned herein. Preferably nucleic acid molecules of the invention, including portions and nucleotide sequences including the above described flanking sequences, preferably encode acidic polypeptides as described hereinbefore. 
+ Nucleic acid molecules according to the invention and for use according to the invention may be single or double stranded DNA, cDNA or RNA, preferably DNA and include degenerate, substantially identical and hybridizing sequences as described above. Ideally however the molecules are DNA or cDNA. 
+ The polypeptides of the invention, or for use according to the invention, include those which are modified without affecting the sequence of the polypeptide, e.g. by chemical modification, including by deglycosylation or glycosylation. Such polypeptides may be prepared by post-synthesis/isolation modification of the polypeptide without affecting 
+
+ functionality, e.g. certain glycosylation, methylation etc. of particular residues. 
+ The polypeptides of the invention, or for use according to the invention, may also take the form of peptidomimetics which may be considered derivatives in which the functional features of the polypeptide are retained but are presented in the context of a different, e.g. non-peptide structure. Such peptidomimetics have successfully been developed and used for other particularly medical applications. 
+ Peptidomimetics, particularly non-peptidic molecules may be generated through various processes, including conformational-based drug design, screening, focused library design and classical medicinal chemistry. Not only may oligomers of unnatural amino acids or other organic building blocks be used, but also carbohydrates, heterocyclic or macrocyclic compounds or any organic molecule that comprises structural elements and conformation that provides a molecular electrostatic surface that mimics the same properties of the 3- dimensional conformation of the peptide may be used by methods known in the art. 
+ Thus the peptidomimetics may bear little or no resemblance to a peptide backbone. Peptidomimetics may comprise an entirely synthetic non-peptide form (e.g. based on a carbohydrate backbone with appropriate substituents) or may retain one or more elements of the peptide on which it is based, e.g. by derivatizing one or more amino acids or replacing one or more amino acids with alternative non-peptide components. Peptide-like templates include pseudopeptides and cyclic peptides. Structural elements considered redundant for the function of the peptide may be minimized to retain a scaffold function only or removed where appropriate. 
+ When peptidomimetics retain one or more peptide elements, i.e. more than one amino acid, such amino acids may be replaced with a non-standard or structural analogue thereof. Amino acids retained in the sequences may also be derivatised or modified (e.g. labelled, glycosylated or methylated) as long as the functional properties of the polypeptides of the invention, or for use according to the invention, are retained. The peptidomimetics are referred to as being "derivable from" a certain polypeptide sequence. By this it is meant that the peptidomimetic is designed with reference to a defined polypeptide sequence, such that it retains the structural features of the peptide which are essential for its function. This may be the particular side chains of the polypeptide, or hydrogen bonding potential of the structure. Such features may be provided by non-peptide components or one or more of the amino acid residues or the bonds linking said amino acid residues of the polypeptide may be modified so as to improve certain functions of the polypeptide such as stability or protease resistance, while retaining the structural features of the polypeptide which are essential for its function. 
+ Examples of non-standard or structural analogue amino acids which may be used are D amino acids, amide isosteres (such as N-methyl amide, retro-inverse amide, thioamide, 
+
+ thioester, phosphonate, ketomethylene, hydroxymethylene, fluorovinyl, (E)-vinyl, 
+methyleneamino, methylenethio or alkane), L-N methylamino acids, D-a methylamino acids, D-N-methylamino acids. Examples of non-conventional amino acids are listed in Table 1. 
+
+
+   
+ Non-standard amino acids which may be used include conformationally restricted analogs, e.g. such as Tic (to replace F), Aib (to replace A) or pipecolic acid (to replace Pro). 
+ The polypeptides and nucleic acid molecules discussed above also include derivatives which have been modified, e.g. to facilitate their use in pharmaceutical applications (discussed below), e.g. by the addition of targeting or functional groups, e.g. to improve lipophilicity, aid cellular transport, solubility and/or stability. Thus oligosaccharides, fatty acids, fatty alcohols, amino acids, peptides or polypeptides may be conjugated to the aforementioned polypeptides or nucleic acid molecules. Nucleic acid molecules may be present in a viral carrier as described hereinafter. 
+ The polypeptides also encompass derivatives in the form of "pro-drugs" or "propeptides" such that the added component may be removed by cleavage once administered, e.g. by cleavage of a substituent added through esterification which may be removed by the action of esterases. Such pro-drugs include native precursors of the naturally occurring proteins which are cleaved e.g. by proteolysis to yield the polypeptide of interest. Such precursors may be inactive in the precursor form but may be activated by proteolytic cleavage. However, any sequences which when added to the central polypeptide form a contiguous amino acid sequence are limited to flanking sequences as described above. Alternatively they may have longer flanking sequences providing they do not extend to molecules which are the native sequence from which the VAP fragment is derived (e.g. SEQ ID Nos. 5-8 in relation to the amino acid sequences and SEQ ID Nos. 13-16 for the nucleotide sequences) or a sequence with at least 50, 60, 70, 80 or 90% sequence identity to that sequence in the comparable portion. 
+ The nucleic acid molecules of the invention, or for use according to the invention, thus similarly encompass molecules which encode such pro-drugs or precursors. However, any sequences which when added to the central polynucleotide form a contiguous nucleotide sequence are limited to flanking sequences as described above. Alternatively they may longer flanking sequences providing they do not extend to molecules which are the native sequence from which the VAP fragment is derived or a sequence with at least 50, 60, 70, 80 or 90% sequence identity to that sequence in the comparable portion. 
+ Modified polypeptides or nucleic acid molecules as described above may be tested to ensure that they retain functional activity relative to the unmodified molecule by determining if they have the same or similar medical or cosmetic effects. 
+ The nucleic acid molecules described above may be operatively linked to an expression control sequence, or a recombinant DNA cloning vehicle or vector containing such a recombinant DNA molecule. This allows intracellular expression of the polypeptide of the invention, or for use according to the invention, as a gene product, the expression of 
+
+ which is directed by the gene(s) introduced into cells of interest. Gene expression is directed from a promoter active in the cells of interest and may be inserted in any form of linear or circular DNA vector for incorporation in the genome or for independent replication or transient transfection/expression. Suitable transformation or transfection techniques are well described in the literature. Alternatively, the naked DNA molecule may be introduced directly into the cell for the uses described herein. 
+ Appropriate expression vectors include appropriate control sequences such as for example translational (e.g. start and stop codons, ribosomal binding sites) and transcriptional control elements (e.g. promoter-operator regions, termination stop sequences) linked in matching reading frame with the nucleic acid molecules required for performance of the method of the invention as described hereinafter. Appropriate vectors may include plasmids and viruses (including both bacteriophage and eukaryotic viruses). Suitable viral vectors include baculovirus and also adenovirus, adeno-associated virus, herpes and vaccinia/pox viruses. Many other viral vectors are described in the art. Preferred vectors include bacterial and mammalian expression vectors pGEX-KG, pEF-neo and pEF-HA. The nucleic acid molecule may conveniently be fused with DNA encoding an additional polypeptide, e.g. 
+glutathione-S-transferase, to produce a fusion protein on expression. 
+ Thus viewed from a further aspect, the present invention provides a vector, preferably an expression vector, comprising a nucleic acid molecule as defined above. 
+ Other aspects of the invention include methods for preparing recombinant nucleic acid molecules according to the invention, comprising inserting nucleotide sequences of the invention encoding the polypeptides of the invention into vector nucleic acid. 
+ In methods as described hereinafter, the polypeptides may be administered to a cell by transfection of a cell with a nucleic acid molecule of the invention, or for use according to the invention. As mentioned above, the present invention thus extends to nucleic acid molecules consisting of, or comprising, a sequence which encodes the polypeptides of the invention as described herein and their use in methods described herein. Preferably said nucleic acid molecules are contained in a vector, e.g. an expression vector. 
+ Nucleic acid molecules of the invention, or for use according to the invention, preferably contained in a vector, may be introduced into a cell by any appropriate means. Suitable transformation or transfection techniques are well described in the literature. A variety of techniques are known and may be used to introduce such vectors into prokaryotic or eukaryotic cells for expression. Preferred host cells for this purpose include insect cell lines, eukaryotic cell lines or E. coli, such as strain BL21/DE3. The invention also extends to transformed or transfected prokaryotic or eukaryotic host cells containing a nucleic acid molecule, particularly a vector as defined above. 
+
+ A further aspect of the invention provides a method of preparing a polypeptide of the invention as hereinbefore defined, which comprises culturing a host cell containing a nucleic acid molecule as defined above, under conditions whereby said polypeptide is expressed and recovering said molecule thus produced. The expressed polypeptide forms a further aspect of the invention. 
+ The invention also extends to a polypeptide encoded by a nucleic acid molecule as hereinbefore described. This may be produced by expression of a host cell as described above. 
+ Cells producing and secreting polypeptides of the invention, but which have been modified relative to native cells by expression of encoding nucleic acid material, form further aspects of the invention. 
+ The polypeptides or nucleic acid molecules used in compositions and uses of the invention as described hereinbelow may be obtained or derived from naturally occurring sources or may be generated entirely or partially synthetically. 
+ Conveniently the polypeptides and nucleic acid molecules are isolated in accordance with the protocols described in the Examples and below or as described in Yasumasu ef a/., 1989, J. Biochem., 105, p212-218 in relation to choriolysin, which is hereby incorporated by reference, particularly in relation to the isolation methodology. Such methods and the products of such methods as they relate to the VAPs described herein form further aspects of the invention. 
+ Thus in a further aspect the present invention provides a method of isolating one or more polypeptides (VAPs or related sequences) as described herein from hatching fluid (e.g. of salmon) comprising at least the steps of: 
+a) suspending eggs in a minimal volume of water (e.g. less than the volume of the eggs); b) inducing synchronized, rapid hatching of said eggs (preferably such that hatching is complete within less than 3 hours for more than 95% of the embryos); 
+c) filtering the hatching eggs to obtain hatching fluid; 
+d) adding acetone to said hatching fluid to a final concentration of 80% v/v; and 
+e) subjecting said fluid to low speed centrifugation wherein said polypeptide(s) is present in the pellet thus formed; and optionally 
+f) separating the polypeptides present in the pellet of step e) to isolate individual 
+polypeptides, e.g. by the use of an ion-exchange column. 
+ A preferred ion-exchange column is a DEAE-SepharoseÂ® CL-6B column, however suitable alternatives are readily available. 
+ Preferably said hatching fluid is from fish, especially Salmonidae, particularly Salmo, e.g. Salmo salar (Atlantic salmon) and Oncorhynchus (Pacific salmon). 
+
+ The invention further extends to polypeptides prepared by the above described method. 
+ The polypeptides or nucleic acid molecules of the invention, or for use according to the invention, are preferably substantially free of any contaminating components derived from the source material or materials used in the isolation procedure or in their synthetic preparation. Especially preferably the compound is purified to a degree of purity of more than 50 or 60 %, e.g. >70, 80 or 90%, preferably more than 95 or 99% purity as assessed w/w (dry weight). Such purity levels correspond to the specific molecules of interest, but includes its degradation products. Where appropriate, enriched preparations may be used which have lower purity, e.g. contain more than 1 , 2, 5 or 10% of the molecule of interest, e.g. more than 20 or 30%. The polypeptides of the invention, or for use according to the invention, may be purified by, for example, chromatography (e.g. HPLC, size-exclusion, ion- exchange, affinity, hydrophobic interaction, reverse-phase) or capillary electrophoresis. 
+ Polypeptides of the invention, or for use according to the invention, may be generated synthetically, e.g. by ligation of smaller synthetically generated peptides or more conveniently by recombinant expression of a nucleic acid molecule encoding said polypeptide as described hereinbefore. 
+ Nucleic acid molecules of the invention, or for use according to the invention, may be generated synthetically, e.g. by amplification of a nucleic acid sequence as described herein. The VAP polypeptides and nucleic acid molecules described herein may be used as described hereinbelow to effect various cosmetic and/or medical effects and form preferred molecules for this purpose. 
+ In addition, longer proteins (and their encoding sequences) which include the above described fragments, such as the full-length native proteins, may be used for the processes described hereinbelow. Thus, for the uses described below the polypeptide which may be used extends to a polypeptide comprising an amino acid sequence as set forth in any one of Sequences Nos. 2-8 or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequences. 
+ The definitions as they relate to polypeptides, portions, sequence identity and functionally-equivalent proteins similarly apply and preferred sequence identity values as set forth above are also applicable. Preferably the polypeptides are fragments of the native proteins (optionally with flanking sequences) as described hereinbefore. Similarly, for the uses described below the nucleic acid molecules which may be used extend to nucleic acid molecules comprising a nucleotide sequence which encodes a polypeptide of the invention or a longer polypeptide as described above or a complementary sequence thereof. 
+Preferably the uses are performed with fragments of the native encoding sequences 
+
+ (optionally with flanking sequences) as described hereinbefore. 
+ Thus, for the uses described below the nucleic acid molecule which may be used extends to a nucleic acid molecule comprising a nucleotide sequence as set forth in any one of SEQ ID Nos. 10-16 or a sequence which is at least 50% identical to said sequence, or a sequence which hybridizes to said sequence under non-stringent binding conditions of 6 x SSC/50% formamide at room temperature and washing under conditions of high stringency, e.g. 2 x SSC, 65Â°C, where SSC = 0.15 M NaCI, 0.015M sodium citrate, pH 7.2, or a sequence complementary to any of the aforesaid sequences, or a portion of any of said sequences. 
+ As referred to hereinafter in relation to the uses of the invention, reference to polypeptides and nucleic acid molecules refers to this broader definition, i.e. not just fragments of the native molecules which optionally contain flanking sequences as described above. 
+ In addition to the above described VAPs, it has also been found that a further protein found in fish hatching fluid has advantageous cosmetic and/or medical uses which are complementary to those of the VAPs, namely choriolysin L as discussed hereinbefore. 
+ Thus, polypeptides or nucleic acid molecules as disclosed herein may be used ex vivo or in vitro, on animal parts or products, for example skin samples, particularly when it is contemplated that these will be reintroduced into the body from which they are derived, e.g. in the form of a skin graft. 
+ However, the polypeptides and nucleic acid molecules as disclosed herein are preferred for use in vivo as discussed in more detail below. 
+ Polypeptides and nucleic acid molecules as described herein have applications for the treatment of various abnormalities, disorders or conditions as described hereinafter. 
+ The present invention thus extends to a pharmaceutical composition comprising a polypeptide or nucleic acid molecule as described hereinbefore and one or more 
+pharmaceutically acceptable excipients and/or diluents. 
+ Alternatively stated, the present invention provides a pharmaceutical composition comprising: 
+ (i) a polypeptide comprising an amino acid sequence as set forth in SEQ ID No. 1 or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequence; 
+ (ii) a polypeptide comprising an amino acid sequence as set forth in SEQ ID No. 2 or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequence; 
+ (iii) a polypeptide comprising an amino acid sequence as set forth in SEQ ID No. 3 or a 
+
+ sequence which is at least 50% identical to said sequence, or a portion of any of said sequence; and/or 
+ (iv) a polypeptide comprising an amino acid sequence as set forth in SEQ ID No. 4 or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequence; 
+and one or more pharmaceutically acceptable excipients and/or diluents. 
+ In a preferred aspect, when the use of longer sequences than those presented in SEQ ID Nos. 2-4 are contemplated, in the above list, SEQ ID Nos. 2-4 may be replaced with SEQ ID Nos. 5-7, respectively and wherein SEQ ID NO: 2 can alternatively be replaced with SEQ ID NO: 8. 
+ Preferred polypeptides are as described hereinbefore, particularly, in relation to VAPs, fragments of native sequences, optionally containing flanking sequences. References to a pharmaceutical composition herein may be read as encompassing cosmetic 
+compositions. 
+ Alternatively, or additionally said composition may comprise the encoding sequence of said polypeptide, i.e. nucleic acid molecules as described hereinbefore (e.g. (v) one or more nucleic acid molecules encoding a polypeptide as set forth in any of (i) to (iv) above or a complementary sequence thereof). Preferred nucleic acid molecules are as described hereinbefore, i.e. with reference to SEQ ID Nos. 9-16, preferably 9-12. 
+ In a preferred aspect, said composition comprises a combination of said components, e.g. components (ii) to (iv) above (i.e. all the described VAPs) or any combination of said 4 components listed above. 
+ By "pharmaceutically acceptable" or "physiologically acceptable" is meant that the ingredient must be compatible with other ingredients in the composition as well as 
+physiologically acceptable to the recipient. 
+ The active ingredient for administration may be appropriately modified for use in a pharmaceutical composition. For example the compounds used in accordance with the invention may be stabilized against degradation by the use of derivatives as described above. 
+ The active ingredient may also be stabilized in the compositions for example by the use of appropriate additives such as salts or non-electrolytes, acetate, EDTA (for VAPS and related polypeptides), citrate (for VAPs and related polypeptides), Tris, phosphate or acetate buffers, mannitol, glycine, HSA (human serum albumin) or polysorbate. 
+ The nucleic acid molecule or polypeptide as described herein may be present in said compositions as the sole active ingredient or may be combined with other ingredients, particularly other active ingredients, e.g. to augment the therapeutic effect or to make the 
+
+ composition more appealing to the consumer. Said other component may be one of the 4 optional components described above or an alternative component. 
+ The composition comprising one or more polypeptides or nucleic acid molecules described herein may also comprise impurities, e.g. after the preparation of said one or more polypeptides or nucleic acid molecules of the invention from natural sources. In 
+compositions comprising said one or more polypeptides or nucleic acid molecules as described herein, each of said polypeptide(s) or nucleic acid molecule(s) may be present in the range 0.0001 to 30% w/w of the pharmaceutical composition. Preferably said 
+polypeptide(s) or nucleic acid molecule(s) is present at a range of 0.01-10% or as described hereinafter. 
+ In a further aspect of the invention, the compositions as described herein are for use in therapy. 
+ As mentioned above, the polypeptides and nucleic acid molecules of the invention exhibit therapeutic properties in the treatment of skin abnormalities, disorders or conditions, by moisturizing and/or exfoliating the skin. 
+ Preferred skin abnormalities, conditions or disorders to be treated are dry skin, skin in which the horny layer is thicker than desirable, e.g. in hyperkeratosis conditions, or skin with undesirable pigmentation in the epidermis, e.g. liver, age, sun or brown spots. The treatments may be cosmetic, e.g. the treatment of normal but dry skin or thickened skin (such as calluses, corns or hyperkeratotic warts) or treatment of pigmentation disorders, such as liver spots, or therapeutic, e.g. to treat acne, eczema, psoriasis or warts resulting in pain. 
+ As referred to herein a "disorder" refers to an underlying pathological disturbance in a symptomatic or asymptomatic organism relative to a normal organism, which may result, for example, from infection or an acquired or congenital genetic imperfection. An "abnormality" or "condition" refers to an irregularity or defect in the skin relative to normal optimal skin but which is not as the result of a pathological disturbance. The defect/irregularity may instead result from age, injury, environmental factors, hormone levels, medication, externally applied or ingested materials, genetic conditions or a variety of other factors which leads to abnormal functioning of the skin resulting in irregularities. 
+ The disorder, abnormality or condition may be merely cosmetic or non-cosmetic requiring medical treatment, or a combination thereof. 
+ As referred to herein "cosmetic" is intended to refer to a treatment which does not cure, treat or prevent a disease or disorder, but instead serves as a skincare product or to modify or improve the appearance of the skin, e.g. the colour, texture or moisture content of the skin. 
+ A "non-cosmetic" (or medical) ingredient used in medical treatments as described 
+
+ herein serves to cure, mitigate, treat or prevent one or more symptoms of the disorder, e.g. pain or discomfort. 
+ The basis of the treatments described herein is the skin moisturizing and exfoliating effects of the VAPs and/or choriolysin as disclosed herein. These effects have been shown in the Examples provided herein. 
+ Thus treatments based on the moisturizing and/or exfoliation properties of VAPs and/or choriolysin are contemplated. 
+ The invention thus provides a cosmetic or non-cosmetic method of exfoliating and/or moisturizing skin of an animal, wherein a polypeptide, nucleic acid molecule or 
+pharmaceutical composition as described hereinbefore is administered to said animal. 
+ Thus, with reference to the above, the present invention provides a cosmetic or non- cosmetic method of exfoliating and/or moisturizing skin of an animal, wherein a polypeptide, nucleic acid molecule or pharmaceutical composition is administered to said animal, wherein said polypeptide comprises an amino acid sequence as set forth in any one of Sequences Nos. 1 -8 (preferably 1 -4) or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequences; said nucleic acid molecule encodes said polypeptide or is a complementary sequence thereof (e.g. a nucleotide sequence as set forth in any one of SEQ ID Nos. 9-16 (preferably 9-12) or a sequence which is at least 50% identical to said sequence, or a sequence which hybridizes to said sequence under non-stringent binding conditions of 6 x SSC/50% formamide at room temperature and washing under conditions of high stringency, e.g. 2 x SSC, 65Â°C, where SSC = 0.15 M NaCI, 0.015M sodium citrate, pH 7.2, or a sequence complementary to any of the aforesaid sequences, or a portion of any of said sequences) and said pharmaceutical composition comprises one or more of said polypeptides or nucleic acid molecules and one or more pharmaceutically acceptable excipients and/or diluents. 
+ As described above and referred to herein, the above described polypeptide and nucleotide sequences defined by reference to SEQ ID Nos. 2-8 and 10-16 are VAPs or related sequences and those defined by reference to SEQ ID Nos. 1 and 9 are choriolysin or related sequences. 
+ As referred to herein, "exfoliating" refers to removing superficial cells of an epithelium surface which in skin equates to scaling or desquamation of the horny layer of the epidermis. "Moisturizing" as referred to herein covers moisturizers which prevent loss of water from the skin as well as moisturizers (humectants) that attract and retain water when applied to the skin and emollients (which improve defective desquamation). 
+ Alternatively stated, the present invention provides a polypeptide, nucleic acid molecule or pharmaceutical composition as described herein for use in exfoliating and/or 
+
+ moisturizing skin of an animal. (The compound or composition may alternatively be used to prepare a medicament for that purpose.) 
+ As mentioned above, such exfoliating and/or moisturizing properties are 
+advantageous for treating or preventing a variety of skin abnormalities, disorders or conditions. 
+ In a preferred aspect, the skin abnormality, condition or disorder to be treated or prevented is dry skin. This may be treated by moisturizing and/or exfoliation. 
+ "Dry skin" as referred to herein refers to an epidermis that lacks moisture or sebum, often characterized by a pattern of fine lines, scaling, and itching. Dry skin can occur as a skin condition in itself (e.g. due to age, heat/cold/dry damage) or may be the symptom of a skin disorder or condition such as sun-damage, eczema, contact dermatitis, psoriasis or ichthyosis (an inherited condition causing marked flaking of the skin). 
+ In a further preferred aspect, the abnormality, condition or disorder to be treated or prevented is thickened horny layers of the skin. This may be treated by moisturizing and/or exfoliation. 
+ Such thickened horny layers of the skin may occur in conditions such as calluses or corns which are protective pads made up of the thickened upper layer of skin due to repeated rubbing of the area or warts on the skin. Such methods may also be used to treat or prevent acne which involves keratinisation in its pathology. The thickened horny layers of the skin may be the condition itself or may be a symptom of a skin condition or disorder. 
+ In a further preferred aspect, the abnormality, condition or disorder to be treated or prevented is a pigmentation disorder or abnormality of the skin. This may be treated by exfoliation. 
+ Pigmentation disorders or abnormalities of the skin may occur as a result of age, hormonal changes, genetic factors, disease or sun or other damage. Altered pigmentation may result from a local excess of melanocytes or increases in melanocyte activity, or both. Pigmentation disorders include liver, sun or age spots (solar lentigo) and other blemishes such as freckles. 
+ Alternatively stated, the present invention thus provides a cosmetic or non-cosmetic method of treating or preventing a condition or disorder of the skin of an animal wherein said skin is abnormally dry, the horny layer of the skin is abnormally thickened or the skin has a pigmentation disorder, wherein a polypeptide, nucleic acid molecule or pharmaceutical composition as described hereinbefore is administered to said animal. Said conditions or disorders are preferably as described hereinbefore. 
+ As referred to herein "abnormal" is determined relative to normal optimum skin, i.e. healthy, hydrated, normally pigmented and non-aged skin. 
+
+ ln a further alternative statement, the invention provides a polypeptide, nucleic acid molecule or pharmaceutical composition as described herein for use in a cosmetic or non- cosmetic method of treating or preventing a condition or disorder of the skin of an animal wherein said skin is abnormally dry, the horny layer of the skin is abnormally thickened or the skin has a pigmentation disorder. (The compound or composition may alternatively be used to prepare a medicament for that purpose.) 
+ In a preferred aspect the medical and/or cosmetic uses are achieved by topical administration to the skin. 
+ Preferably, for medical or cosmetic indications reliant, at least in part, on the exfoliation effects of the active ingredients, the pharmaceutical compositions used for this purpose comprise one or more VAPs (or their related sequences as described herein) and/or choriolysin (or its related sequences as described herein). 
+ Preferably, for medical or cosmetic indications reliant, at least in part, on the moisturizing effects of the active ingredients, the pharmaceutical compositions used for this purpose comprise one or more VAPs (or their related sequences as described herein). 
+ Thus in a particularly preferred aspect, one or more VAPs (or their related sequences as described herein) and/or choriolysin (or its related sequences as described herein) may be used for treating disorders in which the skin is abnormally dry, the horny layer of the skin is abnormally thickened or in which a pigmentation defect is present, e.g. calluses, corns, warts, eczema, contact dermatitis, psoriasis, ichthyosis, acne and liver spots. 
+ In a further particularly preferred aspect, one or more VAPs (or their related sequences as described herein) may be used for treating disorders in which the skin is abnormally dry. 
+ As used herein, "treating" refers to the reduction, alleviation or elimination, preferably to normal levels, of one or more of the symptoms or effects of said condition or disorder e.g. presence or extent of dry or thickened skin, extent or area of pigmentation, itching or pain etc. relative to the symptoms or effects present on a different part of the body of said individual where the skin does not suffer from said condition or disorder and not subject to said treatment or in a corresponding normal individual not subject to said treatment. 
+ "Preventing" refers to absolute prevention, or reduction or alleviation of the extent or timing (e.g. delaying) of the onset of that symptom or effect. For example conditions typified by dry, thickened or abnormally pigmented skin may be prevented by regular application of compositions of the invention before the appearance of such a condition. 
+ Preferably said treatments are achieved using polypeptide methods of the invention. However, the use of the encoding polynucleotides are also contemplated. 
+This may be achieved, for example, by gene therapy methods, e.g. use of sense sequences 
+
+ to allow expression of the desired molecules in the skin. 
+ The method of treatment or prevention according to the invention may 
+advantageously be combined with administration of one or more active ingredients which are effective in treating or preventing the disorders or conditions and/or to achieve moisturization or exfoliation. Thus, pharmaceutical compositions of the invention may additionally contain one or more of such active ingredients. 
+ According to a yet further aspect of the invention we provide products containing one or more polypeptides or nucleic acid molecules as herein defined and optionally one or more additional active ingredients as a combined preparation for simultaneous, separate or sequential use in human or animal therapy, preferably as described herein. 
+ The compositions of the invention may be formulated in a conventional manner with one or more physiologically acceptable carriers, excipients and/or diluents, according to techniques well known in the art using readily available ingredients. 
+ Thus, the active ingredient may be incorporated, optionally together with other active substances as a combined preparation, with one or more conventional carriers, diluents and/or excipients, to produce conventional galenic preparations such as tablets, pills, powders, lozenges, sachets, cachets, elixirs, suspensions (as injection or infusion fluids), emulsions, solutions, syrups, aerosols (as a solid or in a liquid medium), ointments, soft and hard gelatin capsules, suppositories, sterile injectable solutions, sterile packaged powders, and the like. Biodegradable polymers (such as polyesters, polyanhydrides, polylactic acid, or polyglycolic acid) may also be used for solid implants. The compositions may be stabilized by use of freeze-drying, undercooling or Permazyme. 
+ Suitable excipients, carriers or diluents are lactose, dextrose, sucrose, sorbitol, mannitol, starches, gum acacia, calcium phosphate, calcium carbonate, calcium lactose, corn starch, aglinates, tragacanth, gelatin, calcium silicate, microcrystalline cellulose, polyvinylpyrrolidone, cellulose, water syrup, water, water/ethanol, water/glycol, 
+water/polyethylene, glycol, propylene glycol, methyl cellulose, methylhydroxybenzoates, propyl hydroxybenzoates, talc, magnesium stearate, mineral oil or fatty substances such as hard fat or suitable mixtures thereof. Agents for obtaining sustained release formulations, such as carboxypolymethylene, carboxymethyl cellulose, cellulose acetate phthalate, or polyvinylacetate may also be used. 
+ The compositions may additionally include lubricating agents, wetting agents, emulsifying agents, viscosity increasing agents, granulating agents, disintegrating agents, binding agents, osmotic active agents, suspending agents, preserving agents, sweetening agents, flavouring agents, adsorption enhancers (e.g. surface penetrating agents or for nasal delivery, e.g. bile salts, lecithins, surfactants, fatty acids, chelators), browning agents, organic 
+
+ solvent, antioxidant, stabilizing agents, emollients, silicone, alpha-hydroxy acid, demulcent, anti-foaming agent, moisturizing agent, vitamin, fragrance, ionic or non-ionic thickeners, surfactants, filler, ionic or non-ionic thickener, sequestrant, polymer, propellant, alkalinizing or acidifying agent, opacifier, colouring agents and fatty compounds and the like. 
+ The compositions of the invention may be formulated so as to provide quick, sustained or delayed release of the active ingredient after administration to the body by employing techniques well known in the art. 
+ The composition may be in any appropriate dosage form to allow delivery or for targeting particular cells or tissues, e.g. as an emulsion or in liposomes, niosomes, microspheres, nanoparticles or the like with which the active ingredient may be absorbed, adsorbed, incorporated or bound. This can effectively convert the product to an insoluble form. These particulate forms may overcome both stability (e.g. degradation) and delivery problems. 
+ These particles may carry appropriate surface molecules to improve circulation time (e.g. serum components, surfactants, polyoxamine908, PEG etc.) or moieties for site-specific targeting, such as ligands to particular cell borne receptors. Appropriate techniques for drug delivery and for targeting are well known in the art and are described in W099/62315. 
+ The use of solutions, suspensions, gels and emulsions are preferred, e.g. the active ingredient may be carried in water, a gas, a water-based liquid, an oil, a gel, an emulsion, an oil-in water or water-in-oil emulsion, a dispersion or a mixture thereof. 
+ Compositions may be for topical (i.e. to the skin), oral or parenteral administration, e.g. by injection. 
+ Topical compositions and administration are however preferred, and include gels, creams, ointments, sprays, lotions, salves, sticks, soaps, powders, films, aerosols, drops, foams, solutions, emulsions, suspensions, dispersions e.g. non-ionic vesicle dispersions, milks and any other conventional pharmaceutical or cosmetic forms in the art. 
+ Ointments, gels and creams may, for example, be formulated with an aqueous or oily base with the addition of suitable thickening and/or gelling agents. Lotions may be formulated with an aqueous or oily base and will, in general, also contain one or more emulsifying, dispersing, suspending, thickening or colouring agents. Powders may be formed with the aid of any suitable powder base. Drops and solutions may be formulated with an aqueous or non-aqueous base also comprising one or more dispersing, solubilising or suspending agents. Aerosol sprays are conveniently delivered from pressurised packs, with the use of a suitable propellant. 
+ Alternatively, the compositions may be provided in a form adapted for oral or parenteral administration. Alternative pharmaceutical forms thus include plain or coated 
+
+ tablets, capsules, suspensions and solutions containing the active component optionally together with one or more inert conventional carriers and/or diluents, e.g. with corn starch, lactose, sucrose, microcrystalline cellulose, magnesium stearate, polyvinylpyrrolidone, citric acid, tartaric acid, water, water/ethanol, water/glycerol, water/sorbitol, water/polyethylene glycol, propylene glycol, stearyl alcohol, carboxymethylcellulose or fatty substances such as hard fat or suitable mixtures thereof. 
+ The concentration of active ingredient in compositions of the invention, depends upon the nature of the compound used (i.e. the polypeptide or nucleic acid molecule), the mode of administration, the course of treatment, the age and weight of the patient, the medical indication, the body or body area to be treated and may be varied or adjusted according to choice. Generally however, concentration ranges for the compound described herein is 0.0001 , 0.0005, 0.001 or 0.01 to 25%, e.g. 0.0005-15%, e.g. 0.01 to 10%, such as 0.1 or 0.5 to 5, e.g. 1-5% (w/w of the final preparation for administration, particularly for topical administration). 
+ When more than one compound is present, e.g. 3 VAPs (or related molecules) as described herein, each compound may be present in the amounts described above. Said concentrations are determined by reference to the amount of the compound itself and thus appropriate allowances should be made to take into account the purity of the composition. Effective single doses for VAPs (and related molecules) may lie in the range of from 0.1 - 100mg/cm2/day, preferably 0.1-10mg/cm2/day, when applied topically, depending on the animal being treated, taken as a single dose. For choriolysin (and related molecules) effective single doses may lie in the range of from 0.1-100mU/cm2/day, preferably 0.5-10, e.g. 1-5mll/cm2/day. 
+ The administration may be by any suitable method known in the medicinal arts, including for example oral, intestinal, percutaneous, buccal, rectal or topical administration or administration by inhalation. The preferred administration forms will be administered orally, or most preferably topically. As will be appreciated oral administration has its limitations if the active ingredient is digestible. To overcome such problems, ingredients may be stabilized as mentioned previously. 
+ It will be appreciated that since the active ingredient for performance of the invention takes a variety of forms, e.g. nucleic acid molecule (which may be in a vector) or polypeptide, the form of the composition and route of delivery will vary. Preferably however liquid solutions, creams or suspensions would be employed, particularly e.g. for oral delivery or topical administration. 
+ Either the polypeptide or nucleic acid molecules of the invention may be used for the above mentioned medical indications. In the latter gene therapy methods, the nucleic acid 
+
+ molecules are preferably provided in vectors which are suitable for 
+transfection/transformation as described above, e.g. viral vectors such as adenovirus using gene therapy methods known in the art for medical applications. 
+ Animals to which the compositions may be applied or administered include mammals, reptiles, birds, insects and fish particularly during fish aquaculture (e.g. salmon or cod). 
+Preferably the animals to which the compositions of the invention are applied are mammals, particularly primates, domestic animals, livestock and laboratory animals. Thus preferred animals include mice, rats, rabbits, guinea pigs, cats, dogs, monkeys, pigs, cows, goats, sheep and horses. Especially preferably the compositions are applied, or administered, to humans. 
+ The following Examples are given by way of illustration only in which the Figures referred to are as follows: 
+Figure 1 shows isoelectric focussing of the VAPs after their purification; 
+ Figure 2 shows the effects of Atlantic salmon VAPs on human epithelium in which A and B show the skin culture exposed to VAPs, and C shows the control skin culture; and 
+ Figure 3 shows the effects of Atlantic salmon choriolysin L on human epithelium in which A shows the skin culture exposed to choriolysin L, and B shows the control skin culture. 
+Example 1 : Identification and characterization of VAPs 
+Protein Isolation 
+ During the course of analyzing hatching fluid components of Atlantic salmon, new proteins present in the hatching fluid were identified. 
+ A method for preparing partially hatching fluid (from which zonase may be prepared) which may be used as the starting material for isolating the VAPs of the invention (or their precursor sequences) is provided in W099/29836 which is hereby incorporated by reference (particularly Example 1 of the described method, but optionally without the urea step). 
+ Thus, the following method has been used for isolation. VAPs were isolated from hatching fluid (crude or filtered through 0.45Î¼Î·Î¹ filters). Subsequently the VAPs were precipitated by adding 4x volumes of acetone at room temperature or at 4Â°C. After 20-30 minutes the precipitated VAPs were collected as a pellet after centrifugation at low speed (around 5000xg) and resuspended in the appropriate buffer (e.g. 10mM TrisHCI, pH8.0 or PBS). 
+ Figure 1 shows 2D PAGE of the VAPs after their purification as described above. 
+
+ Sequence analysis 
+ The newly identified VAPs were subjected to characterization by MS analysis of the trypsinized spots. The MS analysis was MALDI-TOF-TOF (Matrix assisted laser 
+desorption/ionization. Time of flight x2). 
+ The following results were obtained for the best match as reflected by the top score. 
+
+
+
+
+
+
+
+
+
+
+
+From the above results, the sequences of the VAPs were generated by identifying peptides in the VAP sequence by MS and then inserting the intervening sequences using relevant portions of the known native sequence to which the comparison was made. The VAP sequences identified by this process are set out in SEQ ID Nos. 2-4 and the native sequences against which they were compared are provided in SEQ ID Nos. 5-8. 
+Example 2: Medical/cosmetic applications of VAPs in vitro 
+Materials and Methods 
+ The following studies were carried out using the Atlantic salmon VAPs prepared as described in Example 1. 
+ Differentiated human skin epithelium cultures were obtained from SkinEthics (Nice, France) at day 16 after seeding onto plastic growth substrata with micropores allowing nutrients access to the epithelial tissue from below. Such cultures exhibit normal skin morphology after differentiation during the culturing period at 37Â°C. These cultures were maintained for two more days in vitro so that the upper stratum corneum was exposed to air, and stratum basalis to the growth substratum. 
+ Parallel cultures were moved to 30Â°C moist atmosphere and presented with a medium Ca, Mg-containing phosphate-buffered saline for 6 hours with or without the presence of VAPs at 0.5mg/ml (measured at OD280). Cultures were fixed in formalin and embedded in paraffin according to standard procedures, and stained with hematoxylin/eosin. 
+Results 
+ A. Moisturizing effects 
+ The results are shown in Figure 2A-C in which A and B show the skin culture exposed to VAPs and C shows the control skin culture. These figures show that the VAPs cause the skin stratum corneum laminae to separate, thus "delamination" occurs. The laminae do not detach, or exfoliate, they simply separate from each other. 
+ This separation is caused by highly charged amphiphilic proteins which intercalate in the stratum corneum, and which due to their amphiphilic character carry water to separate the skin laminae. The water is therefore piggybacked into the stratum corneum by the VAPs reducing trans-epidermal water loss (TEWL). 
+
+ Example 3: Medical/cosmetic applications of choriolvsin L in vitro 
+Materials and Methods 
+ The following studies were carried out using the Atlantic salmon choriolysin L prepared as described in Yasumasu et al., 1989, supra, from salmon hatching fluid. 
+ The human skin epithelium cultures were prepared as described in Example 2 and choriolysin L from Salmon hatching fluid was applied at 0.15mU/ml for 6 hours at 30Â°C. 
+Results 
+ A. Exfoliation effects 
+ The results are shown in Figure 3A and B in which A shows the skin culture exposed to salmon choriolysin L and B shows the control skin culture. The results show that choriolysin L causes delamination and rupture of skin lamellae. 
+ Exfoliation may also be analysed by assessing the supernatant of skin cultures to assess the amount of epithelial cells which are removed from the skin cultures during treatment. As choriolysin L is inhibited by 1 mM EDTA, its effects can be readily inhibited to prove its action on the skin. 
+Example 4: Medical/cosmetic applications of VAPs and choriolvsin L in vivo 
+Cosmetic applications 
+ Individuals suffering from dry skin and/or skin requiring exfoliation (e.g. calluses or corns) are administered cosmetic or placebo creams as described below. Treatment is repeated periodically, e.g. every 8 hours. 
+ The effects of the cream on the skin are analysed based on qualitative effects such as appearance and feel (e.g. itchiness) or may be analyzed more quantitatively, e.g. on water content or thickness. 
+Medical applications 
+ Individuals suffering from a condition or abnormality of the skin such as acne, eczema or psoriasis are administered treatment or placebo creams as described below. Treatment is repeated periodically, e.g. every 8 hours. 
+ The effects of the cream on the skin are analysed based on qualitative effects such as appearance, feel (e.g. pain) or colour or may be analyzed more quantitatively, e.g. on size of the remaining abnormality, extent of inflammation or thickness. 
+
+ Placebo cream: 
+
+
+
+Cosmetic/treatment cream with 10% active ingredient: 
+Name INCI Name % Phase/ 
+ Temp (Â°C)
+Cetiol V Decyl Oleate 4 A/75
+Dynacerin 660 Oleyl Erucate 6 A/75
+CUTINA GMS V Glyceryl stearate 3 A/75
+Cire da lanol CTO Cetearyl alcohol & 2 A/75 
+ Cteareth 33 
+ Nacol 16-95 Cetyl alcohol 1 A/75
+Edenor L2 SM GS Stearic acid & Palmitic 3 A/75 
+ acid 
+
+
+
+
+
+ Sequences: 
+ SEQ ID No. 1 : Choriolysin L - Atlantic salmon 
+ MDHRPTLSLL LLLLLLGLSQ ASGNEFHDEP DHVSITSVIL KSNNGTNELL
+LDGDILAPRT RNAMKCFSSQ YSCLWKKSSD GLVYVPYILS AVYSSLEVET IETAMKYFQG
+KTCIRFIPRK TQTAYLDIQS SGGCFGTVGT VGDRQTLSLA
+QFGCVQHGII QHELLHALGF YHEHNRSDRE QYIRINWQYI YDYAVGNFQK EDTNNLHTAY DYSSVMHYDR TAYTNDYGKE TITPIPDPSV AIGQRLGMSD IDVLKVNKLY QC 
+SEQ ID No. 2: VAP I - Atlantic salmon 
+ TVTVQCTKDG QFVWVSRDA TLPNLELDSI SLLGANGAHC TPVGTTSAFA lYQFKVTECG TWTEEPDTI VYENRMSSSY VVGIGPFGDI TRDSHYDLVF QCRYTGTSVE TLVIEVK 
+SEQ ID No. 3: VAP II - Salmon 
+ AVTVQCTKDG QFVWVARDA TLPSLELDSI SLLGTNGPHC HAIGTTSVFA 
+ lYQFKVTECG TVMTEETDTI IYENRMSSSY QVGVGPFGSI TRDSQYDLTF 
+ QCRYKGSTIV AWIDVKPVP PPNPDIAPGP LTVELRLGSG TCLTKGCNEE EVAYTSYYTE ADYPVTKVLR DPVYTEVRIL ARTDPNIVLT LGRCWATTNP NPLSLPQWDL LIDGCPYQDD RYLTTPINVG PSSGLSFPTH YRRFVLKMFT FVDPMSMTPL R 
+SEQ ID No. 4: VAP III - Salmon 
+ AECRENMVHV EAKHDLLGIG QLIQLEDLTL GDCPMSGFDN INQVLIFESP LQSCGSQLRM TTNSLIYI FT LYYKPKPLAN TPLIRTNDAM INIECHYPRK HNVSSLALIP TWTPFSAAKY AEELLYFSMR LMTADWQYER AGNMYVLGDM VNIEASVMQY FHVPLRIFVD SCVATLEPNI NANPRYAFIE NHGCLIDAKM TGSHSQFMPR SADYKLYFQV EAFR 
+
+ SEQ ID No. 5 : Full length zr-protein - Atlantic salmon 
+ MKWSAVCLVA VATLGWLCDA QNFLEKPGWP PIQTPPSWPP QTPQRPVQPL PQRPAQPFLQ KPAQPIPQRI PYTEDDTKQT CEWDKDKVS CGLSGITAAQ CQAISCCFDG RMCFYGKTVT VQCTKDGQFV WVSRDATLP NLELDSISLL GANGAHCTPV GTTSAFAIYQ FKVTECGTVV TEEPDTIVYE NRMSSSYWG IGPFGDITRD SHYDLVFQCR YTGTSVETLV IEVKTYPNPN PVVTVDAVLN VELRLANGRC LSKGCDEMQE AYTSYYTVAD YPVTKVLRDP VYAEVRILGM TDPNWLTLE QCWATIDPTG DRLPRWDLLV NGCPYQDDRY LTVPIASDSS YIPPGEFLSH YKRFVFKMFT FVDPTSMVPL QENVYIHCRA TVCHALAGSC EQRCNRQRRD LSAQGQKKTK GDVWSSQKV IMIDPSLYA 
+SEQ ID No. 6 : Full length choriogenin H - Pacific salmon 
+ MKWSAVCLVA VATLGWLCDA QIYLEKPGWP PIQTPASWPA QPPEKPVQPP QRPAQPPQWP AQPPQWPAQP PQRPAQPPQR PAQTQQWPGQ PPQRPAQPPQ WPAQPPQRPA QPPQRPAQPP QRPAQPPPRP AQPPQWPVHP PQWPVQPGTP LQRPKFPSDP GSKQSCDVDS QHKVQCGLPD ITAAHCDAIN CCFDGRMCFY GKAVTVQCTK DGQFVWVAR DATLPSLELD SISLLGTNGP HCHAIGTTSV FAIYQFKVTE CGTVMTEETD TIIYENRMSS SYQVGVGPFG SITRDSQYDLTFQCRYKGST IVAVVIDVKP VPPPNPDIAP GPLTVELRLG SGTCLTKGCN EEEVAYTSYY TEADYPVTKV LRDPVYTEVR ILARTDPNIV LTLGRCWATT NPNPLSLPQW DLLIDGCPYQ DDRYLTTPIN VGPSSGLSFP THYRRFVLKM FTFVDPMSMT PLRETVFIHC NTAVCLPSHG DSCEPRCYRK RRDIPAAVQK TTRIKSNLVS SGELILTDPR ELTN 
+SEQ ID No. 7 : Full length choriogenin L - Pacific salmon 
+ MAMKWSWCL VAVAMLGCLC VAQIWPPSIK PVQQPFRPNR PPPQQPQQPP YQKPRIPPKD QTQAKQKFET PLDWTYPLDP KPEPKIIGGS EARTPVAANS VRAECRENMV HVEAKHDLLG IGQLIQLEDL TLGDCPMSGF DNINQVLIFE SPLQSCGSQL RMTTNSLIYI FTLYYKPKPL ANTPLIRTND AMINIECHYP RKHNVSSLAL IPTWTPFSAA KYAEELLYFS MRLMTADWQY ERAGNMYVLG DMVNIEASVM QYFHVPLRIF VDSCVATLEP NINANPRYAF IENHGCLIDA KMTGSHSQFM PRSADYKLYF QVEAFRFQSQ RGSDPIIPQK TKIPFQPAAD YPATLDMIFL TCHLKATTIA FPIDFEYKAC SFINTWREAG GNDGVCGCCD STCSNRKGRD TTTHQKPANI WEGDVQLGPI FISEKVEQ 
+SEQ ID No. 8: Alternative zr-protein - Atlantic salmon 
+ KWSYQLPQKL AQPLPQKPAQ PLPQWPVQPL PQRPAEPLPQ RPAQPLPQWP VQPLPQRPAE PLPQRPAQPL PQRPVQPLPQ RPAQPFLQKP AQPIPQRIPY 
+
+ TKDDTKQTCE WDKDKVSCG LSGITAAQCQ AISCCFDGRM CFYGKTVTFQ CTKDGQFWV VSRDATLPNL ELDSISLLGA NGAHCTPVGT TSAFAIYQFK VTECGTVVTE EPDTIVYENR MSSSYVVGIG PFGDITRDSH YDLVFQCRYT GTSVETLVIE VKTYPNPNPV VTVDAVLNVE LRLANGRCLS KGCDEMQEAY TSYYTVADYP VTKVLRDPVY AEVRILGMTD PNWLTLEQC WATTDPTGDR LPRWDLLVNG CPYQDDRYLT VPIASDSSYI PPGEFLSHYK RFVFKMFTFV DPTSMVPLQE NVYIHCRATV CHALAGSCEQ RCNRQRRDLS AQGQKKTKGD WVSSQKVIM IDPSLYA 
+SEQ ID No. 9 : Nucleotide sequence, choriolysin L, Atlantic salmon 
+atggaccacagacccactcttagcctgcttctgctgctgctgctgctgggcctatcacaggccagtggaaatgagttccatgatga gccggaccatgtgtccatcacttcagtaatcctgaagtccaacaacggaaccaatgagctactgctggatggagacattctagct cctagaaccaggaacgccatgaagtgctttagcagccagtacagctgtctctggaagaagtcatctgacggcttggtgtacgtgc cttacatcctcagcgctgtatattccagcttggaggtagagactattgagacggccatgaagtacttccaaggcaagacctgcatc cgcttcattccacgtaagacacagactgcctacctggacattcagagcagcggcgggtgttttggtaccgtggggactgttgggg acaggcagacattgtctcttgcacagtttggctgtgttcaacatggtatcatccagcatgagctgcttcacgccctgggcttctaccac gagcacaacaggagtgaccgtgaacagtatatcaggatcaactggcaatacatctatgactacgccgttgggaacttccagaa ggaggacaccaacaacctgcacactgcatacgactactcctctgtcatgcactatgatagaaccgcttacactaacgactacgg aaaggaaaccatcactcccatcccagacccatctgtggccattggacagagactgggcatgtccgacattgatgtcctgaaggt caacaagctctaccaatgctaagaggaagagcgccattgttgaaaatgtgtgatgctggatgtgctgtcatgtgctgatgtattttatt gttggaagtttgtatgtatccttttaatcacattggtaataataaagcatggttatggtaaaaaaaaa 
+SEQ ID No. 10 : Nucleotide sequence encoding SEQ ID No. 2, VAP I 
+acagtgactgtccagtgtaccaaggatggccagtttgtggtggtggtttccagggatgccactctgcccaaccttgagctagattcc atcagcctgctaggggcaaacggagcccactgcacccctgtcggcaccacatctgcctttgccatctaccagttcaaagttactg aatgtggaactgtggtgacggaggaacctgatactattgtctatgagaacaggatgtcctcttcatatgtagtggggattggaccctt cggcgacattaccagggacagccactatgacctggtcttccagtgtcggtatactgggacttccgttgagacattggttatcgaggt gaaa 
+SEQ ID No. 1 1 : Nucleotide sequence encoding SEQ ID No. 3, VAP II 
+gcagtgactgttcagtgtaccaaggatggccagtttgtggtggtggtggccagggatgccactctgcccagcctggaactggact ccatcagcctgctggggacaaacggaccccactgccatgctattggcacaacttctgtctttgccatctaccagtttaaagtcactg aatgtggaactgtcatgacggaggaaactgatactattatctatgagaataggatgtcctcttcatatcaagtgggggttggcccctt tggctccatcaccagggacagccaatatgatctaacattccagtgcagatataagggcagtaccattgtggctgtggttattgatgt gaagccggttcctcctccaaatcctgatatagctcctggacccctcacagttgagctcagactcggcagcggaacatgccttacc aagggatgtaatgaagaggaagtggcctacacctcttactacacagaggcagactaccctgtcaccaaggtcctcagggatcct gtgtacactgaggttcgcatcctggcgaggacagatcccaacattgtgctgaccctgggtcgctgctgggctaccacaaaccca 
+
+ aaccctctcagcctgccccagtgggaccttctcattgatggatgtccttaccaggatgaccgttacctgaccactcccatcaatgtg ggaccctcttcgggtctgtccttcccaacccactacaggcgcttcgtccttaagatgttcacctttgtggatccaatgtctatgaccccc ctgagg 
+SEQ ID No. 12 : Nucleotide sequence encoding SEQ ID No. 4, VAP III 
+gctgagtgcagggagaacatggtccacgtggaagcgaagcatgacctgctggggatcggccagttgatccagctagaagacc tcactttgggagactgccctatgtctggattcgacaatatcaaccaggtgctcatctttgagtctccgctgcagtcatgtggcagcca gctaaggatgactaccaactccctcatctacatcttcactctatattacaaacccaaacctctggcaaacacccccctcatcagga caaatgacgcgatgatcaatattgagtgccactatccaaggaaacacaatgtgagcagcctggccctgatcccaacctggacc cctttctccgctgctaagtatgcagaggaactcctgtacttctccatgaggctcatgactgctgactggcagtatgagagggccggt aacatgtacgtgttgggtgatatggtgaacatcgaggcctctgtcatgcagtacttccacgttcccctgcgtatctttgtggacagctgt gtggccaccctggaacccaacataaacgccaatcccagatatgccttcattgagaatcatgggtgtctgatcgatgccaaaatga caggttcccactcccagttcatgcctcgttccgcagactacaagctgtatttccaggtggaggctttcagg 
+SEQ ID No. 13 : Full length Nucleotide sequence encoding SEQ ID No. 5, zr-protein Atlantic salmon 
+atgaagtggagtgcagtttgtctagtggcagtggccacgcttggctggctgtgtgatgctcagaatttcttggaaaaaccagggtgg ccacccatccagacaccaccgtcatggcctccccaaacccctcagaggcctgtccaaccccttcctcagagacctgctcaacc ctttcttcagaagcctgcccaacccatacctcaacggataccctacaccgaagacgacacaaaacagacctgtgaggttgtgga caaggacaaggtgtcgtgtggactttctggcatcactgctgcccaatgccaggccatcagctgctgttttgatggacggatgtgcttc tacgggaaaacagtgactgtccagtgtaccaaggatggccagtttgtggtggtggtttccagggatgccactctgcccaaccttga gctagattccatcagcctgctaggggcaaacggagcccactgcacccctgtcggcaccacatctgcctttgccatctaccagttca aagttactgaatgtggaactgtggtgacggaggaacctgatactattgtctatgagaacaggatgtcctcttcatatgtagtggggat tggacccttcggcgacattaccagggacagccactatgacctggtcttccagtgtcggtatactgggacttccgttgagacattggtt atcgaggtgaaaacgtatccaaaccccaacccagtggtcactgttgatgcagttctcaacgtggagctccgactggccaatgga cgttgtctctccaagggatgtgatgaaatgcaagaagcatacacctcttactacacggtggcagactaccctgtcaccaaggtcct cagggatcccgtgtacgctgaggttcgcatcctggggatgacagatcccaatgttgtcctgacactggagcagtgctgggccacc atagaccccacaggtgataggctgccccggtgggacctactagttaatgggtgtccctaccaggatgaccgttacctgaccgtgc ccatcgcctcggacagctcctatatccctccgggagaattcttatcccactacaagcgcttcgtcttcaagatgttcacctttgtggat ccgacatctatggtccccctgcaggagaacgtgtacatccactgtcgtgcaacagtgtgccacgctctagcaggatcctgtgaac aaaggtgcaacaggcaaaggagagatctttctgctcaaggccaaaagaagactaaaggagatgttgtggtttccagtcaaaaa gtcatcatgattgacccaagtctttatgcttaa 
+SEQ ID No. 14 : Full length nucleotide sequence encoding SEQ ID No. 6, choriogenin H - Pacific salmon 
+atgaagtggagtgcagtttgtctagtggcagtggccacgcttggctggctgtgtgatgctcagatttacttggaaaaaccagggtgg 
+
+ ccacccatccagacaccagcgtcatggcctgcccaaccccctgagaagcctgttcaaccccctcagaggcctgcccagcccc ctcagtggcctgcccagccccctcagtggcctgcccagccccctcagaggcctgcccagccccctcagaggcctgcccaaac ccagcagtggcctggccaaccccctcagaggcctgcccagccccctcagtggcctgcccaaccccctcagaggcctgcccaa ccccctcaaagacctgcccaaccccctcagaggcctgcccaaccccctccgaggcctgcccaaccccctcagtggcctgttcat ccccctcagtggcctgtccaacccggtacgccgcttcagaggcctaaattcccctctgacccaggctcaaagcagagctgtgatg ttgatagccaacacaaggtgcagtgtggacttcctgacatcactgccgcccattgtgatgccattaactgctgttttgatggacggat gtgcttctacggaaaagcagtgactgttcagtgtaccaaggatggccagtttgtggtggtggtggccagggatgccactctgccca gcctggaactggactccatcagcctgctggggacaaacggaccccactgccatgctattggcacaacttctgtctttgccatctac cagtttaaagtcactgaatgtggaactgtcatgacggaggaaactgatactattatctatgagaataggatgtcctcttcatatcaag tgggggttggcccctttggctccatcaccagggacagccaatatgatctaacattccagtgcagatataagggcagtaccattgtg gctgtggttattgatgtgaagccggttcctcctccaaatcctgatatagctcctggacccctcacagttgagctcagactcggcagcg gaacatgccttaccaagggatgtaatgaagaggaagtggcctacacctcttactacacagaggcagactaccctgtcaccaag gtcctcagggatcctgtgtacactgaggttcgcatcctggcgaggacagatcccaacattgtgctgaccctgggtcgctgctgggc taccacaaacccaaaccctctcagcctgccccagtgggaccttctcattgatggatgtccttaccaggatgaccgttacctgacca ctcccatcaatgtgggaccctcttcgggtctgtccttcccaacccactacaggcgcttcgtccttaagatgttcacctttgtggatccaa tgtctatgacccccctgagggagacggtgttcatccattgtaatacagctgtgtgtctgccatcccatggagacagctgtgaaccaa gatgctacagaaagaggagagacattcctgctgcagtccagaagaccaccagaatcaagtctaatttggtttccagtggcgaac tgatcctgactgacccaagggagctcaccaactag 
+SEQ ID No. 15 : Full length nucleotide sequence encoding SEQ ID No. 7, choriogenin L - Pacific salmon 
+atggcgatgaagtggagtgtagtttgtctcgtggcagtggccatgcttggctgtctgtgtgttgctcagatttggccaccctccattaaa ccagtgcagcaacccttcagacccaatcgtccaccacctcagcagcctcagcaaccaccgtatcagaaacccaggatcccac caaaagaccaaacccaggccaagcagaagtttgagacaccattggattggacctatcctctggacccaaagccagagccca agattattgggggctcagaggcgagaacccctgtggctgccaattcagtgagggctgagtgcagggagaacatggtccacgtg gaagcgaagcatgacctgctggggatcggccagttgatccagctagaagacctcactttgggagactgccctatgtctggattcg acaatatcaaccaggtgctcatctttgagtctccgctgcagtcatgtggcagccagctaaggatgactaccaactccctcatctaca tcttcactctatattacaaacccaaacctctggcaaacacccccctcatcaggacaaatgacgcgatgatcaatattgagtgccac tatccaaggaaacacaatgtgagcagcctggccctgatcccaacctggacccctttctccgctgctaagtatgcagaggaactcc tgtacttctccatgaggctcatgactgctgactggcagtatgagagggccggtaacatgtacgtgttgggtgatatggtgaacatcg aggcctctgtcatgcagtacttccacgttcccctgcgtatctttgtggacagctgtgtggccaccctggaacccaacataaacgcca atcccagatatgccttcattgagaatcatgggtgtctgatcgatgccaaaatgacaggttcccactcccagttcatgcctcgttccgc agactacaagctgtatttccaggtggaggctttcaggttccagagccagagggggagtgacccaattattccgcagaaaacaaa gataccttttcagcctgcggcagattatcccgctacgctcgacatgatcttccttacctgtcacctgaaggcaaccacaatcgctttcc ccattgattttgagtacaaggcctgctctttcattaatacgtggagggaggctggtgggaatgatggagtgtgtggctgctgtgactc cacctgtagcaacaggaagggacgcgataccactacacatcaaaaaccagcaaatatatgggagggagatgttcagcttggt 
+
+ cccatctttatctcggaaaaggttgagcaataa 
+SEQ ID No. 16 : Full length Nucleotide sequence encoding SEQ ID No. 8, Altnerative zr- protein Atlantic salmon 
+gaagtggtcttaccaactccctcagaagcttgcccaaccccttcctcagaagcctgcccaacctcttcctcagtggcctgtccaac cccttcctcagaggcctgctgaaccccttcctcagaggcctgctcaaccccttcctcagtggcctgtccaaccccttcctcagaggc ctgctgaaccccttcctcagaggcctgctcaaccccttcctcagaggcctgtccaaccccttcctcagagacctgctcaaccctttct tcagaagcctgcccaacccatacctcaacggataccctacaccaaagacgacacaaaacagacctgtgaggttgtggacaa ggacaaggtgtcgtgtggactttctggcatcactgctgcccaatgccaggccatcagctgctgttttgatggacggatgtgcttctac gggaaaacagtgactttccagtgtaccaaggatggccagtttgtggtggtggtttccagggatgccactctgcccaaccttgagct agattccatcagcctgctaggggcaaacggagcccactgcacccctgtcggcaccacatctgcctttgccatctaccagttcaaa gttactgaatgtggaactgtggtgacggaggaacctgatactattgtctatgagaacaggatgtcctcttcatatgtagtggggattg gacccttcggcgacattaccagggacagccactatgacctggtcttccagtgtcggtatactgggacttccgttgagacattggttat cgaggtgaaaacgtatccaaaccccaacccagtggtcactgttgatgcagttctcaacgtggagctccgactggccaatggacg ttgtctctccaagggatgtgatgaaatgcaagaagcatacacctcttactacacggtggcagactaccctgtcaccaaggtcctca gggatcccgtgtacgctgaggttcgcatcctggggatgacagatcccaatgttgtcctgacactggagcagtgctgggccaccac agaccccacaggtgataggctgccccggtgggacctactagttaatgggtgtccctaccaggatgaccgttacctgaccgtgccc atcgcctcggacagctcctatatccctccgggagaattcttatcccactacaagcgcttcgtcttcaagatgttcacctttgtggatcc gacatctatggtccccctgcaggagaacgtgtacatccactgtcgtgcaacagtgtgccacgctctagcaggatcctgtgaacaa aggtgcaacaggcaaaggagagatctttctgctcaaggccaaaagaagactaaaggagatgttgtggtttccagtcaaaaagt catcatgattgacccaagtctttatgcttaa 
+
+
+
+
+
+Claims
+
+Claims: 
+
+1. A pharmaceutical or cosmetic composition comprising: 
+i) a polypeptide comprising an amino acid sequence as set forth in SEQ ID No. 1 or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequence; 
+ (ii) a polypeptide comprising an amino acid sequence as set forth in SEQ ID No. 2 or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequence; 
+ (iii) a polypeptide comprising an amino acid sequence as set forth in SEQ ID No. 3 or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequence; 
+ (iv) a polypeptide comprising an amino acid sequence as set forth in SEQ ID No. 4 or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequence; and/or 
+ (v) one or more nucleic acid molecules encoding a polypeptide as set forth in any of (i) to (iv) above or a complementary sequence thereof, 
+and one or more pharmaceutically or cosmetically acceptable excipients and/or diluents. 
+
+
+2. A composition as claimed in claim 1 wherein said nucleic acid molecule of (v) comprises a nucleotide sequence as set forth in any one of SEQ ID Nos. 9-12 or a sequence which is at least 50% identical to said sequence, or a sequence which hybridizes to said sequence under non-stringent binding conditions of 6 x SSC/50% formamide at room temperature and washing under conditions of high stringency, or a sequence complementary to any of the aforesaid sequences, or a portion of any of said sequences. 
+
+
+3. A composition as claimed in claim 1 or 2 wherein said composition comprises more than one of said polypeptides and/or its encoding sequences, preferably a polypeptide as set forth in each of (ii) to (iv). 
+
+
+4. A composition as claimed in any one of claims 1 to 3 wherein each of said 
+polypeptides set forth in (ii) to (iv), when present, consists of: 
+ (a) an amino acid sequence as set forth in any one of SEQ ID Nos. 2-4 or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequences; and optionally 
+ (b) a flanking amino acid sequence at the N and/or C terminal of the amino acid sequence in  (i) which is from 1 to 100 amino acids in length, 
+and wherein each of said nucleic acid sequences encoding a polypeptide set forth in (ii) to (iv) consists of a nucleotide sequence which encodes only said polypeptide or a 
+complementary sequence thereof. 
+
+
+5. A composition as claimed in any one of claims 1 -4 for use in therapy. 
+
+
+6. A cosmetic or non-cosmetic method of exfoliating and/or moisturizing skin of an animal, wherein a polypeptide, nucleic acid molecule or pharmaceutical composition as defined in any one of claims 1 to 5 is administered to said animal. 
+
+
+7. A polypeptide, nucleic acid molecule or pharmaceutical composition as defined in any one of claims 1 to 5 for use in exfoliating and/or moisturizing skin of an animal. 
+
+
+8. A cosmetic or non-cosmetic method of treating or preventing a condition or disorder of the skin of an animal wherein said skin is abnormally dry, the horny layer of the skin is abnormally thickened or the skin has a pigmentation disorder wherein a polypeptide, nucleic acid molecule or pharmaceutical composition as defined in any one of claim 1 to 5 is administered to said animal. 
+
+
+9. A polypeptide, nucleic acid molecule or pharmaceutical composition as defined in any one of claims 1 to 5 for use in a cosmetic or non-cosmetic method of treating or preventing a condition or disorder of the skin of an animal wherein said skin is abnormally dry, the horny layer of the skin is abnormally thickened or the skin has a pigmentation disorder. 
+
+
+10. A method, polypeptide, nucleic acid molecule or pharmaceutical composition as claimed in claim 8 or 9 wherein the skin condition or disorder to be treated or prevented is eczema, contact dermatitis, psoriasis, ichthyosis or acne. 
+
+
+1 1 . A method, polypeptide, nucleic acid molecule or pharmaceutical composition as claimed in claim 8 or 9 wherein the skin condition or disorder to be treated or prevented is calluses, corns, warts or liver spots. 
+
+
+12. A polypeptide consisting of: 
+ (i) an amino acid sequence as set forth in any one of SEQ ID Nos. 2-4 or a sequence which is at least 50% identical to said sequence, or a portion of any of said sequences; and  optionally 
+ (ii) a flanking amino acid sequence at the N and/or C terminal of the amino acid sequence in (i) which is from 1 to 100 amino acids in length. 
+
+
+13. A nucleic acid molecule consisting of a nucleotide sequence which encodes only a polypeptide as claimed in claim 12 or a complementary sequence thereof. 
+
+
+14. A nucleic acid molecule consisting of: 
+ (i) a nucleotide sequence as set forth in any one of SEQ ID Nos. 10-12, a sequence which is at least 50% identical to said sequence, or a sequence which hybridizes to said sequence under non-stringent binding conditions of 6 x SSC/50% formamide at room temperature and washing under conditions of high stringency, or a sequence complementary to any of the aforesaid sequences, or a portion thereof; and optionally 
+ (ii) a flanking nucleotide sequence at the 5' or 3' end of the nucleotide sequence in (i) which is from 1 to 300 nucleotides in length, 
+or a complementary sequence thereof. 
+
+
+15. A vector, preferably an expression vector, comprising a nucleic acid molecule as defined in claim 13 or 14. 
+
+
+16. A method of preparing recombinant nucleic acid molecules as defined in claim 15, comprising inserting nucleotide sequences as defined in claim 13 or 14 into vector nucleic acid. 
+
+
+17. A method of preparing a polypeptide as defined in claim 12, which comprises culturing a host cell containing a nucleic acid molecule as defined in claim 13 or 14, under conditions whereby said polypeptide is expressed and recovering said molecule thus produced. 
+
+
+18. A polypeptide prepared by the method of claim 17. 
+
+
+19. A cell containing a polypeptide as defined in claim 12 wherein said cell has been modified relative to native cells by expression of encoding nucleic acid material. 
+
+
+20. A method of isolating one or more polypeptides as defined in claim 12 from hatching fluid comprising at least the steps of:  a) suspending eggs in a minimal volume of water; 
+b) inducing synchronized, rapid hatching of said eggs; 
+c) filtering the hatched eggs to obtain hatching fluid; 
+d) adding acetone to said hatching fluid to a final concentration of 80% v/v; 
+e) subjecting said fluid to low speed centrifugation wherein said VAP is present in the pellet thus formed; and optionally 
+f) separating the polypeptides present in the pellet of step e) to isolate individual polypeptides. 
+
+
+21 . A VAP prepared by the method of claim 20. 
+
+
+
+
+
+
+PCT/EP2010/068509
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof 
+       
+
+WO2011064384A1
+            (en)
+        
+
+Priority Applications (18)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+RU2012127298/10A
+
+RU2595399C2
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Enzymes of liquid eggs produced during hatching, and use thereof 
+       
+
+
+AU2010323022A
+
+AU2010323022B2
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof 
+       
+
+
+KR1020127016994A
+
+KR101842521B1
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof 
+       
+
+
+PL10784313T
+
+PL2506825T3
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof 
+       
+
+
+US13/511,326
+
+US9133256B2
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof 
+       
+
+
+EP10784313.8A
+
+EP2506825B1
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof 
+       
+
+
+MX2012006090A
+
+MX340231B
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof. 
+       
+
+
+CN201080054198.1A
+
+CN102724954B
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Incubation fluid enzyme and application thereof 
+       
+
+
+IN4918DEN2012
+
+IN2012DN04918A
+                          (en)
+                      
+2009-11-30
+2010-11-30
+
+
+
+NZ60049910A
+
+NZ600499A
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof 
+     
+
+
+JP2012540460A
+
+JP5913117B2
+                          (en)
+                      
+2009-11-30
+2010-11-30
+
+  Hatching fluid enzyme and use thereof
+ 
+     
+
+
+ES10784313T
+
+ES2741586T3
+                          (en)
+                      
+2009-11-30
+2010-11-30
+
+  Enzymes of hatching liquid and uses thereof
+ 
+     
+
+
+CA2781834A
+
+CA2781834C
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof 
+     
+
+
+BR112012012909A
+
+BR112012012909A2
+                          (en)
+                      
+2009-11-30
+2010-11-30
+
+  pharmaceutical or cosmetic composition, cosmetic or non-cosmetic method, polypeptide, nucleic acid molecule, vector, method for preparing recombinant nucleic acid molecules, method for preparing a polypeptide, cell containing a polypeptide, method for isolating one or more polypetides, and, very acidic protein (vap).
+ 
+     
+
+
+ZA2012/04066A
+
+ZA201204066B
+                          (en)
+                      
+2009-11-30
+2012-06-04
+Hatching fluid enzymes and uses thereof 
+     
+
+
+AU2015202010A
+
+AU2015202010B2
+                          (en)
+                      
+2009-11-30
+2015-04-21
+Hatching fluid enzymes and uses thereof 
+       
+
+
+US14/813,390
+
+US9624483B2
+                          (en)
+                      
+2009-11-30
+2015-07-30
+Hatching fluid enzymes and uses thereof 
+       
+
+
+US15/450,479
+
+US9950031B2
+                          (en)
+                      
+2009-11-30
+2017-03-06
+Hatching fluid enzymes and uses thereof 
+       
+
+
+
+Applications Claiming Priority (2)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+GB0921001.4
+
+2009-11-30
+
+
+
+GB0921001A
+
+GB0921001D0
+                          (en)
+                      
+2009-11-30
+2009-11-30
+Products and uses 
+     
+
+
+
+Related Child Applications (2)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+US13/511,326
+A-371-Of-International
+
+US9133256B2
+                          (en)
+                      
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof 
+       
+
+
+US14/813,390
+Continuation
+
+US9624483B2
+                          (en)
+                      
+2009-11-30
+2015-07-30
+Hatching fluid enzymes and uses thereof 
+       
+
+
+
+Publications (1)
+
+
+
+Publication Number
+Publication Date
+
+
+
+
+
+WO2011064384A1
+true
+WO2011064384A1
+                       (en)
+                   
+
+2011-06-03
+
+
+
+
+
+Family
+ID=41572950
+Family Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+PCT/EP2010/068509
+
+WO2011064384A1
+                          (en)
+                      
+
+2009-11-30
+2010-11-30
+Hatching fluid enzymes and uses thereof 
+       
+
+
+
+Country Status (18)
+
+
+
+Country
+Link
+
+
+
+
+
+US
+                (3)
+              
+            
+
+
+US9133256B2
+                  (en)
+              
+
+
+
+EP
+                (1)
+              
+            
+
+
+EP2506825B1
+                  (en)
+              
+
+
+
+JP
+                (1)
+              
+            
+
+
+JP5913117B2
+                  (en)
+              
+
+
+
+KR
+                (1)
+              
+            
+
+
+KR101842521B1
+                  (en)
+              
+
+
+
+CN
+                (2)
+              
+            
+
+
+CN104436163B
+                  (en)
+              
+
+
+
+AU
+                (2)
+              
+            
+
+
+AU2010323022B2
+                  (en)
+              
+
+
+
+BR
+                (1)
+              
+            
+
+
+BR112012012909A2
+                  (en)
+              
+
+
+
+CA
+                (1)
+              
+            
+
+
+CA2781834C
+                  (en)
+              
+
+
+
+CL
+                (1)
+              
+            
+
+
+CL2012001380A1
+                  (en)
+              
+
+
+
+ES
+                (1)
+              
+            
+
+
+ES2741586T3
+                  (en)
+              
+
+
+
+GB
+                (1)
+              
+            
+
+
+GB0921001D0
+                  (en)
+              
+
+
+
+IN
+                (1)
+              
+            
+
+
+IN2012DN04918A
+                  (en)
+              
+
+
+
+MX
+                (1)
+              
+            
+
+
+MX340231B
+                  (en)
+              
+
+
+
+NZ
+                (2)
+              
+            
+
+
+NZ600499A
+                  (en)
+              
+
+
+
+PL
+                (1)
+              
+            
+
+
+PL2506825T3
+                  (en)
+              
+
+
+
+RU
+                (1)
+              
+            
+
+
+RU2595399C2
+                  (en)
+              
+
+
+
+WO
+                (1)
+              
+
+
+
+WO2011064384A1
+                  (en)
+              
+
+
+
+ZA
+                (1)
+              
+            
+
+
+ZA201204066B
+                  (en)
+              
+
+
+
+
+Cited By (9)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+WO2013112569A1
+              (en)
+            
+*
+
+2012-01-23
+2013-08-01
+Restorsea, Llc
+Cosmetic 
+       
+
+
+
+WO2012175742A3
+              (en)
+            
+*
+
+2011-06-24
+2013-08-08
+Aqua Bio Technology Asa
+Methods for the production of a cosmetic composition comprising leukolectin and uses thereof 
+       
+
+
+
+WO2012175743A3
+              (en)
+            
+*
+
+2011-06-24
+2013-08-08
+Aqua Bio Technology Asa
+Methods for the production of a cosmetic composition from hatching fluid of salmonidae eggs and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+WO2014096187A2
+              (en)
+            
+*
+
+2012-12-21
+2014-06-26
+Aqua Bio Technology Asa
+A cosmetic composition from fish hatching fluid, methods for its production and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+WO2014094918A1
+              (en)
+            
+*
+
+2012-12-21
+2014-06-26
+Aqua Bio Technology Asa
+Cosmetic compositions from fish hatching fluid 
+       
+
+
+
+JP2015516364A
+              (en)
+            
+*
+
+2012-01-06
+2015-06-11
+ãã¼ãã¹ã»ã¤ã³ã¿ã¼ãã·ã§ãã«ã»ã¤ã³ã³ã¼ãã¬ã¤ãããï¼®ï½ï½ï½ï½ ï¼©ï½ï½ï½ï½ï½ï½ï½ï½ï½ï½ï½ï½ï¼ï¼©ï½ï½ï¼
+
+  Sulfoxide-based surfactant
+ 
+       
+
+
+
+US9248167B2
+              (en)
+            
+
+2013-12-13
+2016-02-02
+Restorsea, Llc
+Exfoliative hair retention-promoting formulation 
+       
+
+
+
+US9433564B2
+              (en)
+            
+
+2014-05-16
+2016-09-06
+Restorsea, Llc
+Biphasic cosmetic 
+       
+
+
+
+US10584306B2
+              (en)
+            
+
+2017-08-11
+2020-03-10
+Board Of Regents Of The University Of Oklahoma
+Surfactant microemulsions 
+       
+
+
+
+Families Citing this family (3)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+KR101505294B1
+              (en)
+            
+*
+
+2013-06-19
+2015-03-23
+ê°ë¦ìì£¼ëíêµì°ííë ¥ë¨
+Compositions for reducing keloid or scar 
+       
+
+
+
+CN114727934A
+              (en)
+            
+*
+
+2019-07-05
+2022-07-08
+é·æ°å°¼æ¯æéå¬å¸
+Wound debridement system 
+       
+
+
+
+CN110592054B
+              (en)
+            
+*
+
+2019-08-29
+2021-02-12
+ä¸­å½ç§å­¦é¢åæµ·æµ·æ´ç ç©¶æ
+Hippocampus japonicus hatching enzyme gene and coding protein and application thereof 
+     
+
+
+
+Citations (5)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+WO1999029836A1
+              (en)
+            
+
+1997-12-11
+1999-06-17
+Aqua Bio Technology As
+Procedure for extraction and use of hatching fluid from atlantic salmon 
+       
+
+
+
+WO1999062315A2
+              (en)
+            
+
+1998-05-27
+1999-12-02
+Lauras As
+Method for altering the activity of proteins of the pka signaling pathway 
+       
+
+
+
+WO2002066624A2
+              (en)
+            
+*
+
+2001-02-20
+2002-08-29
+Lexicon Genetics Incorporated
+Novel human protease and polynucleotides encoding the same 
+       
+
+
+
+WO2005046709A2
+              (en)
+            
+*
+
+2003-11-06
+2005-05-26
+Genencor International, Inc.
+Tgf - beta binding and supported peptides 
+       
+
+
+
+US20090117093A1
+              (en)
+            
+*
+
+2005-02-14
+2009-05-07
+The Regents Of The University Of California
+Granulysin peptides and methods of use thereof 
+       
+
+
+
+Family Cites Families (9)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+JP3393559B2
+              (en)
+            
+*
+
+1993-10-15
+2003-04-07
+æ ªå¼ä¼ç¤¾ãã¨ãã¢
+
+  Skin preparation
+ 
+     
+
+
+
+FR2743723B1
+              (en)
+            
+
+1996-01-18
+1998-04-17
+Texinfine Sa
+
+  USE OF EXTRACT FROM PLANTS OF THE DICTYOTAL FAMILY FOR THE PREPARATION OF PREPARATIONS FOR REFORMING THE GLYCOSYL ELEMENTS OF THE EXTRACELLULAR MATRIX OF LIVING TISSUES
+ 
+     
+
+
+
+FR2792202B1
+              (en)
+            
+
+1999-04-19
+2003-06-13
+Pharmascience Lab
+
+  LUPINE PEPTIDE EXTRACT AND PHARMACEUTICAL OR COSMETIC OR NUTRACEUTICAL COMPOSITION COMPRISING SUCH EXTRACT
+ 
+     
+
+
+
+JP4643800B2
+              (en)
+            
+
+2000-06-16
+2011-03-02
+ã¨ã ã»ãã£ã¸ã£ãã³æ ªå¼ä¼ç¤¾
+
+  Protease inhibitor
+ 
+       
+
+
+
+US20050074865A1
+              (en)
+            
+
+2002-08-27
+2005-04-07
+Compound Therapeutics, Inc.
+Adzymes and uses thereof 
+       
+
+
+
+GB0230006D0
+              (en)
+            
+*
+
+2002-12-23
+2003-01-29
+Ares Trading Sa
+Proteins 
+     
+
+
+
+US20040180025A1
+              (en)
+            
+*
+
+2003-03-12
+2004-09-16
+New Life Resources, Llc
+Therapeutic, nutraceutical and cosmetic applications for eggshell membrane and processed eggshell membrane preparations 
+       
+
+
+
+KR101348530B1
+              (en)
+            
+
+2003-11-06
+2014-02-14
+ë¤ëì¤ì½ ì ìì¤ ì¸í¬.
+Expression in filamentous fungi of protease inhibitors and variants thereof 
+       
+
+
+
+JP2008094726A
+              (en)
+            
+
+2006-10-06
+2008-04-24
+Towa Koso Kk
+Composition for microbubble cleaning, method for microbubble cleaning and apparatus for microbubble cleaning 
+       
+
+
+
+
+
+2009
+
+
+2009-11-30
+GB
+GB0921001A
+patent/GB0921001D0/en
+not_active
+Ceased
+
+
+
+
+2010
+
+
+2010-11-30
+CN
+CN201410670596.6A
+patent/CN104436163B/en
+active
+Active
+
+
+2010-11-30
+AU
+AU2010323022A
+patent/AU2010323022B2/en
+active
+Active
+
+
+2010-11-30
+IN
+IN4918DEN2012
+patent/IN2012DN04918A/en
+unknown
+
+
+
+2010-11-30
+EP
+EP10784313.8A
+patent/EP2506825B1/en
+active
+Active
+
+
+2010-11-30
+NZ
+NZ60049910A
+patent/NZ600499A/en
+unknown
+
+
+
+2010-11-30
+CA
+CA2781834A
+patent/CA2781834C/en
+active
+Active
+
+
+2010-11-30
+ES
+ES10784313T
+patent/ES2741586T3/en
+active
+Active
+
+
+2010-11-30
+BR
+BR112012012909A
+patent/BR112012012909A2/en
+not_active
+Application Discontinuation
+
+
+2010-11-30
+CN
+CN201080054198.1A
+patent/CN102724954B/en
+active
+Active
+
+
+2010-11-30
+JP
+JP2012540460A
+patent/JP5913117B2/en
+active
+Active
+
+
+2010-11-30
+US
+US13/511,326
+patent/US9133256B2/en
+active
+Active
+
+
+2010-11-30
+PL
+PL10784313T
+patent/PL2506825T3/en
+unknown
+
+
+
+2010-11-30
+KR
+KR1020127016994A
+patent/KR101842521B1/en
+active
+IP Right Grant
+
+
+2010-11-30
+WO
+PCT/EP2010/068509
+patent/WO2011064384A1/en
+active
+Application Filing
+
+
+
+2010-11-30
+NZ
+NZ62794110A
+patent/NZ627941A/en
+unknown
+
+
+
+2010-11-30
+MX
+MX2012006090A
+patent/MX340231B/en
+active
+IP Right Grant
+
+
+2010-11-30
+RU
+RU2012127298/10A
+patent/RU2595399C2/en
+active
+
+
+
+
+
+2012
+
+
+2012-05-29
+CL
+CL2012001380A
+patent/CL2012001380A1/en
+unknown
+
+
+
+2012-06-04
+ZA
+ZA2012/04066A
+patent/ZA201204066B/en
+unknown
+
+
+
+
+
+2015
+
+
+2015-04-21
+AU
+AU2015202010A
+patent/AU2015202010B2/en
+active
+Active
+
+
+2015-07-30
+US
+US14/813,390
+patent/US9624483B2/en
+active
+Active
+
+
+
+
+2017
+
+
+2017-03-06
+US
+US15/450,479
+patent/US9950031B2/en
+active
+Active
+
+
+
+
+
+
+Patent Citations (5)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+WO1999029836A1
+              (en)
+            
+
+1997-12-11
+1999-06-17
+Aqua Bio Technology As
+Procedure for extraction and use of hatching fluid from atlantic salmon 
+       
+
+
+
+WO1999062315A2
+              (en)
+            
+
+1998-05-27
+1999-12-02
+Lauras As
+Method for altering the activity of proteins of the pka signaling pathway 
+       
+
+
+
+WO2002066624A2
+              (en)
+            
+*
+
+2001-02-20
+2002-08-29
+Lexicon Genetics Incorporated
+Novel human protease and polynucleotides encoding the same 
+       
+
+
+
+WO2005046709A2
+              (en)
+            
+*
+
+2003-11-06
+2005-05-26
+Genencor International, Inc.
+Tgf - beta binding and supported peptides 
+       
+
+
+
+US20090117093A1
+              (en)
+            
+*
+
+2005-02-14
+2009-05-07
+The Regents Of The University Of California
+Granulysin peptides and methods of use thereof 
+       
+
+
+
+
+
+Non-Patent Citations (3)
+
+* Cited by examiner, â  Cited by third party
+
+
+Title
+
+
+
+
+
+DATABASE EMBL [Online] 13 April 2009 (2009-04-13), "Salmo salar hatching enzyme mRNA, complete cds.", XP002625349, retrieved from EBI accession no. EMBL:FJ824909 Database accession no. FJ824909
+*
+
+
+
+OPPEN-BERNTSEN D O ET AL.: "Salmon Eggshell Protein Expression: A Marker for Environmental Estrogens", MARINE BIOTECHNOLOGY, vol. 1, May 1999 (1999-05-01), SPRINGER VERLAG, NEW YORK, NY, US, http://www.springerlink.com/content/3kjcaaw6emgbb7g1/fulltext.pdf, pages 252 - 260, XP009145324, ISSN: 1436-2228, DOI: 10.1007/PL00011774
+*
+
+
+
+YASUMASU, J. BIOCHEM., vol. 105, 1989, pages 212 - 218
+
+
+
+
+
+Cited By (36)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+JP2014520135A
+            (en)
+          
+*
+
+2011-06-24
+2014-08-21
+ã¢ã¯ã¢  ãã¤ãª  ãã¯ãã­ã¸ã¼  ã¨ã¼ã¨ã¹ã¨ã¼
+
+  Method for producing leukolectin-containing cosmetic composition and use thereof
+ 
+       
+
+
+
+RU2558848C1
+            (en)
+          
+*
+
+2011-06-24
+2015-08-10
+ÐÐºÐ²Ð° ÐÐ¸Ð¾ Ð¢ÐµÐºÐ½Ð¾Ð»Ð¾Ð´Ð¶Ð¸ ÐÑÐ°
+Methods to produce cosmetic composition from medium produced after hatching of salmonidae roe and its usage to improve cosmetic condition of skin 
+       
+
+
+
+AU2012273931B2
+            (en)
+          
+*
+
+2011-06-24
+2016-12-15
+Aqua Bio Technology Asa
+Methods for the production of a cosmetic composition from hatching fluid of Salmonidae eggs and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+CN103732292A
+            (en)
+          
+*
+
+2011-06-24
+2014-04-16
+é¿åçç©ç§æå¬å¸
+Methods for the production of a cosmetic composition from hatching fluid and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+KR20140072016A
+            (en)
+          
+*
+
+2011-06-24
+2014-06-12
+ìì¿ ì ë°ì´ì¤ íí¬ëë¡ì§ ìì´ìì¤ìì´
+Methods for the production of a cosmetic composition from hatching fluid and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+US10987302B2
+            (en)
+          
+
+2011-06-24
+2021-04-27
+Aqua Bio Technology Asa
+Methods for the production of a cosmetic composition from hatching fluid and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+US10556937B2
+            (en)
+          
+
+2011-06-24
+2020-02-11
+Aqua Bio Technology Asa
+Methods for the production of a cosmetic composition comprising leukolectin and uses thereof 
+       
+
+
+
+JP2014517059A
+            (en)
+          
+*
+
+2011-06-24
+2014-07-17
+ã¢ã¯ã¢  ãã¤ãª  ãã¯ãã­ã¸ã¼  ã¨ã¼ã¨ã¹ã¨ã¼
+
+  Method for producing a cosmetic composition from a hatching liquid and its use for improving the cosmetic appearance of the skin
+ 
+       
+
+
+
+WO2012175743A3
+            (en)
+          
+*
+
+2011-06-24
+2013-08-08
+Aqua Bio Technology Asa
+Methods for the production of a cosmetic composition from hatching fluid of salmonidae eggs and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+US10328021B2
+            (en)
+          
+
+2011-06-24
+2019-06-25
+Aqua Bio Technology Asa
+Methods for the production of a cosmetic composition from hatching fluid and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+US10017552B2
+            (en)
+          
+
+2011-06-24
+2018-07-10
+Aqua Bio Technology Asa
+Methods of using a composition comprising leukolectin for cosmetic skin treatment 
+       
+
+
+
+KR101932307B1
+            (en)
+          
+
+2011-06-24
+2019-03-20
+ìì¿ ì ë°ì´ì¤ íí¬ëë¡ì§ ìì´ìì¤ìì´
+Methods for the production of a cosmetic composition from hatching fluid of salmonidae eggs and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+WO2012175742A3
+            (en)
+          
+*
+
+2011-06-24
+2013-08-08
+Aqua Bio Technology Asa
+Methods for the production of a cosmetic composition comprising leukolectin and uses thereof 
+       
+
+
+
+JP2015516364A
+            (en)
+          
+*
+
+2012-01-06
+2015-06-11
+ãã¼ãã¹ã»ã¤ã³ã¿ã¼ãã·ã§ãã«ã»ã¤ã³ã³ã¼ãã¬ã¤ãããï¼®ï½ï½ï½ï½ ï¼©ï½ï½ï½ï½ï½ï½ï½ï½ï½ï½ï½ï½ï¼ï¼©ï½ï½ï¼
+
+  Sulfoxide-based surfactant
+ 
+       
+
+
+
+JP2015052002A
+            (en)
+          
+*
+
+2012-01-23
+2015-03-19
+ã¬ã¹ã¿ã¼ã·ã¼ ã¨ã«ã¨ã«ã·ã¤ï¼²ï½ï½ï½ï½ï½ï½ï½ï½ï¼ ï¼¬ï½ï½
+Cosmetic 
+       
+
+
+
+US8992996B2
+            (en)
+          
+
+2012-01-23
+2015-03-31
+Restorsea, Llc
+Cosmetic 
+       
+
+
+
+AU2013212251B2
+            (en)
+          
+*
+
+2012-01-23
+2016-02-04
+Restorsea, Llc
+Cosmetic 
+       
+
+
+
+CN107149588A
+            (en)
+          
+*
+
+2012-01-23
+2017-09-12
+é·æ¯æå°è¥¿æéå¬å¸
+Cosmetic composition 
+       
+
+
+
+WO2013112569A1
+            (en)
+          
+*
+
+2012-01-23
+2013-08-01
+Restorsea, Llc
+Cosmetic 
+       
+
+
+
+JP2016510312A
+            (en)
+          
+*
+
+2012-12-21
+2016-04-07
+ã¢ã¯ã¢ ãã¤ãª ãã¯ãã­ã¸ã¼ ã¨ã¼ã¨ã¹ã¨ã¼
+
+  Cosmetic composition obtained from fish hatching liquid
+ 
+       
+
+
+
+US10123967B2
+            (en)
+          
+
+2012-12-21
+2018-11-13
+Aqua Bio Technology Asa
+Cosmetic composition from fish hatching fluid, methods for its production and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+WO2014096187A2
+            (en)
+          
+*
+
+2012-12-21
+2014-06-26
+Aqua Bio Technology Asa
+A cosmetic composition from fish hatching fluid, methods for its production and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+RU2611639C2
+            (en)
+          
+*
+
+2012-12-21
+2017-02-28
+ÐÐºÐ²Ð° ÐÐ¸Ð¾ Ð¢ÐµÐºÐ½Ð¾Ð»Ð¾Ð´Ð¶Ð¸ ÐÑÐ°
+Cosmetic composition of fluid formed during hatching fish roe 
+       
+
+
+
+JP2016503774A
+            (en)
+          
+*
+
+2012-12-21
+2016-02-08
+ã¢ã¯ã¢ ãã¤ãª ãã¯ãã­ã¸ã¼ ã¨ã¼ã¨ã¹ã¨ã¼
+
+  Cosmetic composition obtained from fish hatching liquid, its production method and use for improving the cosmetic appearance of skin
+ 
+       
+
+
+
+EP2934700B1
+            (en)
+          
+*
+
+2012-12-21
+2018-02-14
+Aqua Bio Technology ASA
+A cosmetic composition from fish hatching fluid, methods for its production and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+KR102134938B1
+            (en)
+          
+
+2012-12-21
+2020-07-17
+ìì¿ ì ë°ì´ì¤ íí¬ëë¡ì§ ìì´ìì¤ìì´
+Cosmetic composition from fish hatching fluid 
+       
+
+
+
+AU2012396934B2
+            (en)
+          
+*
+
+2012-12-21
+2018-08-09
+Aqua Bio Technology Asa
+Cosmetic compositions from fish hatching fluid 
+       
+
+
+
+AU2013366643B2
+            (en)
+          
+*
+
+2012-12-21
+2018-08-09
+Aqua Bio Technology Asa
+A cosmetic composition from fish hatching fluid, methods for its production and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+WO2014094918A1
+            (en)
+          
+*
+
+2012-12-21
+2014-06-26
+Aqua Bio Technology Asa
+Cosmetic compositions from fish hatching fluid 
+       
+
+
+
+KR20150096800A
+            (en)
+          
+*
+
+2012-12-21
+2015-08-25
+ìì¿ ì ë°ì´ì¤ íí¬ëë¡ì§ ìì´ìì¤ìì´
+Cosmetic composition from fish hatching fluid 
+       
+
+
+
+WO2014096187A3
+            (en)
+          
+*
+
+2012-12-21
+2014-08-28
+Aqua Bio Technology Asa
+A cosmetic composition from fish hatching fluid, methods for its production and uses thereof for improving the cosmetic appearance of skin 
+       
+
+
+
+US10500255B2
+            (en)
+          
+
+2012-12-21
+2019-12-10
+Aqua Bio Technology Asa
+Cosmetic compositions from fish hatching fluid 
+       
+
+
+
+US9248167B2
+            (en)
+          
+
+2013-12-13
+2016-02-02
+Restorsea, Llc
+Exfoliative hair retention-promoting formulation 
+       
+
+
+
+US9498430B1
+            (en)
+          
+
+2014-05-16
+2016-11-22
+Restorsea, Llc
+Biphasic cosmetic 
+       
+
+
+
+US9433564B2
+            (en)
+          
+
+2014-05-16
+2016-09-06
+Restorsea, Llc
+Biphasic cosmetic 
+       
+
+
+
+US10584306B2
+            (en)
+          
+
+2017-08-11
+2020-03-10
+Board Of Regents Of The University Of Oklahoma
+Surfactant microemulsions 
+       
+
+
+
+
+Also Published As
+
+
+
+Publication number
+Publication date
+
+
+
+
+
+
+PL2506825T3
+              (en)
+            
+
+2019-11-29
+
+
+
+US9624483B2
+              (en)
+            
+
+2017-04-18
+
+
+
+NZ600499A
+              (en)
+            
+
+2014-09-26
+
+
+
+KR20120115291A
+              (en)
+            
+
+2012-10-17
+
+
+
+CL2012001380A1
+              (en)
+            
+
+2012-11-30
+
+
+
+KR101842521B1
+              (en)
+            
+
+2018-03-27
+
+
+
+CN104436163B
+              (en)
+            
+
+2017-08-11
+
+
+
+CA2781834C
+              (en)
+            
+
+2019-02-12
+
+
+
+ZA201204066B
+              (en)
+            
+
+2013-08-28
+
+
+
+US20170189478A1
+              (en)
+            
+
+2017-07-06
+
+
+
+US9133256B2
+              (en)
+            
+
+2015-09-15
+
+
+
+MX2012006090A
+              (en)
+            
+
+2012-09-07
+
+
+
+NZ627941A
+              (en)
+            
+
+2015-01-30
+
+
+
+CN104436163A
+              (en)
+            
+
+2015-03-25
+
+
+
+CN102724954A
+              (en)
+            
+
+2012-10-10
+
+
+
+JP2013511971A
+              (en)
+            
+
+2013-04-11
+
+
+
+US20160053249A1
+              (en)
+            
+
+2016-02-25
+
+
+
+AU2010323022B2
+              (en)
+            
+
+2015-05-14
+
+
+
+MX340231B
+              (en)
+            
+
+2016-07-01
+
+
+
+AU2015202010B2
+              (en)
+            
+
+2017-04-20
+
+
+
+US20120309689A1
+              (en)
+            
+
+2012-12-06
+
+
+
+GB0921001D0
+              (en)
+            
+
+2010-01-13
+
+
+
+EP2506825B1
+              (en)
+            
+
+2019-05-08
+
+
+
+CN102724954B
+              (en)
+            
+
+2018-07-27
+
+
+
+JP5913117B2
+              (en)
+            
+
+2016-04-27
+
+
+
+CA2781834A1
+              (en)
+            
+
+2011-06-03
+
+
+
+RU2595399C2
+              (en)
+            
+
+2016-08-27
+
+
+
+RU2012127298A
+              (en)
+            
+
+2014-01-20
+
+
+
+US9950031B2
+              (en)
+            
+
+2018-04-24
+
+
+
+IN2012DN04918A
+              (en)
+            
+
+2015-09-25
+
+
+
+BR112012012909A2
+              (en)
+            
+
+2017-04-18
+
+
+
+EP2506825A1
+              (en)
+            
+
+2012-10-10
+
+
+
+ES2741586T3
+              (en)
+            
+
+2020-02-11
+
+
+
+AU2010323022A1
+              (en)
+            
+
+2012-06-21
+
+
+
+AU2015202010A1
+              (en)
+            
+
+2015-05-14
+
+
+
+
+
+Similar Documents
+
+
+
+Publication
+Publication Date
+Title
+
+
+
+
+
+
+
+AU2015202010B2
+                (en)
+              
+
+
+2017-04-20
+
+Hatching fluid enzymes and uses thereof 
+       
+
+
+
+
+US10556937B2
+                (en)
+              
+
+
+2020-02-11
+
+Methods for the production of a cosmetic composition comprising leukolectin and uses thereof 
+       
+
+
+
+
+KR101868058B1
+                (en)
+              
+
+
+2018-06-18
+
+Novel use of erythroid differentiation regulator 1 for skin regenerating or wound healing 
+       
+
+
+
+
+US11479580B2
+                (en)
+              
+
+
+2022-10-25
+
+Polypeptide expressed in the stratum corneum and use thereof 
+       
+
+
+
+
+JP6300329B2
+                (en)
+              
+
+
+2018-03-28
+
+
+  Polypeptides expressed in the stratum corneum and uses thereof
+ 
+     
+
+
+
+
+EP4004021A2
+                (en)
+              
+
+
+2022-06-01
+
+Polypeptides having anti-senescent effects and uses thereof 
+     
+
+
+
+
+NZ620207B2
+                (en)
+              
+
+
+2016-03-30
+
+Methods for the production of a cosmetic composition comprising leukolectin and uses thereof 
+     
+
+
+
+
+
+Legal Events
+
+
+
+Date
+Code
+Title
+Description
+
+
+
+
+2010-11-30
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              201080054198.1
+
+
+Country of ref document:
+              CN
+
+
+
+
+2011-07-20
+121
+Ep: the epo has been informed by wipo that ep was designated in this application
+
+
+Ref document number:
+              10784313
+
+
+Country of ref document:
+              EP
+
+
+Kind code of ref document:
+              A1
+
+
+
+
+2012-05-24
+ENP
+Entry into the national phase
+
+
+Ref document number:
+              2781834
+
+
+Country of ref document:
+              CA
+
+
+
+
+2012-05-25
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              MX/A/2012/006090
+
+
+Country of ref document:
+              MX
+
+
+
+
+2012-05-29
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              2012540460
+
+
+Country of ref document:
+              JP
+
+
+
+
+2012-05-30
+NENP
+Non-entry into the national phase
+
+
+Ref country code:
+              DE
+
+
+
+
+2012-05-30
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              2010323022
+
+
+Country of ref document:
+              AU
+
+
+
+
+2012-06-04
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              4918/DELNP/2012
+
+
+Country of ref document:
+              IN
+
+
+
+
+2012-06-21
+ENP
+Entry into the national phase
+
+
+Ref document number:
+              2010323022
+
+
+Country of ref document:
+              AU
+
+
+Date of ref document:
+              20101130
+
+
+Kind code of ref document:
+              A
+
+
+
+
+2012-06-29
+ENP
+Entry into the national phase
+
+
+Ref document number:
+              20127016994
+
+
+Country of ref document:
+              KR
+
+
+Kind code of ref document:
+              A
+
+
+
+
+2012-06-29
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              2010784313
+
+
+Country of ref document:
+              EP
+
+
+
+
+2012-07-02
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              2012127298
+
+
+Country of ref document:
+              RU
+
+
+
+
+2012-08-08
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              13511326
+
+
+Country of ref document:
+              US
+
+
+
+
+2012-12-11
+REG
+Reference to national code
+
+
+Ref country code:
+              BR
+
+
+Ref legal event code:
+              B01A
+
+
+Ref document number:
+              112012012909
+
+
+Country of ref document:
+              BR
+
+
+
+
+2017-04-18
+ENP
+Entry into the national phase
+
+
+Ref document number:
+              112012012909
+
+
+Country of ref document:
+              BR
+
+
+Kind code of ref document:
+              A2
+
+
+Effective date:
+              20120529
+
+
+
+
+
+
+
+
+
+
+
+
+
+

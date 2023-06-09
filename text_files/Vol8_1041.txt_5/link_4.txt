@@ -1,0 +1,181 @@
+Document Name: role of Triethanolamine (98%) in Protective Cream4
+Document link: https://go.drugbank.com/drugs/DB13747
+Trolamine: Uses, Interactions, Mechanism of Action | DrugBank Online
+OnlineBrowse
+
+
+ Drugs
+
+
+ Starred Drugs
+
+
+ Categories
+
+
+ Pathways
+
+
+ Drug Reactions
+
+
+ Drug Classification
+
+
+ Drug Targets
+
+
+ Pharmaco-genomics
+
+
+ Pharmaco-metabolomics
+
+
+ Pharmaco-transcriptomics
+
+
+ Pharmaco-proteomicsSearch
+
+
+ Chemical Structure
+
+
+ Molecular Weight
+
+
+ Drug & Food Interactions
+
+
+ Target Sequences
+
+
+ Pharmaco-omics
+
+
+ Advanced Search
+
+
+ MS Search
+
+
+ MS/MS Search
+
+
+ GC/MS Search
+
+
+ 1D NMR Search
+
+
+ 2D NMR SearchInteraction CheckerDownloadsProducts  Navigate to DrugBank.com to check out our commercial products, use cases and more!DrugBank For Commercial Research  Drug DatasetsStructured drug data for data science & MLDrugBank For Clinical Software  Clinical APIClinical intelligence tool for your softwareFeatures  Drug SearchCustomizable drug search options  Drug-Drug Interaction CheckerSearch for drug interactions with our API  Drug AllergyGet drug allergy and cross sensitivities info  US Drug LabelsIntegrate drug manufacturer informationAbout   Help Center
+
+
+ Citing DrugBank
+
+
+ DrugBank Online FAQs
+
+
+ Searching DrugBank
+
+
+ Other Databases
+
+
+ Data Sources   About
+
+
+ About DrugBank Online
+
+
+ DrugBank in Research
+
+
+ Statistics
+
+
+ Blog
+
+
+ Wishart Research Group
+
+
+ Contact Us
+
+
+ Log inDrugs
+Targets
+Pathways
+Indications 
+
+
+  
+
+
+ Are you an Academic Researcher citing DrugBank? Join our Powered By DrugBank Academic Webinar Series.Learn More!
+
+
+
+
+
+NAV   
+
+
+ IdentificationSummaryBrand NamesNameAccession NumberBackgroundTypeGroupsStructureWeightChemical FormulaSynonymsPharmacologyIndicationAssociated ConditionsAssociated TherapiesContraindications & Blackbox WarningsPharmacodynamicsMechanism of actionAbsorptionVolume of distributionProtein bindingMetabolismRoute of eliminationHalf-lifeClearanceAdverse EffectsToxicityPathwaysPharmacogenomic Effects/ADRsInteractionsDrug InteractionsFood InteractionsProductsOver the Counter ProductsMixture ProductsUnapproved/Other ProductsCategoriesATC CodesDrug CategoriesChemical TaxonomyAffected organismsChemical IdentifiersUNIICAS numberInChI KeyInChIIUPAC NameSMILESReferencesGeneral ReferencesExternal LinksPDB EntriesMSDSClinical TrialsPharmacoeconomicsManufacturersPackagersDosage FormsPricesPatentsPropertiesStateExperimental PropertiesPredicted PropertiesPredicted ADMET FeaturesSpectraMass SpecSpectraTrolamine
+
+
+Star0IdentificationBrand NamesTru-micinGeneric NameTrolamineDrugBank Accession NumberDB13747BackgroundTrolamine, which is also referred to as triethanolamine (TEA), is a tertiary amine and a triol. It is a bifunctional compound that exhibits both properties of alcohols and amines. Trolamine contains small amounts of diethanolamine and ethanolamine and may also act as an antioxidant against the auto-oxidation of animal and vegetable fats 1. It is commonly used as a pH adjuster and surfactant in industrial and cosmetic products such as skin and hair conditioning products.
+TypeSmall MoleculeGroupsApprovedStructure
+
+
+3DDownload MOLSDF3D-SDFPDBSMILESInChI
+
+
+ Similar StructuresStructure for Trolamine (DB13747)× CloseWeightAverage: 149.1882 Monoisotopic: 149.105193351 Chemical FormulaC6H15NO3Synonyms2,2',2''-nitrilotris(ethanol)nitrilo-2,2',2''-triethanolnitrilotriethanoltriethanolaminetris(2-hydroxyethyl)aminetris(β-hydroxyethyl)amineTrolaminePharmacologyIndicationTrolamine is used as an alkalizing agent, surfactant, and counter-ion in cosmetic and pharmaceutical formulations 1. It is not considered to be an active pharmacological ingredient and so has no official indication.
+Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See howAssociated ConditionsPainAssociated Therapies
+
+
+
+
+
+Skin disinfection
+Topical AnalgesiaContraindications & Blackbox WarningsAvoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn morePharmacodynamicsActs as a surfactant or alkalizing agent to aid in emulsification and solubilizing of compounds or in raising the pH of a solution 1 
+Mechanism of actionAs an amine, trolamine is capable of accepting a hydrogen to form hydroxide and a conjugate acid. This raises the pH of the solution. As a surfactant, it can lower the interfacial tension in a mixture or solution to prevent separation of emulsions or precipitation of a compound out of solution.
+AbsorptionDermal absorption of trolamine increases with the dose 1. This has been found to range from 19-28% in rats with doses of 68-276 mg/kg in 190 μL of acetone without occlusion and from 60-80% in mice with doses of 79-1120 mg/kg in the same volume of acetone.
+Volume of distributionNot AvailableProtein bindingNot AvailableMetabolismTrolamine is excreted mostly as the unchanged compound 1. No diethanolamine or ethanolamine has been found. Very small amounts of trolamine glucuronide have been detected but not quantified.
+Hover over products below to view reaction partnersTrolamine
+
+
+Glucuronide Conjugate (Trolamine)Route of eliminationWhen orally administered to rats, the 53% of the trolamine dose was found to be excreted in the urine and 20% in the feces 1. 98% was excreted in the urine with intravenous administration.
+Half-lifeNot AvailableClearanceNot AvailableAdverse EffectsImprove decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn moreToxicityTrolamine produced mild erythema and edema in rabbits with dermally administered doses of 2 g/kg under occlusion 1. The oral LD50 was found to be 8 g/kg in guinea pigs and 4.19-11.26 g/kg in rats. Repeated oral administration in rats and guinea pigs produced hepatic and renal damage with deaths occurring in rats at doses >0.3 g/kg/day. When inhaled trolamine produced edema and inflammation in rats at doses over 100 mg/m³ after 5 days and at doses over 4.7 mg/m³ after 90 days. There is some evidence of carcinogenicity at high dermal doses (1000 mg/kg/day) in mice. Trolamine is not classified as a carcinogen in humans.
+PathwaysNot AvailablePharmacogenomic Effects/ADRs 
+
+
+Not AvailableInteractionsDrug Interactions 
+
+
+This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your software
+
+
+Tenofovir alafenamideThe serum concentration of Tenofovir alafenamide can be increased when it is combined with Trolamine.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   Food InteractionsNo interactions found.ProductsDrug product information from 10+ global regionsOur datasets provide approved product information including:dosage, form, labeller, route of administration, and marketing period.Access now  Access drug product information from over 10 global regions.Access nowOver the Counter ProductsNameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImageSallys Box Friendly Black Head Three Step SheetCream0.036 mg/3mLTopicalImine Co., Ltd.2015-01-052015-01-05USTru-micinLotion0.1 mg/1mLTopicalTruceuticals, Llc2013-06-07Not applicableUSMixture ProductsNameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImageBee Pollen-jojoba High Moisture CreamTrolamine (0.6 %) + Octinoxate (7.5 %) + Oxybenzone (3.0 %) + Titanium dioxide (0.1 %)CreamTopicalRachel Perry Inc.Not applicableNot applicableCanadaCalenda-cucumber Oil-free MoisturizerTrolamine (0.6 %) + Octinoxate (7.5 %) + Oxybenzone (3 %)CreamTopicalRachel Perry Inc.Not applicableNot applicableCanadaLecithin-aloe Moisture CreamTrolamine (0.8 %) + Octinoxate (7.5 %) + Oxybenzone (4 %) + Titanium dioxide (0.15 %)CreamTopicalRachel Perry Inc.Not applicableNot applicableCanadaProtection Hp Hand SanitizergelTrolamine (1.4 g/500mL) + Carbomer (1.5 g/500mL) + Ethanol (375 mL/500mL)GelExtracorporealShenzhen Anmay Paper Manufacture Co., Ltd.2020-05-20Not applicableUSProtection Hp Hand SanitizergelTrolamine (0.98 g/350mL) + Carbomer (1.05 g/350mL) + Ethanol (262.5 mL/350mL) + Propylene glycol (0.35 g/350mL)GelExtracorporealShenzhen Anmay Paper Manufacture Co., Ltd.2020-05-20Not applicableUSProtection Hp Hand SanitizergelTrolamine (0.98 g/350mL) + Carbomer (1.05 g/350mL) + Ethanol (262.5 mL/350mL)GelExtracorporealShenzhen Anmay Paper Manufacture Co., Ltd.2020-05-20Not applicableUSProtection Hp Hand SanitizergelTrolamine (1.4 g/500mL) + Carbomer (1.5 g/500mL) + Ethanol (375 mL/500mL) + Propylene glycol (0.5 g/500mL)GelExtracorporealShenzhen Anmay Paper Manufacture Co., Ltd.2020-05-20Not applicableUSRUNYI MIAOJIE Hand sanitizerTrolamine (1.4 mg/500mL) + Carbomer (1.5 mg/500mL) + Ethanol (375 mL/500mL) + Propylene glycol (0.5 mg/500mL)GelExtracorporealBeijing Runyi Technology Co., Ltd2020-04-242020-07-20USRUNYI MIAOJIE Hand sanitizerTrolamine (1.4 mg/500mL) + Carbomer (1.5 mg/500mL) + Ethanol (375 mL/500mL)GelExtracorporealBeijing Runyi Technology Co., Ltd2020-04-242020-07-10USRUNYI MIAOJIE Hand sanitizerTrolamine (0.525 g/350mL) + Carbomer (0.875 g/350mL) + Ethanol (262.5 mL/350mL)GelExtracorporealBeijing Runyi Technology Co., Ltd2020-05-07Not applicableUSUnapproved/Other Products 
+
+
+NameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImageSallys Box Friendly Black Head Three Step SheetTrolamine (0.036 mg/3mL)CreamTopicalImine Co., Ltd.2015-01-052015-01-05USCategoriesATC CodesD03AX12 — TrolamineD03AX — Other cicatrizantsD03A — CICATRIZANTSD03 — PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERSD — DERMATOLOGICALSDrug CategoriesAlcohols
+Amines
+Amino Alcohols
+Cicatrizants
+Dermatologicals
+Drugs that are Mainly Renally Excreted
+Preparations for Treatment of Wounds and UlcersChemical TaxonomyProvided by ClassyfireDescriptionThis compound belongs to the class of organic compounds known as 1,2-aminoalcohols. These are organic compounds containing an alkyl chain with an amine group bound to the C1 atom and an alcohol group bound to the C2 atom.KingdomOrganic compoundsSuper ClassOrganic nitrogen compoundsClassOrganonitrogen compoundsSub ClassAminesDirect Parent1,2-aminoalcoholsAlternative ParentsTrialkylamines / Primary alcohols / Organopnictogen compounds / Hydrocarbon derivativesSubstituents1,2-aminoalcohol / Alcohol / Aliphatic acyclic compound / Hydrocarbon derivative / Organic oxygen compound / Organooxygen compound / Organopnictogen compound / Primary alcohol / Tertiary aliphatic amine / Tertiary amineMolecular FrameworkAliphatic acyclic compoundsExternal Descriptorstertiary amino compound, amino alcohol (CHEBI:28621) Affected organismsNot AvailableChemical IdentifiersUNII9O3K93S3TKCAS number102-71-6InChI KeyGSEJCLTVZPLZKY-UHFFFAOYSA-NInChIInChI=1S/C6H15NO3/c8-4-1-7(2-5-9)3-6-10/h8-10H,1-6H2IUPAC Name2-[bis(2-hydroxyethyl)amino]ethan-1-olSMILESOCCN(CCO)CCOReferencesGeneral ReferencesFiume MM, Heldreth B, Bergfeld WF, Belsito DV, Hill RA, Klaassen CD, Liebler D, Marks JG Jr, Shank RC, Slaga TJ, Snyder PW, Andersen FA: Safety assessment of triethanolamine and triethanolamine-containing ingredients as used in cosmetics. Int J Toxicol. 2013 May-Jun;32(3 Suppl):59S-83S. doi: 10.1177/1091581813488804. [Article] External LinksHuman Metabolome DatabaseHMDB0032538KEGG DrugD00215KEGG CompoundC06771PubChem Compound7618PubChem Substance347829313ChemSpider13835630RxNav38623ChEBI28621ChEMBLCHEMBL446061ZINCZINC000000896409PDBe Ligand211WikipediaTriethanolaminePDB Entries2hmp / 3frl / 3h7c / 3rq0 / 3zuk / 5cix / 6cwwMSDSDownload (164 KB) Clinical TrialsClinical Trials 
+
+
+PhaseStatusPurposeConditionsCount3CompletedTreatmentAllergic Reaction23CompletedTreatmentDermatitis, Photoallergic13CompletedTreatmentDermatitis, Phototoxic12Unknown StatusSupportive CareNasopharyngeal Neoplasms / Radiodermatitis1PharmacoeconomicsManufacturersNot AvailablePackagersNot AvailableDosage FormsFormRouteStrengthCreamTopicalGelExtracorporealLiquidExtracorporealCreamTopical0.036 mg/3mLLotionTopical0.1 mg/1mLPricesNot AvailablePatentsNot AvailablePropertiesStateLiquidExperimental PropertiesPropertyValueSourcemelting point (°C)21.6Fiume MM, Heldreth B, Bergfeld WF, et al. Safety assessment of triethanolamine and triethanolamine-containing ingredients as used in cosmetics. Int J Toxicol. 2013;32(3 Suppl):59S-83S.boiling point (°C)335.4Fiume MM, Heldreth B, Bergfeld WF, et al. Safety assessment of triethanolamine and triethanolamine-containing ingredients as used in cosmetics. Int J Toxicol. 2013;32(3 Suppl):59S-83S.water solubilityMiscibleFiume MM, Heldreth B, Bergfeld WF, et al. Safety assessment of triethanolamine and triethanolamine-containing ingredients as used in cosmetics. Int J Toxicol. 2013;32(3 Suppl):59S-83S.logP-1.59Fiume MM, Heldreth B, Bergfeld WF, et al. Safety assessment of triethanolamine and triethanolamine-containing ingredients as used in cosmetics. Int J Toxicol. 2013;32(3 Suppl):59S-83S.pKa7.76Fiume MM, Heldreth B, Bergfeld WF, et al. Safety assessment of triethanolamine and triethanolamine-containing ingredients as used in cosmetics. Int J Toxicol. 2013;32(3 Suppl):59S-83S.Predicted PropertiesPropertyValueSourceWater Solubility497.0 mg/mLALOGPSlogP-1.4ALOGPSlogP-1.9ChemaxonlogS0.52ALOGPSpKa (Strongest Acidic)15.12ChemaxonpKa (Strongest Basic)8.44ChemaxonPhysiological Charge1ChemaxonHydrogen Acceptor Count4ChemaxonHydrogen Donor Count3ChemaxonPolar Surface Area63.93 Å2ChemaxonRotatable Bond Count6ChemaxonRefractivity38.86 m3·mol-1ChemaxonPolarizability16.38 Å3ChemaxonNumber of Rings0ChemaxonBioavailability1ChemaxonRule of FiveYesChemaxonGhose FilterNoChemaxonVeber's RuleNoChemaxonMDDR-like RuleNoChemaxonPredicted ADMET FeaturesNot AvailableSpectraMass Spec (NIST)Not AvailableSpectraSpectrumSpectrum TypeSplash KeyGC-MS Spectrum - GC-MS (3 TMS)GC-MSsplash10-03di-1970000000-1cdc1ba11e5a386f1352Predicted GC-MS Spectrum - GC-MSPredicted GC-MSNot AvailableGC-MS Spectrum - EI-BGC-MSsplash10-014i-9800000000-98de38ceda39aaf45b22GC-MS Spectrum - GC-MSGC-MSsplash10-03di-1970000000-1cdc1ba11e5a386f1352Mass Spectrum (Electron Ionization)MSsplash10-066r-9400000000-4742c6b283ff3c63f5cfPredicted MS/MS Spectrum - 10V, Positive (Annotated)Predicted LC-MS/MSsplash10-0udi-0900000000-ca2aa12d755f3b370137Predicted MS/MS Spectrum - 20V, Positive (Annotated)Predicted LC-MS/MSsplash10-0ue9-1900000000-2b587564dc84bdc0bc33Predicted MS/MS Spectrum - 40V, Positive (Annotated)Predicted LC-MS/MSsplash10-01pa-9300000000-57766f4027077ecafb7ePredicted MS/MS Spectrum - 10V, Negative (Annotated)Predicted LC-MS/MSsplash10-0002-0900000000-b274020e58b6ef8d982cPredicted MS/MS Spectrum - 20V, Negative (Annotated)Predicted LC-MS/MSsplash10-0002-1900000000-c82995f1eed61c2b1729Predicted MS/MS Spectrum - 40V, Negative (Annotated)Predicted LC-MS/MSsplash10-0fdo-9300000000-db20818734acbebe5241LC-MS/MS Spectrum - LC-ESI-QQ , positiveLC-MS/MSsplash10-0udi-0900000000-0c50692a60886d3a9842LC-MS/MS Spectrum - LC-ESI-QQ , positiveLC-MS/MSsplash10-0ue9-3900000000-2610bf9e1d6b422b2581LC-MS/MS Spectrum - LC-ESI-QQ , positiveLC-MS/MSsplash10-00di-9100000000-ad4771662a2213681b1cLC-MS/MS Spectrum - LC-ESI-QQ , positiveLC-MS/MSsplash10-00dl-9000000000-3099cf0c685e5aa6736fLC-MS/MS Spectrum - LC-ESI-QQ , positiveLC-MS/MSsplash10-006w-9000000000-d387d0ee743aefe8efecLC-MS/MS Spectrum - LC-ESI-QTOF , positiveLC-MS/MSsplash10-0ue9-4900000000-a63f8f03a9f4f6fe4fd51H NMR Spectrum1D NMRNot Applicable13C NMR Spectrum1D NMRNot Applicable×Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   Drug created at June 23, 2017 20:47 / Updated at September 28, 2021 21:54 Product Image×Show full imageInterested in using DrugBank in a commercial product or application?Visit DrugBank.com   Stay up-to-date with the latest from DrugBank!SubscribeThank you for subscribing!AboutAbout DrugBank OnlineBlogWishart Research GroupCareersTerms of UsePrivacy PolicySupportHelp CenterDrugBank Online FAQsContact SupportProductsCommercial Drug DatasetsAcademic Drug DatasetsClinical APIContact Sales
+
+
+
+
+
+
+
+
+Website design by Educe Design & Innovation Inc.

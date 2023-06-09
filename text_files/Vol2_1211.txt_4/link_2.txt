@@ -1,0 +1,3928 @@
+Document Name: role of ABIL Wax 2434 in Cold Cream2
+Document link: https://www.mdpi.com/2079-9284/5/2/34
+
+
+
+
+
+
+
+
+Cosmetics | Free Full-Text | Alkenones as a Promising Green Alternative for Waxes in Cosmetics and Personal Care Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Next Article in Journal
+From Mice to Men: An Evolutionary Conserved Breakdown of the Epidermal Calcium Gradient and Its Impact on the Cornified Envelope
+Next Article in Special Issue
+Perspective: Stabilizing the Microbiome Skin-Gut-Brain Axis with Natural Plant Botanical Ingredients in Cosmetics
+
+
+
+
+
+
+
+Previous Article in Journal
+Absorption and Photo-Stability of Substituted Dibenzoylmethanes and Chalcones as UVA Filters
+Previous Article in Special Issue
+Labeling of Cosmetic Products
+
+
+
+
+
+
+
+
+Journals
+
+
+
+
+Active Journals
+Find a Journal
+Proceedings Series
+
+
+
+
+
+Topics
+
+
+
+Information
+
+
+
+
+For Authors
+For Reviewers
+For Editors
+For Librarians
+For Publishers
+For Societies
+For Conference Organizers
+
+
+Open Access Policy
+Institutional Open Access Program
+Special Issues Guidelines
+Editorial Process
+Research and Publication Ethics
+Article Processing Charges
+Awards
+Testimonials
+
+
+
+
+
+Author Services
+
+
+
+Initiatives
+
+
+
+
+Sciforum
+MDPI Books
+Preprints.org
+Scilit
+SciProfiles
+Encyclopedia
+JAMS
+Proceedings Series
+
+
+
+
+
+
+About
+
+
+
+
+Overview
+Contact
+Careers
+News
+Blog
+
+
+
+
+
+
+Sign In / Sign Up
+
+
+
+
+
+Notice
+
+
+
+
+
+You can make submissions to other journals
+here.
+
+
+
+
+clear
+
+
+
+
+
+Notice
+
+You are accessing a machine-readable page. In order to be human-readable, please install an RSS reader.
+
+
+
+
+
+Continue
+Cancel
+
+
+
+clear
+
+
+
+
+All articles published by MDPI are made immediately available worldwide under an open access license. No special
+permission is required to reuse all or part of the article published by MDPI, including figures and tables. For
+articles published under an open access Creative Common CC BY license, any part of the article may be reused without
+permission provided that the original article is clearly cited. For more information, please refer to
+https://www.mdpi.com/openaccess.
+
+
+
+
+Feature papers represent the most advanced research with significant potential for high impact in the field. A Feature
+Paper should be a substantial original Article that involves several techniques or approaches, provides an outlook for
+future research directions and describes possible research applications.
+
+
+Feature papers are submitted upon individual invitation or recommendation by the scientific editors and must receive
+positive feedback from the reviewers.
+
+
+
+
+Editor’s Choice articles are based on recommendations by the scientific editors of MDPI journals from around the world.
+Editors select a small number of articles recently published in the journal that they believe will be particularly
+interesting to readers, or important in the respective research area. The aim is to provide a snapshot of some of the
+most exciting work published in the various research areas of the journal.
+
+
+
+
+
+                        You seem to have javascript disabled. Please note that many of the page functionalities won't work as expected without javascript enabled.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+
+
+search
+
+
+menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journals
+
+
+
+
+
+
+
+Active Journals
+
+
+
+
+Find a Journal
+
+
+
+
+Proceedings Series
+
+
+
+
+
+
+
+
+
+Topics
+
+
+Information
+
+
+
+
+
+
+For Authors
+
+
+For Reviewers
+
+
+For Editors
+
+
+For Librarians
+
+
+For Publishers
+
+
+For Societies
+
+
+For Conference Organizers
+
+
+
+
+
+
+Open Access Policy
+
+
+Institutional Open Access Program
+
+
+Special Issues Guidelines
+
+
+Editorial Process
+
+
+Research and Publication Ethics
+
+
+Article Processing Charges
+
+
+Awards
+
+
+Testimonials
+
+
+
+
+
+
+
+
+Author Services
+
+
+Initiatives
+
+
+
+
+
+
+
+Sciforum
+
+
+
+
+MDPI Books
+
+
+
+
+Preprints.org
+
+
+
+
+Scilit
+
+
+
+
+SciProfiles
+
+
+
+
+Encyclopedia
+
+
+
+
+JAMS
+
+
+
+
+Proceedings Series
+
+
+
+
+
+
+
+
+
+About
+
+
+
+
+
+
+
+Overview
+
+
+
+
+Contact
+
+
+
+
+Careers
+
+
+
+
+News
+
+
+
+
+Blog
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In / Sign Up
+Submit
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+Search for Articles:
+
+
+
+
+Title / Keyword
+
+
+
+
+
+Author / Affiliation / Email
+
+
+
+
+
+Journal
+
+
+All Journals
+
+Acoustics
+
+
+Actuators
+
+
+Administrative Sciences
+
+
+Adolescents
+
+
+Advances in Respiratory Medicine
+
+
+Aerospace
+
+
+Agriculture
+
+
+AgriEngineering
+
+
+Agrochemicals
+
+
+Agronomy
+
+
+AI
+
+
+Air
+
+
+Algorithms
+
+
+Allergies
+
+
+Alloys
+
+
+Analytica
+
+
+Analytics
+
+
+Anatomia
+
+
+Anesthesia Research
+
+
+Animals
+
+
+Antibiotics
+
+
+Antibodies
+
+
+Antioxidants
+
+
+Applied Biosciences
+
+
+Applied Mechanics
+
+
+Applied Microbiology
+
+
+Applied Nano
+
+
+Applied Sciences
+
+
+Applied System Innovation (ASI)
+
+
+AppliedChem
+
+
+AppliedMath
+
+
+Aquaculture Journal
+
+
+Architecture
+
+
+Arthropoda
+
+
+Arts
+
+
+Astronomy
+
+
+Atmosphere
+
+
+Atoms
+
+
+Audiology Research
+
+
+Automation
+
+
+Axioms
+
+
+Bacteria
+
+
+Batteries
+
+
+Behavioral Sciences
+
+
+Beverages
+
+
+Big Data and Cognitive Computing (BDCC)
+
+
+BioChem
+
+
+Bioengineering
+
+
+Biologics
+
+
+Biology
+
+
+Biology and Life Sciences Forum
+
+
+Biomass
+
+
+Biomechanics
+
+
+BioMed
+
+
+Biomedicines
+
+
+BioMedInformatics
+
+
+Biomimetics
+
+
+Biomolecules
+
+
+Biophysica
+
+
+Biosensors
+
+
+BioTech
+
+
+Birds
+
+
+Blockchains
+
+
+Brain Sciences
+
+
+Buildings
+
+
+Businesses
+
+
+C
+
+
+Cancers
+
+
+Cardiogenetics
+
+
+Catalysts
+
+
+Cells
+
+
+Ceramics
+
+
+Challenges
+
+
+ChemEngineering
+
+
+Chemistry
+
+
+Chemistry Proceedings
+
+
+Chemosensors
+
+
+Children
+
+
+Chips
+
+
+CivilEng
+
+
+Clean Technologies (Clean Technol.)
+
+
+Climate
+
+
+Clinical and Translational Neuroscience (CTN)
+
+
+Clinics and Practice
+
+
+Clocks & Sleep
+
+
+Coasts
+
+
+Coatings
+
+
+Colloids and Interfaces
+
+
+Colorants
+
+
+Commodities
+
+
+Complications
+
+
+Compounds
+
+
+Computation
+
+
+Computer Sciences & Mathematics Forum
+
+
+Computers
+
+
+Condensed Matter
+
+
+Conservation
+
+
+Construction Materials
+
+
+Corrosion and Materials Degradation (CMD)
+
+
+Cosmetics
+
+
+COVID
+
+
+Crops
+
+
+Cryptography
+
+
+Crystals
+
+
+Current Issues in Molecular Biology (CIMB)
+
+
+Current Oncology
+
+
+Dairy
+
+
+Data
+
+
+Dentistry Journal
+
+
+Dermato
+
+
+Dermatopathology
+
+
+Designs
+
+
+Diabetology
+
+
+Diagnostics
+
+
+Dietetics
+
+
+Digital
+
+
+Disabilities
+
+
+Diseases
+
+
+Diversity
+
+
+DNA
+
+
+Drones
+
+
+Drugs and Drug Candidates (DDC)
+
+
+Dynamics
+
+
+Earth
+
+
+Ecologies
+
+
+Econometrics
+
+
+Economies
+
+
+Education Sciences
+
+
+Electricity
+
+
+Electrochem
+
+
+Electronic Materials
+
+
+Electronics
+
+
+Encyclopedia
+
+
+Endocrines
+
+
+Energies
+
+
+Eng
+
+
+Engineering Proceedings
+
+
+ Entropy
+
+
+Environmental Sciences Proceedings
+
+
+Environments
+
+
+Epidemiologia
+
+
+Epigenomes
+
+
+European Burn Journal (EBJ)
+
+
+European Journal of Investigation in Health, Psychology and Education (EJIHPE)
+
+
+Fermentation
+
+
+Fibers
+
+
+FinTech
+
+
+Fire
+
+
+Fishes
+
+
+Fluids
+
+
+Foods
+
+
+Forecasting
+
+
+Forensic Sciences
+
+
+Forests
+
+
+Fossils
+
+
+Foundations
+
+
+Fractal and Fractional (Fractal Fract)
+
+
+Fuels
+
+
+Future
+
+
+Future Internet
+
+
+Future Pharmacology
+
+
+Future Transportation
+
+
+Galaxies
+
+
+Games
+
+
+Gases
+
+
+Gastroenterology Insights
+
+
+Gastrointestinal Disorders
+
+
+Gastronomy
+
+
+Gels
+
+
+Genealogy
+
+
+Genes
+
+
+Geographies
+
+
+GeoHazards
+
+
+Geomatics
+
+
+Geosciences
+
+
+Geotechnics
+
+
+Geriatrics
+
+
+Gout, Urate, and Crystal Deposition Disease (GUCDD)
+
+
+Grasses
+
+
+Hardware
+
+
+Healthcare
+
+
+Hearts
+
+
+Hemato
+
+
+Hematology Reports
+
+
+Heritage
+
+
+Histories
+
+
+Horticulturae
+
+
+Hospitals
+
+
+Humanities
+
+
+Humans
+
+
+Hydrobiology
+
+
+Hydrogen
+
+
+Hydrology
+
+
+Hygiene
+
+
+Immuno
+
+
+Infectious Disease Reports
+
+
+Informatics
+
+
+Information
+
+
+Infrastructures
+
+
+Inorganics
+
+
+Insects
+
+
+Instruments
+
+
+International Journal of Environmental Research and Public Health (IJERPH)
+
+
+International Journal of Financial Studies (IJFS)
+
+
+International Journal of Molecular Sciences (IJMS)
+
+
+International Journal of Neonatal Screening (IJNS)
+ 
+
+International Journal of Plant Biology (IJPB)
+
+
+International Journal of Translational Medicine (IJTM)
+
+
+International Journal of Turbomachinery, Propulsion and Power (IJTPP)
+
+
+International Medical Education (IME)
+
+
+Inventions
+
+
+IoT
+
+
+ISPRS International Journal of Geo-Information (IJGI)
+
+
+J
+
+
+Journal of Ageing and Longevity (JAL)
+
+
+Journal of Cardiovascular Development and Disease (JCDD)
+
+
+Journal of Clinical & Translational Ophthalmology (JCTO)
+
+
+Journal of Clinical Medicine (JCM)
+
+
+Journal of Composites Science (J. Compos. Sci.)
+
+
+Journal of Cybersecurity and Privacy (JCP)
+
+
+Journal of Developmental Biology (JDB)
+
+
+Journal of Experimental and Theoretical Analyses (JETA)
+
+
+Journal of Functional Biomaterials (JFB)
+
+
+Journal of Functional Morphology and Kinesiology (JFMK)
+
+
+Journal of Fungi (JoF)
+
+
+Journal of Imaging (J. Imaging)
+
+
+Journal of Intelligence (J. Intell.)
+
+
+Journal of Low Power Electronics and Applications (JLPEA)
+
+
+Journal of Manufacturing and Materials Processing (JMMP)
+
+
+Journal of Marine Science and Engineering (JMSE)
+
+
+Journal of Molecular Pathology (JMP)
+
+
+Journal of Nanotheranostics (JNT)
+
+
+Journal of Nuclear Engineering (JNE)
+
+
+Journal of Otorhinolaryngology, Hearing and Balance Medicine (OHBM)
+
+
+Journal of Personalized Medicine (JPM)
+ 
+
+Journal of Respiration (JoR)
+
+
+Journal of Risk and Financial Management (JRFM)
+
+
+Journal of Sensor and Actuator Networks (JSAN)
+
+
+Journal of Theoretical and Applied Electronic Commerce Research (JTAER)
+
+
+Journal of Vascular Diseases (JVD)
+
+
+Journal of Xenobiotics (JoX)
+
+
+Journal of Zoological and Botanical Gardens (JZBG)
+
+
+Journalism and Media
+
+
+Kidney and Dialysis
+
+
+Kinases and Phosphatases
+
+
+Knowledge
+
+
+Land
+
+
+Languages
+
+
+Laws
+
+
+Life
+
+
+Liquids
+
+
+Literature
+
+
+Livers
+
+
+Logics
+
+
+Logistics
+
+
+Lubricants
+
+
+Lymphatics
+
+
+Machine Learning and Knowledge Extraction (MAKE)
+
+
+Machines
+
+
+Macromol
+
+
+Magnetism
+
+
+Magnetochemistry
+
+
+Marine Drugs
+
+
+Materials
+
+
+Materials Proceedings
+
+
+Mathematical and Computational Applications (MCA)
+
+
+Mathematics
+
+
+Medical Sciences
+
+
+Medical Sciences Forum
+
+
+Medicina
+
+
+Medicines
+
+
+Membranes
+
+
+Merits
+
+
+Metabolites
+
+
+Metals
+
+
+Meteorology
+
+
+Methane
+
+
+Methods and Protocols (MPs)
+
+
+Metrology
+
+
+Micro
+
+
+Microbiology Research
+
+
+Micromachines
+
+
+Microorganisms
+
+
+Microplastics
+
+
+Minerals
+
+
+Mining
+
+
+Modelling
+
+
+Molbank
+
+
+Molecules
+
+
+Multimodal Technologies and Interaction (MTI)
+
+
+Muscles
+
+
+Nanoenergy Advances
+
+
+Nanomanufacturing
+
+
+Nanomaterials
+
+
+NDT
+
+
+Network
+
+
+Neuroglia
+
+
+Neurology International
+
+
+NeuroSci
+
+
+Nitrogen
+
+
+Non-Coding RNA (ncRNA)
+
+
+Nursing Reports
+
+
+Nutraceuticals
+
+
+Nutrients
+
+
+Obesities
+
+
+Oceans
+
+
+Onco
+
+
+Optics
+
+
+Oral
+
+
+Organics
+
+
+Organoids
+
+
+Osteology
+
+
+Oxygen
+
+
+Parasitologia
+
+
+Particles
+
+
+Pathogens
+
+
+Pathophysiology
+
+
+Pediatric Reports
+
+
+Pharmaceuticals
+
+
+Pharmaceutics
+
+
+Pharmacoepidemiology
+
+
+Pharmacy
+
+
+Philosophies
+
+
+Photochem
+
+
+Photonics
+
+
+Phycology
+
+
+Physchem
+
+
+Physical Sciences Forum
+
+
+Physics
+
+
+Physiologia
+
+
+Plants
+
+
+Plasma
+
+
+Platforms
+
+
+Pollutants
+
+
+Polymers
+
+
+Polysaccharides
+
+
+Poultry
+
+
+Powders
+
+
+Proceedings
+
+
+Processes
+
+
+Prosthesis
+
+
+Proteomes
+
+
+Psych
+
+
+Psychiatry International
+
+
+Psychoactives
+
+
+Publications
+
+
+Quantum Beam Science (QuBS)
+
+
+Quantum Reports
+
+
+Quaternary
+
+
+Radiation
+
+
+Reactions
+
+
+Receptors
+
+
+Recycling
+
+
+Religions
+
+
+Remote Sensing
+
+
+Reports
+
+
+Reproductive Medicine (Reprod. Med.)
+
+
+Resources
+
+
+Rheumato
+
+
+Risks
+
+
+Robotics
+
+
+Ruminants
+
+
+Safety
+
+
+Sci
+
+
+Scientia Pharmaceutica (Sci. Pharm.)
+
+
+Sclerosis
+
+
+Seeds
+
+
+Sensors
+
+
+Separations
+
+
+Sexes
+
+
+Signals
+
+
+Sinusitis
+
+
+Smart Cities
+
+
+ Social Sciences
+
+
+Societies
+
+
+Software
+
+
+Soil Systems
+
+
+Solar
+
+
+Solids
+
+
+Spectroscopy Journal
+
+
+Sports
+
+
+Standards
+
+
+Stats
+
+
+Stresses
+
+
+Surfaces
+
+
+Surgeries
+
+
+Surgical Techniques Development
+
+
+Sustainability
+
+
+Sustainable Chemistry
+
+
+Symmetry
+
+
+SynBio
+
+
+Systems
+
+
+Targets
+
+
+Taxonomy
+
+
+Technologies
+
+
+Telecom
+
+
+Textiles
+
+
+Thalassemia Reports
+
+
+Thermo
+
+
+Tomography
+
+
+Tourism and Hospitality
+
+
+Toxics
+
+
+Toxins
+
+
+Transplantology
+
+
+Trauma Care
+
+
+Trends in Higher Education
+
+
+Tropical Medicine and Infectious Disease (TropicalMed)
+
+
+Universe
+
+
+Urban Science
+
+
+Uro
+
+
+Vaccines
+
+
+Vehicles
+
+
+Venereology
+
+
+Veterinary Sciences
+
+
+Vibration
+
+
+Virtual Worlds
+
+
+Viruses
+
+
+Vision
+
+
+Waste
+
+
+Water
+
+
+Wind
+
+
+Women
+
+
+World
+
+
+World Electric Vehicle Journal (WEVJ)
+
+
+Youth
+
+
+Zoonotic Diseases
+
+
+
+
+
+Article Type
+
+
+All Article Types
+Article
+Review
+Communication
+Editorial
+Book Review
+Brief Report
+Case Report
+Comment
+Commentary
+Concept Paper
+Conference Report
+Correction
+Creative
+Data Descriptor
+Discussion
+Entry
+Essay
+Expression of Concern
+Extended Abstract
+Guidelines
+Hypothesis
+Interesting Images
+Letter
+New Book Received
+Obituary
+Opinion
+Perspective
+Proceeding Paper
+Project Report
+Protocol
+Registered Report
+Reply
+Retraction
+Short Note
+Study Protocol
+Systematic Review
+Technical Note
+Tutorial
+Viewpoint
+
+
+
+ 
+
+
+
+ 
+Advanced Search
+
+
+
+
+
+ 
+
+
+Section
+
+
+
+
+
+
+
+Special Issue
+
+
+
+
+
+
+Volume
+
+
+
+Issue
+
+
+
+Number
+
+
+
+Page
+
+
+
+
+
+
+
+
+
+
+ 
+
+Logical OperatorOperator
+
+AND
+OR
+
+
+
+Search Text
+
+
+
+Search Type
+
+All fields
+Title
+Abstract
+Keywords
+Authors
+Affiliations
+Doi
+Full Text
+References
+
+
+
+ 
+
+
+add_circle_outline
+
+
+
+
+remove_circle_outline
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+Journals
+
+
+Cosmetics
+
+
+Volume 5
+
+
+Issue 2
+
+
+10.3390/cosmetics5020034
+
+
+
+
+
+
+
+
+
+
+
+
+Submit to this Journal
+
+
+Review for this Journal
+
+
+Edit a Special Issue
+
+
+
+
+►
+▼
+Article Menu
+
+
+
+
+Article Menu
+
+
+
+Subscribe SciFeed
+
+
+Recommended Articles
+
+
+Related Info Link
+
+
+
+Google Scholar
+
+
+
+
+
+More by Authors Links
+
+
+
+on DOAJ
+
+
+
+
+McIntosh, K.
+
+
+
+Smith, A.
+
+
+
+Young, L. K.
+
+
+
+Leitch, M. A.
+
+
+
+Tiwari, A. K.
+
+
+
+Reddy, C. M.
+
+
+
+O’Neil, G. W.
+
+
+
+Liberatore, M. W.
+
+
+
+Chandler, M.
+
+
+
+Baki, G.
+
+
+
+
+
+on Google Scholar
+
+
+
+
+McIntosh, K.
+
+
+
+Smith, A.
+
+
+
+Young, L. K.
+
+
+
+Leitch, M. A.
+
+
+
+Tiwari, A. K.
+
+
+
+Reddy, C. M.
+
+
+
+O’Neil, G. W.
+
+
+
+Liberatore, M. W.
+
+
+
+Chandler, M.
+
+
+
+Baki, G.
+
+
+
+
+
+on PubMed
+
+
+
+
+McIntosh, K.
+
+
+
+Smith, A.
+
+
+
+Young, L. K.
+
+
+
+Leitch, M. A.
+
+
+
+Tiwari, A. K.
+
+
+
+Reddy, C. M.
+
+
+
+O’Neil, G. W.
+
+
+
+Liberatore, M. W.
+
+
+
+Chandler, M.
+
+
+
+Baki, G.
+
+
+
+
+
+
+
+
+
+/ajax/scifeed/subscribe
+
+
+
+
+
+
+
+Article Views
+
+
+
+
+
+
+
+Citations
+-
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Altmetric
+
+
+share
+Share
+
+
+announcement
+Help
+
+
+format_quote
+Cite
+
+
+question_answer
+Discuss in SciProfiles
+
+
+thumb_up
+
+...
+
+Endorse
+
+
+textsms
+
+...
+
+Comment
+
+
+
+
+
+Need Help?
+
+
+Support
+
+Find support for a specific problem in the support section of our website.
+
+
+Get Support
+
+
+
+Feedback
+
+Please let us know what you think of our products and services.
+
+
+Give Feedback
+
+
+
+Information
+
+Visit our dedicated information section to learn more about MDPI.
+
+
+Get Information
+
+
+
+
+clear
+
+
+
+
+
+
+
+JSmol Viewer
+
+
+
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+first_page
+
+
+settings
+
+
+Order Article Reprints
+
+
+
+
+
+
+
+Font Type:
+
+
+Arial
+Georgia
+Verdana
+
+
+
+
+
+Font Size:
+
+Aa
+Aa
+Aa
+
+
+
+
+
+
+
+Line Spacing:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Column Width:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Background:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open AccessArticle
+
+Alkenones as a Promising Green Alternative for Waxes in Cosmetics and Personal Care Products 
+
+
+by
+Kyle McIntosh 1, Amber Smith 2, Lisa K. Young 3, Michael A. Leitch 4, Amit K. Tiwari 1, Christopher M. Reddy 5, Gregory W. O’Neil 4, Matthew W. Liberatore 3, Mark Chandler 6 and Gabriella Baki 2,*
+
+
+
+
+
+
+
+1
+Department of Pharmacology and Experimental Therapeutics, College of Pharmacy and Pharmaceutical Sciences, University of Toledo, Toledo, OH 43614, USA
+
+
+2
+Department of Pharmacy Practice, College of Pharmacy and Pharmaceutical Sciences, University of Toledo, Toledo, OH 43614, USA
+
+
+3
+Department of Chemical Engineering, College of Engineering, University of Toledo, Toledo, OH 43606, USA
+
+
+4
+Department of Chemistry, Western Washington University, Bellingham, WA 98225, USA
+
+
+5
+Department of Marine Chemistry and Geochemistry, Woods Hole Oceanographic Institution (WHOI), Woods Hole, MA 02543, USA
+
+
+6
+ACT Solutions Corp, Newark, DE 19713, USA
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+
+Cosmetics 2018, 5(2), 34; https://doi.org/10.3390/cosmetics5020034
+
+
+Received: 18 May 2018
+/
+Revised: 31 May 2018
+/
+Accepted: 2 June 2018
+/
+Published: 5 June 2018
+
+
+(This article belongs to the Special Issue Green Ingredients in Cosmetics and Food)
+
+
+
+
+Download
+
+
+Download PDF
+
+Download PDF with Cover
+
+Download XML
+
+Download Epub
+
+Download Supplementary Material
+
+
+
+Browse Figures
+
+
+
+
+
+
+
+
+
+
+
+
+
+Versions Notes
+
+
+
+
+
+
+
+
+Abstract:
+The move toward green, sustainable, natural products has been growing in the cosmetic and personal care industry. Ingredients derived from marine organisms and algae are present in many cosmetic products. In this study, a new green ingredient, a wax (i.e., long-chain alkenones) derived from Isochyrsis sp., was evaluated as an alternative for cosmetic waxes. First, the melting point was determined (71.1–77.4 °C), then the alkenones’ thickening capability in five emollients was evaluated and compared to microcrystalline wax and ozokerite. Alkenones were compatible with three emollients and thickened the emollients similarly to the other waxes. Then, lipsticks and lip balms were formulated with and without alkenones. All products remained stable at room temperature for 10 weeks. Lipstick formulated with alkenones was the most resistant to high temperature. Finally, alkenones were compared to three cosmetic thickening waxes in creams. Viscosity, rheology, and stability of the creams were evaluated. All creams had a gel-like behavior. Both viscosity and storage modulus increased in the same order: cream with alkenones < cetyl alcohol < stearic acid < glyceryl monostearate. Overall, alkenones’ performance was comparable to the other three waxes. Alkenones can thus offer a potential green choice as a new cosmetic structuring agent.
+
+
+Keywords: alkenones; Isochrysis sp.; lipstick; lip balm; emulsion; cosmetic; personal care; skin care
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Graphical Abstract
+
+
+
+
+
+
+
+
+
+ 1. IntroductionThe personal care market has been continuously undergoing various trends in response to consumers’ demands. The move toward green, sustainable, natural products has been growing in recent decades [1]. Sustainability and naturalism have come to the forefront in the cosmetic and personal care industry [2]. While the overall market for cosmetics in the United States is experiencing a slower growth, in the range of 1–3%, the sector of cosmetics making environmental, natural or organic claims is projected to experience double-digit growth for the foreseeable future [1,3]. Green claims have become very popular in all marketing channels, from prestige to drug stores. Ingredients derived from plants, marine organisms, algae, yeasts, enzymes, and bacteria are present in many cosmetic products [4,5,6]. A select few strains of marine microalgae, including Isochrysis sp. (Chromista, Haptophyta), produce high-melting (~70 °C) lipids known as long-chain alkenones (Figure 1) [7]. In this study, we focused on Isochrysis as it is one of only a few algal species with a history of industrial cultivation, harvested as a primary component of shellfish feed [8]. Alkenones, therefore, represent a potentially abundant and renewable resource available from common algae, with a history of large-scale production [9]. Isochrysis species have been noted for their high lipid content [10], and potential application in cosmetic and personal care products [11,12,13]. The high-melting lipids, being naturally sourced (i.e., green and non-GMO) and sustainable, may be of interest to the cosmetic and personal care industry.Alkenones structures are characterized by very long hydrocarbon chains (i.e., 36–40 carbons), approximately twice as long as typical fatty acids as in Figure 1a. Alkenones contain trans double bonds and a methyl or ethyl ketone [14]. Alkenones are off-white waxy solids at room temperature (Figure 1b). Alkenones may serve as a viable alternative for commonly used waxes in cosmetic and personal care products. Waxes, such as candelilla wax, microcrystalline wax, and carnauba wax are widely used as structurants in lip products, such as lip balms and lipsticks, and as thickeners in skin creams. In the last two decades, there has been a shortage of candelilla wax on the market due to climatic factors. According to forecasts [15], candelilla wax supply and, therefore, the price will continue to fluctuate. As a result, there is a high demand for suitable alternatives in lipsticks and lip balms [16,17]. The alkenones may offer a more reliable supply source for formulators.Today, microalgae are considered sustainable natural sources for the production of a wide range of molecules with varying application fields. Lipids obtained from microalgae have received increasing interest during the last decade and have been widely studied for biodiesel production [18,19], potential pharmaceutical application [20,21], as animal food [22], and nutraceuticals [23]. However, the application of alkenones has not yet been explored in cosmetic and personal care products. In this study, alkenones sourced from commercially available Isochrysis biomass were evaluated for their potential application in lipsticks, lip balms and skin creams.  2. Materials and Methods 2.1. MaterialsThe marine microalgae Isochrysis was purchased from Necton S.A. (Olhão, Portugal). Alkenones were isolated and purified from the Isochrysis biomass as previously described [8]. Microcrystalline wax, ozokerite, castor oil, triglyceride, isoeicosane, meadowfoam seed oil, lanolin alcohol, candelilla wax, carnauba wax, Red 7, mica pearl white, tocopherol, petrolatum, jojoba oil, almond oil, avocado butter, and xanthan gum were purchased from Making Cosmetics (Snoqualmie, WA, USA). The following ingredients were received as gifts: hexamethyldisiloxane (Dow Corning, Midland, MI, USA); isohexadecane (Presperse, Somerset, NJ, USA); isopropyl stearate (Lubrizol, Wickliffe, OH, USA); C12-15 alkyl benzoate (Phoenix Chemical, Calhoun, GA, USA); ethylhexyl methoxycinnamate and Germaben II (INCI: Propylene glycol, diazolidinyl urea, methylparaben, and propylparaben; Ashland, Covington, KY, USA); propanediol (DuPont Tate & Lyle Bio Products, Loudon, TN, USA); sorbitan oleate, polysorbate 80, and cetyl alcohol (Croda, Edison, NJ, USA), stearic acid (Acme Hardesty, Blue Bell, PA, USA), and glyceryl monostearate (Corbion, Lenexa, KS, USA). All ingredients were of cosmetic grade. 2.2. Methods 2.2.1. Determination of SolubilityFormulating for EfficacyTM (ACT Solutions Corp, Kirkwood, DE, USA), hereinafter referred to as ‘FFE’, is an in silico modeling software used in the cosmetic and personal care and the pharmaceutical industry in formulation design. In this project, FFE was utilized to predict the solubility of alkenones based on Hansen Solubility Parameters (HSPs) in a variety of solvents. Solubility was necessary information for later steps of this study. In order to add ingredients to FFE, we created their simplified molecular-input line-entry system (SMILES), as this information was not available in the published literature or chemical databases (e.g., PubChem). ChemDraw (Release 15.0, CambridgeSoft, Waltham, MA, USA), a molecule editing software, was used to create the SMILES.  2.2.2. Melting Point DeterminationMelting point was determined using differential scanning calorimetry (DSC) analysis. Using a Mettler MT 5 microbalance (Mettler Toledo, Columbus, OH, USA), a 6-mg sample was sealed in an aluminum crucible. A pinhole was created on the lid of the crucible to vent gas buildup. DSC was performed at a 10 °C/min ramp from 0–400 °C using a DSC 822e instrument (Mettler Toledo, Columbus, OH, USA) attached to a F25-ME refrigerated/heating circulator (Julabo, Allentown, PA, USA). Nitrogen gas was purged at a rate of 10 mL/min. TA Universal analysis software was used to obtain the scans. 2.2.3. Thickening Capability TestThis test was used to determine how alkenones thicken emollients commonly used in personal care and makeup product formulations. In order to select comparators for alkenones, a literature search was done on the melting point of various, commonly used waxes. The ones with melting points close to that of the alkenones were tested with the above-mentioned DSC method to confirm the melting range. Two waxes with similar melting ranges, microcrystalline wax and ozokerite, were identified as good comparators. The melting point peak was 69 °C for microcrystalline wax, and 74 °C for ozokerite.Solvents identified by FFE were used in this test. To evaluate the thickening of the waxes, 9.0 g of solvent was weighed on an analytical balance with an accuracy of 0.001 g into a 25-mL glass beaker. The solvent, while covered with aluminum foil to avoid evaporation, was heated approximately 5 °C above the melting point of the particular wax. When the solvent reached the desired temperature, it was removed from the heat, and 1.0 g of the wax was added to the solvent. Mixing continued until room temperature was reached. The mixture was then reweighed and the evaporated solvent was replaced. The beaker was left covered with a piece of aluminum foil overnight. The stability of the mixture was checked the following day, and if it remained stable, viscosity was measured. Stability was qualitatively assessed based on signs of separation and any visible change in color. A Brookfield viscometer DV-I (Brookfield Engineering Laboratories, Middleboro, MA, USA) was used with a concentric cylinder spindle (#21) and a small sample adapter to determine the viscosity of the different wax-solvent mixtures. The tests were performed at 21 °C. The spindle was rotated from 0–100 rpm. All measurements were done in triplicate. 2.2.4. Lipstick and Lip Balm FormulationBased on the melting-point determination, microcrystalline wax and ozokerite were selected to be used as comparators for the alkenones. A lipstick formula (Table 1) and a lip balm formula (Table 2) containing both microcrystalline wax and ozokerite were selected with the purpose that the alkenones would be tested as an alternative for either microcrystalline wax or ozokerite. This way, both the compatibility of the various waxes and the suitability of the alkenones in a lipstick/lip balm formula could be tested.For the lipstick, phase A was added to a glass beaker and heated to 80 °C to melt the waxes. The pigment dispersion in Phase B was prepared using an EXACT three-roll mill (EXACT Technologies, Inc, Oklahoma City, OK, USA). Ingredients of Phase B were added to melted phase A one-by-one and mixed until the color was uniform. Then the mixture was removed from heat. Phase C was added to phase A/B, and the mixture was poured into a metal lipstick mold while still hot. When settled, the sticks were topped off. The mold then was put into the refrigerator for 15 min. The lipsticks were then removed from the mold and inserted into plastic lipstick cases. For the lip balm, phase A was heated to 80 °C while mixing until all ingredients were melted. Then the mixture was removed from the heat and phase B was added with mixing until a homogenous mixture was obtained. The mixture was then poured into lip balm tubes. 2.2.5. Cream FormulationFour oil-in-water (O/W) emulsions were formulated. One contained the alkenones, while the other three were formulated with commonly used waxes as comparators for the alkenones. The comparator waxes were cetyl alcohol, stearic acid, and glyceryl monostearate. The waxes acted as thickeners in the oil phase. The composition of the creams can be found in Table 3.All four creams were formulated identically. First, water was heated to 80 °C. Xanthan gum was mixed with propanediol to form a slurry. This slurry was added to the water. The oil phase (i.e., phase B) was combined in a separate beaker and heated to 80 °C. When both phases reached the same temperature, the oil phase was added to the water phase with propeller mixing. The emulsion was briefly homogenized, then it was removed from the heat. The emulsion was allowed to cool with continuous propeller stirring, and phase C was added when the emulsion reached 45 °C. The emulsion was allowed to cool to room temperature under continuous mixing. Water loss was checked by weighing the creams and evaporated water was replaced. The emulsion was mixed again and was then homogenized for 10 s. Then, each cream was stored in plastic jars. 2.2.6. Viscosity, Thixotropy, and RheologyRheological properties and viscosity of the emulsions were evaluated using a Discovery hybrid rheometer DHR-3 (TA Instruments, New Castle, DE, USA). A 40 mm 2° cone and plate geometry at 25.0 ± 0.1 °C was used to test samples of ~0.8 mL. The shear rates ranged from 0.1–100 s−1 in steady state flow for viscosity and thixotropy measurements. Dynamic viscoelasticity was measured as a function of frequency in the linear viscoelastic region (LVE).First, the LVE range was determined with an amplitude sweep [24]. The amplitude sweep helps establish the extent of the material’s linearity. Below the critical stress level, the structure is intact, and G’ (storage modulus) and G” (loss modulus) remain constant. Increasing the stress above the critical stress level disrupts the network structure. Above the critical stress, the material’s behavior is non-linear and G’ usually declines. After the LVE was defined, a frequency sweep at an oscillation stress below the critical value was performed. The frequency sweep provides more information about the effect of colloidal forces, type of network structure in the cream and the interactions among droplets [24,25]. 2.2.7. Liquid Crystalline StructureOleosomes are liquid crystal regions that form around the oil drops in an emulsion [26]. These are multilayers of lamellar liquid crystals surrounding the oil droplets that become randomly distributed as they progress into the continuous phase. The rest of the liquid crystals produce the “gel” phase that is viscoelastic [27]. The creams were observed with a polarized light microscope (Accu-Scope® 3000 LED, Accu-Scope, Commack, NY, USA). For the microscopic evaluation, a small amount of each emulsion was placed on a microscopic slide and quickly covered with a cover slip. The sample was finger pressed to spread and create a cream layer as thin as possible. A 40× objective lens was used with cross polarizers in a bright field to detect birefringence. Detecting optical linear birefringence has been a standard tool in studying the anisotropic properties of materials for nearly two centuries [28]. Birefringence can be detected using a polarized light microscope. The sample is placed between two polarizers oriented with their planes of vibration being mutually perpendicular. When an isotropic sample is placed between crossed polars, the state of the polarization of light is unchanged and in theory, no light is transmitted through the optical system. The light can only be transmitted if the state of polarization is changed, i.e., the sample is birefringent [28]. Oleosomes appear under optical microscopy as “Maltese crosses” [29]. 2.2.8. Stability TestingStability of the lipsticks, lip balms and creams were monitored at two temperatures, room temperature (25 °C) and an elevated temperature (45 °C) in stability cabinets for 10 weeks. Samples were checked visually at weeks 1, 2, 4, 6, 8, and 10. Lipsticks and lip balms were assessed in their final containers. Samples of creams were placed into 1.5-mL centrifuge tubes, and those tubes were placed into stability cabinets.  3. Results and Discussions 3.1. Determination of Solubility and Thickening Capability TestThe three individual alkenones and a mixture of them described by O’Neil et al. [9] were entered into FFE to generate HSPs based on the SMILES. Additionally, FFE was used to calculate the molar volume (MVol), Ingredient-Skin Gap value (ISG), Solubility in Skin (SolS), and LogK. The individual components and the overall alkenones blend had a high MVol (Table 4), which is expected considering the composition of the alkenones (ref. Figure 1). The Ingredient-Skin Gap (ISG) refers to the compatibility of the ingredient with the stratum corneum (i.e., the outer layer of the epidermis). The smaller the ISG is, the more compatible the ingredient is with the stratum corneum and the greater the likelihood the ingredient can penetrate the skin (the MVol also plays an essential role in determining skin penetration) [30]. All three individual alkenones and the mixture are on the higher end of the scale (certain ingredients have an ISG as low as 2). SolS refers to the solubility in the skin, which is estimated from the HSP distance. The alkenones have a low SolS value. A proper formulation strategy can be put together with either lower or higher SolS. LogK refers to the octanol/water partitioning coefficient of an ingredient. LogK is not used in further FFE calculations. The solubility of alkenones was predicted by FFE in the 53 solvents found in FFE. Solubility predictions were based on the HSPs. Out of solvents deemed “good” by FFE for alkenones, five were selected for the thickening capability test. These five solvents were: hexamethyldisiloxane, isohexadecane, isopropyl isostearate, C12-15 alkyl benzoate, and ethylhexyl methoxycinnamal. Figure S1 shows the Hansen Space of the alkenones, the five emollients, and the skin. All five emollients are located close to the alkenones in the Hansen Space indicating that they are good solvents for the alkenones. The main groups of emollients commonly used in personal care and makeup applications include silicones, hydrocarbons, and esters. We selected a silicone, a hydrocarbon, a light ester and a heavier ester in terms of skin feel. The fifth ingredient selected was a liquid sunscreen (ethylhexyl methoxycinnamal). We selected a sunscreen as a solvent because we wanted to explore the thickening capability of the alkenones in a liquid organic sunscreen.The alkenones were incompatible with the liquid silicone (hexamethyldisiloxane) and the hydrocarbon (isohexadecane), these solvent-wax mixtures separated into two layers overnight. The alkenones were compatible with the rest of the solvents, and no signs of separation were observed at room temperature within 24 h. Incompatibility may result from a more complex interaction between solvents and waxes. The selected solvents are very different in structure; therefore, it would be predicted that the different waxes interacted differently with the different solvents. We cannot expect to see a general pattern in solvent-wax compatibility due to the possible interactions. All mixtures had a shear thinning behavior. This is characteristic of microcrystalline wax and ozokerite; therefore, this type of behavior was expected from the alkenones as well. The majority of cosmetic and personal care products are shear thinning; therefore, a wax providing such a behavior is desireable. Viscosity data is shown in Figure 2. When analyzing the viscosity data, a single shear rate (s−1) was selected where we had a reliable reading for all three waxes, and the viscosity was compared at this shear rate in order to put viscosity into perspective.Again, with the possible interactions between the components, we cannot expect to see a clear pattern for the viscosity values. The alkenones thickened the three solvents in a similar fashion as the other two waxes, and viscosities were comparable. The fact that the alkenones remained stable with the liquid sunscreen, and also that it could thicken the liquid sunscreen effectively is very promising. It has been reported that having a thick and even layer of sunscreen on the skin is essential to provide the claimed SPF [31,32]. The viscosity data indicate that the alkenones were highly effective in thickening the liquid sunscreen (ethylhexyl methoxycinnamate). 3.2. Melting Point DeterminationThe melting point of the alkenones was within the range of 71.1–77.4 °C. The DSC thermogram exhibited a sharp characteristic endothermic melting peak at 73.8 °C. Examples of waxes commonly used in cosmetic and personal care products include beeswax, candelilla wax, carnauba wax, castor wax, lanolin alcohol, sunflower wax, ozokerite and microcrystalline wax. The melting point of these waxes ranged from 61–89 °C. The alkenones’ melting point range falls into this range, making them a viable candidate as a cosmetic wax. 3.3. Lipstick and Lip Balm StabilityThe surface of the lipsticks and lip balms formulated with the alkenones (i.e., Lipsticks 2 and 3, and Lip Balms 2 and 3) was more matte than that of the lipstick and lip balm made without the alkenones (i.e., Lipstick 1 and Lip Balm 1). The matte finish was probably the result of an interaction between the emollients and the wax. If a shiny finish is desired for a lipstick or lip balm, the emollients could be substituted with other types of emollients. In this study, we were not optimizing the formula to a shiny or matte finish; we chose a relatively simple starting formula that contained all the waxes of interest and formulated the products.The color was uniform for all lipsticks. The various waxes were compatible with one another. The alkenones were compatible with the rest of the ingredients as well, and no visible changes were observed during the course of the stability study. The lipsticks showed no signs of change at room temperature during the 10 weeks (Table S1). The first sign of instability was observed at Week 4 at an elevated temperature when Lipstick 1 and 2 had signs of sweating. Sweating is a quality problem when oil droplets appear on the surface of the stick. The cause of the problem may be an incompatibility between individual ingredients in the formulation, imbalanced composition such as high oil content, or inferior oil-blending capacity of the wax composition [33,34]. At Week 10, at high temperature, Lipsticks 1 and 2 were considered unstable as they had signs of severe sweating. Lipstick 3 showed no signs of sweating, even at Week 10 at elevated temperature, making it the most resistant formulation to high temperature. For the lip balms, the first signs of a slight change were observed at Week 2. Lip Balm 2 (i.e., made with microcrystalline wax and the alkenones) was softer than the other two balms at 25 °C and was extremely soft, especially at the center of the balm, at 45 °C. This softness was considered a sign of instability. A lip balm that cannot hold its shape at room temperature and higher temperature is unlikely to pass quality testing. When twisting the lip balm upwards, as one would do to apply the lip balm to the lips, the balm did not hold its shape; it was a semi-solid greasy mass. Lip balms are expected to have a certain hardness and resistance to higher temperature in case they are left at elevated temperature, e.g., in the car in the summertime. This behavior of Lip Balm 2 can be explained with the melting point of the waxes. The melting point peak is 68.8 °C for microcrystalline wax, 73.8 °C for the alkenones, and 74.2 °C for ozokerite (measured in-house with the above-described DSC method). The combination of the two lower melting point waxes resulted in a softer product. The difference between the melting point peak of ozokerite and alkenones may be viewed as not significant, as it is less than 1 °C, but the change in product hardness is noticeable. When looking at product hardness, not only the waxes but the interaction among all ingredients should be taken into account, as an interaction may modify product softness [35]. At elevated temperature, all lip balms were softer starting at Week 1. Higher temperature softens the consistency of the waxes and butters used in the lip balms, making the lip balms softer. These lip balms would probably regain their original hardness if taken out of the stability cabinet and allowed to cool to room temperature. Overall, the stability of the lipsticks and lip balms made with the alkenones was comparable to that of the lipstick and lip balm made without the alkenones. During formulation and stability testing, the sticks and balms were identical and had similar qualities. 3.4. Viscosity, Thixotropy and RheologyAll four creams were opaque/white. The viscosity of each sample is reported at two shear rates (s−1) in Table 5. The two selected shear rates were 1 and 100 s−1, they represent a low shear and a high shear application, respectively, i.e., when a cream is applied to the skin. The viscosity varied more than 10-fold. All four creams contained the same emulsifier system, a combination of polysorbate 80, a nonionic emulsifier with a high HLB value (HLB: 15.0), and sorbitan oleate, a nonionic emulsifier with a low HLB value (HLB: 4.3). As both emulsifiers were liquid ingredients, they did not thicken the emulsions. Differences in flow and viscosity between different creams were due to the different waxes and their ability to thicken the emulsions. All four creams were shear-thinning, as is expected for a cosmetic lotion/cream (Figure 3a). A Power Law model (Viscosity = k × shear raten) fits well for all four creams (using viscosity measurements with increasing shear rate, which is discussed below). Cream 1 had the lowest viscosity, Cream 2 and Cream 3 had very similar viscosities, and Cream 4 had the highest viscosity, which agrees with the k parameter of the Power Law model (Table 5). The shear thinning index, n, varied from 0.14–0.26, which is similar to other personal care products [36,37,38]. Certain creams were thixotropic as well. Thixotropic materials lose structure during shear, which may rebuild upon standing [39]. This behavior is a key factor in the ability of a cosmetic cream to be easily applied to a surface (through structure breakdown in spreading) and then rebuild its structure and viscosity, preventing it from dripping and running after application. To determine whether any of the samples were thixotropic, viscosity was plotted for increasing and decreasing shear rate (Figure 3b). Differences between the up and down curves indicates the extent of the thixotropy. Cream 1—made with the alkenones—was shear-thinning without being thixotropic. The area between the two curves increased in the following order: Cream 2 < Cream 3 < Cream 4. The largest difference in viscosity at 1 s−1 was measured for Cream 4 as 11,500 cP or 60% decrease. Thixotropy was related to the wax. The alkenones did not provide any thixotropic property to Cream 1; however, when combined with another wax, thixotropy could be built into the product, if desired.During the viscoelastic measurements, the sample is not rotated, but an oscillation shear flow is applied. Oscillatory flow may be considered a non-destructive test. G’ describes the elastic behavior of a sample, while G” represents the viscous portion. If G’ is above G”, samples show more elastic or gel-like behavior. In the case of all four creams, G’ > G”, indicating that the formulations were more elastic than viscous, i.e., the creams were gel-like. Cream 4 had the highest G’. Creams exhibiting G’ greater than G’’ may be more stable than formulations with G’’ values higher than G’ since they can recover their structure faster and more efficiently and are less susceptible to gravitational forces that can lead to phase separation of emulsions [40]. An almost constant value of G’ and G” was observed over the entire frequency range with the value of G’ exceeding that of G”. Frequency independence of G’ and G” indicates gel-like behavior for the creams. Overall, both viscosity and G’ increased in the same order: Cream 1 < Cream 2 < Cream 3 < Cream 4 (Table 5). 3.5. Liquid Crystalline StructureThe formation of the liquid crystal structure is the result of an ordered arrangement of the emulsifier, oil and wax molecules at the oil-water interface. The stability of cosmetic emulsions can be increased by forming liquid crystals in the continuous phase.Birefringence was detected in Creams 2–4. No birefringence was observed for Cream 1, suggesting that the alkenones did not produce any liquid crystal structure at the water-oil interface. Fatty acids such as cetyl alcohol and stearic acid are known to form liquid crystalline structures [41]. The alkenones most likely stayed in the oil phase, unlike the other waxes, which migrated to the water-oil interface.  3.6. Cream StabilityThe stability of the samples was evaluated for ten weeks or until any irreversible change was noticed. All samples remained stable at room temperature without any physical signs of instability for ten weeks. At the higher temperature, Cream 1 started to show signs of a reversible separation (creaming) very early in the stability test. Cream 2 started showing signs of creaming at Week 2. Creams 3 and 4 showed irreversible separation at the higher temperature at Week 2, and were therefore considered unstable. 4. ConclusionsTo evaluate how alkenones compared to commonly used waxes, this bio-derived wax was physically characterized and tested for cosmetic and a personal care applications.Our results indicate that the alkenones are promising ingredients for lip products. The melting point of the alkenones is similar to that of commonly used waxes for lip balms and lipsticks. Lipsticks and lip balms prepared with the alkenones remained stable at room temperature for 10 weeks, and at the elevated temperature, they showed similar signs of instability as the lipsticks made without the alkenones. Lip products formulated with the alkenones were more matte than the products formulated without the alkenones. The final product’s finish could be changed by selecting other emollients. Our goal was to evaluate whether a lipstick and lip balm could be successfully formulated with the alkenones. Product optimization was not pursued. We believe that the lip makeup application area should be further investigated more objectively than in the current, qualitative study. Performing stick hardness and breaking strength studies could confirm the great potential of the alkenones for this area with quantitative results.The alkenones had an acceptable performance in emulsions. They did not thicken the emulsions to the same extent as the comparator waxes (i.e., cetyl alcohol, stearic acid and glyceryl monostearate). In terms of viscoelastic behavior, Cream 1 made with the alkenones had a similar rheology as Creams 2–4 (made without the alkenones). A very important characteristic of a successful formulation is product stability. All creams were stable at room temperature for ten weeks, while at elevated temperature Cream 1 was more stable than Creams 3–4. As a future study, we suggest that the alkenones are studied in more detail for sunscreen applications. Waxes are commonly used in sunscreens to thicken products. The alkenones formed a stable mix with the liquid organic sunscreen and thickened the sunscreen quite well. In summary, our results suggest that the alkenones can be a great green choice as a structuring agent for lip products and also for creams, when combined with other waxes. 
+
+
+ Supplementary MaterialsThe following are available online at https://www.mdpi.com/2079-9284/5/2/34/s1, Figure S1: Hansen Space for the alkenones (yellow), five solvents (orange), and skin (green). Table S1: Stability results of lipsticks and lip balms, Table S2: Stability results of creams. Author ContributionsConceptualization, M.C. and G.B.; Formal analysis, M.W.L., M.C. and G.B.; Funding acquisition, G.B.; Investigation, K.M., A.S., L.K.Y. and M.W.L.; Methodology, M.C. and G.B.; Project administration, G.B.; Resources, G.B.; Software, M.C. and G.B.; Supervision, A.K.T., C.M.R., G.W.O., M.W.L. and G.B.; Visualization, M.W.L. and G.B.; Writing—original draft, G.B.; Writing—review & editing, K.M., A.K.T., C.M.R., G.W.O., M.W.L., M.C. and G.B.FundingThis research was funded by the Washington Research Foundation and a private donor from friends of the Woods Hole Oceanographic Institution, grant number N-126478.AcknowledgmentsThe authors would like to thank the raw ingredient suppliers, including Dow Corning, Presperse, Lubrizol, Phoenix Chemical, Ashland, DuPont Tate & Lyle Bio Products, Croda, Acme Hardesty and Corbion, for donating the ingredients. The authors would also like to thank Charisse Montgomery (University of Toledo) for her editorial support.Conflicts of InterestThe authors declare no conflict of interest. The funding sponsors had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, and in the decision to publish the results.ReferencesO’Lenick, A.J., Jr. Naturals and Organics in Cosmetics: Trends and Technology; Allured Business Media: Carol Stream, IL, USA, 2010; pp. 1–5. ISBN 978-1-932633-71-9. [Google Scholar]Sahota, A. Sustainability: How the Cosmetic Industry is Greening Up; John Wiley and Sons: Hoboken, NJ, USA, 2014. [Google Scholar]Organic Cosmetics Market Research. Available online: https://www.cosmeticsandtoiletries.com/networking/news/company/Organic-Cosmetics-Market-Research-372973201.html (accessed on 18 May 2018).Rao, S. Green and sustainable ingredients from biotransformation and biofermentation. In Harry’s Cosmetology, 9th ed.; Rosen, M.R., Ed.; Chemical Publishing Co., Inc.: Los Angeles, CA, USA, 2015; Volume 2, pp. 643–653. ISBN 978-0-8206-01779. [Google Scholar]Pande, A.; Majeed, M. Multi-functional botanicals for topical applications. In Harry’s Cosmetology; Rosen, M.R., Ed.; Chemical Publishing Co., Inc.: Los Angeles, CA, USA, 2015; Volume 2, pp. 655–695. ISBN 978-0-8206-01779. [Google Scholar]Offredo, H. Marine ingredients for skin care: An ocean of resources. In Harry’s Cosmetology; Rosen, M.R., Ed.; Chemical Publishing Co., Inc.: Los Angeles, CA, USA, 2015; Volume 2, pp. 891–907. ISBN 978-0-8206-01779. [Google Scholar]O’Neil, G.W.; Carmichael, C.A.; Goepfert, T.J.; Fulton, J.M.; Knothe, G.; Pui Ling Lau, C.; Lindell, S.R.; Mohammady, N.G.E.; Van Mooy, B.A.S.; Reddy, C.M. Beyond fatty acid methyl esters: Expanding the renewable carbon profile with alkenones from Isochrysis sp. Energy Fuels 2012, 26, 2434–2441. [Google Scholar] [CrossRef]O’Neil, G.W.; Williams, J.R.; Wilson-Peltier, J.; Knothe, G.; Reddy, C.M. Experimental protocol for biodiesel production with isolation of alkenones as coproducts from commercial isochrysis algal biomass. J. Vis. Exp. 2016. [Google Scholar] [CrossRef] [PubMed]O’Neil, G.W.; Williams, J.R.; Craig, A.M.; Nelson, R.K.; Gosselin, K.M.; Reddy, C.M. Accessing monomers, surfactants, and the queen bee substance by acrylate cross-metathesis of long-chain alkenones. J. Am. Oil Chem. Soc. 2017, 94, 831–840. [Google Scholar] [CrossRef]García, J.L.; Vicente, M.D.; Galán, B. Microalgae, old sustainable food and fashion nutraceuticals. Microb. Biotechnol. 2017, 10, 1017–1024. [Google Scholar] [CrossRef] [PubMed]Mata, T.M.; Martins, A.A.; Caetano, N.S. Microalgae for biodiesel production and other applications: A review. Renew. Sustain. Energy Rev. 2010, 14, 217–232. [Google Scholar] [CrossRef]Mourelle, L.M.; Gomez, C.P.; Legido, J.L. The potential use of marine microalgae and cyanobacteria in cosmetics and thalassotherapy. Cosmetics 2017, 4, 46. [Google Scholar] [CrossRef]Widowati, I.; Zainuri, M.; Kusumaningrum, H.P.; Susilowati, R.; Hardivillier, Y.; Leignel, V.; Bourgougnon, N.; Mouget, J.-L. Antioxidant activity of three microalgae Dunaliella salina, Tetraselmis chuii and Isochrysis galbana clone tahiti. IOP Conf. Ser. Earth Environ. Sci. 2017, 55, 1–6. [Google Scholar] [CrossRef]O’Neil, G.W.; Culler, A.R.; Williams, J.R.; Burlow, N.P.; Gilbert, G.J.; Carmichael, C.A.; Nelson, R.K.; Swarthout, R.F.; Reddy, C.M. Production of jet fuel range hydrocarbons as a coproduct of algal biodiesel by butenolysis of long-chain alkenones. Energy Fuels 2015, 29, 922–930. [Google Scholar] [CrossRef]Candelilla Wax and Substitution Options. Available online: https://www.brenntag.com/media/documents/bsi/product_data_sheets/life_science/koster_kuenen_food_waxes/candelilla_wax_alternatives.pdf (accessed on 1 April 2018).Demand for Natural Wax Increases. Available online: https://www.icis.com/resources/news/2008/08/18/9149059/demand-for-natural-wax-increases/ (accessed on 1 Arpil 2018).Global Candelilla Wax Industry 2016 Market Research Report. Available online: http://www.marketresearchstore.com/report/global-candelilla-wax-industry-2016-market-research-report-63520 (accessed on 1 April 2018).Huerlimann, R.; de Nys, R.; Heimann, K. Growth, lipid content, productivity, and fatty acid composition of tropical microalgae for scale-up production. Biotechnol. Bioeng. 2010, 107, 245–257. [Google Scholar] [CrossRef] [PubMed]Silitonga, A.S.; Masjuki, H.H.; Ong, H.C.; Mahlia, T.M.I.; Kusumo, F. Optimization of extraction of lipid from Isochrysis galbana microalgae species for biodiesel synthesis. Energy Source Part A 2017, 39, 1167–1175. [Google Scholar] [CrossRef]Mimouni, V.; Ulmann, L.; Pasquet, V.; Mathieu, M.; Picot, L.; Bougaran, G.; Cadoret, J.P.; Morant-Manceau, A.; Schoefs, B. The potential of microalgae for the production of bioactive molecules of pharmaceutical interest. Curr. Pharm. Biotechnol. 2012, 13, 2733–2750. [Google Scholar] [CrossRef] [PubMed]Durga, J.; Vishakha, J.; Brinda, S.; Anil, K.; Kumar, G.V. Microalgae-based pharmaceuticals and nutraceuticals: An emerging field with immense market potential. ChemBioEng Rev. 2017, 4, 257–272. [Google Scholar] [CrossRef]Volkman, J.K.; Jeffrey, S.W.; Nichols, P.D.; Rogers, G.I.; Garland, C.D. Fatty acid and lipid composition of 10 species of microalgae used in mariculture. J. Exp. Mar. Biol. Ecol. 1989, 128, 219–240. [Google Scholar] [CrossRef]Mimouni, V.; Ulmann, L.; Haimeur, A.; Guéno, F.; Meskini, N.; Tremblin, G. Marine microalgae used as food supplements and their implication in preventing cardiovascular diseases. OCL 2015, 22, D409. [Google Scholar] [CrossRef]Callens, C.; Ceulemans, J.; Ludwig, A.; Foreman, P.; Remon, J.P. Rheological study on mucoadhesivity of some nasal powder formulations. Eur. J. Pharm. Biopharm. 2003, 55, 323–328. [Google Scholar] [CrossRef]Madsen, F.; Eberth, K.; Smart, J.D. A rheological assessment of the nature of interactions between mucoadhesive polymers and a homogenised mucus gel. Biomaterials 1998, 19, 1083–1092. [Google Scholar] [CrossRef]Tadros, T.; Leonard, S.; Taelman, M.; Verboom, C.; Wortel, V. Correlating the structure and rheology of liquid crystalline phases in emulsions. Cosmet. Toilet. 2006, 121, 89–94. [Google Scholar]Tadros, T.T. Formulations: In Cosmetic and Personal Care; de Gruyter: Berlin, Germany, 2016. [Google Scholar]Pajdzik, L.A.; Glazer, A.M. Three-dimensional birefringence imaging with a microscope tilting-stage. I. Uniaxial crystals. J. Appl. Crystallogr. 2006, 39, 326–337. [Google Scholar] [CrossRef]Bioavailability. Available online: https://cosmetic-industry.com/en/bioavailability.html (accessed on 1 May 2018).Wichers, J.; Abbott, S. Formulating for EfficacyTM, Help and Manual. 1.3.07. Available online: https://www.jwsolutionssoftware.com/ (accessed on 5 June 2018).Liu, W.; Wang, X.; Lai, W.; Yan, T.; Wu, Y.; Wan, M.; Yi, J.; Matsui, M.S. Sunburn protection as a function of sunscreen application thickness differs between high and low spfs. Photodermatol. Photoimmunol. Photomed. 2012, 28, 120–126. [Google Scholar] [CrossRef] [PubMed]Teramura, T.; Mizuno, M.; Asano, H.; Naito, N.; Arakane, K.; Miyachi, Y. Relationship between sun-protection factor and application thickness in high-performance sunscreen: Double application of sunscreen is recommended. Clin. Exp. Dermatol. 2012, 37, 904–908. [Google Scholar] [CrossRef] [PubMed]Dweck, A.C.; Burnham, C.A. Moulding techniques in lipstick manufacture: A comparative evaluation. Int. J. Cosmet. Sci. 1980, 2, 143–173. [Google Scholar] [CrossRef] [PubMed]El-Nokaly, M.; Vatter, M.L.; Walling, D.W.; Leatherbury, N.C.; Peterson, C.L. Non-Sweating Lipsticks. U.S. Patent, US5843407A, 18 October 1993. [Google Scholar]Fernandes, A.R.; Dario, M.F.; Pinto, C.A.S.d.O.; Kaneko, T.M.; Baby, A.R.; Velasco, M.V.R. Stability evaluation of organic lip balm. Braz. J. Pharm. Sci. 2013, 49, 293–299. [Google Scholar] [CrossRef]Wei, K.; Thomas, C.; Taylor, R.; Tanner, P.; Stella, Q.; Smith, E.; Clapp, M. Multi-Phase Personal Care Composition. U.S. Patent, US20050100570A1, 1 November 2005. [Google Scholar]Rheology School. Available online: http://www.brookfield.co.uk/education/rheology_papers_benchmark_products.asp#top (accessed on 17 May 2018).Using the Power Law Model to Quantify Shear Thinning Behavior on a Rotational Rheometer. Available online: https://www.azom.com/article.aspx?ArticleID=11624 (accessed on 17 May 2018).Brummer, R. Rheology Essentials of Cosmetic and Food Emulsions; Springer: Berlin, Germany, 2006. [Google Scholar]Alam, M.M.; Aramaki, K. Glycerol effects on the formation and rheology of hexagonal phase and related gel emulsion. J. Colloid Interface Sci. 2009, 336, 820–826. [Google Scholar] [CrossRef] [PubMed]Mcgee, T.; Sgaramella, R.P.; Vedantam, V.K. Preparation of an Emulsion Comprising Lamellar Liquid Crystal (llc) Particles Containing Fragrance. Patent WO2008061384 A1, 29 May 2008. [Google Scholar]
+
+
+
+
+
+
+
+Figure 1.
+(a) Structures of a common alkenone, i.e., 37:2 methyl alkenone, produced by Isochyrsis sp., and a common fatty acid, i.e., 18:2 linoleic acid. Nomenclature for both is # of carbons:# of double bonds; however, note that the configuration and separation of double bonds are different. (b) Alkenones wax.
+
+
+
+
+ Figure 1.
+(a) Structures of a common alkenone, i.e., 37:2 methyl alkenone, produced by Isochyrsis sp., and a common fatty acid, i.e., 18:2 linoleic acid. Nomenclature for both is # of carbons:# of double bonds; however, note that the configuration and separation of double bonds are different. (b) Alkenones wax.
+
+
+
+
+
+
+
+
+
+Figure 2.
+Viscosity of wax-emollient mixtures 24 h after formulation (average ± SD). Viscosities are compared at 9.3 s−1 for emollients 1–4, and at 0.93 s−1 for emollient 5. MW: microcrystalline wax, O: ozokerite, A: alkenones.
+
+
+
+
+ Figure 2.
+Viscosity of wax-emollient mixtures 24 h after formulation (average ± SD). Viscosities are compared at 9.3 s−1 for emollients 1–4, and at 0.93 s−1 for emollient 5. MW: microcrystalline wax, O: ozokerite, A: alkenones.
+
+
+
+
+
+
+
+
+
+Figure 3.
+(a) Viscosity-shear rate data and power law model fitting for the four creams. (b) Viscosity-shear rate data showing the extent of thixotropy in the four creams.
+
+
+
+
+ Figure 3.
+(a) Viscosity-shear rate data and power law model fitting for the four creams. (b) Viscosity-shear rate data showing the extent of thixotropy in the four creams.
+
+
+
+
+
+
+
+
+
+Table 1.
+Lipstick formulas.
+
+
+
+Table 1.
+Lipstick formulas.
+
+INCI NameLipstick 1% (w/w)Lipstick 2% (w/w)Lipstick 3% (w/w)Phase A   Castor oil25.825.825.8Triglyceride16.016.016.0Isoeicosane17.017.017.0Meadowfoam seed oil5.05.05.0Lanolin alcohol5.05.05.0Microcrystalline wax2.02.0-Ozokerite wax5.0-5.0Alkenone wax-5.02.0Candelilla wax7.07.07.0Carnauba wax3.03.03.0Phase B   Red 7 (and) castor oil2.02.02.0Mica pearl white11.011.011.0Phase C   Tocopherol0.20.20.2Propylene glycol (and) diazolidinyl urea (and) methylparaben (and) propylparaben1.01.01.0
+
+
+
+
+
+
+
+
+
+Table 2.
+Lip balm formulas.
+
+
+
+Table 2.
+Lip balm formulas.
+
+INCI NameLip Balm 1% (w/w)Lip Balm 2% (w/w)Lip Balm 3% (w/w)Phase A   Petrolatum45.545.545.5Jojoba oil22.022.022.0Almond oil13.013.013.0Microcrystalline wax8.08.0-Ozokerite8.0-8.0Alkenones-8.08.0Avocado butter3.03.03.0Phase B   Tocopherol0.50.50.5
+
+
+
+
+
+
+
+
+
+Table 3.
+Cream formulas.
+
+
+
+Table 3.
+Cream formulas.
+
+INCI NameCream 1% (w/w)Cream 2% (w/w)Cream 3% (w/w)Cream 4% (w/w)Phase A    Water68.868.868.868.8Propanediol5555Xanthan gum0.20.20.20.2Phase B    Isopropyl isostearate15151515Alkenones5---Cetyl alcohol-5--Stearic acid--5-Glyceryl monostearate---5Sorbitan oleate1.51.51.51.5Polysorbate 803.53.53.53.5Phase C    Propylene glycol (and) Diazolidinyl urea (and) Methyl paraben (and) Propyl paraben1111
+
+
+
+
+
+
+
+
+
+Table 4.
+Parameters calculated by Formulating for EfficacyTM.
+
+
+
+Table 4.
+Parameters calculated by Formulating for EfficacyTM.
+
+IngredientδDδPδHMVolISGSolSLogK37:3 methyl alkenone16.30.62.561357.20.316.8137:2 methyl alkenone16.20.72.262158.80.315.8338:2 ethyl alkenone16.10.82.263860.10.316.27Mixture combined according to [9]16.20.72.362258.50.3-
+
+
+
+
+
+
+
+
+
+Table 5.
+Viscosity and storage modulus (average ± SD) of the creams at room temperature.
+
+
+
+Table 5.
+Viscosity and storage modulus (average ± SD) of the creams at room temperature.
+
+SampleViscosity at 1 s−1 (cP)Viscosity at 100 s−1 (cP)G’ at 10 rad/s (Pa)Cream 11470 ± 1054 ± 111 ± 1Cream 26950 ± 110147 ± 145 ± 10Cream 38460 ± 570169 ± 11560 ± 1100Cream 419,400 ± 2500400 ± 104710 ± 4300
+
+
+© 2018 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+Share and Cite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MDPI and ACS Style
+
+McIntosh, K.; Smith, A.; Young, L.K.; Leitch, M.A.; Tiwari, A.K.; Reddy, C.M.; O’Neil, G.W.; Liberatore, M.W.; Chandler, M.; Baki, G. Alkenones as a Promising Green Alternative for Waxes in Cosmetics and Personal Care Products. Cosmetics 2018, 5, 34.
+https://doi.org/10.3390/cosmetics5020034
+
+
+AMA Style
+
+McIntosh K, Smith A, Young LK, Leitch MA, Tiwari AK, Reddy CM, O’Neil GW, Liberatore MW, Chandler M, Baki G. Alkenones as a Promising Green Alternative for Waxes in Cosmetics and Personal Care Products. Cosmetics. 2018; 5(2):34.
+https://doi.org/10.3390/cosmetics5020034
+
+Chicago/Turabian Style
+
+McIntosh, Kyle, Amber Smith, Lisa K. Young, Michael A. Leitch, Amit K. Tiwari, Christopher M. Reddy, Gregory W. O’Neil, Matthew W. Liberatore, Mark Chandler, and Gabriella Baki. 2018. "Alkenones as a Promising Green Alternative for Waxes in Cosmetics and Personal Care Products" Cosmetics 5, no. 2: 34.
+https://doi.org/10.3390/cosmetics5020034
+
+
+Find Other Styles
+
+
+
+
+
+
+
+
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here.
+
+Article Metrics
+
+
+No
+
+No
+
+
+
+
+Article Access Statistics
+
+For more information on the journal statistics, click here.
+
+Multiple requests from the same IP address are counted as one view.
+
+
+
+
+
+
+
+
+
+Supplementary Material
+
+
+
+
+
+Supplementary File 1:
+
+
+PDF-Document
+
+(PDF, 217 KiB)
+
+
+
+
+
+
+
+
+clear
+
+
+
+
+Zoom
+|
+ Orient 
+|
+ As Lines 
+|
+ As Sticks 
+|
+ As Cartoon 
+|
+ As Surface 
+|
+Previous Scene
+|
+Next Scene
+
+
+
+
+
+
+
+
+
+
+Cite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Export citation file:
+BibTeX |
+EndNote |
+RIS
+
+
+
+
+MDPI and ACS Style
+
+McIntosh, K.; Smith, A.; Young, L.K.; Leitch, M.A.; Tiwari, A.K.; Reddy, C.M.; O’Neil, G.W.; Liberatore, M.W.; Chandler, M.; Baki, G. Alkenones as a Promising Green Alternative for Waxes in Cosmetics and Personal Care Products. Cosmetics 2018, 5, 34.
+https://doi.org/10.3390/cosmetics5020034
+
+
+AMA Style
+
+McIntosh K, Smith A, Young LK, Leitch MA, Tiwari AK, Reddy CM, O’Neil GW, Liberatore MW, Chandler M, Baki G. Alkenones as a Promising Green Alternative for Waxes in Cosmetics and Personal Care Products. Cosmetics. 2018; 5(2):34.
+https://doi.org/10.3390/cosmetics5020034
+
+Chicago/Turabian Style
+
+McIntosh, Kyle, Amber Smith, Lisa K. Young, Michael A. Leitch, Amit K. Tiwari, Christopher M. Reddy, Gregory W. O’Neil, Matthew W. Liberatore, Mark Chandler, and Gabriella Baki. 2018. "Alkenones as a Promising Green Alternative for Waxes in Cosmetics and Personal Care Products" Cosmetics 5, no. 2: 34.
+https://doi.org/10.3390/cosmetics5020034
+
+
+Find Other Styles
+
+
+
+
+
+
+
+
+Note that from the first issue of 2016, this journal uses article numbers instead of page numbers. See further details here.
+
+
+
+
+clear
+
+
+
+
+
+
+
+
+
+
+Cosmetics,
+EISSN 2079-9284,
+Published by MDPI
+
+
+
+RSS
+
+
+Content Alert
+
+
+
+
+
+
+Further Information
+
+
+Article Processing Charges
+
+
+ Pay an Invoice
+
+
+Open Access Policy
+
+
+Contact MDPI
+
+
+Jobs at MDPI
+
+
+
+
+Guidelines
+
+
+For Authors
+
+
+For Reviewers
+
+
+For Editors
+
+
+For Librarians
+
+
+For Publishers
+
+
+For Societies
+
+
+For Conference Organizers
+
+
+
+
+MDPI Initiatives
+
+
+Sciforum
+
+
+MDPI Books
+
+
+Preprints.org
+
+
+Scilit
+
+
+SciProfiles
+
+
+Encyclopedia
+
+
+JAMS
+
+
+Proceedings Series
+
+
+
+
+Follow MDPI
+
+
+LinkedIn
+
+
+Facebook
+
+
+Twitter
+
+
+
+
+
+
+
+Subscribe to receive issue release notifications and newsletters from MDPI journals
+
+
+Acoustics
+Actuators
+Administrative Sciences
+Adolescents
+Advances in Respiratory Medicine
+Aerospace
+Agriculture
+AgriEngineering
+Agrochemicals
+Agronomy
+AI
+Air
+Algorithms
+Allergies
+Alloys
+Analytica
+Analytics
+Anatomia
+Anesthesia Research
+Animals
+Antibiotics
+Antibodies
+Antioxidants
+Applied Biosciences
+Applied Mechanics
+Applied Microbiology
+Applied Nano
+Applied Sciences
+Applied System Innovation
+AppliedChem
+AppliedMath
+Aquaculture Journal
+Architecture
+Arthropoda
+Arts
+Astronomy
+Atmosphere
+Atoms
+Audiology Research
+Automation
+Axioms
+Bacteria
+Batteries
+Behavioral Sciences
+Beverages
+Big Data and Cognitive Computing
+BioChem
+Bioengineering
+Biologics
+Biology
+Biology and Life Sciences Forum
+Biomass
+Biomechanics
+BioMed
+Biomedicines
+BioMedInformatics
+Biomimetics
+Biomolecules
+Biophysica
+Biosensors
+BioTech
+Birds
+Blockchains
+Brain Sciences
+Buildings
+Businesses
+C
+Cancers
+Cardiogenetics
+Catalysts
+Cells
+Ceramics
+Challenges
+ChemEngineering
+Chemistry
+Chemistry Proceedings
+Chemosensors
+Children
+Chips
+CivilEng
+Clean Technologies
+Climate
+Clinical and Translational Neuroscience
+Clinics and Practice
+Clocks & Sleep
+Coasts
+Coatings
+Colloids and Interfaces
+Colorants
+Commodities
+Complications
+Compounds
+Computation
+Computer Sciences & Mathematics Forum
+Computers
+Condensed Matter
+Conservation
+Construction Materials
+Corrosion and Materials Degradation
+Cosmetics
+COVID
+Crops
+Cryptography
+Crystals
+Current Issues in Molecular Biology
+Current Oncology
+Dairy
+Data
+Dentistry Journal
+Dermato
+Dermatopathology
+Designs
+Diabetology
+Diagnostics
+Dietetics
+Digital
+Disabilities
+Diseases
+Diversity
+DNA
+Drones
+Drugs and Drug Candidates
+Dynamics
+Earth
+Ecologies
+Econometrics
+Economies
+Education Sciences
+Electricity
+Electrochem
+Electronic Materials
+Electronics
+Encyclopedia
+Endocrines
+Energies
+Eng
+Engineering Proceedings
+Entropy
+Environmental Sciences Proceedings
+Environments
+Epidemiologia
+Epigenomes
+European Burn Journal
+European Journal of Investigation in Health, Psychology and Education
+Fermentation
+Fibers
+FinTech
+Fire
+Fishes
+Fluids
+Foods
+Forecasting
+Forensic Sciences
+Forests
+Fossils
+Foundations
+Fractal and Fractional
+Fuels
+Future
+Future Internet
+Future Pharmacology
+Future Transportation
+Galaxies
+Games
+Gases
+Gastroenterology Insights
+Gastrointestinal Disorders
+Gastronomy
+Gels
+Genealogy
+Genes
+Geographies
+GeoHazards
+Geomatics
+Geosciences
+Geotechnics
+Geriatrics
+Gout, Urate, and Crystal Deposition Disease
+Grasses
+Hardware
+Healthcare
+Hearts
+Hemato
+Hematology Reports
+Heritage
+Histories
+Horticulturae
+Hospitals
+Humanities
+Humans
+Hydrobiology
+Hydrogen
+Hydrology
+Hygiene
+Immuno
+Infectious Disease Reports
+Informatics
+Information
+Infrastructures
+Inorganics
+Insects
+Instruments
+International Journal of Environmental Research and Public Health
+International Journal of Financial Studies
+International Journal of Molecular Sciences
+International Journal of Neonatal Screening
+International Journal of Plant Biology
+International Journal of Translational Medicine
+International Journal of Turbomachinery, Propulsion and Power
+International Medical Education
+Inventions
+IoT
+ISPRS International Journal of Geo-Information
+J
+Journal of Ageing and Longevity
+Journal of Cardiovascular Development and Disease
+Journal of Clinical & Translational Ophthalmology
+Journal of Clinical Medicine
+Journal of Composites Science
+Journal of Cybersecurity and Privacy
+Journal of Developmental Biology
+Journal of Experimental and Theoretical Analyses
+Journal of Functional Biomaterials
+Journal of Functional Morphology and Kinesiology
+Journal of Fungi
+Journal of Imaging
+Journal of Intelligence
+Journal of Low Power Electronics and Applications
+Journal of Manufacturing and Materials Processing
+Journal of Marine Science and Engineering
+Journal of Molecular Pathology
+Journal of Nanotheranostics
+Journal of Nuclear Engineering
+Journal of Otorhinolaryngology, Hearing and Balance Medicine
+Journal of Personalized Medicine
+Journal of Respiration
+Journal of Risk and Financial Management
+Journal of Sensor and Actuator Networks
+Journal of Theoretical and Applied Electronic Commerce Research
+Journal of Vascular Diseases
+Journal of Xenobiotics
+Journal of Zoological and Botanical Gardens
+Journalism and Media
+Kidney and Dialysis
+Kinases and Phosphatases
+Knowledge
+Land
+Languages
+Laws
+Life
+Liquids
+Literature
+Livers
+Logics
+Logistics
+Lubricants
+Lymphatics
+Machine Learning and Knowledge Extraction
+Machines
+Macromol
+Magnetism
+Magnetochemistry
+Marine Drugs
+Materials
+Materials Proceedings
+Mathematical and Computational Applications
+Mathematics
+Medical Sciences
+Medical Sciences Forum
+Medicina
+Medicines
+Membranes
+Merits
+Metabolites
+Metals
+Meteorology
+Methane
+Methods and Protocols
+Metrology
+Micro
+Microbiology Research
+Micromachines
+Microorganisms
+Microplastics
+Minerals
+Mining
+Modelling
+Molbank
+Molecules
+Multimodal Technologies and Interaction
+Muscles
+Nanoenergy Advances
+Nanomanufacturing
+Nanomaterials
+NDT
+Network
+Neuroglia
+Neurology International
+NeuroSci
+Nitrogen
+Non-Coding RNA
+Nursing Reports
+Nutraceuticals
+Nutrients
+Obesities
+Oceans
+Onco
+Optics
+Oral
+Organics
+Organoids
+Osteology
+Oxygen
+Parasitologia
+Particles
+Pathogens
+Pathophysiology
+Pediatric Reports
+Pharmaceuticals
+Pharmaceutics
+Pharmacoepidemiology
+Pharmacy
+Philosophies
+Photochem
+Photonics
+Phycology
+Physchem
+Physical Sciences Forum
+Physics
+Physiologia
+Plants
+Plasma
+Platforms
+Pollutants
+Polymers
+Polysaccharides
+Poultry
+Powders
+Proceedings
+Processes
+Prosthesis
+Proteomes
+Psych
+Psychiatry International
+Psychoactives
+Publications
+Quantum Beam Science
+Quantum Reports
+Quaternary
+Radiation
+Reactions
+Receptors
+Recycling
+Religions
+Remote Sensing
+Reports
+Reproductive Medicine
+Resources
+Rheumato
+Risks
+Robotics
+Ruminants
+Safety
+Sci
+Scientia Pharmaceutica
+Sclerosis
+Seeds
+Sensors
+Separations
+Sexes
+Signals
+Sinusitis
+Smart Cities
+Social Sciences
+Societies
+Software
+Soil Systems
+Solar
+Solids
+Spectroscopy Journal
+Sports
+Standards
+Stats
+Stresses
+Surfaces
+Surgeries
+Surgical Techniques Development
+Sustainability
+Sustainable Chemistry
+Symmetry
+SynBio
+Systems
+Targets
+Taxonomy
+Technologies
+Telecom
+Textiles
+Thalassemia Reports
+Thermo
+Tomography
+Tourism and Hospitality
+Toxics
+Toxins
+Transplantology
+Trauma Care
+Trends in Higher Education
+Tropical Medicine and Infectious Disease
+Universe
+Urban Science
+Uro
+Vaccines
+Vehicles
+Venereology
+Veterinary Sciences
+Vibration
+Virtual Worlds
+Viruses
+Vision
+Waste
+Water
+Wind
+Women
+World
+World Electric Vehicle Journal
+Youth
+Zoonotic Diseases
+
+
+Subscribe
+
+
+
+
+
+
+
+© 1996-2023 MDPI (Basel, Switzerland) unless otherwise stated
+
+
+
+Disclaimer
+
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely
+those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or
+the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas,
+methods, instructions or products referred to in the content.
+
+
+Terms and Conditions
+
+
+Privacy Policy
+
+
+
+
+
+
+
+We use cookies on our website to ensure you get the best experience.
+Read more about our cookies here.
+
+
+Accept
+
+
+
+
+
+
+Share Link
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy
+
+
+
+clear
+
+
+
+
+
+Share
+
+
+
+
+
+https://www.mdpi.com/301312
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear
+
+
+Back to TopTop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,5113 @@
+Document Name: role of Imwitor 370 (Glyceryl Stearate Citrate) in Eye Cream1
+Document link: https://patents.google.com/patent/US8084507B2/en
+
+
+
+US8084507B2 - Cosmetic O/W emulsion comprising 1,2-hexanediol 
+        - Google Patents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+US8084507B2 - Cosmetic O/W emulsion comprising 1,2-hexanediol 
+        - Google Patents
+Cosmetic O/W emulsion comprising 1,2-hexanediol 
+       
+
+Download PDF
+Info
+
+Publication number
+US8084507B2
+
+
+
+US8084507B2
+US11/585,244
+US58524406A
+US8084507B2
+US 8084507 B2
+US8084507 B2
+US 8084507B2
+ 
+ 
+ 
+US 58524406 A
+US58524406 A
+US 58524406A
+US 8084507 B2
+US8084507 B2
+US 8084507B2
+Authority
+US
+United States
+Prior art keywords
+emulsion
+weight
+hexanediol
+oil
+water
+Prior art date
+2005-10-25
+Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)
+
+Active, expires 2028-07-22
+
+
+Application number
+US11/585,244
+Other versions
+
+
+US20070092542A1
+      (en
+
+
+Inventor
+Svea Behrens
+Andreas Bleckmann
+Rainer Kroepke
+Uta Meiring
+Jens Nielsen
+Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)
+
+    Beiersdorf AG
+  
+Original Assignee
+Beiersdorf AG
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+2005-10-25
+Filing date
+2006-10-24
+Publication date
+2011-12-27
+
+
+Priority claimed from DE102005051864
+external-priority
+
+
+2006-10-24
+Application filed by Beiersdorf AG
+filed
+Critical
+Beiersdorf AG
+
+
+2006-12-13
+Assigned to BEIERSDORF AG
+reassignment
+BEIERSDORF AG
+ASSIGNMENT OF ASSIGNORS INTEREST (SEE DOCUMENT FOR DETAILS).
+Assignors: BEHRENS, SVEA, BLECKMANN, ANDREAS, MEIRING, UTA, KROEPKE, RAINER, NIELSEN, JENS
+
+
+2007-04-26
+Publication of US20070092542A1
+publication
+Critical
+patent/US20070092542A1/en
+
+
+2011-12-27
+Application granted
+granted
+Critical
+
+
+2011-12-27
+Publication of US8084507B2
+publication
+Critical
+patent/US8084507B2/en
+
+
+Status
+Active
+legal-status
+Critical
+Current
+
+
+2028-07-22
+Adjusted expiration
+legal-status
+Critical
+
+Links
+
+
+
+USPTO
+
+
+
+USPTO PatentCenter
+
+
+
+USPTO Assignment
+
+
+
+Espacenet
+
+
+
+Global Dossier
+
+
+
+Discuss
+
+
+
+
+229940015975
+1,2-hexanediol
+Drugs
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+52
+
+
+FHKSXSQHXQEMOK-UHFFFAOYSA-N
+hexane-1,2-diol
+Chemical compound
+
+
+CCCCC(O)CO
+FHKSXSQHXQEMOK-UHFFFAOYSA-N
+0.000
+title
+claims
+abstract
+description
+52
+
+
+239000002537
+cosmetic
+Substances
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+30
+
+
+239000000839
+emulsion
+Substances
+
+
+
+
+0.000
+title
+claims
+description
+182
+
+
+239000007764
+o/w emulsion
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+26
+
+
+239000003995
+emulsifying agent
+Substances
+
+
+
+
+0.000
+claims
+description
+56
+
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+
+
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+claims
+description
+36
+
+
+NKEQOUMMGPBKMM-UHFFFAOYSA-N
+2-hydroxy-2-[2-(2-hydroxy-3-octadecanoyloxypropoxy)-2-oxoethyl]butanedioic acid
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OCC(O)COC(=O)CC(O)(C(O)=O)CC(O)=O
+NKEQOUMMGPBKMM-UHFFFAOYSA-N
+0.000
+claims
+description
+16
+
+
+ZAKOWWREFLAJOT-CEFNRUSXSA-N
+D-Î±-tocopherylacetate
+Chemical compound
+
+
+CC(=O)OC1=C(C)C(C)=C2O[C@@](CCC[C@H](C)CCC[C@H](C)CCCC(C)C)(C)CCC2=C1C
+ZAKOWWREFLAJOT-CEFNRUSXSA-N
+0.000
+claims
+description
+16
+
+
+RFVNOJDQRGSOEL-UHFFFAOYSA-N
+Glycol stearate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OCCO
+RFVNOJDQRGSOEL-UHFFFAOYSA-N
+0.000
+claims
+description
+14
+
+
+229920002701
+Polyoxyl 40 Stearate
+Polymers
+
+
+
+
+0.000
+claims
+description
+14
+
+
+RMTFNDVZYPHUEF-XZBKPIIZSA-N
+3-O-methyl-D-glucose
+Chemical compound
+
+
+O=C[C@H](O)[C@@H](OC)[C@H](O)[C@H](O)CO
+RMTFNDVZYPHUEF-XZBKPIIZSA-N
+0.000
+claims
+description
+12
+
+
+LXCFILQKKLGQFO-UHFFFAOYSA-N
+Methylparaben
+Chemical compound
+
+
+COC(=O)C1=CC=C(O)C=C1
+LXCFILQKKLGQFO-UHFFFAOYSA-N
+0.000
+claims
+description
+12
+
+
+KRKNYBCHXYNGOX-UHFFFAOYSA-N
+citric acid
+Chemical compound
+
+
+OC(=O)CC(O)(C(O)=O)CC(O)=O
+KRKNYBCHXYNGOX-UHFFFAOYSA-N
+0.000
+claims
+description
+12
+
+
+QCDWFXQBSFUVSP-UHFFFAOYSA-N
+Phenoxyethanol
+Chemical compound
+
+
+OCCOC1=CC=CC=C1
+QCDWFXQBSFUVSP-UHFFFAOYSA-N
+0.000
+claims
+description
+8
+
+
+229960005323
+Phenoxyethanol
+Drugs
+
+
+
+
+0.000
+claims
+description
+8
+
+
+150000001280
+alpha hydroxy acids
+Chemical class
+
+
+
+
+0.000
+claims
+description
+8
+
+
+239000000126
+substance
+Substances
+
+
+
+
+0.000
+claims
+description
+8
+
+
+229940061720
+Alpha Hydroxy Acids
+Drugs
+
+
+
+
+0.000
+claims
+description
+6
+
+
+QELSKZZBTMNZEB-UHFFFAOYSA-N
+Propylparaben
+Chemical compound
+
+
+CCCOC(=O)C1=CC=C(O)C=C1
+QELSKZZBTMNZEB-UHFFFAOYSA-N
+0.000
+claims
+description
+6
+
+
+150000002009
+diols
+Chemical class
+
+
+
+
+0.000
+claims
+description
+6
+
+
+235000010270
+methyl p-hydroxybenzoate
+Nutrition
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000004292
+methyl p-hydroxybenzoate
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+229960002216
+methylparaben
+Drugs
+
+
+
+
+0.000
+claims
+description
+6
+
+
+235000010232
+propyl p-hydroxybenzoate
+Nutrition
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000004405
+propyl p-hydroxybenzoate
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+229960003415
+propylparaben
+Drugs
+
+
+
+
+0.000
+claims
+description
+6
+
+
+150000003839
+salts
+Chemical class
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000011780
+sodium chloride
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+KRKNYBCHXYNGOX-UHFFFAOYSA-K
+2qpq
+Chemical compound
+
+
+[O-]C(=O)CC(O)(CC([O-])=O)C([O-])=O
+KRKNYBCHXYNGOX-UHFFFAOYSA-K
+0.000
+claims
+description
+4
+
+
+229940080340
+SODIUM DIHYDROXYCETYL PHOSPHATE
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+NMGWQUXHHVHKRW-UHFFFAOYSA-L
+disodium;1,1-dihydroxyhexadecyl phosphate
+Chemical compound
+
+
+[Na+].[Na+].CCCCCCCCCCCCCCCC(O)(O)OP([O-])([O-])=O
+NMGWQUXHHVHKRW-UHFFFAOYSA-L
+0.000
+claims
+description
+4
+
+
+JVTAAEKCZFNVCJ-UHFFFAOYSA-M
+lactate
+Chemical compound
+
+
+CC(O)C([O-])=O
+JVTAAEKCZFNVCJ-UHFFFAOYSA-M
+0.000
+claims
+description
+4
+
+
+JVTAAEKCZFNVCJ-UHFFFAOYSA-N
+lactic acid
+Chemical compound
+
+
+CC(O)C(O)=O
+JVTAAEKCZFNVCJ-UHFFFAOYSA-N
+0.000
+claims
+description
+4
+
+
+239000004310
+lactic acid
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+235000014655
+lactic acid
+Nutrition
+
+
+
+
+0.000
+claims
+description
+4
+
+
+238000002360
+preparation method
+Methods
+
+
+
+
+0.000
+description
+28
+
+
+239000012071
+phase
+Substances
+
+
+
+
+0.000
+description
+22
+
+
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+glycerine
+Chemical compound
+
+
+OCC(O)CO
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+0.000
+description
+20
+
+
+239000003921
+oil
+Substances
+
+
+
+
+0.000
+description
+20
+
+
+235000019198
+oils
+Nutrition
+
+
+
+
+0.000
+description
+20
+
+
+210000003491
+Skin
+Anatomy
+
+
+
+
+0.000
+description
+16
+
+
+238000004519
+manufacturing process
+Methods
+
+
+
+
+0.000
+description
+10
+
+
+239000008346
+aqueous phase
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+-1
+e.g.
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+ethanol
+Chemical compound
+
+
+CCO
+LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+0.000
+description
+8
+
+
+235000011187
+glycerol
+Nutrition
+
+
+
+
+0.000
+description
+8
+
+
+239000007788
+liquid
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+239000000203
+mixture
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+239000002202
+Polyethylene glycol
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000004480
+active ingredient
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000006071
+cream
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+150000002632
+lipids
+Chemical class
+
+
+
+
+0.000
+description
+6
+
+
+239000006210
+lotion
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000002674
+ointment
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+229920001223
+polyethylene glycol
+Polymers
+
+
+
+
+0.000
+description
+6
+
+
+238000003860
+storage
+Methods
+
+
+
+
+0.000
+description
+6
+
+
+DURPTKYDGMDSBL-UHFFFAOYSA-N
+1-butoxybutane
+Chemical compound
+
+
+CCCCOCCCC
+DURPTKYDGMDSBL-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+241000282414
+Homo sapiens
+Species
+
+
+
+
+0.000
+description
+4
+
+
+XOAAWQZATWQOTB-UHFFFAOYSA-N
+Taurine
+Chemical compound
+
+
+NCCS(O)(=O)=O
+XOAAWQZATWQOTB-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+carbon
+Chemical compound
+
+
+[C]
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+229910052799
+carbon
+Inorganic materials
+
+
+
+
+0.000
+description
+4
+
+
+239000000470
+constituent
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+RTZKZFJDLAIYFH-UHFFFAOYSA-N
+diethyl ether
+Chemical group
+
+
+CCOCC
+RTZKZFJDLAIYFH-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+238000010438
+heat treatment
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+238000000034
+method
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+125000002496
+methyl group
+Chemical group
+
+
+[H]C([H])([H])*
+
+0.000
+description
+4
+
+
+229920000058
+polyacrylate
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+229920001888
+polyacrylic acid
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+229920005862
+polyol
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+150000003077
+polyols
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+propylene glycol
+Chemical compound
+
+
+CC(O)CO
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+VYPSYNLAJGMNEJ-UHFFFAOYSA-N
+silicium dioxide
+Chemical compound
+
+
+O=[Si]=O
+VYPSYNLAJGMNEJ-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+230000000475
+sunscreen
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+239000000516
+sunscreening agent
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+XSQUKJJJFZCRTK-UHFFFAOYSA-N
+urea
+Chemical compound
+
+
+NC(N)=O
+XSQUKJJJFZCRTK-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+150000003700
+vitamin C derivatives
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+ARXJGSRGQADJSQ-UHFFFAOYSA-N
+1-methoxypropan-2-ol
+Chemical group
+
+
+COCC(C)O
+ARXJGSRGQADJSQ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+PQHYOGIRXOKOEJ-UHFFFAOYSA-J
+2-(1,2-dicarboxylatoethylamino)butanedioate
+Chemical compound
+
+
+[O-]C(=O)CC(C([O-])=O)NC(C([O-])=O)CC([O-])=O
+PQHYOGIRXOKOEJ-UHFFFAOYSA-J
+0.000
+description
+2
+
+
+BIHMAMDQIBRUNC-UHFFFAOYSA-M
+2-(2,3-dihydroxypropyl)octadecanoate;2-hydroxypropane-1,2,3-tricarboxylic acid
+Chemical compound
+
+
+OC(=O)CC(O)(C(O)=O)CC(O)=O.CCCCCCCCCCCCCCCCC(C([O-])=O)CC(O)CO
+BIHMAMDQIBRUNC-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+SBASXUCJHJRPEV-UHFFFAOYSA-N
+2-(2-Methoxyethoxy)ethanol
+Chemical group
+
+
+COCCOCCO
+SBASXUCJHJRPEV-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+POAOYUHQDCAZBD-UHFFFAOYSA-N
+2-Butoxyethanol
+Chemical compound
+
+
+CCCCOCCO
+POAOYUHQDCAZBD-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+ZNQVEEAIQZEUHB-UHFFFAOYSA-N
+2-Ethoxyethanol
+Chemical group
+
+
+CCOCCO
+ZNQVEEAIQZEUHB-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+VUKAUDKDFVSVFT-UHFFFAOYSA-N
+2-[6-[4,5-bis(2-hydroxypropoxy)-2-(2-hydroxypropoxymethyl)-6-methoxyoxan-3-yl]oxy-4,5-dimethoxy-2-(methoxymethyl)oxan-3-yl]oxy-6-(hydroxymethyl)-5-methoxyoxane-3,4-diol
+Chemical compound
+
+
+COC1C(OC)C(OC2C(C(O)C(OC)C(CO)O2)O)C(COC)OC1OC1C(COCC(C)O)OC(OC)C(OCC(C)O)C1OCC(C)O
+VUKAUDKDFVSVFT-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+LEACJMVNYZDSKR-UHFFFAOYSA-N
+2-octyldodecan-1-ol
+Chemical compound
+
+
+CCCCCCCCCCC(CO)CCCCCCCC
+LEACJMVNYZDSKR-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940099451
+3-iodo-2-propynylbutylcarbamate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000002961
+Aloe barbadensis
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+240000005513
+Aloe vera
+Species
+
+
+
+
+0.000
+description
+2
+
+
+PZZYQPZGQPZBDN-UHFFFAOYSA-N
+Aluminium silicate
+Chemical class
+
+
+O=[Al]O[Si](=O)O[Al]=O
+PZZYQPZGQPZBDN-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+VLPFTAMPNXLGLX-UHFFFAOYSA-N
+Axona
+Chemical compound
+
+
+CCCCCCCC(=O)OCC(OC(=O)CCCCCCC)COC(=O)CCCCCCC
+VLPFTAMPNXLGLX-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+BVKZGUZCCUSVTD-UHFFFAOYSA-L
+Carbonate dianion
+Chemical compound
+
+
+[O-]C([O-])=O
+BVKZGUZCCUSVTD-UHFFFAOYSA-L
+0.000
+description
+2
+
+
+BXWNKGSJHAJOGX-UHFFFAOYSA-N
+Cetyl alcohol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCO
+BXWNKGSJHAJOGX-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+ACTIUHUUMQJHFO-UPTCCGCDSA-N
+Coenzyme Q10
+Chemical compound
+
+
+COC1=C(OC)C(=O)C(C\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CC\C=C(/C)CCC=C(C)C)=C(C)C1=O
+ACTIUHUUMQJHFO-UPTCCGCDSA-N
+0.000
+description
+2
+
+
+229960003624
+Creatine
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940109239
+Creatinine
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+SNPLKNRPJHDVJA-ZETCQYMHSA-N
+D-panthenol
+Chemical compound
+
+
+OCC(C)(C)[C@@H](O)C(=O)NCCCO
+SNPLKNRPJHDVJA-ZETCQYMHSA-N
+0.000
+description
+2
+
+
+WSDISUOETYTPRL-UHFFFAOYSA-N
+DMDM hydantoin
+Chemical compound
+
+
+CC1(C)N(CO)C(=O)N(CO)C1=O
+WSDISUOETYTPRL-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+QZKRHPLGUJDVAR-UHFFFAOYSA-K
+EDTA trisodium salt
+Chemical compound
+
+
+[Na+].[Na+].[Na+].OC(=O)CN(CC([O-])=O)CCN(CC([O-])=O)CC([O-])=O
+QZKRHPLGUJDVAR-UHFFFAOYSA-K
+0.000
+description
+2
+
+
+241000208690
+Hamamelis
+Species
+
+
+
+
+0.000
+description
+2
+
+
+UQEAIHBTYFGYIE-UHFFFAOYSA-N
+Hexamethyldisiloxane
+Chemical compound
+
+
+C[Si](C)(C)O[Si](C)(C)C
+UQEAIHBTYFGYIE-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+WYVVKGNFXHOCQV-UHFFFAOYSA-N
+Iodopropynyl butylcarbamate
+Chemical compound
+
+
+CCCCNC(=O)OCC#CI
+WYVVKGNFXHOCQV-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+210000004080
+Milk
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+229940053487
+Niacinamide
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940057874
+PHENYL TRIMETHICONE
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940101267
+Panthenol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229920001363
+Polidocanol
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+206010063493
+Premature ageing
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+241000221095
+Simmondsia
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000004433
+Simmondsia californica
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+GLDOVTGHNKAZLK-UHFFFAOYSA-N
+Stearyl alcohol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCCO
+GLDOVTGHNKAZLK-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+235000019486
+Sunflower oil
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229960003080
+Taurine
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940045997
+Vitamin A
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+FPIPGXGPPPQFEQ-BOOMUCAASA-N
+Vitamin A
+Natural products
+
+
+OC/C=C(/C)\C=C\C=C(\C)/C=C/C1=C(C)CCCC1(C)C
+FPIPGXGPPPQFEQ-BOOMUCAASA-N
+0.000
+description
+2
+
+
+229930003268
+Vitamin C
+Natural products
+
+
+
+
+0.000
+description
+2
+
+
+229940046009
+Vitamin E
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229930003427
+Vitamin E
+Natural products
+
+
+
+
+0.000
+description
+2
+
+
+NBVZMBLJRHUOJR-UHFFFAOYSA-N
+[amino-[4-[6-[4-[amino(azaniumylidene)methyl]phenoxy]hexoxy]phenyl]methylidene]azanium;2-hydroxyethanesulfonate
+Chemical compound
+
+
+OCCS(O)(=O)=O.OCCS(O)(=O)=O.C1=CC(C(=N)N)=CC=C1OCCCCCCOC1=CC=C(C(N)=N)C=C1
+NBVZMBLJRHUOJR-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+acrylic acid
+Chemical compound
+
+
+OC(=O)C=C
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+150000001298
+alcohols
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+FPIPGXGPPPQFEQ-OVSJKPMPSA-N
+all-trans-retinol
+Chemical compound
+
+
+OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C
+FPIPGXGPPPQFEQ-OVSJKPMPSA-N
+0.000
+description
+2
+
+
+150000004347
+all-trans-retinol derivatives
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+235000011399
+aloe vera
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+230000003796
+beauty
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+150000001277
+beta hydroxy acids
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+230000001488
+breeding
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+235000014121
+butter
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+PUPZLCDOIYMWBV-UHFFFAOYSA-N
+butylene glycol
+Chemical compound
+
+
+CC(O)CCO
+PUPZLCDOIYMWBV-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000004202
+carbamide
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+125000004432
+carbon atoms
+Chemical group
+
+
+C*
+
+0.000
+description
+2
+
+
+229940081733
+cetearyl alcohol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229960000541
+cetyl alcohol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000003795
+chemical substances by application
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940071160
+cocoate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000017471
+coenzyme Q10
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229940110767
+coenzyme Q10
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+150000001875
+compounds
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+238000001816
+cooling
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000000875
+corresponding
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000008271
+cosmetic emulsion
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000006046
+creatine
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+CVSVTCORWBXHQV-UHFFFAOYSA-N
+creatine zwitterion
+Chemical compound
+
+
+NC(=[NH2+])N(C)CC([O-])=O
+CVSVTCORWBXHQV-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+DDRJAANPRJIHGJ-UHFFFAOYSA-N
+creatinine
+Chemical compound
+
+
+CN1CC(=O)NC1=N
+DDRJAANPRJIHGJ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940086555
+cyclomethicone
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000002781
+deodorant agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940008099
+dimethicone
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000004205
+dimethyl polysiloxane
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000013870
+dimethyl polysiloxane
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000003792
+electrolyte
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000002170
+ethers
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+235000019197
+fats
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000004872
+foam stabilizing agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000004676
+glycans
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229940075529
+glyceryl stearate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+UBHWBODXJBSFLH-UHFFFAOYSA-N
+hexadecan-1-ol;octadecan-1-ol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCO.CCCCCCCCCCCCCCCCCCO
+UBHWBODXJBSFLH-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229960001915
+hexamidine
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+ACCCMOQWYVYDOT-UHFFFAOYSA-N
+hexane-1,1-diol
+Chemical compound
+
+
+CCCCCC(O)O
+ACCCMOQWYVYDOT-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229920002674
+hyaluronan
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229960003160
+hyaluronic acid
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229920006007
+hydrogenated polyisobutylene
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+230000002209
+hydrophobic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000001866
+hydroxypropyl methyl cellulose
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920003088
+hydroxypropyl methyl cellulose
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+235000010979
+hydroxypropyl methyl cellulose
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229940080260
+iminodisuccinate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+238000005470
+impregnation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+238000010348
+incorporation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000004615
+ingredient
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000077
+insect repellent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+KFZMGEQAYNKOFK-UHFFFAOYSA-N
+iso-propanol
+Chemical compound
+
+
+CC(C)O
+KFZMGEQAYNKOFK-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000000463
+material
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000008267
+milk
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000013336
+milk
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000002480
+mineral oil
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000010446
+mineral oil
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+DFPAKSUCGFBDDF-UHFFFAOYSA-N
+nicotinamide
+Chemical compound
+
+
+NC(=O)C1=CC=CN=C1
+DFPAKSUCGFBDDF-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229960003966
+nicotinamide
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000005152
+nicotinamide
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000011570
+nicotinamide
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000020957
+pantothenol
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000011619
+pantothenol
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+244000045947
+parasites
+Species
+
+
+
+
+0.000
+description
+2
+
+
+239000002245
+particle
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000001717
+pathogenic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+244000052769
+pathogens
+Species
+
+
+
+
+0.000
+description
+2
+
+
+239000002304
+perfume
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229960002226
+polidocanol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+ONJQDTZCDSESIW-UHFFFAOYSA-N
+polidocanol
+Chemical compound
+
+
+CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO
+ONJQDTZCDSESIW-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229920000435
+poly(dimethylsiloxane)
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229920000642
+polymer
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229920001282
+polysaccharide
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+239000005017
+polysaccharide
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000004804
+polysaccharides
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+230000002035
+prolonged
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+VBICKXHEKHSIBG-UHFFFAOYSA-N
+rac-1-monostearoylglycerol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OCC(O)CO
+VBICKXHEKHSIBG-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229960003471
+retinol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+238000000926
+separation method
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000000377
+silicon dioxide
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000012239
+silicon dioxide
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+MAKUBRYLFHZREJ-JWBQXVCJSA-M
+sodium;(2S,3S,4R,5R,6R)-3-[(2S,3R,5S,6R)-3-acetamido-5-hydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4,5,6-trihydroxyoxane-2-carboxylate
+Chemical compound
+
+
+[Na+].CC(=O)N[C@@H]1C[C@H](O)[C@@H](CO)O[C@H]1O[C@@H]1[C@@H](C([O-])=O)O[C@@H](O)[C@H](O)[C@H]1O
+MAKUBRYLFHZREJ-JWBQXVCJSA-M
+0.000
+description
+2
+
+
+239000007921
+spray
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002600
+sunflower oil
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002562
+thickening agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+LADGBHLMCUINGV-UHFFFAOYSA-N
+tricaprin
+Chemical compound
+
+
+CCCCCCCCCC(=O)OCC(OC(=O)CCCCCCCCC)COC(=O)CCCCCCCCC
+LADGBHLMCUINGV-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+LINXHFKHZLOLEI-UHFFFAOYSA-N
+trimethyl-[phenyl-bis(trimethylsilyloxy)silyl]oxysilane
+Chemical compound
+
+
+C[Si](C)(C)O[Si](O[Si](C)(C)C)(O[Si](C)(C)C)C1=CC=CC=C1
+LINXHFKHZLOLEI-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+235000019155
+vitamin A
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000011719
+vitamin A
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000019154
+vitamin C
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000011718
+vitamin C
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000019165
+vitamin E
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000011709
+vitamin E
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000003712
+vitamin E derivatives
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+239000007762
+w/o emulsion
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000037303
+wrinkles
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000000230
+xanthan gum
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920001285
+xanthan gum
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229940082509
+xanthan gum
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000010493
+xanthan gum
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+
+Classifications
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/02—Cosmetics or similar toiletry preparations characterised by special physical form
+
+
+A61K8/04—Dispersions; Emulsions
+
+
+A61K8/06—Emulsions
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/33—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds containing oxygen
+
+
+A61K8/34—Alcohols
+
+
+A61K8/345—Alcohols containing more than one hydroxy group
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/33—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds containing oxygen
+
+
+A61K8/37—Esters of carboxylic acids
+
+
+A61K8/375—Esters of carboxylic acids the alcohol moiety containing more than one hydroxy group
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/60—Sugars; Derivatives thereof
+
+
+A61K8/608—Derivatives containing from 2 to 10 oxyalkylene groups
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/72—Cosmetics or similar toiletry preparations characterised by the composition containing organic macromolecular compounds
+
+
+A61K8/84—Cosmetics or similar toiletry preparations characterised by the composition containing organic macromolecular compounds obtained by reactions otherwise than those involving only carbon-carbon unsaturated bonds
+
+
+A61K8/86—Polyethers
+
+
+
+
+
+
+
+Abstract
+
+A cosmetic oil-in-water emulsion which comprises 1,2-hexanediol and a method of preparing same.
+
+
+
+
+Description
+
+CROSS-REFERENCE TO RELATED APPLICATIONS
+The present application claims priority under 35 U.S.C. Â§119 of German Patent Application No. 10 2005 051 864.8, filed Oct. 25, 2005, the disclosure of which is expressly incorporated by reference herein in its entirety.
+BACKGROUND OF THE INVENTION
+1. Field of the Invention
+The present invention relates to a cosmetic preparation comprising 1,2-hexanediol.
+2. Discussion of Background Information
+The desire to appear beautiful and attractive is naturally rooted in man. Even if the beauty ideal has undergone changes over the course of time, the desire for a flawless outward appearance has always been the aim of human beings. The condition and the appearance of the skin is a significant part of a beautiful and attractive outward appearance.
+In order for the skin to completely fulfill its biological functions it requires regular cleansing and care. Cleansing the skin thereby serves to remove dirt, perspiration and remains of dead skin particles which form an ideal breeding ground for pathogens and parasites of all types. Skin care products serve mostly to moisturize and regrease the skin. Active ingredients are often added to them which regenerate the skin and, for example, are intended to prevent and reduce its premature ageing (e.g., the appearance of fine lines and wrinkles).
+Skin care products are usually composed of emulsions. Emulsions are generally understood as meaning heterogeneous systems which consist of two liquids which are immiscible or of only limited miscibility and which are usually referred to as phases and in which one of the two liquids is dispersed in the form of very fine droplets in the other liquid. Outwardly and viewed with the naked eye, emulsions appear homogeneous.
+If the two liquids are water and oil and oil droplets are present in finely dispersed form in water, this is an oil-in-water emulsion (O/W emulsion, e.g., milk). The basic character of an O/W emulsion is defined by the water. In the case of a water-in-oil emulsion (W/O emulsion, e.g., butter), the principle is reversed, the basic character here being determined by the oil.
+In order to keep emulsions stable over a prolonged period and to prevent separation of the phases, so-called emulsifiers are added to the emulsions. Emulsifiers as a rule are molecules with a polar, hydrophilic structural element and a nonpolar, lipophilic structural element. In the late 1940s a system was developed that was designed to facilitate the selection of emulsifiers. Each emulsifier was assigned a so-called HLB value (a dimensionless number between 0 and 20) that states whether a preferred water-solubility or oil-solubility is present. Numbers below 9 characterize oil-soluble, hydrophobic emulsifiers, numbers over 10, those that are water-soluble, hydrophilic.
+In the production of an emulsion, the aqueous phase is combined with the lipid phase (oil phase) while being stirred, whereby the droplets of the internal phase of the emulsion have to be reduced to below 10 Î¼m in size so that the emulsion becomes stable.
+In the production of O/W emulsions with hydrophilic emulsifiers (emulsifiers with an HLB value of greater than/equal to 10) the problem often occurs that with the use of primarily moderately polar to polar lipids in the oil phase (i.e., lipids with a interfacial tension toward water of less than about 30 mN/m) an undesirable inversion of phases can occur. Furthermore, O/W emulsions of this type have a tendency towards phase inversion during storage, i.e., the preparations are often not very stable during storage.
+It would be advantageous to have available an O/W emulsion with hydrophilic emulsifiers and a method for producing an O/W emulsion with hydrophilic emulsifiers with a substantially reduced phase inversion tendency during production and/or storage.
+SUMMARY OF THE INVENTION
+The present invention provides a cosmetic oil-in-water emulsion which comprises 1,2-hexanediol.
+In one aspect, the emulsion may comprise from about 0.3% to about 3 % by weight, e.g., from about 0.5% to about 1.5% by weight of 1,2-hexanediol, based on a total weight of the emulsion.
+In another aspect, the emulsion may further comprise one or more oil-in-water emulsifiers in a total concentration of from about 1.5 to about 6% by weight, e.g., from about 2 to about 4% by weight, based on a total weight of the emulsion. For example, the one or more oil-in-water emulsifiers may comprise one or more of glyceryl stearate citrate, polyglyceryl methyl glucose distearate and polyethylene glycol(2000) monostearate.
+In yet another aspect, the emulsion of the present invention may further comprises one or more of phenoxyethanol, methylparaben and propylparaben and/or it may comprise tocopheryl acetate and/or it may comprise glycerol.
+The present invention also provides a cosmetic oil-in-water emulsion which comprises from about 0.3% to about 3% by weight of 1,2-hexanediol and one or more oil-in-water emulsifiers in a total concentration of from about 1.5 to about 6% by weight, each based on a total weight of the emulsion.
+In one aspect, this emulsion may comprise from about 0.5% to about 1.5% by weight of 1,2-hexanediol and/or may comprise the one or more oil-in-water emulsifiers in a total concentration of from about 2 to about 4% by weight.
+In another aspect, the one or more oil-in-water emulsifiers may comprise one or more of glyceryl stearate citrate, polyglyceryl methyl glucose distearate and polyethylene glycol(2000) monostearate.
+In yet another aspect, the emulsion may further comprises tocopheryl acetate and/or glycerol.
+The present invention also provides an ointment, a cream or a lotion which comprises an emulsion of the present invention as set forth above, including the various aspects thereof.
+The present invention also provides a method for producing a cosmetic oil-in-water emulsion. The method comprises (i) the addition of 1,2-hexanediol to the aqueous phase of the emulsion prior to heating and/or (ii) the addition of 1,2-hexanediol after heating during the cooling process to the developing emulsion at a temperature of from about 30Â° C. to about 40Â° C., e.g., at about 35Â° C.
+In one aspect, the method may be carried out at a temperature of not higher than about 85Â° C.
+The present invention also provides a cosmetic oil-in-water emulsion which is produced by the above process.
+DETAILED DESCRIPTION OF THE PRESENT INVENTION
+The particulars shown herein are by way of example and for purposes of illustrative discussion of the embodiments of the present invention only and are presented in the cause of providing what is believed to be the most useful and readily understood description of the principles and conceptual aspects of the present invention. In this regard, no attempt is made to show structural details of the present invention in more detail than is necessary for the fundamental understanding of the present invention, the description making apparent to those skilled in the art how the several forms of the present invention may be embodied in practice.
+The use of 1,2-hexanediol in cosmetic emulsions is known to one skilled in the art per se, but the prior art has not been able to shown the way to the present invention.
+WO 95/01151 discloses the use of alkanediols having 5-7 carbon atoms in cosmetic preparations. However, O/W emulsions with 1,2-hexanediol are not explicitly disclosed. No exemplary embodiments with 1,2-hexanediol and/or with the emulsifiers according to the invention are disclosed, either.
+DE 103 41 179 discloses deodorant compositions with a combination of alkane-1,2-diols and Î±- and/or Î²-hydroxy acids. However, O/W emulsions with 1,2-hexanediol and the emulsifiers according to the invention are not disclosed.
+DE 102 05 190 discloses cosmetic preparations with a combination of polyols and one or more diols, including hexanediol. However, this document does not disclose any 1,2-hexanediol in an O/W emulsion.
+EP 1 078 638 discloses sunscreen preparations with high concentrations of 1,2-hexanediol.
+It is advantageous according to the present invention if hydrophilic emulsifiers with an HLB value of greater than/equal to about 10 are used as O/W emulsifiers. The HLB value of emulsifiers can be taken from the customary standard works (e.g., Fiedler, Lexikon der Hilfsstoffe fÃ¼r Pharmazie, Kosmetik und angrenzende Gebiete, Editio Cantor Verlag, Aulendorf).
+It further is preferred according to the present invention if the O/W emulsifiers comprise one or more of glyceryl stearate citrate (CAS 39175-72-9, INCI glyceryl stearate citrate, e.g., Imwitor 370 from HÃ¼ls), polyglyceryl methyl glycose distearate (INCI polyglyceryl methyl glycose distearate, e.g., Tego Care 450 from Goldschmidt) and/or polyethylene glycol(2000) monostearate (INCI PEG40 stearate).
+It also is preferred for the emulsion according to the present invention to be free from sodium dihydroxycetyl phosphate (e.g., Dragophos S).
+Advantageously, the emulsion according to the present invention comprises tocopheryl acetate. Preferably, the emulsion comprises tocopheryl acetate in a concentration of from about 0.1% to about 1% by weight, more preferably in a concentration of from about 0.3% to about 0.7% by weight, based on the total weight of the preparation.
+It further is advantageous for the emulsion according to the present invention to comprise phenoxyethanol, methylparaben and/or propylparaben. Preferably, these compounds are comprised in the emulsion in an individual concentration of from about 0.1% to about 1% by weight and more preferably in an individual concentration of from about 0.3% to about 0.7% by weight, based on the total weight of the preparation.
+The emulsion according to the invention may, for example, have the consistency of an ointment, a cream or a low-viscosity lotion.
+It also is preferred for the method according to the present invention to be carried out in the form of a hot-hot method. In this method a hot oil phase and a hot aqueous phase are combined with one another.
+According to the invention it is particularly preferred if the method is carried out at a temperature of not higher than about 85Â° C.
+According to the present invention the emulsion will advantageously be present as an ointment, a cream or a lotion (possibly sprayable).
+The emulsion according to the present invention may, for example, also be used as a spray or an impregnation medium for a bandage or a wipe. Bandages and wipes impregnated with the emulsion according to the present invention are therefore also within the scope of the present invention.
+The aqueous phase of the emulsion according to the present invention may advantageously comprise one or more customary cosmetic auxiliaries, such as, for example, alcohols, in particular those of low carbon number, preferably ethanol and/or isopropanol, diols or polyols of low carbon number, and ethers thereof, preferably propylene glycol, glycerol, butylene glycol, ethylene glycol, ethylene glycol monoethyl or monobutyl ether, propylene glycol monomethyl, monoethyl or monobutyl ether, diethylene glycol monomethyl or monoethyl ether and analogous products, polymers, foam stabilizers, electrolytes, self-tanning agents, insect repellents and in particular one or more thickeners, which may advantageously be chosen from silicon dioxide, aluminum silicates, polysaccharides and derivatives thereof, e.g. hyaluronic acid, xanthan gum, hydroxypropylmethylcellulose, particularly advantageously from polyacrylates, preferably a polyacrylate from the group of the so-called carbopols, for example, carbopol grades 980, 981, 1382, 2984, 5984, in each case individually or in combination.
+The oil phase of the emulsion of the present invention may comprise, e.g., all the conventional constituents of oil, fat and wax components used in cosmetics. Also, the emulsion according to the present invention may advantageously comprise one or more cosmetic active ingredients and treatment substances, e.g., UV sunscreen filters. Preferably, corresponding active ingredients are contained in the preparation of the present invention in a total concentration of from about 0.01% to 30% by weight, based on the total weight of the preparation.
+Further advantageous substances for incorporation in the preparation of the present invention include in particular, niacinamide, panthenol, aloe vera, hamamelis extract, polidocanol, vitamin E, vitamin A, vitamin A derivatives, vitamin C, vitamin C derivatives, coenzyme Q10, creatine, creatinine, taurine, alpha-glucosylrutin. These substances will usually be used in a total concentration of from about 0.1% to about 30% by weight, based on the total weight of the preparation.
+Particularly preferably the preparation of the present invention comprises one or more alpha-hydroxy acids and/or salts thereof as further constituents. Lactic acid/lactate and/or citric acid/citrate are preferred and are preferably used in a concentration of from about 0.01% to about 5% by weight, based on the total weight of the preparation.
+The preparation according to the present invention may also comprise other ingredients such as, e.g., perfumes in any desired concentration and quantity.
+Unless stated otherwise, the numbers in the following Examples refer to % by weight.
+EXAMPLES
+
+
+
+
+
+ 
+ 
+
+
+ 
+Example
+
+
+
+
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+
+
+ 
+ 
+
+
+
+
+Glyceryl stearate citrate
+ 
+1.0
+ 
+2.0
+ 
+ 
+ 
+2.0
+
+
+PEG-40 stearate
+1.0
+ 
+ 
+ 
+ 
+1.5
+
+
+Polyglyceryl methyl glucose
+ 
+ 
+2.0
+ 
+3.0
+ 
+1.5
+0.5
+
+
+distearate
+
+
+Glyceryl stearate
+1.5
+ 
+ 
+ 
+ 
+1.5
+
+
+Cetyl alcohol
+ 
+0.5
+ 
+2.0
+1.5
+0.75
+1.0
+
+
+Stearyl alcohol
+ 
+0.5
+0.5
+ 
+ 
+0.75
+
+
+Cetearyl alcohol
+2.0
+ 
+ 
+ 
+ 
+ 
+ 
+1.5
+
+
+Caprylic/capric triglyceride
+5.0
+4.0
+ 
+5.0
+ 
+6.0
+3.0
+0.5
+
+
+Ethylhexyl cocoate
+ 
+ 
+2.0
+ 
+ 
+ 
+1.0
+
+
+Octyldodecanol
+ 
+1.0
+3.0
+ 
+5.0
+ 
+2.0
+
+
+Mineral oil
+ 
+ 
+2.0
+
+
+Hydrogenated polyisobutene
+1.0
+
+
+Polydecene
+ 
+ 
+ 
+2.0
+
+
+Cyclomethicone
+2.0
+ 
+ 
+ 
+ 
+3.0
+
+
+Dimethicone
+1.0
+ 
+ 
+ 
+ 
+ 
+ 
+1.5
+
+
+Phenyltrimethicone
+ 
+ 
+ 
+ 
+ 
+1.0
+
+
+Dicaprylyl carbonate
+ 
+2.0
+ 
+ 
+2.0
+ 
+ 
+3.5
+
+
+Natural oils (such as, e.g., jojoba
+1.5
+ 
+3.0
+0.5
+1.0
+ 
+2.0
+2.5
+
+
+oil/sunflower oil
+
+
+1,2-Hexanediol
+0.5
+0.75
+2.0
+0.3
+1.0
+1.2
+0.5
+0.75
+
+
+Trisodium EDTA
+0.2
+0.1
+ 
+0.05
+ 
+0.1
+0.3
+
+
+Iminodisuccinate
+0.1
+ 
+0.1
+ 
+0.3
+ 
+ 
+0.5
+
+
+Phenoxyethanol
+0.3
+0.1
+ 
+0.5
+0.7
+ 
+ 
+0.4
+
+
+Parabens
+0.4
+ 
+0.3
+ 
+0.3
+ 
+0.2
+
+
+Hexamidine diisethionate
+ 
+0.1
+ 
+ 
+0.05
+ 
+0.1
+
+
+Imidodiazolidinyl urea
+ 
+ 
+ 
+ 
+ 
+0.2
+ 
+0.2
+
+
+DMDM hydantoin
+ 
+ 
+0.2
+ 
+ 
+0.1
+
+
+Iodopropynyl butylcarbamate
+ 
+ 
+ 
+0.2
+ 
+ 
+0.05
+
+
+Glycerin
+10.0
+3.0
+7.0
+8.0
+15.0
+20.0
+0.5
+2.0
+
+
+Tocopheryl acetate
+0.2
+0.5
+0.75
+ 
+ 
+0.3
+ 
+1.0
+
+
+Alcohol denat.
+5.0
+ 
+2.5
+ 
+ 
+7.5
+ 
+7.5
+
+
+Water
+ad 100
+ad 100
+ad 100
+ad 100
+ad 100
+ad 100
+ad 100
+ad 100
+
+
+ 
+
+
+
+
+
+It is noted that the foregoing examples have been provided merely for the purpose of explanation and are in no way to be construed as limiting of the present invention. While the present invention has been described with reference to an exemplary embodiment, it is understood that the words which have been used herein are words of description and illustration, rather than words of limitation. Changes may be made, within the purview of the appended claims, as presently stated and as amended, without departing from the scope and spirit of the present invention in its aspects. Although the present invention has been described herein with reference to particular means, materials and embodiments, the present invention is not intended to be limited to the particulars disclosed herein; rather, the present invention extends to all functionally equivalent structures, methods and uses, such as are within the scope of the appended claims.
+
+
+
+
+Claims (25)
+
+ 
+1. A cosmetic oil-in-water emulsion, wherein the emulsion comprises a total of from 1.0% to 3.0% by weight of one or more oil-in-water emulsifiers selected from glyceryl stearate citrate, polyglyceryl methyl glucose distearate, and PEG-40 stearate, and further comprises from 0.3% to 3% by weight of 1,2-hexanediol, based on a total weight of the emulsion.
+
+  
+2. The emulsion of claim 1, wherein the emulsion comprises at least about 0.5% by weight of 1,2-hexanediol.
+
+  
+3. The emulsion of claim 1, wherein the emulsion comprises not more than about 1.5% by weight of 1,2-hexanediol.
+
+  
+4. The emulsion of claim 1, wherein the emulsion comprises one or more oil-in-water emulsifiers in a total concentration of from about 1.5% to about 6% by weight, based on a total weight of the emulsion.
+
+  
+5. The emulsion of claim 1, wherein the emulsion comprises one or more oil-in-water emulsifiers in a total concentration of from about 2% to about 4% by weight.
+
+  
+6. The emulsion of claim 1, wherein the emulsion comprises glyceryl stearate citrate.
+
+  
+7. The emulsion of claim 1, wherein the emulsion comprises polyglyceryl methyl glucose distearate.
+
+  
+8. The emulsion of claim 1, wherein the emulsion comprises PEG-40 stearate.
+
+  
+9. The emulsion of claim 1, wherein the emulsion further comprises one or more of phenoxyethanol, methylparaben and propylparaben.
+
+  
+10. The emulsion of claim 1, wherein the emulsion further comprises tocopheryl acetate.
+
+  
+11. The emulsion of claim 1, wherein the emulsion further comprises one or more substances selected from alpha-hydroxy acids and salts thereof.
+
+  
+12. The emulsion of claim 11, wherein the one or more alpha-hydroxy acids and salts thereof comprise at least one of lactic acid/lactate and citric acid/citrate.
+
+  
+13. The emulsion of claim 1, wherein the emulsion is free of sodium dihydroxycetyl phosphate.
+
+  
+14. A cosmetic oil-in-water emulsion, wherein the emulsion comprises PEG-40 stearate and from 0.3% to 3% by weight of 1,2-hexanediol, based on a total weight of the emulsion.
+
+  
+15. The emulsion of claim 14, wherein the emulsion comprises at least about 0.5% by weight of 1,2-hexanediol.
+
+  
+16. The emulsion of claim 14, wherein the emulsion comprises not more than about 1.5% by weight of 1,2-hexanediol.
+
+  
+17. The emulsion of claim 14, wherein the emulsion comprises one or more oil-in-water emulsifiers which include PEG-40 stearate in a total concentration of from about 1.5% to about 6% by weight, based on a total weight of the emulsion.
+
+  
+18. The emulsion of claim 17, wherein the emulsion comprises the one or more oil-in-water emulsifiers in a total concentration of from about 2% to about 4% by weight.
+
+  
+19. The emulsion of claim 14, wherein the emulsion further comprises tocopheryl acetate.
+
+  
+20. A cosmetic oil-in-water emulsion, wherein the emulsion comprises one or more oil-in-water emulsifiers which comprise at least one of glyceryl stearate citrate, polyglyceryl methyl glucose distearate, and PEG-40 stearate, and further comprises from 0.3% to 3% by weight of 1,2-hexanediol, based on a total weight of the emulsion, and wherein 1,2-hexanediol is the only diol that is present in the emulsion.
+
+  
+21. The emulsion of claim 20, wherein the emulsion comprises at least about 0.5% by weight of 1,2-hexanediol.
+
+  
+22. The emulsion of claim 20, wherein the emulsion comprises not more than about 1.5% by weight of 1,2-hexanediol.
+
+  
+23. The emulsion of claim 20, wherein the emulsion comprises the one or more oil-in-water emulsifiers in a total concentration of from about 1.5% to about 6% by weight, based on a total weight of the emulsion.
+
+  
+24. The emulsion of claim 20, wherein the emulsion comprises the one or more oil-in-water emulsifiers in a total concentration of from about 2% to about 4% by weight.
+
+  
+25. The emulsion of claim 20, wherein the emulsion further comprises tocopheryl acetate.
+
+ 
+
+
+
+
+US11/585,244
+2005-10-25
+2006-10-24
+Cosmetic O/W emulsion comprising 1,2-hexanediol 
+       
+Active
+2028-07-22
+
+US8084507B2
+            (en)
+        
+
+Applications Claiming Priority (3)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+DE102005051864A
+
+DE102005051864A1
+                          (en)
+                      
+2005-10-25
+2005-10-25
+Cosmetic oil-in-water emulsion for, e.g. ointment, cream, or low-viscosity lotion, includes 1,2-hexanediol, and oil-in-water emulsifiers 
+       
+
+
+DE102005051864
+
+2005-10-25
+
+
+
+DE102005051864.8
+
+2005-10-25
+
+
+
+
+Publications (2)
+
+
+
+Publication Number
+Publication Date
+
+
+
+
+
+US20070092542A1
+US20070092542A1
+                       (en)
+                   
+
+2007-04-26
+
+
+US8084507B2
+true
+US8084507B2
+                       (en)
+                   
+
+2011-12-27
+
+
+
+
+
+Family
+ID=37560794
+Family Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+US11/585,244
+Active
+2028-07-22
+
+US8084507B2
+                          (en)
+                      
+
+2005-10-25
+2006-10-24
+Cosmetic O/W emulsion comprising 1,2-hexanediol 
+       
+
+
+
+Country Status (5)
+
+
+
+Country
+Link
+
+
+
+
+
+US
+                (1)
+              
+
+
+
+US8084507B2
+                  (en)
+              
+
+
+
+EP
+                (1)
+              
+            
+
+
+EP1792603B1
+                  (en)
+              
+
+
+
+AT
+                (1)
+              
+            
+
+
+AT496612T
+                  (en)
+              
+
+
+
+DE
+                (2)
+              
+            
+
+
+DE102005051864A1
+                  (en)
+              
+
+
+
+ES
+                (1)
+              
+            
+
+
+ES2359728T3
+                  (en)
+              
+
+
+
+
+Families Citing this family (5)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+ES2401935T3
+              (en)
+            
+*
+
+2009-04-20
+2013-04-25
+Dr. Straetmans Gmbh
+
+  Emulsifier system
+ 
+     
+
+
+
+EP2366376B1
+              (en)
+            
+*
+
+2010-03-05
+2016-01-13
+Dr. Straetmans Chemische Produkte GmbH
+Solubiliser preparation 
+       
+
+
+
+FR3063223B1
+              (en)
+            
+*
+
+2017-02-28
+2022-08-05
+Oreal
+
+  OIL-IN-WATER EMULSION COMPRISING A HOMOPOLYMER OF ACRYLIC ACID, AN EMULSIONATING POLYMER DERIVED FROM ACRYLIC ACID, A CLEANSING OIL AND AT LEAST THREE POLYOLS
+ 
+     
+
+
+
+DE102018220913A1
+              (en)
+            
+*
+
+2018-12-04
+2020-06-04
+Beiersdorf Ag
+
+  O / W emulsion with rhamnolipids
+ 
+       
+
+
+
+CN115151238A
+              (en)
+            
+*
+
+2020-02-25
+2022-10-04
+è¥¿å§è±æ¯æéå¬å¸
+Stable liquid emulsifiers based on citric acid esters and use thereof 
+       
+
+
+
+Citations (21)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+WO1991007943A1
+              (en)
+            
+
+1989-12-01
+1991-06-13
+The Gillette Company
+Post-foaming shaving gels 
+       
+
+
+
+WO1995001151A1
+              (en)
+            
+
+1993-06-23
+1995-01-12
+Dragoco Gerberding & Co. Ag
+Use of alkane diols in cosmetics 
+       
+
+
+
+WO1998053035A1
+              (en)
+            
+
+1997-05-19
+1998-11-26
+The Procter & Gamble Company
+Clear or translucent fabric softener compositions using mixture of solvents 
+       
+
+
+
+US5877145A
+              (en)
+            
+
+1996-03-22
+1999-03-02
+The Procter & Gamble Company
+Concentrated fabric softening composition with good freeze/thaw recovery and highly unsaturated fabric softener compound therefor 
+       
+
+
+
+DE19915837A1
+              (en)
+            
+
+1999-04-08
+2000-10-12
+Henkel Kgaa
+
+  Aqueous multiphase surfactant preparations
+ 
+     
+
+
+
+EP1078638A1
+              (en)
+            
+
+1999-08-20
+2001-02-28
+Dragoco Gerberding &amp; Co Aktiengesellschaft
+Additive for improving the water resistance of cosmetic or dermatological formulations 
+       
+
+
+
+DE10205190A1
+              (en)
+            
+
+2002-02-08
+2003-08-21
+Beiersdorf Ag
+
+  Preparations containing diols
+ 
+       
+
+
+
+WO2003069994A1
+              (en)
+            
+
+2002-02-19
+2003-08-28
+Symrise Gmbh & Co. Kg
+Synergistic mixtures of 1,2-alkane diols 
+       
+
+
+
+EP1426029A1
+              (en)
+            
+
+2001-06-27
+2004-06-09
+Mandom Corporation
+Emulsion compositions 
+       
+
+
+
+WO2004050045A1
+              (en)
+            
+
+2002-12-04
+2004-06-17
+Dow Corning Corporation
+Vesicle and microemulsion compositions of polar organic oils based on silicone surfactants 
+       
+
+
+
+US20040191280A1
+              (en)
+            
+*
+
+2001-03-16
+2004-09-30
+Takeshi Nakajima
+Method of producing cosmetics-impregnated sheet 
+       
+
+
+
+US20040228888A1
+              (en)
+            
+*
+
+2003-01-20
+2004-11-18
+Beiersdorf Ag
+Cosmetic or dermatological formulations of improved pearlescence 
+       
+
+
+
+US20040258654A1
+              (en)
+            
+*
+
+2001-10-26
+2004-12-23
+Beiersdorf Ag
+Cosmetic or dermatological formulations containing glycerin 
+       
+
+
+
+DE10341179A1
+              (en)
+            
+
+2003-09-06
+2005-03-31
+Beiersdorf Ag
+Cosmetic or dermatological preparations containing synergistic combination of alpha- or beta-hydroxyacid and alkanediol, useful for combating acne and/or Propionibacterium acnes infection 
+       
+
+
+
+EP1559416A2
+              (en)
+            
+*
+
+2004-01-21
+2005-08-03
+Beiersdorf Aktiengesellschaft
+Low viscosity O/W Emulsion I 
+       
+
+
+
+US20050238605A1
+              (en)
+            
+*
+
+2004-01-21
+2005-10-27
+Beiersdorf Ag
+Low-viscosity O/W emulsion 
+       
+
+
+
+WO2006045743A1
+              (en)
+            
+
+2004-10-22
+2006-05-04
+Symrise Gmbh & Co. Kg
+Synergistic mixtures of 1,2-hexanediol and 1,2-octanediol and also a further preservative 
+       
+
+
+
+WO2006082151A2
+              (en)
+            
+
+2005-02-02
+2006-08-10
+Symrise Gmbh & Co. Kg
+Synergistic mixtures of c6- to c12-alkanediols and tropolone (derivatives) 
+       
+
+
+
+US20070054967A1
+              (en)
+            
+*
+
+2005-06-17
+2007-03-08
+Symrise Gmbh & Co. Kg
+Synergistic mixtures of aromatic alcohols and derivatives thereof and tropolone (derivatives) 
+       
+
+
+
+US20070265352A1
+              (en)
+            
+
+2002-02-19
+2007-11-15
+Joachim Roeding
+Synergistic mixtures of at least one 1,2 alkanediol such as 1,2-hexanediol and 1,2-octanediol with a further compound having antimicrobial properties 
+       
+
+
+
+US20080268077A1
+              (en)
+            
+*
+
+2004-10-14
+2008-10-30
+Symrise Gmbh & Co. Kg
+Process for Strengthening the Barrier Function of Undamaged Skin 
+       
+
+
+
+Family Cites Families (2)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US58697A
+              (en)
+            
+*
+
+
+1866-10-09
+
+Improvement in bee-hives 
+
+
+
+US41916A
+              (en)
+            
+*
+
+
+1864-03-15
+
+Improvement in sewing-machines 
+
+
+
+
+
+2005
+
+
+2005-10-25
+DE
+DE102005051864A
+patent/DE102005051864A1/en
+not_active
+Withdrawn
+
+
+
+
+2006
+
+
+2006-09-29
+AT
+AT06121502T
+patent/AT496612T/en
+unknown
+
+
+
+2006-09-29
+EP
+EP06121502A
+patent/EP1792603B1/en
+active
+Active
+
+
+2006-09-29
+ES
+ES06121502T
+patent/ES2359728T3/en
+active
+Active
+
+
+2006-09-29
+DE
+DE502006008796T
+patent/DE502006008796D1/en
+active
+Active
+
+
+2006-10-24
+US
+US11/585,244
+patent/US8084507B2/en
+active
+Active
+
+
+
+
+
+
+
+Patent Citations (27)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+WO1991007943A1
+              (en)
+            
+
+1989-12-01
+1991-06-13
+The Gillette Company
+Post-foaming shaving gels 
+       
+
+
+
+WO1995001151A1
+              (en)
+            
+
+1993-06-23
+1995-01-12
+Dragoco Gerberding & Co. Ag
+Use of alkane diols in cosmetics 
+       
+
+
+
+US5877145A
+              (en)
+            
+
+1996-03-22
+1999-03-02
+The Procter & Gamble Company
+Concentrated fabric softening composition with good freeze/thaw recovery and highly unsaturated fabric softener compound therefor 
+       
+
+
+
+WO1998053035A1
+              (en)
+            
+
+1997-05-19
+1998-11-26
+The Procter & Gamble Company
+Clear or translucent fabric softener compositions using mixture of solvents 
+       
+
+
+
+DE19915837A1
+              (en)
+            
+
+1999-04-08
+2000-10-12
+Henkel Kgaa
+
+  Aqueous multiphase surfactant preparations
+ 
+     
+
+
+
+US6274124B1
+              (en)
+            
+*
+
+1999-08-20
+2001-08-14
+Dragoco Gerberding & Co. Ag
+Additive for improving the water resistance of cosmetic or dermatological formulations 
+       
+
+
+
+EP1078638A1
+              (en)
+            
+
+1999-08-20
+2001-02-28
+Dragoco Gerberding &amp; Co Aktiengesellschaft
+Additive for improving the water resistance of cosmetic or dermatological formulations 
+       
+
+
+
+US20040191280A1
+              (en)
+            
+*
+
+2001-03-16
+2004-09-30
+Takeshi Nakajima
+Method of producing cosmetics-impregnated sheet 
+       
+
+
+
+EP1426029A1
+              (en)
+            
+
+2001-06-27
+2004-06-09
+Mandom Corporation
+Emulsion compositions 
+       
+
+
+
+US20040258654A1
+              (en)
+            
+*
+
+2001-10-26
+2004-12-23
+Beiersdorf Ag
+Cosmetic or dermatological formulations containing glycerin 
+       
+
+
+
+US20050058679A1
+              (en)
+            
+
+2002-02-08
+2005-03-17
+Beiersdorf Ag
+Preparation containing diol 
+       
+
+
+
+US20070041916A1
+              (en)
+            
+
+2002-02-08
+2007-02-22
+Beiersdorf Ag
+Preparation containing diol 
+       
+
+
+
+DE10205190A1
+              (en)
+            
+
+2002-02-08
+2003-08-21
+Beiersdorf Ag
+
+  Preparations containing diols
+ 
+       
+
+
+
+WO2003069994A1
+              (en)
+            
+
+2002-02-19
+2003-08-28
+Symrise Gmbh & Co. Kg
+Synergistic mixtures of 1,2-alkane diols 
+       
+
+
+
+US7582681B2
+              (en)
+            
+
+2002-02-19
+2009-09-01
+Symrise Gmbh & Co. Kg
+Synergistic mixtures of 1,2-alkane diols 
+       
+
+
+
+US20070265352A1
+              (en)
+            
+
+2002-02-19
+2007-11-15
+Joachim Roeding
+Synergistic mixtures of at least one 1,2 alkanediol such as 1,2-hexanediol and 1,2-octanediol with a further compound having antimicrobial properties 
+       
+
+
+
+US20050222276A1
+              (en)
+            
+*
+
+2002-02-19
+2005-10-06
+Gerhard Schmaus
+Synergistic mixtures of 1,2-alkane diols 
+       
+
+
+
+WO2004050045A1
+              (en)
+            
+
+2002-12-04
+2004-06-17
+Dow Corning Corporation
+Vesicle and microemulsion compositions of polar organic oils based on silicone surfactants 
+       
+
+
+
+US20040228888A1
+              (en)
+            
+*
+
+2003-01-20
+2004-11-18
+Beiersdorf Ag
+Cosmetic or dermatological formulations of improved pearlescence 
+       
+
+
+
+DE10341179A1
+              (en)
+            
+
+2003-09-06
+2005-03-31
+Beiersdorf Ag
+Cosmetic or dermatological preparations containing synergistic combination of alpha- or beta-hydroxyacid and alkanediol, useful for combating acne and/or Propionibacterium acnes infection 
+       
+
+
+
+US20050238605A1
+              (en)
+            
+*
+
+2004-01-21
+2005-10-27
+Beiersdorf Ag
+Low-viscosity O/W emulsion 
+       
+
+
+
+EP1559416A2
+              (en)
+            
+*
+
+2004-01-21
+2005-08-03
+Beiersdorf Aktiengesellschaft
+Low viscosity O/W Emulsion I 
+       
+
+
+
+US20080268077A1
+              (en)
+            
+*
+
+2004-10-14
+2008-10-30
+Symrise Gmbh & Co. Kg
+Process for Strengthening the Barrier Function of Undamaged Skin 
+       
+
+
+
+WO2006045743A1
+              (en)
+            
+
+2004-10-22
+2006-05-04
+Symrise Gmbh & Co. Kg
+Synergistic mixtures of 1,2-hexanediol and 1,2-octanediol and also a further preservative 
+       
+
+
+
+WO2006082151A2
+              (en)
+            
+
+2005-02-02
+2006-08-10
+Symrise Gmbh & Co. Kg
+Synergistic mixtures of c6- to c12-alkanediols and tropolone (derivatives) 
+       
+
+
+
+US20070059331A1
+              (en)
+            
+*
+
+2005-02-02
+2007-03-15
+Symrise Gmbh & Co. Kg
+Synergistic mixtures of c6- to c12-alkanediols and tropolone (derivatives) 
+       
+
+
+
+US20070054967A1
+              (en)
+            
+*
+
+2005-06-17
+2007-03-08
+Symrise Gmbh & Co. Kg
+Synergistic mixtures of aromatic alcohols and derivatives thereof and tropolone (derivatives) 
+       
+
+
+
+
+
+Non-Patent Citations (8)
+
+* Cited by examiner, â  Cited by third party
+
+
+Title
+
+
+
+
+
+"Cosmetic wipes to drive marker", Decisionnewsmedia, Mar. 30, 2004.
+*
+
+
+
+El-Mahrab-Robert et al. ("Assessment of oil polarity: Comparison of evaluation methods", International Journal of Pharmaceutics 348 (2008) 89-94).
+*
+
+
+
+English language Abstract of DE 10205190, Aug. 21, 2003.
+
+
+
+English language Abstract of DE 10341179, Mar. 13, 2005.
+
+
+
+English language Abstract of DE 19915837, Oct. 12, 2000.
+
+
+
+Ingredients list of Regenerist Micro-Derm Cleansing Cloths.
+*
+
+
+
+U.S. Appl. No. 11/585,217 (Behrens et al.), filed Oct. 24, 2006 and entitled "Emulsion Comprising 1,2-Alkanediols and Polar Oil Components".
+
+
+
+U.S. Appl. No. 11/585,246 (Bleckmann et al.), filed Oct. 24, 2006 and entitled "Cosmetic Preparation with 1,2-Alkanediol and Triazines".
+
+
+
+
+
+
+Also Published As
+
+
+
+Publication number
+Publication date
+
+
+
+
+
+
+EP1792603A1
+              (en)
+            
+
+2007-06-06
+
+
+
+DE102005051864A1
+              (en)
+            
+
+2007-04-26
+
+
+
+DE502006008796D1
+              (en)
+            
+
+2011-03-10
+
+
+
+AT496612T
+              (en)
+            
+
+2011-02-15
+
+
+
+US20070092542A1
+              (en)
+            
+
+2007-04-26
+
+
+
+ES2359728T3
+              (en)
+            
+
+2011-05-26
+
+
+
+EP1792603B1
+              (en)
+            
+
+2011-01-26
+
+
+
+
+
+Similar Documents
+
+
+
+Publication
+Publication Date
+Title
+
+
+
+
+
+
+
+JP6381379B2
+                (en)
+              
+
+
+2018-08-29
+
+
+  DMS (true film structure) in foamy cream
+ 
+     
+
+
+
+
+KR101421749B1
+                (en)
+              
+
+
+2014-07-22
+
+Personal care compositions 
+       
+
+
+
+
+CN105813632B
+                (en)
+              
+
+
+2020-08-07
+
+Method for preparing nano emulsion 
+       
+
+
+
+
+EP1140008A1
+                (en)
+              
+
+
+2001-10-10
+
+Cosmetic or pharmaceutical gels which contain lecithin, or low viscosity o/w microemulsions which contain lecithin 
+       
+
+
+
+
+JP2010527332A
+                (en)
+              
+
+
+2010-08-12
+
+
+  Surfactant-free foam formulation
+ 
+       
+
+
+
+
+US8084507B2
+                (en)
+              
+
+
+2011-12-27
+
+Cosmetic O/W emulsion comprising 1,2-hexanediol 
+       
+
+
+
+
+US9757322B2
+                (en)
+              
+
+
+2017-09-12
+
+Liquid cosmetic 
+       
+
+
+
+
+SK133799A3
+                (en)
+              
+
+
+2000-02-14
+
+Oil-in-water emulsions for reconstituting lamellarity of the lipid structure of damaged skin 
+     
+
+
+
+
+US20070053852A1
+                (en)
+              
+
+
+2007-03-08
+
+Lipidic protein-transfer systems and cosmetic/dermatological use thereof 
+       
+
+
+
+
+US20190314255A1
+                (en)
+              
+
+
+2019-10-17
+
+Cleansing Concentrate Composition 
+       
+
+
+
+
+WO2012167906A2
+                (en)
+              
+
+
+2012-12-13
+
+Cosmetic or dermatological preparations with improved rheological properties 
+       
+
+
+
+
+US9770396B2
+                (en)
+              
+
+
+2017-09-26
+
+Use of acryloyldimethyltaurate salt/vinyl pyrrolidone (VP) copolymers in the preparation of wet wipes 
+       
+
+
+
+
+US6242396B1
+                (en)
+              
+
+
+2001-06-05
+
+Cosmetic composition for removing make-up from and/or for cleansing the skin, in the form of a water-in-oil emulsion 
+       
+
+
+
+
+US7875653B2
+                (en)
+              
+
+
+2011-01-25
+
+Emulsion comprising 1,2-alkanediols and polar oil components 
+       
+
+
+
+
+KR20180023537A
+                (en)
+              
+
+
+2018-03-07
+
+Oil-in-water type emulsion composition containing high content of ceramide and cosmetic composition comprising the same 
+     
+
+
+
+
+JP2014019645A
+                (en)
+              
+
+
+2014-02-03
+
+Cosmetic 
+       
+
+
+
+
+EP3034131A1
+                (en)
+              
+
+
+2016-06-22
+
+Antiperspirant composition 
+       
+
+
+
+
+JP4812241B2
+                (en)
+              
+
+
+2011-11-09
+
+
+  Emulsifying composition for hair
+ 
+     
+
+
+
+
+JP3902174B2
+                (en)
+              
+
+
+2007-04-04
+
+
+  Method for producing oil-in-water emulsion composition
+ 
+     
+
+
+
+
+TW200404572A
+                (en)
+              
+
+
+2004-04-01
+
+Cosmetic compositions with hydroxy amine salts of malonic acid 
+     
+
+
+
+
+KR100740732B1
+                (en)
+              
+
+
+2007-07-19
+
+Make-up cleansing composition using pseudo-nonionic complex surfactant 
+       
+
+
+
+
+WO2012167903A2
+                (en)
+              
+
+
+2012-12-13
+
+Cosmetic and dermatological peeling preparations 
+       
+
+
+
+
+KR20200136447A
+                (en)
+              
+
+
+2020-12-07
+
+
+  Skin symptom improvement agent
+ 
+     
+
+
+
+
+KR100890712B1
+                (en)
+              
+
+
+2009-03-27
+
+Pore-minimizing cosmetic composition containing kaolin 
+       
+
+
+
+
+WO2020239401A1
+                (en)
+              
+
+
+2020-12-03
+
+Cosmetic oil-in-water emulsion containing scleroglucane 
+       
+
+
+
+
+
+Legal Events
+
+
+
+Date
+Code
+Title
+Description
+
+
+
+
+2006-12-13
+AS
+Assignment
+
+
+Owner name:
+              BEIERSDORF AG, GERMANY
+
+
+Free format text:
+              ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BEHRENS, SVEA;BLECKMANN, ANDREAS;KROEPKE, RAINER;AND OTHERS;SIGNING DATES FROM 20061127 TO 20061129;REEL/FRAME:018702/0006
+
+
+Owner name:
+              BEIERSDORF AG, GERMANY
+
+
+Free format text:
+              ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:BEHRENS, SVEA;BLECKMANN, ANDREAS;KROEPKE, RAINER;AND OTHERS;REEL/FRAME:018702/0006;SIGNING DATES FROM 20061127 TO 20061129
+
+
+
+
+2011-12-07
+STCF
+Information on status: patent grant
+
+
+Free format text:
+              PATENTED CASE
+
+
+
+
+2015-06-18
+FPAY
+Fee payment
+
+
+Year of fee payment:
+              4
+
+
+
+
+2019-06-18
+MAFP
+Maintenance fee payment
+
+
+Free format text:
+              PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+
+
+Year of fee payment:
+              8
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,725 @@
+Document Name: role of Water deionized in Cover Cream2
+Document link: https://puretecwater.com/deionized-water/what-is-deionized-water
+
+
+
+
+
+
+
+
+
+
+
+
+What is Deionized Water? | Deionized Water | Puretec Industrial Water
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us 24/7
+                        
+                    800-906-6060
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Call 24/7 (800) 906-6060
+                              
+                            Get a Quote
+                              
+                            Tank Exchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get a Quote
+Tank Exchange
+
+
+
+
+
+
+
+                                                          Deionized Water
+                                                      
+
+
+
+
+                                                          Reverse Osmosis
+                                                      
+
+
+
+
+                                                          Soft Water
+                                                      
+
+
+
+
+                                                          Industries Served
+                                                      
+
+
+
+
+                                                          About Us
+                                                      
+
+
+
+
+                                                          FAQ
+                                                      
+
+
+
+
+                                                          Contact Us
+                                                      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is Deionized Water?
+
+                               Puretec Industrial Water provides a full spectrum of water deionization services for ultra pure water applications ranging from large steam turbines to validated pharmaceutical systems.
+                            
+Learn More
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deionized Water
+Products & Services 
+Portable Service DI Tank Exchange
+
+
+Mobile DI Trailers
+
+
+
+
+
+Articles 
+What is Deionized Water?
+
+
+Laboratory Water Quality Standards
+
+
+
+
+
+
+
+
+
+Resources
+
+Basics Of Ion Exchange
+Basics Of Water Softening By Ion Exchange
+DI Tank Guide And Color Codes
+DI Tank User Guide
+Relationship Between Ph And Deionized Water
+Mobile DI Trailer Overview
+Puretec's Ion Exchange Tanks Explained
+
+
+
+
+
+Deionization ("DI Water" or "Demineralization") simply means the removal of ions.
+Ions are electrically charged atoms or molecules found in water that have either a net negative or positive charge. For many applications that use water as a rinse or ingredient, these ions are considered impurities and must be removed from the water.
+Ions with a positive charge are called "Cations" and ions with a negative charge are called "Anions". Ion exchange resins are used to exchange non desirable cations and anions with hydrogen and hydroxyl, respectively, forming pure water (H20), which is not an ion. Below is a list of ions commonly found in municipal water.
+
+
+
+Cations (Removed by Cation Resins)
+Anions (Removed by Anion Resins)
+
+
+Calcium (Ca++)Chlorides (Cl-)
+
+
+Magnesium (Mg++)Sulfates (SO4--)
+
+
+Iron (Fe+++)Nitrates (NO3-)
+
+
+Manganese (Mn++)Carbonates (CO3--)
+
+
+Sodium (Na+)Silica (SiO2-)
+
+
+Hydrogen (H+)Hydroxyl (OH-)
+
+
+
+How does ion exchange work?
+Ion exchange resins are used to produce deionized water (demineralized water or "DI Water") . These resins are small plastic beads that are composed of organic polymer chains that have charged functional groups built into the resin bead. Each functional group has either a fixed positive or negative charge.
+
+Cation resin has a negative functional group and therefore attracts positively charged ions. There are two types of cation resins, weak acid cation (WAC) and strong acid cation (SAC). Weak acid cation resin is used mainly in dealkalization and other unique applications. For this reason we will focus on explaining the role of strong acid cation resins used for producing deionized water:
+        
+Anion resin has a positive functional group and therefore attracts negatively charged ions. There are two types of anion resins, weak base anion (WBA) and strong base anion (SBA). Both types of anion resins are used to produce deionized water, however, they have different characteristics listed below:
+WBA resins do not remove silica, C02 or have the ability to neutralize weak acids and has a lower than neutral pH when used in a dual separate bed system.
+SBA resins remove all anions in the above table, including C02, and has a higher than neutral pH when used in a dual separate bed system due to sodium leakage.
+
+
+Mixed bed resins use SAC and SBA resins combined together.
+
+In order to produce deionized water, cation resin is regenerated with Hydrochloric Acid (HCl). The Hydrogen (H+) is positively charged and therefore attaches itself to the negatively charged cation resin bead. The anion resin is regenerated with sodium hydroxide (NaOH). Hydroxyl (OH-) is negatively charged and attaches itself to the positively charged anion resin bead.
+
+Different ions are attracted to a resin bead with different strengths. For example, calcium is more strongly attracted to a cation resin bead than sodium is. The hydrogen on the cation resin bead and the hydroxyl on the anion resin bead do not have a strong attraction to the bead. This is what allows ion exchange to take place. As positively charged cations flow across cation resin beads, the cations are exchanged for hydrogen (H+). Likewise, as negatively charged anions flow across anion resin beads, the anions are exchanged for hydroxyl (OH-). When you combine hydrogen (H+) and hydroxyl (OH-) you form pure H20.
+Eventually all of the exchange sites on the cation and anion resin beads are used up and the tank no longer produces deionized water. At this point, the resin beads require regeneration to prepare them for use again.
+Separate bed vs. mixed bed
+Demineralization therefore requires using at least two types of ion exchange resins to produce deionized water. One resin will remove positively charged ions and the other will remove negatively charged ions.
+In a dual bed system, the cation resin is always first in line. As city water enters the tank filled with cation resin, all positively charged cations are attracted to the cation resin bead and exchanged for hydrogen. The negatively charged anions are not attracted to the cation resin bead and pass through. For example, let’s examine calcium chloride in the feed water. In solution, the calcium ion is positively charged and will attach itself to the cation bead and will release a hydrogen ion. The chloride has a negative charge and therefore will not attach itself to the cation resin bead. The hydrogen, which has a positive charge, will attach itself to the chloride ion, forming hydrochloric acid (HCl). The resulting effluent from a SAC exchanger will have a very low pH and a much higher conductivity than the incoming feed water.
+The effluent from the cation resin will consist of strong and weak acids. This acidic water will then enter a tank filled with anion resin. The anion resin will attract negatively charged anions such as chloride and exchange them for hydroxyl. The result is hydrogen (H+) and hydroxyl (OH-), which forms H20.
+In reality, a dual bed system does not produce true H20 due to "sodium leakage". If sodium leaks past the cation exchange tank, then it combines with hydroxyl to form sodium hydroxide which has a high conductivity. Sodium leakage occurs because sodium and hydrogen have a very similar attraction to the cation resin bead and sometimes the sodium ion does not exchange itself for a hydrogen ion.
+In a mixed bed system, the strong acid cation and strong base anion resin are intermixed. This effectively makes the mixed bed tank act like thousands of dual bed units in one tank. The cation/anion exchange is taking place over and over within the resin bed. Sodium leakage is addressed because of the sheer number of repeated cation/anion exchanges taking place. By using a mixed bed you can produce the highest quality of deionized water possible.
+How are ions measured?
+Ions conduct electricity. Electrical current passes through water using ions as stepping stones. As a result, by measuring the electrical conductance of water can tell us what the ionic content of the water is. Less ions in the water will make the passage of electricity more difficult. Therefore, water with a lower conductivity value is considered more "deionized" than water with a high conductivity value.
+What is a deionized water system?
+
+    A deionized water system is an arrangement of DI tanks and other components that are used to produce high purity water. The DI tanks are typically made of fiberglass and come in various sizes to accommodate different feed flow rates. A deionized water system can be as simple as a one tank setup or as complex as a multi-tank system with supporting equipment such as reverse osmosis, ultraviolet (UV) disinfection and elaborate water quality monitoring equipment. DI tanks contain ion exchange resin which selectively remove ions from water. Eventually the DI tanks need to be replaced by the service provider and replaced with a fresh tank. Many customers require standby DI tanks onsite to make sure they have an uninterrupted flow of deionized water. The DI tank exchange frequency depends on the incoming water quality and the amount of water being used. The higher ionic load in the incoming feed water will result in less gallonage produced by the DI tank.
+
+
+    A DI water system is a convenient and clean solution for producing deionized water because Puretec handles all the equipment, off site regeneration, hazardous chemical handling, maintenance, and emergency repairs for the deionized water system.
+
+
+    Oftentimes a DI system is used with, or in place of, a reverse osmosis system. DI can be used in conjunction with a reverse osmosis system to produce reliable high quality deionized water. The RO system will remove a bulk of dissolved solids (90% to 99%) before entering the DI tank which will then remove any remaining ions in the water. Placing an RO before DI tanks will allow you to get a much longer run length from your DI tanks and reduce cost. However, an RO system requires a much larger upfront investment, constant maintenance, and the ability to discharge brine waste from the RO unit which must be considered when choosing a DI system.
+
+{% put styles %}
+    
+{% endput %}
+{% put scripts %}
+    
+{% endput %}
+                
+
+
+
+
+
+
+
+
+Ready to Get Started?
+Contact Us Now
+or call 24/7
+(800) 906-6060
+
+
+
+
+
+
+
+
+
+Puretec provides high purity water solutions for industrial applications across the Southwestern United States.
+
+
+
+
+
+Oxnard, California
+
+
+                    3151 Sturgis Road
+                    Oxnard, CA 93030
+                
+Serving Ventura, Santa Barbara, Los Angeles, and Kern Counties.
+
+
+
+Anaheim, California
+
+
+                    1815 S. Lewis St
+                    Anaheim, CA 92805
+                
+Serving Orange, Los Angeles, San Bernadino, and Riverside Counties.
+
+
+
+San Diego, California
+
+
+                    7151 Ronson Road
+                    San Diego, CA 92111
+                
+Serving San Diego, Imperial, and Riverside Counties.
+
+
+
+San Jose, California
+
+
+                    1291 Oakland Road
+                    San Jose, CA 95112
+                
+Serving Santa Clara, San Francisco, San Mateo, and Sacramento Counties.
+
+
+
+Gilbert, Arizona
+
+
+                    1440 N. Hobson Street
+                    Gilbert, AZ 85233
+                
+Serving Maricopa, Yuma, Gila, Pinal, and Pima Counties.
+
+
+
+
+
+
+
+
+
+
+Water Treatment Services and Parts
+
+
+
+
+
+                  
+                
+
+
+
+
+Call 24/7  (800) 906-6060  Get a Quote  Tank Exchange
+
+
+
+
+
+
+                                        Deionized Water
+                                    
+
+
+
+Products & Services
+
+
+
+
+
+                                                                    Portable Service DI Tank Exchange
+                                                                
+
+
+
+
+                                                                    DI Exchange Tanks
+                                                                
+
+
+
+
+                                                                    Mobile DI Trailers
+                                                                
+
+
+
+
+                                                                    Bulk Deionized Water
+                                                                
+
+
+
+
+Systems
+
+
+
+
+
+                                                                    Point of Use Polisher
+                                                                
+
+
+
+
+                                                                    LRW & LRS Series DI Recirculator
+                                                                
+
+
+
+
+                                                                    DP Series DI Recirculator
+                                                                
+
+
+
+
+Articles
+
+
+
+
+
+                                                                    What is Deionized Water?
+                                                                
+
+
+
+
+                                                                    Laboratory Water Quality Standards
+                                                                
+
+
+
+
+
+
+
+
+                                        Reverse Osmosis
+                                    
+
+
+
+Products & Services
+
+
+
+
+
+                                                                    Industrial Reverse Osmosis Systems
+                                                                
+
+
+
+
+                                                                    Reverse Osmosis System Maintenance
+                                                                
+
+
+
+
+                                                                    Reverse Osmosis Membrane Cleaning
+                                                                
+
+
+
+
+                                                                    Parts
+                                                                
+
+
+
+
+Systems
+
+
+
+
+
+                                                                    N1 Series
+                                                                
+
+
+
+
+                                                                    R1 Series
+                                                                
+
+
+
+
+                                                                    M1 Series
+                                                                
+
+
+
+
+                                                                    P Series
+                                                                
+
+
+
+
+                                                                    Desalitech Reflex™
+                                                                
+
+
+
+
+                                                                    Containerized Reverse Osmosis
+                                                                
+
+
+
+
+                                                                    HT JT Series
+                                                                
+
+
+
+
+Articles
+
+
+
+
+
+                                                                    What is Reverse Osmosis?
+                                                                
+
+
+
+
+                                                                    Reverse Osmosis Normalization
+                                                                
+
+
+
+
+
+
+
+
+                                        Soft Water
+                                    
+
+
+
+Products & Services
+
+
+
+
+
+                                                                    Softening Exchange Tanks
+                                                                
+
+
+
+
+Systems
+
+
+
+
+
+                                                                    P Series Water Softener
+                                                                
+
+
+
+
+                                                                    P Series Twin Water Softener
+                                                                
+
+
+
+
+                                                                    MST Series Water Softener
+                                                                
+
+
+
+
+                                                                    MHC Series Water Softener
+                                                                
+
+
+
+
+
+
+
+
+                                        Industries Served
+                                    
+
+
+
+Products & Services
+
+
+
+
+
+                                                                    Aerospace
+                                                                
+
+
+
+
+                                                                    Fleet Wash
+                                                                
+
+
+
+
+                                                                    Healthcare
+                                                                
+
+
+
+
+                                                                    Mining Operations
+                                                                
+
+
+
+
+                                                                    Oil and Gas Production
+                                                                
+
+
+
+
+                                                                    Pharmaceutical
+                                                                
+
+
+
+
+                                                                    Power Generation
+                                                                
+
+
+
+
+                                                                    Pulp and Paper
+                                                                
+
+
+
+
+
+
+
+
+© 2023 Puretec Industrial Water. All Rights Reserved.
+
+
+
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

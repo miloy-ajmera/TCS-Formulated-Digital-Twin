@@ -1,0 +1,176 @@
+Document Name: role of Mineral Oil in Eye Cream1
+Document link: https://go.drugbank.com/drugs/DB11057
+Mineral oil: Uses, Interactions, Mechanism of Action | DrugBank Online
+OnlineBrowse
+
+
+ Drugs
+
+
+ Starred Drugs
+
+
+ Categories
+
+
+ Pathways
+
+
+ Drug Reactions
+
+
+ Drug Classification
+
+
+ Drug Targets
+
+
+ Pharmaco-genomics
+
+
+ Pharmaco-metabolomics
+
+
+ Pharmaco-transcriptomics
+
+
+ Pharmaco-proteomicsSearch
+
+
+ Chemical Structure
+
+
+ Molecular Weight
+
+
+ Drug & Food Interactions
+
+
+ Target Sequences
+
+
+ Pharmaco-omics
+
+
+ Advanced Search
+
+
+ MS Search
+
+
+ MS/MS Search
+
+
+ GC/MS Search
+
+
+ 1D NMR Search
+
+
+ 2D NMR SearchInteraction CheckerDownloadsProducts  Navigate to DrugBank.com to check out our commercial products, use cases and more!DrugBank For Commercial Research  Drug DatasetsStructured drug data for data science & MLDrugBank For Clinical Software  Clinical APIClinical intelligence tool for your softwareFeatures  Drug SearchCustomizable drug search options  Drug-Drug Interaction CheckerSearch for drug interactions with our API  Drug AllergyGet drug allergy and cross sensitivities info  US Drug LabelsIntegrate drug manufacturer informationAbout   Help Center
+
+
+ Citing DrugBank
+
+
+ DrugBank Online FAQs
+
+
+ Searching DrugBank
+
+
+ Other Databases
+
+
+ Data Sources   About
+
+
+ About DrugBank Online
+
+
+ DrugBank in Research
+
+
+ Statistics
+
+
+ Blog
+
+
+ Wishart Research Group
+
+
+ Contact Us
+
+
+ Log inDrugs
+Targets
+Pathways
+Indications 
+
+
+  
+
+
+ Discover expert tips and tricks on loading DrugBank SQL Files
+Read Guide
+
+
+
+
+
+NAV   
+
+
+ IdentificationSummaryBrand NamesNameAccession NumberBackgroundTypeGroupsSynonymsExternal IDsPharmacologyIndicationAssociated ConditionsContraindications & Blackbox WarningsPharmacodynamicsMechanism of actionAbsorptionVolume of distributionProtein bindingMetabolismRoute of eliminationHalf-lifeClearanceAdverse EffectsToxicityPathwaysPharmacogenomic Effects/ADRsInteractionsDrug InteractionsFood InteractionsProductsOver the Counter ProductsMixture ProductsUnapproved/Other ProductsCategoriesATC CodesDrug CategoriesAffected organismsChemical IdentifiersUNIICAS numberReferencesGeneral ReferencesExternal LinksMSDSClinical TrialsPharmacoeconomicsManufacturersPackagersDosage FormsPricesPatentsPropertiesStateExperimental PropertiesPredicted PropertiesPredicted ADMET FeaturesSpectraMass SpecSpectraMineral oil
+
+
+Star0IdentificationBrand NamesFleet Mineral Oil, Lubrifresh P.M., Meijer, Preparation H Reformulated Jun 2013, Refresh Lacri-lube, Refresh PM, Retaine Mgd, Soothe Mineral Oil, Soothe Night Time, Stye, Systane, Systane Nighttime, Tears Again OintmentGeneric NameMineral oilDrugBank Accession NumberDB11057BackgroundMineral oil, or paraffin oil, is a mixture of higher alkanes from a mineral source, such as petroleum. Petroleum mineral oil is manufactured from crude oils by vacuum distillation to produce several distillates and a residual oil that are then further refined. During the modern refining process, aromatics are reduced by solvent extraction, catalytic hydrotreating, or hydrocracking. Unrefined or mildly treated mineral oils are classified as Group 3 carcinogens by the World Health Organizations, as chronic exposure to these aromatics including alkylated polycyclic aromatic compounds (PAC) can lead to skin cancer. 
+Mineral oil is a common ingredient in baby lotions, cold creams, ointments and cosmetics to treat and prevent dry, rough, scaly, itchy skin and minor skin irritations. It is also used as a mild laxative for human or veterinary uses.
+TypeSmall MoleculeGroupsApproved, Vet approvedSynonymsFood Grade Mineral OilHeavy Liquid PetrolatumHeavy mineral oilLiquid ParaffinLiquid PetrolatumMineral oilMineral Oil (high Viscosity)Mineral Oil, HeavyParaffin OilParaffin, LiquidParaffinum LiquidumPetrolatum, LiquidWhite Mineral OilExternal IDs 
+
+
+
+
+
+
+
+
+232-455-8
+E-905D
+INS No.905D
+INS-905DPharmacologyIndicationMineral oil is not considered an active pharmacological ingredient in pharmaceutical preparations and so has no official indication. It is typically present in topical formulations as an emollient and occlusive agent 2.
+Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See howAssociated ConditionsConstipationContraindications & Blackbox WarningsAvoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn morePharmacodynamicsMineral oil blocks the loss of water from the skin allowing greater hydration of the epidermis 2.
+Mechanism of actionMineral oil sits on the surface of the skin and in spaces between cells and provides a hydrophobic barrier 2. This barrier prevents trans-epidermal water loss to trap water in the skin. Overall this leads to greater hydration, flexibility, and softness of the stratum corneum.
+AbsorptionNot AvailableVolume of distributionNot AvailableProtein bindingNot AvailableMetabolismNot AvailableRoute of eliminationNot AvailableHalf-lifeNot AvailableClearanceNot AvailableAdverse EffectsImprove decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn moreToxicityNot AvailablePathwaysNot AvailablePharmacogenomic Effects/ADRs 
+
+
+Not AvailableInteractionsDrug Interactions 
+
+
+This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. ApprovedVet approvedNutraceuticalIllicitWithdrawnInvestigationalExperimentalAll DrugsDrugInteractionIntegrate drug-drug interactions in your software
+
+
+AcetazolamideThe risk or severity of adverse effects can be increased when Acetazolamide is combined with Mineral oil.AclidiniumThe therapeutic efficacy of Mineral oil can be decreased when used in combination with Aclidinium.AlfacalcidolMineral oil can cause a decrease in the absorption of Alfacalcidol resulting in a reduced serum concentration and potentially a decrease in efficacy.AlfentanilThe therapeutic efficacy of Mineral oil can be decreased when used in combination with Alfentanil.AlloinThe risk or severity of adverse effects can be increased when Mineral oil is combined with Alloin.AmantadineThe therapeutic efficacy of Mineral oil can be decreased when used in combination with Amantadine.AmilorideThe risk or severity of adverse effects can be increased when Amiloride is combined with Mineral oil.AmiodaroneThe therapeutic efficacy of Mineral oil can be decreased when used in combination with Amiodarone.AmitriptylineThe therapeutic efficacy of Mineral oil can be decreased when used in combination with Amitriptyline.AmlodipineThe therapeutic efficacy of Mineral oil can be decreased when used in combination with Amlodipine.Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   Food InteractionsNo interactions found.ProductsDrug product information from 10+ global regionsOur datasets provide approved product information including:dosage, form, labeller, route of administration, and marketing period.Access now  Access drug product information from over 10 global regions.Access nowOver the Counter ProductsNameDosageStrengthRouteLabellerMarketing StartMarketing EndRegionImage4718 Enema, Mineral OilEnema133 g/133mLRectalDynarex2021-02-26Not applicableUSAmoray Care BabyOil99.9 g/100mLTopicalMy Import Inc2015-03-262017-02-10USBath Oil Liq 63.4%Liquid63.4 %TopicalBebia Pediatric, Division Of Stiefel Canada Inc.1991-12-311996-09-09CanadaCamellia Cleansing BalmSalve54.0999 g/100mLTopicalTov Co., Ltd2016-11-07Not applicableUSCanadian National Pharma Group Inc Mineral Oil Heavy USPLiquid100 %OralCanadian National Pharma Group IncNot applicableNot applicableCanadaClean It Zero RadianceCream63.2 mg/100mLTopicalF&Co Co., Ltd.2014-07-012019-11-01USConju Princess Cleansing BalmGel72.27 g/100mLTopicalConju Korea Inc.2019-03-01Not applicableUSCURAD Lubricant LaxativeEnema118 mL/118mLRectalMedline Industries2012-07-162015-01-01USCVS Mineral OilLiquid1000 mg/1mLOralCVS2020-01-31Not applicableUSDr. Butler Hemorrhoid and PerinealSpray59.8 g/100gTopicalBeyond Health p.a.2021-07-26Not applicableUSMixture ProductsNameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImage7 Select Hemorrhoidal Original StrengthMineral oil (140 mg/1g) + Petrolatum (749 mg/1g) + Phenylephrine hydrochloride (2.5 mg/1g)OintmentTopical7-ELEVEN, INC.2016-12-07Not applicableUSAGAROLMineral oil (28.22 mg) + Sodium picosulfate monohydrate (33.34 mg)EmulsionOralCOASPHARMA S.A.S.2018-06-22Not applicableColombiaAgarol Eml StrawberryMineral oil (1.6 mL / 5 mL) + Glycerin (200 mg / 5 mL) + Phenolphthalein (65 mg / 5 mL)EmulsionOralWarner Lambert Canada Inc.1992-12-311997-09-15CanadaAgarol PlainMineral oil (1.6 mL / 5 mL) + Glycerin (800 mg / 5 mL)EmulsionOralNumark Laboratories, Inc.1998-11-302016-06-02CanadaAgarol Plain EmlMineral oil (1.6 mL / 5 mL) + Glycerin (800 mg / 5 mL)EmulsionOralWarner Lambert Canada Inc.1992-12-311998-08-17CanadaAgarol Vanilla Laxative LiqMineral oil (1.6 mL / 5 mL) + Glycerin (200 mg / 5 mL) + Phenolphthalein (65 mg / 5 mL)LiquidOralWarner Lambert Canada Inc.1992-12-311997-09-15CanadaAlpha KeriMineral oil (91.7 %) + Lanolin (3 %)LiquidTopicalBristol Myers Squibb1958-12-311999-08-09CanadaAltalubeMineral oil (150 mg/1g) + Petrolatum (850 mg/1g)OintmentOphthalmicAltaire Pharmaceuticals Inc.2002-02-01Not applicableUSApj HemorrhoidalMineral oil (140 mg/1g) + Petrolatum (720 mg/1g) + Phenylephrine hydrochloride (2.55 mg/1g)OintmentTopicalA P J Laboratories Limited2013-07-01Not applicableUSAquaxMineral oil (75 mg/150g) + Petrolatum (75 mg/150g)CreamTopicalPella Pharmaceuticals Co. ltd2010-03-25Not applicableUSUnapproved/Other Products 
+
+
+NameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImageCamellia Cleansing BalmMineral oil (54.0999 g/100mL)SalveTopicalTov Co., Ltd2016-11-07Not applicableUSElgoalin HISENGMineral oil (55 g/100g) + Petrolatum (35 g/100g)LiquidTopicalElgoalin Bio Co.,Ltd2022-04-18Not applicableUSFleetMineral oil (100 g/100mL) + Witch hazel (5 g/1)KitRectal; TopicalC.B. Fleet Company, Inc.2019-02-15Not applicableUSiBOMineral oil (55 g/100mL)LiquidOralElgoalin Bio Co.,Ltd2022-04-18Not applicableUSIonicMineral oil (100 g/100mL)LiquidTopicalAML Bio Co., Ltd.2020-11-09Not applicableUSKeeper medalMineral oil (100 g/100mL)LiquidTopicalAML Bio Co., Ltd.2020-11-09Not applicableUSMizon Collagenic Aqua Volume Up Li P Essence RenewalMineral oil (7.26 g/10mL) + Octinoxate (0.40 g/10mL)LiquidTopicalMizon Co.,Ltd.2018-07-01Not applicableUSNature and Health Beauty (Moisturizing Cream, Whitening Cream)Mineral oil (1.2 g/120g) + Glycerin (1.2 g/120g)CreamTopicalNature And Health Beauty Co., Ltd.2015-04-16Not applicableUSNature and Health Beauty (Moisturizing Cream, Whitening Cream) (Mineral Oil and Glycerin)Mineral oil (1 g/100mL) + Glycerin (1 g/100mL)CreamTopicalNature And Health Beauty Co., Ltd.2016-03-23Not applicableUSNature and Health Beauty (Moisturizing Cream, Whitening Cream) (Mineral Oil and Glycerin)Mineral oil (1.2 g/120g) + Glycerin (1.2 g/120g)CreamTopicalNature And Health Beauty Co., Ltd.2016-03-13Not applicableUSCategoriesATC CodesA06AA01 — Liquid paraffinA06AA — Softeners, emollientsA06A — DRUGS FOR CONSTIPATIONA06 — DRUGS FOR CONSTIPATIONA — ALIMENTARY TRACT AND METABOLISMA06AA51 — Liquid paraffin, combinationsA06AA — Softeners, emollientsA06A — DRUGS FOR CONSTIPATIONA06 — DRUGS FOR CONSTIPATIONA — ALIMENTARY TRACT AND METABOLISMDrug CategoriesAlimentary Tract and Metabolism
+Basic Ointments and Protectants
+Dermatologicals
+Drugs for Constipation
+Emollients
+Laxatives
+Softener and Emollient Laxatives
+Softeners, EmollientsClassificationNot classifiedAffected organismsNot AvailableChemical IdentifiersUNIIT5L8T28FGPCAS number8042-47-5ReferencesGeneral ReferencesMackerer CR, Griffis LC, Grabowski Jr JS, Reitman FA: Petroleum mineral oil refining and evaluation of cancer hazard. Appl Occup Environ Hyg. 2003 Nov;18(11):890-901. [Article] Kleiman N (2018). Dry Skin. In Compendium of Therapeutic Choices for Minor Ailments (2nd ed.). Canadian Pharmacists Association. External LinksPubChem Substance347911096RxNav258439WikipediaMineral_oilMSDSDownload (48 KB) Clinical TrialsClinical Trials 
+
+
+PhaseStatusPurposeConditionsCount4CompletedBasic ScienceInflammation14CompletedDiagnosticAnatomic renal artery stenosis / Chronic Kidney Disease (CKD) / Lung Cancer / Pulmonary Embolism14CompletedDiagnosticCoronary Artery Stenosis14CompletedOtherHepatocellular Carcinoma14CompletedTreatmentDry Eye Syndrome (DES)24RecruitingTreatmentDry Eyes14Unknown StatusSupportive CareThe Study Focus to Improve the Standard of Care Used for Aluminuim Phosphide Poisoning and to Save Patients With the Minimal Organ Damage14Unknown StatusTreatmentContact Dermatitis / Dermatitis, Occupational14Unknown StatusTreatmentFemale Infertility14WithdrawnTreatmentIron Deficiency (ID)1PharmacoeconomicsManufacturersNot AvailablePackagersNot AvailableDosage FormsFormRouteStrengthEnemaRectal133 g/133mLSolutionOral100 mLSuspensionOralEmulsionOralLiquidOralOilTopical99.9 g/100mLSuspensionTopicalLiquidTopical63.4 %StickTopicalSalveTopical54.0999 g/100mLCreamTopical63.2 mg/100mLGelTopical72.27 g/100mLSprayTopical59.8 g/100gOintmentOphthalmicLiquidOral99 g/100gEnemaRectal1 mL/1mLEnemaRectal118 mL/118mLLiquidRectal100 mL/100mLLiquidRectal100 g/100mLKitOphthalmicSolutionOphthalmicOintmentTopical52.74 % w/wLotionTopical18 %EnemaRectal100 g/100mLKitRectal; TopicalEnemaRectal100 %EnemaRectal100 % w/wOintmentTopical100 %GelTopicalLotionTopical100 %CreamRectalLiquidOralSolutionTopicalLiquidOral; TopicalLiquidOral1000 mg/1mLLiquidTopical1000 mg/1mLLiquidOral55 g/100mLLiquidTopical8 g/100mLGelOral78 % w/wLiquidTopical100 g/100mLLiquidOral2.12 g/5mLLiquidOral2.5 mL/5mLGelOral78 %EmulsionOral50 % v/vLiquidTopicalEmulsionOral2.5 ml/5mlOintmentRectal; TopicalEnemaRectal113.115 g/118mLEnemaRectal118 g/118mLLiquidOral100 %LiquidOral999 mg/1mLLiquidOral; Topical99.9 mg/1mLLiquidOral; Topical999 mg/1mLOilOral100 mg/100mLOilOral471.9528 g/472mLOilOral; Topical100 mg/100mLOilOral; Topical15 mg/15mgOilOral; Topical15 mL/15mLOilOral; Topical15 mg/15mLOilRectal100 g/100gSolutionOral1000 mg/1mLLiquidTopical100 %OilTopical471.99 g/472mLLiquidOral30 mL / doseSolutionOral99.9 %SolutionOral99.9 % w/wCreamTopicalOilTopicalLiquidTopicalOilTopical327.54 g/410mLOilOral1 mg/1mLOilTopical99.9 mL/100mLEmulsionOralOilOral999 mg/1mLOintmentTopical14 %CreamTopical0.45 g/45gCreamTopical0.45 g/45mLCloth; cream; kitTopicalEmulsionOphthalmicLinimentTopicalLiquidTopical75 mg/150mLOilTopical99.5 g/100mLOintmentTopicalCreamTopical49.46 g/90mLOilTopical100 mL/100mLOilTopical1 mL/1mLSolution / dropsOphthalmicGelOphthalmicLotionTopicalOintmentRectalOilTopical100 g/200mLSuspensionEmulsionOral4.83 ml/15MLEmulsionOral7.5 mg/15MLPricesNot AvailablePatentsNot AvailablePropertiesStateLiquidExperimental PropertiesPropertyValueSourceboiling point (°C)310MSDSwater solubilityInsolubleMSDSPredicted PropertiesNot AvailablePredicted ADMET FeaturesNot AvailableSpectraMass Spec (NIST)Not AvailableSpectraNot Available×Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   Drug created at December 03, 2015 16:51 / Updated at April 30, 2023 03:04 Product Image×Show full imageInterested in using DrugBank in a commercial product or application?Visit DrugBank.com   Stay up-to-date with the latest from DrugBank!SubscribeThank you for subscribing!AboutAbout DrugBank OnlineBlogWishart Research GroupCareersTerms of UsePrivacy PolicySupportHelp CenterDrugBank Online FAQsContact SupportProductsCommercial Drug DatasetsAcademic Drug DatasetsClinical APIContact Sales
+
+
+
+
+
+
+
+
+Website design by Educe Design & Innovation Inc.

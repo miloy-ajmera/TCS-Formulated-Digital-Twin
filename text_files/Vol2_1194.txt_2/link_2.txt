@@ -1,0 +1,729 @@
+Document Name: role of MIGYLOL 812 in Protective Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6199586/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Evaluation of Different Formulations and Routes for the Delivery of the Ionizing Radiation Mitigator GS-Nitroxide (JP4-039) - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+In Vivo
+
+
+v.32(5); Sep-Oct 2018
+
+
+                    PMC6199586
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (862K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+In Vivo
+
+
+v.32(5); Sep-Oct 2018
+
+
+                    PMC6199586
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+In Vivo. 2018 Sep-Oct; 32(5): 1009–1023. Published online 2018 Sep 3.  doi: 10.21873/invivo.11341PMCID: PMC6199586PMID: 30150422Evaluation of Different Formulations and Routes for the Delivery of the Ionizing Radiation Mitigator GS-Nitroxide (JP4-039)MICHAEL W. EPPERLY,1 PETER WIPF,2,3 RENEE FISHER,1 DARCY FRANICOLA,1 JAN BEUMER,3 SONG LI,3 RHONDA M. BRAND,4 LOUISD.Jr FALO,4 GEZA ERDOS,4 and  JOEL S. GREENBERGER1MICHAEL W. EPPERLY
+1Department of Radiation Oncology, UPMC Hillman Cancer Center, Pittsburgh, PA, U.S.A.Find articles by MICHAEL W. EPPERLYPETER WIPF
+2Department of Chemistry, University of Pittsburgh, Pittsburgh, PA, U.S.A.;
+3Department of Pharmaceutical Science, University of Pittsburgh, Pittsburgh, PA, U.S.A.Find articles by PETER WIPFRENEE FISHER
+1Department of Radiation Oncology, UPMC Hillman Cancer Center, Pittsburgh, PA, U.S.A.Find articles by RENEE FISHERDARCY FRANICOLA
+1Department of Radiation Oncology, UPMC Hillman Cancer Center, Pittsburgh, PA, U.S.A.Find articles by DARCY FRANICOLAJAN BEUMER
+3Department of Pharmaceutical Science, University of Pittsburgh, Pittsburgh, PA, U.S.A.Find articles by JAN BEUMERSONG LI
+3Department of Pharmaceutical Science, University of Pittsburgh, Pittsburgh, PA, U.S.A.Find articles by SONG LIRHONDA M. BRAND
+4Department of Dermatology, University of Pittsburgh, Pittsburgh, PA, U.S.A.Find articles by RHONDA M. BRANDLOUISD.Jr FALO
+4Department of Dermatology, University of Pittsburgh, Pittsburgh, PA, U.S.A.Find articles by LOUISD.Jr FALOGEZA ERDOS
+4Department of Dermatology, University of Pittsburgh, Pittsburgh, PA, U.S.A.Find articles by GEZA ERDOSJOEL S. GREENBERGER
+1Department of Radiation Oncology, UPMC Hillman Cancer Center, Pittsburgh, PA, U.S.A.Find articles by JOEL S. GREENBERGERAuthor information Article notes Copyright and License information Disclaimer
+1Department of Radiation Oncology, UPMC Hillman Cancer Center, Pittsburgh, PA, U.S.A.
+2Department of Chemistry, University of Pittsburgh, Pittsburgh, PA, U.S.A.;
+3Department of Pharmaceutical Science, University of Pittsburgh, Pittsburgh, PA, U.S.A.
+4Department of Dermatology, University of Pittsburgh, Pittsburgh, PA, U.S.A.Joel S. Greenberger, MD, F.A.C.R.O., F.A.C.R., Department of Radiation Oncology, UPMC Hillman Cancer Center, 5150 Centre Avenue, Rm. 533, Pittsburgh, PA 15232. Tel: +1 4126473602, Fax: +1 4126476029 
+ude.cmpu@sjregrebneergReceived 2018 Mar 9; Accepted 2018 May 17.Copyright  2018, International Institute of Anticancer ResearchAbstract. Background/Aim: The mitochondrial targeted GS-nitroxide, JP4-039, is an effective total body irradiation (TBI) mitigator when delivered intravenously (IV) up to 72 h after exposure. Effective systemic and localized administration to oral cavity/oropharynx and esophagus has been demonstrated. The objective of the study was to establish alternatives to IV administration suitable for JP4-039 delivery to mass casualties. Materials and Methods: JP4-039 was administered to C57BL/6 mice by topically applied carboxy-methyl-cellulose microneedle arrays (MNAs) or by intramuscular (IM) injection. Three different formulations that have passed Food and Drug Administration review, namely Captisol, 2-hydroxypropyl-β-cyclodextrin (cyclodextrin), and Miglyol-812-N, were used for drug delivery. Intraoral (IO) administration with each formulation was also evaluated. Results: All tested formulations and MNAs successfully delivered JP4-039. However, IM delivery of the Miglyol-812-N displayed very efficient and highly reproducible radiation mitigation. Conclusion: Effective IM delivery of JP4-039 in animal models after TBI or partial-body irradiation suggested the use of the Miglyol-812-N formulation in both medical indications and radiation countermeasures.Keywords: Ionizing irradiation, radiation mitigation, JP4-039The mammalian response to ionizing irradiation represents a complex, but sequential involvement of multiple cellular death pathways including: apoptosis, necroptosis, ferroptosis, as well as, localized (in-field) and distant (abscopal) toxicity (1,2). Furthermore, partial-body irradiation responses have been shown to be significantly less toxic than total-body irradiation (TBI) depending in part upon the relative percentage of bone marrow sparing (3,4).The discovery of small molecule radiation mitigators (delivered after irradiation exposure, but before the detection of symptoms and signs of toxicity) by targeting key steps in one or more of the cellular death pathways has been successful (5-9). In particular, the mitochondrial targeted GS-nitroxides are effective radiation mitigators (1), which target apoptosis and ferroptosis. GS-nitroxides focus on the cellular events following initial nuclear DNA strand breaks (1,3,10-14) including signaling pathways between nucleus and mitochondria that involve mitochondrial membrane lipid oxidation products. The latter trigger cytochrome-c leakage into the cytoplasm and activation of caspase-mediated apoptosis (7-9,11). The sequence of events in oxidation and peroxidation of both mitochondrial and extra-mitochondrial (endoplasmic reticulum) lipids link apoptosis to other cell death pathways including ferroptosis (2,9,11,15).Initial studies with two GS-nitroxides, XJB-5-131, and JP4-039, have demonstrated the effectiveness of these mitigators in several oxidative-stress models of cell killing. XJB-5-131 has been effective in the amelioration of traumatic brain injury (15). JP4-039 has been proven to be an effective radiation protector and mitigator of total body irradiation (TBI) (1,13), subtotal body esophageal, oral cavity, and oropharynx mucosal damage (16-19). In addition, JP4-039 has been successfully used in combined injury models of unicortical bone wound plus irradiation (20), and in beta-irradiation-induced skin burns, as well (21). JP4-039 formulations used in prior studies (delivered intravenously (IV), orally, or by topical application) have involved novel liposomal preparations and related methodologies (1,7,13,16-18,20).To apply the administration of JP4-039 to large animal models and to clinical trials, enabling the potential delivery to large numbers of civilian or military casualties, we evaluated intramuscular (IM) injection using each of three commercially available formulations approved by the Food and Drug Administration (FDA). We also evaluated topical application by microneedle arrays (MNAs). The results suggested a new methodology for effective and practical administration of JP4-039.Materials and MethodsMice and animal care. C57BL/6J female mice, 6-8 weeks of age, were housed at 5 per cage, according to University of Pittsburgh Institutional Animal Care and Use Committee (IACUC) regulations. Fanconi Anemia mouse models included Fanca–/– on the 129/Sv background, as previously described (14,16,17). All mouse protocols were approved by the IACUC and overseen by the University of Pittsburgh Division of Laboratory Animal Research.Fanca–/– mice, representative of the radiosensitive phenotype (14,16,17), were derived by breeding homozygous deletion recombinant-negative (knockout) mice directly according to previously published methods (20), and were generously supplied by Markus Grompe, M.D., Oregon Health Sciences Center, Portland, OR, USA. Animals were fed irradiation sterilized standard laboratory chow and hyperiodinated water. Polymerase chain reaction (PCR) was used for genotyping.Cell lines and cell culture. Long-term bone marrow cultures were established from C57BL/6NTac, 129/Sv and 129/Sv Fanca–/– mice by isolating bone marrow from the femurs as previously described (1,16-17). Bone marrow stromal cell lines were derived from the long-term bone marrow cultures as previously described (14,16,17). Cells were grown in Dulbecco’s modified Eagle’s medium (Thermo Fisher Scientific, Waltham, MA, USA), supplemented with penicillin/streptomycin (Gibco Life Technologies, Carlsbad, CA, USA) according to published methods (1,16-17).Hematopoietic colony forming assays. Single cell suspensions of fresh bone marrow were assayed for multilineage colony forming unit-granulocyte/erythroid/megakaryocyte/macrophage (CFU-GEMM) in MethoCult GF M3434 (Stem Cell Technologies, Vancouver, British Columbia, Canada), which contains 0.8% methyl-cellulose Iscove’s medium supplemented with insulin, human transferrin, recombinant stem cell factor, recombinant interleukin 3, recombinant interleukin 6, and recombinant human erythropoietin. Colonies of 50 or more cells were scored on days 7 and 14 as previously described (17). Results represent the mean±standard error of at least 6 colony plates of 104 cells/plate (17,20).GS-nitroxide, JP4-039, and control small molecules. The GS-nitroxide, JP4-039, has been previously described in great detail (1), as well as non-mitochondrial targeted 4-amino-Tempo (17,20).MNAs. Briefly, MNAs consisted of carboxy-methyl-cellulose-composed needles, at 100 needles per MNA, in a patch surface area cut to fit on the surface of a mouse ear (1 cm2). The methods for construction of microneedles and for inclusion of JP4-039 in powder form have been described previously (22,23).After shaving and preparation of the skin surface, additional hair was removed by NAIR cream application (Church and Dwight Co, Inc. Ewing, NJ, USA), as previously described (21), to prepare the skin surface area for a placement of a total of 6 MNAs per mouse (600 microneedles per mouse). Each array contained 5-7 μg JP4-039 dry powder. Total amount of JP4-039 delivered in 6 arrays per mouse was 30-40 μg per mouse. MNAs were placed on the dorsal surface of the ears (2 MNAs) on each adult mouse, and four additional MNAs on each dorsal and ventral flank surface of each mouse (total 6/mouse).Preparation of the formulations for IM IV and intraoral (IO) delivery of JP4-039. The formulations tested for delivery of JP4-039 or control small molecules included: F14 (13), detergent supplemented formulation F15 (16-17), Captisol (24) (Figure 1), hydroxypropyl-β-cyclodextrin (cyclodextrin) (2) (Figure 2), Miglyol-812-N (26) (Figure 3), and the mixture of 10% Cremophor EL/10% ethanol/80% water (1). Methods for making F14 and F15 containing JP4-039 have been previously described (13,16-17). The following three new formulations, chosen for IM delivery of JP4-039 with FDA-approved reagents, have proven safety records in prior published or current clinical trial applications (24-26).Open in a separate windowFigure 1Chemical structure of Captisol showing the cyclodextrin cageused to carry the drug.Open in a separate windowFigure 2Cyclodextrin chemical structureOpen in a separate windowFigure 3Miglyol-812-N chemical structure.Captisol (Cydex Pharmaceuticals, Overland Park, KS, USA): The formulation for Captisol consisted of 30% Captisol in 70% deionized water. An amount of 0.3 g of Captisol was added to 0.7 ml of deionized water and vortexed at maximum power at room temperature until the Captisol was dissolved. The volume was adjusted to 1 ml by adding deionized water.2-Hydroxypropyl-β-cyclodextrin (Sigma-Aldrich Corporation, St. Louis, MO, USA): The formulation for cyclodextrin was prepared by adding 0.3 g of 2 cyclodextrin in 0.7 ml of deionized water and vortexing at room temperature until the cyclodextrin was dissolved. The volume of the solution was adjusted to 1 ml by the addition of deionized water.Miglyol-812-N (Product Number: 50050 – Medlab Gear, West Chester, PA, USA): Miglyol 812 is considered as GRAS (Generally Recognized as Safe by the United States FDA. The formulation was used undiluted.Preparation of the JP4-039 mixture for IM delivery with each formulation. The description for the preparation of JP4-039/F14 and JP4-039/F15 has been previously reported (13,16-17). For JP4-039/Cremophor EL and ethanol solution, 4 mg of JP4-039 were dissolved in 100 μl of ethanol, 105 mg of Cremophor EL were added, and vortexed until well-mixed and 800 μl of deionized water were added.To prepare new JP4-039 containing formulations, separate preparations of JP4-039/30% Captisol and JP4-039/30% cyclodextrin were carried out. Eight milligrams of JP4-039 were added to 1 ml of 30% Captisol, or 30% cyclodextrin. JP4-039 was added to the 30% captisol or 30% cyclodextrin and the vial was stirred for 8-10 h until JP4-039 was completely dissolved. To expedite the procedure, after the initial experiments, the solutions were stirred for 1 h at 50˚C. The solutions were stored at room temperature until use.For JP4-039/Migylol-812-N, 1 ml of Miglyol-812-N was drawn through an 18 gauge needle, and transferred to a 10 ml clear screw top glass vial, (ThermoFisher Scientific). JP4-039 was added to the Miglyol-812-N (8 mg/ml) and the solution was stirred for 1 h, at 50˚C. After stirring, the solution was stored at room temperature until used.Pharmacokinetic (PK) studies. The methods for liquid chromatography-tandem Mass Spectrophotometric analysis of mouse plasma for levels of JP4-039 have been previously described (27)Total body irradiation. C57BL/6NTac female mice (Taconic Biosciences, Hudson, NY) were irradiated to 9.25 Gy using a JL Shepherd Model 68 Cesium Irradiator at a dose rate of 325 cGy/min. The specification for gamma energies and flatness of the irradiation beam have previously been published (28). Twenty-four hours later, the mice were injected IM using a 1-ml syringe with a 28 gauge needle. The needle was placed in the quadriceps of the right rear leg and 50 μl of the appropriate mixture containing 8 mg/ml JP4-039 (20 mg/kg) were injected.IO delivery of JP4-039 prior to head and neck irradiation. Each formulation was evaluated for IO delivery at 100 μl/mouse: Fanca+/+ mice (n=16), Fanca–/– mice (n=13). Groups: i) 30 Gy alone to head and neck, ii) 30 Gy + 30% cyclodextrin/JP4-039, iii) 30 Gy + Miglyol-812-N/JP4-039, iv) 30 Gy + 30% Captisol/JP4-039, and v) 0 Gy. Mice were sacrificed at Day 5 after irradiation. Tongue was removed for measurement of percent ulceration (16-17), and bone marrow for the evaluation of the abscopal effect on hematopoietic colony-forming cells including colony forming unit-hematopoietic (CFU-GM), burst forming unit-erythroid (BFUe), and CFU-GEMM, as previously described (16,19).Immediately prior to each head and neck radiation fraction, mice received IO administration of 100 ml of each tested drug. Each subgroup (n=20 mice, for each of the 2 replicate experiments) consisted of non-irradiated control, irradiation only, and subgroups receiving each of the 3 drug formulations immediately prior to each radiation fraction. JP4-039/F15 at 4 mg JP4-039/ml, 4-amino-Tempo/F15 at 4 mg/ml, or F15 alone, all standardized in a 100 μl volume were also tested. Details about the components and preparation of F15 liposome-emulsion have previously been described (16-17). These groups were compared to the groups receiving JP4-039 in Captisol, cyclodextrin, or Miglyol-812-N (n=12 for all groups). Each formulation was also tested alone, without JP4-039 addition. Administration was carried out with non-anesthetized mice by placing the end of a feeding tube attached to a 1 ml insulin syringe.Mouse head and neck irradiation. Mice (n=12) of each genotype were irradiated to the head and neck region with shielding of the rest of the body using a Varian 6 MV linear accelerator, and an irradiation dose rate of 300 cGy/min, according to previously published methods (16-17,19). Groups of mice received 30-Gy single fraction irradiation according to previous publications (16,17).Histopathology of oral cavity tissues. Frozen sections (5 μm) of tongue tissue were stained with hematoxylin and eosin (H and E). H and E stained slides were scored for percent ulceration by 2 blinded observers (16,17,19). For each genotype, at least five specimens with 6 sections per tongue (100 microscopic fields per section) were scored for each condition. Mucositis was quantitated as percent ulceration using LabWorks Image Acquisition Software (UVP BioImaging System, Upland, CA, USA) (16,17). Data are presented as mean percent mucositis±standard deviation. Comparisons between groups were made with the two-sided two-sample t-test.Statistical analysis. For the 10 IM experiments with JP4-039/Miglyol-812-N or JP4-039/cyclodextrin, using all the data, the survival in each treatment group was plotted, and then combined using the Kaplan−Meier method (29). The median survival was calculated, along with its 95% confidence interval. The comparison of survival rates between each treated group and the radiation only group was performed with the stratified log-rank test. Bonferroni correction method (30) was used to adjust these p-values for multiple comparisons. All p-values less than 0.05 were considered statistically significant.ResultsComparison of IV delivery of JP4-039 in four formulations. Previous studies have demonstrated safe delivery of doses of JP4-039 as low as 5 mg/kg and up to 20 mg/kg, delivered in Cremophor EL/EtOH. Minimum toxicity has been detected at the dose of 30 mg/kg (27). IV delivery of JP4-039 in Cremophor/ethanol was compared to the previously published formulation F14 (13,28,31). The results with both Cremphor EL/ETOH and F14 formulations demonstrated effective radiation mitigation at 24 h after 9.25 Gy TBI (data not shown). Next, IV delivery of JP4-039 at 20 mg/kg in two of three FDA-approved formulations was evaluated. Miglyol was not tested as a formulation for IV delivery. IV administration of JP4-039 in both Captisol and cyclodextrin formulations provided effective mitigation, since survival rates were significantly increased in both groups compared to the control (radiation only) (Figure 4 and Figure 5).Open in a separate windowFigure 4JP4-039 in Captisol was effective in mitigating irradiation.C57BL/6NTac female mice (n=20 mice per group) were irradiated to9.25 Gy total body irradiation and injected intravenously 24 h later withJP4-039 (20 mg/kg)/Captisol. JP4-039 was dissolved in 200 μl ofethanol and then diluted in 1,800 μl of 30% Captisol (0.6 g of Captisolin 1.4 ml of PBS). 9.25 Gy irradiated mice administered with JP4-039/30% Captisol had statistically significant increased survival ratecompared to 30% Captisol alone or irradiation alone groups (60% vs.20%, p=0.0135).Open in a separate windowFigure 5Cyclodextrin is an effective formulation for intravenousdelivery of JP4-039 intravenously, 24 h after total body irradiation.Mice (n=12) were administered JP4-039/cyclodextrin at 25 or 30 mg/kgintravenously, 24 h after 9.25 Gy total body irradiation. All showedincreased survival compared to mice receiving irradiation only(p=0.0212 or 0.0040, respectively).IM administration of JP4-039. Since IV delivery is labor intensive in the setting of mass casualties, three formulations were compared regarding the effectiveness of JP4-039 delivery by the IM route. Mice were injected into the dorsal surface of the hind limb with a volume of 50 μl containing 20 mg/kg JP4-039 in Captisol, cyclodextrin, or Miglyol-812-N. All were effective (p<0.05; Figure 6) in comparison to the radiation alone group; however, JP4-039 in Captisol was more difficult to mix, thus we then proceeded to 9 additional replicate experiments with cyclodextrin compared to Miglyol-812-N (Figures 7-15). Effective radiation mitigation was demonstrated in each experiment (except for experiment #2, where differences were not statistically significant), and in pooled data with the LD50/30 dose of TBI of 9.25 Gy in these 10 experiments with female mice (Figure 16).Open in a separate windowFigure 6Effectiveness of intramuscular (IM) delivery of JP4-039 ineach of the three Food and Drug Administration (FDA)-approvedformulations (n=12 mice per group) 24 h after total-body irradiation(Experiment #1). Survival rates in each experimental group werecompared to the control (radiation alone) group.Open in a separate windowFigure 16Summary of all experiments of intramuscular delivery ofJP4-039 using Miglyol-812-N or cyclodextrin. Survival analysis of thepooled data from 10 experiments (Figures 6-15). Using all the data, thesurvival in each treatment group was plotted with the Kaplan−Meiermethod, and the median survival was calculated, along with its 95%confidence interval. The comparison between each treated group andthe radiation only group was performed with the stratified log-rank test.Bonferroni correction method was used to adjust the p-values (Table I)for multiple comparisons as described in the Materials and Methods. The reproducible and stable effectiveness of IM administration of JP4-039 to female mice in multiple experiments over several months and under conditions of variation in response to the 9.25 Gy TBI dose. The above experiments demonstrated that JP4-039 was an effective radiation mitigator when delivered IM in each of 3 formulations. JP4-039 was more easily mixed in cyclodextrin and Miglyol-812-N rather than in Captisol. In addition, Miglyol-812-N required the fewest steps to get JP4-039 into solution.To move JP4-039 forward in drug development, solid evidence of reproducible radiation mitigation is required. Therefore, 10 independent experiments were conducted over 5 months to evaluate the reproducibility of IM delivery of JP4-039 in cyclodextrin compared to JP4-039 in Miglyol-812-N.The steepness of the radiation survival curve for total-body irradiation of C57BL/6 mice has been reported previously (1,28). In several experiments over the 5 months period, the 9.25 Gy TBI dose was 100% lethal. The drift in the LD50/30 dose has previously been observed in our animal facility (1). As shown in Figures 6-15, the dose of 9.25 Gy varied from being 100% lethal at 30 days (LD100/30 for experiment #3) to 80% lethal at 30 days (LD80/30 for experiment #2). In every experiment, radiation mitigation was observed when JP4-039 was IM-delivered in cyclodextrin or Miglyol-812-N.Analysis of the data comparing formulations Miglyol-812-N and cyclodextrin was performed. JP4-039 in both Miglyol-812-N and cyclodextrin demonstrated mitigation as seen by increased survival rates in the corresponding experimental groups. A Kaplan−Meier plot for the three groups is shown in Figure 16. The median survival time and 95% confidence intervals are listed in Table I. The p-values for the comparisons between each treatment group and the radiation only group were all <0.0001 after Bonferroni adjustment. Each treatment group had significantly longer survival than the radiation-only group.Table IMedian survival time after total-body irradiation (TBI) for each intramuscular JP4-039 treatment group compared to the control group (radiation only). Open in a separate windowCI, Confidence interval.The ease of mixing and delivery of Miglyol-812-N (see Materials and Methods section) and reproducible effectiveness of mitigation for the delivery of 20 mg/kg JP4-039 at 50 μl of formulation, 24 h after irradiation, led us to conclude that Miglyol-812-N should be considered the lead candidate formulation for IM delivery of drug for systemic mitigation of TBI.Administration of JP4-039 in carboxy-methyl-cellulose MNAs. Previous studies have demonstrated the effectiveness of daily administration of JP4-039 in the F14 emulsion with respect to stimulation of healing of ionizing irradiation skin damage caused by electron beam (beta) irradiation. We next tested delivery of JP4-039 in a novel topical MNA patch system (22,23). MNA needles were placed on the dorsal surface of the ears and on the flanks as described in the Materials and Methods of C57BL/6NTac mice 24 h after TBI. Each array contained 5-7 μg of JP4-039 powder (total 6 arrays per mouse) delivering 30-40 μg of JP4-039. The results showed significant radiation mitigation with MNAs containing JP4-039 compared to the control (radiation alone) (Figure 17). A summary of the survival rates after mitigation of radiation with IM delivery of JP4-039 in the new formulations or with IV delivery of the drug in F14 liposomal formulation (21) or Crempohor EL/ethanol (C and E) (1) is shown in Figure 18.Open in a separate windowFigure 17Microneedle array (MNA) delivery of JP4-039 improved survival after 9.25 Gy total body irradiation TBI compared to the control (radiation alone) group. Groups of n=12 mice received: i) 9.25 Gy + JP4-039-MNA at 24 h post-irradiation, ii) 9.25 Gy alone. Open in a separate windowFigure 18Survival rates after mitigation of 9.25 Gy total body irradiationby intramuscular delivery of JP4-039 in FDA-approved formulations andby intravenous delivery of the drug in F14 liposomal emulsion orCremphor EL and ethanol (C & E). All experimental groups showedeffective mitigation compared to the control group (radiation alone Furthermore, PK analysis of nitroxide plasma levels in mice administered JP4-039 by MNAs showed detectable drug levels, although the PK showed a slower achievement of maximal plasma levels compared to IV administration (Figure 19). A fluorophore-tagged analog of JP4-039, BODIPY-FL (14) was used, and intraperitoneal (IP) delivery of drug 20 mg/kg in 100 μl was compared to MNA containing 20 to 38 μg powder JP4-039 (Figure 20). Peak delivery was reached more slowly with MNA compared to the IV route, perhaps due to sustained release by MNAs (Figure 20).Open in a separate windowFigure 19Pharmacokinetics of JP4-039. Levels of JP4-039 in (a) liver, (b) lung, (c) kidney, and (d) serum were measured to compare drug deliveryby microneedle array (MNA; 30-40 μg/mouse) to intravenous (IV) delivery (20 mg/kg).Open in a separate windowFigure 20Pharmacokinetics of JP4-039. Levels of JP4-039-BIODIPYin plasma were evaluated to compare delivery by microneedle array(MNA; 30-40 μg/mouse) to intraperitoneal (IP) delivery (20 mg/kg in100 μl of F14). IO and intra-esophageal administration of JP4-039 in F15 formulation. IO administration of JP4-039 in a modified F14 formulation called F15, which contains detergent, to localize drug to the surface of the mucus membranes, has been published previously (16,17). We next tested the effectiveness of IO administration of JP4-039 in the commercially available formulations, Captisol, cyclodextrin, and Miglyol-812-N. As shown in Figures 21-23, JP4-039/cyclodextrin and JP4-039/Miglyol-812-N, but not JP4-039/captisol delivery reversed the distant marrow suppression of CFU-GM and BFU-e, caused as an abscopal effect after 30-Gy head and neck irradiation to C57BL/6 mice (16,17). Each of the three commercially available formulations demonstrated an effective mitigation of oral tissue damage at 5 days after a single dose of 30-Gy radiation to head and neck region of 129/Sv mice (Figure 24), and was equivalent in potency to the novel F15 emulsion used in prior studies (Table II) (16,17). There was no reduction in irradiation-induced mucositis by delivery of 4-amino-Tempo in Miglyol-812-N, or Miglyol-812-N alone (data not shown).Open in a separate windowFigure 24Intraoral delivery of JP4-039 0.4 mg in 100 μl in Captisol,cyclodextrin, Miglyol-812-N, or F15 emulsion ameliorates oral cavityradiation-induced mucositis. Fanca+/+ mice were treated with JP4-039in 30% Captisol, 30% cyclodextrin, or Miglyol (400 μg/mouse) 10 minbefore irradiation to 30 Gy to the oral cavity. At Day 5, tongue tissuewas removed for the histopathological evaluation of oral cavity. All ofthe treatment groups had significantly higher percentage of mucositiscompared to the 0 Gy groups (p<0.0001). All the mice treated with JP4-039 in Captisol, cyclodextrin, or Miglyol had significantly decreasedmucositis compared to 30 Gy (p=0.0010, 0.0055 or 0.0037,respectively). JP4-039/Miglyol had significantly lower levels ofradiation-induced mucositis than JP4-039/Captisol (p=0.0487). Table IIComparison of three FDA-approved formulations for intraoral delivery of JP4-039. Open in a separate windowDiscussionThe effectiveness of administration of a radiation mitigator is in part dependent on the route of administration and the formulation type (32). Initial studies with the GS-nitroxide drugs, XJB-5-131 and JP4-039, were carried out with a commercially available formulation of Cremophor EL/ethanol, which was used to deliver water insoluble chemotherapy drugs to cancer patients (1). Administration of a radiation mitigator to large numbers of individuals in the event of a radiation accident or other need for radiation countermeasures, would require a stable and practical delivery system (32). Preparation of Cremophor EL/ethanol (1), or the novel lipidic liposomal formulation F14 (13) may not be practical for large numbers of patients/victims.In addition to systemic bioavailability of JP4-039, localized administration of drug has been demonstrated in preclinical models of irradiation-induced oral cavity, and oropharynx mucositis and esophagitis (16,17). The F15 formulation is novel in its construction and methodology, and contains a detergent to localize drug to specific organ targets (16,17). However, we intended to substitute F15 with a formulation that is FDA approved and requires fewer steps for preparation, is more stable, and is deliverable in a route other than local administration. In the present study, we analyzed the effectiveness of three commercially available FDA-approved formulations delivered IM, IV or locally in experimental systems initially used to demonstrate the effectiveness of JP4-039, Cremophor EL/ethanol, and F14 emulsion.There are multiple FDA-approved drugs containing Captisol. Some examples include Kyprolis (33), IV administration of Vfend-Lyophilized powder (34), and Nexterone (Amiodarone) (35). Each ml of Nexterone contains 50 mg of amiodarone HCI, 225 mg sulfobutylether beta-cyclodextrin sodium, 3.8 mg citric acid monohydrate, 2.1 mg sodium citrate dehydrate and water for injection (35).A Phase II study has been performed using Captisol as a formulation for delivery of melphalan (36) in the BEAM regimen to prepare lymphoma patients for autologous stem cell transplantation. This avoids the side effects of propylene glycol, which has been used in delivery of melphalan.There are also multiple other FDA-approved drugs containing cyclodextrin. For Abilify (37) IM injections were used. Aripiprazole has been dissolved in cyclodextrin with or without PVP. The cyclodextrin formulation was made by filtration of a cyclodextrin suspension using a Buchi B-191 mini spray drier. The inlet temperature was 120˚C with an outlet temperature of 70˚C and the pump set to 15%, aspirator set to 100% and atomization at 50 l/h. A solvent-drop co-grinding technique was also used to make a powder sample using a cyclodextrin/drug (molar ratio 16:1). Using a ceramic mortar the cyclodextrin was wetted with a few drops of methanol and aripiprazole added slowly. The powders were mixed for about 15 min using a ceramic pestle. Methanol was added to the mixture to maintain a suitable consistency. The final product was dried for 2 h at 40˚C and then equilibrated for 24 h at room temperature. Aripiprazole, PVP and cyclodextrin were blended in a PE bag (38).Other FDA-approved uses of cyclodextrin include its use to deliver E2-CDS IV to the buccal mucosa. IV and local buccal delivery of cyclodextrin formulations of E2-CDS (39) include a phase I clinical trials. In the case of the buccal treatments, bioavailability was estimated at 20-25%.There has been a report of the use of cyclodextrin for the delivery of VTS-270 for treatment of Niemann-Pick disease type C (NPC) (40). NPC is a lethal, autosomal recessive, lysosomal storage that leads to progressive accumulation of unesterified cholesterol and other lipids in the central nervous system (CNS). The National Institute of Health (NIH) Therapeutics for Rare and Neglected Diseases (TRND) program is developing cyclodextrin for the treatment of patients with Niemann-Pick disease type C1 (NPC1) to slow progression of symptoms of the disease (40).In a Phase Ι, non-randomized, open-label, single-center, study ({"type":"clinical-trial","attrs":{"text":"NCT02534844","term_id":"NCT02534844"}}NCT02534844 opened September, 2015), cyclodextrin was intrathecally (IT) administered via lumbar injection to drug naïve cohorts of 3 patients at doses of 200 mg escalated to 300, 400, and 900 mg. Subsequent dose escalations may occur in increments of up to 300 mg. The objectives of that study were to assess the safety, tolerability, feasibility, and PK of IT administered cyclodextrin to NPC1 patients, to determine an active dose of cyclodextrin as measured by changes in plasma 24-(S) hydroxycholesterol (24(S)-HC) concentration, and to evaluate the use of biomarkers and potential clinical outcomes of NPC1. All patients in the cohort received cyclodextrin (n=3) once monthly for at least two doses, and the decision to dose-escalate was based on safety and biochemical data. Safety was assessed by adverse events (AEs), audiologic evaluation, clinical laboratory tests, vital signs, physical examinations, chest x-rays, and electrocardiograms (ECGs). Biochemical efficacy was measured by change from baseline in plasma 24 (S)-HC. PK was assessed for plasma cyclodextrin concentration.Miglyol-812-N is a relatively new lipid carrier for drug delivery studied in the treatment of Leishmaniases. It was investigated as a lipid carrier for buparvaquone where buparvaquone is dissolved in Softisan 154 and then mixed with Miglyol-812 (41). Another treatment for Leishmaniases using Miglyol-B12 has been the encapsulation of amphotericin B using a Pickering emulsion. Amphotericin B was dissolved in DMSO to which CGPLAP (cashew tree gum grafted with polylactide) was added to form an aqueous phase, which was mixed with Miglyol-812, as the organic phase (42). Miglyol-812 in the formulation of naratriptan as a treatment for migraine is being tested for buccal delivery. Naratriptan was dissolved in Transcutol P and then mixed with Miglyol-812 and tested for permeation of porcine buccal tissues. The addition of Miglyol-812 to Transcutol P has resulted in enhanced permeation (24). The oral toxicity of Miglyol-812 has been tested in minipigs (25). Miglyol-812 at 2 mg/kg/day was orally administered daily to minipigs for 6 weeks resulting in sub-chronic oral toxicity, which may indicate the maximum tolerated dose.Miglyol-812-N is currently being used in a clinical trial for Vitamin D deficiency treatment, entitled “Palliative-D” Vitamin D Supplementation to Palliative Cancer Patients – A Double Blind Randomized Controlled Trial. Miglyol-812 is used as a solvent for cholecalciferol or as a placebo, where the patients will be given the drug or placebo for 12 weeks (Clinical Trials gov identifier {"type":"clinical-trial","attrs":{"text":"NCT03038516","term_id":"NCT03038516"}}NCT03038516). In a second clinical trial, Miglyol-812 is being used as a placebo for Vitamin D. This trial is entitled Provent: A randomized, double blind, placebo controlled feasibility study to examine the clinical effectiveness of aspirin and/or vitamin D3 to prevent disease progression in men on active surveillance for prostate cancer (Clinical Trials gov identifier {"type":"clinical-trial","attrs":{"text":"NCT03103152","term_id":"NCT03103152"}}NCT03103152).The results of the present study demonstrate highly effective mitigation against total-body irradiation using JP4-039 delivered IM in captisol (35,36), cyclodextrin (37,39), or Miglyol-812-N (25) with Miglyol-812-N being the easiest to prepare.The MNA-mediated administration of JP4-039 was analyzed using combinations of arrays containing 100 microneedles, each containing dry JP4-039 in powder form (22). MNAs break off in the skin and dissolve slowly, releasing the drug (22,23). This application was also effective in mitigating irradiation induced damage. The PK of achieving whole blood levels were significantly delayed compared to that seen with IV administration (27), although effective radiation mitigation was also achieved. The surface area required for effective administration of JP4-039 by MNA required exposure of a significant volume of skin. If the area on dorsal ears of mice and flanks were extrapolated to a large animal or human, the skin surface area for topical administration would be potentially impractical. Such skin surface availability might obviate use in the situation of combined injury thermal burn plus irradiation, or in situations where heavy clothing could not easily be removed to expose skin. In conclusion, both IM delivery and MNA delivery of JP4-039 was shown to be effective at delivering drug to female C57BL/NTac mice. Studies with male mice and with other mouse strains are in progress.The success and efficiency of IM injection makes it the preferred route for self-administration of JP4-039 in a military battlefield situation or in a civilian setting of mass casualties from detonation of an irradiation device.Conflicts of InterestDrs. Michael W. Epperly, Joel S. Greenberger, and Peter Wipf are Co-Inventors on patents issued for the use of JP4-039 as radiation mitigators.AcknowledgementsSupported by NIAID/NIH grant U19-A168021. This project used the Hillman Animal Facility, which is supported in part by award P30CA047904.​
+                    Open in a separate windowFigure 7Intramuscular delivery Experiment #2: Miglyol-812-N compared to cyclodextrin.Open in a separate windowFigure 8Intramuscular delivery Experiment #3: Miglyol-812-N compared to cyclodextrinOpen in a separate windowFigure 9Intramuscular delivery Experiment #4: Miglyol-812-N compared to cyclodextrin.Open in a separate windowFigure 10Intramuscular delivery Experiment #5: Miglyol-812-N compared to cyclodextrin.Open in a separate windowFigure 11Intramuscular delivery Experiment #6: Miglyol-812-N compared to cyclodextrin.Open in a separate windowFigure 12Intramuscular delivery Experiment #7: Miglyol-812-N compared to cyclodextrin.Open in a separate windowFigure 13Intramuscular delivery Experiment #8: Miglyol-812-N compared to cyclodextrinOpen in a separate windowFigure 14Intramuscular delivery Experiment #9: Miglyol-812-N compared to cyclodextrin.Open in a separate windowFigure 15Intramuscular delivery Experiment #10: Miglyol-812-N compared to cyclodextrin.Open in a separate windowFigure 21Abscopal effect of head and neck irradiation on distantmarrow colony-forming unit-granulocyte-macrophage (CFU-GM) cells.Mice were administered JP4-039 in Miglyol-812-N and irradiated(30 Gy) to the head and neck region. At Day 5, marrow was removedand assayed for hematopoietic colony-forming cells. Open in a separate windowFigure 22Abscopal effect of head and neck irradiation on distant cells (17, 19).marrow burst-forming unit-erythroid (BFU-e) cells(17, 19). Open in a separate windowFigure 23Abscopal effect of head and neck irradiation on distant
+marrow colony-forming unit-granulocyte, erythroid, macrophage,
+megakaryocyte (CFU-GEMM) References1. Rwigema J-CM, Beck B, Wang W, Doemling A, Epperly MW, Shields D, Franicola D, Dixon T, Frantz M-C, Wipf P, Tyurina Y, Kagan VE, Wang H, Greenberger JS. Two strategies for the development of mitochondrial-targeted small molecule radiation damage mitigators. Int J Radiat Oncol Biol Phys. 2011;80(3):860–868. [PMC free article] [PubMed] [Google Scholar]2. Stockwell BR, Angeli JPF, Bayir H, Bush AI, Conrad M, Dixon SJ, Fulda S, Gascon S, Hatzios SK, Kagan VE, Noel K, Jiang X, Linkermann A, Murphy ME, Overholtzer M, Oyagi A, Pagnussat GC, Park J, Ran Q, Rosenfeld CS, Salnikow K, Tang D, Torti FM, Torti SV, Toyokuni S, Woerpel KA, Zhang DD. Ferroptosis: a regulated cell death nexus linking metabolism, redox biology, and disease. Cell. 2017;171:273–283. [PMC free article] [PubMed] [Google Scholar]3. Greenberger JS, Kagan V, Bayir H, Lazo J, Wipf P, Li S, Gao X, Clump D, Epperly MW. Mitochondrial targeted small molecule radiation protectors and radiation mitigators. Front Radiat Oncol. 2012;1:1–12. [PMC free article] [PubMed] [Google Scholar]4. Greenberger JS, Berhane H, Shinde A, Rhieu BH, Bernard M, Wipf P, Skoda EM, Epperly MW. Can radiosensitivity associated with defects in DNA repair be overcome by mitochondrial-targeted antioxidant radioprotectors. Front Oncol. 2014;4:21. [PMC free article] [PubMed] [Google Scholar]5. Fink MP, Macias CA, Xiao J, Tyurina YY, Delude RL, Greenberger JS, Kagan VE, Wipf P. Hemigramicidin-TEMPO conjugates: novel mitochondria-targeted antioxidants. Biochem Pharmacol. 2007;74:801–809. [PubMed] [Google Scholar]6. Fink M, Macias CA, Xiao J, Tyurina YY, Delude RL, Greenberger JS, Kagan VE, Wipf P. Hemigramicidin-TEMPO conjugates: novel mitochondria-targeted antioxidants. Crit Care Med. 2007;35(9):5462–5470. [PubMed] [Google Scholar]7. Jiang J, Belikova NA, Xiao J, Zhao Q, Greenberger JS, Wipf P, Kagan VE. A mitochondria-targeted nitroxide/hemi-gramicidin S conjugate protects mouse embryonic cells against γ-irradiation. Int J Radiat Oncol Biol Phys. 2008;70(3):816–825. [PMC free article] [PubMed] [Google Scholar]8. Kagan VE, Bayir A, Bayir H, Stoyanovsky D, Borisenko GG, Tyurina YY, Wipf P, Atkinson J, Greenberger JS, Chapkin RS, Belikova NA. Mitochondria-targeted disruptors and inhibitors of cytochrome c/cardiolipin peroxidase complexes: a new strategy in anti-apoptotic drug discovery. Mol Nutr Food Res. 2009;53:104–114. [PMC free article] [PubMed] [Google Scholar]9. Kagan VE, Bayir HA, Belikova NA, Kapralov O, Tyurina YY, Tyurin VA, Jiang J, Stoyanovsky DA, Wipf P, Kochanek P, Greenberger JS, Pitt B, Shvedova AA, Borisenko G. Cytochrome c/cardiolipin relations in mitochondria: a kiss of death. Free Radic Biol Med. 2009;46:1439–1453. [PMC free article] [PubMed] [Google Scholar]10. Rajagopalan MS, Gupta K, Epperly MW, Franicola D, Zhang X, Wang H, Zhao H, Tyurin VA, Kagan VE, Wipf P, Kanai A, Greenberger JS. The mitochondria-targeted nitroxide JP4-039 augments potentially lethal irradiation damage repair. In Vivo. 2009;23:717–726. [PMC free article] [PubMed] [Google Scholar]11. Kagan VE, Wipf P, Stoyanovsky D, Greenberger JS, Borisenko G, Belikova NA, Yanamala N, Samhan AAK, Tungekar MA, Jiang J, Tyurina YY, Ji J, Klein-Seetharaman J, Pitt BR, Shvedovah AA, Bayir H. Mitochondrial targeting of electron scavenging antioxidants: regulation of selective oxidation vs. random chain reactions. Adv Drug Deliv Rev. 2009;61(14):1375–1385. [PMC free article] [PubMed] [Google Scholar]12. Epperly MW, Rwigema J-CM, Li S, Gao X, Wipf P, Goff J, Wang H, Franicola D, Shen H, Kagan V, Bernard M, Greenberger JS. Intraesophageal administration of GS-nitroxide (JP4-039) protects against ionizing irradiation-induced esophagitis. In Vivo. 2010;24(6):811–821. [PMC free article] [PubMed] [Google Scholar]13. Goff JP, Epperly MW, Shields D, Wipf P, Dixon T, Greenberger JS. Radiobiologic effects of GS-nitroxide (JP4-039) in the hematopoietic syndrome. In Vivo. 2011;25:315–324. [PMC free article] [PubMed] [Google Scholar]14. Bernard ME, Kim H, Berhane H, Epperly MW, Franicola D, Zhang X, Houghton F, Shields D, Wang H, Bakkenist CJ, Frantz M-C, Wipf P, Greenberger JS. GS-nitroxide (JP4-039) mediated radioprotection of human Fanconi Anemia cell lines. Radiat Res. 2011;176:603–612. [PMC free article] [PubMed] [Google Scholar]15. Jing J, Kline AE, Amoscato A, Samhan-Arias AK, Sparvero LJ, Tyurin VA, Tyruina YY, Fink B, Manole MD, Puccio AM, Okonkwo DO, Cheng JP, Alexander H, Clark RS, Kochanek PM, Wipf P, Kagan VE, Bayir H. Lipidomics identifies cardiolipin oxidation as a mitochondrial target for redox therapy of brain injury. Nat Neurosci. 2012;15(10):1407–1413. [PMC free article] [PubMed] [Google Scholar]16. Berhane H, Shinde A, Kalash R, Xu K, Epperly MW, Goff J, Franicola D, Zhang X, Dixon T, Shields D, Wang H, Wipf P, Li S, Gao X, Greenberger JS. Amelioration of irradiation-induced oral cavity mucositis and distant bone marrow suppression in Fancd2–/– (FVB/N) mice by intraoral JP4-039/F15. Radiat Res. 2014;182:35–49. [PMC free article] [PubMed] [Google Scholar]17. Shinde A, Epperly MW, Franicola D, Cao S, Goff J, Shields D, Wipf P, Wang H, Greenberger JS. Increased longevity of GS-nitroxide (JP4-039) treated mouse long-term bone marrow cultures and radioresistance of derived bone marrow stromal cell lines. In Vivo. 2014;28(5):699–708. [PMC free article] [PubMed] [Google Scholar]18. Epperly MW, Goff JP, Franicola D, Wang H, Wipf P, Li S, Greenberger JS. Esophageal radioprotection in thoracic irradiated mice with transgenic lung tumors by swallowed JP4-039/F15. In Vivo. 2014;28:435–440. [PMC free article] [PubMed] [Google Scholar]19. Willis J, Epperly MW, Fisher R, Zhang X, Shields D, Hou W, Wang H, Li S, Wipf P, Parmar K, Guinan E, Steinman J, Greenberger J. Amelioration of head and neck irradiationinduced mucositis and distant marrow suppression in Fanca and Fancg–/– mice by intraoral administration of GS-nitroxide(JP4-039) Radiat Res. 2018 [PMC free article] [PubMed] [Google Scholar]20. Gokhale AS, Epperly M, Glowacki J, Wang H, Wipf P, Pierce JG, Dixon T, Patrene K, Greenberger JS. Small molecule GS-nitroxide and MnSOD gene therapy ameliorate ionizing irradiation-induced delay in bone wound healing in a novel murine model. In Vivo. 2010;24:377–386. [PMC free article] [PubMed] [Google Scholar]21. Brand R, Epperly MW, Stottlemyer JM, Skoda E, Gao X, Li S, Huq S, Wipf P, Kagan VE, Greenberger JS, Falo LD Jr. A topical mitochondria-targeted redox cycling nitroxide mitigates oxidative stress induced skin damage. J Invest Dermatol. 2017;137:576–586. [PMC free article] [PubMed] [Google Scholar]22. Rosthstein SN, Donahue C, Falo LD Jr., Little SR. In silico programming of degradable microparticles to hide and then reveal immunogenic payloads in vivo. Journal of Materials Chemistry B. 2014;2:6183–6187. [Google Scholar]23. Bediz B, Korkmaz E, Khilwani R, Donahue C, Erdos G, Falo LD Jr, Ozdoganlar OB. Dissolvable microneedle arrays for intradermal delivery of biologics: fabrication and application. Pharm Res. 2014;31:117–135. [PMC free article] [PubMed] [Google Scholar]24. Sattar M, Lane ME. Oral transmucosal delivery of naratriptan. Int J of Pharmaceutics. 2017;514:263–269. [PubMed] [Google Scholar]25. LeBars G, Dion S, Gauthier B, Mhedhbi S, Pohlmeyer-Esch G, Comby P, Vivan N, Ruty B. Oral toxicity of Miglyol-812 in the Gottingen minipig. Regul Toxicol Pharmacol. 2015;73:930–937. [PubMed] [Google Scholar]26. Jaworska M, Sikora E, Ogonowski J. The influence of glicerides oil phase on O/W nanoemulsion formation by pic method. Period Polytech Chem. 2014;58(Sup):43–48. [Google Scholar]27. Christner S, Guo J, Parise RA, Ringeval M, Hoye AT, Wipf P, Epperly MW, Greenberger JS, Beumer JH, Eiseman JL. Liquid chromatography-tandem mass spectrometric assay for the quantitation of the novel radiation protective agent and radiation mitigator JP4-039 in murine plasma. J Pharm Biomed Anal. 2018;150:169–175. [PMC free article] [PubMed] [Google Scholar]28. Steinman J, Epperly M, Hou W, Willis J, Wang H, Fisher R, Liu B, Bahar I, McCaw T, Kagan V, Bayir H, Yu J, Wipf P, Li S, Huq MS, Greenberger JS. Improved total-body irradiation survival by delivery of two radiation mitigators that target distinct cell death pathways. Radiat Res. 2018;189(1):68–83. [PMC free article] [PubMed] [Google Scholar]29. Klein JP, Moeschberger ML. Survival Analysis. Techniques for censored and truncated data, 2nd ed. New. 2003;York:Springer–Verlag Publishers. [Google Scholar]30. Abdi H. The Bonferroni and Sidak Corrections for Multiple Comparisons. Encyclopedia of Measurements and Statistics (Salkind NJ (ed.). Thousand Oaks, California, Sage. 2007;In:103–107. [Google Scholar]31. Goff J, Shields D, Wang H, Skoda E, Sprachman M, Wipf P, Lazo J, Atkinson J, Kagan V, Epperly M, Greenberger JS. Evaluation of ionizing irradiation protectors and mitigators using clonogenic survival of human umbilical cord blood hematopoietic progenitor cells. Exp Hematol. 2013;41(11):957–966. [PMC free article] [PubMed] [Google Scholar]32. Stone HB, Moulder JE, Coleman CN, Ang KK, Anscher MS, Barcellos-Hoff MH, Dynan WS, Fike JR, Grdina DJ, Greenberger JS, Hauer-Jensen M, Hill RP, Kolesnick RN, Macvittie TJ, Marks C, McBride WH, Metting N, Pellmar T, Purucker M, Robbins ME, Schiestl RH, Seed TM, Tomaszewski JE, Travis EL, Wallner PE, Wolpert M, Zaharevitz D. Models for evaluating agents intended for the prophylaxis, mitigation, and treatment of radiation injuries. Report of an NCI Workshop, December 3-4, 2003. Radiat Res. 2004;162(6):711–728. [PubMed] [Google Scholar]33. Dimopoulos MA, Moreau P, Palumbo A, Joshua D, Pour L, Hajek R, Facon T, Ludwig H, Oriol A, Goldschmidt H, Rosinol L, Straub J, Suvorov A, Araujo C, Rimashevskaya E, Pika T, Gaidano G, Weisel K, Goranova-Marinova V, Schwarer A, Minuk L, Masszi T, Karamanesht I, Offidani M, Hungria V, Spencer A, Orlowski RZ, Gillenwater HH, Mohamed N, Feng S, Chng WJ, Endeavor Investigators. Carfilzomib and dexamethasone versus borezomib and dexamethasone for patients with relapsed or refractory multiple myeloma (ENDEAVOR): a randomized, phase 3, open-label, multicenter study. Lancet Oncol. 2016;17(1):27–38. [PubMed] [Google Scholar]34. Erdem E, Harbiyeli II, Boral H, Iikit M, Yaqmur M, Ersoz R. Corneal collagen cross-linking for the management of mycotic keratitis. Mycopathologia. 2018 [PubMed] [Google Scholar]35. Dallefeld SH, Atz AM, Yogev R, Sullivan JE, Al-Uzri A, Mendley SR, Laughon M, Hornik CP, Melloni C, Harper B, Lewandowski A, Mitchell J, Wu H, Green TP, Cohen-Wolkowiez M. A pharmacokinetic model for amiodarone in infants developed from an opportunistic sampling trial and published literature data. J Pharmacokinet Pharmacodyn. 2018 [PMC free article] [PubMed] [Google Scholar]36. Cashen AF, Fletcher T, Ceriotti C, Gao F, Ghobadi A, Vij R, Stockerl-Goldstein K, DiPersio J, Abboud C. Phase II study of propylene glycol melphalan combined with carmustine, etoposide, and cytarabine for myeloablative conditioning in lymphoma patients undergoing autologous stem cell transplantation. Biol Blood Marrow Transplant. 2016;22(12):2155–2158. [PubMed] [Google Scholar]37. Wan H, Zhang L, Zhao H. Efficacy, acceptability, and safety of adjunctive aripiprazole in treatment-resistant depression: a meta-analysis of randomized controlled trials. Neuropsychiatr Dis Treat. 2018;8(14):467–477. [PMC free article] [PubMed] [Google Scholar]38. Mihajlovic T, Kachrimankis K, Graovac A, Djuric Z, Ibric S. Improvement of aripiprazole solubility by complexation with (2-hdroxy)propyl-β-cyclodextrin using spray drying technique. AAPS PharmSciTech. 2012;13(2):623–631. [PMC free article] [PubMed] [Google Scholar]39. Brewster ME, Howes J, Griffith W, Garty N, Bodor N, Anderson WR, Pop E. Intravenous and buccal 2-hydroypropyl-β- cyclodextrin formulations of E2-CDS-Phase I. Clinical Trials, Proceeding of the Eight International Symposium on Cyclodextrin. 1996:507–510. [Google Scholar]40. Berry-Kravis E, Chin J, Hoffman A, Winston A, Stoner R, LaGorio L, Friedmann K, Hernandez M, Ory DS, Porter FD, O’Keefe JA. Long-term treatment of Niemann-Pick type C1 disease with intrathecal 2-hydroxypropyl-β-cyclodextrin. Pediatr Neurol. 2018;80:24–34. [PMC free article] [PubMed] [Google Scholar]41. Monteiro LM, Lobenberg CPC, Rarros de Araujo GL, Bou-Chacra N. Buparvaquone nanostructured lipid carrier: development of an affordable delivery system for the treatment of leishmaniases. Biomed Res Int. 2017;2017:9781603. [PMC free article] [PubMed] [Google Scholar]42. Richter AR, Feitosa JPA, Paula HCB, Goycoolea FM, dePaula RCM. Pickering emulsion stabilized by cashew gum-poly-1-lactide copolymer nanoparticles: Synthesis, characterization, and amphotericin B encapsulation. Colloids Surf B Biointerfaces. 2018;164:201–209. [PubMed] [Google Scholar]Articles from In Vivo are provided here courtesy of International Institute of Anticancer Research
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (862K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

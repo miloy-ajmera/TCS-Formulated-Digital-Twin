@@ -1,0 +1,4625 @@
+Document Name: role of HYDROFOL ACID 1895 in Cold Cream3
+Document link: https://patents.google.com/patent/WO2007100784A2/en
+
+
+
+WO2007100784A2 - Acyl lactylacte compositions for rinse-out and leave-on applications for skin and hair 
+        - Google Patents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WO2007100784A2 - Acyl lactylacte compositions for rinse-out and leave-on applications for skin and hair 
+        - Google Patents
+Acyl lactylacte compositions for rinse-out and leave-on applications for skin and hair 
+       
+
+Download PDF
+Info
+
+Publication number
+WO2007100784A2
+
+
+
+WO2007100784A2
+PCT/US2007/005001
+US2007005001W
+WO2007100784A2
+WO 2007100784 A2
+WO2007100784 A2
+WO 2007100784A2
+ 
+ 
+ 
+US 2007005001 W
+US2007005001 W
+US 2007005001W
+WO 2007100784 A2
+WO2007100784 A2
+WO 2007100784A2
+Authority
+WO
+WIPO (PCT)
+Prior art keywords
+composition
+skin
+hair
+acyl
+lactylate
+Prior art date
+2006-02-27
+
+Application number
+PCT/US2007/005001
+Other languages
+
+
+French (fr)
+    
+
+Other versions
+
+
+WO2007100784A3
+      (en
+
+
+Inventor
+Irene Shapiro
+Gregory Dado
+David Allen
+Branko Sajic
+Original Assignee
+Stepan Company
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+2006-02-27
+Filing date
+2007-02-27
+Publication date
+2007-09-07
+
+
+Priority claimed from US77700106P
+external-priority
+
+
+2007-02-27
+Application filed by Stepan Company
+filed
+Critical
+Stepan Company
+
+
+2007-02-27
+Priority to US12/162,886
+priority
+Critical
+patent/US20090304618A1/en
+
+
+2007-02-27
+Priority to EP07751738A
+priority
+patent/EP1998735A4/en
+
+
+2007-09-07
+Publication of WO2007100784A2
+publication
+Critical
+patent/WO2007100784A2/en
+
+
+2008-02-21
+Publication of WO2007100784A3
+publication
+Critical
+patent/WO2007100784A3/en
+
+Links
+
+
+
+Espacenet
+
+
+
+Global Dossier
+
+
+
+PatentScope
+
+
+
+Discuss
+
+
+
+
+239000000203
+mixture
+Substances
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+219
+
+
+125000002252
+acyl group
+Chemical group
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+84
+
+
+210000003491
+Skin
+Anatomy
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+66
+
+
+238000005187
+foaming
+Methods
+
+
+
+
+0.000
+claims
+abstract
+description
+19
+
+
+239000006210
+lotion
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+16
+
+
+239000002453
+shampoo
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+16
+
+
+230000003301
+hydrolyzing
+Effects
+
+
+
+
+0.000
+claims
+abstract
+description
+15
+
+
+239000002884
+skin cream
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+7
+
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+
+
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+claims
+description
+31
+
+
+239000002253
+acid
+Substances
+
+
+
+
+0.000
+claims
+description
+27
+
+
+239000004094
+surface-active agent
+Substances
+
+
+
+
+0.000
+claims
+description
+27
+
+
+-1
+derivatives thereof
+Substances
+
+
+
+
+0.000
+claims
+description
+22
+
+
+239000000344
+soap
+Substances
+
+
+
+
+0.000
+claims
+description
+21
+
+
+230000002335
+preservative
+Effects
+
+
+
+
+0.000
+claims
+description
+15
+
+
+239000003755
+preservative agent
+Substances
+
+
+
+
+0.000
+claims
+description
+15
+
+
+239000003795
+chemical substances by application
+Substances
+
+
+
+
+0.000
+claims
+description
+10
+
+
+239000003205
+fragrance
+Substances
+
+
+
+
+0.000
+claims
+description
+9
+
+
+239000000839
+emulsion
+Substances
+
+
+
+
+0.000
+claims
+description
+8
+
+
+239000007788
+liquid
+Substances
+
+
+
+
+0.000
+claims
+description
+8
+
+
+102000004169
+proteins and genes
+Human genes
+
+
+
+
+0.000
+claims
+description
+7
+
+
+108090000623
+proteins and genes
+Proteins
+
+
+
+
+0.000
+claims
+description
+7
+
+
+239000002562
+thickening agent
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+230000001815
+facial
+Effects
+
+
+
+
+0.000
+claims
+description
+5
+
+
+239000003906
+humectant
+Substances
+
+
+
+
+0.000
+claims
+description
+5
+
+
+239000002280
+amphoteric surfactant
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000003945
+anionic surfactant
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000003921
+oil
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000002888
+zwitterionic surfactant
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+125000002091
+cationic group
+Chemical group
+
+
+
+
+0.000
+claims
+description
+2
+
+
+239000003974
+emollient agent
+Substances
+
+
+
+
+0.000
+claims
+description
+2
+
+
+239000003093
+cationic surfactant
+Substances
+
+
+
+
+0.000
+claims
+2
+
+
+239000007957
+coemulsifier
+Substances
+
+
+
+
+0.000
+claims
+1
+
+
+238000005516
+engineering process
+Methods
+
+
+
+
+0.000
+abstract
+description
+34
+
+
+238000009472
+formulation
+Methods
+
+
+
+
+0.000
+description
+54
+
+
+229940080352
+Sodium Stearoyl Lactylate
+Drugs
+
+
+
+
+0.000
+description
+33
+
+
+ODFAPIRLUPAQCQ-UHFFFAOYSA-M
+Sodium stearoyl lactylate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCCCCCCCC(=O)OC(C)C(=O)OC(C)C([O-])=O
+ODFAPIRLUPAQCQ-UHFFFAOYSA-M
+0.000
+description
+33
+
+
+KRKNYBCHXYNGOX-UHFFFAOYSA-N
+citric acid
+Chemical compound
+
+
+OC(=O)CC(O)(C(O)=O)CC(O)=O
+KRKNYBCHXYNGOX-UHFFFAOYSA-N
+0.000
+description
+33
+
+
+HEMHJVSKTPXQMS-UHFFFAOYSA-M
+sodium hydroxide
+Chemical compound
+
+
+[OH-].[Na+]
+HEMHJVSKTPXQMS-UHFFFAOYSA-M
+0.000
+description
+33
+
+
+230000000052
+comparative effect
+Effects
+
+
+
+
+0.000
+description
+21
+
+
+239000006260
+foam
+Substances
+
+
+
+
+0.000
+description
+15
+
+
+229910052708
+sodium
+Inorganic materials
+
+
+
+
+0.000
+description
+15
+
+
+239000011734
+sodium
+Substances
+
+
+
+
+0.000
+description
+15
+
+
+235000014113
+dietary fatty acids
+Nutrition
+
+
+
+
+0.000
+description
+13
+
+
+239000000194
+fatty acid
+Substances
+
+
+
+
+0.000
+description
+13
+
+
+150000004665
+fatty acids
+Chemical class
+
+
+
+
+0.000
+description
+13
+
+
+239000011780
+sodium chloride
+Substances
+
+
+
+
+0.000
+description
+13
+
+
+230000002860
+competitive
+Effects
+
+
+
+
+0.000
+description
+12
+
+
+238000000034
+method
+Methods
+
+
+
+
+0.000
+description
+12
+
+
+FAPWRFPIFSIZLT-UHFFFAOYSA-M
+sodium chloride
+Chemical compound
+
+
+[Na+].[Cl-]
+FAPWRFPIFSIZLT-UHFFFAOYSA-M
+0.000
+description
+12
+
+
+239000000654
+additive
+Substances
+
+
+
+
+0.000
+description
+11
+
+
+KEAYESYHFKHZAL-UHFFFAOYSA-N
+sodium
+Chemical compound
+
+
+[Na]
+KEAYESYHFKHZAL-UHFFFAOYSA-N
+0.000
+description
+11
+
+
+NTYZDAJPNNBYED-UHFFFAOYSA-M
+sodium;2-(2-dodecanoyloxypropanoyloxy)propanoate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCC(=O)OC(C)C(=O)OC(C)C([O-])=O
+NTYZDAJPNNBYED-UHFFFAOYSA-M
+0.000
+description
+11
+
+
+239000000975
+dye
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+JVTAAEKCZFNVCJ-UHFFFAOYSA-N
+lactic acid
+Chemical compound
+
+
+CC(O)C(O)=O
+JVTAAEKCZFNVCJ-UHFFFAOYSA-N
+0.000
+description
+10
+
+
+239000004310
+lactic acid
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+235000014655
+lactic acid
+Nutrition
+
+
+
+
+0.000
+description
+10
+
+
+239000008367
+deionised water
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+239000004615
+ingredient
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+BXWNKGSJHAJOGX-UHFFFAOYSA-N
+Cetyl alcohol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCO
+BXWNKGSJHAJOGX-UHFFFAOYSA-N
+0.000
+description
+6
+
+
+229960000541
+cetyl alcohol
+Drugs
+
+
+
+
+0.000
+description
+6
+
+
+229940071209
+stearoyl lactylate
+Drugs
+
+
+
+
+0.000
+description
+6
+
+
+235000021324
+borage oil
+Nutrition
+
+
+
+
+0.000
+description
+5
+
+
+230000004048
+modification
+Effects
+
+
+
+
+0.000
+description
+5
+
+
+238000006011
+modification reaction
+Methods
+
+
+
+
+0.000
+description
+5
+
+
+CODAYFPFZXWNLD-UHFFFAOYSA-N
+2-hydroxypropanoyl octadecanoate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OC(=O)C(C)O
+CODAYFPFZXWNLD-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+230000000996
+additive
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+238000006243
+chemical reaction
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+239000002537
+cosmetic
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+239000003599
+detergent
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+238000010438
+heat treatment
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+238000006460
+hydrolysis reaction
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+239000000463
+material
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+238000002156
+mixing
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+150000003839
+salts
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+235000010956
+sodium stearoyl-2-lactylate
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+239000000126
+substance
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+XUGNVMKQXJXZCD-UHFFFAOYSA-N
+Isopropyl palmitate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCC(=O)OC(C)C
+XUGNVMKQXJXZCD-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+DBMJMQXJHONAFJ-UHFFFAOYSA-M
+Sodium laurylsulphate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCCOS([O-])(=O)=O
+DBMJMQXJHONAFJ-UHFFFAOYSA-M
+0.000
+description
+3
+
+
+239000002585
+base
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+125000004432
+carbon atoms
+Chemical group
+
+
+C*
+
+0.000
+description
+3
+
+
+238000001816
+cooling
+Methods
+
+
+
+
+0.000
+description
+3
+
+
+238000001035
+drying
+Methods
+
+
+
+
+0.000
+description
+3
+
+
+238000011156
+evaluation
+Methods
+
+
+
+
+0.000
+description
+3
+
+
+239000000284
+extract
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+glycerine
+Chemical compound
+
+
+OCC(O)CO
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+235000011187
+glycerol
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+229940075495
+isopropyl palmitate
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+238000004519
+manufacturing process
+Methods
+
+
+
+
+0.000
+description
+3
+
+
+235000019198
+oils
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+239000010452
+phosphate
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+propylene glycol
+Chemical compound
+
+
+CC(O)CO
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+238000005406
+washing
+Methods
+
+
+
+
+0.000
+description
+3
+
+
+YQEMORVAKMFKLG-UHFFFAOYSA-N
+2-stearoylglycerol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OC(CO)CO
+YQEMORVAKMFKLG-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+KWIUHFFTVRNATP-UHFFFAOYSA-N
+Betaine
+Natural products
+
+
+C[N+](C)(C)CC([O-])=O
+KWIUHFFTVRNATP-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+240000006240
+Linum usitatissimum
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000004431
+Linum usitatissimum
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+238000005481
+NMR spectroscopy
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+QIQXTHQIDYTFRH-UHFFFAOYSA-N
+Stearic acid
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(O)=O
+QIQXTHQIDYTFRH-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+KDYFGRWQOYBRFD-UHFFFAOYSA-N
+Succinic acid
+Chemical compound
+
+
+OC(=O)CCC(O)=O
+KDYFGRWQOYBRFD-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+LSNNMFCWUKXFEE-UHFFFAOYSA-L
+Sulphite
+Chemical compound
+
+
+[O-]S([O-])=O
+LSNNMFCWUKXFEE-UHFFFAOYSA-L
+0.000
+description
+2
+
+
+240000008529
+Triticum aestivum
+Species
+
+
+
+
+0.000
+description
+2
+
+
+229940029983
+VITAMINS
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940021016
+Vitamin IV solution additives
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000004480
+active ingredient
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+125000000217
+alkyl group
+Chemical group
+
+
+
+
+0.000
+description
+2
+
+
+125000005233
+alkylalcohol group
+Chemical group
+
+
+
+
+0.000
+description
+2
+
+
+230000004075
+alteration
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+150000001412
+amines
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+238000004140
+cleaning
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000006071
+cream
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000000694
+effects
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000010931
+ester hydrolysis
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+150000002148
+esters
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+238000001125
+extrusion
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+150000002334
+glycols
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+229940071147
+isostearoyl lactylate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+230000001050
+lubricating
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000002736
+nonionic surfactant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000002245
+particle
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+NBIIXXVUZAFLBC-UHFFFAOYSA-N
+phosphoric acid
+Chemical compound
+
+
+OP(O)(O)=O
+NBIIXXVUZAFLBC-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+VBICKXHEKHSIBG-UHFFFAOYSA-N
+rac-1-monostearoylglycerol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OCC(O)CO
+VBICKXHEKHSIBG-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+230000036620
+skin dryness
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000036555
+skin type
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+229940057950
+sodium laureth sulfate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000019333
+sodium laurylsulphate
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+159000000000
+sodium salts
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+239000003760
+tallow
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000008399
+tap water
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000020679
+tap water
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+238000010998
+test method
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+VYGQUTWHTHXGQB-FFHKNEKCSA-N
+trans-Retinyl palmitate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCC(=O)OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C
+VYGQUTWHTHXGQB-FFHKNEKCSA-N
+0.000
+description
+2
+
+
+239000003981
+vehicle
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000011782
+vitamin
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000013343
+vitamin
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229930003231
+vitamins
+Natural products
+
+
+
+
+0.000
+description
+2
+
+
+235000021307
+wheat
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+JFAFJMHHSBNAFV-UHFFFAOYSA-N
+2-hydroxypropanoyl dodecanoate
+Chemical compound
+
+
+CCCCCCCCCCCC(=O)OC(=O)C(C)O
+JFAFJMHHSBNAFV-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940063953
+AMMONIUM LAURYL SULFATE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+BTBJBAZGXNKLQC-UHFFFAOYSA-N
+Ammonium lauryl sulfate
+Chemical compound
+
+
+[NH4+].CCCCCCCCCCCCOS([O-])(=O)=O
+BTBJBAZGXNKLQC-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+NLZUEZXRPGMBCV-UHFFFAOYSA-N
+Butylhydroxytoluene
+Chemical compound
+
+
+CC1=CC(C(C)(C)C)=C(O)C(C(C)(C)C)=C1
+NLZUEZXRPGMBCV-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+MRUAUOIMASANKQ-UHFFFAOYSA-N
+Cocamidopropyl betaine
+Chemical group
+
+
+CCCCCCCCCCCC(=O)NCCC[N+](C)(C)CC([O-])=O
+MRUAUOIMASANKQ-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+SNPLKNRPJHDVJA-UHFFFAOYSA-N
+DL-Panthenol
+Chemical compound
+
+
+OCC(C)(C)C(O)C(=O)NCCCO
+SNPLKNRPJHDVJA-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+235000001809
+DL-alpha-tocopherylacetate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000011626
+DL-alpha-tocopherylacetate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+ZAKOWWREFLAJOT-UHFFFAOYSA-N
+DL-Î±-tocopherylacetate
+Chemical compound
+
+
+CC(=O)OC1=C(C)C(C)=C2OC(CCCC(C)CCCC(C)CCCC(C)C)(C)CCC2=C1C
+ZAKOWWREFLAJOT-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+206010013786
+Dry skin
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+229940100242
+Glycol Stearate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+RFVNOJDQRGSOEL-UHFFFAOYSA-N
+Glycol stearate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OCCO
+RFVNOJDQRGSOEL-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+241000539716
+Mea
+Species
+
+
+
+
+0.000
+description
+1
+
+
+GTDHYNXLIKNVTJ-UHFFFAOYSA-N
+N-(1-hydroxy-2-methylpropan-2-yl)octadecanamide
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)NC(C)(C)CO
+GTDHYNXLIKNVTJ-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229920001451
+Polypropylene glycol
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+229920000289
+Polyquaternium
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+241000399233
+Rita
+Species
+
+
+
+
+0.000
+description
+1
+
+
+229940116199
+STEARAMIDE AMP
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+206010040880
+Skin irritation
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+206010050637
+Skin tightness
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+229940031688
+Sodium C14-16 Olefin Sulfonate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+235000021355
+Stearic acid
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+GSEJCLTVZPLZKY-UHFFFAOYSA-N
+Tris
+Chemical compound
+
+
+OCCN(CCO)CCO
+GSEJCLTVZPLZKY-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229960004418
+Trolamine
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940045997
+Vitamin A
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+FPIPGXGPPPQFEQ-BOOMUCAASA-N
+Vitamin A
+Natural products
+
+
+OC/C=C(/C)\C=C\C=C(\C)/C=C/C1=C(C)CCCC1(C)C
+FPIPGXGPPPQFEQ-BOOMUCAASA-N
+0.000
+description
+1
+
+
+229940046009
+Vitamin E
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229930003427
+Vitamin E
+Natural products
+
+
+
+
+0.000
+description
+1
+
+
+KZENBFUSKMWCJF-UHFFFAOYSA-N
+[5-[5-[5-(hydroxymethyl)thiophen-2-yl]furan-2-yl]thiophen-2-yl]methanol
+Chemical compound
+
+
+S1C(CO)=CC=C1C1=CC=C(C=2SC(CO)=CC=2)O1
+KZENBFUSKMWCJF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+NBIIXXVUZAFLBC-UHFFFAOYSA-K
+[O-]P([O-])([O-])=O
+Chemical compound
+
+
+[O-]P([O-])([O-])=O
+NBIIXXVUZAFLBC-UHFFFAOYSA-K
+0.000
+description
+1
+
+
+150000007513
+acids
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+239000011149
+active material
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000003513
+alkali
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229910052783
+alkali metal
+Inorganic materials
+
+
+
+
+0.000
+description
+1
+
+
+150000004996
+alkyl benzenes
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+150000008051
+alkyl sulfates
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+150000008052
+alkyl sulfonates
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+FPIPGXGPPPQFEQ-OVSJKPMPSA-N
+all-trans-retinol
+Chemical compound
+
+
+OC\C=C(/C)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C
+FPIPGXGPPPQFEQ-OVSJKPMPSA-N
+0.000
+description
+1
+
+
+229910000147
+aluminium phosphate
+Inorganic materials
+
+
+
+
+0.000
+description
+1
+
+
+150000003863
+ammonium salts
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+UIIMBOGNXHQVGW-UHFFFAOYSA-M
+buffer
+Substances
+
+
+[Na+].OC([O-])=O
+UIIMBOGNXHQVGW-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+235000010354
+butylated hydroxytoluene
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+230000005591
+charge neutralization
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+230000003750
+conditioning
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000009826
+distribution
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+229940117373
+dl-alpha tocopheryl acetate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+MOTZDAYCYVMXPC-UHFFFAOYSA-N
+dodecyl hydrogen sulfate
+Chemical compound
+
+
+CCCCCCCCCCCCOS(O)(=O)=O
+MOTZDAYCYVMXPC-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+TVACALAUIQMRDF-UHFFFAOYSA-L
+dodecyl phosphate
+Chemical compound
+
+
+CCCCCCCCCCCCOP([O-])([O-])=O
+TVACALAUIQMRDF-UHFFFAOYSA-L
+0.000
+description
+1
+
+
+230000037336
+dry skin
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000003623
+enhancer
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000002708
+enhancing
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+150000002194
+fatty esters
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+235000013305
+food
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000000499
+gel
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+glycol
+Chemical class
+
+
+OCCO
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+AEMRFAOFKBGASW-UHFFFAOYSA-N
+glycolic acid
+Chemical class
+
+
+OCC(O)=O
+AEMRFAOFKBGASW-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+125000001165
+hydrophobic group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+238000001727
+in vivo
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+JVTAAEKCZFNVCJ-UHFFFAOYSA-M
+lactate
+Chemical compound
+
+
+CC(O)C([O-])=O
+JVTAAEKCZFNVCJ-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+125000000400
+lauroyl group
+Chemical group
+
+
+O=C([*])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H]
+
+0.000
+description
+1
+
+
+230000000670
+limiting
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+150000004702
+methyl esters
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+235000010446
+mineral oil
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000002480
+mineral oil
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000003020
+moisturizing
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+125000001419
+myristoyl group
+Chemical group
+
+
+O=C([*])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])C([H])([H])[H]
+
+0.000
+description
+1
+
+
+230000001264
+neutralization
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000006386
+neutralization reaction
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+230000037311
+normal skin
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+RZVAJINKPMORJF-UHFFFAOYSA-N
+p-acetaminophenol
+Chemical compound
+
+
+CC(=O)NC1=CC=C(O)C=C1
+RZVAJINKPMORJF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000003002
+pH adjusting agent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000012188
+paraffin wax
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000019271
+petrolatum
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229920000059
+polyethylene glycol stearate
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+229920000223
+polyglycerol
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+239000005297
+pyrex
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000000376
+reactant
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000002829
+reduced
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+229960003471
+retinol
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+235000019172
+retinyl palmitate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000011769
+retinyl palmitate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000008257
+shaving cream
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229920002545
+silicone oil
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+230000036556
+skin irritation
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+231100000475
+skin irritation
+Toxicity
+
+
+
+
+0.000
+description
+1
+
+
+CDBYLPFSWZWCQE-UHFFFAOYSA-L
+sodium carbonate
+Chemical compound
+
+
+[Na+].[Na+].[O-]C([O-])=O
+CDBYLPFSWZWCQE-UHFFFAOYSA-L
+0.000
+description
+1
+
+
+239000003549
+soybean oil
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000012424
+soybean oil
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000008117
+stearic acid
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000001384
+succinic acid
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229940029612
+triethanolamine
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+235000019155
+vitamin A
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000011719
+vitamin A
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229950004578
+vitamin A palmitate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+235000019165
+vitamin E
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000011709
+vitamin E
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+150000003712
+vitamin E derivatives
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+239000003871
+white petrolatum
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000004711
+Î±-olefin
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+
+Classifications
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+A61Q19/10—Washing or bathing preparations
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/33—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds containing oxygen
+
+
+A61K8/37—Esters of carboxylic acids
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q5/00—Preparations for care of the hair
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q5/00—Preparations for care of the hair
+
+
+A61Q5/02—Preparations for cleaning the hair
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C11—ANIMAL OR VEGETABLE OILS, FATS, FATTY SUBSTANCES OR WAXES; FATTY ACIDS THEREFROM; DETERGENTS; CANDLES
+
+
+C11D—DETERGENT COMPOSITIONS; USE OF SINGLE SUBSTANCES AS DETERGENTS; SOAP OR SOAP-MAKING; RESIN SOAPS; RECOVERY OF GLYCEROL
+
+
+C11D10/00—Compositions of detergents, not provided for by one single preceding group
+
+
+C11D10/04—Compositions of detergents, not provided for by one single preceding group based on mixtures of surface-active non-soap compounds and soap
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C11—ANIMAL OR VEGETABLE OILS, FATS, FATTY SUBSTANCES OR WAXES; FATTY ACIDS THEREFROM; DETERGENTS; CANDLES
+
+
+C11D—DETERGENT COMPOSITIONS; USE OF SINGLE SUBSTANCES AS DETERGENTS; SOAP OR SOAP-MAKING; RESIN SOAPS; RECOVERY OF GLYCEROL
+
+
+C11D17/00—Detergent materials or soaps characterised by their shape or physical properties
+
+
+C11D17/0047—Detergents in the form of bars or tablets
+
+
+C11D17/006—Detergents in the form of bars or tablets containing mainly surfactants, but no builders, e.g. syndet bar
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/20—Chemical, physico-chemical or functional or structural properties of the composition as a whole
+
+
+A61K2800/28—Rubbing or scrubbing compositions; Peeling or abrasive compositions; Containing exfoliants
+
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C11—ANIMAL OR VEGETABLE OILS, FATS, FATTY SUBSTANCES OR WAXES; FATTY ACIDS THEREFROM; DETERGENTS; CANDLES
+
+
+C11D—DETERGENT COMPOSITIONS; USE OF SINGLE SUBSTANCES AS DETERGENTS; SOAP OR SOAP-MAKING; RESIN SOAPS; RECOVERY OF GLYCEROL
+
+
+C11D1/00—Detergent compositions based essentially on surface-active compounds; Use of these compounds as a detergent
+
+
+C11D1/02—Anionic compounds
+
+
+C11D1/04—Carboxylic acids or salts thereof
+
+
+C11D1/08—Polycarboxylic acids containing no nitrogen or sulfur
+
+
+
+
+
+
+
+
+Abstract
+
+The presently described technology relates to acyl lactylate containing compositions having improved stability and multifunctional performance characteristics (e.g., pH stability, phase stability, hydrolytic stability (e.g., aqueous stability), cleansing, foaming, skin softness and skin moisturization) that may be utilized in rinse-out and leave-on skin and hair applications. The acyl lactylate compositions of the present technology may be delivered to the skin or hair via a conventional delivery vehicle such as a body wash, a shampoo, a bubble bath, a skin cream, or a lotion.
+
+
+
+
+Description
+
+ Attorney Docket No. 1895-17364WO01
+ACYL LACTYLATE COMPOSITIONS FOR RINSE-OUT AND LEAVE-ON APPLICATIONS FOR SKIN AND HAIR
+RELATED APPLICATIONS
+[0001] This application makes reference to, claims priority to and claims the benefit of U.S. provisional patent application No. 60/777,001, filed on February 27, 2006.
+FIELD OF THE INVENTION
+[0002] In general, the presently described technology relates to acyl lactylates and compositions containing such acyl lactylates having improved stability characteristics (e.g., pH stability, phase stability, and hydrolytic stability) that may be utilized in rinse-out and leave-on skin and hair applications such as a body wash, shampoo, liquid hand soap, skin cream, lotion, and the like. In particular, the acyl lactylate compositions provide improved multifunctional performance properties including foaming, cleansing, and skin feel (e.g., softness and moisturization) after application to skin or hair.
+BACKGROUND OFTHE INVENTION
+[0003] In the recent past, it has become increasingly important to consumers that cleansing, foaming compositions (either in a rinse-out or a leave-on delivery vehicle) exhibit high foaming capability while still maintaining mild outcomes to skin and hair. Consequently, efforts have been made to provide products, such as hair shampoos, shower gels, lotions, facial cream, and facial wash foams, showing these two properties. However, at least one of the major problems associated with such products is the difficulty to combine the desired properties into one singular product. Typically, high lathering surfactants are generally very harsh to the skin and hair, while mild surfactants tend to give insufficient lather. As a result, conventionally available rinse-out or leave-on skin and hair treatments tend to inadequately 
+
+provide the combined cleansing and foaming effect desired. Further, additional desired multifunctional properties such as skin softness and skin moisturization are also hindered by the formulation incompatibility of the components used in an effort to impart the desired properties to the resultant final composition.
+[0004] In the past, attempts have been made to overcome these problems by combining harsh surfactants (that generate sufficient lather) with very mild co-surfactants. Such outcomes have not achieved customer satisfaction, product acceptance, or the ability to impart the desired multifunctional properties to skin and hair through one delivery vehicle.
+[0005] For example, U.S. Patent No. 3,728,447 (C J Patterson) discloses hair shampoo compositions containing fatty acid lactylates or glycolates. While the cleaning action of these shampoos is described as being satisfactory, the resultant foam remained minimal. In order to achieve higher foaming action in the described shampoo compositions, the reference indicates that additional (and often expensive) booster surfactants, such as triethanol amine lauryl sulphate, should be incorporated. However, such booster surfactants often cause a high degree of skin irritation.
+[0006] WO 91/09923 (Farris, et al.) describes compositions that comprise an ultra mild surfactant and a foam enhancer. The ultra mild surfactant is an alkyl glyceryl ether sulfonate (AGS) having a hydrophobic group containing a linear alkyl chain containing from about 7 to 9 carbon atoms. Conventional foam boosters, such as amine oxides and water soluble halide salts, are added to improve lather creaminess, volume and stability. Again, such foam boosters can be harsh to the skin and are expensive to incorporate into the final resultant products.
+[0007] EP 0 224 796 (Kao) describes a detergent composition comprising: (a) a phosphate surfactant and (b) an acyl lactylate having an acyl group containing 12 to 18 carbon atoms. Specific examples for such combinations are mixtures of lauryl phosphate and stearoyl lactylate, isostearoyl lactylate and lauroyl Jactylate, respectively. 
+
+[0008] U.S. Patent No. 4,761 ,279 (Eastman Kodak) discloses shaving cream formulations comprising salts of C14-C22 acyl lactylates, saturated monoglycerides, propylene glycol monoesters and humectants.
+[0009] U.S. Patent No. 6,001 ,787 (Pratley) describes a combination of specific short-chain surfactants with specific long-chain surfactants to provide mild cleansing, high foaming skin and hair care compositions. "Such short- chain and long-chain surfactant compositions are expensive to manufacture.
+[0010] Acyl lactylates have been used in personal care formulations to provide skin-feel and hair care benefits. However, it is also known that such components can exhibit hydrolysis in aqueous-based formulations, resulting in a poor shelf-life of the composition. In addition, hydrolysis can cause an increase in acidity of the composition which can be harsh on the skin. Additional components can be added to the formulations to reduce the effect of hydrolysis, but such additional components increase the cost of the formulation.
+[0011] There is, therefore, a need in the cosmetic and personal care fields for a cost-effective rinse-out or leave-on skin or hair aqueous-based composition(s) containing an acyl lactylate of the present technology described herein that achieves superior cleaning and foaming properties in a stable manner (e.g., phase stability, hydrolytic stability (preferably in an aqeuous environment), pH stability, etc.) while imparting improved multifunctional performance properties (e.g., softness and moisturization) to skin and/or hair unlike currently available personal care and cosmetic compositions, in particular those that are aqeuous-based. Further, the ability of such components of the present technology to deliver multifunctional properties permits the use of fewer components in end-use cosmetic or personal care products which, in turn, results in lower costs of production. Additionally, the use of such components can also lead to improved shelf-life for those end-use cosmetic and personal care compositions as well.
+[0012] It has now been surprisingly discovered that cleansing and high foaming can be achieved in rinse-out and leave-on skin and hair applications 
+
+such as a body wash, bubble bath, shampoo, skin cream, or lotion through the use of the particular acyl lactylate compositions of the presently described technology. Unexpectedly, cleansing and foaming properties have been achieved by combining the acyl lactylate with other surfactants, which together achieve stable compositions that impart improved multifunctional performance properties to the skin and hair.
+BRIEF SUMMARY OF THE INVENTION
+[0013] The presently described technology relates to acyl lactylate compositions having improved stability characteristics (e.g., hydrolytic stability (such as aqueous hydrolytic stability), pH stability and phase stability) and improved multifunctional performance properties (e.g., skin and/or hair softness and moisturization) that may be utilized in rinse-out and leave-on skin and hair applications such as a body wash, shampoo, liquid hand soap, bubble bath, skin cream, lotion, and the like. The improved properties are achieved by utilizing acyl lactylate compositions that minimize the amount of lactylic acid present in the acyl lactylate compositions compared to known acyl lactylate compositions. Preferably the amount of lactylic acid present in the acyl lactylate compositions is no greater than about 2.0% by weight of the acyl lactylate composition.
+[0014] In one embodiment there is provided a rinse-out skin or hair composition comprising at least one acyl lactylate composition, wherein the acyl lactylate composition has an amount of lactylic acid present of no more than about 2.0% by weight of the acyl lactylate composition, at least one surfactant, and water.
+[0015] In another embodiment there is provided a soap bar composition comprising at least one acyl lactylate composition, wherein the acyl lactylate composition has an amount of lactylic acid present of no more than about 2.0% by weight of the acyl lactylate composition, at least one surfactant, and water. 
+
+[0016] Further embodiments of the present technology may additionally incorporate fragrances, dyes, proteins, preservatives, opacifying agents, pearlescent agents, thickeners, herbal extracts, vitamins and the like.
+[0017] While the presently described technology will be described in connection with one or more preferred embodiments, it will be understood by those skilled in the art that it is not limited to those emobdiments. On the contrary, the presently described technology includes all alternatives, modifications and equivalents as may be included within the spirit and scope of the appended claims.
+BRIEF DESCRIPTION OF THE DRAWINGS
+[0018] Figure 1 is a graph illustrating the pH stability of the acyl lactylate composition of the present technology in a sodium surfactant system.
+[0019] Figure 2 is a bubble chart comparing the skin-feel properties of a composition in accordance with the present technology with the skin-feel properties of a control composition and competitive compositions.
+[0020] Figure 3 is a bubble chart comparing the skin-feel properties of a composition in accordance with the present technology with the skin-feel properties of compositions prepared with polymeric additives on an equal cost basis.
+[0021] Figure 4 is a bar graph comparing the tackiness properties of a composition in accordance with the present technology with the tackiness properties of compositions prepared with polymeric additives on an equal cost basis.
+[0022] Figure 5 is a bar graph comparing the performance properties of a composition in accordance with the present technology with the performance properties of a control composition. 
+
+ DETAILED DESCRIPTION OF THE INVENTION
+[0023] The skin and hair compositions of the presently described technology comprise at least one acyl lactylate composition having improved stability (e.g., hydrolytic stability (preferably aqueous hydrolytic stability)), pH stability, and/or phase stability as well as multifunctional performance characteristics (e.g., cleansing, foaming, skin softness and skin moisturization), at least one surfactant, and water.
+[0024] Acyl lactylate compositions are commercially available and have been used in food and personal care compositions. Such acyl lactylate compositions are typically prepared by reacting a fatty acid and lactic acid with sodium hydroxide (NaOH) in accordance with the following reaction scheme:
+
+
+
+Heat
+ 
+ lactic add acyl lactylate acyl. lactate
+[0025] The resulting acyl lactylate composition actually comprises a mixture of the components lactylic acid (n>1 ), fatty acid, lactic acid (n=0), acyl lactylate (n>1) and acyl iactate (n=1). Preferably, the acid portions of the acyl lactylate compositions of the present technology are at least partially neutralized (e.g., as sodium salts). Further, the components comprising the 
+
+acyl lactylate composition are present in the composition in varying amounts, depending upon the reaction stoicheometry. In general, however, commercially available acyl lactylate compositions comprise from about 37% to about 53% by weight of the acyl lactate component (n=1), from about 20% to about 25% by weight of the fatty acid component, from about 11% to about 32% by weight of the acyl lactylate component (n>1), from about 4% to about 13% of the lactic acid component, and greater than 2% of the lactylic acid component. Sources for such commercially available acyl lactylates include American Ingredients Company, Kansas City, Missouri, RITA Corporation, Crystal Lake, Illinois, Kerry Bio Science, Hoffman Estates, Illinois, and Abitec, Ltd., Northampton, England.
+[0026] Aqueous-based compositions that contain at least one of the above-described commercially available acyl lactylate compositions are known to be hydrolytically unstable. While not wishing to be bound by any particular theory, it is believed that the lactylic acid component in the acyl lactylate composition causes hydrolysis of the ester components. Ester hydrolysis leads to a drop in pH which in turn increases the rate of ester hydrolysis, resulting in a hydrolytically unstable product.
+[0027] It has been unexpectedly determined that by minimizing the amount of the lactylic acid component in the acyl lactylate composition, the resulting formulated end use products comprising the acyl lactylate compositions described herein have improved hydrolytic stability, improved pH stabilty, and improved viscosity stability at 50Â° C as a function of time as compared to current and commercially available acyl lactylate compositions, namely those commercial applications containing acyl lactylate compositions having an amount of lactylic acid greater than 2.0% by weight of the acyl lactylate. It should be understood that the terms "acyl lactylate" and "acyl lactylate composition" as used herein refer to a mixture of the components lactylic acid (nâ¥1), fatty acid, lactic acid (n=0), acyl lactylate (n>1 ) and acyl lactate (n=1) resulting from the reaction of a fatty acid and lactic acid, unless the context indicates otherwise. 
+
+[0028] The lactylic acid component is preferably present in the acyl lactylate composition in an amount no greater than about 2.0% by weight of the acyl lactylate composition and more preferably no greater than about 1.0% by weight. It is also desirable to minimize the amount of acyl lactylate (n>1) component present in the acyl lactylate composition(s) of the present technology and to maximize the amount of acyl lactate (n=1) component present in the same composition(s). A preferred amount of the acyl lactylate component is about 15% by weight or less, while a preferred amount of the acyl lactate component is at least about 50% or more.
+[0029] Preferred and desirable amounts of the acyl lactylate components are obtained by controlling the stoicheometry of the starting reactants/components. The ratio of lactic acid to fatty acid in the reaction charge is preferably about 1.10:1, alternatively about 1:1, alternatively about 0.9:1, alternatively about 0.8:1. . The degree of neutralization obtained via NaOH addition is desirably at least about 75% or greater, alternatively at least about 80% or greater.
+[0030] The acyl group of the acyl lactylate composition can, preferably, be linear or branched and contains from 10 to 18 carbon atoms. Suitable examples of the acyl lactylate composition include lauroyl lactylate, stearoyl lactylate, isolauroyl lactylate, isostearoyl lactylate, myristoyl lactylate, isomyristoyl lactylate, and salts thereof. Suitable salts include, for example, alkali metal salts (e.g., sodium salts), ammonium salts, and amine salts. The most preferred acyl lactylate compositions for use herein are sodium lauroyl lactylate having a lactylic acid component of about 2.0% by weight or less, and sodium stearoyl lactylate having a lactylic acid component of about 2.0% by weight or less. Such acyl lactylate compositions are available from Stepan Company, Northfield, Illinois under the tradenames STEPANÂ® SLL-FB, and STEPANÂ® SSL-CG, respectively.
+[0031] The acyl lactylate composition is combined with at least one other surfactant to formulate end use products including, but not limited to, a body wash, a shampoo, a liquid hand soap, a liquid facial cleanser, a liquid 
+
+body scrub, a bubble bath, a skin cream of any nature (e.g., facial, hand or body) and a lotion. The surfactant comprises from about 0.5 to about 25 weight percent active of the formulated composition, and the acyl lactylate comprises from about 0.5 to about 25 weight percent active of the formulated composition. The total combination of acyl lactylate and surfactant comprises from about 3 to about 40 weight percent active of the formulated composition.
+[0032] In the cleansing, foaming, rinse-out applications of the present technology, the acyl lactylates may be combined with other anionic, amphoteric, non-ionic and zwitterionic surfactants and water to formulate end use products (e.g., shampoo or body wash) which deliver multifunctional performance properites including, for example, foaming, cleansing, and skin feel after use (e.g., softness and moisturization).
+[0033] Suitable anionic surfactants, include, without limitation: sulfonated alkyl benzene, sulfonated methyl esters, sulfonated alpha olefin, paraffin sulfonate, alkyl sulfate, alkyl alkoxy sulfate, alkyl alkoxy carboxylate, alkyl phosphate, alkyl alkoxy phosphate, alkyl sulfonate, alkyl alkoxylated sulfonate, alkyl isethionate, salts thereof, and combinations thereof. Further examples can be found in "Surface Active Agents and Detergents" (Vol. I and Il by Schwartz, Perry and Berch). Suitable nonionic surfactants include, without limitation: fatty acid amide, ethoxylated fatty acid amide, alkyl alcohol, alkyl alcohol ethoxylate, alkyl phenol ethoxylate, propylene glycol esters, polyglycerol esters, ethylene glycol esters, ethoxylated glycol esters, polypropylene glycol esters, alkylpolyglycoside, alkyl glucamide, and combinations thereof. More examples are generally disclosed in U.S. Patent No. 3,929,678 to Laughlin et al., issued on Dec 30, 1975 at column 13, line 14 through column 16, line 6, incorporated herein by reference. Suitable amphoteric and zwitterionic surfactants include, without limitation, betaines, amine oxides, amphoacetates, amphodipropionates, and amphocarboxyglyconates.
+[0034] Further, other additives such as fragrances, dyes, proteins, preservatives, opacifying agents, thickeners, pearlescent agents and others 
+
+can also be added to the formulated products. Thus, one of ordinary skill in the art will appreciate that the acyl lactylate containing compositions of the present technology may be formulated in a variety of ways necessary to suit the particular end use application.
+[0035] The acyl lactylate compositions of the presently described technology can also be incorporated into combination soap bars with high moisture content (from about 5% to about 20% water, more preferably from about 8% to about 20% water) to deliver skin softness and moisturization properties.
+[0036] In emulsion treatment leave-on skin cream and lotion applications, the acyl lactylate compositions of the present technology can be combined with other co-em ulsifiers (e.g., glycerol monostearate, glycerol stearate, cetyl alcohol, propoxylated fatty alcohol ethers, polygylcerol fatty esters, among others, except cationic types), emollient oils (e.g., white petrolatum, silicone oils, soybean oil, mineral oil, glycerin, among others), humectants, preservatives, dyes, thickeners or water, to formulate such creams and lotions. The resulting formulated products have better pH stability, phase stability at 50Â° C, higher viscosity and smaller particle size distribution that affords improved emulsion stability. Further, Example 4 as described herein provides further insight regarding an emulsion skin lotion utilizing the present technology.
+[0037] The compositions and the methods of producing such compositions herein may be formulated and carried out such that they will have a pH of between about 4.0 to about 8.5, preferably, between about 5.0 to about 7.0. Techniques for controlling pH at recommended usage levels include the use of buffers, alkali, acids, etc., and are well known to those skilled in the art. Optional pH adjusting agents can include, but are not limited to citric acid, succinic acid, phosphoric acid, sodium hydroxide, sodium carbonate, and the like.
+[0038] All documents, e.g., patents and journal articles, cited above and/or below, are hereby incorporated by reference in their entirety. In the 
+
+following Examples, all amounts are stated as percent weight for each of the ingredients unless stated otherwise or provided for in parantheses. In the case of components being further described in parantheses of the examples herein, such amounts are based upon percent active material rather than weight percent. One skilled in the art will recognize that modifications may be made in the presently described technology without deviating from the spirit or scope of the invention. The presently described technology is also illustrated by the following examples, which are not to be construed as limiting the invention or scope of the specific procedures or compositions described herein. All levels and ranges, temperatures, results, etc., used and/or described herein are approximations unless otherwise specified.
+Examples
+Example 1 : Body Wash
+NCl (CTFA) Name/Chemical Name Trade Name/Supplier Name %
+Deionized Water Q.S. to 100.0
+Sodium C14-16 Olefin Sulfonate BIO-TERGEÂ® AS-40 CG 15.0 (3-30% active)
+Ammonium Lauryl Sulfate STEPANOLÂ® AM 21.4 (2-50% active)
+Cocamide MEA NINOLÂ® COMF 2.0 (0.1-10% active)
+STEPANÂ® SSL-CG (Sodium Stearoyl 2.0 (0.1-20% active)
+Lactylate) STEPANÂ® EGAS 1.0 (0.1-10% active)
+Glycol Stearate (And) Stearamide AMP 0.1
+Borage Oil (Roche) q.s.
+Preservative, Dye, Color q.s.
+Sodium Hydroxide 50% solution q.s.
+Citric Acid 50% solution q.s.
+Sodium Chloride
+[0039] The values for each material are provided in terms of weight percent. However, the values noted in parentheses indicate the range for each material in terms of percent active ingredient. Thus, it should be understood by those skilled in the art that the Examples provided herein may be expanded based upon the percentage range of each component material or percent active ingredient noted within the respective formulation.
+Procedure for the manufacture of Example 1 :
+1. Charge vessel with Deionized Water. Start agitation. 
+
+2. Add BIO-TERGE AS-40, STEPANOL AM and NINOL COMF. Start mixing and heating to 160-1650F.
+3. At 160-1650F add STEPAN SSL-CG and STEPAN EGMS, mix until dispersed. Keep mixing at this temperature for 20-25 minutes.
+4. Start cooling to 800F.
+5. At 800F, add Borage Oil mix.
+6. Add preservative, dye, color, if desired. Mix well.
+7. Adjust pH to 5.5 - 6.5 with Sodium Hydroxide or Citric Acid, as necessary.
+8. Adjust viscosity with Sodium Chloride if necessary.
+[0040] The resulting composition delivers a creamy, lubricating foam and leaves a velvety skin after-feel.
+Example 2: Moisturizing Body Wash
+Phase INCI (CTFA) Name/Chemical Name Trade Name/Supplier Name % 
+1 Deionized Water Q.S. to 100.0
+Sodium Laureth Sulfate STEOLÂ® CS-230 23.0 (2-30% active)
+Sodium Lauryl Sulfate STEPANOLÂ® WA-EXTRA 20.0 (2-30% active)
+Cocamidopropyl Belaine AMPHOSOLÂ® HCG 9.8 (0.5-20%active)
+Glycerin (Dow) 0.5 (0.1-10% active)
+STEPANÂ® SSL-CG (Sodium Stearoyl Lactylate) 2.0 (1-20% active)
+Flax Extract ( NatÏnola) 1.0
+Sodium Hydroxide 50% solution q.s.
+Citric Acid 50% solution q.s.
+Sodium Chloride q.s.
+Preservative, Dye, Fragrance q.s
+Procedure:
+1. Charge vessel with Deionized Water. Start agitation.
+2. Add STEOL CS-230, STEPANOL WA-Extra, AMPHOSOL HCG and Glycerin. Mix until homogeneous. Start heating to 160-1650F.
+3. At temperature 160-1650F add STEPANÂ® SSL. Mix until completely dispersed. Keep mixing for 20 minutes.
+4. Start cooling to 800F.
+5. At room temperature add Flax Extract. Mix.
+6. Add preservative, fragrance and dye, if desired.
+7. Adjust pH to 5.5 - 6.5 with Sodium Hydroxide or Citric Acid, if necessary.
+8. Adjust viscosity with Sodium Chloride if necessary.
+[0041] The resulting composition has a creamy, lubricating lather as it gently cleans and moisturizes the skin.
+Example 3: Clear Mild Shampoo 
+
+ Phase INCl (CTFA) Name/Chemical Name Trade Name/Supplier Name % 1 Deionized Water Q.S. to 100.0
+Sodium Laureth Sulfate STEOLÂ® CS-230 46.6 (3-30% active)
+STEPANÂ® SLL-FB (Sodium Lauroyl Lactylate) 3.0 (0.2-30% active)
+STEPANÂ© SSL-CG (Sodium Stearoyl 2.0 (0.2-20% active)
+Lactylate) 1.0
+Hydrolyzed Wheat Protein (Croda) O.5
+DL-PaÏthenol (Roche) PaÏtheÏol q.s.
+Preservative, Dye, Fragrance q.s.
+Citric Acid 50% solution q.s.
+Sodium Hydroxide 50% solution q.s.
+Sodium Chloride
+Procedure:
+1. Charge vessel with Deionized Water. Start agitation.
+2. Add STEOLÂ® CS-230, STEPANÂ® SLL-FB and STEPANÂ® SSL-CG. Start heating to 160-1650F. Mix at 160-1650F for 15-20 minutes.
+3. Cool the batch to 800F.
+4. Add Hydrolyzed Whole Wheat Protein and DL-Panthenol. Mix well.
+5. Add preservative, fragrance, and color, if desired.
+6. Adjust pH to 5.5 - 6.5 with Citric acid or Sodium Hydroxide as necessary.
+7. Adjust viscosity with Sodium Chloride.
+[0042] The resulting composition provides rich, creamy foam and hair conditioning properties.
+Example 4: Skin Lotion
+Phase INCI (CTFA) Name/Chemical Name Trade Name/Supplier Name %
+Deionized Water Q.S. to 100.0
+(Sodium Stearoyl Lactylate) StepanÂ® SSL-CG 1.0 (0.1-10% active)
+(Isopropyl Palmitate) Stepan IPP 10.0 (1-50% active)
+(Glycerol Monostearate) Stepan GMS PURE 3.0 (0.1-10% active)
+(Cetyl Alcohol) Stepan CETYL ALCOHOL, NF 2.0 (0.1-10% active)
+Borage Oil Roche 1.0
+Vitamin A Palmitate Roche 0.01 dl-alpha-Tocopheryl Acetate Roche 0.01
+Preservative, Color, Dye q.s.
+Citric Acid 50% q.s.
+Sodium Hydroxide q.s.
+Procedure:
+1. Prepare water phase. Charge vessel with Deionized Water, add STEPANÂ® SSL-CG, start mixing and heating to 170-1750F.
+2. Prepare oil phase. In a separate container, combine Stepan IPP, Stepan GMS pure and Stepan Cetyl Alcohol. Heat to 170-1750F.
+3. Increase agitation of water phase and slowly add oil phase into the water phase. Emulsify for 20-25 minutes.
+4. Start cooling to 800F. Add Borage Oil, Vitamin A and Vitamin E. Mix. 
+
+5. Adjust pH with Citric Acid to 5.5 - 6.0 as necessary.
+6. Add preservative, color and dye, if desired.
+[0043] The resulting composition provides moisturization while leaving a velvety after-feel on skin.
+Example 5: Syndet Soap Bar
+Syndet Soap Bar Formulation
+3170-58C 3170-58B
+Sodium Cocoyl lsethionate 45.00 45.00
+Stearic Acid 25.00 25.00
+Sodium Tallow/Coco Soap 10.00 10.00
+Sodium lsethionate 5.00 5.00
+Stepan Mild SLL-FB 10.00 0.00
+Stepan Mild SSL-CG 0.00 10.00
+Water 5.00 5.00
+100.00 100.00
+Procedure:
+1. Weight out components.
+2. Amalgamate in a one gallon pail (sodium stearoly lactylate (Stepan Mild SSL-CG) added in powdered form, sodium lauroly lactylate (Stepan Mild SSL- F8) melted at 800C)
+3. Homogenize mixture in 3-roll mill.
+4. Extrude using sigma extruder. Cold water was used to cool barrel of extruder to avoid making material too soft and liquid.
+5. Heated extrusion cone (~50Â°C) used to facilitate extrusion of bars.
+Example 6: Combo Soap Bar
+Combo Soap Bar Formulation
+3170-81
+Sodium Tallow soap Base 84.40
+Citric Acid 0.05
+BHT 0.05
+NaCI 0.50
+Stepan Mild SLL-FB 1.50
+Alpha Step BSS-45 1.50
+Water 12.00
+100.00
+Procedure:
+1. Heat neat soap up to -7O0C.
+2. Blend in Alpha Step BSS-45 and sodium lauroly lactylate until uniform using hydrofoil impeller at 300 ppm. 
+
+3. Spread neat soap mixture to a thin layer on a pyrex drying sheet.
+4. Dry overnight in a 500C oven.
+5. Roll-mill dried soap. Test moisture using Karl Fisher.
+6. Adjust moisture to 12%. Roll-mill. Extrude and stamp into bars.
+Example 7
+[0044] Example 7 is a formulation of a sodium-based surfactant system to which the sodium stearoyl lactylate of the present technology (StepanÂ® SSL-CG) has been added at a concentration of 2% by weight. The StepanÂ® SSL-CG sodium stearoly lactylate was determined by NMR analysis to have a fatty acid content of about 26% by weight, a stearoyl lactate (n=1) content of aout 60% by weight, a stearoyl lactylate (n>1) content of about 9% by weight, a lactic acid (n=0) content of about 4% by weight and a lactylic acid (nâ¥1) content of about 1.4% by weight. The formulation is set forth in Table A.
+Table A: Example 7
+Ingredient Wt. % Active
+STEOLÂ® CS-230 12
+AMPHOSOLÂ® HCG 3
+STEPANÂ® SSL-CG 2
+Water 83
+Example 8 (comparative)
+[0045] Example 8 is a formulation of the same sodium-based surfactant system used in Example 7, except that 2% by weight of a competitive sodium stearoyl lactylate was added to the surfactant system in place of the sodium stearoyl lactylate of the present technology. The competitive sodium stearoyl lactylate was determined by NMR analysis to have a fatty acid content of about 22% by weight, a stearoyl lactate (n=1 ) content of about 45% by weight, a stearoyl lactylate (n>1) content of about 22% by weight, a lactic acid (n=0) content of about 5% by weight, and a lactylic acid (n>1) content of about 6% by weight.
+[0046] The Example 7 and Example 8 formulations were evaluated for hydrolytic stability by keeping the formulations at 50Â° C over a four-week period. The hydrolytic stability of Example 7 and comparative Example 8 over the four-week period is graphically illustrated in Figure 1. 
+
+[0047] As can be seen from Figure 1, the Example 7 formulation containing the sodium stearoyl lactylate of the present technology maintained its pH within a range of about 5.5 to about 6.3 over the four-week period, whereas the Example 8 formulation containing the competitive sodium stearoyl lactylate had a steady drop in pH, down to about 4.6 by the end of the four-week period. The drop in pH for the Example 8 formulation demonstrates that the Example 8 formulation is not hydrolytically stable, whereas the Example 7 formulation, which maintained its pH within the range of about 6.3 to about 5.5, demonstrated enhanced hydrolytic stability. By "enhanced hydrolytic stability" is meant that the formulation exhibits a drop in pH of no more than about 1.0 pH unit at 50Â° C over a four week period.
+Example 9 (Control Formulation)
+[0048] Example 9 is a control body wash formulation, for testing comparison, indicated in weight percent active.
+Example 9
+Ingredient Wt. % Active
+STEOLÂ® CS-230 12.0
+AMPHOSOLÂ® HCG 3.0
+Water 85.0
+Example 10 (comparative)
+[0049] The control formulation from Example 9 was used as a base body wash formulation, and two different commercially available sodium stearoyl lactylates were each added in an amount of 2% by weight to the base body wash formulation to prepare competitive product 1 and competitive product 2 body wash formulations. Competitive product 1 comprised a sodium stearoyl lactylate comprising about 43% by weight stearoyl lactate (n=1), about 28% by weight stearoyl lactylate (n>1), about 20% by weight fatty acid, about 4% by weight lactic acid (n=0), and about 5% by weight lactylic acid (nâ¥1). Competitive prioduct 2 comprised a sodium stearoyl lactylate comprising about 53% by weight stearoyl lactate (n=1), about 11% by weight stearoyl lactylate (n>1 ), about 21% by weight fatty acid, about 13% by weight 
+
+lactic acid (n=0), and about 2.4% by weight lactyiic acid (nâ¥1). The formulations are set forth below in Table B.
+Table B: Example 10 (Comparative)
+Example 10
+Ingredient Wt. % Active
+Competitive Product 1 Competitive Product 2
+STEOLÂ® CS-230 12 12
+AMPHOSOLÂ® HCG 3 3
+SSL (competitor 1 ) 2 â
+SSL (competitor 2) â 2
+Water 83 83
+[0050] The control body wash formulation of Example 9 and the
+Example 7 formulation, which comprises the same surfactant formulation as Example 9, with the addition of STEPANÂ® SSL-CG sodium stearoyl lactylate, were evaluated for foaming and skin-feel. In addition, the Example 10 (comparative) formulations, which are identical to the Example 7 formulation except that competitive sodium stearoyl lactylates were used in place of the STEPANÂ® SSL-CG product, were also evaluated for foaming and skin-feel. The foaming and skin-feel testing was performed using an in-vivo human expert panel test.
+[0051] At least six panelists with different skin types (dry, normal, and moist) were chosen for each test. The skin type of the panelist was determined using a NOVA meter. A NOVA reading less than 100 represents dry skin, 110-130, normal skin and 130 or above, moist skin. The panelists were asked to assess the performance of the experimental product (Example 7) and the control (Example 9) or the commercial products (Example 10) in a blind test using a 1 to 5 rating scale; with 1 being the worst and 5 being the best. Panelists were not told which samples were the experimental formulation, and which samples were the control or commercial product.
+[0052] Panelists were asked to assess the following characteristics during and after the washing procedure: foam volume, skin softness, skin dryness, and tackiness during drying. To identify tackiness during drying, the panelists were instructed that some products may impart a sticky/tacky feel on 
+
+the skin during the transition from a wet to a dry stage. Tackiness can be assessed by touching the fingers of the same hand together or by force required to separate fingers. To identify skin tightness when dry, the panelists were instructed that some products may leave the skin feeling tight or stretched after the skin is completely dry. The panelists were instructed that this property should not be evaluated until the panelist is sure that the hands are completely dry. Similarly, skin dryness was evaluated once the hands were completely dry.
+[0053] To identify skin softness, the panelists were instructed to characterize how soft and smooth the skin feels to the touch. A product can often leave the skin feeling dry, but smooth. The positive extreme would be a smooth velvety feel (ranking of 5 on a 1-5 scale), and the opposite would be a rough feeling skin with some grittiness (ranking of 1 on a 1-5 scale). All samples were coded in order to get a fair comparison between the experimental and control products. Human Panel Test Method
+1. Panelists were asked to pre-wash their hands with 15% active sodium lauryl sulfate solution to remove residue from the skin and establish the baseline before evaluating of experimental body washes.
+2. Hand washing tests were conducted using luke-warm (95Â°F and 105Â°F) running tap water.
+3. Using a syringe, 1 ml of the test product was dispensed to the panelist's wet palm.
+4. The panelists were asked to wash their hands by gently rubbing them together for 30 seconds followed by rinsing under running tap water for 15 seconds.
+5. The washing procedure was repeated and the foam generated was collected and measured using a graduated beaker prior to rinsing.
+6. The hands were rinsed for 15 seconds and dried using paper towel.
+7. The panelists were asked to rank each product for ease of application, wet stage and dry stage (skin-feel) performance properties.
+8. Skin feel evaluation was done at ambient temperature (~25Â°C).
+[0054] The average response for the panelists, for the experimental formulation, is subtracted from the average response for the control formulation. A positive score indicates that the experimental formulation outperformed the control. The results for the comparison of the experimental formulation of Example 7 with the control formulation of Example 9 and the 
+
+comparative formulations of Example 10 are shown in the bubble chart of Figure 2. As illustrated in Figure 2, the formulation of Example 7, comprising the acyl lactylate in accordance with the present technology, gives improved skin-feel characteristics compared to the Example 9 control formulation and the Example 10 comparative formulations.
+[0055] The volume of foam collected in the graduated beakers for each of the formulations was also measured and compared. The measured volume in ml is indicated in each of the bubbles shown in the Figure 2 bubble chart. As illustrated in Figure 2, the Example 7 formulation of the present technology had a foam volume of 75 ml, whereas the Example 10 comparative formulations and the Example 9 control formulation had foam volumes of only 70 ml and 67 ml, respectively.
+[0056] The body wash formulation of Example 7 was also compared for performance properties with body wash formulations prepared with conventional polymeric additives on an equal cost contribution basis. Because conventional polymeric additives are typically more expensive than the presently described acy lactylates, lesser amounts of the polymeric additives were incorporated into the comparative body wash formulations in order to compare the performance properties on a more equal cost basis. The comparative body wash formulations are set forth below in Table C.
+Table C: Polymeric Additive Body Wash Formulations
+Comparative 1 Comparative 2 Comparative 3
+Ingredient Wt. % Active Wt. % Active Wt. % Active
+STEOLÂ® CS-230 12 12 12
+AMPHOSOLÂ® HCG 3 3 3
+Polyquaternium-7 (PQ-7) â additive 0.3 â
+Polyquaternium 10 (PQ- 0.3
+10) additive â â
+Guar Gum â - 0.3
+Water q.s. q.s. q.s.
+[0057] The Table C comparative body wash formulations and the
+Example 7 formulation were compared using the skin-feel test procedure 
+
+described above. The results for the skin feel evaluation in terms of softness and moisturization are shown in the bubble chart of Figure 3. As illustrated in Figure 3, the formulation of Example 7 gives improved softness and moisturization compared to each of the Table C comparative formulations comprising a polymeric additive.
+[0058] The results for the skin feel evaluation in terms of tackiness performance are shown in the bar graph of Figure 4. Tackiness is indicated numerically with 1 being very tacky/sticky and 5 being not tacky. As illustrated in Figure 4, the body wash formulation of Example 7 showed reduced tackiness compared to the Example 10 body wash formulations prepared with polymeric additives.
+Example 11
+[0059] Example 11 is a model skin lotion formulation similar to the skin lotion formulation of Example 4, except that the borage oil and vitamins have been omitted. The Example 11 formulation is prepared following the procedure of Example 4. For comparison purposes, the Example 11 formulation was duplicated, except that a competitive sodium stearoyl lactylate was used in the comparative formulation rather than the StepanÂ® SSL-CG sodium stearoyl lactylate. The Example 11 and Example 11 (comparative) skin lotion formulations are set forth in Table D. 
+
+
+Table D: Example 11
+Ingredients Example 11 Example 11 (comparative)
+Wt % Active Wt % Active
+D.I. Water Q.S. to 100.0 Q.S. to 100.0
+STEPANÂ® SSL-CG (Sodium Stearoyl Lactylate) 1.0 -
+Commercial SSL 1.0
+STEPANÂ® IPP (Isopropyl Palmitate) 10.0 10.0
+STEPANÂ® GMS PURE (Glycerol Stearate) 3.0 3.0
+STEPANÂ® Cetyl Alcohol (Cetyl Alcohol) 2.0 2.0
+Preservative q.s. q.s.
+[0060] Both formulations were adjusted with citric acid, as necessary, in order to have a final pH of 5.0. The viscosity of both formulations was measured. The Example 11 formulation, made with the StepanÂ® SSL-CF sodium stearoyl lactylate, had a viscosity of 10,000 cps, whereas the viscosity of the Example 11 (comparative) formulation was only 5,000 cps. Not only did the Example 11 lotion formulation have higher viscosity than the comparative formulation, photomicrographs of the formulations demonstrated that the Example 11 lotion had a better quality emulsion than the comparative formulation, with smaller and more uniform particle size.
+Example 12
+[0061] A shampoo formulation was prepared by adding 2% by weight of sodium lauroyl lactylate (STEPANÂ® SLL-FB) to the control formulation of Example 9. The shampoo formulation is set forth in Table E. 
+
+ Table E: Example 12 Shampoo Formulation
+Ingredient Wt. % Active STEOLÂ® CS-230 12
+AMPHOSOL HCG 3
+STEPANÂ® SLL-FB 2
+Water 83
+[0062] The performance properties of the Example 12 shampoo formulation were compared with the performance properties of the Example 9 control formulation in terms of lather richness, rinsability, foam volume, and flash foam. The results of the comparison are shown in the bar graph of Figure 5. From Figure 5, it can be seen that the addition of the sodium lauroyl lactylate composition of the present technology provides improved foaming, improved lather richness, and improved flash foam compared to the control formulation.
+[0063] The presently described technology and the manner and process of making and using it, are now described in such full, clear, concise and exact terms as to enable one of ordinary skill in the art to which the present technology pertains, to make and use the same. It should be understood that the foregoing describes some embodiments and advantages of the invention and that modifications may be made therein without departing from the spirit and scope of the presently described technology as set forth in the claims. Moreover, the invention has been described with reference to preferred and alternate embodiments. Modifications and alterations will occur to others upon the reading and understanding of the specification. It is intended to include all such modifications and alterations insofar as they come within the scope of the appended claims or equivalents thereof. To particularly point out and distinctly claim the subject matter regarded as the invention, the following claims conclude this specification. 
+
+
+
+
+
+Claims
+
+ CLAIMS What is claimed is:
+
+1. A rinse-out skin or hair composition comprising:
+at least one acyl lactylate having an amount of lactylic acid of no more than about 2.0% by weight of the acyl lactylate;
+at least one non-cationic surfactant; and
+water.
+
+
+2. The rinse-out skin or hair composition of claim 1, wherein the surfactant is selected from the group consisting of an anionic surfactant, an amphoteric surfactant, a non-ionic sufactant, and a zwitterionic surfactant.
+
+
+3. The rinse-out skin or hair composition of claim 1, wherein the composition further comprises at least one fragrance, dye, protein, preservative, humectant, opacifying agent, thickener, pearlescent agent, derivatives thereof, or combinations thereof.
+
+
+4. The rinse-out skin or hair composition of claim 1, wherein the composition is a shampoo, a body wash, a facial cleanser, a liquid hand soap, a bubble bath or a liquid body scrub.
+
+
+5. The rinse-out skin or hair composition of claim 1, wherein the composition exhibits enhanced aqueous hydrolytic stability compared to acyl lactylates having an amount of lactylic acid of greater than about 2.0% by weight of the acyl lactylates.
+
+
+6. The rinse-out skin or hair composition of claim 1 , wherein the composition exhibits a pH stability in the range of from about 6.5 to about 5.5.
+
+
+7. The rinse-out skin or hair composition of claim 1 , wherein the composition exhibits an improved viscosity stability at 50Â° C as a function of  time compared to acyl lactylates having an amount of lactylic acid of greater than about 2.0% by weight of the acyl lactylates.
+
+
+8. The rinse-out skin or hair composition of claim 1, wherein the composition exhibits improved foaming as compared to acyl lactylates having an amount of lactylic acid greater than about 2.0% by weight of the acyl lactylates.
+
+
+9. The rinse-out skin or hair composition of claim 1, wherein the composition exhibits improved moisturization as compared to acyl lactylates having an amount of lactylic acid greater than about 2.0% by weight of the acyl lactylates.
+
+
+10. A soap bar composition comprising:
+at least one acyl lactylate having an amount of lactylic acid of no more than about 2.0% by weight of the acyl lactylate;
+at least one non-cationic surfactant; and
+water; and
+wherein the soap bar composition has a moisture content of from about 5% to about 20%.
+
+
+11. The soap bar composition of claim 10, wherein the moisture content is from about 8% to about 20%.
+
+
+12. The soap bar of claim 10, wherein the surfactant is selected from the group consisting of an anionic surfactant, an amphoteric surfactant, a non-ionic sufactant, and a zwitterionic surfactant.
+
+
+13. The soap bar of claim 10, wherein the composition further comprises at least one fragrance, dye, protein, preservative, humectant, opacifying agent, thickener, pearlescent agent, derivatives thereof, or combinations thereof.  
+
+
+14. The soap bar of claim 10, wherein the composition exhibits enhanced aqueous hydrolytic stability.
+
+
+15. A leave-on skin or hair emulsion composition comprising:
+at least one acyl lactylate having an amount of lactylic acid of no more than about 2.0% by weight of the acyl lactylate;
+at least one non-cationic co-emulsifier and at least one emollient oil; and
+water.
+
+
+16. The leave-on skin or hair emulsion composition of claim 15, wherein the composition further comprises at least one fragrance, dye, protein, preservative, humectant, opacifying agent, thickener, pearlescent agent, derivatives thereof, or combinations thereof.
+
+
+17. The leave-on skin or hair emulsion composition of claim 15, wherein the composition is a skin cream.
+
+
+18. The leave-on skin or hair emulsion composition of claim 15, wherein the composition is a lotion.
+
+
+19. The leave on skin or hair composition of claim 15, wherein the composition exhibits enhanced aqueous hydrolytic stability.
+
+
+20. The leave on skin or hair composition of claim 15, wherein the composition exhibits improved foaming and moisturization as compared to acyl lactylates having an amount of lactylic acid of greater than about 2.0% by weight of the acyl lactylates. 
+
+
+
+
+
+
+PCT/US2007/005001
+2006-02-27
+2007-02-27
+Acyl lactylacte compositions for rinse-out and leave-on applications for skin and hair 
+       
+
+WO2007100784A2
+            (en)
+        
+
+Priority Applications (2)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+US12/162,886
+
+US20090304618A1
+                          (en)
+                      
+2006-02-27
+2007-02-27
+Acyl lactylate compositions for rinse-out and leave-on applications for skin and hair 
+       
+
+
+EP07751738A
+
+EP1998735A4
+                          (en)
+                      
+2006-02-27
+2007-02-27
+Acyl lactylacte compositions for rinse-out and leave-on applications for skin and hair 
+       
+
+
+
+Applications Claiming Priority (2)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+US77700106P
+2006-02-27
+2006-02-27
+
+
+
+US60/777,001
+
+2006-02-27
+
+
+
+
+Publications (2)
+
+
+
+Publication Number
+Publication Date
+
+
+
+
+
+WO2007100784A2
+true
+WO2007100784A2
+                       (en)
+                   
+
+2007-09-07
+
+
+WO2007100784A3
+WO2007100784A3
+                       (en)
+                   
+
+2008-02-21
+
+
+
+
+
+Family
+ID=38459623
+Family Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+PCT/US2007/005001
+
+WO2007100784A2
+                          (en)
+                      
+
+2006-02-27
+2007-02-27
+Acyl lactylacte compositions for rinse-out and leave-on applications for skin and hair 
+       
+
+
+
+Country Status (3)
+
+
+
+Country
+Link
+
+
+
+
+
+US
+                (1)
+              
+            
+
+
+US20090304618A1
+                  (en)
+              
+
+
+
+EP
+                (1)
+              
+            
+
+
+EP1998735A4
+                  (en)
+              
+
+
+
+WO
+                (1)
+              
+
+
+
+WO2007100784A2
+                  (en)
+              
+
+
+
+
+Cited By (4)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+AU2013203109B2
+              (en)
+            
+*
+
+2012-08-03
+2015-08-27
+Deb Ip Limited
+Formulation for Gritty Foam Dispenser 
+       
+
+
+
+CN107205902A
+              (en)
+            
+*
+
+2014-12-12
+2017-09-26
+è±éå¬å¸
+Comprising straightÎ±olefin sulfonate, the cosmetic composition and cosmetic treatment method of anion surfactant and nonionic and/or amphoteric surfactant 
+       
+
+
+
+US10736824B2
+              (en)
+            
+
+2004-05-07
+2020-08-11
+Deb Ip Limited
+Foamed cleanser with suspended particles 
+       
+
+
+
+IT201900005622A1
+              (en)
+            
+
+2019-04-11
+2020-10-11
+Beauty & Business S P A
+
+  COMPOSITION FOR ECOLOGICAL HAIR DYEING
+ 
+       
+
+
+
+Families Citing this family (3)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US20130252875A1
+              (en)
+            
+*
+
+2012-03-23
+2013-09-26
+Alla Merces
+Thickener Systems For Personal Care and Other Cleansing Compositions 
+       
+
+
+
+WO2020127389A1
+              (en)
+            
+
+2018-12-18
+2020-06-25
+Castrol Limited
+Lubricating compositions comprising carboxylic acid salt additive, uses and methods of preparing 
+       
+
+
+
+DE102020210941A1
+              (en)
+            
+*
+
+2020-08-31
+2022-03-03
+Henkel Ag & Co. Kgaa
+
+  emulsion shampoos
+ 
+       
+
+
+
+Family Cites Families (8)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US4265778A
+              (en)
+            
+*
+
+1977-08-17
+1981-05-05
+Colgate-Palmolive Company
+Soap bar 
+       
+
+
+
+GB9204175D0
+              (en)
+            
+*
+
+1992-02-27
+1992-04-08
+Unilever Plc
+Cleansing composition 
+     
+
+
+
+GB9222335D0
+              (en)
+            
+*
+
+1992-10-23
+1992-12-09
+Unilever Plc
+Acyl lactylates as skin elasticity enhancing agents 
+     
+
+
+
+US5556630A
+              (en)
+            
+*
+
+1995-01-03
+1996-09-17
+Chesebrough-Pond's Usc Co., Division Of Conopco, Inc.
+Cold creams containing acyl lactylates 
+       
+
+
+
+JPH0959694A
+              (en)
+            
+*
+
+1995-08-18
+1997-03-04
+Henkel Japan Kk
+Detergent composition 
+       
+
+
+
+US5911981A
+              (en)
+            
+*
+
+1997-10-24
+1999-06-15
+R.I.T.A. Corporation
+Surfactant blends for generating a stable wet foam 
+       
+
+
+
+US6217852B1
+              (en)
+            
+*
+
+1998-08-15
+2001-04-17
+Skinnovative Dermatologic Concepts, L.L.C.
+Personal cleansing compositions having photoprotective agents 
+       
+
+
+
+US20040076654A1
+              (en)
+            
+*
+
+2002-09-07
+2004-04-22
+The Procter & Gamble Company
+Branched alcohol-based personal care compositions 
+       
+
+
+
+
+
+2007
+
+
+2007-02-27
+EP
+EP07751738A
+patent/EP1998735A4/en
+not_active
+Withdrawn
+
+
+2007-02-27
+WO
+PCT/US2007/005001
+patent/WO2007100784A2/en
+active
+Application Filing
+
+
+
+2007-02-27
+US
+US12/162,886
+patent/US20090304618A1/en
+not_active
+Abandoned
+
+
+
+
+
+
+Non-Patent Citations (1)
+
+* Cited by examiner, â  Cited by third party
+
+
+Title
+
+
+
+
+
+See references of EP1998735A4
+*
+
+
+
+
+
+Cited By (4)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US10736824B2
+            (en)
+          
+
+2004-05-07
+2020-08-11
+Deb Ip Limited
+Foamed cleanser with suspended particles 
+       
+
+
+
+AU2013203109B2
+            (en)
+          
+*
+
+2012-08-03
+2015-08-27
+Deb Ip Limited
+Formulation for Gritty Foam Dispenser 
+       
+
+
+
+CN107205902A
+            (en)
+          
+*
+
+2014-12-12
+2017-09-26
+è±éå¬å¸
+Comprising straightÎ±olefin sulfonate, the cosmetic composition and cosmetic treatment method of anion surfactant and nonionic and/or amphoteric surfactant 
+       
+
+
+
+IT201900005622A1
+            (en)
+          
+
+2019-04-11
+2020-10-11
+Beauty & Business S P A
+
+  COMPOSITION FOR ECOLOGICAL HAIR DYEING
+ 
+       
+
+
+
+
+Also Published As
+
+
+
+Publication number
+Publication date
+
+
+
+
+
+
+WO2007100784A3
+              (en)
+            
+
+2008-02-21
+
+
+
+EP1998735A2
+              (en)
+            
+
+2008-12-10
+
+
+
+EP1998735A4
+              (en)
+            
+
+2012-11-28
+
+
+
+US20090304618A1
+              (en)
+            
+
+2009-12-10
+
+
+
+
+
+Similar Documents
+
+
+
+Publication
+Publication Date
+Title
+
+
+
+
+
+
+
+AU671434B2
+                (en)
+              
+
+
+1996-08-29
+
+Hair shampoo containing acyl lactylate and alkyl polyglycoside 
+       
+
+
+
+
+EP1868558B1
+                (en)
+              
+
+
+2014-04-09
+
+Liquid cleansing composition 
+       
+
+
+
+
+US20090304618A1
+                (en)
+              
+
+
+2009-12-10
+
+Acyl lactylate compositions for rinse-out and leave-on applications for skin and hair 
+       
+
+
+
+
+EP2285943B1
+                (en)
+              
+
+
+2016-08-10
+
+Liquid cleansing compositions 
+       
+
+
+
+
+US6977238B1
+                (en)
+              
+
+
+2005-12-20
+
+Method for making stable aqueous foaming surfactant 
+       
+
+
+
+
+JPH0625090B2
+                (en)
+              
+
+
+1994-04-06
+
+
+  Hair cosmetics
+ 
+       
+
+
+
+
+EP1999242A1
+                (en)
+              
+
+
+2008-12-10
+
+Water compatible emollient for cleansing products related applications 
+       
+
+
+
+
+EP3348630B1
+                (en)
+              
+
+
+2022-03-02
+
+Foaming cleanser 
+       
+
+
+
+
+CN1244788A
+                (en)
+              
+
+
+2000-02-16
+
+Method for removing make-up from skin 
+     
+
+
+
+
+Zocchi
+
+
+2001
+
+Skin-feel agents
+
+
+
+
+JP3557544B2
+                (en)
+              
+
+
+2004-08-25
+
+
+  Horny soft cosmetic
+ 
+     
+
+
+
+
+JP2002226359A
+                (en)
+              
+
+
+2002-08-14
+
+Face washing cream of fatty acid soap 
+       
+
+
+
+
+KR20040095728A
+                (en)
+              
+
+
+2004-11-15
+
+Cleaner composition 
+     
+
+
+
+
+WO2016171384A1
+                (en)
+              
+
+
+2016-10-27
+
+Leave-on type aerosol cosmetic composition 
+       
+
+
+
+
+JP2839897B2
+                (en)
+              
+
+
+1998-12-16
+
+
+  Skin cleansing composition
+ 
+       
+
+
+
+
+JPH10183171A
+                (en)
+              
+
+
+1998-07-14
+
+Solid dertergent composition 
+       
+
+
+
+
+DE10301704A1
+                (en)
+              
+
+
+2004-07-29
+
+Mixture of alkoxylated alkyl (di)glycols and alkyl sulfates, ether sulfates and/or sulfonates useful in cosmetic compositions and washing-up liquids 
+       
+
+
+
+
+JP2019218291A
+                (en)
+              
+
+
+2019-12-26
+
+Creamy external composition and production method thereof 
+       
+
+
+
+
+CN113616553B
+                (en)
+              
+
+
+2023-02-10
+
+Mild and moisture-stable soap-based cleansing cream and preparation method thereof 
+       
+
+
+
+
+JP5427033B2
+                (en)
+              
+
+
+2014-02-26
+
+
+  Detergent composition containing octenyl succinic acid trehalose ester salt composition
+ 
+       
+
+
+
+
+JP3596636B2
+                (en)
+              
+
+
+2004-12-02
+
+
+  Detergent composition
+ 
+     
+
+
+
+
+JP4130287B2
+                (en)
+              
+
+
+2008-08-06
+
+
+  Skin cleanser composition
+ 
+     
+
+
+
+
+CN109464301A
+                (en)
+              
+
+
+2019-03-15
+
+A kind of soap base facial cleanser and preparation method thereof using macromolecule cation polymer preparation 
+       
+
+
+
+
+JPH0816240B2
+                (en)
+              
+
+
+1996-02-21
+
+
+  Liquid detergent composition having a pearl-like appearance
+ 
+     
+
+
+
+
+JP2006062979A
+                (en)
+              
+
+
+2006-03-09
+
+Cosmetic composition 
+       
+
+
+
+
+
+Legal Events
+
+
+
+Date
+Code
+Title
+Description
+
+
+
+
+2007-10-31
+121
+Ep: the epo has been informed by wipo that ep was designated in this application
+
+
+
+
+2008-08-28
+NENP
+Non-entry into the national phase
+
+
+Ref country code:
+              DE
+
+
+
+
+2008-09-04
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              2007751738
+
+
+Country of ref document:
+              EP
+
+
+
+
+2008-10-28
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              12162886
+
+
+Country of ref document:
+              US
+
+
+
+
+
+
+
+
+
+
+
+
+
+

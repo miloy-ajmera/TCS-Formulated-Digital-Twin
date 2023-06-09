@@ -1,0 +1,1304 @@
+Document Name: role of Cremophor A 6 in Barrier Cream3
+Document link: https://www.omicsonline.org/open-access/role-of-surfactants-as-penetration-enhancer-in-transdermal-drug-delivery-system-2329-9053.1000113.php?aid=28051
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GET THE APP
+
+
+
+
+
+
+
+Role of Surfactants as Penetration Enhancer in Transdermal Drug Delivery System | OMICS International
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Publications
+Conferences 
+Register
+Contact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ISSN: 2329-9053
+
+
+Journal of Molecular Pharmaceutics & Organic Process Research 
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+Editorial Panel
+
+Editor-in-Chief
+Editorial Board
+
+
+Instructions for Authors
+Submit Manuscript
+Articles in press
+Archive
+
+Special Issues
+
+Guidelines
+Upcoming Special Issues
+
+
+Metrics
+Contact
+
+
+
+
+
+
+
+Make the best use of Scientific Research and information from our 700+ peer reviewed, Open Access Journals that operates with the help of 50,000+ Editorial Board Members and esteemed reviewers and 1000+ Scientific associations in Medical, Clinical, Pharmaceutical, Engineering, Technology and Management Fields.
+
+
+Meet Inspiring Speakers and Experts at our 3000+ Global Conferenceseries Events with over 600+ Conferences, 1200+ Symposiums and 1200+ Workshops on Medical, Pharma, Engineering, Science, Technology and Business
+
+
+
+
+
+
+ Review Article Open Access 
+
+
+
+ Role of Surfactants as Penetration Enhancer in Transdermal Drug Delivery System 
+
+
+
+Anushree Pandey, Ashu Mittal, Nitesh Chauhan and Sanjar Alam*
+
+
+Department of Pharmaceutics, KIET School of Pharmacy, Ghaziabad, India
+
+
+Corresponding Author : 
+Sanjar Alam
+Department of Pharmaceutics, KIET School of Pharmacy
+Ghaziabad, U.P-201206, India
+Tel: +91-9891674226
+E-mail: [email protected]
+
+
+Received April 28, 2014; Accepted May 13, 2014; Published May 15, 2014
+
+
+Citation: Pandey A, Mittal A, Chauhan N, Alam S (2014) Role of Surfactants as Penetration Enhancer in Transdermal Drug Delivery System. J Mol Pharm Org Process Res 2:113. doi: 10.4172/2329-9053.1000113
+
+
+Copyright: © 2014 Pandey A, et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+
+Related article at
+Pubmed Scholar Google 
+
+
+  Visit for more related articles at  Journal of Molecular Pharmaceutics & Organic Process Research  
+
+
+ View PDF  Download PDF
+ Tables & Figures
+
+
+Abstract
+ Human skin is a remarkably efficient barrier, designed to keep ‘‘our insides in and the outsides out’’. This barrier property causes difficulties for transdermal delivery of therapeutic agents. One long-standing approach to increase the range of drugs that can be effectively delivered via this route has been to use penetration enhancers, chemicals that interact with skin constituents to promote drug flux.
+To-date, a vast array of chemicals has been evaluated as penetration enhancers (or absorption promoters), yet their inclusion into topical or transdermal formulations is limited since the underlying mechanisms of action of these agents are seldom clearly defined. In this article we review some uses of the more widely investigated chemical penetration enhancers and discuss possible mechanisms of action. 
+
+
+
+Keywords
+
+
+Transdermal; Surfactant; Penetration enhancer; Skin
+
+
+Introduction
+
+
+Transdermal drug delivery is the topical application of drugs to the skin in the treatment of skin diseases, wherein high concentrations of drugs can be localized at the site of action, thereby reducing the systemic drug levels and side effects [1-3]. ‘U.S. Emerging Transdermal Drug Delivery Technologies Markets’, reveals that this market generated revenues worth $1.57 billion in 2002 and reached a staggering $5.67 billion in 2009 [4]. In 1924, Rein proposed that a layer of cells joining the STRATUM CORNEUM-the thin, outermost layer of the skin-to the EPIDERMIS posed the major resistance to transdermal transport [5]. The corneocytes, which comprise cross linked keratin fibres, are about 0.2-0.4 μm thick and about 40 μm wide [6]. Penetration enhancers are used to promote the drug transport across the skin barrier. The interaction of the enhancers with the polar head groups of the lipids is the possible way to increase the penetration [7]. Surfactants have the potential for the solubilization of the stratum corneum lipids and thus act as penetration enhancers. Keratin interactions are also thought to explain the penetration-enhancing effects of surfactants [8].
+
+
+Target Site for Transdermal Drug Delivery System: Skin
+
+
+The outermost layer of the epidermis, the stratum corneum, provides a formidable barrier to dermal absorption that determines the rate of dermal penetration [9-14]. The stratum corneum differs from the rest of the epidermis in being a two-compartment tissue consisting of dead cornified cells (corneocytes) with a matrix of intercellular lipids [15]. The hydrophilic properties of the skin increase as the depth increases from the surface, such that the viable epidermis represented by the stratum granulosum, the stratum spinosum and the stratum basale, respectively is significantly hydrophilic. The dermis layer is also hydrophilic, hence favoring the uptake of hydrophilic chemicals [16]. The viable epidermis contains corneocytes at varying stages of differentiation, as well as melanocytes, Langerhans cells (important for antigen presentation and immune response), and Merkel cells (involved in sensory perception). This layer facilitates the diffusion of, for example, xenobiotics and decreases in surface area with age [17] (Figure 1).
+
+
+Barriers Posed by Skin Against Percutaneous Absorption
+
+
+Corneocytes are the ‘bricks’ embedded in an intercellular lipid matrix of mainly fatty acids, ceramides, cholesterol and cholesterol sulfate [18]. The corneocytes are held together by corneodesmosomes, which confer structural stability to the stratum corneum. The stratum corneum lipids are composed primarily of ceramides, cholesterol and fatty acids that are assembled into multi-lamellar bilayers. This unusual extracellular matrix of lipid bilayers serves the primary barrier function of the stratum corneum [19]. The cells are joined together by desmosomes, maintaining the cohesiveness of this layer [20]. The heterogeneous structure of the stratum corneum is composed of approximately 75-80% protein, 5-15% lipid and 5-10% unidentified on a dry weight basis [21]. There are two general options for drug substances to permeate the stratum corneum: the transepidermal route and the route via pores [22].
+
+
+Factors Affecting Skin Penetration
+
+
+• Thickness of horny layer
+
+
+• Skin condition
+
+
+Factors Associated With Medicament
+
+
+• Solubility
+
+
+• Dissociation constant
+
+
+• Particle size
+
+
+Factors associated with vehicle:
+
+
+• Contact with skin
+
+
+• Penetration into epidermis
+
+
+• Alteration of skin permeability
+
+
+Routes of Drug Permeation through the Skin
+
+
+Intercellular route
+
+
+Transcellular route
+
+
+Follicular route
+
+
+Intercellular route: The more common pathway through the skin is via the intercellular route. Drugs crossing the skin by this route must pass through the small spaces between the cells of the skin (Figure 2).
+
+
+Transcellular route: Drug crossing the skin via this route must pass through the cells (Keratinocytes).
+
+
+Transappendagal route: Passage of molecules via sweat glands, hair follicles and sebaceous glands.
+
+
+Penetration Enhancers
+
+
+Currently, the most widely used approach to drug permeation enhancement across the stratum corneum barrier is the use of chemical penetration enhancers (sorption promoters and accelerants). One of the most recent comprehensive reviews on the classes of enhancers used was written by Ghosh et al. [23]. According to Shah, enhancers:
+
+
+â�¢ increase the diffusivity of the drug in the skin;
+
+
+â�¢ cause stratum corneum lipid-fluidization, which leads to decreased barrier function (a reversible action);
+
+
+â�¢ increase and optimize the thermodynamic activity of the drug in the vehicle and the skin;
+
+
+â�¢ result in a reservoir of drug within the skin;
+
+
+â�¢ Affect the partition coefficient of the drug, increasing its release from the formulation into the upper layers of the skin [24].
+
+
+â�¢ disrupt the order within and between the corneocyte upon binding to the keratin filament [25].
+
+
+The following classes of compounds have been tested for their enhancer action: water, hydrocarbons (alkanes and alkenes); alkanols and alkenols; acids; esters; alkyl amino esters; amides; ureas; amines and bases; sulfoxides; terpenes [26], steroids; dioxolanes; pyrrolidone and imidazole derivatives; laurocapram (Azone) and its derivatives. Other approaches to enhancement include the use of enzymes, natural oils, phospholipid micelles, liposomes, niosomes, polymers [27-30]. isopropyl myristate [31], nicotinic acid esters [32], ethanol, hydrogenated Soya phospholipid [33], essential oils [34], n-octanol and decanol [35], surfactants [36-43] have been reported to enhance the permeability of drugs.
+
+
+Surfactants
+
+
+Surfactants are frequently used as emulsifiers in formulations for dermal application. A substance which is positively adsorbed at the liquid/vapour and/or at other interfaces is called surfactants [44]. Surfactants are usually organic compounds that are amphiphilic, meaning they contain both hydrophobic groups (their tails) and hydrophilic groups (their heads). Therefore, a surfactant molecule contains both a water insoluble (and oil soluble) component and a water soluble component. Surfactant molecules will diffuse in water and adsorb at interfaces between air and water or at the interface between oil and water, in the case where water is mixed with oil [45].
+
+
+Classification of surfactants
+
+
+Surfactants can be classified into four main categories according to the presence of formally charged groups in the head;
+
+
+anionic (e.g. sodium laurylsulfate),
+
+
+cationic (e.g. cetyltrimethyl ammonium bromide),
+
+
+nonionic (e.g. polyoxyethylene sorbitan monopalmitate) and
+
+
+amphoteric (e.g. N-dodecyl-N, N-dimethylbetaine).
+
+
+The investigation of enhancing abilities of nonionic surfactants has been focused on five principal series of surfactants, which are polysorbates, sorbitan esters, polyoxyethylene alkylethers, polyoxyethylene alkylphenols and poloxamers [46]. It is generally recognized that nonionic surfactants possess the least toxicity and skin irritation potential [47], and therefore they have been widely investigated as skin penetration enhancers (Figures 3 and 4a-4g).
+
+
+a. Mechanism of action of surfactants as penetration enhancers
+
+
+Anionic surfactants: In general, anionic surfactants are more effective than cationic and nonionic surfactants in enhancing skin penetration of target molecules. Some anionic surfactants interact strongly with both keratin and lipids. alter the permeability of the skin by acting on the helical filaments of the stratum corneum, thereby resulting in the uncoiling and extension of keratin filaments to produce keratin. Then they cause an expansion of the membrane, which increases permeability [48].
+
+
+Sodium lauryl sulfate (SLS), an anionic surfactant, possesses skin penetration enhancer properties and enhances penetration into the skin by increasing the fluidity of epidermal lipids [49-52]. An additional mechanism for the skin penetration enhancement by SLS could involve the hydrophobic interaction of the SLS alkyl chain with the skin structure which leaves the end sulphate group of the surfactant exposed, creating additional sites in the membrane which leads to permit an increase in skin hydration [53,54].
+
+
+Cationic surfactants: The cationic surfactants interact with the keratin fibrils of the cornified cells and result in a disrupted cell-lipid matrix. The cationic surfactants may interact with anionic components of the stratum corneum, change the electonic property there, and stimulate the transfer of the anionic drug into the skin [55].
+
+
+Nonionic surfactants: The nonionic surfactants enhance absorption by inducing fluidization of the stratum corneum lipids [48]. They are two possible mechanisms by which the rate of transport is enhanced using nonionic surfactants. Initially, the surfactants may penetrate into the intercellular regions of SC, increase fluidity and eventually solubilize and extract lipid components. Secondly, penetration of the surfactant into the intercellular matrix followed by interaction and binding with keratin filaments may results in a disruption within the corneocyte [47,56].
+
+
+Zwitter ion: Zwitterionic (amphoteric) surfactants have both cationic and anionic centers attached to the same molecule. The cationic part is based on primary, secondary, or tertiary amines or quaternary ammonium cations. The anionic part can be more variable and include sulfonates, as in CHAPS (3-[(3-Cholamidopropyl)dimethylammonio]- 1-propanesulfonate). Other anionic groups are sultaines illustrated by cocamidopropyl hydroxysultaine. Betaines, e.g., cocamidopropyl betaine, lecithin [55,56].
+
+
+Biosurfactants: Biosurfactants are surface-active substances synthesized by living cells. Interest in microbial surfactants has been steadily increasing in recent years due to their diversity, environmentally friendly nature, possibility of large-scale production, selectivity, performance under extreme conditions, and potential applications in environmental protection. Few of the popular examples of microbial biosurfactants includes Emulsan produced by Acinetobacter calcoaceticus, phorolipids produced by several yeasts belonging to candida and starmerella clade, and Rhamnolipid produced by Pseudomonas aeruginosa etc. [57].
+
+
+Biosurfactants enhance the emulsification of hydrocarbons, have the potential to solubilize hydrocarbon contaminants and increase their availability for microbial degradation. The use of chemicals for the treatment of a hydrocarbon polluted site may contaminate the environment with their by-products, whereas biological treatment may efficiently destroy pollutants, while being biodegradable themselves. Hence, biosurfactant-producing microorganisms may play an important role in the accelerated bioremediation of hydrocarboncontaminated sites. These compounds can also be used in enhanced oil recovery and may be considered for other potential applications in environmental protection. Other applications include herbicides and pesticides formulations, detergents, healthcare and cosmetics, pulp and paper, coal, textiles, ceramic processing and food industries, uranium ore-processing, and mechanical dewatering of peat [58].
+
+
+Factors Governing the Activity of Surfactant as Penetration Enhancer
+
+
+Critical micelle concentration
+
+
+In biological systems the effects of surfactants are complex, particularly their effect on cell membranes, which can lead to alterations in permeability [46]. The effect of surfactants on membrane permeability describe an apparent concentration-dependent biphasic action, such that an increase in membrane permeability occurs at low surfactant concentrations, but this decreases at higher concentrations, generally above the critical micelle concentration (CMC) of the surfactant. Above the CMC, the added surfactant exists as micelles in the solution and micelles are too large to penetrate the skin [48]. The CMC represents a narrow range of concentrations above which surfactants form dynamic aggregates known as micelles. The structure of micelles is such that in aqueous solution the monomers are aligned with their hydrophobic regions towards the centre and their hydrophilic sections outwards towards the aqueous bulk [59].
+
+
+Chain length of carbon atoms
+
+
+Enhancement depends on the carbon chain structure of the enhancer [60]. Maximal enhancement is generally attained for enhancers with a carbon chain length in the range of 10–14. This optimal range was found for anionic, cationic and neutral enhancers [61-65].
+
+
+Transdermal gradient
+
+
+The driving force for penetration into the skin is the “transdermal gradient” caused by the difference in water content between the relatively dehydrated skin surface (approx 20% water) and the aqueous viable epidermis (close to 100%) [66].
+
+
+Hydrophilicity of surfactant head (Laughlin’s hypothesis)
+
+
+Surfactants with hydrophilic head groups should more effectively enhance the percutaneous penetration of polar molecules, while those of lesser hydrophilicity should be less effective The results obtained in the present work in agreement with Laughlin’s hypothesis because Cetyltrimethylammonium bromide (log Poct < 1) which is more hydrophillic than benzalkonium chloride (log Poct=1.9) is less effective in enhancing lorazepam skin penetration. This could be attributed to the lipophilicity of lorazepam [67].
+
+
+Steric forces
+
+
+Steric repulsive forces are caused by the reduced conformational freedom of adsorbed molecules and changes in molecule/solvent interactions as two surfaces are approached. They are present in both surfactant and polymer systems and increases in magnitude and range with the size of the adsorbed molecules [68] (Table 1).
+
+
+Various Surfactants Used to Enhance Penetration across the Skin in Current Scenario
+
+
+Tween 80
+
+
+Acceleration of hydrocortisone and lidocaine permeating across hairless mouse skin by the nonionic surfactant Tween 80 [36,37]. It has been shown that at concentrations of 0.5 and 1% Tween 80 increased the skin penetration of chloramphenicol [73]. It is apparent that propylene glycol and Tween 80 interact to affect the skin barrier so as to promote the penetration of lorazepam. It was evident from surface tension studies that the addition of propylene glycol raises the CMC of the nonionic surfactants by approximately a factor of 10. The increase in monomer concentration might be an explanation for observed synergistic effect of propylene glycol and Tween 80. Highest permeation rate was observed with the solution containing 1% w/w of Tween 80 in diazepam permeation [43]. Initially, the surfactants may penetrate into the intercellular regions of stratum corneum, increase fluidity and eventually solubilize and extract lipid components. Secondly, penetration of the surfactant into the intercellular matrix followed by interaction and binding with keratin filaments may results in a disruption within the corneocyte. Tween 80 is thought to enhance the penetration of lorazepam via both the lipophilic and the hydrophilic molecular mechanisms, and to disrupt the lipid arrangements in the stratum corneum and to increase the water content of the proteins in the barrier [56,57]. The structure of Tween 80 is relevant to this role. It contains the ethylene oxide and a long hydrocarbon chain. This structure imparts both lipophilic and hydrophilic characteristics to the enhancer, allowing it to partition between lipophilic mortar substance and the hydrophilic protein domains. Tween 80 may interact with the polar head groups of the lipids and the modification of H-bonding and ionic forces may occur. The other possible mechanism related to our studies involves the protein domains (keratinocytes). In this case, targets of the enhancer are the keratin fibrils and their associated water molecules. The disruption caused by the enhancer makes this area more aqueous. With high enough volumes an increase in the solubilising ability of the aqueous layer could result and actually change the operational partition coefficient of this region of the skin [72]. This would then allow for drug transport through the corneocytes.
+
+
+Sodium lauryl sulfate
+
+
+Surfactant facilitated permeation of many materials through skin membranes has been researched, with reports of significant enhancement of materials such as chloramphenicol through hairless mouse skin by sodium lauryl sulfate [36,37]. Sodium lauryl sulfate at 5% showed a remarkable enhancing activity on the skin permeation of lorazepam across rat skin in vitro. A marked increase in the drug flux was attributed to the skin damage caused by this anionic surfactant at 5% concentration, the highest concentration used in the study [70]. Sodium lauryl sulfate is able to produce variations in the structural organisation of lipids when it is used above the critical micellar concentration [73], and similar effects on organisation of skin lipids have been described for other permeation enhancers such as Laurocapram [74,75], reported that SLS was able to increase the penetration rates of compounds that have values of lipophilicity lower than an optimum lipophilicity. An additional mechanism for the skin penetration enhancement by SLS could involve the hydrophobic interaction of the SLS alkyl chain with the skin structure which leaves the end sulphate group of the surfactant exposed, creating additional sites in the membrane which leads to permit an increase in skin hydration [53,54].
+
+
+Dodecyl trimethyl ammonium bromide
+
+
+Dodecyl trimethyl ammonium bromide (DTAB) as to the pretreatment with cationic surfactant DTAB, opposing effects on the flux are found compared to LA. During all three experimental intervals (passive before iontophoresis, iontophoresis, passive after iontophoresis) an inhibition. This is most likely related to the positive charge of surfactant DTAB. During the passive period, the partitioning of the positively charged R-apomorphine into the membrane is hindered by the repulsion of absorbed positively charged DTAB. After turning on the current, DTAB is driven into the skin and compensates for the native negative charge of human stratum corneum, thereby reducing the electro-osmotic flow [118].
+
+
+Laureth-3 oxyethylene ether
+
+
+Laureth-3 oxyethylene ether (C12EO3) the nonionic surfactant C12EO3 substantially increased iontophoretic transport rate of R-apomorphine by 2.3-fold, whereas passive delivery was basically unchanged or slightly affected. The magnitude of enhancing effect of C EO was dependent on the surfactant concentration and the pretreatment duration [119].
+
+
+Span 20
+
+
+Pretreatment of skin with Span 20 (1 and 5% w/v in ethanolic solution) significantly increased the penetration of 5-fluorouracil, antipyrine and 2-phenyl ethanol through Wistar rat epidermis in vitro [40].
+
+
+Tween 20
+
+
+Tween 20 has been shown to increase the permeation of hydrocortisone and lidocaine across hairless mouse skin in vitro [36,37].
+
+
+Sodium lauroyl sarcosinate and sorbitan monolaurate
+
+
+Sodium lauroylsarcosinate, and a nonionic surfactant, sorbitan monolaurate, more markedly increased the transdermal flux of drugs than the individual components used alone. Moreover, the formulation exhibited a reduction in skin irritation [120].
+
+
+Sodium decyl & dodecyl sulfates
+
+
+Sodium decyl and dodecyl sulfates increased the in vitro permeation rates of several drugs including naproxen [121] and naloxone [48,60] reported that the capacity of the stratum corneum to retain significant quantities of membrane-bound water is reduced in the presence of sodium dodecanoate and sodium dodecyl sulfate. This effect is readily reversible upon removal of the agents. These investigations proposed that anionic surfactants alter the permeability of the skin by acting on the helical filaments of the stratum corneum, thereby resulting in the uncoiling and extension of β-keratin filaments to produce α-keratin. Then they cause an expansion of the membrane, which increases permeability.
+
+
+Cetyltrimethyl ammonium bromide
+
+
+The permeation profile of lorazepam in presence of the other cationic surfactant, CTAB, reveals that an increase in the concentration of CTAB cetyltrimethylammonium bromide results in an increase in the flux of lorazepam Similar results were reported on the effect of other cationic surfactant cetrimide which is a cationic surfactant which contains higher percentages of CTAB on haloperidol permeation through rat skin [122].
+
+
+n-Dimethyl dialkylammoniums
+
+
+Enhancement effects of the double-chained cationic surfactants of n-dimethyldialkylammoniums (CH3)2N1(CnH2n11)2on the permeation of anionic salicylate through excised guinea pig dorsal skin at pH 7.4. n-dimethyldidecylammonium (2C10), which seemed to form micelles, had dose-dependent enhancement effects and about a ninety-fold increase in the permeabilityn-Dimethyldilaurylammonium (2C12), seemed to form bilayer vesicles, induced about a twenty five-fold increase in the permeability [123-125].
+
+
+Sodium dodecyl sulfate
+
+
+Sodium dodecyl sulfate (SDS) and dodecyl trimethylammonium bromide (C12TAB) Patist et al. have previously shown that SDS micellar stability may be tailored by the addition of oppositely charged surfactants such as alkyltrimethylammonium bromides (CnTABs). The long-chain TABs enhance SDS micellar stability, as measured by relaxation time, by up to 2000 times. Addition of C12TAB to SDS leads to stabilization of micelles and sub-micellar aggregates and such stabilization decreases and even virtually eliminates sub-micellar aggregates [126,127].
+
+
+Polyoxyethylene-23-lauryl ether, polyoxyethylene-2-oleyl ether and polyoxyethylene-2-stearyl ether
+
+
+Poloxamer gels containing piroxicam including surfactants as enhancers are good preparations to promote the percutaneous absorption of drugs [114].
+
+
+Cremophor RH 40®
+
+
+Cremophor RH 40® shifts the drug distribution to the stratum corneum. Cremophor RH 40® enhanced the flufenamic acid content in the stratum corneum 2-fold. The amount of flufenamic acid after pretreatment with Cremophor RH 40® is on a higher level in the stratum corneum [84].
+
+
+Propylene glycol, 2-(2-ethoxy-ethoxy) ethanol (Transcutol®)
+
+
+The optimum formulation containing 2.5% Transcutol as the penetration enhancer shows 1.7-fold enhancement in flux and permeation coefficient as compared to marketed cream and ointment formulation. In order to further improve the permeation rate of Acyclovir from the microemulsion, enhancer like Transcutol in the concentration ranging from 1% to 5% was employed. Results indicate significant improvement in the permeation pattern of ACV  with the incorporation of enhancers. The presence of Transcutol in the formulations also results in an increase in the mean cumulative amount. The enhancing ability of Transcutol has been attributed to its ability to pass through the skin and get incorporated into the multiplelipid bilayers, thereby swelling the intercellular lipids [84,86].
+
+
+Conclusion
+
+
+Skin permeation enhancement technology is a new and rapidly developing field which would significantly increase the number of candidates suitable for Transdermal Drug Delivery. Research in this area has proved the use of surfactant on the enhancement of permeation of drugs through skin. The techniques such as Differential scanning calorimeter, Fourier Transform Infrared, Nuclear magnetic resonance, Electron microscopy etc. have been very helpful in elucidating the mechanism of action and structure activity relationship of Penetration enhancers. Majority of studies reported indicate that the chemical structure of Penetration enhancers plays an important role on the permeation enhancement of drugs for some enhancers such as fatty acids, fatty alcohols and terpenes. Further studies are needed in the areas of evaluation of skin permeation enhancement vis-à-vis skin irritation in order to choose penetration enhancers which possess optimum enhancement effect with no skin irritation. A judicious selection of penetration enhancer would be very helpful in the successful development of topical and transdermal products.
+
+
+Declaration
+
+
+The author(s) declare that they have no competing interests or financial benefit from this work.
+
+
+Acknowledgement
+
+
+Authors are thankful to the principal KIET school of Pharmacy Ghaziabad.
+
+
+
+References
+
+Chein YW (1992) Transdermal drug delivery & delivery systems. Novel drug delivery systems. New York: Marcel Dekker, 301-380.
+
+Chein YW (1987) Transdermal controlled systemic medications. New York: Marcel Dekker, Inc.
+
+Vyas SP, Khar RK (2002) Transdermal drug delivery. Controlled drug delivery-concepts and advances. New Delhi, India: VallabhPrakashan, 411-447.
+
+(2003) Rise of transdermal drug delivery technologies. In pharmatechnologist.com 
+
+Rein H (1924) Experimental electroendosmotic studies on living human skin. Z Biol 81: 124-128.
+
+Champion RH, Burton JL, Burns DA, Breathnach SM (1998) Textbook of Dermatology London: Blackwell Science.
+
+Walker RB, Smith EW (1996) The role of percutaneous penetration enhancers. Adv Drug Deli Rev 18: 295-301.
+
+Ayala-Bravo HA, Quintanar-Guerrero D, Naik A, Kalia YN, Cornejo-Bravo JM, et al. (2003) Effects of sucrose oleate and sucrose laureate on in vivo human stratum corneum permeability. Pharm Res 20: 1267-1273.
+
+(2004) OECD Guidelines for the testing of chemicals, Section 4: Health Effects Test No. 428 Skin Absorption: In Vitro Method, Paris.
+
+MonteiroRiviere NA (2010) Structure and function of skin. Toxicology of the Skin: Target Organ Series, Informa Healthcare USA, Inc., New York, 1-18.
+
+MonteiroRiviere NA (1991) Comparative anatomy, physiology and biochemistry of mammalian skin. Dermal and Ocular Fundamentals and Methods, Boca Raton: CRC Press, 3-73.
+
+MonteiroRiviere NA, Baynes RE, Riviere JE (2008) Animal skin morphology and dermal absorption. Dermal Absorption and Toxicity Assessment, second edition, USA: Informa Healthcare, Inc., 17-35.
+
+Roberts MS, Gierden A, Riviere JE, Monteiro-Riviere NA (2007) Solvent and vehicle effects on the skin. Dermal Absorption and Toxicity Assessment, second edition, Informa Healthcare USA, Inc., New York, 433-447.
+
+Monteiro-Riviere NA (2007) Anatomical factors that affect barrier function. Marzulli and Maibach'sDermatotoxicology, seventh edition, CRC Press, New York, 39-50.
+
+Elias PM (1983) Epidermallipids, barrier function, and desquamation. J Invest Dermatol 80: 44s-49s.
+
+Förster M, Bolzinger MA, Fessi H, Briançon S (2009) Topical delivery of cosmetics and drugs. Molecular aspects of percutaneous absorption and delivery. Eur J Dermatol 19: 309-323.
+
+Lavker RM (1986) Morphology of aged skin. In Dermatological Clinics: The Aging Skin (Lavker, R.M., ed.) Saunders, Philadelphia, PA, USA, 1-20.
+
+Bouwstra JA, Dubbelaar FE, Gooris GS, Ponec M (2000) The lipid organisation in the skin barrier. ActaDermVenereolSuppl (Stockh) 208: 23-30.
+
+Elias PM, Feingold KR (2001) Coordinate regulation of epidermal differentiation and barrier homeostasis. Skin PharmacolAppl Skin Physiol 14 Suppl 1: 28-34.
+
+Menon GK (2002) New insights into skin structure: scratching the surface. Adv Drug Deliv Rev 54 Suppl 1: S3-17.
+
+Williams AC (2003) Transdermal and topical drug delivery. London: Pharmaceutical Press
+
+Kalbitz J, Neubert R, Wohlrab W (1996) [Modulation of drug penetration in the skin]. Pharmazie 51: 619-637.
+
+Ghosh TK (1997) Permeation enhancement. In Transdermal and Topical Delivery Systems (Ghosh T, Yum S and Pfister W, eds) Inter pharm Press, Buffalo Grove, IL, USA, 21–22.
+
+Barry BW (1991) Lipid-protein-partitioning of skin penetration enhancement. J Control Release 15: 237–248
+
+Gupta PN, Mishra V, Rawat A, Dubey P, Mahor S, et al. (2005) Non-invasive vaccine delivery in transfersomes, niosomes and liposomes: a comparative study. Int J Pharm 293: 73-82.
+
+Arellano A, Santoyo S, Martin C, Ygartua P (1996) Enhancing effect of terpenes on the in vitro percutaneous absorption of diclofenac sodium. Int J Pharm 130: 141-145.
+
+Patil S, Singh P, Szolar-Platzer C, Maibach H (1996) Epidermal enzymes as penetration enhancers in transdermal drug delivery. J Pharm Sci 85: 249-252.
+
+Hofland HE, van der Geest R, Bodde HE, Junginger HE, Bouwstra JA (1994) Estradiol permeation from nonionic surfactant vesicles through human stratum corneum in vitro. Pharm Res 11: 659-664.
+
+Yokomizo Y (1996) Effect of phospholipids on the percutaneous penetration of drugs through the dorsal skin of the guinea pig in vitro. 3. Effects of phospholipids on several drugs having different polarities. J Control Release 42: 217-228.
+
+Másson M, Loftsson T, Másson G, Stefánsson E (1999) Cyclodextrins as permeation enhancers: some theoretical evaluations and in vitro testing. J Control Release 59: 107-118.
+
+Naito S, Tominagaa H (1985) Percutaneous absorption of diclofenac sodium ointment. Int J Pharm 24: 115-124.
+
+Yasukawa T, Akiyoshi Y, Hattori A, Harada S (1985) Anti-inflammatory topical formulations containing indomethacin and diclofenac. Jpn. KokaiTokkioKoho JP 60146823 A2.
+
+Nishihata T, Kotera K, Nakano Y, Yamazaki M (1987) Rat percutaneous transport of diclofenac and influence of hydrogenated soya phospholipids. Chem Pharm Bull (Tokyo) 35: 3807-3812.
+
+Williams AC, Barry BW (1989) Essential oils as novel human skin penetration enhancers. Int J Pharm 57: R7-R9.
+
+Takahashi K, Tamagawa S, Katagi T, Yoshitomi H, Kamada A, et al. (1991) In vitro transport of sodium diclofenac across rat abdominal skin: effect of selection of oleaginous component and the addition of alcohols to the vehicle. Chem Pharm Bull (Tokyo) 39: 154-158.
+
+Sarpotdar PP, Zatz JL (1986) Evaluation of penetration enhancement of lidocaine by nonionic surfactants through hairless mouse skin in vitro. J Pharm Sci 75: 176-181.
+
+Sarpotdar R, Zatz JL (1986) Percutaneous absorption enhancement by nonionic surfactants. Drug DevInd Pharm 12: 1625-1647.
+
+Cappel MJ, Kreuter J (1991) Effect of nonionic surfactants on transdermal drug delivery: I. Polysorbates. Int J Pharm 69: 143-153.
+
+Iwasa A, Irimoto K, Kasai S, Okuyama H, Nagai T (1991) Effect of nonionic surfactants on percutaneous absorption of diclofenac sodium. Yakuzaigaaku 51: 16-21.
+
+López A, Llinares F, Cortell C, Herráez M (2000) Comparative enhancer effects of Span20 with Tween20 and Azone on the in vitro percutaneous penetration of compounds with different lipophilicities. Int J Pharm 202: 133-140.
+
+Park ES, Chang SY, Hahn M, Chi SC (2000) Enhancing effect of polyoxyethylene alkyl ethers on the skin permeation of ibuprofen. Int J Pharm 209: 109-119.
+
+Shin SC, Cho CW, Oh IJ (2001) Effects of non-ionic surfactants as permeation enhancers towards piroxicam from the poloxamer gel through rat skins. Int J Pharm 222: 199-203.
+
+Shokri J, Nokhodchi A, Dashbolaghi A, Hassan-Zadeh D, Ghafourian T, et al. (2001) The effect of surfactants on the skin penetration of diazepam. Int J Pharm 228: 99-107.
+
+McNaught AD, Wilkinson A (1997) Compendium of Chemical Terminology. 2nd edition. The Gold Book.
+
+"Bubbles, Bubbles, Everywhere, But Not a Drop to Drink". The Lipid Chronicles.
+
+Attwood D, Florence AT (1983) Surfactant Systems: Their Chemistry, Pharmacy and Biology, Chapman and Hall Ltd., London, UK.
+
+Walters KA (1990) Surfactants and percutaneous absorption. In: Prediction of Percutaneous Penetration: Methods, Measurements, Modelling, Scott RC, Guy RH, Hadgraft J (Eds). IBC Technical Services Ltd., London, UK, 148-162.
+
+Scheuplein RJ, Ross L (1970) Effects of surfactants and solvents on the permeability of epidermis. Journal of the Society of Cosmetic Chemists 21: 853-873.
+
+Froebe CL, Simion FA, Rhein LD, Cagan RH, Kligman A (1990) Stratum corneum lipid removal by surfactants: relation to in vivo irritation. Dermatologica 181: 277-283.
+
+Lévêque JL, de Rigal J, Saint-Léger D, Billy D (1993) How does sodium lauryl sulfate alter the skin barrier function in man? A multi parametric approach. Skin Pharmacol 6: 111-115.
+
+Patil S, Singh P, Maibach H (1995) Radial spread of sodium lauryl sulfate after topical application. Pharm Res 12: 2018-2023.
+
+Patil S, Singh P, Sarasour K, Maibach H (1995) Quantification of sodium lauryl sulfate penetration into the skin and underlying tissue after topical application--pharmacological and toxicological implications. J Pharm Sci 84: 1240-1244.
+
+Rhein LD, Robbins CR, Fernee K, Cantore R (1986) Surfactant structure effects on swelling of isolated human stratum corneum. J SocCosmetChem 37: 125-129.
+
+Gibson WT, Teall MR (1983) Interactions of C12 surfactants with the skin: changes in enzymes and visible and histological features of rat skin treated with sodium lauryl sulphate. Food ChemToxicol 21: 587-594.
+
+Kitagawa S, Kasamaki M, Ikarashi A (2000) Effects of n-alkyl trimethyl ammonium on skin permeation of benzoic acid through excised guinea pig dorsal skin. Chem Pharm Bull (Tokyo) 48: 1698-1701.
+
+Breuer MM (1979) The interaction between surfactants and keratinous tissues. J SocCosmet 30: 41-64.
+
+Banat IM, Makkar RS, Cameotra SS (2000) Potential commercial applications of microbial surfactants. ApplMicrobiolBiotechnol 53: 495-508.
+
+Ron EZ, Rosenberg E (2001) Natural roles of biosurfactants. Environ Microbiol 3: 229-236.
+
+Walters KA, Walker M, Olejnik O (1988) Non-ionic surfactant effects on hairless mouse skin permeability characteristics. J Pharm Pharmacol 40: 525-529.
+
+Aungst BJ (1989) Structure/effect studies of fatty acid isomers as skin penetration enhancers and skin irritants. Pharm Res 6: 244-247.
+
+Aungst BJ, Rogers NJ, Shefter E (1986) Enhancement of naloxone penetration through human skin in vitro using fatty acids, fatty alcohols, surfactants, sulfoxides and amines. International Journal of Pharmaceutics 33: 225-234.
+
+Mitragotri S (2000) Synergistic effect of enhancers for transdermal drug delivery. Pharm Res 17: 1354-1359.
+
+Choi EH, Lee SH, Ahn SK, Hwang SM (1999) The pretreatment effect of chemical skin penetration enhancers in transdermal drug delivery using iontophoresis. Skin PharmacolAppl Skin Physiol 12: 326-335.
+
+Chesnoy S, Durand D, Doucet J, Couarraze G (1999) Structural parameters involved in the permeation of propranolol HCl by iontophoresis and enhancers. J Control Release 58: 163-175.
+
+Wearley L, Chien YW (1990) Enhancement of the in vitro skin permeability of azidothymidine (AZT) via iontophoresis and chemical enhancer. Pharm Res 7: 34-40.
+
+Benson HA (2005) Transdermal drug delivery: penetration enhancement techniques. Curr Drug Deliv 2: 23-33.
+
+Laughlin RG (1978) Relative hydrophilicities among surfactants hydrophilic groups. In: Brown, G.H. (Ed.), Advances in Liquid Crystals 41-98..
+
+McIntosh TJ, Advani S, Burton RE, Zhelev DV, Needham D, et al. (1995) Experimental tests for protrusion and undulation pressures in phospholipid bilayers. Biochemistry 34: 8520-8532.
+
+Chowhan ZT, Pritchard R (1978) Effect of surfactants on percutaneous absorption of naproxen I: comparisons of rabbit, rat, and human excised skin. J Pharm Sci 67: 1272-1274.
+
+Nokhodchi A, Shokri J, Dashbolaghi A, Hassan-Zadeh D, Ghafourian T, et al. (2003) The enhancement effect of surfactants on the penetration of lorazepam through rat skin. Int J Pharm 250: 359-369.
+
+Kushla GP, Zatz JL, Mills OH Jr, Berger RS (1993) Noninvasive assessment of anesthetic activity of topical lidocaine formulations. J Pharm Sci 82: 1118-1122.
+
+Rigg PC, Barry BW (1990) Shed snake skin and hairless mouse skin as model membranes for human skin during permeation studies. J Invest Dermatol 94: 235-240.
+
+Aguiar AJ, Weiner MA (1969) Percutaneous absorption studies of chloramphenicol solutions. J Pharm Sci 58: 210-215.
+
+Ribaud C, Garson JC, Doucet J, Lévêque JL (1994) Organization of stratum corneum lipids in relation to permeability: influence of sodium lauryl sulfate and preheating. Pharm Res 11: 1414-1418.
+
+Goodman M, Barry B (1989) Action of penetration enhancers on human stratum corneum as assessed by differential scanning calorimetry. Transdermal Drug Deliv 35: 574-593.
+
+Borras-Blasco J, Lopez A, Morant MJ, Diez-Sales O, Herraez-Domingues M (1997) Influence of sodium lauryl sulphate on the in vitro percutaneous absorption of compounds with different lipophilicity. Eur J Pharm Sci 5: 15-22.
+
+Parikh DK, Ghosh TK (2005) Feasibility of transdermal delivery of fluoxetine. AAPS Pharm SciTech 6: E144-149.
+
+Bhaskar Reddy K, Jyostna M, Audinarayana N, MadhaviLatha C, Mohanambal E (2012) The Enhancement Effect of Surfactants on the Penetration of Nitrendipine through Rat Skin. Indian Journal of Novel Drug delivery 4: 38-42.
+
+Piret J, Désormeaux A, Cormier H, Lamontagne J, Gourde P, et al. (2000) Sodium Lauryl Sulfate Increases the Efficacy of a Topical Formulation of Foscarnet against Herpes Simplex Virus Type 1 Cutaneous Lesions in Mice. Antimicrob Agents Chemother 44: 2263-2270.
+
+Sankar V, Praveen C, Prasanth KG, Srinivas CR, Ruckmann K (2009) Formulation and evaluation of a proniosome hydrocortisone gel in comparison with a commercial cream. Pharmazie 64: 731-734.
+
+Cho CW, Choi JS, Shin SC (2011) Enhanced local anesthetic action of mepivacaine from the bioadhesive gels. Pak J Pharm Sci 24: 87-93.
+
+Limpongsa E, Umprayn K (2008) Preparation and Evaluation of Diltiazem hydrochloride Diffusion-Controlled Transdermal Delivery System. AAPS Pharm SciTech 9: 464-470.
+
+Fini A, Bergamante V, Ceschel GC, Ronchi C, De Moraes CA (2008) Control of Transdermal Permeation of Hydrocortisone Acetate from Hydrophilic and Lipophilic Formulations. AAPS Pharm SciTech 9: 762-768.
+
+Ganem-Quintanar, Lafforgue AC, Falson-Rieg F, Buri P (1997) Evaluation of the transepidermal permeation of diethyleneglycolmonoethylether and skin water loss. Int J Pharm 147: 165-172.
+
+Godwin DA, Kim NH, Felton LA (2002) Influence of Transcutol CG on the skin accumulation and transdermal permeation of ultraviolet absorbers. Eur J Pharm Biopharm 53: 23-27.
+
+Shishu, Rajan S, Kamalpreet (2009) Development of novel microemulsion-based topical formulations of acyclovir for the treatment of cutaneous herpetic infections. AAPS Pharm SciTech 10: 559-565.
+
+Constantinides PP, Scalart JP, Lancaster C, Marcello J, Marks G (1994) Formulation and intestinal absorption enhancement evaluation of water-in-oil microemulsions incorporating medium-chain glycerides. Pharm Res 11: 1385-1390.
+
+Lopes LB, Murphy N, Nornoo A (2009) Enhancement of transdermal delivery of progesterone using medium-chain mono and diglycerides as skin penetration enhancers. Pharm DevTechnol 14: 524-529.
+
+Lopes LB, Collett JH, Bentley MV (2005) Topical delivery of cyclosporin A: an in vitro study using monoolein as a penetration enhancer. Eur J Pharm Biopharm 60: 25-30.
+
+Herai H, Gratieri T, Thomazine JA, Bentley MV, Lopez RF (2007) Doxorubicin skin penetration from monoolein-containing propylene glycol formulations. Int J Pharm 329: 88-93.
+
+Magnusson BM, Cross SE, Winckle G, Roberts MS (2006) Percutaneous absorption of steroids: determination of in vitro permeability and tissue reservoir characteristics in human skin layers. Skin PharmacolPhysiol 19: 336-342.
+
+Frum Y, Khan GM, Sefcik J, Rouse J, Eccleston GM, et al. (2007) Towards a correlation between drug properties and in vitro transdermal flux variability. Int J Pharm 336: 140-147.
+
+Zar T, Graeber C, Perazella MA (2007) Recognition, treatment, and prevention of propylene glycol toxicity. Semin Dial 20: 217-219.
+
+Patel MR, Patel RB, Parikh JR, Solanki AB, Patel BG (2009) Effect of formulation components on the in vitro permeation of microemulsion drug delivery system of fluconazole. AAPS PharmSciTech 10: 917-923.
+
+Obata Y, Takayama K, Machida Y, Nagai T (1991) Combined effect of cyclic monoterpenes and ethanol on percutaneous absorption of diclofenac sodium. Drug Des Discov 8: 137-144.
+
+Azeem A, Ahmad FJ, Khar RK, Talegaonkar S (2009) Nanocarrier for the transdermal delivery of an antiparkinsonian drug. AAPS PharmSciTech 10: 1093-1103.
+
+Shah VP (1994) Skin penetration enhancers: scientific perspectives. In: Hsieh DS, editor. Drug permeation enhancement; theory and applications. New York: Marcel Dekker 19-24.
+
+Ibrahim MM, Sammour OA, Hammad MA, Megrab NA (2008) In vitro evaluation of proniosomes as a drug carrier for flurbiprofen. AAPS Pharm SciTech 9: 782-790.
+
+ElMeshadAN, Mina Ibrahim Tadros (2011) Transdermal delivery of an anti-cancer drug via w/o emulsions based on alkyl polyglycosides and lecithin: design, characterization, and in vivo evaluation of the possible irritation potential in rats. AAPS Pharm SciTech 12: 1-9.
+
+Friedman-Kien AE, Klein RJ, Glaser RD, Czelusniak SM (1986) Treatment of recurrent genital herpes with topical alpha interferon gel combined with nonoxynol 9. J Am AcadDermatol 15: 989-994.
+
+Endo M, Yamamoto T, Ijuin T (1996) Effect of nonionic surfactants on the percutaneous absorption tenoxicam. Chem Pharm Bull (Tokyo) 44: 865-867.
+
+Okuyama H, Ikeda Y, Kasai S, Imamori K, Takayama K, et al. (1999) Influence of non-ionic surfactants, pH and propylene glycol on percutaneous absorption of piroxicam from cataplasm. Int J Pharm 186: 141-148.
+
+Nie S, Hsiao WL, Pan W, Yang Z (2011) ThermoreversiblePluronic F127-based hydrogel containing liposomes for the controlled delivery of paclitaxel: in vitro drug release, cell cytotoxicity, and uptake studies. Int J Nanomedicine 6: 151-166.
+
+Abdullah GZ, Abdulkarim MF, Salman IM, Ameer OZ, Yam MF, et al. (2011) In vitro permeation and in vivo anti-inflammatory and analgesic properties of nanoscaled emulsions containing ibuprofen for topical delivery. Int J Nanomedicine 6: 387-396.
+
+Zhao JH, Ji L, Wang H, Chen ZQ, Zhang YT, et al. (2011) Microemulsion-based novel transdermal delivery system of tetramethylpyrazine: preparation and evaluation in vitro and in vivo. Int J Nanomedicine 6: 1611-1619.
+
+Alsarra IA, Bosela AA, Ahmed SM, Mahrous GM (2005) Proniosomes as a drug carrier for transdermal delivery of ketorolac. Eur J Pharm Biopharm 59: 485-490.
+
+Ancel HC, Allen LV, Popovich NG (2005) Pharmaceutical dosage forms and drug delivery systems. 5th edition, New Delhi: Lippincott Williams & Wilkins. 311-312.
+
+Patel HJ, Patel JS, Desai BG, Patel KD (2010) Permeability studies of anti-hypertensive drug amlodipine besilate for transdermal delivery. Asian Journal of Pharmaceutical and Clinical Research 3: 31-34.
+
+Gannu RP, Chinna R. Yamsani V, Yamsani SK, Yamsani MR (2010) Enhanced bioavailability of Lacidipine via microemulsion based trandermal gel: formulation optimization, ex vivoand in vivocharacterization. Int J Pharm 388: 231-241.
+
+Wu PC, Lin YH, Chang JS, Huang YB, Tsai YH (2010) The effect of component of microemulsion for transdermal delivery of nicardipine hydrochloride. Drug DevInd Pharm 36: 1398-1403.
+
+Sheikh SN, Faiyaz S, Sushma T, Javed A (2007) Formulation Development and Optimization using Nanoemulsion Technique: A Technical Note. AAPS Pharmaceutical Science and Technology 8: E12-E17.
+
+Inayat Bashir Pathan, MallikarjunaSetty C (2011) Enhancement of Transdermal Delivery of Tamoxifen Citrate using Nanoemulsion Vehicle. International Journal of PharmTech Research CODEN (USA): IJPRIF 3: 287-297.
+
+Mukherjee B, Kanupriya, Mahapatra S, Das S, Patra B (2005) Sorbitanmonolaurate 20 as a potential skin permeation enhancer in transdermal patches. J Appl Res 1: 96-108.
+
+Shin SC, Choi JS (2005) Enhanced efficacy of triprolidine by transdermal application of the EVA matrix system in rabbits and rats. Eur J Pharm Biopharm 61: 14-19.
+
+Ogiso T, Shintani M (1990) Mechanism for the enhancement effect of fatty acids on the percutaneous absorption of propranolol. J Pharm Sci 79: 1065-1071.
+
+Elyan BM, Sidhom MB, Plakogiannis FM (1996) Evaluation of the effect of different fatty acids on the percutaneous absorption of metaproterenol sulfate. J Pharm Sci 85: 101-105.
+
+Walters KA, Bialik W, Brain KR (1993) The effects of surfactants on penetration across the skin*. Int J CosmetSci 15: 260-271.
+
+Pikal MJ (2001) The role of electroosmotic flow in transdermal iontophoresis. Adv Drug Deliv Rev 46: 281-305.
+
+Hofland HEJ, Bouwstra JA, Spies F, Bodde HE, Nagelkerke JF, et al. (1995) Interactions between non-ionic surfactant vesicles and human stratum corneum in vitro: freeze fracture scanning microscopy and confocal laser scanning microscopy. J Liposome Res 5: 241-263.
+
+Karande P, Jain A, Mitragotri S (2004) Discovery of transdermal penetration enhancers by high-throughput screening. Nat Biotechnol 22: 192-197.
+
+Vaddi HK, Wang LZ, Ho PC, Chan SY (2001) Effect of some enhancers on the permeation of haloperidol through rat skin in vitro. Int J Pharm 212: 247-255.
+
+Megwa SA, Cross SE, Benson HA, Roberts MS (2000)Ion-pair formation as a strategy to enhance topical delivery of salicylic acid. J Pharm Pharmacol 52: 919-928.
+
+Kitagawa S, Kasamaki M, Ikarashi A (2000) Effects of n-alkyltrimethylammonium on skin permeation of benzoic acid through excised guinea pig dorsal skin. Chem Pharm Bull (Tokyo) 48: 1698-1701.
+
+Smith JC, Irwin WJ (2000) Ionisation and the effect of absorption enhancers on transport of salicylic acid through silastic rubber and human skin. Int J Pharm 210: 69-82.
+
+James-Smith MA, Shekhawat D, Shah DO (2007) Importance of micellar lifetime and sub-micellar aggregates in detergency processes. Tenside Surf Deterg 44: 142-154.
+
+Patist A, Kanicky JR, Shukla PK, Shah DO (2002) Importance of micellar kinetics in relation to technological processes. J Colloid Interface Sci 245: 1-15.
+
+Schaefer UF, Elbert K, Ruchatz F. Testing of Different Substances for Their Dermal Penetration Enhancement, Germany.
+
+
+-- Tables and Figures at a glance
+
+
+
+
+
+
+Table 1
+
+
+
+Figures at a glance
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Figure 1
+ 
+Figure 2
+ 
+Figure 3
+ 
+Figure 4a
+ 
+Figure 4b
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Figure 4c
+ 
+Figure 4d
+ 
+Figure 4e
+ 
+Figure 4f
+ 
+Figure 4g
+
+
+ 
+
+
+
+
+
+
+             
+   
+   
+   
+
+
+
+Post your comment
+
+
+Share This Article
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+Relevant Topics
+
+
+
+  Agglutination  
+  Anovulation  
+  Bacteriostasis  
+  Biological Processes  
+  Catabolism  
+  Defoliation  
+  Deossification  
+  Digestion  
+  Drug Discovery Process  
+  Eburnation  
+  Ecchymosis  
+  Effacement  
+  Erythropoiesis  
+  Eutrophication  
+  Introversion  
+  Intussusception  
+  Molecular and Cellular Biology  
+  Molecular Pharmacy  
+  Pharmaceutical Nanotechnology  
+  Protein Protein interactions  
+
+
+
+
+
+Recommended Journals
+
+
+
+  Advances in Molecular Diagnostics  
+  Cellular and Molecular Biology  
+  Cellular and Molecular Biology  
+  International Journal of Research and Development in Pharmacy & Life Sciences  
+  Journal of Molecular Immunology  
+  World Journal of Pharmacology and Toxicology  
+
+ View More  
+
+
+
+
+Article Tools
+
+
+
+Export citation 
+Share/Blog this article 
+
+
+
+
+
+Article Usage
+
+
+Total views: 
+23830  
+[From(publication date): 
+August-2014 - Apr 27, 2023]
+Breakdown by view type
+HTML page views :  18614  
+PDF downloads :  5216  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Post your comment
+
+
+
+
+
+Name: *
+
+
+
+E-mail:
+
+
+
+
+Your comment: *
+
+      
+
+
+Anti Spam Code:
+
+
+
+
+     Can't read the image? click here to refresh
+
+
+
+
+
+ 
+
+
+
+Peer Reviewed Journals
+Make the best use of Scientific Research and information from our 700 + peer reviewed, Open Access Journals 
+
+
+
+
+
+Journals by Subject
+
+
+
+
+Agri and Aquaculture
+Biochemistry
+Bioinformatics & Systems Biology
+Biomedical Sciences
+Business & Management
+Chemical Engineering
+Chemistry
+Clinical Sciences
+Computer Science
+Economics & Accounting
+Engineering
+Environmental Sciences
+Food & Nutrition
+General Science
+Genetics & Molecular Biology
+
+
+
+
+Geology & Earth Science
+Immunology & Microbiology
+Informatics
+Materials Science
+Mathematics
+Medical Sciences
+Nanotechnology
+Neuroscience & Psychology
+Nursing & Health Care
+Pharmaceutical Sciences
+Physics
+Plant Sciences
+Social & Political Sciences
+Veterinary Sciences
+
+
+
+
+
+
+
+
+Clinical & Medical Journals
+Dersleri yüzünden oldukça stresli bir ruh haline sikiş hikayeleri bürünüp özel matematik dersinden önce rahatlayabilmek için amatör pornolar kendisini yatak odasına kapatan genç adam telefonundan porno resimleri açtığı porno filmini keyifle seyir ederek yatağını mobil porno okşar ruh dinlendirici olduğunu iddia ettikleri özel sex resim bir masaj salonunda çalışan genç masör hem sağlık hem de huzur sikiş için gelip masaj yaptıracak olan kadını gördüğünde porn nutku tutulur tüm gün boyu seksi lezbiyenleri sikiş dikizleyerek onları en savunmasız anlarında fotoğraflayan azılı erkek lavaboya geçerek fotoğraflara bakıp koca yarağını keyifle okşamaya başlar 
+
+
+
+Anesthesiology
+Cardiology
+Clinical Research
+Dentistry
+Dermatology
+Diabetes & Endocrinology
+Gasteroenterology
+Genetics
+Haematology
+Healthcare 
+Immunology
+Infectious Diseases
+Medicine
+Microbiology
+
+
+
+
+Molecular Biology
+Nephrology
+Neurology
+Nursing
+Nutrition
+Oncology
+Ophthalmology
+Orthopaedics
+Pathology
+Pediatrics
+Physicaltherapy & Rehabilitation
+
+
+
+
+Psychiatry
+Pulmonology
+Radiology
+Reproductive Medicine
+Surgery
+Toxicology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+International Conferences 2023-24 
+ 
+Meet Inspiring Speakers and Experts at our 3000+ Global Annual Meetings
+
+  
+
+
+
+
+Conferences by Country
+
+
+
+
+ USA
+ Australia
+ Italy
+ Germany
+ UK
+ Japan
+ Brazil
+ South Korea
+ Netherlands
+
+
+
+
+ Spain
+ Canada
+ China
+ France
+ India
+ Singapore
+ South Africa
+ New Zealand
+ Philippines
+
+
+
+
+ Poland
+ Austria
+ Finland
+ Denmark
+ Mexico
+ Norway
+ Romania
+
+
+
+
+
+
+
+
+Medical & Clinical Conferences
+
+
+
+
+Microbiology
+Diabetes & Endocrinology
+Nursing
+Healthcare Management
+Neuroscience
+Immunology
+Gastroenterology
+Genetics & MolecularBiology
+Pathology
+Alternative Healthcare
+Pediatrics
+Ophthalmology
+
+
+
+
+Oncology & Cancer
+Cardiology
+Dentistry
+Physical Therapy Rehabilitation
+Psychiatry
+Infectious Diseases
+Medical Ethics & Health Policies
+Palliativecare
+Reproductive Medicine & Women Healthcare
+Surgery
+Radiology
+
+
+
+
+
+
+
+
+Conferences By Subject
+
+Pharmaceutical Sciences
+Pharma Marketing & Industry
+Agri, Food & Aqua
+Nutrition
+Physics & Materials Science
+Environmental Science
+EEE & Engineering
+Veterinary
+Chemical Engineering
+Business Management
+Massmedia
+Geology & Earth science
+
+
+
+
+
+
+
+
+
+
+
+
+
+Content of this site is available under  Creative Commons Attribution 4.0 License Copyright ©
+2023 - Open Access Publisher. All Rights Reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Top
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

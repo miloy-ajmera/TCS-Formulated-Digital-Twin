@@ -1,0 +1,1179 @@
+Document Name: role of Lactoperoxidase AMI in Protective Cream2
+Document link: https://www.frontiersin.org/articles/10.3389/fnut.2018.00052/full
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frontiers | Effects of Bovine Immunoglobulins on Immune Function, Allergy, and Infection
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download Article
+
+
+
+                                Download Article
+                            
+
+
+
+                                            Download PDF
+                                        
+
+
+
+                                            ReadCube
+                                        
+
+
+
+                                            EPUB
+                                        
+
+
+
+                                            XML (NLM)
+                                        
+
+
+
+
+
+
+
+
+
+                        Share on
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Export citation
+                    
+
+
+
+                                    EndNote
+                                
+
+
+
+                                    Reference Manager
+                                
+
+
+
+                                    Simple TEXT file
+                                
+
+
+
+                                    BibTex
+                                
+
+
+
+
+
+
+
+
+
+
+
+total views
+
+
+
+
+
+
+ View Article Impact
+            
+
+
+SHARE ON
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Edited by
+
+
+Willem Van Eden
+
+
+Utrecht University, Netherlands
+ Reviewed by
+
+
+Brandt D. Pence
+
+
+University of Memphis, United States
+
+
+Claudio Nicoletti
+
+
+University of Siena, Italy
+
+
+
+TABLE OF CONTENTS
+
+
+
+Abstract
+Human Immunoglobulins in Milk
+Bovine Immunoglobulins From Milk, Colostrum, and Serum
+In vivo Studies on Effects of Bovine IgG and Colostrum on Gastrointestinal Tract Infections
+In vivo Studies of Breastfeeding and Bovine IgG and Colostrum on Respiratory Tract Infections and the Relation With Allergy
+Bovine Immunoglobulins: Putative Mechanism of Action
+Concluding Remarks
+Author Contributions
+Funding
+Conflict of Interest Statement
+Acknowledgments
+References
+ 
+
+
+
+
+
+
+
+
+Export citation
+
+
+
+
+                                        EndNote
+                                    
+
+
+
+                                        Reference Manager
+                                    
+
+
+
+                                        Simple TEXT file
+                                    
+
+
+
+                                        BibTex
+                                    
+
+
+
+
+
+
+
+
+
+
+
+Check for updates
+
+
+
+People also looked at
+
+
+
+
+
+
+
+
+
+
+
+                                REVIEW article
+                            
+
+
+
+                            Front. Nutr., 22 June 2018Sec. Nutritional Immunology
+
+                            
+ Volume 5 - 2018 | 
+https://doi.org/10.3389/fnut.2018.00052
+
+
+
+
+Effects of Bovine Immunoglobulins on Immune Function, Allergy, and Infection
+
+Laurien H. Ulfman1, Jeanette H. W. Leusen2, Huub F. J. Savelkoul3,4, John O. Warner5 and R. J. Joost van Neerven1,3*
+
+1FrieslandCampina, Amersfoort, Netherlands
+2Laboratory for Translational Immunology, University Medical Center Utrecht, Utrecht, Netherlands
+3Wageningen University & Research, Cell Biology and Immunology, Wageningen, Netherlands
+4Allergy Consortium Wageningen, Wageningen, Netherlands
+5National Institute of Health Research, Collaboration for Leadership in Applied Health Research and Care for NW London, Imperial College, London, United Kingdom
+
+This review aims to provide an in depth overview of the current knowledge of the effects of bovine immunoglobulins on the human immune system. The stability and functional effects of orally ingested bovine immunoglobulins in milk products are described and potential mechanisms of action are discussed. Orally ingested bovine IgG (bovine IgG) can be recovered from feces, ranging from very low levels up to 50% of the ingested IgG that has passed through the gastrointestinal tract. In infants the recovered levels are higher than in adults most likely due to differences in stomach and intestinal conditions such as pH. This indicates that bovine IgG can be functionally active throughout the gastrointestinal tract. Indeed, a large number of studies in infants and adults have shown that bovine IgG (or colostrum as a rich source thereof) can prevent gastrointestinal tract infections, upper respiratory tract infections, and LPS-induced inflammation. These studies vary considerably in target group, design, source of bovine IgG, dosage, and endpoints measured making it hard to draw general conclusions on effectiveness of bovine immunoglobulin rich preparations. Typical sources of bovine IgG used in human studies are serum-derived IgG, colostrum, colostrum-derived IgG, or milk-derived immunoglobulins. In addition, many studies have used IgG from vaccinated cows, but studies using IgG from nonimmunized animals have also been reported to be effective. Mechanistically, bovine IgG binds to many human pathogens and allergens, can neutralize experimental infection of human cells, and limits gastrointestinal inflammation. Furthermore, bovine IgG binds to human Fc receptors which, enhances phagocytosis, killing of bacteria and antigen presentation and bovine IgG supports gastrointestinal barrier function in in vitro models. These mechanisms are becoming more and more established and explain why bovine IgG can have immunological effects in vivo. The inclusion of oral bovine immunoglobulins in specialized dairy products and infant nutrition may therefore be a promising approach to support immune function in vulnerable groups such as infants, children, elderly and immunocompromised patients.
+
+
+
+Human Immunoglobulins in Milk
+The first year of life is essential for infants to develop their immune system. At the same time the child is exposed to many new and potentially immunogenic stimuli such as dietary components (food) allergens and the microbiota that colonize the gastrointestinal tract. Therefore, during this year, it is crucial to have tightly regulated immune responses to prevent inflammatory responses to these (stimuli) food antigens, allergens, and commensal bacteria.
+It is known that human breast milk and bovine milk contain many factors that are involved in immune development. Milk contains immunoglobulins, prebiotic oligosaccharides, extracellular vesicles (e.g., exosomes), antimicrobial proteins such as lysozyme, lactoperoxidase, and lactoferrin, also immunomodulatory cytokines such as IL-10 and TGF-β. In addition, breastfeeding has been shown to provide protection against gastrointestinal and respiratory tract infections (1, 2). It prevents excessive immune responses during immune development in early life (3) which may be attributed to the orchestrated activity of the above mentioned milk components. Most of these components—with the exception of human milk oligosaccharides—are relatively well-conserved between bovine and human milk. Bovine milk and its components have clear functional effects on the human immune system (4). However, as many other immunomodulatory molecules are present in milk, the individual contribution of each of these to disease prevention is difficult to determine (5).
+As early as 1892, Paul Ehrlich demonstrated that mouse maternal immunoglobulins confer passive immunity to their murine offspring (6, 7). Immunoglobulins (or antibodies) are glycoproteins produced by plasma/B cells that specifically recognize and bind antigens, that are present on e.g. bacteria and viruses. As the immunoglobulins have a high degree of specificity they assist in the destruction of specific pathogens. In addition to this specific recognition, various human immunoglobulin isotypes (IgM, IgG, IgA), and subclasses (IgG1-4, IgA1-2) differ in their biological features, structure, target specificity and distribution. Whilst IgG is the most predominant antibody in the serum, IgA is the main isotype of the immunoglobulins found in human milk and colostrum, followed by IgG and IgM.
+In mature human breast milk, IgA is present at levels around 1 mg/ml, whilst in colostrum levels can reach up to 5–12 mg/ml (8, 9). The specificity of maternal IgA reflects the past exposure of the mother to bacteria and viruses present on mucosal surfaces in the gastrointestinal and respiratory tract and thus there is a transfer of immunological memory of the mother to the infant. Breastmilk IgA and IgG can promote neutralization and killing of pathogens and can also modulate immune function in infants, thereby protecting them against inflammatory responses (10–14). Therefore, the concept of vaccinating mothers against pathogens to optimize the protection of their nursing children has increasing interest (15, 16). Indeed in the UK both influenza and pertussis immunization are recommended during pregnancy and others such as for Group B streptococcal infection are now being tested in vivo (17).
+The levels of serum IgA produced by the newborn infant itself are very low (18). At the age of 1 year, secretory (s)IgA is only 20% of the level observed in adults and circulating levels only reach maturity by the age of 4 years (18). Aberrant IgA responses in the gut have been described in several gastrointestinal diseases (19). Furthermore, delayed increases in IgA in the infant and low maternal IgA levels in breast milk have been associated with a higher risk of infection, allergy, and autoimmune diseases (20).
+sIgA also has an important role in the development of oral tolerance toward the gut microbiota. Kohler showed that fecal sIgA concentrations peak at 1 month of age in exclusively breastfed infants compared to exclusively formula fed infants and decline to levels observed in formula fed infants around 5 months. From this timepoint onwards, no difference was observed between fecal sIgA concentration between breastfed and formula fed infants (21). In line with this, other studies showed that fecal sIgA concentration in exclusively formula-fed infants were only 33% of breastfed infants' levels at 1 month and only reached comparable levels to breastfed infants at 9 months of age [(21), and reviewed in (22)]. Low levels of fecal IgA in infants have been associated with a higher risk of allergy (23). Thus, the supply of sIgA in breast milk has a potentially pivotal role in enhancing intestinal immunity in early life and help in establishing a healthy outcome (24). However, interpreting the results of human observational studies of birth cohorts in relation to health outcomes is difficult as considerable variability exists in the breast milk content of immune active molecules both between mother/infant pairs and within such pairs at the different sampling points. Numerous genetic and environmental influences affect the levels of immune factors in milk and as yet no study has been able to account for the variability (22). Furthermore, as there are many other immunomodulatory molecules in the milk, the individual contribution of each to disease prevention is unknown (5).
+Just as the multiple advantages of breast milk described, cow's milk consumption has also been associated with specific health outcomes. Several epidemiological studies have shown a positive association between the consumption of unprocessed cow's milk and a reduced risk for developing allergy, most prominently allergic asthma (25–27). This association was not found for the consumption of heated farm milk and commercial high heat treated milk (e.g., UHT) (28). The consumption of these different processed cow milk types is consumed on top of regular breastmilk and formula milk consumption and can thus be considered as weaning food. The levels of intact milk protein in these cow's milks correlated with the protective effect on asthma (28), suggesting that intact milk protein confer this effect but not denatured protein which occurs upon heating (29, 30). Several factors that are present in breast milk as well as in cow's milk can be linked to this effect on allergy (4). In addition, raw milk consumption in the first year of life is also associated with decreased risk of upper respiratory tract infections and otitis media (31).
+This well-established protective function of immunoglobulins in breast milk, and in neonatal health in farm animals, has meant that bovine immunoglobulins have been studied extensively for their putative effect on human health.
+Bovine Immunoglobulins From Milk, Colostrum, and Serum
+Bovine milk contains many components that have immunomodulatory and antimicrobial properties. Bovine immunoglobulins (bIg), in particular bovine IgG, have been studied since the 1970's for their potential effects on immunity and infection in humans.
+Bovine IgG can not only bind to a wide range of pathogenic bacteria and viruses (32–40), but also to many allergens (41). In addition, the specificity of the immunoglobulins in the milk or colostrum can be increased by vaccinating the cows before collecting their milk or colostrum. After vaccination hyperimmune colostrum is strongly enriched for IgG1 that recognizes the pathogen included in the vaccine. Indeed, the first studies on the use of oral bovine immunoglobulins to prevent and treat gastrointestinal infections have focused on the use of hyperimmune colostrum containing rotavirus-specific immunoglobulins (40, 42). These were used for the treatment and prophylaxis of rotavirus infection in infants and children and showed good efficacy in several studies (described in section Treatment of Git Infection in Infants and Children and Prevention of Gastrointestinal Tract infection). Since these early studies, many studies have been performed utilizing different in vitro systems, animal models and human studies in order to determine mechanisms of action and their applicability for human health.
+Sources and Origin of Bovine IgG
+In contrast to humans, in cow's milk IgG is the main isotype present, especially in colostrum, followed by IgA and IgM (43). There are 2 subclasses of IgG known in cows: IgG1 and IgG2. IgG1 is the main isotype of immunoglobulin found in bovine milk and colostrum. In mature milk IgG1 is the dominant isotype, whereas sIgA and IgM are present at ~5–10 fold lower levels. The concentration of IgG1 in mature milk is around 200–500 μg/ml although levels reported in literature differ depending on type of measurement technique used (44, 45).
+In colostrum the IgG levels are much higher, reaching up to 50–100 mg/ml in the first days after birth [reviewed in (46)]. These high concentrations are necessary for the calf because cows cannot transfer IgG across the placenta. Calves are thus dependent on the transfer of IgG from colostrum into the blood, and calves that do not receive colostrum after birth are immunocompromised and prone to infection. High levels of colostrum-derived IgG in blood of calves are associated with reduced risks of pneumonia (47). Likewise, colostrum intake by calves is crucial to protect against gastrointestinal tract infections. This uptake of IgG occurs partly via passive transport across the epithelium when it is not yet fully closed, but also actively via FcRn, the neonatal IgG receptor that is expressed on intestinal epithelium in neonatal calves (48, 49).
+This high level of IgG in colostrum has meant that many studies have used colostrum as an IgG rich source for studies, rather than purified IgG (1). However, in colostrum—as in mature milk—many other factors are present that can have immunological effects, but compared to IgG their concentrations in colostrum are relatively low. For this reason, colostrum is often regarded as an IgG1 preparation even though additional factors are present. More recently, bovine immunoglobulins isolated from serum—that is also high in IgG and low in IgM and IgA—have been used to study their effects on chronic and severe gastrointestinal disturbances in humans (50).
+Maternal serum IgG levels in cows decrease before delivery (51), shown by following labeled IgG1 and IgG2 transfer from blood into colostrum (52). The majority of all maternal IgG in colostrum thus seems to be transported from the serum into colostrum and milk (52, 53). The immunoglobulins in milk and colostrum can therefore be considered as a good reflection of the immunoglobulins in maternal serum.
+Digestion of Bovine IgG After Oral Administration
+In order to be used as an active, prophylactic ingredient in human food products, a significant amount of bovine immunoglobulins must be able to survive passage through the stomach into the small intestine, or even throughout the entire gastrointestinal (GI) tract. This has been the subject of several studies, reviewed in detail in (54).
+An early study by Hilpert et al. showed that Enteropathogenic E. coli (EPEC)-specific IgG or active fragments thereof are present in the stools of infants that received immunoglobulins from cows immunized against EPEC (55). In line with this, in the stools from children with rotavirus that received oral colostral immunoglobulins anti-rotaviral immunoglobulin activity could be detected (56). This data indicate that IgG can survive passage through the GI tract and retain functionality.
+In a study of ileostomy patients, a total of 50% of all orally administered IgG1 from an bovine immunoglobulin concentrate could be recovered in ileal fluid (57). Interestingly, no enhanced survival was seen by combining the preparation with antacid or omeprazole (a proton pump inhibitor) to counter the effect of low gastric pH, suggesting that pH regulation in the stomach does not enhance the survival of the IgGs.
+Two other studies have shown that up to 10–20% of the immunoglobulins may survive GI passage in infants (58) and adults (59). However another study, showed only 3% of orally ingested bovine IgG could survive the passage through the GI tract in healthy adults (60). Encapsulation of the immunoglobulins in entero-protective capsules that dissolve at pH 6 and higher, increased GI tract survival of bovine IgG from 3 to 30% (60). Similarly, in mice consuming bovine colostrum, 5% of the IgG could be recovered in the colon, which was increased to >20% for encapsulated colostrum (61).
+In contrast, two other studies could not recover significant amounts of bovine IgG in stools of healthy adults (36, 62). Bogstedt (62) showed <0.01% of orally ingested bovine IgG recovery in stool in healthy adults. Furthermore, Lissner (36) showed low recovery and only in 3 out of 8 healthy volunteers after ingestion of 15 g of colostrum powder. It was noted that the longer residence time in the large intestine is determining the observed low survival of IgG, especially when compared to other studies in which people with diarrhea were investigated (62). Furthermore, a recent study showed that even though orally ingested bovine IgG can be detected in fecal matter, bovine IgG is not taken up into circulation in adult human volunteers (63). An explanation of the different recoveries of bovine IgG in fecal matter after oral administration by adults could rely on differences in time of fecal matter sampling, the analytical methods used or set up of the study. Kelly et al. (60) who showed the 3% recovery level tracked fecal passage by oral ingestion of carmin red combined witha 3 days stool collection. As the duration of fecel transfer differs per person, and if no tracker is used (36, 62), it is difficult to predict the peak of bovine IgG in feces. The risk is that the peak may be missed. Furthermore, differences in protease inhibitors have been reported therefore a cocktail (60) might be more effective compared to a single trypsin inhibitor (64).
+Even though these findings consistently show survival of bovine IgG throughout the GI tract, the amounts recovered in feces vary from trace amounts (0.01%) up to 50% between different studies most likely due to differences in study methodology.
+Collectively, the data indicates that a significant amount of orally ingested bovine IgG immunoglobulins are present throughout the GI tract, especially so in infants as they have a higher gastric pH and lower levels of proteolysis in the GI tract. The recent insights in the role of maternal breast milk immunoglobulins and its role in microbiota development in the infant stress the importance of keeping these structures intact. This is further discussed in section Immunological effects of Oral immunoglobulins of other species.
+Specificity of Bovine IgG in Normal Milk and Colostrum
+The presence of bovine IgG1 against rotavirus in normal cow's milk was first demonstrated in the 1970's by Ellens et al. (37). This was followed by a series of studies on binding of bovine IgG to many human bacterial pathogens including Yersinia enterocolitica, Campylobacter jejuni, Escherichia coli, Klebsiella pneumoniae, Serratia marescens, Salmonella typhimurium, Staphylococcus, Streptococcus, Cryptosporidium, Helicobacter, E.coli EHEC O157:H7, Pseudomonas, and Rotavirus (32–36). Bovine colostrum also contains IgG1 and IgA antibodies directed against Necrotizing enterocolitis (NEC)-associated pathogens such as Klebsiella, Citrobacter, Enterobacter and Serratia (65).
+In addition to recognizing gastrointestinal tract associated pathogens, bovine Igs can also bind to respiratory pathogens such as human Respiratory Syncitial Virus (RSV), influenza virus and Streptococcus pneumoniae (38). This may in part explain the finding by Loss et al. that raw milk consumption in the first year of life is also associated with fewer upper respiratory tract infections and otitis media (31).
+In addition to immunoglobulins specific for infectious microorganisms, Collins et al. have shown that cow's milk and colostrum can also contain immunoglobulins that are specific for aeroallergens like rye-grass pollen, house dust mite, aspergillus, and wheat allergens (41).
+Although bovine milk IgG has been investigated to a larger extent than IgA, it is assumed that the specificities are similar between the two. Furthermore, a recent report compared the specificity between bovine sIgA and human sIgA isolated from milk to pathogenic and commensal bacteria and concluded that the binding characteristics of both human and bovine sIgA from milk were similar (66).
+In summary, bovine immunoglobulins can bind to a wide range of human intestinal and respiratory bacterial—as well as viral pathogens, and can also bind to inhalation and some food allergens. Figure 1 shows the proposed effects of bovine IgG along the gastrointestinal tract.
+
+FIGURE 1
+
+
+
+Figure 1. Proposed effects of bovine IgG at various locations in the GI tract. (A) After ingestion bovine IgG can encounter swallowed respiratory pathogens and inhaled allergens. This can lead to partial immune exclusion (especially when milk is regurgitated and enters the nasopharynx) and immune modulation in the tonsils that comprise Waldeyer's ring. (B) In the small intestine IgG can also exclude pathogens by preventing adhesion to epithelial surfaces, but may also promote the uptake of immune complexes of IgG with pathogens via Fc receptors, resulting in regulatory immune responses and induction of IgA. (C) In the colon, IgG prevents leakage of LPS, can modify microbiota composition and short-chain fatty acids (SCFA) production, and can prevent adhesion of pathogens.
+
+
+In vivo Studies on Effects of Bovine IgG and Colostrum on Gastrointestinal Tract Infections
+Studies on the effect of bovine immunoglobulins on human immune function and susceptibility to infection have been performed with a wide range of Immunoglobulin rich products which can be categorized in three groups: IgG-isolates from colostrum or milk, IgG-rich colostrum, and serum-derived IgG. These products have either been tested for prophylactic or therapeutic effects in field settings or in controlled challenge models.
+Treatment of Git Infection in Infants and Children
+A number of studies have been performed in which (hyperimmune) colostrum or immunoglobulins derived thereof were used for treatment in infants and young children and are summarized in Table 1. Four independent studies describe rotavirus-diarrhea treatment with hyperimmune colostrum products. Two studies were double blind, placebo controlled studies (67, 68) performed in Bangladesh and another two were controlled studies in Europe (58, 69). Three of the studies showed significant clinical effects including a reduction in duration of diarrhea (67) and stool frequency (67, 68) the duration of rotavirus excretion (58) and need for oral rehydration solution (ORS) (68). In the fourth study, a trend was noted toward shorter duration and decreased stool frequencies in the actively treated group, but were not significant compared to the control group (69). All these studies on treatment were performed in infants of a similar age (~4–30 months old) but with bovine immunoglobulin doses ranging from 3 g (100 ml colostrum) to 20 g (based on a 10 kg child receiving 2 g/kg body weight).
+
+TABLE 1
+
+
+
+Table 1. Treatment of GIT infections in infants and children.
+
+
+An early treatment study providing a specific milk immunoglobulin concentrate (1 g/kg/day for 10 days) against enteropathogenic E. coli (EPEC) to infants (10 days−18 months old) suffering from enteropathogenic E. coli (EPEC) induced diarrhea showed stool cultures being negative for EPEC in 84% of the cases (70). The control group suffered from diarrhea induced by other E. coli strains that did not receive the milk immunoglobulin concentrate and resulted in negative stool cultures in only 11% (1/9) of the cases. In another, double blind, placebo controlled study, performed in Bangladesh Casswall et al. could not demonstrate a significant effect of an oral bovine immunoglobulin milk concentrate from cows hyperimmunized with enterotoxicogenic E. coli (ETEC) and EPEC strains on the duration, ORS intake, stool frequency or duration of E.coli-induced acute diarrhea (71). Within this study, children (4–24 months of age) that already had E. coli induced diarrhea were included and given 20 g of immunoglobulin concentrate for 4 days. This is a 20-fold higher dose than described in the study by Mietens et al. (70). Since no effects were seen in the Bangladesh study, it was hypothesized that the strains used for vaccination of the cows and the strains that infected the children differed too much.
+For other pathogens such as Helicobacter pylori and Shigella, the use of hyperimmune colostrum in treatment has been less successful compared to rotavirus and E. coli induced diarrhea. In a study performed in infants in rural Bangladesh Helicobacter pylori-infected children (4–29 months of age) treatment with purified immunoglobulins from hyperimmune colostrum failed to eradicate H. pylori infection (72). In this double blind, placebo controlled study, children were treated for 1 month with 1 g hyperimmune colostrum containing 0.7 g of immunoglobulins per day. Although hyperimmune colostrum against Helicobacter pylori prevented adhesion of helicobacter in vitro, and treated an infection in vivo in mice (75), an effect in vivo in humans was not observed. Specificity of the strains used for the vaccine or age of the target group are two factors that might be responsible for the differing outcomes. Hyperimmune colostrum of cows immunized with Shighella did not have an effect on Shighella dysenteria-infected children (1–12 years of age) in Bangladesh in a double blind, placebo controlled trial (73). No significant differences were seen in duration of diarrhea, fever, stool frequency and visible blood in the stool between the actively treated (100 ml of hyperimmune colostrum 3 times per day) and the control group. Interestingly, a single placebo controlled study reported that children (0–18 years, mean age of 2) suffering from Shiga toxin-producing E. coli induced diarrhea and treated with a normal (non-hyperimmune) colostrum resulted in significantly reduced stool frequency (74). Yet, no effects were shown on pathogen numbers or complications of infection. One of the factors which might explain the difference in the observed effect was the timing of the start of treatment. In the study that did show a beneficial effect of treatment was started 24–48 h after diarrhea and in the other study only after 48–72 h. Other reasons such as study power cannot be excluded. Intervention studies have been described in literature testing immunoglobulin preparations for treatment and/or prevention of parasites and fungi reviewed by Hammarstrom et al. (76).
+Although not all studies discussed above show effects of bovine IgG in the treatment of on-going gastrointestinal tract infections in children and infants, the majority of the studies indicate that bovine IgG, especially after prior bovine vaccination with the specific organism, can help in shortening the duration of gastrointestinal infections.
+Treatment of Gastrointestinal Infections in Adults With Hyperimmune Colostrum
+In a single, human trial with adult patients suffering from Clostridium difficile associated diarrhea, Van Dissel et al. (77) showed that a whey protein concentrate (WPC40) from Clostridium immunized cows containing a high concentration of specific sIgA might prevent relapsing clostridium-induced diarrhea after antibiotic treatment. The trial was uncontrolled, and should therefore be considered as preliminary. In addition, the study also showed that the hyperimmune WPC40 could prevent lethality in a hamster model of Clostridium infection.
+Similarly, in a prospective randomized double blind study to compare treatment of Clostridium difficile associated diarrhea patients were treated with either colostral immunoglobulins or metronidazole. The study showed that colostral immunoglobulins were as effective in the prevention of clostridium difficile-associated diarrhea as treatment with metronidazole (78).
+A recent trial treating Helicobacter pylori-infected adults with milk of immunized cows (randomized double-blind trial) showed an increased clearance of intragastric Helicobacter pylori (79). A third gastrointestinal pathogen that has been studied for its' potential to be treated with bovine hyperimmune colostrum is cholera-induced diarrhea. In this paper the results of two randomized, controlled clinical trials were reported but no effect on reducing stool volumes was observed (80).
+Prevention of Gastrointestinal Tract Infection Upon a Pathogen Challenge of Healthy Volunteers
+To assess the biological activity of new nutritional concepts, studies have been set up that utilize adult human volunteers that were given immunoglobulin preparations derived from hyperimmune colostrum orally before a challenge with live pathogens. These studies are mainly performed with products containing immunoglobulins specific for E.coli to prevent travellers' diarrhea.
+In the first study, Tacket et al. (81) showed a clear prophylactic effect of hyperimmune colostrum from cows immunized with a range of E.coli serotypes. In this study volunteers received an oral challenge with 109 enterotoxicogenic E.coli. The volunteers received either hyperimmune colostrum (3 times/day) or a control immunoglobulin concentrate without E. coli-specific immunoglobulins. None of the volunteers in the hyperimmune colostrum, while 9/10 in the control group developed diarrhea. Similar preventive effects of E.coli specific immunoglobulins were reported by Freedman et al. (82). However, in a follow-up study no effect could be seen using an enteric coated E.coli specific immunoglobulin product (83). It could be that the immunoglobulins in enteric capsules were not released until they reached the colon, whilst the infection is initiated in the small intestine (60).
+In a placebo controlled challenge study with ETEC H10407, oral hyperimmune bovine IgG isolated from hyperimmune colostrum protected against ETEC-induced diarrhea (84). In a challenge model with an 078 ETEC strain, colostrum protein formulated in tablet form was shown to confer protection against diarrhea in two separate randomized, double blind placebo controlled studies (85).
+In a similar challenge study, healthy volunteers were infected with Cryptosporidium parvum and prophylactically treated with a hyperimmune colostrum (86). In this study only a non-significant trend toward less diarrhea was noted in the treated group.
+The treatment of GI-tract infections in adults, the prophylactic approach in challenge studies with healthy volunteers indicates that hyperimmune immunoglobulins can alleviate or shorten GI tract infections in a well-controlled challenge setting.
+Prevention of Gastrointestinal Tract Infection
+It was first shown in the 1960s that bovine colostral immunoglobulins protected calves against gastrointestinal bacterial and viral infections (87, 88). This has prompted researchers to investigate the efficacy of bovine immunoglobulins in humans. Alarge number of studies have now shown efficacy of bovine immunoglobulins in preventing natural infection in humans as well as in animal infection models (76). Studies on prevention of gastrointestinal tract infections in infants are summarized in Table 2. This concept has been tested extensively for anti-rotavirus antibodies. One of the first studies to demonstrate functional effects of bovine immunoglobulins in humans was a study by Ebina et al. (40) showing that bovine colostrum from naturally rotavirus infected cows protected young children against rotavirus diarrhea during a rotavirus epidemic. A similar protective effect of rotavirus-specific bovine colostral immunoglobulins was described by Davidson in a controlled study in hospitalized Australian children aged 3–15 months (42). In a later study, Davidson confirmed this in Hong Kong and India (89). However, an infant formula with a bovine milk immunoglobulin concentrate from cows immunized with E. coli EPEC and Rotavirus did not protect against the development of diarrhea in a controlled study carried out in Chile (91). The reason of the lack of efficacy is not known but the authors speculated that the dose (0.12 g/kg/day) might have been too low. Specificity of the antibodies was in line with the observed pathogens in the study and therefore an unlikely reason for the observed lack of effectivity. Yet, a preventive effect of bovine colostrum immunoglobulins of cows immunized with rotavirus was shown in a study in 3–7 months of old infants in America (90). This was also shown for hyperimmune colostrum against E.coli in a study in 3–6 month old infants in Iraq (92). Infants in the active group had significantly lower incidence in diarrhea and episodes of diarrhea were shorter in duration during a 6 months follow up period. In this study, no effect was seen in children receiving colostrum immunoglobulins from non-immunized cows implying that specific antibodies were needed for the observed benefit. Indeed, rotavirus-specific IgG1 immunoglobulins from bovine milk were shown to protect mice from rotavirus-induced diarrhea (39). Similar findings were reported by others in rotavirus infection models in mice (95, 96), cows (97, 98), and piglets (99). The bovine immunoglobulins were also shown to functionally inhibit the replication of human rotaviruses in in vitro tissue culture experiments. This protective effect of hyperimmune bovine IgG has not only been demonstrated for rotavirus in in vivo animal models but also for other pathogens such as enteropathogenic E. coli bacteria (100) and Helicobacter pylori (72, 75).
+
+TABLE 2
+
+
+
+Table 2. Prevention of Gastrointestinal tract infections in infants.
+
+
+Preventive studies do not always focus on a specific pathogen to induce diarrhea. In fact, scoring disease episodes within a specific time is a commonly used approach to test whether a specific product lowers the incidence of the disease. Two studies from India and Egypt used this approach and have shown decreased diarrhea in children that received (non-hyperimmune) colostrum products (93, 94). Both studies included children with recurrent infections prior to the start of the study, but unfortunately as both were uncontrolled the colostrum products were not compared to a placebo. Therefore, these results should be interpreted with caution.
+The strongest evidence on protective effects of bovine immunoglobulins from non-immunized cows comes from studies in HIV patients with recurrent diarrhea (32, 101–106) and are summarized in Table 3. As HIV patients are strongly immunosuppressed as a result of the depletion of CD4+ T cells, they have diminished capacity to resist infections and are highly susceptible to diarrhea, especially induced by Cryptosporidium, Amoeba and Campylobacter. The interest in colostrum for treating HIV infected people came from an initial report that described a positive effect of an immunoglobulin preparation derived from colostrum of non-immunized cows (32, 101). This was confirmed in another study using a colostrum-based porridge (103). Stool frequencies in these studies decreased from ~7 times/24 h period to 1–3 times/24 h. In addition to reduced stool frequency, decreased fatigue scores and increased weight and CD4+ T cell counts were also noted (104–106).
+
+TABLE 3
+
+
+
+Table 3. prevention of GIT in HIV patients.
+
+
+These studies clearly demonstrate that the administration of passive immunity in the form of bovine immunoglobulins can be protective against a range of pathogens and is especially effective in immune compromised individuals. Interestingly, overall it seems that treatment and prevention of rotavirus infection with bovine IgG from vaccinated cows is more effective than the same approach for pathogenic bacteria. However, in bacterial challenge models, bovine IgG of vaccinated cows is more effective against bacterial pathogens than in prevention and treatment of normal infections. In these challenge models the pathogen with which the volunteers are challenged is the very same bacterial strain that is used for vaccination of the cows. As a result it is expected that the “coverage” of bacterial epitopes by the IgG raised in the cows is complete, and therefore effective in subsequent challenge models. In a field trial this coverage might not be always complete with the result that the bacteria still finds a way to resist the limited action of the antibodies. Indeed, bacteria have evolved to escape the immune system (107, 108).
+In relation to treatment and prevention of natural infections by rotavirus, we speculate that the virus has fewer surface proteins and (oligo)saccharides involved in adhesion and infection than more complex bacterial pathogens. As the prevention and treatment is done with IgG raised against different strains of rotavirus and bacteria than the ones that may be actually the cause of infection, the chance of cross protection of bovine IgG to other strains of similar pathogens is better for rotavirus than for bacteria. This could be because of the more limited numbers of relevant cell surface antigens that are needed to initiate infection with rotavirus.
+In vivo Studies of Breastfeeding and Bovine IgG and Colostrum on Respiratory Tract Infections and the Relation With Allergy
+Breastfeeding and Prevention of Respiratory Tract Infections: A Link to Asthma?
+Respiratory tract infections can be divided into upper respiratory tract infections (URTI) and lower respiratory tract infections (LRTI). Especially URTI are very common in childhood. Likewise, otitis media, which is infection of the middle ear is highly prevalent, and has partial overlap in symptoms with URTI. Multiple cohort studies have shown that breastfed infants have a lower risk to develop respiratory infections and otitis media compared to formula fed infants (1–3, 109, 110). Duijts (111) et al. showed that exclusive breastfeeding up to 6 months tended to be more protective for upper and lower respiratory tract infections compared to 4 months exclusive breastfeeding. Yet for recurrent upper respiratory infections defined as >3 episodes of influenza/cold Chantry (2) et al. did not observe a difference between not breastfed, <1 months, 1–3 months, 4–5 months or >6 months breastfed infants. Interestingly, all groups that were breastfed for <6 months had a 2-fold higher chance to develop recurrent otitis media compared to infants that were breastfed for >6 months. In line with this Ip et al. showed in a meta-analysis of 5 studies that breastfeeding was associated with a reduced risk of otitis media (1). In summary, it is not clear what the optimal duration and amount of breastfeeding is for protection against these infections. The effects found differ between studies and between types of outcome (pneumonia, upper vs. lower respiratory infections, and otitis media). Much of the variation could be attributed to the impact of gene/environment interactions having diverse effects on levels of immune-modulatory molecules in breast milk between study subjects (112, 113).
+There is a complex relationship between early respiratory tract infection and the subsequent evolution of allergy [Summarized in (114)]. The previously labeled hygiene hypothesis suggested that early infection was associated with less subsequent allergy and allergic disease, most notably asthma. There is a credible immunological mechanism to explain this mutually exclusive phenomenon in that interferon gamma (IFN-γ) generated during infection down-regulates T-helper lymphocyte-2 (Th2) activity associated with the production of interleukin-4 (IL-4) which promotes IgE production. In addition infection also up-regulates T-regulatory cell (T-reg) activity, which has additional controlling effects on Th2 and Th1 responses. This latter effect would explain why both allergic (Th2) diseases and auto-immune (Th1) diseases have both increased in relatively affluent communities and co-exist more frequently than by chance. However, while in some communities, active infection such as measles, and immunization with live organisms such as BCG, has been associated with less allergy, it is more likely that the commensal human microbiome has the most important influence in promoting normal immune regulation. This has resulted in the more accurate descriptor; “the microbial exposure hypothesis.” It is likely that changes in the commensal normal human microbiome in communities adopting a Western life-style have increased susceptibility to all non-communicable inflammatory diseases (115).
+If we consider this microbial exposure hypothesis true, there is a problem with the interpretation of epidemiological cohort studies showing an increased frequency of respiratory infections in children who subsequently develop allergic sensitization and disease. The underlying defects in immune response increasing the risks of infection may be the same that increase the likelihood of allergy. This may thus imply that the infection/allergy association is not cause and effect.
+However, there are certain predominantly infant viral infections that have been specifically associated with the later development of asthma. Rhino-virus (RV), the common cold virus (particularly with the RV-C) induced wheezing in infancy predicts a very high probability of later asthma (115). To a lesser extent this process has also been attributed to infant bronchiolitis due to RSV infections, although recent outcomes of the MAKI study in which infants in the first year of life were treated with palivizumab against RSV or not treated suggest that although palivizumab treatment resulted in a significant reduction in wheezing days during the first year of life, the incidence of asthma at 6 years of age did not differ between the groups (116, 117). In addition, it has long been known that acute gastro-enteritis in infancy increases the risk of allergic sensitization to food proteins, most notably from cow's milk, if the exposure to allergenic proteins occurs while there is still intense gut inflammation. The latter provides the co-stimulatory signals to trigger a sensitizing response (115). Thus breast-feeding with its known protective effects against GI and RSV infection will reduce such events. In addition the human milk oligosaccharides that are present in breast milk facilitate the development of a beneficial microbiome which through generation of short-chain fatty acids enhances T-cell regulation amongst a number of other beneficial effects (118).
+Bovine IgG and Colostrum: Effects on Respiratory Tract Infections in Preclinical Models
+Several in vitro and animal studies have shown effects of bovine IgG and colostrum in viral respiratory tract infections. Bovine immunoglobulins can bind to—and in vitro even neutralize—RSV, a common childhood pathogen resulting in upper respiratory tract infections in infants especially in the first year of life (38). Furthermore, bovine immunoglobulins from non-immunized cows have been shown to be able to bind to human RSV as well as to influenza virus, and are able to prevent the infection of Hep2 cells by human RSV in vitro (38). In addition, dietary bovine colostrum could reduce the severity of infection and viral titers in a murine model of RSV infection (119). Specificity of the antibodies against respiratory viruses might further enhance efficiency in prevention and/or treatment of disease as was discussed above for gastrointestinal pathogens. Indeed, bovine IgG isolated from hyperimmune colostrum, as well as F(ab')2 fragments thereof could prevent infection with influenza PR8 virus after intranasal application in mice (120). This indicates that Fc receptor-independent mechanisms such as neutralization or immune complex formation are the mechanism behind this finding. In a follow up study (non-immunized) oral bovine colostrum reduced the severity of influenza infection, by reducing viral load and preventing loss of body-weight (121). In addition, splenic NK activity, as well as the production of IgA producing B cells in the small intestine and lungs, was noted in the colostrum group. For RSV, however, this non-specific response might be less relevant since the F protein of bovine RSV has great similarities to human RSV (122) which explains the presence of specific antibodies against human RSV in bovine milk of non-immunized cows.
+Prevention of Upper Respiratory Tract Infections (Urtis) and Otitis Media (OM) in Children and Infants With Bovine IgG and Colostrum
+Epidemiological data previously showed that infants that receive unprocessed (raw) bovine milk as a weaning food in the first year of life had a lower chance to get respiratory infections and otitis media compared to infants that received ultra heat-treated (UHT) milk (28). A hypothesis is that the lack of intact proteins in UHT milk vs. the presence of these proteins in unpasteurized cow's milk explains the observed effect. Indeed, bovine IgG and colostrum have been reported to prevent upper respiratory tract infections in children, adults, elderly people and athletes (93, 94, 123–130) and these studies are summarized in Table 4.
+
+TABLE 4
+
+
+
+Table 4. Prevention of URTI with bovine IgG and colostrum.
+
+
+Five studies have shown a reduced incidence or severity of upper respiratory tract infections in children that received colostrum from non-immunized cows. Of these studies, two were double blind and the other 3 studies were prospective, open or uncontrolled. The first double blind placebo controlled study was performed in IgA-deficient children with viral upper respiratory tract infections that received a sucking tablet containing 14 mg of colostrum three times per day which lowered the infection severity score after 1 week (123). In another study, 195 children of 3–9 years old received either three colostrum or control milk powder chewing tablets per day for 2 months corresponding to 0.5 g colostrum or control milk powder per day (127). The children receiving colostrum tablets, especially in the 3–6 years age group, had a reduced upper respiratory tract infection frequency, compared to placebo, as well as a reduced number of reported sick days. A prospective open, non-controlled, study in children suffering from recurrent episodes of URTI or diarrhea were given powdered colostrum and showed a reduction of these infections compared to baseline (93). In another large, uncontrolled open study, significant decreases in diarrhea and upper respiratory tract infection (URTI) episodes were reported in Indian children receiving an oral colostrum for 12 weeks (94). The same was noted in a retrospective study comparing two groups of children, one that received a product containing colostrum plus a probiotic for 4 months, and the other that received a bacterial extract for 3 months (124). Children that received the colostrum/probiotic combination had a reduction in respiratory tract infections requiring antibiotic therapy compared to the children receiving bacterial extracts.
+These studies suggest that bovine colostrum can prevent upper respiratory tract infections although the open, non-controlled prospective studies should be interpreted with care. In line with studies in children, the use of colostrum to prevent respiratory tract infections has also been studied in adults and elderly people. In adults suffering from frequent upper respiratory tract infections, supplementation with a bovine IgG and lactoferrin containing whey protein fraction (600 mg/day for 90 days) showed a reduced incidence of the common cold and cold-associated symptoms compared to the placebo group in a double blind randomized, placebo controlled study (125). Finally, decreased numbers of self-reported upper respiratory tract infections have also been noted after colostrum supplementation in athletes (126, 128, 130, 131), and colostrum prevented influenza infection in elderly volunteers comparable to influenza vaccination (129). In the latter study, colostrum was consumed for 2 months and flu episodes were scored for 3 months. Also, the effect of colostrum supplementation alone, colostrum combined with vaccination or vaccination alone was studied in a high-risk cardiovascular subject group on flu-associated complications in the hospital. Colostrum groups showed significant lower flu-associated complications compared to the vaccination only group.
+Intervention studies aiming to reduce otitis media using bovine milk proteins such as immunoglobulins are scarce. Recently, an infant formula containing milk fat globule membrane components (proteins and phospholipids) reduced the incidence of otitis media in infants 2–6 months of age in a double blind placebo controlled study (132). Interestingly, a component of the proteins in this milk fraction are immunoglobulins (133).
+Taken together, there is an increasing number of studies that suggest a role for bovine IgG or colostrum in preventing or ameliorating viral respiratory tract infections. To what extent this protective effect against infection will also affect allergy prevalence remains to be established. However, the reduced prevalence of allergic conditions amongst farming families in many countries (134) has been directly associated with the use of unpasteurized milk by pregnant and lactating mothers, and their infants after weaning (27, 135). Maternal consumption of farm dairy products during pregnancy resulted in reduced levels of pro-inflammatory cytokine production from stimulated cord blood mononuclear cells from the very large multinational European study (PASTURE) (136).
+Bovine Immunoglobulins: Putative Mechanism of Action
+Bovine immunoglobulins can exert their effects on several levels: via direct effects on potential pathogens, via enhancing clearance of pathogens, via influencing intestinal barrier function, and via modulating immune function. This section will discuss the mechanistic evidence available to date.
+Direct Effects of Immunoglobulins Toward Pathogens
+The primary role of immunoglobulins on mucosal surfaces is to bind to pathogens to prevent their entry into the body. This process is termed immune exclusion. During immune exclusion the pathogens as well as the immunoglobulins remain confined to the intestinal lumen and the immunoglobulins prevent adhesion to intestinal epithelium. Hyperimmune bovine immunoglobulins can prevent the adhesion of pathogens to intestinal epithelial cells (75) and even immunoglobulins from non-immunized cows can prevent adhesion of some pathogens (65, 137). As an example, the adhesion of Clostridium difficile to human intestinal epithelium cells (Caco-2 cells) was inhibited dose-dependently by normal bovine colostral whey (137) and spray dried colostrum from normal cows was shown to inhibit the adhesion of several necrotizing enterocolitis-associated pathogens to HT-29 colonic epithelial cells (65).
+Effects on Barrier Function and Gastrointestinal Inflammation
+At the next level, there are indications that bovine immunoglobulins and colostrum can also support intestinal barrier function. When intestinal barrier function is compromised, bacterial products such as LPS, food allergens, as well as pathogens can passively cross the epithelial layer and cause inflammation and infection in the mucosa. Bovine colostrum can inhibit the NF-κB signaling pathway and induction of pro-inflammatory cytokines in HT29 cells, suggesting colostrum has direct anti-inflammatory effects on intestinal epithelium (138). Furthermore, bovine IgG can also have anti-inflammatory effects by preventing translocation of bacterial components across the epithelial layer. This was investigated in a co-culture model of intestinal epithelial C2BBe1 cells and THP-1 cells. In this model bovine serum derived IgG could prevent the translocation of bacterial components over the epithelium, thus preventing inflammatory responses to bacterial ligands in the underlying THP1 cells (139).
+To further investigate the potentially mitigating role of bovine IgG in inflammatory responses, effects of immunoglobulins and colostrum have been addressed in human and animal models for necrotizing enterocolitis (NEC), irritable bowel syndrome (IBS), inflammatory bowel disease (IBD), non-steroid anti-inflammatory drug (NSAID)-induced gut damage and perioperative endotoxemia. IgG purified from hyperimmune colostrum could protect mice against TNBS-induced colitis (140). Mice receiving hyperimmune colostral IgG before colitis induction had reduced weight loss, improved histological score and increased serum IL-10 as well as increased numbers of Tregs compared to controls. Similar findings were reported for bovine serum IgG from non-immunized cows in a bacterial-induced colitis model (141), a chemotherapy-induced mucositis model (142) and a pathogen infection model (143). Likewise, serum-derived bovine IgG reduced mucosal expression of pro-inflammatory cytokines and prevented reduction of barrier function through preventing reduction of tight junction proteins ZO-1 in a mouse model for IBD (144). Bovine IgG has also been studied in IBS, where it improved symptom scores in IBS patients with recurrent diarrhea (145). In addition, oral bovine immunoglobulin induced some improvement in a subgroup of IBD patients (146).
+Animal models indicate that colostrum may prevent NEC. Preterm piglets fed normal bovine colostrum had better growth and lower NEC incidence, NEC severity and intestinal cytokine production compared to piglets fed formula feeding (147, 148). The use of bovine colostrum is under investigation in preterm infants. In the safety phase of a pilot study bovine colostrum was well-tolerated in the pre-term infants, and further studies are ongoing (149).
+Two studies have addressed the effect of immunoglobulin-enriched non-immune colostrum on peri-operative endotoxaemia as a measure for peri-operative infections. In the first study by Bölke et al. a reduced peri-operative endotoxaemia was noted after abdominal surgery, suggesting a stabilization of gut barrier function and neutralization of endotoxins by colostrum (150). A second study, however, could not confirm this effect after coronary bypass surgery, possibly because the dose used was lower (151). Finally, non-steroidal anti-inflammatory drugs (NSAID)-induced intestinal damage has been shown to be reduced after colostrum treatment in animal experiments (152) and NSAID-induced increases in intestinal permeability were reduced in human volunteers receiving colostrum (153). However, these effects are probably not mediated by bovine IgG but by TGF-β that is also present in colostrum (152).
+These findings indicate that bovine IgG (probably in concert with additional colostrum components) prevents bacterial transfer and leakage of LPS over intestinal epithelium, modulates the expression of epithelial tight junction proteins and inhibits intestinal inflammation. This is comparable to findings in studies on the role of IgA in breastfeeding in animal models (154–157), suggesting that oral immunoglobulins from cows may have a similar mode of action as breastmilk-derived IgA.
+Immune Effects
+Immunoglobulins consist of an antigen binding domain (in the variable region of the molecule) and a constant region. This constant region is essential for inducing effector functions of immunoglobulins such as phagocytosis and clearance of pathogens, complement fixation, antigen presentation and immune regulation. These downstream effector functions of immunoglobulins are dependent on binding of the constant region to immunoglobulin Fc receptors (Fc receptors). These receptors are primarily expressed on the cell surface of immune cells. Secretory IgA (sIgA) does not have these effector functions because it is a dimer containing a secretory component, and therefore the constant part is not available for binding to receptors.
+Interestingly, bovine IgG is able to bind to Fcγ receptors on human cells. bovine IgG was shown to bind to human monocytes, neutrophils and macrophages, as well as to B cells (158, 159). Coating (opsonisation) of Streptococcus mutans with bovine IgG induced phagocytosis and killing of the bacteria by human leucocytes (160). Similar findings were reported for S. epidermidis and RSV (38).
+Bovine IgG inhibited pokeweed mitogen-induced secretion of immunoglobulins in PBMC cultures, probably mediated by FcγR as F(ab')2 fragments had no effect (161). This was later confirmed by another group, who suggested that bovine IgG binds to FcγRII, the only FcR expressed on B cells (159). Indeed, also binding of bovine IgG1 to FcγRII on phagocytes (monocytes and PMN) was shown by Jungi in 1989 and to be dependent on immune complexes (158). Now it is known that two types of FcγRII exist: The activating FcγRIIa, expressed on monocytes, dendritic cells and neutrophils, and the inhibitory FcγRIIb, mainly expressed on B cells and mast cells (162–164). Whereas, activating FcR contain an ITAM (immunoreceptor tyrosin activation motif), the inhibitory FcγRIIb contains an ITIM (immunoreceptor tyrosin based inhibitory motif) in its intracellular tail. When FcγRIIb is crosslinked, the downstream signaling of the ITIM leads to a inhibition of activating signals, resulting in dampening of the immune response, i.e. antibody production. On the other hand, binding of immune complexes or opsonized pathogens to activating FcR on phagocytes will lead to activation: phagocytosis, antigen presentation and cytokine production. The homology of the extracellular part of FcγRIIa and FcγRIIb is very high: 92%. However, human IgG2 binds to FcgRIIa but not to FcgRIIb (165).
+The fact that bovine IgG can bind to human FcγRII was confirmed more recently (38, 166). These two research groups demonstrated directly that bovine IgG is able to form immune complexes with bacterial and viral pathogens, mediates FcγR-mediated uptake and antigen presentation, as well as phagocytosis and killing in phagocytes.
+Less is known on the interaction of bovine IgG with other receptors. Bovine IgG1 can also bind to a non-classical receptor for IgG, the human neonatal Fc receptor FcRn, albeit with lower affinity compared to human IgG (167). FcRn is expressed on intestinal epithelium in humans throughout life (168, 169). However, evidence suggests that bovine IgG is not taken up into circulation of adult human volunteers (36, 63) and unpublished observations). It is therefore not clear at present if and what the consequence of binding of bovine IgG to FcRn is.
+In contrast to short-lived passive immunity, adaptive immune responses occur during the lifetime of an individual as an adaptive response to specific infecting pathogens on subsequent exposures and in many cases, confer lifelong protective immunity to reinfection with the same pathogens. An adaptive immune response involves activation, selection, and clonal proliferation of T and B cells. After encountering an antigen, T cells proliferate and differentiate into antigen-specific effector cells, while B cells proliferate and differentiate into antibody-secreting cells.
+Adaptive immune responses are initiated by activation of CD4+ T helper cells after antigen presentation by antigen presenting cells (APC). APC take up exogenous (protein) antigens from their environment via pinocytosis or receptor-mediated endocytosis, degrade them into peptides, and present these peptides in the context of MHC class II molecules to the T-cell receptor (CD3) on antigen-specific T cells (170).
+Facilitated antigen presentation has been described for cell surface expressed Fc receptors on professional antigen presenting cells. Fc receptors can internalize bacteria and viruses as well as protein antigens that are bound by circulating serum immunoglobulins, resulting in killing of pathogenic microorganisms, and antigen presentation to initiate immune responses.
+Low- and intermediate affinity Fc receptors have a low affinity for monomeric immunoglobulins, but have a high affinity for immune complexes. As a result, these receptors will only bind immunoglobulins when they are in complexes together with the antigens they recognize. Indeed, for Fcγ receptors (171, 172), Fcα receptors (173) and Fcε receptors (174, 175) it has been shown that immune complexes are taken up more efficiently by antigen presenting cells than the antigens alone. These studies demonstrate that antigen-specific responses of CD4+ T helper cells are facilitated strongly by specific antigen uptake via Fc receptors on antigen-presenting cells, resulting in more efficient immune responses. This is especially relevant when low antigen doses are present.
+In line with this a recent study shows increased CD8+ T cell activation in mice infected with RSV when they received bovine colostrum orally (119). Therefore, in addition to immune exclusion by direct binding of bovine IgG to pathogens, FcγRII mediated pathogen clearance and killing by macrophages and neutrophils, bovine IgG may also play a role in enhancing adaptive immune responses by increasing T and B cell responses to pathogens.
+Experiments in murine animal models have also found increased NKT in mice that ingested colostrum containing LPS-specific bovine IgGs (176). Similarly, increased NK activity was reported in spleen and Peyer's patch of mice that ingested bovine hyperimmune colostrum (121, 143, 177). It is not clear at present if these NK cells are induced by IgG or by other factors present in colostrum.In summary, Figure 2 shows the mechanism of action of bovine IgG on the immune system.
+
+FIGURE 2
+
+
+
+Figure 2. Immunological mechanisms of bovine immunoglobulins. Bovine immunoglobulins can modify innate as well as adaptive immunity. By binding directly to pathogens, bovine immunoglobulins can bind to FcγR bearing innate immune cells, leading to phagocytosis and killing. In some cases, as for RSV, bovine IgG may also fully neutralize human pathogens as demonstrated for RSV in vitro (38). Other mechanisms of pathogen elimination may be complement mediated pore formation and killing, and ADCC. On the other hand, as bovine IgG-pathogen immune complexes bind to FcγR, receptor mediated uptake and antigen processing is enhanced, resulting in increased T, and ultimately B-cell responses to the pathogens.
+
+
+Immunological Effects of Oral Immunoglobulins of Other Species
+In addition to oral bovine immunoglobulins, several studies with murine, porcine and human oral immunoglobulins have elucidated mechanisms that may also occur after ingestion of bovine immunoglobulins.
+A series of recent studies in mice have shown yet another potential mechanism for the presence of immunoglobulins in the intestinal lumen. These studies have shown that locally produced intestinal IgA can bind to intestinal bacteria and modify the microbiota composition as well as immune responses toward bacteria in the gut (178–184). These studies suggest that oral immunoglobulins may also have an effect on microbiota development and composition.
+Indeed, maternal sIgA in breast milk was shown to significantly modify microbiota composition at weaning and later in life, limit translocation of pathogens in suckling pups and ameliorated DSS induced colitis (154). In addition, IgG2 and IgG3 as well as sIgA in breast milk were shown to bind to commensal bacteria, dampen mucosal T cell activation, and prevent bacterial translocation to the mesenteric lymph nodes (155). Similar findings were reported previously, showing that both sIgA and IgG in breast milk can play a role in immune exclusion as well as in dampening T cell responses to intestinal bacteria (156, 157).
+Similar effects of IgG in breast milk of mice have been obtained in a study in which immune complexes of murine breast milk IgG and allergens prevented the development of experimentally induced asthma (185). IgG-allergen immune complexes were transferred from breast milk into the suckling pups via FcRn, and induced FoxP3+ regulatory T cells that were needed for the protective effect on asthma development. This was recently confirmed in another study (186). Interestingly, in humans this process also occurs, but in humans it occurs when IgG-allergen complexes cross the placenta. This results in much lower rates of infant sensitization to that allergen (187).
+As described above, bovine milk contains IgG directed against inhalation allergens (41). The functional relevance and possible applications of such allergen-specific bovine immunoglobulins are not clear at this time, but they may play a role in the protective association of raw milk consumption with reduced prevalence of allergies (4).
+Immune complexes of maternal breast milk immunoglobulins with maternal GI microbiota components have been shown to be crucial for delivering tryptophan-derived AhR ligands that promote barrier function in the suckling pups in an IL-22 and Innate Lymphocytic Cell type 3 (ILC3)-dependent manner (188).
+Oral ingestion of porcine immunoglobulin also contributes to prevention of inflammatory tissue damage in LPS-induced acute lung inflammation in mice. Oral IgG enhanced the expression of IL-10 producing Treg, decreasing Th1 and Th2 cytokines and decreasing chemokine production in the lung in response to LPS (189).
+These studies indicate that oral immunoglobulins may help to regulate immune responses to the microbiota as well as allergens—on the one hand promoting immune exclusion of pathogens, and on the other hand preventing excessive immune responses to commensal bacteria. Studies on effects of bovine Ig and colostrum ingestion on fecal microbiota composition in infants during colonization of the GI tract have not been performed to date, but based on these findings it may be expected that oral intake of bovine IgG may similarly affect microbiota composition, allergy and immune development in humans.
+Concluding Remarks
+The protective role of IgA in breast milk is well-documented. IgA protects infants against infection, shapes the microbiota and creates a non-inflammatory response against the microbiota, thus preventing intestinal inflammation.
+As described above, bovine IgG has a number of similar effects: binding to human-relevant pathogens, effects on phagocytosis mediated through Fc receptors for human IgG and prevention of infection in human studies. So functionally, bovine IgG does have effects on the human immune system beyond just binding to potential pathogens. In addition, especially in young infants, IgG does seem to pass through the gastrointestinal tract without being fully degraded by digestion, thus leaving its functional aspects intact. As the fine specificity as well as the effector functions of bovine IgG are not identical to breast milk IgA (and IgG), one question that remains to be answered in clinical studies is if inclusion of functionally active bovine immunoglobulins in infant nutrition can fully restore the lack of maternal IgA in bottle fed children.
+Immune support by bovine immunoglobulins as an alternative for breast milk-derived IgA is especially relevant in the period just after birth in case the mother cannot breastfeed her child and is dependent on bottle feeding, but also in the weaning period at around 4–6 months when respiratory and gastrointestinal infections are known to increase as the passively acquired maternal IgG in serum, as well as the maternal breast milk-derived IgA in the gastrointestinal tract of the infant, have decreased to very low levels.
+It should be stated though, that the increased prevalence of infections after weaning is not completely related to deprivation of IgA but is also linked to the introduction of new foods, an increased exposure to the outside world and in part by the absence of additional protective factors in breast milk.
+Currently, formula fed children receive no or very low levels of functionally active bovine immunoglobulins. This is because current foods processing technologies as well as legislation strongly depend on heating as the technique of choice to achieve microbiological safety. Overcoming these challenges by applying novel food processing technologies may enable the application of bovine immunoglobulins in infant nutrition.
+Future research will be needed to confirm if this will indeed result in a reduction in gastrointestinal and respiratory infections, and if this will also be associated with a decreased prevalence of asthma that is linked to early respiratory tract infections in infants.
+Author Contributions
+LU, JL, HS, JW, and RvN all contributed to the writing of the manuscript.
+Funding
+JW is funded by NIHR-CLAHRC for NW London. The views expressed in this publication are those of the author and not those of the NHS, the NIHR or the Department of Health.
+Conflict of Interest Statement
+LU and RvN are employees of FrieslandCampina. JW has been the PI for a trial of a cow milk formula with prebiotics for the prevention of allergy funded by Danone/Nutricia. JL, HS have no conflicts of interest to report.
+The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+Acknowledgments
+The authors would like to thank Prescilla Jeurink for critically reading the manuscript. The authors would like to thank STW and the project members of STW MIRACLE project nr 13017 for their support.
+References
+
+ 1. Ip S, Chung M, Raman G, Trikalinos TA, Lau J. A summary of the Agency for Healthcare Research and Quality's evidence report on breastfeeding in developed countries. Breastfeed Med. (2009) 4(Suppl 1):S17–30. doi: 10.1089/bfm.2009.0050
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 2. Chantry CJ, Howard CR, Auinger P. Full breastfeeding duration and associated decrease in respiratory tract infection in US Children. Pediatrics (2006) 117:425–32. doi: 10.1542/peds.2004-2283
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 3. Section on Breastfeeding. Breastfeeding and the use of human milk. Pediatrics (2012) 129:e827–41. doi: 10.1542/peds.2011-3552
+PubMed Abstract | CrossRef Full Text
+
+ 4. van Neerven RJJ, Knol EF, Heck JML, Savelkoul HFJ. Which factors in raw cow's milk contribute to protection against allergies? J Allergy Clin Immunol. (2012) 130:853–8. doi: 10.1016/j.jaci.2012.06.050
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 5. Munblit D, Boyle RJ, Warner JO. Factors affecting breast milk composition and potential consequences for development of the allergic phenotype. Clin Exp Allergy (2015) 45:583–601. doi: 10.1111/cea.12381
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 6. Ehrlich P. The Collected Papers of Paul Ehrlich Vol. II Immunology and Cancer Research. London: Himmelweit Pergamon (1957).
+
+
+ 7. Kaufmann SHE. Immunology's foundation : the 100-year anniversary of the Nobel Prize to Paul Ehrlich and Elie Metchnikoff. Nat Immunol. (2008) 9:705–712. doi: 10.1038/ni0708-705
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 8. Goldman AS, Garza C, Nichols BL, Goldblum RM. Immunologic factors in human milk during the first year of lactation. J Pediatr. (1982) 100:563–7.
+PubMed Abstract | Google Scholar
+
+ 9. Hanson L. Comparative immunological studies of the immune globulins of human milk and of blood serum. Int Arch Allergy Appl Immunol. (1961) 18:241–67. doi: 10.1159/000229177
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 10. Fink K, Zellweger R, Weber J, Manjarrez-Orduno N, Holdener M, Senn BM, et al. Long-term maternal imprinting of the specific B cell repertoire by maternal antibodies. Eur J Immunol. (2008) 38:90–101. doi: 10.1002/eji.200737872
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 11. Zinkernagel R. Maternal antibodies, childhood infections, and autoimmune diseases. N Engl J Med. (2001) 345:1331–5. doi: 10.1056/NEJMra012493
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 12. Zinkernagel RM. On natural and artificial vaccinations. Annu Rev Immunol. (2003) 21:515–46. doi: 10.1146/annurev.immunol.21.120601.141045
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 13. Navarini AA, Krzyzowska M, Lang KS, Horvath E, Hengartner H, Niemialtowski MG, et al. Long-lasting immunity by early infection of maternal-ntibody-protected infants. Eur J Immunol. (2010) 40:113–6. doi: 10.1002/eji.200939371
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 14. Perre P Van De. Transfer of antibody via mother' s milk. Vaccine (2003) 21:3374–6. doi: 10.1016/S0264-410X(03)00336-0
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 15. Maertens K, De Schutter S, Braeckman T, Baerts L, Van Damme P, De Meester I, et al. Breastfeeding after maternal immunisation during pregnancy: providing immunological protection to the newborn: a review. Vaccine (2014) 32:1786–92. doi: 10.1016/j.vaccine.2014.01.083
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 16. Marchant A, Sadarangani M, Garand M, Dauby N, Verhasselt V, Pereira L, et al. Maternal immunisation: collaborating with mother nature. Lancet Infect Dis. (2017) 17:e197–208. doi: 10.1016/S1473-3099(17)30229-3
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 17. Jones C, Heath P. Antenatal immunization. Hum Vaccin Immunother (2014) 10:2118–22. doi: 10.4161/hv.29610
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 18. Wedgwood JF, Palmer R, Weinberger B. Development of the ability to make IgG and IgA in newborns and infants. Mt Sinai J Med. (1994) 61:409–15.
+PubMed Abstract | Google Scholar
+
+ 19. Brandtzaeg P. Update on mucosal immunoglobulin A in gastrointestinal disease. Curr Opin Gastroenterol. (2010) 26:554–63. doi: 10.1097/MOG.0b013e32833dccf8
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 20. Yel L. Selective IgA deficiency. J Clin Immunol. (2010) 30:10–6. doi: 10.1007/s10875-009-9357-x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 21. Köhler H, Donarski S, Stocks B, Parret A, Edwards C, Schroten H. Antibacterial characteristics in the feces of breast-fed and formula-fed infants during the first year of life. J Pediatr Gastroenterol Nutr. (2002) 34:188–93.
+PubMed Abstract | Google Scholar
+
+ 22. Munblit D, Peroni DG, Boix-Amorós A, Hsu PS, Van't Land B, Gay MCL, et al. Human milk and allergic diseases: an unsolved puzzle. Nutrients (2017) 9:1–41. doi: 10.3390/nu9080894
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 23. Kukkonen K, Kuitunen M, Haahtela T, Korpela R, Poussa T, Savilahti E. High intestinal IgA associates with reduced risk of IgE-associated allergic diseases. Pediatr Allergy Immunol. (2010) 21:67–73. doi: 10.1111/j.1399-3038.2009.00907.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 24. Brandtzaeg P. The mucosal immune system and its integration with the mammary glands. J Pediatr. (2010) 156:S8–15. doi: 10.1016/j.jpeds.2009.11.014
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 25. Waser M, Michels KB, Bieli C, Fl Ãistrup H, Pershagen G, Von Mutius E, et al. Inverse association of farm milk consumption with asthma and allergy in rural and suburban populations across Europe. Clin Exp Allergy (2007) 37:661–670. doi: 10.1111/j.1365-2222.2006.02640.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 26. Braun-Fahrlãnder C, Von Mutius E. Can farm milk consumption prevent allergic diseases? Clin Exp Allergy (2011) 41:29–35. doi: 10.1111/j.1365-2222.2010.03665.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 27. Riedler J, Braun-Fahrländer C, Eder W, Schreuer M, Waser M, Maisch S, et al. Exposure to farming in early life and development of asthma and allergy: a cross-sectional survey. Lancet (2001) 358:1129–33. doi: 10.1016/S0140-6736(01)06252-3
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 28. Loss G, Apprich S, Waser M, Kneifel W, Genuneit J, Buchele G, et al. The protective effect of farm milk consumption on childhood asthma and atopy: the GABRIELA study. J Allergy Clin Immunol. (2011) 128:766–773.e4. doi: 10.1016/j.jaci.2011.07.048
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 29. Mainer G, Sánchez L, Ena JM, Calvo M. Kinetic and thermodynamic parameters for heat denaturation of bovine milk IgG, IgA and IgM. J Food Sci. (1997) 62:1034–38.
+Google Scholar
+
+ 30. Van Neerven RJJ. The effects of milk and colostrum on allergy and infection: mechanisms and implications. Front. Anim. (2014) 4:16–22 doi: 10.2527/af.2014-0010
+CrossRef Full Text | Google Scholar
+
+ 31. Loss G, Depner M, Ulfman LH, van Neerven RJJ, Hose AJ, Genuneit J, et al. Consumption of unprocessed cow's milk protects infants from common respiratory infections. J Allergy Clin Immunol. (2015) 135:56–62. doi: 10.1016/j.jaci.2014.08.044
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 32. Rump JA, Arndt R, Arnold A, Bendick C, Dichtelmuller H, Franke M, et al. Treatment of diarrhoea in human immunodeficiency virus-infected patients with immunoglobulins from bovine colostrum. Clin Investig. (1992) 70:588–94.
+PubMed Abstract | Google Scholar
+
+ 33. Stephan W, Dichtelmuller H, Lissner R. Antibodies from colostrum in oral immunotherapy. J Clin Chem Clin Biochem. (1990) 28:19–23.
+PubMed Abstract | Google Scholar
+
+ 34. Kelly GS. Bovine colostrums: a review of clinical uses. Altern Med Rev. (2003) 8:378–94.
+PubMed Abstract | Google Scholar
+
+ 35. Lissner R, Schmidit H, Karch H. A standard immunoglobulin preparation produced from bovine colostra shows antibody reactivity and neutralization activity against Shiga-like toxins and EHEC-hemolysin of Escherichia coli O157:H7. Infection (1996) 24:378–83. doi: 10.1007/BF01716084
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 36. Lissner R, Thurmann PA, Merz G, Karch H. Antibody reactivity and fecal recovery of bovine immunoglobulins following oral administration of a colostrum concentrate from cows (Lactobin) to healthy volunteers. Int J Clin Pharmacol Ther. (1998) 36:239–45.
+PubMed Abstract | Google Scholar
+
+ 37. Ellens D, de Leeuw P, Straver P. The detection of rotavirus specific antibody in colostrum and milk by ELISA. Ann Rech Vet. (1978) 9:337–42.
+PubMed Abstract | Google Scholar
+
+ 38. den Hartog G, Jacobino S, Bont L, Cox L, Ulfman LH, Leusen JHW, et al. Specificity and effector functions of human RSV-Specific IgG from bovine milk. PLoS ONE (2014) 9:e112047. doi: 10.1371/journal.pone.0112047
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 39. Yolken RH, Losonsky GA, Vonderfecht S, Leister F, Wee SB. Antibody to human rotavirus in cow's milk. N Engl J Med. (1985) 312:605–10.
+PubMed Abstract | Google Scholar
+
+ 40. Ebina T, Sato A, Umezu K, Ishida N, Ohyama S, Ohizumi A, et al. Prevention of rotavirus infection by cow colostrum antibody against human rotaviruses. Lancet (1983) 2:1029–30.
+PubMed Abstract
+
+ 41. Collins AM, Roberton DM, Hosking CS, Flannery GR. Bovine milk, including pasteurised milk, contains antibodies directed against allergens of clinical importance to man. Int Arch Allergy Appl Immunol. (1991) 96:362–7. doi: 10.1159/000235523
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 42. Davidson GP, Daniels E, Nunan H, Moore AG, Whyte PBD, Franklin K, et al. Passive immunisation of children with bovine colostrum containing antibodies to human rotavirus. Lancet (1989) 2:709–712. doi: 10.1016/S0140-6736(89)90771-X
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 43. Stelwagen K, Carpenter E, Haigh B, Hodgkinson A, Wheeler TT. Immune components of bovine colostrum and milk. J Anim Sci (2009) 87:3–9. doi: 10.2527/jas.2008-1377
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 44. Heck JML, van valenberg HJF, Dijkstra J, van Hooijdonk ACM. Seasonal variation in the Dutch bovine raw milk composition. J Dairy Sci. (2009) 92:4745–55. doi: 10.3168/jds.2009-2146
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 45. Jensen RG. Handbook of Milk Composition. San Diego, CA: Academic Press (1995).
+
+
+ 46. Korhonen H, Marnila P, Gill HS. Bovine milk antibodies for health. Br J Nutr. (2000) 84 (Suppl. 1):S135–46. doi: 10.1017/S0007114500002361
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 47. Virtala AMK, Gröhn YT, Mechor GD, Erb HN. The effect of maternally derived immunoglobulin G on the risk of respiratory disease in heifers during the first 3 months of life. Prev Vet Med. (1999) 39:25–37.
+PubMed Abstract | Google Scholar
+
+ 48. Bush L, Aguilera M, Adans G, Jones E. Absorption of colostral immunoglobulins by newborn dairy calves. J Dairy Sci. (1971) 54:1547–9. doi: 10.3168/jds.S0022-0302(71)86063-0
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 49. Cervenak J, Kacskovics I. The neonatal Fc receptor plays a crucial role in the metabolism of IgG in livestock animals. Vet Immunol Immunopathol. (2009) 128:171–7. doi: 10.1016/j.vetimm.2008.10.300
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 50. Van Arsdall M, Haque I, Liu Y, Rhoads JM. Is there a role for the enteral administration of serum-derived immunoglobulins in human gastrointestinal disease and pediatric critical care nutrition? Adv Nutr An Int Rev J. (2016) 7:535–543. doi: 10.3945/an.115.011924
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 51. Larson B. Transfer of specific blood serum proteins to lacteal secretions near parturition. J Dairy Sci. (1958) 41:1033–44. doi: 10.3168/jds.S0022-0302(58)91047-6
+CrossRef Full Text | Google Scholar
+
+ 52. Sasaki M, Davis CL, Larson BL. Production and Turnover of IgG1 and IgG2 Immunoglobulins in the Bovine around Parturition. J Dairy Sci. (1976) 59:2046–55. doi: 10.3168/jds.S0022-0302(76)84486-4
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 53. Baumrucker CR, Bruckmaier RM. Colostrogenesis: IgG1 transcytosis mechanisms. J Mammary Gland Biol Neoplasia (2014) 19:103–17. doi: 10.1007/s10911-013-9313-5
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 54. Jasion VS, Burnett BP. Survival and digestibility of orally-administered immunoglobulin preparations containing IgG through the gastrointestinal tract in humans. Nutr J. (2015) 14:22. doi: 10.1186/s12937-015-0010-7
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 55. Hilpert H, Gerber H, de Peyer E, Nussl D. Gastrointestinal passage of bovine anti-E. coli milk immunoglobulins (Ig) in infants. Nestle Res News (1974) 75:134–8.
+
+
+ 56. Pacyna J, Siwek K, Terry SJ, Roberton ES, Johnson RB, Davidson GP. Survival of rotavirus antibody activity derived from bovine colostrum after passage through the human gastrointestinal tract. J Pediatr Gastroenterol Nutr. (2001) 32:162–7. doi: 10.1097/00005176-200102000-00013
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 57. Warny M, Fatimi A, Bostwick EF, Laine DC, Lebel F, Lamont JT, et al. Bovine immunoglobulin concentrate-clostridium difficile retains C difficile toxin neutralising activity after passage through the human stomach and small intestine. Gut (1999) 44:212–7. doi: 10.1136/gut.44.2.212
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 58. Hilpert H, Brüssow H, Mietens C, Sidoti J, Lerner L, Werchau H. Use of bovine milk concentrate containing antibody to rotavirus to treat rotavirus gastroenteritis in infants. J Infect Dis. (1987) 156:158–66.
+PubMed Abstract | Google Scholar
+
+ 59. Roos N, Mahe S, Benamouzig R, Sick H, Rautureau J, Tome D. 15N-labeled immunoglobulins from bovine colostrum are partially resistant to digestion in human intestine. J Nutr. (1995) 125:1238–44.
+PubMed Abstract | Google Scholar
+
+ 60. Kelly CP, Chetham S, Keates S, Bostwick EF, Roush AM, Castagliuolo I, et al. Survival of anti-Clostridium difficile bovine immunoglobulin concentrate in the human gastrointestinal tract. Antimicrob Agents Chemother (1997) 41:236–41.
+PubMed Abstract | Google Scholar
+
+ 61. Lee J, Kang HE, Woo HJ. Stability of orally administered immunoglobulin in the gastrointestinal tract. J ImmunolMethods (2012) 384:143–7. doi: 10.1016/j.jim.2012.06.001
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 62. Bogstedt AK, Hammarstrom L, Robertson AK. Letter to the editor survival of immunoglobulins from different species through the gastrointestinal tract in healthy adult volunteers : implications for. Antimicrob Agents Chemother (1997) 41:4804.
+Google Scholar
+
+ 63. Shaw AL, Mathews DW, Hinkle JE, Petschow BW, Weaver EM, Detzel CJ, et al. Absorption and safety of serum-derived bovine immunoglobulin/protein isolate in healthy adults. Clin Exp Gastroenterol. (2016) 9:365–75. doi: 10.2147/CEG.S120118
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 64. Li A, Kärnell A, Pham Thi Huan, Phung DC, Nguyen BM, Luong NT, et al. Safety and immunogenicity of the live oral auxotrophic Shigella flexneri SFL124 in adult Vietnamese volunteers. Vaccine (1993) 11:180–9.
+PubMed Abstract | Google Scholar
+
+ 65. Brooks HJL, McConnell MA, Corbett J, Buchan GS, Fitzpatrick CE, Broadbent RS. Potential prophylactic value of bovine colostrum in necrotizing enterocolitis in neonates: an in vitro study on bacterial attachment, antibody levels and cytokine production. FEMS Immunol Med Microbiol. (2006) 48:347–54. doi: 10.1111/j.1574-695X.2006.00151.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 66. Hodgkinson AJ, Cakebread J, Callaghan M, Harris P, Brunt R, Anderson RC, et al. Comparative innate immune interactions of human and bovine secretory IgA with pathogenic and non-pathogenic bacteria. Dev Comp Immunol. (2017) 68:21–5. doi: 10.1016/j.dci.2016.11.012
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 67. Mitra AK, Mahalanabis D, Ashraf H, Unicomb L, Eeckels R, Tzipori S, et al. Hyperimmune cow colostrum reduces diarrhoea due to rotavirus: a double-blind, controlled clinical trial. Acta Paediatr. (1995) 84:996–1001. doi: 10.1111/j.1651-2227.1995.tb13814.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 68. Sarker S, Casswall T, Mahalanabis D, Alam N, Albert M, Brussow H, et al. Successful treatment of rotavirus diarrhea in children with immunoglobulin from immunized bovine colostrum. Pediatr Infect Dis J. (1998) 17:1149–54. doi: 10.1097/00006454-199812000-00010
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 69. Ylitalo S, Uhari M, Rasi S, Pudas J, Leppaluoto J. Rotaviral antibodies in the treatment of acute rotaviral gastroenteritis. Acta Paediatr (1998) 87:264–7.
+PubMed Abstract | Google Scholar
+
+ 70. Mietens C, Keinhorst H, Hilpert H, Gerber H, Amster H, Pahud JJ. Treatment of infantile E. coli gastroenteritis with specific bovine anti-E. coli milk immunoglobulins. Eur J Pediatr. (1979) 132:239–252. doi: 10.1007/BF00496847
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 71. Casswall TH, Sarker SA, Faruque SM, Weintraub A, Albert MJ, Fuchs GJ, et al. Treatment of enterotoxigenic and enteropathogenic Escherichia coli-induced diarrhoea in children with bovine immunoglobulin milk concentrate from hyperimmunized cows: a double-blind, placebo-controlled, clinical trial. Scand J Gastroenterol. (2000) 35:711–8.
+PubMed Abstract | Google Scholar
+
+ 72. Casswall TH, Sarker SA, Albert MJ, Fuchs GJ, Bergström M, Björck L, et al. Treatment of Helicobacter pylori infection in infants in rural Bangladesh with oral immunoglobulins from hyperimmune bovine colostrum. Aliment Pharmacol Ther. (1998) 12:563–8.
+PubMed Abstract | Google Scholar
+
+ 73. Ashraf H, Mahalanabis D, Mitra K, Tzipori S, Fuchs GJ. Hyperimmune bovine colostrum in the treatment of shigellosis in children: a double-blind, randomized, controlled trial. Acta Paediatr. (2001) 90:1373–8.
+PubMed Abstract | Google Scholar
+
+ 74. Huppertz HI, Rutkowski S, Busch DH, Eisebit R, Lissner R, Karch H. Bovine colostrum ameliorates diarrhea in infection with diarrheagenic Escherichia coli, Shiga toxin-producing E. coli, and E. coli expressing intimin and hemolysin. (1999) 29:452–6.
+PubMed Abstract | Google Scholar
+
+ 75. Casswall T, Nilsson H, Bjorck L, Sjostedt S, Xu L, Nord C, et al. Bovine anti-Helicobacter pylori antibodies for oral immunotherapy. Scand J Gastroenterol. (2002) 37:1380–85. doi: 10.1080/003655202762671242
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 76. Hammarstrom L, Weiner C. Targeted antibodies in dairy-based products. Adv Exp Med Biol. (2008) 606:321–43. doi: 10.1007/978-0-387-74087-4_13
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 77. Van Dissel JT, De Groot N, Hensgens CMH, Numan S, Kuijper EJ, Veldkamp P, et al. Bovine antibody-enriched whey to aid in the prevention of a relapse of Clostridium difficile- associated diarrhoea: preclinical and preliminary clinical data. J MedMicrobiol. (2005) 54:197–205. doi: 10.1099/jmm.0.45773-0
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 78. Mattila E, Anttila VJ, Broas M, Marttila H, Poukka P, Kuusisto K, et al. A randomized, double-blind study comparing Clostridium difficile immune whey and metronidazole for recurrent Clostridium difficile-associated diarrhoea: efficacy and safety data of a prematurely interrupted trial. ScandJ Infect Dis. (2008) 40:702–8. doi: 10.1080/00365540801964960
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 79. Hu D, Zhang F, Zhou J, Xu B, Zhang H, Qiang H, et al. The clearance effect of bovine anti-Helicobacter pylori antibody-containing milk in O blood group Helicobacter pylori-infected patients: a randomized double-blind clinical trial. J Transl Med. (2015) 13:205. doi: 10.1186/s12967-015-0558-1
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 80. McClead Jr. RE, Butler T, Rabbani GH. Orally administered bovine colostral anti-cholera toxin antibodies: results of two clinical trials. Am J Med. (1988) 85:811–6. doi: 10.1016/S0002-9343(88)80026-3
+PubMed Abstract | CrossRef Full Text
+
+ 81. Tacket CO, Losonsky G, Link H, Hoang Y, Guesry P, Hilpert H, et al. Protection by milk immunoglobulin concentrate against oral challenge with enterotoxigenic Escherichia coli. N Engl J Med. (1988) 318:1240–3. doi: 10.1056/NEJM198805123181904
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 82. Freedman DJ, Tacket CO, Delehanty A, Maneval DR, Nataro J, Crabb JH. Milk immunoglobulin with specific activity against purified colonization factor antigens can protect against oral challenge with enterotoxigenic Escherichia coli. J Infect Dis. (1998) 177:662–7.
+PubMed Abstract | Google Scholar
+
+ 83. Tacket CO, Losonsky G, Livio S, Edelman R, Crabb J, Freedman D. Lack of prophylactic efficacy of an enteric-coated bovine hyperimmune milk product against enterotoxigenic Escherichia coli challenge administered during a standard meal. J Infect Dis. (1999) 180:2056–9. doi: 10.1086/315157
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 84. Savarino SJ, Tribble DR, Porter CK, O'Dowd A, Cantrell JA, Sincock SA, et al. Prophylactic efficacy of hyperimmune bovine colostral antiadhesin antibodies against enterotoxigenic Escherichia coli diarrhea: a randomized, double-blind, placebo-controlled, phase 1 trial. J Infect Dis. (2017) 216:7–13. doi: 10.1093/infdis/jix144
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 85. Otto W, Najnigier B, Stelmasiak T, Robins-Browne RM. Randomized control trials using a tablet formulation of hyperimmune bovine colostrum to prevent diarrhea caused by enterotoxigenic Escherichia coli in volunteers. ScandJ Gastroenterol. (2011) 46:862–8. doi: 10.3109/00365521.2011.574726
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 86. Okhuysen PC, Chappell CL, Crabb J, Valdez LM, Douglass ET, DuPont HL. Prophylactic effect of bovine anti-Cryptosporidium hyperimmune colostrum immunoglobulin in healthy volunteers challenged with Cryptosporidium parvum. Clin Infect Dis. (1998) 26:1324–9.
+PubMed Abstract | Google Scholar
+
+ 87. Griffiths O V. Colostral immunity against salmonella infection in calves. N Z Vet J (1969) 17:50. doi: 10.1080/00480169.1969.33779
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 88. Royal WA, Robinson RA, Duganzich DM. Colostral immunity against salmonella infection in calves. N Z Vet J. (1968) 16:141–5. doi: 10.1080/00480169.1968.33761
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 89. Davidson G, Tam J, Kirubakaran C. Passive protection against hospital acquired symptompatic rota virus gasteroenteritis in India and Hong Kong. J Pediatr Gastroenterol Nutr. (1994) 19:351. doi: 10.1097/00005176-199410000-00102
+CrossRef Full Text
+
+ 90. Turner RB, Kelsey DK. Passive immunization for prevention of rotavirus illness in healthy infants. Pediatr Infect Dis J. (1993) 12:718–22.
+PubMed Abstract | Google Scholar
+
+ 91. Brunser O, Espinoza J, Figueroa G, Araya M, Spencer E, Hilpert H, et al. Field trial of an infant formula containing anti-rotavirus and anti- Escherichia coli milk antibodies from hyperimmunized cows. J Pediatr Gastroenterol Nutr. (1992) 15:63–72. doi: 10.1097/00005176-199207000-00010
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 92. Tawfeek HI, Najim NH, Al-Mashikhi S. Efficacy of an infant formula containing anti-Escherichia coli colostral antibodies from hyperimmunized cows in preventing diarrhea in infants and children: a field trial. Int J Infect Dis. (2003) 7:120–8. doi: 10.1016/S1201-9712(03)90007-5
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 93. Saad K, Abo-Elela MGM, El-Baseer KAA, Ahmed AE, Ahmad F-A, Tawfeek MSK, et al. Effects of bovine colostrum on recurrent respiratory tract infections and diarrhea in children. Medicine (Baltimore) (2016) 95:e4560. doi: 10.1097/MD.0000000000004560
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 94. Patel K, Rana R. Pedimune in recurrent respiratory infection and diarrhoea–the Indian experience–the pride study. Indian J Pediatr. (2006) 73:585–91. doi: 10.1007/BF02759923
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 95. Inagaki M, Yamamoto M, Cairangzhuoma, Xijier, Yabe T, Uchida K, et al. Multiple-dose therapy with bovine colostrum confers significant protection against diarrhea in a mouse model of human rotavirus-induced gastrointestinal disease. J Dairy Sci. (2013) 96:806–14. doi: 10.3168/jds.2012-5847
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 96. Inagaki M, Yamamoto M, Xijier C, Uchida K, Yamaguchi H, Kawasaki M, et al. In vitro and in vivo evaluation of the efficacy of bovine colostrum against human rotavirus infection. Biosci Biotechnol Biochem. (2010) 74:680–2. doi: 10.1271/bbb.90862
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 97. Parreño V, Marcoppido G, Vega C, Garaicoechea L, Rodriguez D, Saif L, et al. Milk supplemented with immune colostrum: protection against rotavirus diarrhea and modulatory effect on the systemic and mucosal antibody responses in calves experimentally challenged with bovine rotavirus. Vet Immunol Immunopathol. (2010) 136:12–27. doi: 10.1016/j.vetimm.2010.01.003
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 98. Saif L, Smith KL. Enteric Viral Infections of Calves and Passive Immunity. J Dairy Sci. (1985) 68:206–28. doi: 10.3168/jds.S0022-0302(85)80813-4
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 99. Schaller JP, Saif LJ, Cordle CT, Candler J, Winship TR, Smith KL. Prevention of human rotavirus-induced diarrhea in gnotobiotic piglets using bovine antibody. J Infect Dis. (1992) 165:623–30. doi: 10.1093/infdis/165.4.623
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 100. Funatogawa K, Ide T, Kirikae F, Saruta K, Nakano M, Kirikae T. Use of immunoglobulin enriched bovine colostrum against oral challenge with enterohaemorrhagic Escherichia coli O157:H7 in mice. Microbiol Immunol. (2002) 46:761–6. doi: 10.1111/j.1348-0421.2002.tb02761.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 101. Shield J, Melville C, Novelli V, Anderson G, Scheimberg I, Gibb D, et al. Bovine colostrum immunoglobulin concentrate for cryptosporidiosis in AIDS. Arch Dis Child (1993) 69:451–3. doi: 10.1136/adc.69.4.451
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 102. Plettenberg A, Stoehr A, Stellbrink HJ, Albrecht H, Meigel W. A preparation from bovine colostrum in the treatment of HIV-positive patients with chronic diarrhea. Clin Investig. (1993) 71:42–5. doi: 10.1007/BF00210962
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 103. Florén C-H, Chinenye S, Elfstrand L, Hagman C, Ihse I. ColoPlus, a new product based on bovine colostrum, alleviates HIV-associated diarrhoea. Scand J Gastroenterol. (2006) 41:682–6. doi: 10.1080/00365520500380817
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 104. Asmuth DM, Ma Z-M, Albanese A, Sandler NG, Devaraj S, Knight TH, et al. Oral serum-derived bovine immunoglobulin improves duodenal immune reconstitution and absorption function in patients with HIV enteropathy. Aids (2013) 27:2207–17. doi: 10.1097/QAD.0b013e328362e54c
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 105. Odong PO, Angwech PJ, Obol J, Kuule J, Florén C. Management of HIV in Children Using a Bovine Colostrum-Based Food Product — An Observational Field Study. AIDS (2015) 5:100–4. doi: 10.4236/wja.2015.52012
+CrossRef Full Text | Google Scholar
+
+ 106. Kaducu FO, Okia SA, Upenytho G, Elfstrand L, Floron CH. Effect of bovine colostrum-based food supplement in the treatment of HIV-associated diarrhea in Northern Uganda: a randomized controlled trial. Indian J Gastroenterol. (2011) 30:270–6. doi: 10.1007/s12664-011-0146-0
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 107. de Jong MF, Alto NM. Cooperative Immune Suppression by Escherichia coli and Shigella Effector Proteins. Infect Immun. (2018) 86:e00560–17. doi: 10.1128/IAI.00560-17
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 108. Koymans KJ, Vrieling M, Gorham RD, van Strijp JAG. Staphylococcal immune evasion proteins: structure, function, and host adaptation. Curr Top Microbiol Immunol. (2017) 409:441–489. doi: 10.1007/82_2015_5017
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 109. Ip S, Chung M, Raman G, Chew P, Magula N, DeVine D, et al. Breastfeeding and Maternal and Infant Health Outcomes in Developed Countries Evidence Report/Technology Assessment. Rockville, MD (2007). p. 1–186.
+
+
+ 110. Quigley MA, Kelly YJ, Sacker A. Breastfeeding and hospitalization for diarrheal and respiratory infection in the United Kingdom millennium cohort study. Pediatrics (2007) 119:e837–42. doi: 10.1542/peds.2006-2256
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 111. Duijts L, Jaddoe VW V, Hofman A, Moll HA. Prolonged and exclusive breastfeeding reduces the risk of infectious diseases in infancy. Pediatrics (2010) 126:e18–25. doi: 10.1542/peds.2008-3256
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 112. Haschke F, Haiden N, Thakkar SK. Nutritive and bioactive proteins in breastmilk. Ann Nutr Metab. (2016) 69:17–26. doi: 10.1159/000452820
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 113. Urwin HJ, Zhang J, Gao Y, Wang C, Li L, Song P, et al. Immune factors and fatty acid composition in human milk from river/lake, coastal and inland regions of China. Br J Nutr. (2013) 109:1949–61. doi: 10.1017/S0007114512004084
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 114. Warner J, Turner P. Allergy. in The Science of Paediatrics, Carroll W, editor London: Elsevier. (2017) p. 297–316. Available online at: https://www.elsevier.com/books/the-science-of-paediatrics-mrcpch-mastercourse/lissauer/978-0-7020-6313-8
+Google Scholar
+
+ 115. Brown EM, Arrieta M-C, Finlay BB. A fresh look at the hygiene hypothesis: how intestinal microbial exposure drives immune effector responses in atopic disease. Semin Immunol. (2013) 25:378–87. doi: 10.1016/j.smim.2013.09.003
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 116. Scheltema NM, Nibbelke EE, Pouw J, Blanken MO, Rovers MM, Naaktgeboren CA, et al. Respiratory syncytial virus prevention and asthma in healthy preterm infants: a randomised controlled trial. Lancet Respir Med. (2018) 6:257–64. doi: 10.1016/S2213-2600(18)30055-9
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 117. Blanken MO, Rovers MM, Molenaar JM, Winkler-Seinstra PL, Meijer A, Kimpen JLL, et al. Respiratory syncytial virus and recurrent wheeze in healthy preterm infants. N Engl J Med. (2013) 368:1791–9. doi: 10.1056/NEJMoa1211917
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 118. Wopereis H, Sim K, Shaw A, Warner JO, Knol J, Kroll JS. Intestinal microbiota in infants at high risk for allergy: effects of prebiotics and role in eczema development. J Allergy Clin Immunol. (2017) 141:1334–42. doi: 10.1016/j.jaci.2017.05.054
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 119. Xu ML, Kim HJ, Wi GR, Kim H-J. The effect of dietary bovine colostrum on respiratory syncytial virus infection and immune responses following the infection in the mouse. J Microbiol. (2015) 53:661. doi: 10.1007/s12275-015-5353-4
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 120. Ng WC, Wong V, Muller B, Rawlin G, Brown LE. Prevention and treatment of influenza with hyperimmune bovine colostrum antibody. PLoS ONE (2010) 5:e13622. doi: 10.1371/journal.pone.0013622
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 121. Wong EB, Mallet J-F, Duarte J, Matar C, Ritz BW. Bovine colostrum enhances natural killer cell activity and immune response in a mouse model of influenza infection and mediates intestinal immunity through toll-like receptors 2 and 4. Nutr Res. (2014) 34:318–25. doi: 10.1016/j.nutres.2014.02.007
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 122. Meyer G, Deplanche M, Schelcher F. Human and bovine respiratory syncytial virus vaccine research and development. Comp Immunol Microbiol Infect Dis. (2008) 31:191–225. doi: 10.1016/j.cimid.2007.07.008
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 123. Patiroglu T, Kondolot M. The effect of bovine colostrum on viral upper respiratory tract infections in children with immunoglobulin A deficiency. Clin RespirJ. (2013) 7:21–26. doi: 10.1111/j.1752-699X.2011.00268.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 124. Nigro A, Nicastro A, Trodella R. Retrospective observational study to investigate Sinerga, a multifactorial nutritional product, and bacterial extracts in the prevention of recurrent respiratory infections in children. Int J Immunopathol Pharmacol. (2014) 27:455–60. doi: 10.1177/039463201402700318
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 125. Vitetta L, Coulson S, Beck SL, Gramotnev H, Du S, Lewis S. The clinical efficacy of a bovine lactoferrin/whey protein Ig-rich fraction (Lf/IgF) for the common cold: a double blind randomized study. Compl Ther Med. (2013) 21:164–71. doi: 10.1016/j.ctim.2012.12.006
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 126. Crooks C, Cross M, Wall C, Ali A. Effect of bovine colostrum supplementation on respiratory tract mucosal defenses in swimmers. Int J Sport Nutr Exerc Metab. (2010) 20:224–35. doi: 10.1123/ijsnem.20.3.224
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 127. Uchida K, Yamagucki H, Kawasaki M, Yamashita K, Kaji N. Bovine late colostrum (colostrum 6 or 7 days after parturition) supplement reduces symptoms of Upper Respiratory Tract Infection in Infant. Jap J Clin Nutr. (2010) 31:122–7.
+
+
+ 128. Brinkworth G, Buckley J. Concentrated bovine colostrum protein supplementation reduces the incidence of self-reported symptoms of upper respiratory tract infection in adult males. Eur J Nutr. (2003) 42:228–32. doi: 10.1007/s00394-003-0410-x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 129. Cesarone MR, Belcaro G, Di Renzo A, Dugall M, Cacchio M, Ruffini I, et al. Prevention of influenza episodes with colostrum compared with vaccination in healthy and high-risk cardiovascular subjects: the epidemiologic study in San Valentino. Clin Appl Thromb Hemost (2007) 13:130–6. doi: 10.1177/1076029606295957
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 130. Jones AW, March DS, Curtis F, Bridle C. Bovine colostrum supplementation and upper respiratory symptoms during exercise training: a systematic review and meta-analysis of randomised controlled trials. BMC Sports Sci Med Rehabil. (2016) 8:21. doi: 10.1186/s13102-016-0047-8
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 131. Shing CM, Peake J, Suzuki K, Okutsu M, Pereira R, Stevenson L, et al. Effects of bovine colostrum supplementation on immune variables in highly trained cyclists. J Appl Physiol. (2007) 102:1113–22. doi: 10.1152/japplphysiol.00553.2006
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 132. Timby N, Hernell O, Vaarala O, Melin M, Lönnerdal B, Domellöf M. Infections in infants fed formula supplemented with bovine milk fat globule membranes. J Pediatr Gastroenterol Nutr. (2015) 60:384–9. doi: 10.1097/MPG.0000000000000624
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 133. Zavaleta N, Kvistgaard AS, Graverholt G, Respicio G, Guija H, Valencia N, et al. Efficacy of an MFGM-enriched complementary food in diarrhea, anemia, and micronutrient status in infants. J Pediatr Gastroenterol Nutr. (2011) 53:561–8. doi: 10.1038/s41538-018-0014-8
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 134. von Mutius E, Vercelli D. Farm living: effects on childhood asthma and allergy. Nat Rev Immunol. (2010) 10:861–8. doi: 10.1038/nri2871
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 135. Perkin MR, Strachan DP. Which aspects of the farming lifestyle explain the inverse association with childhood allergy? J Allergy Clin Immunol. (2006) 117:1374–81. doi: 10.1016/j.jaci.2006.03.008
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 136. Pfefferle PI, Büchele G, Blümer N, Roponen M, Ege MJ, Krauss-Etschmann S, et al. Cord blood cytokines are modulated by maternal farming activities and consumption of farm dairy products during pregnancy: the PASTURE Study. J Allergy Clin Immunol. (2010) 125:108–15.e1–3. doi: 10.1016/j.jaci.2009.09.019
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 137. Naaber P, Lehto E, Salminen S, Mikelsaar M. Inhibition of adhesion of Clostridium difficile to Caco-2 cells. FEMS ImmunolMed Microbiol. (1996) 14:205–9. doi: 10.1111/j.1574-695X.1996.tb00288.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 138. An MJ, Cheon JH, Kim SW, Park JJ, Moon CM, Han SY, et al. Bovine colostrum inhibits nuclear factor kappaB-mediated proinflammatory cytokine expression in intestinal epithelial cells. Nutr Res. (2009) 29:275–80. doi: 10.1016/j.nutres.2009.03.011
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 139. Detzel CJ, Horgan A, Henderson AL, Petschow BW, Warner CD, Maas KJ, et al. Bovine immunoglobulin/protein isolate binds pro-inflammatory bacterial compounds and prevents immune activation in an intestinal co-culture model. PLoS ONE (2015) 10:e0120278. doi: 10.1371/journal.pone.0120278
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 140. Ben Ya'acov A, Lichtenstein Y, Zolotarov L, Ilan Y. The gut microbiome as a target for regulatory T cell-based immunotherapy: induction of regulatory lymphocytes by oral administration of anti-LPS enriched colostrum alleviates immune mediated colitis. BMC Gastroenterol (2015) 15:154. doi: 10.1186/s12876-015-0388-x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 141. Henderson AL, Brand MW, Darling RJ, Maas KJ, Detzel CJ, Hostetter J, et al. Attenuation of colitis by serum-derived bovine immunoglobulin/protein isolate in a defined microbiota mouse model. Dig Dis Sci. (2015) 60:3293–303. doi: 10.1007/s10620-015-3726-5
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 142. Bateman E, Weaver E, Klein G, Wignall A, Wozniak B, Plews E, et al. Serum-derived bovine immunoglobulin/protein isolate in the alleviation of chemotherapy-induced mucositis. Support Care Cancer (2016) 24:377–85. doi: 10.1007/s00520-015-2806-6
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 143. Huang XH, Chen L, Gao W, Zhang W, Chen SJ, Xu LB, et al. Specific IgG activity of bovine immune milk against diarrhea bacteria and its protective effects on pathogen-infected intestinal damages. Vaccine (2008) 26:5973–80. doi: 10.1016/j.vaccine.2008.08.040
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 144. Pérez-Bosque A, Miró L, Maijó M, Polo J, Campbell J, Russell L, et al. Dietary intervention with serum-derived bovine immunoglobulins protects barrier function in a mouse model of colitis. Am J Physiol Gastrointest Liver Physiol (2015) 308:G1012. doi: 10.1152/ajpgi.00378.2014
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 145. Wilson D, Evans M, Weaver E, Shaw AL, Klein GL. Evaluation of serum-derived bovine immunoglobulin protein isolate in subjects with diarrhea-predominant irritable bowel syndrome. Clin Med Insights Gastroenterol. (2013) 6:49–60. doi: 10.4137/CGast.S13200
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 146. Shafran I, Burgunder P, Wei D, Young HE, Klein G, Burnett BP. Management of inflammatory bowel disease with oral serum-derived bovine immunoglobulin. Therap Adv Gastroenterol. (2015) 8:331–9. doi: 10.1177/1756283X15593693
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 147. Jensen ML, Sangild PT, Lykke M, Schmidt M, Boye M, Jensen BB, et al. Similar efficacy of human banked milk and bovine colostrum to decrease incidence of necrotizing enterocolitis in preterm piglets. AJP Regul Integr Comp Physiol. (2013) 305:R4–12. doi: 10.1152/ajpregu.00094.2013
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 148. Støy ACF, Heegaard PMH, Thymann T, Bjerre M, Skovgaard K, Boye M, et al. Bovine colostrum improves intestinal function following formula-induced gut inflammation in preterm pigs. Clin Nutr. (2014) 33:322–9. doi: 10.1016/j.clnu.2013.05.013
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 149. Li Y, Juhl SM, Ye X, Shen RL, Iyore EO, Dai Y, et al. A stepwise, pilot study of bovine colostrum to supplement the first enteral feeding in preterm infants (precolos): study protocol and initial results. Front Pediatr. (2017) 5:42. doi: 10.3389/fped.2017.00042
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 150. Bolke E, Jehle PM, Hausmann F, Daubler A, Wiedeck H, Steinbach G, et al. Preoperative oral application of immunoglobulin-enriched colostrum milk and mediator response during abdominal surgery. Shock (2002) 17:9–12. doi: 10.1097/00024382-200201000-00002
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 151. Bolke E, Orth K, Jehle PM, Schwarz A, Steinbach G, Schleich S, et al. Enteral application of an immunoglobulin-enriched colostrum milk preparation for reducing endotoxin translocation and acute phase response in patients undergoing coronary bypass surgery–a randomized placebo-controlled pilot trial. WienKlinWochenschr (2002) 114:923–8.
+PubMed Abstract | Google Scholar
+
+ 152. Playford RJ, Floyd DN, Macdonald CE, Calnan DP, Adenekan RO, Johnson W, et al. Bovine colostrum is a health food supplement which prevents NSAID induced gut damage. Gut (1999) 44:653–8.
+PubMed Abstract | Google Scholar
+
+ 153. Playford RJ, Macdonald CE, Calnan DP, Floyd DN, Podas T, Johnson W, et al. Co-administration of the health food supplement, bovine colostrum, reduces the acute non-steroidal anti-inflammatory drug-induced increase in intestinal permeability. Clin Sci. (2001) 100:627–33. doi: 10.1042/cs1000627
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 154. Rogier EW, Frantz AL, Bruno MEC, Wedlund L, Cohen DA, Stromberg AJ, et al. Secretory antibodies in breast milk promote long-term intestinal homeostasis by regulating the gut microbiota and host gene expression. Proc Natl Acad Sci USA. (2014) 111:3074–9. doi: 10.1073/pnas.1315792111
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 155. Koch MA, Reiner GL, Lugo KA, Kreuk LSM, Stanbery AG, Ansaldo E, et al. Maternal IgG and IgA antibodies dampen mucosal t helper cell responses in early life. Cell (2016) 165:827–41. doi: 10.1016/j.cell.2016.04.055
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 156. Harris NL, Spoerri I, Schopfer JF, Nembrini C, Merky P, Massacand J, et al. Mechanisms of neonatal mucosal antibody protection. J Immunol (2006) 177:6256–6262. doi: 10.4049/jimmunol.177.9.6256
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 157. Kramer D, Cebra J. Role of maternal antibody in the induction of virus specific and bystander IgA responses in Peyer's patches of suckling mice. Int Immunol. (1995) 7:911–8.
+PubMed Abstract | Google Scholar
+
+ 158. Jungi TW, Peterhans E, Pfister H, Fey H. The interaction of ruminant IgG with receptor type II for IgG on human phagocytes. Immunology (1989) 66:143–8.
+PubMed Abstract | Google Scholar
+
+ 159. Nash GS, MacDermott RP, Schloemann S, Bertovich MJ, O'Neal J, Porter L, et al. Bovine IgG1, but not IgG2, binds to human B cells and inhibits antibody secretion. Immunology (1990) 69:361–6.
+PubMed Abstract | Google Scholar
+
+ 160. Loimaranta V, Nuutila J, Marnila P, Tenovuo J, Korhonen H, Lilius EM. Colostral proteins from cows immunised with Streptococcus mutans/S. sobrinus support the phagocytosis and killing of mutans streptococci by human leucocytes. J Med Microbiol. (1999) 48:917–26.
+PubMed Abstract | Google Scholar
+
+ 161. Kulczycki AJ, Nash G, Bertovich M, Burack H, MacDermott R. Bovine milk IgG, but not serum IgG, inhibits pokeweed mitogen-induced antibody secretion by human peripheral blood mononuclear cells. J Clin Immunol. (1987) 7:37–45. doi: 10.1007/BF00915423
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 162. Daeron M, Malbec O, Latour S, Arock M, Fridman WH. Regulation of high-affinity IgE receptor-mediated mast cell activation by murine low-affinity IgG receptors. J Clin Invest. (1995) 95:577–85.
+PubMed Abstract | Google Scholar
+
+ 163. Nimmerjahn F, Ravetch J V. Fcgamma receptors as regulators of immune responses. Nat Rev Immunol. (2008) 8:34–47. doi: 10.1038/nri2206
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 164. Muta T, Kurosaki T, Misulovin Z, Sanchez M, Nussenzweig MC, Ravetch J V. A 13-amino-acid motif in the cytoplasmic domain of Fc gamma RIIB modulates B-cell receptor signalling. Nature (1994) 369:340. doi: 10.1038/369340a0
+CrossRef Full Text
+
+ 165. Bruhns P. Properties of mouse and human IgG receptors and their contribution to disease models. Blood (2012) 119:5640–49. doi: 10.1182/blood-2012-01-380121
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 166. Kramski M, Lichtfuss GF, Navis M, Isitman G, Wren L, Rawlin G, et al. Anti-HIV-1 antibody-dependent cellular cytotoxicity mediated by hyperimmune bovine colostrum IgG. Eur J Immunol. (2012) 42:2771–81. doi: 10.1002/eji.201242469
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 167. Ober RJ, Radu CG, Ghetie V, Ward ES. Differences in promiscuity for antibody-FcRn interactions across species: implications for therapeutic antibodies. Int Immunol. (2001) 13:1551–9. doi: 10.1093/intimm/13.12.1551
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 168. Latvala S, Jacobsen B, Otteneder MB, Herrmann A, Kronenberg S. Distribution of FcRn across species and tissues. J Histochem Cytochem. (2017) 65:321–33. doi: 10.1369/0022155417705095
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 169. Rath T, Baker K, Pyzik M, Blumberg RS. Regulation of immune responses by the neonatal Fc receptor and its therapeutic implications. Front Immunol. (2014) 5:22–9. doi: 10.3389/fimmu.2014.00664
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 170. Kapsenberg ML. Dendritic-cell control of pathogen-driven T-cell polarization. Nat Rev Immunol. (2003) 3:984–93. doi: 10.1038/nri1246
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 171. Celis E, Zurawski VR, Chang TW. Regulation of T-cell function by antibodies: enhancement of the response of human T-cell clones to hepatitis B surface antigen by antigen-specific monoclonal antibodies. Proc Natl Acad Sci USA. (1984) 81:6846–50. doi: 10.1073/pnas.81.21.6846
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 172. Gosselin EJ, Wardwell K, Gosselin DR, Alter N, Janlanl F, Andpndpm G. Enhanced antigen presentation using human Fcy receptor (monocyte/macrophage)-specific immunogens. J Immunol. (1992) 149:3477–81.
+PubMed Abstract | Google Scholar
+
+ 173. Shen L, van Egmond M, Siemasko K, Gao H, Wade T, Lang M, et al. Presentation of ovalbumin internalized via the immunoglobulin-A Fc receptor is enhanced through Fc receptor gamma-chain signaling. Blood (2001) 97:205–13. doi: 10.1182/blood.V97.1.205
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 174. van der Heijden FL, Joost van Neerven RJ, van Katwijk M, Bos JD, Kapsenberg ML. Serum-IgE-facilitated allergen presentation in atopic disease. J Immunol. (1993) 150:3643–50.
+PubMed Abstract | Google Scholar
+
+ 175. Santamaria LF, Bheekha R, Reijsen FC, Van Soler MTP, Suter M, Bruijnzeel-koomen CAFM, et al. Antigen focusing by specific monomeric immunoglobulin e bound to CD23 on. (1993) 30:23–30.
+Google Scholar
+
+ 176. Adar T, Ben Ya'acov A, Lalazar G, Lichtenstein Y, Nahman D, Mizrahi M, et al. Oral administration of immunoglobulin G-enhanced colostrum alleviates insulin resistance and liver injury and is associated with alterations in natural killer T cells. Clin Exp Immunol. (2012) 167:252–260. doi: 10.1111/j.1365-2249.2011.04511.x
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 177. Uchida K, Hiruta N, Yamaguchi H, Yamashita K, Fujimura K, Yasui H. Augmentation of cellular immunity and protection against influenza virus infection by bovine late colostrum in mice. Nutrition (2012) 28:442–6. doi: 10.1016/j.nut.2011.07.021
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 178. Kubinak JL, Round JL. Do antibodies select a healthy microbiota? Nat Rev Immunol. (2016) 16:767–4. doi: 10.1038/nri.2016.114
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 179. Dollé L, Tran HQ, Etienne-Mesmin L, Chassaing B. Policing of gut microbiota by the adaptive immune system. BMC Med (2016) 14:4–7. doi: 10.1186/s12916-016-0573-y
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 180. Stephens WZ, Round JL. Previews IgA targets the troublemakers. Cell Host Microbe (2014) 16:265–7. doi: 10.1016/j.chom.2014.08.012
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 181. Jung K, Miyagawa M, Matsuda A, Amagai Y, Oida K, Okamoto Y, et al. Antifungal effects of palmitic acid salt and ultrapure soft water on Scedosporium apiospermum. J ApplMicrobiol. (2013) 115:711–7. doi: 10.1111/jam.12298
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 182. Palm NW, de Zoete MR, Cullen TW, Barry NA, Stefanowski J, Hao L, et al. Immunoglobulin A coating identifies colitogenic bacteria in inflammatory bowel disease. Cell (2014) 158:1000–10. doi: 10.1016/j.cell.2014.08.006
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 183. Macpherson AJ, McCoy KD. Independence day for IgA. Immunity (2015) 43:416–8. doi: 10.1016/j.immuni.2015.08.024
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 184. Fransen F, Zagato E, Mazzini E, Fosso B, Manzari C, El Aidy S, et al. BALB/c and C57BL/6 Mice Differ in Polyreactive IgA Abundance, which Impacts the Generation of Antigen-Specific IgA and Microbiota Diversity. Immunity (2015) 43:527–540. doi: 10.1016/j.immuni.2015.08.011
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 185. Mosconi E, Rekima A, Seitz-Polski B, Kanda A, Fleury S, Tissandie E, et al. Breast milk immune complexes are potent inducers of oral tolerance in neonates and prevent asthma development. Mucosal Immunol. (2010) 3:461–74. doi: 10.1038/mi.2010.23
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 186. Ohsaki A, Venturelli N, Buccigrosso TM, Osganian SK, Lee J, Blumberg RS, et al. Maternal IgG immune complexes induce food allergen–specific tolerance in offspring. J Exp Med. (2018) 215:91–113. doi: 10.1084/jem.20171163
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 187. Henderson AJ, Warner JO. Fetal origins of asthma. Semin Fetal Neonatal Med. (2012) 17:82–91. doi: 10.1016/j.siny.2012.01.006
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 188. De Agüero MG, Ganal-Vonarburg SC, Fuhrer T, Rupp S, Uchimura Y, Li H, et al. The maternal microbiota drives early postnatal innate immune development. Science (2016) 351:1296–1302. doi: 10.1126/science.aad2571
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+ 189. Maijo M, Miro L, Polo J, Campbell J, Russell L, Crenshaw J, et al. Dietary plasma proteins attenuate the innate immunity response in a mouse model of acute lung injury. Br J Nutr. (2012) 107:867–875. doi: 10.1017/S0007114511003655
+PubMed Abstract | CrossRef Full Text | Google Scholar
+
+
+
+Keywords: bovine immunoglobulins, milk, colostrum, immune, infection, allergy
+Citation: Ulfman LH, Leusen JHW, Savelkoul HFJ, Warner JO and van Neerven RJJ (2018) Effects of Bovine Immunoglobulins on Immune Function, Allergy, and Infection. Front. Nutr. 5:52. doi: 10.3389/fnut.2018.00052
+Received: 23 April 2018; Accepted: 30 May 2018; Published: 22 June 2018.
+Edited by: Willem Van Eden, Utrecht University, Netherlands
+Reviewed by: Brandt D. Pence, University of Memphis, United States Claudio Nicoletti, Università degli Studi di Firenze, Italy
+Copyright © 2018 Ulfman, Leusen, Savelkoul, Warner and van Neerven. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+*Correspondence: R. J. Joost van Neerven, joost.vanneerven@wur.nl
+
+
+
+
+
+
+This article is part of the Research Topic
+
+
+
+                    New Horizons in Food Science via Agricultural Immunity
+                
+
+                        View all
+13                        Articles 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+People also looked at
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

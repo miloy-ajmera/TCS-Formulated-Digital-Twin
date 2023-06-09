@@ -1,0 +1,942 @@
+Document Name: role of Ross Fully Refined Paraffin Wax 150/160 in Cold Cream1
+Document link: https://epdf.pub/download/plastics-additives-volume-3-plastics-design-library03d8722d25c6df35f9903ebe01e1e94b84138.html?reader=1
+
+
+
+
+
+
+Plastics Additives, Volume 3 (Plastics Design Library) - PDF Free Download
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+ Add Document
+ Sign In
+ Register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    		Plastics Additives, Volume 3 (Plastics Design Library)    	    
+
+Home 
+Plastics Additives, Volume 3 (Plastics Design Library)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				    PLASTICS ADDITIVES
+
+ This page intentionally left blank
+
+ PLASTICS ADDITIVES AN INDUSTRIAL GUIDE Third Edition Volume I...				
+
+Author: 
+Ernest W. Flick 
+
+
+
+ 456 downloads
+ 3321 Views
+ 747KB Size
+ Report
+
+
+
+				This content was uploaded by our users and we assume good faith they have the permission to share this book. If you own the copyright to this book and it is wrongfully on our website, we offer a simple DMCA procedure to remove your content from our site. Start by pressing the button below!
+				 Report copyright / DMCA form
+
+
+
+
+
+
+ DOWNLOAD PDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						    PLASTICS ADDITIVES  This page intentionally left blank  PLASTICS ADDITIVES AN INDUSTRIAL GUIDE Third Edition Volume III  >O  Ernest W. Flick  np  NOYES PUBLICATIONS WILLIAM ANDREW PUBLISHING Norwich, New York, U.S.A.  Copyright © 2002 by William Andrew Publishing No part of this book may be reproduced or utilized in any form or by any means, electronic or mechanical, including photocopying, recording or by any information storage and retrieval system, without permission in writing from the Publisher. Library of Congress Catalog Card Number: 2001088672 ISBN: O-8155-1470-0 Printed in the United States Published in the United States of America by Noyes Publications / William Andrew Publishing 13 Eaton Avenue Norwich, New York, 13815. 1-800-932-7045 www.williamandrew.com www.knovel.com  10 9 8 7 6 5 4 3 2 1  Library of Congress Cataloging-in-Publication Data hird Ernest W. Plastics additives: an industrial guide / by Ernest W. Flick. -3rd ed. p. cm. Includes index. ISBN O-8155-1470-0 1. Plastics--Additives. I. Title. TPl142.F58 2002 668.4’11 --dc20 00-108117 CIP ISBN: 0-8155-1464-6 (V.1) ISBN: 0-8155-1472-7 (V.2) ISBN: 0-8155-1470-0 (V.3)  2HAB=?AEN above, two further sections are included in each volume: a list of Suppliers Addresses and a Trade Name Index. These will be extremely helpful to the reader. The following information is supplied for each product, as available, in the manufacturers own words: Company name and product category. Trade names and product numbers. Product description: a description of the products main features, as described by the supplier. The three volumes of this book will be of value to technical and managerial personnel involved in the preparation of products made with these plastics additives as well as to the suppliers of the basic raw materials. My fullest appreciation is expressed to the companies and organizations who supplied the data included in this book. March, 2001  Ernest W. Flick  To Wil and Marilyn  This page intentionally left blank  Preface  The Third Edition of this useful book is divided into three volumes. Volume II describes almost 1,400 plastics additives which are currently available to industry. It is the result of information received from 74 industrial companies and other organizations. The data represents selections from manufacturers descriptions made at no cost to, nor influence from, the makers or distributors of these materials. Only the most recent information has been included. It is believed that all of the products listed here are currently available, which will be of utmost interest to readers concerned with product discontinuances. Plastics additives, a complex and growing group of minerals and chemical derivatives, account for 15 to 20% by weight of the total volume of plastic products marketed. They are produced by a large number of companies for a wide variety of customers and needs. Growth of the use of these additives, which impart one or more desirable properties to resins, is relatively strong, about 3.5 to 4% per year. Environmental constraints, however, have imposed rigorous performance requirements on many products, thus placing added expenses on the development costs of these materials. Plastics additives are divided into logical sections in three volumes. Volume I: I. Adhesion Promoters II. Anti-Fogging Agents  LEE  LEEE 2HAB=?A III. Antioxidants IV. Anti-Static Agents V. Antibacterials/Fungicides/Mildewcides VI. Bonding, Blowing and Foaming Agents VII. Dispersants VIII. Fillers and Extenders IX. Fire and Flame Retardants/Smoke Suppressants Volume II: X. Impact Modifiers XI. Initiators XII. Lubricants XIII. Micas XIV. Pigments, Colorants, and Dyes XV. Plasticizers and Esters XVI. Processing Aids XVII. Release Agents XVIII. Silanes, Titanates, and Zirconates XIX. Slip and Anti-Blocking Agents Volume III: XX. Stabilizers XXI. Stearates XXII. UV Absorbers XXIII. Viscosity Regulators XXIV. Waxes XXV. Miscellaneous and Multipurpose Compounds The Table of Contents of each volume is organized to also serve as a subject index. Each raw material is located in the section which is most applicable. The reader seeking a specific raw material should check each section which could possibly apply. In addition to the  NOTICE To the best of our knowledge the information in this publication is accurate; however, the Publisher does not assume any responsibility for the accuracy or completeness of, or consequences arising from, such information. This industrial guide does not purport to contain detailed user instructions, and by its range and scope could not possibly do so. Mention of trade names or commercial products does not constitute endorsement or recommendation for use by the Publisher. In some cases plastics additives could be toxic, and therefore due caution should be exercised. Final determination of the suitability of any information or product for use contemplated by any user, and the manner of that use, is the sole responsibility of the user. We strongly recommend that users seek and adhere to a manufacturers or suppliers current instructions for handling each material they use. The Author and Publisher have used their best efforts to include only the most recent data available. The reader is cautioned to consult the supplier in case of questions regarding current availability.  Contents and Subject Index SECTION XX: STABILIZERS Akcros Chemicals America: ...................................................................................... 2 Additives for Rigid PVC Applications .................................................................2 Stabilizers for Flexible Vinyl .................................................................................5 AKCROS’ ABC Line-Foam Stabilizer/Activators .....................................5 Calcium Zinc Based Stabilizers .....................................................................6 Chelators and Auxiliaries ................................................................................7 Metal Soap Based Stabilizers .........................................................................8 Baerlocher U.S.A.: ......................................................................................................10 BAEROSTAB Organotin Stabilizers: ................................................................10 Organotin Carboxylates .................................................................................10 Organotin Mercaptides...................................................................................12 Organotin Mercaptide/Carboxylates............................................................17 Lead Stabilizers ..................................................................................................... 19 Lead Commodities..........................................................................................19 Characteristics of Commodity Modifications............................................20 Ciba Specialty Chemicals: ........................................................................................24 Additives for Polyolefins:.....................................................................................24 Antioxidants (AO) & Processing Stabilizers .............................................24 Antioxidants (AO) & Processing Stabilizer Blends..................................27 Hindered Amine Light Stabilizers (HALS)................................................29 Phenol-Free Stabilizers ..................................................................................31 Products for Recycling...................................................................................32 Light Stabilizers for Polyolefins ..........................................................................33 Light Stabilizer Systems ........................................................................................35 Fairmount Chemical Co., Inc ...................................................................................36 MIXXIM CD-12 Metal Deactivator....................................................................36 Ferro Corp.....................................................................................................................37 FERRO UV-CHEK Light Stabilizers for Polymers .........................................37 THERM-CHEK Heat Stabilizers .........................................................................40 Halstab............................................................................................................................48 Non-Lead Stabilizers..............................................................................................48 Powdered Lead Stabilizers ....................................................................................50 Rhein Chemie Corp. ....................................................................................................53 xi  xii  Contents  STABAXOL Antihydrolysis Agents...................................................................53 Product Selection and Market Overview Guide ........................................53 Rohm and Haas Co/Morton International ...........................................................58 Product Application Overview.............................................................................58 3V Inc..............................................................................................................................62 Antioxidants: ALVINOX/ ALVIPACK .............................................................62  SECTION XXI: STEARATES Baerlocher U.S.A. ........................................................................................................64 Aluminum Soaps.....................................................................................................64 Calcium Soaps.........................................................................................................65 Magnesium Soaps...................................................................................................66 Zinc Soaps................................................................................................................67 H.L. Blachford Ltd......................................................................................................69 Metallic Stearates....................................................................................................69 Metallic Soaps and Stabilizers..............................................................................72 Ferro Corp.....................................................................................................................73 Metallic Stearates....................................................................................................73  SECTION XXII: UV ABSORBERS Ciba Specialty Chemicals ..........................................................................................78 Additives for Polyolefins.......................................................................................78 UV Absorbers (UVA)....................................................................................78 Cytec Industries Inc. ...................................................................................................79 CYASORB UV Absorbers and Light Stabilizers..............................................79 Everlight USA Inc. ......................................................................................................82 EVERSORB 71 UV Absorber..............................................................................82 EVERSORB 73 UV Absorber..............................................................................83 EVERSORB 74 UV Absorber..............................................................................84 EVERSORB 75 UV Absorber..............................................................................85 EVERSORB 90 UV Stabilizer for Polymers .....................................................86 EVERSORB 91 Light Stabilizer for Polymers ..................................................87 Fairmount Chemical Co. Inc. ...................................................................................88 MIXXIM BB/100 UV Light Absorber...............................................................88 MIXXIM BB/200 UV Light Absorber...............................................................89  Contents  xiii  MIXXIM PB-30 UV Stabilizer ............................................................................90 Great Lakes Chemical Corp.....................................................................................91 Ultraviolet Stabilizers.............................................................................................91 Harwick Standard Distribution Corp....................................................................93 STANLIGHT UV Absorbers................................................................................93 3V Inc..............................................................................................................................94 UVASORB Light Stabilizers ................................................................................94 Hindered Amine Light Stabilizers (HALS)................................................94 U.V. Absorbers................................................................................................96  SECTION XXIII: VISCOSITY REGULATORS Degussa...........................................................................................................................98 AEROSIL for PVC Plastisols ...............................................................................98  SECTION XXIV: WAXES CasChem, Inc..............................................................................................................100 PARICIN 220 Fatty Acid Amide...................................................................... 100 Ferro Corp...................................................................................................................101 PETRAC Waxes, Wax Blends, and GMS....................................................... 101 Genesee Polymers Corp. ..........................................................................................102 Silicone Waxes ..................................................................................................... 102 Frank B. Ross Co., Inc.: ...........................................................................................104 Microcrystalline Wax.......................................................................................... 104 Montan Wax ......................................................................................................... 105 ROSS Wax #100: Fischer-Tropsch Wax......................................................... 106 ROSS Wax No. 130, No. 145, No. 165 ........................................................... 107 Ross Wax 140: Synthetic High Melting Point Wax: Powdered ................. 108 Ross Wax 160: Synthetic High Melting Point Wax: Powdered .................. 109  SECTION XXV: MISCELLANEOUS & MULTIPURPOSE COMPOUNDS Claude Bamberger Molding Compounds Corp. ...............................................111 BAMBERKO ULTIMAX Purging Compound.............................................. 111  xiv  Contents  Buckman Laboratories, Inc. ...................................................................................112 Successful Applications of BUSAN 11-M1 in Plastic and Rubber Compounds ........................................................................................................... 112 BYK-Chemie USA.....................................................................................................113 Air Release Additives for PVC Plastisols ..................................................... 113 Air Release Additives for Ambient Cure Polyester Resins.......................... 114 Air Release Additive/Agents ............................................................................. 115 Chemax, Inc. ...............................................................................................................116 CHEMSTAT Compounds.................................................................................. 116 Danisco Cultor USA, Inc. ........................................................................................119 Products and Applications.................................................................................. 119 Recommended Glycerol Ester Based Additives for Polyolefins................. 121 Dyneon..........................................................................................................................123 DYNAMAR Polymer Processing Additives................................................... 123 Paratherm Corp.........................................................................................................124 PARATHERM NF Heat Transfer Fluid .......................................................... 124 Rhein Chemie Corp. ..................................................................................................125 Product Selection and Market Overview Guide for Catalysts ..................... 125 Product Selection and Market Overview Guide for Combustion Modifiers ......................................................................................................................127 Product Selection and Market Overview Guide for Crosslinkers/Curatives .............................................................................................128 Product Selection and Market Overview Guide for Dispersants/Stabilizers .............................................................................................129 Product Selection and Market Overview Guide for Flushing Agents ........ 130 Product Selection and Market Overview Guide for Silicone Surfactants.. 132 Miscellaneous Products ...................................................................................... 133 Specialty Products Co...............................................................................................134 STYRID Styrene Suppressant Additive........................................................... 134 Stepan Co. ....................................................................................................................135 DREWPLAST 051 .............................................................................................. 135 DREWPLAST 154 DEA Alkanolamide.......................................................... 136 UOP ...............................................................................................................................137 UNILI NK,Diamines ............................................................................................ 137 UNILINK 4200 Diamine.................................................................................... 139 TRADE NAME INDEX ...........................................................................................140 SUPPLIERS’ ADDRESS.........................................................................................143  Stabilizers 1  Section XX Stabilizers  2  Plastics Additives  Akcros Chemicals America: Additives for Rigid PVC Applications: General Purpose Stabilizers: T-4654: Weather Ability: Excellent Color Hold, Term Stability, Clarity, Flexible PVC, Plastisols: Recommended Odor, Lubricity: Good  T-4791: Color Hold, Rigid Foam: Excellent Term Stability: Recommended Clarity, Weather Ability, Flexible PVC, Odor, Lubricity, Plastisols: Good  T-4905: Term Stability, Clarity, Weather Ability, Flexible PVC: Excellent Odor: Recommended Color Hold, Lubricity, Plastisols: Good  T-5003: Color Hold, Term Stability, Weather Ability, Lubricity: Excellent Clarity, Flexible PVC, Odor: Good  T-5005: Odor, Lubricity, Rigid Foam: Excellent Color Hold, Term Stability, Clarity, Weather Ability, Flexible PVC: Good  T-5007: Color Hold, Lubricity: Excellent Term Stability, Weather Ability: Recommended Clarity, Flexible PVC, Odor: Good  T-5063: Color Hold, Term Stability, Clarity, Weather Ability, Odor: Excellent Flexible PVC: Recommended Lubricity, Plastisols: Good  T-5095: Color Hold, Clarity, Odor: Excellent Term Stability, Weather Ability, Flexible PVC: Recommended Lubricity: Good  T-5160: Color Hold, Term Stability, Weather Ability, Lubricity: Excellent Odor: Good  Stabilizers 3  Akcros Chemicals America: Additives for Rigid PVC Applications (Continued): General Purpose Stabilizers (Continued): T-5172: Color Hold, Term Stability, Weather Ability: Excellent Lubricity: Recommended Odor: Good  T-5178: Color Hold, Term Stability, Weather Ability, Lubricity: Excellent Odor: Good  T-7020: Color Hold, Clarity, Weather Ability, Odor: Excellent Term Stability, Lubricity: Recommended  Food Grade Applications: T-883: Color Hold, Term Stability, Clarity, Weather Ability, Odor: Excellent Lubricity: Recommended  T-885: Color Hold, Term Stability, Clarity, Weather Ability, Odor: Excellent Lubricity: Recommended  T-7021: Color Hold, Term Stability, Clarity, Weather Ability, Odor: Excellent Lubricity: Recommended  4  Plastics Additives  Akcros Chemicals America: Additives for Rigid PVC Applications (Continued): Specialty Applications: T-186: Term Stability, Weather Ability, Flexible PVC, Plastisols: Excellent Color Hold, Clarity, Odor: Recommended Lubricity: Good  T-876: Weather Ability, Flexible PVC, Plastisols: Excellent Color Hold, Term Stability, Clarity, Odor: Recommended Lubricity: Good  T-876A: Weather Ability, Flexible PVC, Plastisols: Excellent Color Hold, Term Stability, Clarity, Odor: Recommended Lubricity: Good  T-878M: Color Hold, Clarity, Weather Ability, Flexible PVC, Plastisols: Excellent Term Stability, Odor: Recommended Lubricity: Good  T-5507A: Weather Ability: Excellent Color Hold, Term Stability, Clarity, Flexible PVC, Odor, Lubricity, Plastisols: Recommended  TL: Lubricity, Plastisols: Excellent Color Hold, Term Stability, Clarity, Weather Ability, Flexible PVC, Odor: Recommended  Stabilizers 5  Akcros Chemicals America: Stabilizers for Flexible Vinyl: AKCROS’ ABC Line-Foam Stabilizer/Activators: Akcros stabilizer/activators have been formulated to provide controlled, uniform gas evolution for the production of PVC foams utilizing azodicarbonamide as the blowing agent. The ABC series of blowing agent catalysts are primary materials and act as both heat stabilizers and gas generation activators. No secondary stabilizer is normally required. Thus, with the availability of such blowing agent catalysts, the use range of azodicarbonamide is extended to a significant degree.  ABC-1: Decomposition Range: 340 to 360F Activity Rate: High  ABC-2: Decomposition Range: 330 to 350F Activity Rate: High  ABC-6*: Decomposition Range: 390 to 400F Activity Rate: Low  ABC-7: Decomposition Range: 390 to 410F Activity Rate: Low  ABC-18: Decomposition Range: 340 to 360F Activity Rate: Medium  ABC-4810: Decomposition Range: 330 to 350F Activity Rate: High · ·  *Note: ABC-6 functions as a stabilizer/de-activator resulting in a controlled blow with very fine cell structure.  6  Plastics Additives  Akcros Chemicals America: Stabilizers for Flexible Vinyl: Calcium Zinc Based Stabilizers: General Purpose: LT-2001M: Heat Stability, Printability, Plastisol: Excellent Lubricity, Clarity, Extrusion/Inj.Mldg., Calendering: Good  LT-4468: Plastisol: Excellent Printability: Recommended Heat Stability, Clarity: Good  CAZ-4842: Heat Stability, Plastisol: Excellent Clarity: Good  CAZ-4949: Heat Stability: Excellent Lubricity, Low-odor/Volatility, Extrusion/Inj.Mldg., Calendering: Recommended  Food Contact: CZ-11D: Foam Activation, Extrusion/Inj.Mldg., Calendering, Plastisol: Recommended Heat Stability, Lubricity, Clarity: Good  CZ-19A: Heat Stability, Lubricity, Foam Activation, Extrusion/Inj.Mldg., Calendering: Recommended Clarity: Good  CZL-717: Clarity, Plastisol: Excellent Heat Stability, Low Plateout, Printability: Recommended Foam Activation, Calendering: Good  CZL-720: Clarity, Plastisol: Excellent Printability: Recommended Heat Stability, Low Plateout, Foam Activation: Good  CZL-720A: Clarity, Plastisol: Excellent Heat Stability, Printability: Recommended Low Plateout, Foam Activation, Extrusion/Inj.Mldg., Calendering: Good  Stabilizers 7  Akros Chemicals America: Stabilizers for Flexible Vinyl: Chelators and Auxiliaries: CH-55 (FDA): Printability, Extrusion/Inj.Mldg., Calendering, Plastisol: Recommended Heat Stability, Clarity: Good  CH-301: Printability: Excellent Heat Stability, Extrusion/Inj.Mldg., Calendering: Recommended Clarity, Plastisol: Good  P-2307*: Heat Stability, Clarity, Extrusion/Inj.Mldg., Calendering, Plastisol: Recommended Low-odor/Volatility, Printability: Good  SA-5038: Printability: Excellent Heat Stability, Foam Activation, Extrusion/Inj.Mldg., Calendering: Recommended  Ca Stearate: Heat Stability, Lubricity: Excellent Low-odor/Volatility, Extrusion/Inj.Mldg., Calendering: Recommended Printability: Good  Zn Stearate: Lubricity: Excellent Low-odor/Volatility, Foam Activation, Extrusion/Inj.Mldg., Calendering: Recommended Heat Stability, Clarity, Printability: Good *Note: PLASTOFLEX 2307 is a high-quality epoxidized soy bean oil with a minimum oxirane content of 6.8%.  8  Plastics Additives  Akcros Chemicals America: Stabilizers for Flexible Vinyl: Metal Soap Based Stabilizers: Barium Cadmium Based Stabilizers: BC-103A: Heat Stability, Clarity, Foam Activation, Extrusion/Inj. Mldg., Calendering, Plastisol: Recommended Printability: Good  BC-103L: Heat Stability, Extrusion/Inj. Mldg., Calendering: Recommended Lubricity, Clarity, Printability, Plastisol: Good  BC-111: Extrusion/Inj.Mldg., Calendering: Recommended Heat Stability, Clarity, Printability, Plastisol: Good  BC-4746S: Heat Stability, Printability, Extrusion/Inj. Mldg., Calendering: Excellent Lubricity, Clarity, Low Plateout: Recommended Low-odor/Volatility: Good  BC-4962: Heat Stability, Lubricity, Extrusion/Inj. Mldg., Calendering: Excellent  Barium Zinc Based Stabilizers: LT-4797: Heat Stability, Low Plateout, Printability: Recommended Clarity, Low Fog, Extrusion/Inj.Mldg., Calendering, Plastisol: Good  LT-4798: Heat Stability, Clarity, Low Plateout, Extrusion/Inj.Mldg., Plastisol: Recommended Lubricity, Foam Activation, Calendering: Good  LT-4813: Heat Stability, Low Plateout, Printability, Calendering: Excellent Lubricity, Clarity, Foam Activation, Extrusion/Inj. Mldg.: Recommended  BZ-4903M: Heat Stability, Extrusion/Inj. Mldg., Calendering: Recommended Lubricity, Clarity: Good  BZ-4929: Heat Stability, Foam Activation: Excellent Extrusion/Inj.Mldg., Calendering: Recommended Printability: Good  Stabilizers 9  Akcros Chemicals America: Stabilizers for Flexible Vinyl: Metal Soap Based Stabilizers (Continued): Barium Zinc Based Stabilizers (Continued): BZ-4946: Clarity: Excellent Heat Stability, Low Plateout, Printability, Extrusion/Inj. Mldg., Calendering: Recommended Lubricity: Good  BZ-4951: Heat Stability, Lubricity, Calendering: Excellent Low-odor/Volatility, Extrusion/Inj. Mldg.: Recommended  BZ-4975: Low-odor/Volatility: Excellent Heat Stability, Extrusion/Inj.Mldg.: Recommended Lubricity, Clarity: Good  BZ-4996: Clarity: Excellent Heat Stability, Extrusion/Inj.Mldg., Calendering: Recommended Lubricity, Low Plateout: Good  BZ-5023: Low-odor/Volatility, Low Fog: Excellent Heat Stability, Extrusion/Inj.Mldg.: Recommended Low Plateout: Good  BZ-5043: Heat Stability, Clarity, Extrusion/Inj.Mldg., Calendering: Excellent Low Plateout, Printability: Excellent Lubricity: Good  BZ-5046: Low Fog: Excellent Heat Stability, Extrusion/Inj.Mldg., Calendering: Recommended  BZ-4922: Heat Stability, Lubricity, Low-odor/Volatiliy: Excellent Low Fog, Foam Activation: Recommended  Barium Zinc ESO Blends: LT-4801: Plastisol: Recommended Heat Stability, Clarity, Printability, Extrusion/Inj.Mldg., Calendering: Good  LT-4803: Heat Stability, Clarity, Extrusion/Inj.Mldg., Calendering, Plastisol: Recommended Printability, Foam Activation: Good  BZ-4864: Printability, Calendering: Recommended Heat Stability, Clarity, Low Plateout, Extrusion/Inj.Mldg.: Good  10  Plastics Additives  Baerlocher U.S.A.: BAEROSTAB Organotin Stabilizers: Organotin Carboxylates:  Butyl: DBTL/C: Fields: Plastisol Properties: Transparent, Weather resistant, Low odor, Phenol-free, Limited self-lubrication, Very good initial color, Stabilizing E-PVC Viscosity at 20C (mPa.s): 70 Color Gardner (max.): 3 Density at 20C (g/cm3): 1.05  M 15: Fields: Plastisol Properties: Transparent, Weather resistant, Low odor, Phenol-free, Limited self-lubrication, Very good initial color, Stabilizing E-PVC Viscosity at 20C (mPa.s): 130 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.08  MS: Fields: Extrusion, Blown Films, Rigid PVC: Technical, Semi-rigid PVC, Flexible PVC Properties: Transparent, Weather resistant, Low odor, Phenol-free, No self-lubrication, Very good initial color, Low fogging, Stabilizing E-PVC, High Vicat temperature Powder Color Gardner (max.): White Density at 20C (g/cm3): 1.50  MSL: Fields: Extrusion, Rigid PVC: Technical Properties: Transparent, Weather resistant, Low odor, Phenol-free, No self-lubrication, Very good initial color, Stabilizing E-PVC Viscosity at 20C (mPa.s): 800 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.34  Stabilizers 11  Baerlocher U.S.A.: BAEROSTAB Organotin Stabilizers: Organotin Carboxylates (Continued): Butyl (Continued): MSQ/N: Fields: Extrusion, Blown Films, Rigid PVC: Technical, Semi-rigid PVC Properties: Transparent, Weather resistant, Low odor, Phenol-free, No self-lubrication, Very good initial color, Stabilizing E-PVC Viscosity at 20C (mPa.s): 400 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.22  MST: Fields: Plastisol Properties: Transparent, Weather resistant, Low odor, Phenol-free, No self-lubrication, Very good initial color, Stabilizing E-PVC Viscosity at 20C (mPa.s): 300 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.15  Octyl: MSO: Fields: Blown Films, Rigid PVC: Nontox Properties: Transparent, Weather resistant, Low odor, Phenol-free, No self-lubrication, Very good initial color, Low fogging, High Vicat temperature Powder Color Gardner (max.): White Density at 20C (g/cm3): 1.23  MSO/L: Fields: Blown Films, Rigid PVC: Nontox Properties: Transparent, Weather resistant, Low odor, Phenol-free, No self-lubrication, Very good initial color Viscosity at 20C (mPa.s): 300 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.18  12  Plastics Additives  Baerlocher U.S.A.: BAEROSTAB Organotin Stabilizers: Organotin Mercaptides: Butyl: M21-50 Fields: Extrusion, Blown Films, Injection/Blow Molding, Flexible PVC, Plastisol Properties: Transparent, Low odor, No self-lubrication, Very good initial color, Very good color hold Viscosity at 20C (mPa.s): 50 Color Gardner (max.): 2 Density at 20C (g/cm3): 0.99  M-25: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Technical, Semi-rigid PVC, Flexible PVC Properties: Transparent, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Stabilizing E-PVC Viscosity at 20C (mPa.s): 90 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.13  M 25 S: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Technical: Semi-rigid PVC, Flexible PVC, Plastisol Properties: Transparent, Low odor, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Low fogging, Stabilizing E-PVC Viscosity at 20C (mPa.s): 90 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.13  M 25-85: Fields: Calendering, Extrusion, Rigid PVC: Technical, Semi-rigid PVC Properties: Transparent, Phenol-free, Limited self-lubrication, Very good initial color, Very good color hold Viscosity at 20C (mPa.s): 80 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.08  Stabilizers 13  Baerlocher U.S.A.: BAEROSTAB Organotin Stabilizers: Organotin Mercaptides (Continued): Butyl (Continued): M 26 SF: Fields: Calendering, Extrusion, Rigid PVC: Technical, Semi-rigid PVC Properties: Transparent, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability Viscosity at 20C (mPa.s): 100 Color Gardner (Max.): 2 Density at 20C (g/cm3): 1.14  M 170: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Technical, Semi-rigid PVC, Flexible PVC Properties: Transparent, Phenol-free, Limited self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Stabilizing E-PVC Viscosity at 20C (mPa.s): 80 Color Gardner (Max.): 2 Density at 20C (g/cm3): 1.10  M-260: Fields: Plastisol Properties: Transparent, No self-lubrication, Very good initial color, (Very good color hold, Stabilizing E-PVC) Viscosity at 20C (mPa.s): 250 Color Gardner (Max.): 2 Density at 20C (g/cm3): 1.12  M 69: Fields: Semi-rigid PVC, Flexible PVC, Plastisol Properties: Transparent, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Stabilizing E-PVC Viscosity at 20C (mPa.s): 150 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.06  M 69 S: Fields: Semi-rigid PVC, Flexible PVC, Plastisol Properties: Transparent, Low odor, Phenol-free, No-self lubrication, Very good initial color, Very good color hold, Stabilizing E-PVC Viscosity at 20C (mPa.s): 150 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.06  14  Plastics Additives  Baerlocher U.S.A.: BAEROSTAB Organotin Stabilizers: Organotin Mercaptides (Continued): Butyl (Continued): M 70: Fields: Calendering, Extrusion, Blown Films, Flexible PVC, Plastisol Properties: Transparent, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Stabilizing E-PVC Viscosity at 20C (mPa.s): 100 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.01  M 71: Fields: Extrusion, Injection Blow Molding, Rigid PVC: Technical, Semi-rigid PVC Properties: Transparent, Limited self-lubrication, Very good initial color, Very good color hold Viscosity at 20C (mPa.s): 100 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.10  X-AB 7: Fields: Calendering, Blown Films, Rigid PVC: Technical, Semi-rigid PVC, Flexible PVC Properties: Transparent, Phenol free, Limited self-lubrication, Very good initial color, Very good color hold, Very good long term stability Viscosity at 20C (mPa.s): 110 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.12  Stabilizers 15  Baerlocher U.S.A.: BAEROSTAB Organotin Stabilizers: Organotin Mercaptides (Continued): Octyl: OM 510 S: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Nontox, Properties: Transparent, Low odor, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Stabilizing E-PVC Viscosity at 20C (mPa.s): 150 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.11  OM 700: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Nontox Properties: Transparent, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Stabilizing E-PVC Viscosity at 20C (mPa.s): 110 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.10  OM 700 S: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Nontox Properties: Transparent, Low odor, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Stabilizing E-PVC Viscosity at 20C (mPa.s): 110 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.10  OM 710: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Nontox Properties: Transparent, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long stability, Stabilizing E-PVC Viscosity at 20C (mPa.s): 130 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.11  16  Plastics Additives  Baerlocher U.S.A.: BAEROSTAB Organotin Stabilizers: Organotin Mercaptides (Continued): Octyl (Continued): OM 710 D: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Nontox Properties: Transparent, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Stabilizing E-PVC Viscosity at 20C (MPa.s): 120 Color Gardner (Max.): 2 Density at 20C (g/cm3): 1.10  OM 710 N: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Nontox Properties: Transparent, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Stabilizing E-PVC Viscosity at 20C (mPa.s): 130 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.09  OM 710 S: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Nontox Properties: Transparent, Low odor, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Stabilizing E-PVC Viscosity at 20C (mPa.s): 130 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.11  OM 1000: Fields: Calendering, Rigid PVC: Nontox Properties: Transparent, Phenol-free, Good self-lubrication, Very good initial color, Very good color hold Viscosity at 20C (mPa.s): 400 Color Gardner (max.): 6 Density at 20C (g/cm3): 1.00  Stabilizers 17  Baerlocher U.S.A.: BAEROSTAB Organotin Stabilizers: Organotin Mercaptide/Carboxylates: Butyl: M 25-32: Fields: Extrusion, Flexible PVC, Plastisol Properties: Transparent, Weather resistant, Phenol-free, No selflubrication, Very good initial color, Very good color hold, Stabilizing E-PVC Viscosity at 20C (mPa.s): 200 Color Gardner (max): 2 Density at 20C (g/cm3): 1.09  M 36: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Technical, Semi-rigid PVC Properties: Transparent, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Low fogging, Stabilizing E-PVC, High Vicat temperature Powder Color: White Density at 20C (g/cm3): 1.49  M 62: Fields: Plastisol Properties: Transparent, Weather resistant, Phenol-free, No selflubrication, Very good initial color, very good color hold, Kicking activity, Stabilizing E-PVC Viscosity at 20C (mPa.s): 280 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.15  M 62 A: Fields: Plastisol Properties: Transparent, Weather resistant, Phenol-free, No selflubrication, Very good initial color, Very good color hold, Kicking activity, Stabilizing E-PVC Viscosity at 20C (mPa.s): 200 Color Gardner (Max.): 2 Density at 20C (g/cm3): 1.15  18  Plastics Additives  Baerlocher U.S.A.: BAEROSTAB Organotin Stabilizers: Organotin Mercaptide/Carboxylates (Continued): Butyl (Continued): M 63: Fields: Extrusion, Rigid PVC: Technical Properties: Weather resistant, Phenol-free, Good self-lubrication, Very good initial color, Very good color hold Viscosity at 20C (mPa.s): 130 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.07  M 90: Fields: Plastisol Properties: Transparent, Weather resistant, Phenol-free, No selflubrication, Very good initial color, Very good color hold, Very good long term stability, Kicking activity, Stabilizing E-PVC Viscosity at 20C (mPa.s): 110 Color Gardner (Max.): 2 Density at 20C (g/cm3): 1.16  MST/M 260: Fields: Plastisol Properties: Transparent, Weather resistant, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability Viscosity at 20C (mPa.s): 300 Color Gardner (max.): 2 Density at 20C (g/cm3): 1.14  Octyl: OM 36: Fields: Calendering, Extrusion, Blown Films, Injection/Blow Molding, Rigid PVC: Technical, Semi-rigid PVC Properties: Transparent, Low odor, Phenol-free, No self-lubrication, Very good initial color, Very good color hold, Very good long term stability, Low fogging, Stabilizing E-PVC, High Vicat temperature Powder Color: White Density at 20C (g/cm3): 1.28  Stabilizers 19  Baerlocher U.S.A.: Lead Stabilizers: Lead Commodities: BAROSTAB V 220 MC: Chemical basic: Tribasic lead sulphate Residue on ignition (%): 96.0-98.0 Lead content (%): 81.0-83.0 Moisture (%): max. 0.2 Density (g/cm3): 6.6  Barostab V 420 MC: Chemical basic: tetrabasic lead sulphate Residue on ignition (%): 97.0-99.0 Lead content (%): 82.0-84.0 Moisture (%): max. 0.2 Density (g/cm3): 7.2  PEBETAL: Chemical basic: dibasic lead phthalate Residue on ignition (%): 78.5-80.5 Lead content (%): 74.0-76.0 Moisture (%): max. 0.2 Density (g/cm3): 4.5  Barostab Pb 51 S: Chemical basic: dibasic lead stearate Residue on ignition (%): 54.5-56.5 Lead content (%): 50.0-52.0 Moisture (%): max. 0.2 Density (g/cm3): 2.0  Barostab Pb 28 F: Chemical basic: neutral lead stearate Residue on ignition (%): 28.5-30.5 Lead content (%): 27.0-29.0 Moisture (%): max. 1.0 Density (g/cm3): 1.4  PEBEFOS FP: Chemical basic: dibasic lead phosphite Residue on ignition (%): 97.9-99.9 Lead content (%): 81.0-83.0 Moisture (%): max. 0.8 Density (g/cm3): 7.0  PEBEFOS (SULFOFOS C): Chemical basic: dibasic lead phosphite/sulphite Residue on ignition (%): 97.9-99.9 Lead content (%): 81.0-83.0 Moisture (%): max. 0.8 Density (g/cm3): 6.1  20  Plastics Additives  Baerlocher U.S.A.: Lead Stabilizers: Characteristics of Commodity Modifications: Basis BAROSTAB V 220 MC: BAROSTAB E 500: Residue on ignition (%): 83.1-87.1 Lead content (%): 72.0-76.0 Density (g/cm3): 3.8  Barostab TX 500: Residue on ignition (%): 79.5-82.5 Lead content (%): 66.5-69.5 Density (g/cm3): 3.3  Barostab SMS 500: Residue on ignition (%): 80.6-83.6 Lead content (%): 66.5-69.5 Density (g/cm3): 3.3  Barostab V 220 MC/DOP: Residue on ignition (%): 93.0-96.0 Lead content (%): 78.0-81.0 Density (g/cm3): 5.6  Barostab V 220 MC/DIDP: Residue on ignition (%): 93.0-96.0 Lead content (%): 78.0-81.0 Density (g/cm3): 5.6  Barostab V 220 TM: Residue on ignition (%): 93.0-96.0 Lead content (%): 78.0-81.0 Density (g/cm3): 5.6  Barostab V 220 MC/B: Residue on ignition (%): 93.0-96.0 Lead content (%): 78.0-81.0 Density (g/cm3): 5.8  Barostab V 220 MC/DIS: Residue on ignition (%): 92.0-95.0 Lead content (%): 72.0-76.0 Density (g/cm3): 5.4  Barostab V 220 LD: Residue on ignition (%): 88.0-91.0 Lead content (%): 72.0-76.0 Density (g/cm3): 4.6  Barostab V 220 LTM: Residue on ignition (%): 86.0-89.0 Lead content (%): 70.0-73.0 Density (g/cm3): 4.1  Stabilizers 21  Baerlocher U.S.A.: Lead Stabilizers: Characteristics of Commodity Modifications (Continued): Basis BAROSTAB V 420 MC: Barostab V 420 MC-B/DOP: Residue on ignition (%): 90.0-93.0 Lead content (%): 76.0-79.0 Density (g/cm3): 5.2  Basis PEBETAL: Barostab E 503: Residue on ignition (%): 67.7-69.7 Lead content (%): 62.6-65.6 Density (g/cm3): 3.0  Pebetal B: Residue on ignition (%): 76.0-79.0 Lead content (%): 70.6-73.6 Density (g/cm3): 4.3  Pebetal-DOP: Residue on ignition (%): 76.0-79.0 Lead content (%): 70.6-73.6 Density (g/cm3): 4.1  Pebetal TM: Residue on ignition (%): 76.0-79.0 Lead content (%): 70.6-73.6 Density (g/cm3): 4.1  Pebetal LTM: Residue on ignition (%): 71.1-73.1 Lead content (%): 64.0-67.0 Density (g/cm3): 3.3  22  Plastics Additives  Baerlocher U.S.A.: Lead Stabilizers: Characteristics of Commodity Modifications (Continued): Basis BAROSTAB Pb 51 S: Barostab E 504: Residue on ignition (%): 49.0-52.0 Lead content (%): 44.5-47.5 Density (g/cm3): 1.8  BAROPAN Pb 51 S/ES: Residue on ignition (%): 51.8-54.8 Lead content (%): 45.0-47.0 Density (g/cm3): 1.9  Barostab Pb 51 S/DOP: Residue on ignition (%): 52.8-55.8 Lead content (%): 48.0-51.0 Density (g/cm3): 1.9  Barostab Pb 51 S/TM: Residue on ignition (%): 52.8-55.8 Lead content (%): 48.0-51.0 Density (g/cm3): 1.9  Basis Pb 28 F: Barostab Pb 28 AV: Residue on ignition (%): 28.4-30.4 Lead content (%): 27.0-29.0 Density (g/cm3): 1.4  Barostab TX Pb 28: Residue on ignition (%): 29.0-31.0 Lead content (%): 28.0-30.0 Density (g/cm3): 1.4  Stabilizers 23  Baerlocher U.S.A.: Lead Stabilizers: Characteristics of Commodity Modifications (Continued): Basis PEBEFOS FP: BAROSTAB E 502 FP: Residue on ignition (%): 87.3-90.3 Lead content (%): 73.0-76.0 Density (g/cm): 4.4  Pebefos FP/ND: Residue on ignition (%): 94.0-97.0 Lead content (%): 78.8-81.0 Density (g/cm3): 5.9  Pebefos XS: Residue on ignition (%): 78.0-81.0 Lead content (%): 64.5-67.5 Density (g/cm3): 3.2  Basis Pebefos: Barostab E 502: Residue on ignition (%): 88.2-91.2 Lead content (%): 73.0-76.0 Density (g/cm3): 4.0  Pebefos /ND: Residue on ignition (%): 95.0-98.0 Lead content (%): 78.0-81.0 Density (g/cm3): 5.3  Barostab SMS 502: Residue on ignition (%): 81.9-84.9 Lead content (%): 67.8-70.8 Density (g/cm3): 3.2  24  Plastics Additives  Ciba Specialty Chemicals: Additives for Polyolefins: Antioxidants (AO) & Processing Stabilizers: Primary Antioxidants: Irganox 1010: High molecular weight, phenolic AO with low volatility; extends long-term thermal stability (LTTS)  Irganox 1035: Phenolic AO for cross-linked or carbon black containing systems (i.e. cable compounds)  Irganox 1076: Highly compatible, low-color phenolic AO for PE; available in preferred product forms.  Irganox 1081: High performance, highly compatible AO for cross-linked PE (i.e. high voltage power cable)  Irganox 1330: Extraction resistant phenolic AO with low water carryover for film and tape  Irganox 1425 WL: Phenolic AO with high extraction resistance; polyethylene wax carrier  Irganox 3114: Highly effective, non-discoloring phenolic antioxidant, high extraction resistance  Irganox E 201: Vitamin E, a highly efficient phenolic AO with consumer appeal and excellent MF stability  Irganox E 217: Granular, dispersible solid with GRAS coaddditives for food and medical packaging  Irganox E 218: Low dust vitamin E blend with calcium stearate for food and medical packaging  Irganox MD 1024: High performance phenolic AO for applications requiring metal deactivation (Cu passivator)  Stabilizers 25  Ciba Specialty Chemicals: Additives for Polyolefins: Antioxidants (AO) & Processing Stabilizers (Continued): Primary Antioxidants (Continued): Irganox E 201: Vitamin E, a high efficiency phenolic AO with consumer appeal and excellent MF stability  Irganox E 217: Granular, dispersible solid with GRAS co-additives for food and medical packaging  Irganox E 218: Low dust vitamin E blend with calcium stearate for food and medical packaging  Irganox MD 1024: High performance phenolic AO for applications requiring metal deactivation (Cu passivator)  26  Plastics Additives  Ciba Specialty Chemicals: Additives for Polyolefins: Antioxidants (AO) & Processing Stabilizers (Continued): Secondary Antioxidants: Irgafos 168: Hydrolytically stable phosphite, synergy with primary AO's; maintains color properties  Irgafos 38: High performance, highly compatible phosphite with low melt viscosity  Irgafos P-EPQ: High performance, highly compatible phosphonite with low melt viscosity, offers low color  Irganox PS 800: Extends long-term thermal stability as a synergist for phenolic antioxidants  Irganox PS 802: Extends long-term thermal stability as a synergist for phenolic antioxidants  Stabilizers 27  Ciba Specialty Chemicals: Additives for Polyolefins: Antioxidants (AO) & Processing Stabilizer Blends: Irganox B 1411: Synergistic phenol/phosphite blend mainly for PP applications  Irganox B 1412: Synergistic phenol/phosphite blend with higher phosphite levels mainly for PP applications  Irganox B 215: Synergistic, convenient phenol/phosphite blend for a balance of stabilization requirements  Irganox B 220: Synergistic blend; high phosphite content for demanding processing conditions  Irganox B 225: Synergistic, convenient blend with high phenolic AO content; extends LTTS  Irganox B 311: Synergistic phenol/phosphite blend for low water carry-over  Irganox B 313: Synergistic blend with high phenolic content for increased LTTS, low water carry-over  Irganox B 501 W: Synergistic blend of phenol/phosphite for PP fiber  Irganox B 561: Synergistic phenol/phosphite blend for demanding processing conditions  Irganox B 900: Synergistic phenol/phosphite blend with high phosphite levels mainly for PE applications  Irganox B 921: Synergistic phenol/phosphite blend with high phosphite levels mainly for PE applications  Irganox HP 2215: High performance, cost-effective stabilizer system with added processing stability  Irganox HP 2225: High performance, cost-effective stabilizer system for PP and demanding PE applications  28  Plastics Additives  Ciba Specialty Chemicals: Additives for Polyolefins: Antioxidants (AO) & Processing Stabilizer Blends (Continued): IRGANOX HP 2251: High performance, cost-effective stabilizer; additional phenolic AO for LTTS  Irganox HP 2411: High performance, cost-effective stabilizer system primarily for molding applications and fibers  Irganox HP 2921: High performance, cost-effective stabilizer system for demanding PE applications  Irganox XP 420: Highly efficient system for PE applications requiring melt flow control and low color  Irganox XP 490: Highly efficient processing stabilization; highly compatible with LLDPE and with low color  Irganox XP 620: Highly efficient stabilization for PP and HDPE for improved melt flow and color properties  Irganox XP 621: Highly efficient stabilization for PP and HDPE especially for LTTS, low color and melt stability  Stabilizers 29  Ciba Specialty Chemicals: Additives for Polyolefins: Hindered Amine Light Stabiizers (HALS): CHIMASSORB 119: High molecular weight HALS with low pigment interaction and LTTS in filled PP  Chimassorb 2020: High molecular weight HALS; superior light/thermal stability with low pigment interaction  Chimassorb 2030: Synergistic blend of high molecular weight HALS for superior light/thermal stability  Chimassorb 2040: Synergistic blend of high and low molecular weight HALS for superior light/thermal stability  Chimassorb 944: High molecular weight HALS with low volatility for a wide range of applications  TINUVIN 111: Synergistic blend of high molecular weight HALS, intermediate chemical resistance  Tinuvin 123: Non-interacting, nonbasic NOR-HALS for liquid systems  Tinuvin 123 S: Non-interacting, nonbasic NOR-HALS in free-flowing solid form, for molding application5  Tinuvin 492: Synergistic, pesticide resistant UV stabilizer blend for midterm agricultural film  Tinuvin 494: Synergistic, pesticide resistant UV stabilizer blend for longterm agricultural film  Tinuvin 622: Oligomeric HALS with excellent color, for critical welding of film and sheets  Tinuvin 765: Liquid, low molecular weight HALS for liquid color systems  Tinuvin 770: Low molecular weight HALS, particularly for thick section applications  30  Plastics Additives  Ciba Specialty Chemicals: Additives for Polyolefins: Hindered Amine Light Stabilizers (HALS) (Continued): Tinuvin 783: Synergistic blend of high molecular weight HALS with the highest level food contact clearances  Tinuvin 791: Blend of high and low molecular weight HALS for synergistic performance in thick sections  Tinuvin C 353: Highest performance system for pigmented PP fiber  Stabilizers 31  Ciba Specialty Chemicals: Additives for Polyolefins: PhenolFree Stabilizers: FIBERSTAB L 112: Phenol-free stabilization system, gas fade resistant  IRGASTAB FS 210: Phenol-free process/light-stabilizer, low color, gas fade resistant  Irgastab FS 410: Phenol-free process/light-stabilizer, low color, gas fade resistant  Irgastab FS 811: Light-stabilizer system, phenol-free process stabilizer  Irgastab FS 812: Light stabilizer system, phenol-free process stabilizer for pigmented applications  32  Plastics Additives  Ciba Specialty Chemicals: Additives for Polyolefins: Products for Recycling: RECYCLOSTAB range: Processing and long-term thermal stabilization for polyolefins and mixed plastics  RECYCLOSSORB 550: Light and basic stabilization for polyolefins and polyolefin blends  RECYCLOBLEND 660: Suitable for plastic recyclates containing paint or ink residues  Stabilizers 33  Ciba Specialty Chemicals: Light Stabilizers for Polyolefins: TINUVIN 123: Molecular Weight: 737.2 Melting Point C: liquid Specific Gravity @ 20C: 0.97 TGA: temp at 10% Wt. Loss: 265 Appearance: pale yellow liquid  Tinuvin 234: Molecular Weight: 448 Melting Point C: 135-141 Specific Gravity @ 20C: 1.22 TGA: Temp. @ 10% Wt. Loss: 315 Appearance: Light yellow powder  Tinuvin 326: Molecular Weight: 316 Melting Point C: 140-141 Specific Gravity @ 20C: 1.32 TGA: Temp. @ 10% Wt. Loss: 245 Appearance: Light yellow powder  Tinuvin 327: Molecular Weight: 358 Melting Point C: 154-158 Specific Gravity @ 20C: 1.26 TGA: Temp. @ 10% Wt. Loss: 235 Appearance: pale yellow powder  Tinuvin 328: Molecular Weight: 351.5 Melting Point C: 79-87 Specific Gravity @ 20C: 1.17 TGA: Temp. @ 10% Wt. Loss: 230 Appearance: off-white powder  Tinuvin 622: Melting Point C: 55-70 Specific Gravity @ 20C: 1.18 TGA: Temp. @ 10% Wt. Loss: 335 Appearance: off-white powder  Tinuvin 770: Molecular Weight: 481 Melting Point C: 82-86 Specific Gravity @ 20C: 1.05 TGA: Temp. @ 10% Wt. Loss: 260 Appearance: white granules  34  Plastics Additives  Ciba Specialty Chemicals: Light Stabilizers for Polyolefins (Continued): Chimassorb 119: Molecular Weight: 2286 Melting Point C: 115-150 Specific Gravity @ 20C: 1.03-1.05 TGA: Temp. at 10% Wt. Loss: 350 Appearance: light yellow granules  Chimassorb 944: Molecular Weight: (579)n Mn>2500 Melting Point C: 120-150 Specific Gravity @ 20C: 1.07 TGA: Temp. at 10% Wt. Loss: 375 Appearance: off-white powder  Chimassorb 2020: Molecular Weight: 2600-3400 Melting Point C: 120-150 Specific Gravity @ 20C: 1.01 TGA: Temp. at 10% Wt. Loss: 375 Appearance: transparent, slightly yellow pellets  Stabilizers 35  Ciba Specialty Chemicals: Light Stabilizer Systems: Product TINUVIN 111: Tinuvin 123 S: Tinuvin 492: Tinuvin 494: Tinuvin 783: Tinuvin 791: Tinuvin C 353: IRGASTAB FS 210: Irgastab FS 410: Irgastab FS 811: Irgastab FS 812: FIBERSTAB L 112:  Blend Composition Chimasorb 119:Tinuvin 622 Tinuvin 123:Polypropylene Chimassorb 119:Oxides:Stearates Chimassorb 119:Oxides:Stearates Chimassorb 944:Tinuvin 622 Chimassorb 944:Tinuvin 770 Chimassorb 119:Tinuvin 234 Irgastab FS 042:Chimassorb 119 Irgastab FS 042:Chimassorb 944 Irgastab FS 042:Tinuvin 791 Irgastab FS 042:Tinuvin 791:Tinuvin 328 HP-136:IRGAFOS 168:Tinuvin 622  36  Plastics Additives  Fairmount Chemical Co., Inc.: MIXXIM CD-12 Metal Deactivator: Mixxim CD-12 is an outstanding metal deactivator used in stabilization of polyolefins. Advantages: * Mixxim CD-12 enhances thermal and color stability while protecting or significantly increasing electrical insulating properties at the recommended levels of use. * The extremely low volatility of Mixxim CD-12 provides processing stability at even the highest temperatures as well as protection against long-term heat aging. * Easily incorporated into the polyolefin product, Mixxim CD-12 provides excellent dispersion at normal manufacturing temperatures. * Mixxim CD-12 has excellent compatibility with polyolefins and most other organic polymers and a generally high resistance to extraction in oil or aqueous media. Mixxim CD-12 is recommended for evaluation in the following applications: 1-Electrical parts such as plugs, outlets and switches. 2-Other plastic fabricated parts used in contact with catalytic materials 3-Wire insulation and jacketing. 4-Polymer powder and other coatings applied on metal. 5-Hot melt and solution adhesives. 6-Deactivation of catalyst residue during polymerization or plastic processing. 7-Deactivation of metal contaminants in plastics 8-Oils and lubricants in contact with metal surfaces and contaminants at high temperature. Typical Properties: Appearance: White powder Melting Point: 302C TSCA Nomenclature: Benzamide, 2-Hydroxy-N-1H-1,2,4-Triazol-3-yl Molecular Formula: C9H8N4O2 Molecular Weight: 204 CAS Registry No.: 36411-52-6  Stabilizers 37  Ferro Corp.: FERRO UV-CHEK Light Stabilizers for Polymers: UV-Chek AM-340: 2,4-di-t-butylphenyl 3,5-di-t-butyl-4-hydroxybenzoate CAS #4221-80-1 White to cream crystalline powder Melting Point: 196C Molecular Weight: 438 Specific Gravity: 1.08 Compatible with most polyolefins, styrenics, polycarbonate, thermoplastic polyesters and elastomers. Very soluble in chlorinated and aromatic hydrocarbons. Moderate solubility in ketones and esters. Low solubility in aliphatic hydrocarbons and alcohols. Insoluble in water. Effective stabilizer in: Polyolefins and nylon, especially pigmented applications. Typical uses: Molded containers, stadium seats, car bumpers. Olefins and nylon fibers for carpets and turf. Synergist/coadditive with: Other UV stabilizers, benzophenones, benzotriazoles, HALS and nickels.  UV-Chek AM-300: 2-hydroxy-4-n-octyloxy-benzophenone CAS # 1843-05-6 Light yellow crystalline powder Melting Point: 48C Molecular Weight: 326 Specific Gravity: 1.17 Compatible in a wide variety of plastics and coatings. Very soluble in aromatic, aliphatic and ketone solvents. Low solubility in alcohols. Insoluble in water. Effective UV light absorber for: A variety of polymers. Flexible and semi-rigid PVC applications such as automotive body side molding, instrument panels, glove boxes. Various surface coatings including automotive applications. Recommended as: A costabilizer for polyolefin mulch or greenhouse film.  38  Plastics Additives  Ferro Corp.: FERRO UV-CHEK Light Stabilizers for Polymers (Continued): UV-Chek AM-104: Nickel dibutyldithiocarbamate CAS #13927-77-0 Dark green brittle flakes Ni-content: 12.5% Melting Point: 88C Molecular Weight: 468 Specific Gravity: 1.22 Compatible with polypropylene, HDPE, thermoplastic elastomers. Very soluble in aromatic or chlorinated solvents. Moderate solubility in ketones. Low solubility in aliphatic solvents. Insoluble in water. Stabilizer for: Polyolefins, PP stretched tape (raffia) in woven packaging applications. Cotton bale wrap. HDPE pipe and pipe wrap. Outdoor carpeting and synthetic turf. Use as: An antioxidant/antiozonant for SBR, NBR, CR, CO, IIR. Improves heat resistance of EPDM and CSM.  UV-Chek AM-205: Thio-bis-2,2'(4(1,1,3,3-tetramethylbutyl-phenol)-Nickel-2-ethylhexanoate CAS # 38727-83-2; 7580-31-6 Light green brittle flakes Ni-content: 13.0% Melting Point: 140C Molecular Weight: 1630 (wt. avg.) Specific Gravity: 1.19 Compatible with polypropylene, polyethylene and elastomers. Very soluble in aromatic or chlorinated solvents. Moderate solubility in aliphatic hydrocarbons and ketones. Insoluble in water. Ideally suited for: Polyethylene film for agricultural, construction and packaging. Does not interact with most common pesticides. Especially suited for: Pigmented polyolefin applications such as polypropylene indoor/outdoor carpets and synthetic turf. Synergistic combination with ZnO or AM-300.  Stabilizers 39  Ferro Corp.: FERRO UV-CHEK Light Stabilizers for Polymers (Continued): UV-Chek AM-595: Proprietary organic/inorganic complex containing Ba, Na and P. Fine white, free flowing powder Avg. Particle Size: 30 microns Specific Gravity: 2.12 Hygroscopic Disperses but does not melt or dissolve completely in polymers or solvents. Effective UV stabilizer in: Rigid or flexible PVC, including profiles, auto roofs, sheeting. Heat and Light Stabilizer for: CPE and CPVC. Single ply roofing and pond liners of CPE. Heat stabilizer for PCDC. Acid scavenger in: Flame retardant plastics. Reduces mold corrosion and extends the molding range. Prevents discoloration.  40  Plastics Additives  Ferro Corp.: THERM-CHEK Heat Stabilizers: BaZn: 120 L0HF: Types: Liquid, Primary Stabilizer Processes: Extrusion, Injection Molding, Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good High Flash (Liquids), ESO Compatibility  130: Types: Liquid, Primary Stabilizer Processes: Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Good Long Term Stability: Good ESO Compatibility  134: Types: Liquid, Primary Stabilizer Processes: Extrusion, Injection Molding Applications: General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Excellent  139: Types: Liquid, Primary Stabilizer Processes: Calendering, Extrusion, Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good  1159 SF: Types: Liquid, Primary Stabilizer Processes: Extrusion, Injection Molding, Plastisol Applications: Application Specific Product Attributes: Early Color Hold: Good Long Term Stability: Good High Flash (Liquids), ESO Compatibility  6264: Types: Powder, Primary Stabilizer, Secondary Stabilizer/Booster Processes: Extrusion, Injection Molding Applications: General Purpose Product Attributes: Early Color Hold: Good Long Term Stability: Excellent  BH 940: Types: Powder, Primary Stabilizer Processes: Calendering, Extrusion Applications: General Purpose Product Attributes: Early Color Hold: Good Long Term Stability: Excellent  Stabilizers 41  Ferro Corp.: THERM-CHEK Heat Stabilizers (Continued): BaZn (Continued): PS 380: Types: Liquid, Primary Stabilizer Processes: Plastisol Applications: Application Specific Product Attributes: Early Color Hold: Good Long Term Stability: Good  SP 175: Types: Liquid, Primary Stabilizer Processes: Calendering, Extrusion Applications: Crystal Clear, Filled White, General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Excellent  SP 1363: Types: Liquid, Primary Stabilizer Processes: Plastisol Applications: Crystal Clear Product Attributes: Early Color Hold: Excellent Long Term Stability: Good ESO Compatibility  BaCd/BaCdZn: 6-V-6A: Types: Liquid, Primary Stabilizer Processes: Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Excellent ESO Compatibility  1238: Types: Liquid, Primary Stabilizer Processes: Calendering, Extrusion, Injection Molding, Plastisol Applications: Crystal Clear, General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good ESO Compatibility  6098: Types: Liquid, Primary Stabilizer Processes: Extrusion, Injection Molding, Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Good Long Term Stability: Excellent ESO Compatibility  42  Plastics Additives  Ferro Corp.: THERM-CHEK Heat Stabilizers (Continued): BaCd/BaCdZn: (Continued): SP 530: Types: Liquid, Primary Stabilizer Processes: Calendering, Extrusion, Injection Molding, Plastisol Applications: Crystal Clear, Filled White, General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good ESO Compatibility  SP 1179: Types: Powder, Primary Stabilizer Processes: Calendering, Extrusion, Injection Molding Applications: Filled White, General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Excellent  CaZn: 360: Types: Liquid, Primary Stabilizer Processes: Calendering, Plastisol Applications: Crystal Clear, General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good High Flash (Liquids)  362: Types: Liquid, Primary Stabilizer Processes: Calendering, Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good High Flash (Liquids)  SP 356: Types: Powder, Secondary Stabilizer/Booster Processes: Extrusion Applications: Filled White, General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good  SP 362: Types: Powder, Secondary Stabilizer/Booster Processes: Calendering Applications: Filled White Product Attributes: Early Color Hold: Excellent Long Term Stability: Good  Stabilizers 43  Ferro Corp.: THERM-CHEK Heat Stabilizers (Continued): Non Toxic (CFR Title 21): 59-V-11: Types: Powder, Primary Stabilizer Processes: Extrusion, Injection Molding, Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Good Long Term Stability: Good  654: Types: Liquid, Primary Stabilizer Processes: Extrusion, Injection Molding, Plastisol Applications: Crystal Clear Product Attributes: Early Color Hold: Good Long Term Stability: Good High Flash (Liquids) ESO Compatibility  659: Types: Liquid, Primary Stabilizer Processes: Extrusion, Injection Molding, Plastisol Applications: Crystal Clear Product Attributes: Early Color Hold: Good Long Term Stability: Good High Flash (Liquids) ESO Compatibility  707X: Types: Paste, Primary Stabilizer Processes: Extrusion, Injection Molding, Plastisol Applications: Crystal Clear Product Attributes: Early Color Hold: Excellent Long Term Stability: Good High Flash (Liquids) ESO Compatibility  44  Plastics Additives  Ferro Corp.: THERM-CHEK Heat Stabilizers (Continued): Non Toxic (CFR Title 21) (Continued): 760X: Types: Paste, Primary Stabilizer Processes: Extrusion, Injection Molding, Plastisol Applications: Crystal Clear Product Attributes: Early Color Hold: Good Long Term Stability: Good High Flash (Liquids) ESO Compatibility  763: Types: Paste, Primary Stabilizer Processes: Extrusion, Injection Molding, Plastisol Applications: Crystal Clear Product Attributes: Early Color Hold: Good Long Term Stability: Good High Flash (Liquids) ESO Compatibility  5526: Types: Liquid, Secondary Stabilizer/Booster Processes: Calendering, Extrusion, Injection Molding, Plastisol Applications: Crystal Clear Product Attributes: Early Color Hold: Good Long Term Stability: Excellent High Flash (Liquids) ESO Compatibility  PLAS CHEK 775: Types: Liquid, Secondary Stabilizer/Booster Processes: Calendering, Extrusion, Injection Molding, Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Good Long Term Stability: Excellent  SP 1546: Types: Powder, Primary Stabilizer Processes: Extrusion, Injection Molding, Plastisol Applications: Crystal Clear, Filled White, General Purpose Product Attributes: Early Color Hold Long Term Stability  Stabilizers 45  Ferro Corp.: THERM-CHEK Heat Stabilizers (Continued): Phosphites: 904: Types: Liquid, Secondary Stabilizer/Booster Processes: Calendering, Extrusion, Injection Molding, Plastisol Applications: Crystal Clear, General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good High Flash (Liquids) ESO Compatibility  907: Types: Liquid, Secondary Stabilizer/Booster Processes: Calendering, Extrusion, Injection Molding, Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good High Flash (Liquids) ESO Compatibility  910: Types: Liquid, Secondary Stabilizer/Booster Processes: Calendering, Extrusion, Injection Molding, Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good High Flash (Liquids) ESO Compatibility  912: Types: Liquid, Secondary Stabilizer/Booster Processes: Calendering, Extrusion, Injection Molding, Plastisol Applications: Crystal Clear Product Attributes: Early Color Hold: Excellent Long Term Stability: Excellent High Flash (Liquids) ESO Compatibility  5221: Types: Liquid, Secondary Stabilizer/Booster Processes: Calendering, Extrusion, Injection Molding, Plastisol Applications: General Purpose Product Attributes: Early Color Hold: Good Long Term Stability: Good High Flash (Liquids) ESO Compatibility  46  Plastics Additives  Ferro Corp.: THERM-CHEK Heat Stabilizers (Continued): Sn: 820: Types: Liquid, Primary Stabilizer Processes: Calendering, Extrusion, Injection Molding Applications: Crystal Clear Product Attributes: Early Color Hold: Good Long Term Stability: Good High Flash (Liquids) ESO Compatibility  835: Types: Liquid, Primary Stabilizer Processes: Plastisol Applications: Crystal Clear Product Attributes: Early Color Hold: Good Long Term Stability: Good High Flash (Liquids) ESO Compatibility  840: Types: Liquid, Primary Stabilizer Processes: Calendering, Extrusion, Injection Molding, Plastisol Applications: Crystal Clear, General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Excellent High Flash (Liquids) ESO Compatibility  Sr: 135: Types: Liquid, Primary Stabilizer Processes: Extrusion, Plastisol Applications: Filled White Product Attributes: Early Color Hold: Excellent Long Term Stability: Good ESO Compatibility  Stabilizers 47  Ferro Corp.: THERM-CHEK Heat Stabilizers (Continued): Zn: 5019: Types: Liquid, Secondary Stabilizer/Booster Processes: Calendering, Extrusion, Injection Molding, Plastisol Application: Application Specific Product Attributes: Early Color Hold: Excellent Long Term Stability: Poor High Flash (Liquids) ESO Compatibility  6134: Types: Powder, Secondary Stabilizer/Booster Processes: Calendering, Extrusion, Injection Molding Application: General Purpose Product Attributes: Early Color Hold: Excellent Long Term Stability: Good  48  Plastics Additives  Halstab: Non-Lead Stabilizers: HALSTAB 1214: Composition: Zinc Free Tin Synergist Appearance: Fine, light colored powder Specific Gravity: 2.10-2.15 % Retained (325 Mesh): 0.5% max. Low cost costabilizer for use with organotin atabilizers. Nonlubricating, non-toxic and easily dispersed. Effective with all types of tin stabilizers. Primary applications: Rigid PVC siding, profile, pipe and molded fittings. Also effective in flexible PVC applications when combined with an organotin stabilizer.  Halstab 1219: Composition: Coated Acid Absorber Appearance: Fine, light colored powder Specific Gravity: 2.10-2.15 % Retained (325 Mesh): 0.5% max Costabilizer for use with lead stabilizers specifically to improve stability in the presence of destabilizing flame retardant and smoke suppressant additives. Primary applications: Plenum cable jackets and related constructions.  Halstab 1180: Composition: Barium/Zinc Based Stabilizer System Appearance: Fine, light colored powder Specific Gravity: 1.75-1.80 % Retained (325 Mesh): 1.0% max. Alternative to lead based stabilizers for wire & cable applications. Does not require ESO.  Halstab 1130: Composition: Non-toxic, Calcium/Zinc/Acid Acceptor Blend Appearance: Fine, white powder % Active: 100% % Retained (325 Mesh): 0.5% max. Moisture: 0.5% max. Low cost non-toxic calcium/zinc stabilizer with equivalent effectiveness to tribasic lead sulfate. Epoxidized oils are not required with Halstab 1130. Primary applications: Automotive wire and general purpose filled extrusions.  Stabilizers 49  Halstab: Non-Lead Stabilizers (Continued): Halstab 1131: Composition: Non-toxic, Zinc/Acid Acceptor Blend Appearance: Fine, white powder % Active: 100% % Retained (325 mesh): 0.5% max. Moisture: 0.5% max. Low cost non-toxic zinc carboxylate acid acceptor blend. Primary applications: Powder booster for liquid stabilizers. Sole stabilizer for highly filled compounds such as extruded cove base.  Halstab 1201: Composition: Calcium/Zinc Based Stabilizer System Appearance: Fine, light colored powder Specific Gravity: 1.74-1.79 Low cost, non-toxic slightly lubricating calcium/zinc stabilizer with the effectiveness of a lead stabilizer. Does not require ESO. Epoxidized oils are not necessary. Primary applications: Cable jackets and other filled compounds. General purpose and flexible PVC compounds. Can also be used as a booster for liquid stabilizers.  50  Plastics Additives  Halstab: Powdered Lead Stabilizers: HALBASE 10: Chemical Type: Tribasic Lead Sulfate % PbO: 88.7 Specific Gravity: 6.9 PVC Application: Wire & Cable 60-90 Degrees  Halbase 10 EP: Chemical Type: Tribasic Lead Sulfate/Coated % PbO: 83.2 Specific Gravity: 5.0 PVC Application: Wire & Cable 60-90 Degrees  Halbase 11: Chemical Type: Basic Lead Sulfate % PbO: 84.5 Specific Gravity: 6.7 PVC Application: Polymeric/Polyester  Halbase 100: Chemical Type: Modified Basic Lead Sulfate % PbO: 65.5 Specific Gravity: 5.0 PVC Application: Foams & Plastisols  Halbase 100 EP: Chemical Type: Modified Basic Lead Sulfate/Coated % PbO: 66.6 Specific Gravity: 4.3 PVC Application: Wire & Cable 60-80 Degrees  HALCARB 20: Chemical Type: Basic Lead Carbonate % PbO: 87.7 Specific Gravity: 6.9 PVC Application: Wire & Cable 60-80 Degrees UV Exposure  Halcarb 20EP: Chemical Type: Basic Lead Carbonate/Coated % PbO: 81.5 Specific Gravity: 5.1 PVC Application: Wire & Cable 60-80 Degrees  Halcarb 200: Chemical Type: Modified Basic Lead Carbonate % PbO: 66.1 Specific Gravity: 5.0 PVC Application: Wire & Cable 60-80 Degrees  Stabilizers 51  Halstab: Powdered Lead Stabilizers (Continued): HALCARB 200 EP: Chemical Type: Modified Basic Lead Carbonate/Coated % PbO: 48.2 Specific Gravity: 3.6 PVC Application: Wire & Cable 60-80 Degrees  HALSTAB 30: Chemical Type: Lead Sulphophthalate Complex % PbO: 85.0 Specific Gravity: 5.9 PVC Application: Electrical Tape  Halstab 30 EP: Chemical Type: Lead Sulphophthalate Complex/Coated % PbO: 79.0 Specific Gravity: 5.0 PVC Application: Profiles  Halstab 31: Chemical Type: Lead Sulphophthalate Complex/Modified % PbO: 65.2 Specific Gravity: 3.8 PVC Application: Wire & Cable 60-105 Degrees  Halstab 60: Chemical Type: Lead Sulphophthalate Complex % PbO: 83.5 Specific Gravity: 5.4 PVC Application: Wire & Cable 60-105 Degrees  Halstab 60 EP: Chemical Type: Lead Sulphophthalate Complex/Coated % PbO: 77.6 Specific Gravity: 4.4 PVC Application: Wire & Cable 60-105 Degrees  Halstab 600 EP: Chemical Type: Modified Lead Sulphophthalate Complex/Coated % PbO: 60.9 Specific Gravity: 3.8 PVC Application: Wire & Cable 60-105 Degrees  HALTHAL: Chemical Type: Dibasic Lead Phthalate % PbO: 78.5 Specific Gravity: 4.6 PVC Application: Wire & Cable 60-105 Degrees  52  Plastics Additives  Halstab: Powdered Lead Stabilizers (Continued): Halthal EP: Chemical Type: Dibasic Lead Phthalate/Coated % PbO: 73.9 Specific Gravity: 3.9 PVC Application: Wire & Cable 60-105 Degrees  HALPHOS: Chemical Type: Dibasic Lead Phosphite % PbO: 90.2 Specific Gravity: 6.9 PVC Application: UV Exposure  Halphos EP: Chemical Type: Dibasic Lead Phosphite/Coated % PbO: 82.5 Specific Gravity: 5.0 PVC Application: UV Exposure  HALSTAB TLF: Chemical Type: Tetrabasic Lead Fumarate % PbO: 89.0 Specific Gravity: 6.5 PVC Application: PVC Cable & Chlorosulfonated PE  Halstab TLM: Chemical Type: Tribasic Lead Maleate % PbO: 89.5 Specific Gravity: 6.3 PVC Application: PVC Cable & Chlorosulfonated PE  HAL-LUB-D: Chemical Type: Dibasic Lead Stearate % PbO: 55.4 Specific Gravity: 2.0 PVC Application: Co-Stabilizer Lubricant  HAL-LUB-N: Chemical Type: Normal Lead Stearate % PbO: 30.2 Specific Gravity: 1.4 PVC Application: Co-stabilizer Lubricant  Stabilizers 53  Rhein Chemie Corp.: STABAXOL Antihydrolysis Agents: Product Selection and Market Overview Guide: Product Name Stabaxol I Stabaxol P Stabaxol P-100 Stabaxol 0115 Stabaxol KE-7646 Masterbatch Stabaxol KE-8059 Stabaxol KE-8993 Stabaxol KE-9193  Application/Market PET, EVA, Elastomers PET, PBT, EVA, Nylon, TPU, and Coatings PET and Polyamides for Monofilaments MDI and NDI Based Elastomers Thermalplastic Polyesters PET Thermalplastic Polyesters PET Processing Aid for Polyamides Monofilaments Processing Aid for Injection Molding  Stabaxol is the tradename for Carbodiimides from Rhein Chemie  Current Carbodiimide Application Areas: 1. 2. 3. 4. 5. 6. 7.  Stabilized monofilament PET yarn Thermoplastic polyester urethanes Castable polyester urethanes--TDI, MDI, NDI Millable gum urethanes Adhesive formulations Stabilized EVA copolymers Stabilized polyester polyol  New Carbodiimide Application Areas: 1. 2. 3. 4. 5.  Polycarbonate/PET blends Nylons Copolyester thermoplastic elastomers Epoxy based adhesives for composites Polyesteramide/Polyetheresteramide TPE's  54  Plastics Additives  Rhein Chemie Corp.: STABAXOL Antihydrolysis Agents (Continued): Stabaxol I: CAS No.: 2162-74-5 Antihydrolysis Agent 2,2',6,6'-Tetraisopropyldiphenyl Carbodiimide Application: Stabaxol I is an effective stabilizer for use in polyester based plastics. The product actively scavenges acidic groups as well as water. The product significantly increases the resistance to hydrolysis of polyester based urethane elastomers. Staboxol I also increases the long term stability of Baycoll and Desmocoll based adhesives in hot humid climates. The addition of 0.5 parts of Stabaxol I per 100 parts of polyester approximately doubles the level of hydrolysis resistance at ambient temperature compared to an unstabilized elastomer. The addition of 2 parts of Stabaxol I per 100 parts of polyester will increase hydrolysis resistance about four fold at ambient temperature. The use of more than 2 parts by weight is not recommended, since Stabaxol I may leach from some end products. Also, Stabaxol I does not have the catalytic effect on the isocyanate-polyol reaction that Stabaxol M had. Product Description: Physical form: Yellowish waxlike substance Melting point: Approx. 40C Density: Approx. 0.95 g/ml at 50C Stabaxol I is soluble in selected organic solvents such as acetone, methylene chloride, toluene, and polyester.  Stabilizers 55  Rhein Chemie Corp.: STABAXOL Antihydrolysis Agents (Continued): STABAXOL P Antihydrolysis Agent: CAS No.: 81972-48-7 Aromatic Polycarbodiimide Application: Stabaxol P is typically used to improve the hydrolytic stability of plastics containing ester groups, including millable gum polyurethanes and will significantly improve the hot air resistance of ethylene vinyl acetate copolymers. Due to wide variation in application areas, it is recommended that users determine the optimum level of addition for each system. Typically, 0.5 to 5 pbw of Stabaxol P per 100 parts of compound (100% solid) is recommended. Stabaxol P, as supplied, contains approximately 4% of inorganic material to prevent lump formation. Stabaxol P will not normally bloom from a finished polymer. Product Description: Density at 20C, g/ml: 1.05 Carbodiimide content, %: 12.5% minimum Melting Range: Begins to sinter above 50C Viscous above 70C Flows slowly about 90C Stabaxol P is an effective stabilizer intended mainly for polymers containing ester groups, to increase resistance to hydrolysis. The material is supplied as light colored flakes or powder and is an improved version of the product Stabaxol PCD.  Stabaxol KE 7646: CAS. No.: 25038-59-9/29963-44-8 Uses: Antihydrolysis agent for thermoplastic polyesters, especially for PET Product Description: Composition: 85 weight % (PET), 15 weight % aromatic polycarbodiimide (P100) Appearance: Yellowish cylindrical granules Density (20C/68F): Approx. 1.25 g/ml Melting Point: Approx. 260C (500F) Moisture content: 2800 CAS No.: 65447-77-0 Melting Range C: 55-70 Physical Form: Powder  UVASIL 299 LM/Uvasil 299 HM: MW: 1050-1300 (LM) MW: 1800-2800 (HM) CAS No.: 182635-99-0 Physical Form: Liquid  Uvasil 2000 LM/Uvasil 2000 HM: MW: 1050-1300 (LM) MW: 1800-2800 (HM) CAS No.: 182635-99-0 Physical Form: Powder, Granules  UV Absorbers  93  Harwick Standard Distribution Corp.: STANLIGHT UV Absorbers: UV Absorbers work by absorbing light energy before it has a chance to begin degradation, and changing it into harmless heat energy, which is dissipated throughout the substrate. UV absorbers are based on substituted hydroxybenzotriazoles, which are less prone to discoloration than absorbers based on hydroxybenzophenones.  Stanlight P UV Absorber: Stanlight P is economical but also volatile and less soluble in most solvents. Stanlight P is recommended especially for ambient cure systems, and for some resins in thick section. It is not recommended for two component urethane systems because of the possibility of the hydroxyl group on the stabilizer reacting with the isocyanate. (A similar situation is true with most HALS). Stanlight P can also be used in conjunction with Stanlight 770 to provide optimum protection to polyolefins in thick section, especially when pigmented with light-sensitive colorants. In addition, most coatings systems benefit from a combination of UV absorber and HALS.  Stanlight 770 UV Light Stabilizer: Stanlight 770 general purpose HALS recommended for a variety of materials. Especially recommended for polypropylene thick section, also polypropylene tape. Stanlight 770 can also be used in conjunction with Stanlight P to provide optimum protection to polyolefins in thick section, especially when pigmented with light-sensitive colorants. In addition, most coatings systems benefit from a combination of UV absorber and HALS. Stanlight 770 UV Light Stabilizer is a hindered amine light stabilizer. It is highly effective in the most demanding UV light stabilization applications including use in polypropylene, high-density polyethylene, EPDM, poly and all styrenic polymers. Stanlight 770 can be combined with UV absorbers to optimize a polymer’s UV light stabilization properties. It has no effect on the polymer’s color, as there is no absorption in the visual spectrum. Stanlight 770 is highly effective in applications exhibiting high surface areas or having large cross sections.  94  Plastics Additives  3V Inc.: UVASORB Light Stabilizers: Hindered Amine Light Stabilizers (HALS): UVASORB HA77 DF: Uvasorb HA77 DF is the most effective and most used low molecular weight HALS. Its monomeric structure makes it particularly suitable in the stabilization of thick plastic articles (>0.5 mm thick) A slow migration during time (years) increases the HALS concentration on the article surface where the UV degradation occurs. Uvasorb HA77 DF is highly effective and recommended for the light stabilization of polyolefins, olefin copolymers, PP elastomer blends, styrenic polymers, polyacetals and polyamides. The concentration of Uvasorb HA77 DF depends on the polymer type, the desired service life, and the formulation and the thickness of the plastic article. Typical dosages are between 0.05% and 0.5%. Low molecular weight stabilizers have some disadvantages such as: * too high migration rates for thin section applications * low resistance to extraction * poor resistance to thermal treatments To overcome these limits polymeric HALS were developed. 3V patented one of the most effective high molecular weight HALS: Uvasorb HA88.  Uvasorb HA88 FD: Uvasorb HA88 FD polymeric structure guarantees a molecular weight of about 3000 Dalton, superior to other similar products. Thanks to its high molecular weight and structure is very suitable for use in thin applications such as agricultural films, fibers, filaments and coatings to which confers an excellent Light and Long Term Heat Stability. Main features correlated to its structure and high molecular weight are: low volatility; high resistance to extraction; no effect on melt flow; low interaction with pigments. Uvasorb HA88 FD is used also in effective combinations with UV absorbers, low molecular weight HALS and antioxidants. The contribution of HALS to Long Term Heat Stability of polymers is already well documented in literature. The effect of HALS as Long Term Heat Stabilizers is competitive with traditional antioxidants up to 130C. This effect is particularly evident in PP Fibers in which Uvasorb HA88 FD is one of the most efficient and appreciated HALS in the market for the UV protection and also for the superior Long Term Heat Stabilization.  UV Absorbers  95  3V Inc.: UVASORB Light Stabilizers: Hindered Amine Light Stabilizers(Continued): Uvasorb HA78 FF: The combination of Uvasorb HA88 FD and Uvasorb HA77 DF gives very high light stability to polyolefins tapes and to the talc filled Polypropylene copolymer compounds usually used for automotive applications. The 50:50 blend of Uvasorb HA88 FD and Uvasorb HA77 DF is available under the trade name Uvasorb HA78 FF. Other advantages offered by 3V's HALS are: * High resistance to processing conditions (e.g. temperature) * High compatibility with a wide range of plastic materials * Low absorbtivity in visible region  96  Plastics Additives  3V Inc.: UVASORB Light Stabilizers: U.V. Absorbers: UV Absorbers (UVA) protect the polymers by absorbing the detrimental UV radiation responsible for their degradation. The protection mechanism exerted by UV Absorbers is based essentially on the absorption of UV radiation and consequent dissipation of the absorbed energy in a manner that does not lead to photooxidation, i.e. dissipation as heat. Hydroxy benzophenones and Hydroxyphenyl benzotriazoles are the UVA structures produced and studied by 3V. The large choice of structures allow them to cover all the application fields of different polymers. The light stability of an article is influenced by the polymer type, crystallinity, orientation degree, pigment type and concentration and also by the article thickness. The amount of radiation absorbed with an UVA is related to its concentration and extinction coefficient as well as to the sample thickness according to the Lambert Beer law. The internal layers far from the surface of the article are more protected than superficial ones. This is the main limitation of UVA that makes them suitable mainly for thick articles. Nevertheless the performance of UVA may be improved both in thin and thick articles when used in combination with HALS. 3V's UV absorbers family includes: Benzophenones: Uvasorb 3C Uvasorb 20H Uvasorb MET Uvasorb WP Benzotriazoles: Uvasorb SV Uvasorb S26 Uvasorb S27 Uvasorb S28  Section XXIII Viscosity Regulators  98  Plastics Additives  Degussa: AEROSIL for PVC Plastisols: This highly dispersed silica Aerosil has been an established concept in the plastics industry for years. In many cases where problems of controlling viscosity such as thickening and thixotropizing must be solved, Aerosil – thanks to its extremely fine particles and high chemical purity – has proven very effective. This statement also applies to the field of PVC plastisols.  Aerosil 200 Aerosil 300 Aerosil 380 Aerosil is a synthetically derived silica which is produced by hydrolysis of silicon tetrachloride in an oxyhydrogen flame. This synthesis results in very pure, highly-dispersed silicas, the specific surface areas of which are used to designate the various grades of the product. That is, the numbers 200, 300, and 380 indicate that the particular product has a specific surface area of 200, 300, and 380 m2/g respectively.  Aerosil 200: Fluffy white powder BET surface area: m2/g: 200+-25 Average primary particle size: nm: 12 Ignition Loss: %: 99.8  Aerosil 300: Fluffy white powder BET surface area: m2/g: 300+-30 Average primary particle size: nm: 7 Ignition Loss: %: 99.8  Aerosil 380: Fluffy white powder BET surface area: m2/g: 380+-30 Average primary particle size: nm: 7 Ignition Loss: %: 99.8  Section XXIV Waxes  100 Plastics Additives  CasChem, Inc.: PARICIN 220 Fatty Acid Amide: Paricin 220, a hydroxystearamide wax, is a brittle, tan solid Advantages: * High melting, hard, waxy solid * Good lubricating and anti-static properties * Mold release agent * Excellent alkali resistance Typical Properties: Color and Form: Tan Flakes Specific Gravity at 25C/25C: 1.049 Melting Point, C: 104 Acid Value: 2 Saponification Value: 14 Iodine Value: 4 Hydroxyl Value: 300 Volatile, 105C, %: 0.3 Solubility: Paricin 220 is insoluble in water and mineral spirits, but shows varying degrees of solubility in other liquids. For example: Solubility of Paricin 220 Solvent: (grams/100 ml solvent, 25C) Ethyl Alcohol 15 Cellosolve (Union Carbide Corp.) 7.7 Methyl Ethyl Ketone 1.6 Butyl Acetate 1.4 Toluene 0.6  Waxes  Ferro Corp.: PETRAC Waxes, Wax Blends, and GMS: Petrac 165 Paraffin Wax: Acid Value: 0.1 Melting Pt, F: 162 Color, Gardner (1963): 1 Congealing Point, F: 158 Needle Penetration @ 77F (ASTM D-1321): 15 Form: Flake, Prill  Petrac 215 Oxidized Polyethylene Wax: Acid Value: 12 Melting Pt, F: 212 Color, Gardner (1963): 2 Penetration Hardness (ASTM D-5): 4 Form: Powder  Petrac 380-165/215 Blend: Needle Penetration @ 77F (ASTM D-1321): 10 Form: Prill  Petrac 480-165/215/Calcium Stearate Blend: Color, Gardner (1963): 2 Congealing Point, F: 162 Ash, % (as CaO): 3.0 Moisture, %: 0.5 Free Fatty Acid, %: 1.5 Form: Prill  Petrac GMS Glycerol Monostearate: Acid Value: 2 Melting Pt, F: 140 Color, Gardner (1963): 1 Iodine Value: 2.5 Free Glycerol, %: 1 Alpha Monoglycerides,%: 43 Form: Flake  101  102 Plastics Additives  Genesee Polymers Corp.: Silicone Waxes: EXP-58 Silicone Wax: A 100% active organo silicone wax copolymer. This unique product is recommended for use as a lubricant, mold release agent and internal lubricant for plastics. When combined with aliphatic solvents, such as mineral spirits, EXP-58 forms a dry, colorless film on substrates. This film is stable and will not break down in the presence of water. The lack of any dimethyl silicone removes the problems of orange peel, fisheyes, or similar effects normally associated with dimethyl silicone. Typical Properties: Appearance: White Solid Specific Gravity: 0.85 Wt./Gallon: 7.1 lbs Storage Stability: Indefinite Solubility: Aliphatic Hydrocarbon Solvents Melting Point: 43C  EXP-61 Amine Functional Silicone Wax: Genesee Polymers' EXP-61 is a 100% active amine functional silicone wax. This novel silicone wax copolymer is readily soluble after melting in mineral spirits to provide a solvent-based release agent. A dry, colorless film is formed on substrates that is recommended for evaluation as a lubricant, water repellent, anti-blocking agent and internal processing aids. Since EXP-61 contains no dimethyl silicone, it will not cause orange peel, fish eyes or similar effects associated with conventional silicones. Another outstanding feature of this product is the amine function-ality that provides temporary rust protection and good bonding to mold substrates. EXP-61 may be easily removed by steam cleaning or solvent wash. Typical Properties: Appearance: White Solid % Active: 100% Specific Gravity: 0.88 Wt./Gallon: 7.4 lbs Melting Point: 39C  Waxes  103  Genesee Polymers Corp.: Silicone Waxes (Continued): EXP-77 Silicone Wax: EXP-77 Silicone Wax is a 100% active silicone copolymer wax. This unique product is designed to provide good release of molded metal, plastic and rubber parts. The mercapto functionality provides both enhanced release performance and greater heat stability to the release film. When blended with other Genesee Polymers' fluids, EXP-77 makes an internal processing aid for molded rubber parts; with minimal effect on knitting properties and tensile strength. Typical Properties: Appearance: White Solid Wt./Gallon: 7.3 lbs. Specific Gravity: 0.88 % Active: 100% Melting Point: 115F Solubility: Aliphatic and Aromatic Hydrocarbon Solvents  GP-7101 Silicone Wax: Based on a combination of dimethyl silicone fluid with organic wax side chains. The combination of silicone and wax groups in GP-7101 suggests uses in mold release agents, rubber and plastic lubrication, textile lubricants, and as a formulation ingredient in waxes and polishes for automotive and furniture applications. Contains no free dimethyl silicone fluid and will not show the traditional transfer or wash-off associated with conventional silicone fluids used in polishes. Typical Properties: Appearance: White Solid Wt./Gallon: 7.0 lbs. Flash Point (P.M.C.C.): >300F Specific Gravity: 0.97 Active Ingredient: 100% Solubility: Aliphatic Hydrocarbons Chlorinated Solvents Melting Point: 25C-40C  GP-7102 Silicone Wax: Based on a combination of dimethyl silicone fluid with organic wax side chains. The unique grafted copolymer structure of GP-7102 provides a special range of lubrication and compatibility characteristics, suggesting uses in mold release agents, waxes and polishes, textiles and plastic lubricants, and as an ingredient in oil based metal working fluids. Typical Properties: Appearance (25C): Cloudy, Waxy Semi-Solid Wt./Gallon: 7.8 lbs Flash Point (P.M.C.C.): >200F Specific Gravity: 0.97 Active Ingredient: 100% Storage Stability: Indefinite Solubility: Aliphatic Hydrocarbons Chlorinated Solvents Melting Point: 100F-110F  104 Plastics Additives  Frank B. Ross Co., Inc.: Microcrystalline Wax: Composition: Microcrystalline Waxes consist of a matrix of extremely small crystals. They are sometimes referred to as amorphous wax--reflecting an early error based on the difficulty of identifying the presence of microscopic crystals. Their molecular structure consists of a complex mixture of hydrocarbons including normal paraffins, branched paraffins, monocyclic compounds and polycyclic compounds. Typical End Uses: * Detergent Cartons--paper to board * Bakery Cartons--glassine to board * Cake Mix Pouches--glassine to glassine * Snack Packages--glassine/foil/glassine * Ream and Roll Wrap--kraft to kraft * Electro Plating--masking agent * Impregnation--electrical capacitors, condensers * Caulking Compounds * Pipe Coating Compounds * Hot Melt Adhesives and Coatings  Ross No. White: 1329/1 1365 155W 1251/7 214 1275WH 1275W 180 15 863 190 1160/4 1135/15W  Melting Point F  Penetration 77F  140-150 140-150 150-160 150-160 160-170 165-175 170-180 180-185 180-185 190-200 190-200 195-205 195-206  25-30 25-30 25-35 10-15 10-15 60-80 25-35 8-15 8-15 3-5 5-12 5-12 3-7  125-135 140-150 140-150 150-160 160-170 170-180 170-180 170-180 172-182  35-45 25-30 25-30 25-35 5-15 25-35 15-20 25-30 15-25  175-185  18-22  195-205  3-7  Yellow: 130 669 1385 155A 165 1275ML 170 Amber 2305 171  Black: 170 Black  Powdered (White): 1135/15W  Waxes  105  Frank B. Ross Co., Inc.: Montan Wax: Montan Wax is derived from lignite which is vegetable matter partly mineralized to a product related to bituminous coal. The lignites from which the Montan Waxes are extracted are found chiefly in Central Europe and California. The method of extraction and refining is basically the same, both in this country and in Europe. The waxy part is extracted from the lignites (crushed to a powder form) by selective solvents. Then the wax is purified.  Grades Available: German—Crude: Prills, Powdered Domestic--Flakes, Powdered  Physical Properties: German--Crude: Melting Point: 181-192F (83.89C) Acid No.: 20-38 Saponification No.: 74-104 Ash, percent: 0.3-0.6 Rosin Test: Negative  Domestic--Crude--Refined: Melting Point: 175-190F (79.4-89C) Acid No.: 20-55 Saponification No.: 75-135 Ash, percent: 0.2-0.3 Rosin Test: Negative Color: Dark Brown, Brown, Tan  Bleached Montan Wax: Melting Point: 165-175F (73.9-79.4C) Acid No.: 1-10 Saponification No.: 30-45 Color: Off White  Compatibility: Vegetable Waxes Hydrocarbons Resins  Uses: Carnauba Substitutes Inks-Carbon Paper, Printing Polishes-Shoe, Automobile, Furniture Rubber Products Plastics Defoaming Agent Records Insulation Sizing Adhesives  106 Plastics Additives  Frank B. Ross Co., Inc.:  ROSS Wax #100: Fischer-Tropsch Wax:  Chemical and Physical Properties: A white hard wax with very high melting point and low viscosity. The analysis is as follows: Congealing Point: 200-215F Needle Penetration at 77F: 1-5 Percent of Oil: 0.5 max. Viscosity at 120C (SUS): 80 Acid Value: Nil Saponification Value: Nil Ash Content: 0.01% Color: White Form: Flakes Solubility: Is soluble hot in almost all solvents Uses: Wax Blends Floor Waxes Textiles Coatings Candles Hot Melts and Hot Melt Adhesives Paint and Varnish Printing Ink Carbon Paper Rubber and Plastic Electric and Electric PVC Asphalt  Increases melting point Increases gloss, solvent retention and heel marking resistance For impregnation and sealing On cheese, fruits and vegetables To increase the melting point and opacity As a component that increases the melting point without increasing the viscosity Dulling agent Adds abrasion resistance To increase the melting point and eliminate adherence As a mold release Good dielectric characteristics and high melting Isolation point As an external lubricant To increase melting point and reduce viscosity  Waxes  107  Frank B. Ross Co., Inc.: ROSS Wax No. 130, No. 145, No. 165: Petroleum waxes are used primarily to delay fusion and reduce the high melt viscosities associated with initial fusion in the extrusion of plastics. The most commonly used petroleum waxes are those melting at about 130 to 165F. This melting range represents carbon chains approximately 40 atoms long. Although the congealing point is the most common means of classifying petroleum based lubricants, it is not the determining factor in predicting external behavior. The extent of branching and presence of cyclic components greatly influence the external properties. Ross Wax No. 130, No. 145 and No. 165 are fully refined, high melting point petroleum waxes. They are widely used in the formulating of PVC and electrical wire and cable compounds, as well as other applications which require a lubricant which is effective in small quantities without danger of exudation.  No. 130: Form: Prills Color: White Specific Gravity (15c/15c): 0.930-0.936 Melting Point: 130-135F  No. 145: Form: Prills Color: White Specific Gravity (15c/15c): 0.930-0.936 Melting Point: 140-150F  No. 165: Form: Prills Color: White Specific Gravity (15c/15c): 0.930-0.936 Melting Point: 158-165F  108 Plastics Additives  Frank B. Ross Co., Inc.: Ross Wax 140: Synthetic High Melting Point Wax: Powdered: Physical Properties: A Lily-White, medium-hard wax which remains stable under prolonged molten conditions. Melting Point: 280-293F (138-145C) Flash Point: 530F Min Acid Number: 3-10 Specific Gravity: 0.9700 Penetration--ASTM D-52 at 100 grams: 4.5 Dielectric Strength: 233 Volts per mil Volume Resistivity: 0.99X10 13 Ohms-cm Dielectric Constant at 10 6 cycles: 2.28 Power Factor at 10 6 cycles: 0.020 Solubility in Hot Solvents: Naphtha Carbitol Xylene Isopropanol  Trichloroethylene  Insoluble in Solvents at Room Temperature and Insoluble in Water. Compatible With: Hydrocarbon Waxes Vegetable Waxes Fats  Ester Type Waxes Hydrogenated Castor Oil Rosin  Uses: As Ingredient, Finish or Processing Aid in: Adhesives Ammunition Asphalt Explosives Paints Pyrotechnics Polyvinyl Chloride Textile Finishes Anti-Adhesive, Anti-Blocking, Anti-Tack Agent Foundry Shell Molding Resins Hot Melt Coatings Lubricants--Internal, Mold Release, Surface Paper Components, Coatings Paper--Hot Cups and Dishes Powdered Metal Products Wire Drawing Compounds Wax Compounds Requiring Elevated Melting Points  Waxes  109  Frank B. Ross Co., Inc.: ROSS Wax 160: Synthetic High Melting Point Wax: Powdered: Physical Properties: A tan, medium hard wax which remains stable under prolonged molten conditions, except the color may darken. Melting Point: 315-330F (157-166C) Flash Point: 590 Min. Acid Number: Maximum 10 Iodine Value: 7.5 Specific Gravity: 1.0232 Penetration--ASTM D5-61 at 100 grams: 1-5 Dielectric Constant (1000 cycles): 3.0 Power Factor: 0.00977 Solubility in Hot Solvents: Naphtha Xylene Carbitol  Isopropanol Trichloroethylene Toluene  Insoluble in Solvents at Ordinary Temperatures or in Water. Compatible with: Hydrocarbon Waxes Hydrogenated Castor Oil Ester Type Waxes Fats Vegetable Waxes Rosin Raises Melting Point of Waxes: Added to other waxes and esters, their melting (dropping) points (ASTM D127-63) are raised. Uses: As Ingredient, Finish or Processing Aid: Adhesives Ammunition Explosives Paints Pyrotechnics Release Agent Textile Finishes Varnish Anti-Adhesive, Blocking, Tack Agent Foundry Shell Molding Resins Hot Melt Coatings Lubricants--Internal, Mold, Surface Paper Components, Coatings Propellants--Missiles, Rockets Powdered Metal Products Plastic Film  Section XXV Miscellaneous & Multipurpose Compounds  Miscellaneous & Multipurpose Compounds  111  Claude Bamberger Molding Compounds Corp.: BAMBERKO ULTIMAX Purging Compound: Hi-molecular Ultimax is formulated to purge all types of engineering and thermoplastic materials. It will not damage or scratch injection cylinders and extrusion barrels. It is recommended for use in swift color or resin changeovers and to clean equipment of carbonized residue Ultimax will not melt completely, and is designed to purge hi-heat and high temperature engineering plastics and other difficult purging jobs. While most purging compounds work best in a 350-450F (176 to 230 Celsius) range, Ultimax is designed for use in purging high heat engineering plastics in the 450-525F (230 to 275 Celsius) range. Compared to other purge compounds, Ultimax will clean equipment more quickly and more efficiently in a considerable saving of a manufacturer’s ‘downtime’. In most instances it will work without the need to change temperatures. Produced from prime resin, Ultimax is recommended for use in FDA approved food contact items... ...as well as for manufacturing medical products Ultimax minimizes unpleasant odors and fumes, making it environmentally friendly.  112 Plastics Additives  Buckman Laboratories, Inc.: Successful Applications of BUSAN 11-M1 in Plastic and Rubber Compounds: Busan 11-M1 is a multifunctional barium metaborate pigment used as a fire retardant, fungus inhibitor, and UV light stabilizer in polyvinyl chloride and other plastic and rubber compounds. Typical of PVC products compounded with Busan 11-M1 are automotive tops and trims, inflatable buildings, pond liners, roofing, and plastic-coated fabrics such as tarpaulins and awnings. The effectiveness of Busan 11-M1 as a fire retardant is restricted to polymers containing a halogen donor or to which one can be combined. Bromine compounds are somewhat more effective than other halogens but chlorinated paraffin and chlorindic anhydride have performed very well. Experience has indicated that Busan 11-M1 can replace antimony trioxide in most fire retardant formulations. Subject to the degree of halogenation and the degree of fire resistance required. Replacement can be 50 to 100%. In addition to providing after-flame resistance, Busan 11-M1 also reduces the time of afterglow (i.e., flameless combustion) and in many formulations reduces the amount of smoke generation. Other advantages over antimony trioxide are the low refractive index of Busan 11-M1 which prevents interference in tint and dye requirements and the fungicidal activity that characterizes barium metaborate. Busan 11-M1 is well known as a fungicide for coatings and plastics. Its advantages in plastics and plastic-coated fabrics over conventional organic fungicides are longevity in the film and efficacy unaffected by UV exposure. Products particularly susceptible by fungal disfigurement and/or deterioration include pond liners, tarpaulins, awnings, and shower curtains. Busan 11-M1 provides UV light stabilization to most polymeric materials including PVC and glass-reinforced polyester. Its durability in these materials is outstanding and thus extends the performance of UV absorbers.  Miscellaneous & Multipurpose Compounds  113  BYK-Chemie USA: Air Release Additives for PVC Plastisols: ...ensure consistent processing and high product quality by minimizing the entrapped air which is generated during production and subsequent processing. Effects of undesired air entrapments: during production and processing: * Long mixing and deaeration times * viscosity increase * temperature increase * rheological problems in the finished product: * haze * pin holes * color differences * print disturbance by porous surface  BYK-3105: Methlylalkyl-polysiloxan Density at 20C: g/ml: 0.91 Non-volatile matter: 10 minutes/150C: %: >98 Clear, light yellow liquid  BYK-3155: Compound of polyoxyalkylen-derivatives Density at 20C: g/ml: 1.13 Non-volatile matter: %: >80 Clear, colorless liquid  BYK-3160: Mixture of surface active substances with foam destroying properties Density at 20C: g/ml: 0.99 Refractive index: 1.473 Non-volatile matter: %: >98 Slightly, turbid yellowish liquid Recommended incorporation: To prevent the foam and blister formation during production and/or application the air release additive should be mixed with the plasticizer during plastisol preparation.  114 Plastics Additives  BYK-Chemie USA: Air Release Additives for Ambient Cure Polyester Resins: Undesired air inclusions are formed during resin manufacture and subsequent processing into finished parts of coatings. They restrict processability because they cause stable foam during filling and application. They reduce the quality of the finished parts. Air inclusions: * lower the chemical resistance * cause optical defects * reduce the physical properties Therefore: Air Release Additives should be a fixed component of every quality tuned polyester resin formulation.  BYK-A Series: Chemical characterization: Solution of foam destroying polymers, silicon free  A-555: Density at 20C/68F: g/ml: 0.88 Refractive index: 1.507 Non-volatile matter: %: 38 Hazen color index: max: 250 Flash point: C/F: 43/109  A-515: Density at 20C/68F: g/ml: 0.82 Refractive Index: 1.440 Non-volatile matter: %: 20 Hazen color index: max: 250 Flash point: C/F: 34/93  A 501: Density at 20C/68F: 0.89 Refractive Index: 1.500 Non-volatile matter: %: 44 Hazen color index: max: 200 Flash point: C/F: 46/115  A 500: Density at 20C/68F: 0.88 Refractive Index: 1.495 Non-volatile matter: %: 6.5 Hazen color index: max: 200 Flash point: C/F: 45/113  Miscellaneous & Multipurpose Compounds  115  BYK-Chemie USA: Air Release Additive/Agents: BYK-A 525: Air Release Additive for Thermoset Resin Systems Application Fields: Thermoset resin systems Technical Properties: BYK-A 525 is used to prevent air inclusions and porosity in thermoset resin systems such as unfilled/filled (e.g. with quartz) epoxy,polyurethane or phenolic resins, etc. Recommended Dosage and Incorporation: Based on total formulation weight: 0.1%-0.5% BYK-A 525 must be homogeneously stirred into the resin prior to the addition of the hardener. In filled systems it is recommended to add BYK-A 525 to the resin prior to the addition of filler to prevent air entrapment caused during the manufacturing process. Chemical Characterization: Solution of a polyether modified methylalkyl polysiloxane copolymer Typical Data: Weight per U.S. gallon: 7.17 lb./gal. Flash point: 38C/100F Density at 20C/68F: 0.86 g/ml Refractive index: 1.441 Non-volatile matter: 52% Appearance: clear to slightly turbid, colorless to yellowish liquid  BYK-A 530: Air Release Agent and Defoamer for Solvent-Based and Solvent-Free Systems Composition: Solution of foam destroying polymers and polysiloxanes Typical Physical Data: Density at 20C/68F: 0.81 Weight/U.S. gal (lb/gal): 6.74 Non-volatile matter in %: 5.0 Flash point: >95C/203F Solvents: Distillates (petroleum), hydrotreated light Recommended Amounts: % additive (delivery form) based upon: Total formulation: BYK-A 530: 0.2-0.5 Special Properties and Advantages: BYK-A 530 is an excellent defoamer and air release agent. It shows its effectiveness during both the production and processing of paint systems. BYK-A 530 is especially suitable for the usage in epoxy resins systems.  116 Plastics Additives  Chemax, Inc.: CHEMSTAT Compounds: Chemstat HTSA #1A (N-Oleyl Palmitamide): Chemstat HTSA #1A is a specially synthesized, nitrogeneous organic compound, designed for use as a slip additive for thermoplasticsparticularly BOP film. Due to the chemical composition of Chemstat HTSA #1A, it also imparts anti-block, anti-stat and mold release characteristics. Appearance @ 25C: Ivory beads Specifications: Color (APHA) 2% in IPA: 60 maximum % Fatty Acid: 2.0 maximum % Oleyl Amine: 2.0 maximum Melt Point, C: 63-80 Performance Features: * Superior use in BOPP film. * Provides superior slip and excellent anti-block characteristics  Chemstat HTSA #3B (Slip Agent-Stearyl Erucamide): Chemstat HTSA #3B is designed for use in most thermoplastics, to impart improved characteristics, such as slip, anti-blocking, and mold release. It is designed for plastic materials having process temperatures in excess of 300C. Typical Properties: Appearance @ 25C: Free flowing white beads Solubility in water: Insoluble Specifications: Color (Gardner): 5.0 Maximum Melting Point, C: 70-76 Acid Value: 2 Maximum Performance Features: * Easy to handle bead form * Exceptional thermal stability--no breakdown below 300C * Effective in a variety of thermoplastics resins: nylon, polyolefins, PVC, PVC copolymers and polyamides. * Can be successfully incorporated into high clarity thermoplastic film without impairment of the optical properties with no evidence of slip additive "plate-out".  Miscellaneous & Multipurpose Compounds  117  Chemax, Inc.: CHEMSTAT Compounds (Continued): Chemstat HTSA #3B/PR (Slip Agent-Stearyl Erucamide): Chemstat HTSA #3B/PR is designed for use in thermo-plastics, to impart improved characteristics; such as slip, antiblocking, and mold release. It is designed for plastic materials having process temperatures in excess of 300C. Typical Properties: Appearance @ 25C: Off-white powder Solubility in water: Insoluble Specifications: Color (Gardner): 40 Maximum Melting Point, C: 72-76 Acid Value: 8.0 Maximum Total Amine Value: 10.0 Maximum Performance Features: * Easy to handle free-flowing powder * Exceptional thermal stability-no breakdown below 300C * Effective in a variety of thermoplastic resins: nylon, polyolefins, PVC, PVC copolymers and polyamides * Can be successfully incorporated into high clarity thermoplastic film without impairment of the optical properties with no evidence of slip additive "plate out".  Chemstat HTSA#18 (Slip Agent-Primary Amide-Oleamide): Chemstat HTSA#18 is designed to modify the surface properties of LDPE and PP film. Chemstat primary amides are used as slip and antiblock agents in polyolefins and other polymers. They fuction by migrating to the polymer surface where they exert a lubricating effect. Typical Properties: Appearance @ 25C: Free flow white beads Iodine Value: 91 Solubility in water: Insoluble Specifications: Color (Gardner): 2 Maximum Melting Point, C: 71-76 Amide, %: 98 Minimum Moisture, %: 0.20 Maximum Acid Value: 1 Maximum Performance Features: * Reduces both the block tendency and the co-efficient of friction * Good slip agent * Exhibits a greater reduction in blocking tendency than any other primary amide * Thermal stability up to 195C * Bloom rate to the surface is faster with oleamide vs. erucamide  118 Plastics Additives  Chemax, Inc.: CHEMSTAT Compounds (Continued): Chemstat HTSA#18S (Slip Agent-Primary Amide-Stearamide): Chemstat HTSA#18S is designed to modify the surface properties of LDPE film. Chemstat primary amides are used as slip and anti-block agents in polyolefins and other polymers. They function by migrating to the polymer surface where they exert a lubricating effect. Typical Properties: Appearance @ 25C: Free flowing white beads Iodine Value: 2 Maximum Solubility in water: Insoluble Specifications: Color (Gardner): 5 Maximum Melting Point, C: 97-102 Amide, %: 97 Minimum Moisture, %: 0.50 Maximum Acid Value: 5 Maximum Performance Features: • Reduces both the block tendency and the co-efficient of friction. • Good slip agent. • Exhibits a greater reduction in blocking tendency than any other primary amide. • Thermal stability up to 170C. • Improved clarity vs. inorganic antiblock agents.  Chemstat HTSA#218/VIT (Slip Agent/Dispersant): Chemstat HTSA#218/VIT was developed as a slip agent/dispersant for polypropylene film applications. Typical Properties: Appearance: White solid Solubility in water: Insoluble Tertiary Amine, %: 97 Water, %: 0.8 Specifications: Color (Gardner): 3 Maximum Amine Value: 89-92 Acid Value: 5 Maximum FDA Status: As cited under 21 CFR 178.3130  Miscellaneous & Multipurpose Compounds  119  Danisco Cultor USA, Inc.: Products and Applications: Application: PP Injection Molding: Product: DIMODAN PM/Dimodan PVK/Dimodan PM PEL Effect: Excellent antistat and mold release properties Product: Dimodan PML 70 Effect: Outstanding antistat properties in impact copolymers Product: Dimodan ML 90 Effect: Immediate antistat effect and improved mold release properties. Application: PP Film and Sheet Extrusion Product: Dimodan PM/Dimodan PVK Effect: Antistat properties Application: PP Fibers Product: Dimodan MB 90 Effect: Excellent lubricant and processing aid. Especially suited for high temperature processing and high shear applications. Application: PP Thermoforming Product: Dimodan PM/Dimodan PVK Effect: Good lubricant and antistat properties Product: Dimodan MB 90 Effect: Antistat and lubricant properties, improving melt strength. Reduced additive volatility and degradation at high recycle rates Application: BOPP Product: Dimodan PM/Dimodan PVK Effect: Good antistat and lubricant properties Product: Dimodan MB 90 Effect: Antistat and lubricant properties. Imparts better polymer matrix compatibility Application: PP Foam Product: Dimodan PM/Dimodan PVK Effect: Improved foam stability  120 Plastics Additives  Danisco Cultor USA, Inc.: Products and Applications (Continued): Application: LDPE and EVA Copolymer Film: Product: DIMODAN MO 90 Effect: Excellent antifog properties at reduced loading levels Product: GRINDSTED PS 414 Effect: Outstanding antistat properties Application: LLDPE Film Product: Grindsted PS 414 Effect: Outstanding antistat properties Application: HDPE Injection Molding Product: Dimodan PML 70 Effect: Excellent antistat properties Product: Dimodan PM/Dimodan PVK Effect: Antistat properties Application: PE Foam Product: Dimodan PM Effect: Improved foam stability  Miscellaneous & Multipurpose Compounds  121  Danisco Cultor USA, Inc.: Recommended Glycerol Ester Based Additives for Polyolefins: Danisco Cultor offers the following glycerol ester based plastics additives for various polypropylene and polyethylene application areas:  DIMODAN PVK: Is a distilled monoglyceride (minimum monoester content in excess of 90%) made from edible, fully hydrogenated vegetable oil. It is used as a mold release agent, processing aid, dispersing aid, and/or antistat in polyolefins. Dimodan PVK is also used as a lubricant in plastics extrusion and for surface modification of pigments and fillers.  Dimodan PM: Is a distilled monoglyceride (minimum monoester content in excess of 90%) made from edible, fully hydrogenated lard or tallow. It too may be used as an antistat, mold release agent, dispersing aid and/or processing aid in polyolefins, or as a lubricant in extrusion. Dimodan PM is also used for surface modification of fillers and pigments.  Dimodan PM PEL: Is a pellet form of Dimodan PM. It is particularly attractive to many polymer producers and processors who favor this product form's handling characteristics over those of beaded or powdered materials.  Dimodan ML 90: This product functions as a good mold release agent with immediate antistat effect and improved mold release properties, over distilled glycerol monostearate (GMS), in injection molding applications.  Dimodan MB 90: Features lower volatility during polymer processing when compared to conventional GMS. Therefore, Dimodan MB 90 brings advantages to a number of high temperature processing applicatons; such as fiber extrusion, thermoforming and BOPP film.  Dimodan MO 90: Is an effective antifog agent in various LDPE and EVA copolymer polyethylene food packaging applications. It will also work as a wetting agent in LDPE films.  122 Plastics Additives  Danisco Cultor USA, Inc.: Recommended Glycerol Ester Based Additives for Polyolefins (Continued): DIMODAN PML 70: Is a newly designed and engineered glycerol ester. Developmental work has demonstrated Dimodan PML 70 to be an extremely effective antistatic agent in injection molded block (impact) copolymer PP and injection molded HDPE applications.  GRINDSTED PS 101: Is a triglyceride (GTS). Danisco Cultor recommends PS 101 as an external lubricant which can be used to conserve energy during the extrusion of reactor grade PP.  Grindsted PS 414: Is yet another performance tailored new product from Danisco. It functions as a good antistat for LDPE and LLDPE films. PS 414 performs well in comparison to the ethoxylated amines and amide type antistats which have FDA restrictions on their use in food contact applications. Since all of the components of Grindsted PS 414 are fully FDA sanctioned for use in LDPE and LLDPE, it should be considered by the formulator for applications needing FDA clearance and excellent antistatic functionality.  Miscellaneous & Multipurpose Compounds  123  Dyneon: DYNAMAR Polymer Processing Additives: FX 5911X: Features and Benefits: • Broadens extrusion processing capabilities of polyolefin resins • Ideal for use in high viscosity, high molecular weight polyolefins • Excellent thermal stability for high temperature processing • Reduces or eliminates die build-up • Lowers apparent melt viscosity • For use at very low levels • Free-flowing fluoropolymer processing aid • Can offer performance and cost advantages  FX 5920A: Features and Benefits: • Broadens extrusion capabilities of polyolefin resins • Ideal for use in polyolefin resins containing antiblocking agents, pigments and other inorganic additives • Reduces or eliminates melt fracture • Reduces or eliminates die build-up • Lowers apparent melt viscosity • For use at very low levels • Free-flowing fluoropolymer based processing aid • Can offer performance and cost advantages  FX 5920B: Features and Benefits: • Broadens extrusion capabilities of polyolefin resins • Designed for x-ray fluorescence analytical test methods • Ideal for use in polyolefin resins containing antiblocking agents, pigments and other inorganic additives • Reduces or eliminates melt fracture • Reduces or eliminates die build-up • Lowers apparent melt viscosity • For use at very low levels • Free-flowing fluoropolymer-based processing aid • Can offer performance and cost advantages  FX 9613: Features and Benefits: • Broadens extrusion processing capabilities of polyolefin resins • Ideal for use in low melt index LLDPE and high molecular weight HDPE resins • Excellent thermal stability for high temperature processing • Reduces or eliminates melt fracture • Reduces or eliminates die build-up • Lowers apparent melt viscosity • For use at very low levels • Free-flowing fluoropolymer-based processing aid • Can offer performance and cost advantages  124 Plastics Additives  Paratherm Corp.: PARATHERM NF Heat Transfer Fluid: The odorless NF fluid is widely used in plastics and rubber machinery to precisely and uniformly control temperature in molds, barrels, dies, screws, platens, and calender rolls to 600F. It is highly efficient, cost effective and thermally stable. Paratherm NF heat transfer fluid is rated for service to 600F. Completely non-toxic, the NF fluid is exceptionally safe to use and easy to dispose. Used or contaminated fluid can be safely combined with spent lubricating oils and recycled locally (EPA, citation 57FR21524). The NF fluid is specified in a variety of applications, world wide. It is tough and durable with a proven record of success under demanding conditions, yet is easy and safe to handle. Physical Properties: Feedstock base: NF/USP hydrotreated hydrocarbon Appearance: Transparent, Colorless, Bright Taste & Odor: None Optimum Use Range: 120 to 600F (49C to 316C) Maximum Recommended Film Temperature: 640F (338C) Flash Point (coc): 345F (174C) Autoignition: 690F (366C) Atmospheric Boiling Point, 10% Fraction: 650F (343C) Average Molecular Weight: 350 Density, lb/gal: 7.25  Miscellaneous & Multipurpose Compounds  125  Rhein Chemie Corp.: Product Selection and Market Overview Guide for Catalysts: Product Name: DESMORAPID DB Desmorapid DMEA Desmorapid PP Desmorapid PS-208 Desmorapid PV Desmorapid SO Desmorapid 726-B RC Catalyst 104 RC Catalyst 105  RC RC RC RC RC RC RC RC  Catalyst Catalyst Catalyst Catalyst Catalyst Catalyst Catalyst Catalyst  108 115 117 201 6063 6064 6068 6069  RC RC RC RC  Catalyst Catalyst Catalyst Catalyst  6072 6076 6080 6082  Application/Market Flexible and rigid foam Flexible, Semi-flexible, and rigid foam Slabstock/Bunstock Insulation Flexible, integral skin, HR foam, coatings and adhesives Flexible, flexible molded, and microcellular foams Automotive seating and furniture Flexible and rigid foam Insulation/structural panels Flexible slabstock foam, elastomers and coatings Structural and rigid foam Appliance, boardstock, and structural panels Rigid, flexible/slabstock foam, microcellular plastomers,and integral skin foam Rigid, flexible, integral skin, flexible molded,microcellular foam, coatings, and elastomers Flexible and HR foam Rigid foam Coatings, adhesives, and elastomers Flexible/slabstock foam, coatings and elastomers Rigid foam Flexible molded foams Automotive/seating foam Flexible molded foams Automotive/seating foam Reaction injection molding (RIM)Automotive/door panel foam Flexible slabstock foam Elastomers and coatings Microcellular foam Shoe soles Microcellular foam Shoe sole market  126 Plastics Additives  Rhein Chemie Corp.: Product Selection and Market Overview Guide for Catalysts (Continued): Product Name  Application/Market  RC Catalyst 6090  Flexible and rigid foam  RC Catalyst 6099  Rigid foam Appliance  RC Catalyst 6111  Flexible molded foam Furniture/seating  RC Catalyst 6130  Semi-rigid and rigid foam Trimerization catalyst  RC Catalyst 6135  Adhesives and coatings  RC Catalyst 6302  Semi-rigid and rigid polyisocyanurate foam Automotive  RC Catalyst 6303  Rigid polyisocyanurate foam Insulation/bunstock  RC Catalyst 6304  Semi-rigid and rigid polyisocyanurate foam Automotive/insulation  RC Catalyst 6305  Semi-rigid foam (Low Odor) Automotive  RC Catalyst 6330  Semi-rigid foam  RC Catalyst 6410  Flexible and flexible molded foam Automotive seating  RC Catalyst 6500  Rigid microcellular foam  RC Catalyst KE-9362  Selected elastomers (Mercury replacement catalyst)  Miscellaneous & Multipurpose Compounds  127  Rhein Chemie Corp.: Product Selection and Market Overview Guide for Combustion Modifiers: Product Name:  Application/Market:  RC Combustion Modifier 1238  Phosphoric Acid Derivative Containing Halogen for Rigid Foam Pour-in-Place, Spray, Slabstock, and Lamination/Boardstock  RC Combustion Modifier 1712  Halogen Free Phosphoric Acid Derivative for Non-CFC Integral Skin Foam  RC Combustion Modifier 1739  Halogen Free Phosphoric Acid Derivative for Rigid and Structural Foam  DESMOPHEN 4090 N  Semi-Rigid and Rigid Foam Pour-inPlace, Slabstock, and Automotive  RC Impregnating Agent 64  Flexible and Flexible Slabstock Foam  128 Plastics Additives  Rhein Chemie Corp.: Product Selection and Market Overview Guide for Crosslinkers/Curatives: Product Name:  Application/Market:  RC Crosslinker B  Flexible, Integral Skin, Microcellular Foam, Polyesters,Coatings, Elastomers, and TPU  RC Crosslinker H  Vulkallon/NDI Based Elastomers  RC Crosslinker R  Vulkallon/NDI Based Elastomers  RC Crosslinker TR Molten/Flake  Microcellular Foam, Coatings, Adhesives, TPU, and Elastomers  RC Crosslinker 531  Elastomers  RC Crosslinker 532  Elastomers  RC Crosslinker 533  Elastomers  RC Crosslinker 534  Elastomers  RC Crosslinker 30/10 Technical  Elastomers and TPU  RC Crosslinker 30/10 Flake  Elastomers and TPU  RC Crosslinker 0312-A  Vulkallon/NDI Based Elastomers  Miscellaneous & Multipurpose Compounds  129  Rhein Chemie Corp.: Product Selection and Market Overview Guide for Dispersants/Stabilizers: Product Name: RC RC RC RC RC  Dispersant WM Dispersant EM Dispersant RM Additive SV Additive SM  RC Additive LM RC Additive TX  Application/Market TDI/Polyester Slabstock Flexible Foams TDI/Polyester Slabstock Flexible Foams TDI/Polyester Slabstock Flexible Foams MDI or NDI Microcellular Foam MDI or NDI Microcellular Foam Rigid Foam Antiscorch/Polyester Slabstock Flexible Foam Polyester Slabstock Flexible Foam Textile Quality  RC Dispersant WM: Chemical Composition: Non-ionic emulsifier General Use: Emulsifier for organic and inorganic (H2O) phases  RC Dispersant EM: Chemical Composition: Non-ionic emulsifier General Use: Emulsifier for organic and inorganic (H2O) phases  RC Dispersant RM: Chemical Composition: Non-ionic aqueous emulsifier with crosslinker General Use: Crosslinking active emulsifier  RC Additive SV: Chemical Composition: Aqueous solution of fatty acid sulfonate General Use: Stabilizer with a slight crosslinking activity  RC Additive SM: Chemical Composition: Aqueous solution of fatty acid sulfonate General Use: Stabilizer with a slight crosslinking activity  RC Additive LM: Chemical Composition: Phosphate containing aqueous blend of sulfated fatty acids General Use: Reduces tendency for core discoloration  RC Additive TX: Chemical Composition: Stabilizer with tenside characteristics General Use: Good stabilizer for polyester flexible foam. It is used in combination with RC Dispersant EM  130 Plastics Additives  Rhein Chemie Corp.: Product Selection and Market Overview Guide for Flushing Agents: RC Flushing Agent 510 CAS: Proprietary Application: Water based flushing agent for cleaning the mixing chambers of low pressure agitator type mix heads used in PUR casting machines. Product Description: Chemical Composition: Aqueous preparation of polyhydroxy compounds and emulsifying substances. Physical Form: Yellow, clear to slightly opalescent liquid Odor: Weak, soap-like Density: Approx. 1.27 g/ml Viscosity, 25C:					    
+
+
+
+
+
+
+
+
+
+
+
+
+Plastics Additives, Volume 3 (Plastics Design Library)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Additives
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Additives
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Atlas of Plastics Additives
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Additives for plastics handbook
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Additives Volume 1: An Industry Guide (Plastics & Elastomers)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics additives: an industrial guide
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Failure Analysis and Prevention (Plastics Design Library)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Applied Plastics Engineering Handbook: Processing and Materials (Plastics Design Library)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Additives: Advanced Industrial Analysis
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Conductive Polymers and Plastics: In Industrial Applications (Plastics Design Library)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Design Handbook
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Engineered Product Design
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Engineered Product Design
+
+
+
+Read more
+
+
+
+
+
+
+
+
+High Performance Polymers (Plastics Design Library)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Additives: An A-Z reference
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Additives: A Rapra Market Report
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Design Data for Plastics Engineers
+
+
+
+Read more
+
+
+
+
+
+
+
+
+The Plastics Compendium, Volume 1
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Engineering
+
+
+
+Read more
+
+
+
+
+
+
+
+
+The Plastics Compendium, Volume 2
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Weathering of Plastics: Testing to Mirror Life Performance (Plastics Design Library)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Engineering
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Plastics Technology Handbook, Fourth Edition (Plastics Engineering)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Metallocene Technology in Commercial Applications (Plastics Design Library)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Essential Rubber Formulary: Formulas for Practitioners (Plastics Design Library)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Atlas of plastics additives: analysis by spectrometric methods
+
+
+
+Read more
+
+
+
+
+
+
+
+
+From Polymers to Plastics
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Engineering Plastics Handbook
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Functional Fillers for Plastics
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Recommend Documents
+
+
+
+
+
+
+
+
+
+
+
+		Plastics Additives, Volume 3 (Plastics Design Library)	    
+
+
+PLASTICS ADDITIVES AN INDUSTRIAL GUIDE Third Edition Volume III
+
+by
+
+Ernest W. Flick
+
+np
+
+NOYES PUBLICATIONS WILLIAM AND...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Plastics Additives	    
+
+
+PLASTICS ADDITIVES AN INDUSTRIAL GUIDE Third Edition Volume III
+
+by
+
+Ernest W. Flick
+
+np
+
+NOYES PUBLICATIONS WILLIAM AND...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Plastics Additives	    
+
+
+PLASTICS ADDITIVES AN INDUSTRIAL GUIDE Third Edition Volume I
+
+by
+
+Ernest W. Flick
+
+NOYES PUBLICATIONS WILLIAM ANDREW PU...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Atlas of Plastics Additives	    
+
+
+Dietrich O. Hummel
+
+Atlas of Plastics Additives Analysis by Spectrometric Methods With 62 tables and 772 FTIR spectra
+
+S...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Additives for plastics handbook	    
+
+
+Additives for Plastics Handbook
+
+2nd Edition
+
+ This Page Intentionally Left Blank
+
+ Additives for Plastics Handbook 2nd...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Plastics Additives Volume 1: An Industry Guide (Plastics & Elastomers)	    
+
+
+PLASTICS ADDITIVES
+
+ This Page Intentionally Left Blank
+
+ PLASTICS ADDITIVES AN INDUSTRIAL GUIDE Third Edition Volume I...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Plastics additives: an industrial guide	    
+
+
+PLASTICS ADDITIVES AN INDUSTRIAL GUIDE Third Edition
+
+Volume II
+
+by
+
+Ernest W. Flick
+
+bl
+
+NOYES PUBLICATIONS WILLIAM AND...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Plastics Failure Analysis and Prevention (Plastics Design Library)	    
+
+
+John
+
+Moalli,
+
+Editor
+
+,\."CI"(V (~r PI(/sIICS j,n.\:IfIi?Cr.,
+
+F\kitk,.l:I;.itgnlbmy
+
+ Copyright © 2001, Plastics Desig...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Applied Plastics Engineering Handbook: Processing and Materials (Plastics Design Library)	    
+
+
+APPLIED PLASTICS ENGINEERING HANDBOOK
+
+ To the memory of Bill Woishnis, colleague and friend
+
+PLASTICS DESIGN LIBRARY (...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Plastics Additives: Advanced Industrial Analysis	    
+
+
+PLASTICS ADDITIVES
+
+ This page intentionally left blank
+
+ Plastics Additives Advanced Industrial Analysis
+
+By
+
+Jan C.J. ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+Report "Plastics Additives, Volume 3 (Plastics Design Library)"
+
+
+
+Your name
+
+
+
+Email
+
+
+
+Reason
+
+-Select Reason-
+Pornographic
+Defamatory
+Illegal/Unlawful
+Spam
+Other Terms Of Service Violation
+File a copyright complaint
+
+
+
+Description
+
+
+
+
+
+
+
+
+
+
+Close
+Send
+
+
+
+
+
+
+
+		Copyright © 2023 EPDF.PUB. All rights reserved.
+		
+About Us | 
+		    Privacy Policy |  
+		    Terms of Service |  
+		    Copyright | 
+		    DMCA | 
+		    Contact Us | 
+		    Cookie Policy
+
+
+
+
+
+
+
+
+×
+Sign In
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+
+ Remember me
+				    
+Forgot password?
+
+
+Sign In
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    Our partners will collect data and use cookies for ad personalization and measurement. Learn how we and our ad partner Google, collect and use data. Agree & close
+
+
+
+
+

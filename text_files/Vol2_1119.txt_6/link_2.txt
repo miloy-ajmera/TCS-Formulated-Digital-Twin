@@ -1,0 +1,704 @@
+Document Name: role of Sorbitol 70 in Massage Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2857592/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Novel technologies for the prevention and treatment of dental caries: a patent survey - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+HHS Author Manuscripts
+
+
+                    PMC2857592
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (90K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+HHS Author Manuscripts
+
+
+                    PMC2857592
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Expert Opin Ther Pat. Author manuscript; available in PMC 2011 May 1.Published in final edited form as:Expert Opin Ther Pat. 2010 May; 20(5): 681–694.  doi: 10.1517/13543771003720491PMCID: PMC2857592NIHMSID: NIHMS181703PMID: 20230309Novel technologies for the prevention and treatment of dental caries: a patent surveyFu Chen and  Dong WangAuthor information Copyright and License information DisclaimerDepartment of Pharmaceutical Sciences, College of Pharmacy, University of Nebraska Medical Center, Omaha, NE 68198-6025, USA.* Correspondence to Dong Wang, Department of Pharmaceutical Sciences, University of Nebraska Medical Center, 986025 Nebraska Medical Center, COP 3026, Omaha NE 68198-6025, USA Phone: +1 402-559-1995. Fax: +1 402-559-9543. ude.cmnu@gnawd.Copyright notice AbstractImportance of the field:Dental caries is one of the most common preventable childhood diseases; people are susceptible to this ailment throughout their lifetime. In the United States, 90% of late adolescents and young adults have dental caries, while 94% of all dentate adults had evidence of treated or untreated coronal caries. Dental caries is often not self-limiting and without proper care, caries can progress until the tooth is destroyed.Areas covered in this review:In this paper, the etiology of dental caries was briefly introduced. It was followed by a thorough review of patents and literatures on the recent development of various novel technologies for the prevention and treatment of dental caries.What the reader will gain:Recent advances in anti-plaque agents, including chemoprophylactic agents, antimicrobial peptides, vaccines, probiotics/replacement therapy and sugar substitutes, and remineralization agents including fluorides and casein phosphopeptides are analyzed.Take home massage:Both the discovery of new anti-caries agents and the development of dentotropic delivery systems will be the future focus of this research field.1. IntroductionDental caries is one of the most common preventable childhood diseases; people are susceptible to this ailment throughout their lifetime (1). In the United States, 90% of late adolescents and young adults have dental caries, while 94% of all dentate adults had evidence of treated or untreated coronal caries (2-4). Dental caries is often not self-limiting and without proper care, caries can progress until the tooth is destroyed (5).The definition of dental caries is the localized destruction of susceptible dental hard tissues by acidic by-products from bacterial fermentation of dietary carbohydrates (6). Endogenous bacteria {mainly mutans streptococci (Streptococcus mutans and Streptococcus sobrinus) and Lactobacillus spp.} in the biofilm (dental plaque) produce weak organic acids as metabolic by-products of fermentable carbohydrates. The acids would cause local pH to fall below a critical value resulting in demineralisation of the tooth tissue (7, 8). In the demineralization process, the bacteria produced organic acids that diffuse into the tooth through the water amongst the hydroxyapatite crystals, which are the major composition of tooth enamel and dentin. When the acid reaches a susceptible site on a crystal surface, where impurities and inclusions of other ions (especially carbonate ion) incorporated in the crystal lattice producing defects and calcium deficient regions, calcium and phosphate are dissolved and transferred into the surrounding aqueous phase between the crystals (9). If the diffusion of calcium, phosphate, and carbonate out of the tooth is allowed to continue without proper remineralization, cavitation will eventually take place (8, 10). Remineralization is the body's natural repair process for subsurface non-cavitated carious lesions (11). It is a process where calcium and phosphate either from saliva or other topical sources diffuses into the tooth and with the help of fluoride, builds on existing crystal remnants rather than the formation of new crystals (2). The rebuilt crystalline surface, however, is composed of a veneer of well-formed mineral most likely similar to fluorapatite due to the presence of fluoride, and is much more resistant to acid attack than the original structure (1, 9). Demineralization and remineralization happen simultaneously in the oral cavity for most of the people. Whether dental caries development is progressive, static or reversal is dependent on a balance between demineralization and remineralization. Therefore, any factor that can push this balance toward the proceeding of remineralization can be utilized as a weapon in the battle against dental caries. In this review of relevant patents, we will discuss several novel therapeutic developments for the prevention of dental caries.2. Therapeutics to prevent the demineralization caused by dental biofilmDental caries is essentially a disease caused by accumulation of acid-producing endogenous bacteria (primarily a species called Mutans Streptococci, MS) on non-shedding tooth surface. Bacteria live on tooth in microcolonies assembled in the form of dental biofilm (dental plaque). Mature dental plaque is a complex multispecies biofilm that grows on the tooth surface, embedded in a protective matrix of host and bacterial polymers including polysaccharides, proteins, and DNA secreted by the cells (5, 12), which provides protection from desiccation, host defenses and predators, and provides enhanced resistance to antimicrobial agents (13). Since acid accumulation in dental plaque is the driving force for demineralization and caries development, antimicrobial approaches, including the use of antimicrobial agents, represent a valuable measure for caries control.2.1. Chemoprophylactic agentsChemoprophylactic agents that are used in dental caries prevention include classical antibiotics such as penicillin and vancomycin (14, 15); cationic agents such as chlorhexidine and cetylpyridinium chloride (16, 17); plant derived compounds such as sanguinaria extract (18); anionic agents such as sodium dodecyl sulphate (SDS) (19); and non-ionic agents such as triclosan (20). These agents are generally delivered as mouthwashes or toothpastes but can also be applied in the form of gels or varnishes to slowly release the drug and achieve prolonged inhibitory effect (21).Chlorhexidine is one of the most tested compounds and its anti-plaque properties are well-known. In a supragingival biofilm model, chlorhexidine was shown to inhibit bacterial growth and biofilm formation (22, 23). Because chlorhexidine is positively charged, it binds to various surfaces including enamel pellicle, hydroxyapatite and mucous membranes. A major part of the effectiveness of chlorhexidine is due to this substantivity (21). However, the retention of chlorhexidine on tooth surface also leads to its an undesirable side-effect which is tooth staining and calculus formation (24, 25). To address this problem, an oral hygiene composition comprises chlorhexidine gluconate with an anionic anticalculus agent has been disclaimed by Barton, et al. (26). This composition is stabilized by both a non-ionic surfactant having a high hydrophilic/lipophilic balance and an amphoteric surfactant.Triclosan is the most commonly used and most potent example of the chlorinated diphenyl ether class of antibacterial compounds (27). Several large clinical trials have shown that toothpastes containing triclosan and zinc citrate significantly reduced plaque and gingival scores (28, 29). However, poor water solubility (11 μg/ml, which is lower than its MIC of 20 μg/ml) (30) and low retention (half-life for clearance is only 20 min) (31) in the oral cavity have limited its effectiveness and application for prevention and treatment of dental caries. To increase the solubility of triclosan, several approaches including triclosan emulsion product containing surfactant and emulsifier (32), triclosan rinse and dentifrice compositions containing cyclodextrin (33), and triclosan oral composition containing sodium lauryl sulfate as surfactant (34), have been developed.One of the most common problems in dental caries chemotherapy is the inability to maintain the minimum inhibitory concentration (MIC) of the drug in oral cavity. Delivering vesicles such as dentifrices or mouth rinses introducing antimicrobial agents into the oral cavity with an initial concentration. Almost immediately, the initial concentration begins to decrease due to the dynamics of the oral cavity, and eventually drops below the MIC. Thus, there is a continues need of alternative methods for delivering antimicrobial agents to the oral cavity. Iyer, et al. (35) tried to increase the frequency of the application of antimicrobial agents to the oral cavity at an extend time by using the vehicle of chewing-gums. The chewing-gum includes two types of antimicrobial agents that release from the gum base at different rates, which maintain the concentration of at least one of the antimicrobial agents above the MIC for an extended period of time.Longer retention time may be achieved by using polymeric delivery systems. PVA/MA is the non-proprietary designation for a polyvinylmethyl ether/maleic acid copolymer (Gantrez®). It was found to increase triclosan retention in oral cavity since 1989 (36) and its application in oral product was patented in 1990 (37). The copolymer solubilize triclosan through its methoxyether groups while binds to tooth surface through its carboxy groups (38). Both in vitro and in vivo (39, 40) studies showed that using denitrifies containing both triclosan and copolymer enhanced the retention of triclosan and improved its anti-plaque efficacy when compared to triclosan alone. Plochocka (41) disclosed a similar polymeric delivery system where drug is covalently bond to the reactive group on the polymer chain, the bond is hydrolyzable in aqueous solution, therefore slowly release active drug.Recently, a mineral-binding micellar drug delivery system was developed, which could quickly bind to the tooth surface and releases encapsulated drug over a prolonged period of time. This was accomplished by covalently conjugating the tooth-binding moieties to the ends of Pluronic copolymer using “click chemistry” (42). This approach would not only increase the water solubility of non-ionic antimicrobial drug such as triclosan, but also greatly enhance the retention of the drug on tooth surface.More and more attentions have been attracted to natural antibacterial substances as useful antimicrobials (43). These plant-derived substances, mainly polyphenols, including extracts of miswak (44), tea tree oil (45), green tea (46, 47) and manuka honey (43) have already been incorporated into products such as mouth rinses (48) to enhance their antimicrobial properties. Several possible mechanisms against S. mutans have been revealed during the investigation of the effect of plant extracts in the prevention of dental caries (49). Some plant extracts have been found to be able to inhibit glucosyltransferases (GTFs) activity and insoluble glucan synthesis in S. mutans in vitro culture (50-52) while some study showed inhibition of acid production from sucrose or glucose (53, 54). There are also study showed inhibition of S. mutans adhesion on hard surface (55, 56). However, very limited number of studies showed that the plant extracts have bactericidal activity against S. mutans (57). These results suggest that majority of the plant extracts showed activity against several metabolic activities of S. mutans and are able to reduce the virulence of this cariogenic bacterium but not the viability.Recent advances in caries prevention using plant extracts are more focused in finding novel active extracts. Mezine, et al. (58) disclosed a composition derived from water soluble components of Labiatae family plant material. This composition is able to prevent dental plaque accumulation through inhibition of GTF enzyme activity, reduce caries-associated inflammation in the oral cavity by cyclooxygenase inhibition, and provide a strong anti-oxidative capacity. A non-food anti-microbial-adhesion and aggregation composition comprising a suitable carrier and an effective amount of an adhesion inhibitory fraction isolated from berry juice of the Vaccinium plant genus has been disclosed by Ofek, et al. (59). This adhesion inhibitory fraction is characterized as being polymeric and having a molecular weight of 14,000; an elemental analysis of carbon 43-51%, hydrogen 4-5%, no nitrogen, no sulfur and no chlorine. This composition is able to inhibit bacteria-bacteria interaction and interactions between bacteria and pellicle layer on tooth surface. A possible mechanism of this inhibitory effect might be the interruption of lectin-carbohydrate interaction whereby the sugar residues on one bacterial pair interact with a lectin on the surface of the other bacterial pair. Majeed, et al. (60) disclosed an essential oil composition derived from Coleus forskohlii showed significant inhibitory action against S. mutans which represents a novel natural essential oil for prevention and treatment of dental caries.2.2. Antimicrobial peptidesOne critical issue associated with the use of chemotherapy today is the progressive increase and proliferation of antibiotic-resistant organisms which significantly reduces the efficacy of conventional antibiotics (61, 62). Recently, antimicrobial peptides (AMPs) have come to the forefront as potential antibiotic surrogates due to their robust killing activity against a wide spectrum of bacterial species, including drug-resistant strains. AMPs are genetically common molecules of innate immunity that have been discovered in single-cell and multicellular forms of life. These peptides may vary dramatically in peptide sequence and posttranslational modification (linear, circular, etc.), but the majority of them exhibit similar physical hallmarks including amphipathic mixtures of α-helical and ß-sheet structures and an overall cationic charge (63). Their mode of action often involves binding to the negatively charged moieties, e.g. lipopolysaccharide (LPS), on the microbial membrane. Once bound to the microbial surface, the peptides are predicted to lead to membrane disruption by insertion, but may also translocate into the microbe and kill by intracellular mechanisms (64). Due to their attraction to negatively charged structural molecules on the bacterial membrane, development of resistance to these peptides is rare (65).It seems AMPs represent an ideal potential therapeutic agent against microbial infection, including oral cavity. However, their application has been blocked by several issues including difficulty and expense of manufacturing, and short half-lives due to proteolytic degradation (66). One thought to address this problem is to use exogenous modifiers to regulated AMP expression at the transcriptional level rather than directly apply the peptide. An active agent 1, 25-dihydroxyvitamin D3 (biologically active form of vitamin D) has been recently discovered to be able to induce the expression of the gene encoding LL-37 while cause less toxicity (host inflammatory response) (67). Another solution for the problem is to use peptide mimetic. They are a series of inexpensive nonpeptidic oligomers and polymers, modeled after compounds found in nature, that adopt amphiphilic secondary structures and exhibit potent and selective antimicrobial activity (68). A recent successful example is the development of a peptide mimetic based on the structure of magainin. In their study of this compound, meta-phenylene ethynylene (mPE), it was found to be able to prevent S. mutans biofilm formation at nanomolar concentrations (69). Since AMPs are widely distributed in nature, looking for effective AMPs from other sources such as plants and animals might be a good idea and can greatly reduce the cost. Reynolds, et al. (70) recently disclosed an invention of AMPs that can be derived from the milk protein casein. These peptides can be used in foods as antimicrobial preservatives, in oral care products (e.g. toothpaste, mouthwash or dental floss) for the control of dental plaque and suppression of pathogens associated with dental caries. Leung, et al. (71) disclosed a novel AMP that composed of only 10 amino acids. Compare to the traditional large and complex AMPs, this peptide is more stable, easier to synthesis at a lower cost. Bobek (72) disclosed new AMPs with significantly increased stability by using D-isomers of MUC7-12-mer peptide of human saliva MUC7. The isomers have antimicrobial activity comparable to that of the L-isomers and are resistant to proteolysis.In addition to the aforementioned progress, another important direction for AMP development is target-specific antimicrobial therapy. Due to the broad spectra of activity, normal flora can also be disrupted by AMPs, which could leads to secondary infections or other negative clinical consequences. By utilizing a pheromone produced by S. mutans, namely, the competence stimulating peptide (CSP), as a targeting domain to mediate S. mutans-specific delivery of an AMP domain, the AMP was potent against S. mutans grown in liquid or biofilm states but did not affect other oral streptococci tested (73). Li, et al. explore an alternative approach to target bacteria based on acid production. Two 14 amino acid long peptides, rich in both histidine and phenylalanine residues, have been constructed based on the naturally occurring clavanin A that displays a significant increase in antimicrobial activity at low pH compared to neutral conditions. These two AMPs showed a striking pH-dependent antimicrobial activity, which correlated well with the calculated charge distribution (74).2.3. VaccinesBeside the AMPs produced by the innate immune system, another line of defense in human body that can be utilized against S. mutans colonization is the specific antibody production from adaptive immunity. Immune defense in dental caries is mediated mainly by secretory IgA (sIgA) antibodies present in saliva and generated by the mucosal immune system (75). Mucosal immunization with S. mutans antigens at inductive sites, including gut-associated lymphoid tissue (GALT) and nasopharynx-associated lymphoid tissue (NALT), results in the migration of antigen-specific IgA-producing B cells to effector organs, such as the salivary glands. This is followed by the differentiation and maturation of these B cells and the secretion of IgA in the lamina propria, where it crosses the effector tissue ducts into the saliva (76).In the view of vaccine development, research focus is mainly on the incorporation of purified bacterial antigens into mucosal immune systems and delivery to mucosal IgA-inductive sites. The three main types of S. mutans antigen that are involved in dental-caries pathogenesis and for which specific secretory IgAs have been found are antigen I/II, GTFs and glucan-binding proteins (GBP) (77). Accordingly, the mechanisms of action of these specific antibodies are: clearance of bacteria in saliva by antibody-mediated aggregation, inhibition of the adherence of bacteria by blocking bacterial-surface receptors, and modification of metabolically functions of bacterial enzymes (77, 78).Antigen I/II is the surface adhesin of S. mutans. It contains an alanine-rich tandem-repeating region and a proline rich repeat region, which are associated with the adhesion activity (79). Secretory IgA specific for intact antigen I/II or its binding domain is able to inhibit adhesion of S. mutans to saliva-coated hydroxyapatite (80) and their colonization on tooth (81). The effect of antigen I/II vaccine or monoclonal antibody of this antigen is tested both in animal models and in human clinical study (82, 83). Results showed that vaccine or monoclonal antibody can effectively prevent S. mutans colonization. However, more clinical data regarding to caries experience are required before they can be proved effective against dental caries. New peptide subunits of S. mutans antigen I/II have been disclosed by identifying S. mutans' T-cell and B-cell epitopes. These peptides are able to adhere to a mammalian tooth in a competitive manner with naturally occurring S. mutans antigen I/II, thus preventing or diminishing the adhesion of S. mutans to the tooth and also stimulate a T-cell and B-cell response against S. mutans (84). To overcome potential disadvantages, including unwanted antibody response and allergy reactions, associated with non-human source monoclonal antibodies, an isolated diabody composed of a human heavy chain variable domain and a human light chain variable domain which specifically binds S. mutans antigen I/II has been developed (85). This diabody derivative is capable of aggregating S. mutans cells, making it a useful candidate therapeutic agent for passive immunization against dental caries.GTFs are important in synthesis of water-soluble and water-insoluble glucans. Its activity is mediated through both catalytic and glucan-binding domains, antibody binding to any GTF activity domain can inactivate GTFs and interfere with synthesis of glucans, inhibiting accumulation of (77). Vaccines derived from either one of these two domains can induce antibody production and prevent caries formation by inhibit S. mutans GTFs (86). Interestingly, the immunogenicity of the vaccine is significantly improved if the vaccine is a diepitopic vaccine that containing peptide epitopes from both domains (87). Smith, et al. disclosed synthetic vaccine compositions and immunogenic compositions which are GTF subunit vaccines containing one or more epitopes for prevention of dental caries (88, 89).GBPs are a group of glucan receptors that participate in the formation of dental biofilms and the accumulation of S. mutans. Among the three GBPs found in S. mutans (GBP-A, B and C), only GBP-B has been show to induce a protective immune response to experimental dental caries (90). However, it has been found that using chimeric polypeptide containing both a fragment of a GBP-B polypeptide and a GTF polypeptide can elicit a significantly higher antibody titer than using GBP-B alone (91, 92).Except for vaccines and monoclonal antibodies developed from the aforementioned antigens, other antigens from S. mutans have also been utilized to develop vaccines. S. mutans and S. sobrinus produce extracellular proteins, virulence-associated immunomodulatory extracellular proteins (VIP), which provide the suppression of the immune response in the host through the early production of IL-10. A vaccine is developed from active VIP that can induce the immunoneutralization of the VIP immunomodulatory effects therefore prevent dental caries (93). In another invention, novel vaccines based on the extracellular glucan component of the cariogenic plaque are developed (94). The antigenicity of the glucan may be enhanced by covalently coupling the glucan to one or more moieties, including at least one T cell-dependent antigen (e.g. GTF and/or haptens), to form a conjugate vaccine.2.4. Probiotics and Replacement TherapyAs mentioned above, treatment measures that aimed at wiping out the entire oral flora might lead to unwanted negative consequences. Therefore, more and more efforts in caries research are devoted in looking for approached that can selectively inhibit oral pathogens rather than the whole microbial community. Probiotics as defined by the World Health Organization are live micro-organisms, which, when administered in adequate amounts, confer a health benefit on the host (43). The mechanism of probiotic action might be the disruption of plaque biofilm formation through competition for binding sites on host tissues and other bacteria, and competition for nutrients; or the production of antimicrobial compounds that inhibit oral bacteria, such as a organic acids, hydrogen peroxide, low-molecular-weight antimicrobial compounds, bacteriocins and adhesion inhibitors produced by lactic acid bacteria (43, 95).Inspired by the success in using probiotics to control gastro-intestinal diseases, some of the gastrointestinal bacteria strains have been tested in experimental studies and clinical trials to control the growth of cariogenic bacteria. For example, long-term consumption of milk containing Lactobacillus rhamuosus GG strain can reduce initial caries in kindergarten children (96). Ingestion of Lactobacillus reuteri ATCC 55739 (97) or Bifidobacterium DN-173 010 (98) can induce significant reduction of cariogenic S. mutans in saliva. Mollstam, et al. (99) disclosed several new strains of Lactobacillus, including L. reuteri CF2-7F (ATCC PTA-4965), L. reuteri MF2-3 (ATCC PTA-4964) and especially L. reuteri FJ1 “Prodentis” (ATCC PTA-5289) and L. reuteri FJ3 (ATCC PTA-5290), that have good antimicrobial activity against S. mutans and good binding characteristics to oral mucin and thereby prevent, reduce or treat dental caries. Due to the existence of mutual antagonistic effects among various oral streptococci, implantation of specific oral streptococci or the encouragement of their growth in dental plaque may thus be considered a probiotic approach by encouraging an ecological shift (100). Chilcott, et al. (101) disclosed novel Streptococcus salivarius strains that produce bacteriocin-like inhibitory substances with a broad spectrum of activity against dental caries causing organisms including S. mutans. Also, Streptococcus oligofermentans, a bacterium that could be isolated only from caries-free humans, was found to metabolize lactic acid into hydrogen peroxide, thus inhibiting the growth of S. mutans (102).In addition to probiotics, another measure that competitively reduces the pathogen composition in the oral flora has emerged with the advances in gene engineering and DNA recombination technology. This method is the so-called replacement therapy. Several mutated strains of S. mutans that lack the machinery to efficiently metabolize fermentable carbohydrates to organic acids have been developed. In one case, a non-acid-producing S. mutans strain BCS3-L1 that produces an antibiotic called mutacin 1140 active against other S. mutans strains to replace the naturally occurring cariogenic strains in oral cavity has been developed (103-105). This strain was significantly less cariogenic than the parent strain JH1140 due to the delete of lactic acid dehydrogenase open reading frame. The clone was also shown to be genetically stable which did not revert to producing acid in both in vivo and in vitro test systems and is currently awaiting evaluation for its efficacy in humans (106, 107). In another study, the ability of S. mutans to produce extracellular glucans is blocked in a mutation by deleting the GTF-C gene. Introducing this new strain into an in vitro mixed biofilm model has resulted in a decrease in extracellular matrix component from 51 to 33 percent of the biofilm volume (108).2.5. Sugar SubstitutesThe formation of dental caries and the demineralization of tooth enamel are not caused by pathogenic bacteria itself, but most directly caused by the acids produced by acidogenic bacteria. Dietary sugars such as sucrose glucose and lactose can be ferment by MS such as S. mutans and S. sobrinus to produce lactic acid which is most important and the strongest acid produced in large quantities that involved in the etiology of dental caries (21). During the past 50 years, several clinical studies (109-111) as well as laboratory studies (112, 113) have clearly demonstrated that sugar intake plays a major role in the initiation and progression of dental caries. Data collected from in vivo and in vitro studies indicate that sugar substitutes exhibit potential anti-caries effect in several aspects including (114): inhibition of insoluble glucan synthesis from sucrose; decrease in MS numbers in whole saliva and plaque; increase in the buffering capacity and pH of dental plaque; and interference with enamel demineralization and an increase in enamel remineralization.One of the most extensively studied sugar substitute is Xylitol. Xylitol is a five carbon sugar alcohol (Polyol) that looks and tastes like sucrose. Xylitol can not be utilized and fermented by MS or other microorganisms in oral cavity (115), but it can be directly absorbed by human small intestine and subsequently metabolized (114). Both in vitro and in vivo studies (116, 117) showed that the plaque pH is not affected by the intake of xylitol, and it was found that xylitol has a bacteriostatic effect on S. mutans (118) by creating a futile cycle that consumes cellular ATP. In a futile cycle, Xylitol is transported across bacteria cell membrane by a phospho-transferase system, generating xylitol-5-phosphate which can not be metabolized and may subsequently be dephosphorylated and exported at the expense of ribitol-5-phosphate (119, 120). Numerous clinical studies have shown that consumption of xylitol can significantly reduce saliva and plaque S. mutans levels (121, 122), probability of mother-child transmission of MS (123, 124), and dental caries increment (111, 125). These results also indicated that the caries reduction effect of Xylitol is dose and frequency dependent (126), and a plateau effect might occur with higher dosages (127). However, it should be noticed that even though Xylitol chewing-gum seems to be a promising measure for dental caries prevention, a dose-response relationship is still in urgent need for the establishment of a Xylitol based therapy against dental caries, especially when there are cases where Xylitol failed to show caries reduction effect at lower doses (128, 129). Further, most of these clinical studies have chosen chewing gums as the carrier for Xylitol, and since frequent chewing is also proven to protect against caries by stimulating saliva flow (130), proper control groups such as sugar-free gum group but not no-gum-chewing group should be used to rule out other factors that might affect caries experience.Another common sugar substitute is Sorbitol, which is a six carbon sugar alcohol. Sorbitol is the sugar alcohol most frequently added to food, both in solid and in liquid form (114). It is cheaper than xylitol but its sweetness is only 50 per cent that of sucrose or xylitol (21). Sorbitol is metabolized in the same manner as Xylitol, however, the major difference between Sorbitol and Xylitol is that Sorbitol can be fermented by MS. Although acid production can occur during Sorbitiol metabolism by the bacteria, the rate is significantly slower than that of other dietary sugars such as sucrose, glucose and fructose (131), therefore Sorbitol is considered non-cariogenic (132). A recently published review article statistically analyzed the clinical studies of polyol-containing chewing gums and suggested that the caries prevention effect of Sorbitol might be weaker than that of Xylitol (133).Even though there are many oral hygiene product containing sugar substitute on the market, their major role is still a non-cariogenic sweetener. The anti-caries therapeutic effect of sugar substitute is under much debate (134) especially when the dose-effect relationship still have not established yet as mentioned above. Some work has turned to the idea of combining sugar substitute with other therapeutic agents. Takatsuka, et al. (135) disclosed an oral composition comprising sugar substitute palatinit which exerts a synergistic effect when combined with a fluorine or zinc compound. It is found that palatinit can enhance the remineralization, and, further, that the inclusion of palatinit in a combination with a fluorine or zinc compound can enhance the remineralization due to the synergistic effect of both ingredients. Kaufmann, et al. (136) disclosed a hard candy composition containing sugar substitute with an ammonium salt and may further containing an alkaline metal salt and an alkaline earth metal salt. Sugar substitute is included in the composition to reduce demineralization while the alkaline compounds creating a pH value that promotes remineralization of the tooth enamel by neutralizing plaque acids.The antibacterial properties of sugar substitutes are rather weak when compare to other therapeutic antimicrobial agent, therefore, prolonged exposure of these sugar substitutes in the oral cavity on a daily bases is required for them to be effective (133). Traditional delivering vehicles such as chewing-gums, hard candies and mints can only provide contact of the sugar substitutes with tooth surface for a few minute or even seconds. Therefore, novel delivery vehicles are still needed for the effective delivery of sugar substitutes before they can be considered as therapeutically effective.3. Therapeutics to promote the remineralization processDifferent from the demineralization process, which is related to several biological and physiological factors such as bacterial biofilm, AMPs and antibody production from the innate and adaptive immune system, remineralization process is straightly an inorganic chemistry process. In this process, the recrystallizing of calcium and phosphate (primarily from saliva) in the water among the enamel or dentin crystals to the surfaces of existing crystal remnants is time consuming. However, the mineral formed during remineralization is more resistant to acid than the original enamel or dentin mineral, especially if fluoride is present and incorporated into the new crystal surfaces (3). The importance of remineralization can be illustrated through the dramatic downturn in the numbers of decayed, missing, and filled teeth from the 1970s, and the increase in the percent of the population that is apparently clinically caries-free (137). The major factor of this triumph in caries prevention is attributed to the use of fluoride-containing toothpastes which enhanced the remineralization process (138). Therefore, therapeutics that can improve the remineralization process are just as important as therapeutics agents that prevent the demineralization caused by dental biofilm.3.1. FluorideFluoride therapy has been the main caries preventive strategy since the introduction of water fluoridation schemes several decades ago (139). Fluoride salts can be commonly found in drinking water, toothpastes and mouse rinses which are available to majority of the US population. However, it has been pointed out that, even with such a high availability, an increase in caries-free population reached a plateau in 1990s, and there were still at least 60% of teenagers around that time, and most likely still today, had observable dental decay. Thus the anti-caries effect of traditional fluoride therapy is still limited (137). Several in vitro studies on a pH cycling model, which consists of alternating periods of demineralization and remineralization in the laboratory over a three-week period, indicated a linear relationship between the logarithm of the fluoride level and the net amount of remineralization. A rapid rise in effect was observed as the fluoride concentration increased from 0.03 ppm to 0.1 ppm (140, 141). These findings are also supported by a recent report showed that a 70% reduction in caries versus control for highrisk children who wore a fluoride-releasing glass device in their mouths. The mean salivary fluoride levels were 0.11 ppm in the test group versus 0.03 ppm in the control group over a two-year period (142). However, baseline fluoride levels in saliva are known to be around 0.02 ppm or less, dependent on the fluoride level in drinking water and the use of fluoride products (143). Current delivery measure such as toothpastes, mouse rinses and even varnish (144) are unable to maintain this concentration, thus is not adequate for high caries challenge (145). Therefore, slow-release fluoride devices have attracted a lot of attention lately due to its ability to maintain a therapeutic concentration of fluoride in the oral cavity for an extended period of time.The slow-release fluoride device normally involves the attachment of a small fluoride-containing device (in the dimension of mm) to the crown of a tooth (usually the buccal surface of a upper molar) and slowly release fluoride over a prolonged period of time (at least a year). The copolymer membrane device was developed in the 1970s and was designed to be attached on or near the tooth surface. This system was designed as a membrane-controlled reservoir-type with an inner core of hydroxyethyl methacrylate (HEMA) / methyl methacrylate (MMA) copolymer (50:50 mixture) which is surrounded by a 30:70 HEMA/MMA copolymer membrane that controls the rate of fluoride release from the core through a saturated fluoride concentration difference between the core and the outer membrane (146). A 6-month clinical study using this device showed a significant increase in salivary fluoride concentration from a baseline mean of 0.07-0.69 mg/mL on day 14 post-insertion. The device retention was 85% after 6 months and, of the devices retained, 100% were functional (147). A similar delivery device, the so called “glass device” which dissolves slowly when moist in saliva, releasing fluoride without significantly affecting the device's integrity (146). A recent 6-month clinical study in UK showed that mean salivary fluoride levels in the child volunteers using this device was 0.17±0.1 ppm fluoride compared with 0.025 ppm baseline levels, and the retention rate of the devices was 93% (148).Traditional silicate glasses from which fluoride can be slowly leached generally exhibit low fluoride retention (loading) capability in the device, and glasses formed by phosphate are easily attacked by water. Algar, et al. (149) recently disclosed a glass composition that increase the fluoride loading and also release fluoride at a stable rate. The composition was formed by combining and melting a phosphorus oxide and at least one of sodium, potassium, lithium or aluminum in oxide and/or fluoride form. The glass composition optionally comprising silicon in an amount up to about 5% by weight allowing a therapeutically effective amount of fluoride to be slowly released over time. To increase the retention rate and prolong retention time of the slow-releasing device, Jessop, et al. (150, 151) disclosed a dental bracket and associated kit used to attach a fluoride-releasing pellet on a tooth. The pellet is placed in and attached to the dental bracket through adhesive resin. The bracket binds to the patient's tooth using a curable adhesive resin that is cured by at least one of chemical curing, light curing or air curing. The pellet is designed to slowly release fluoride and may be replaced every 6 months to 2 years. Replacement of the fluoride-releasing pellet may be performed at home or at a dentist's office. The bracket can be attached to a patient's tooth for up to 20 years.A dicalcium phosphate anhydrous (DCPA) nanocomposite was developed by Xu, et al. as a restoration material that can slowly release high levels of CaPO4 requisite for remineralization (152, 153). In a recent report, they incorporate novel CaF2 nanoparticles to develop stress-bearing, F-releasing nanocomposite. This nanocomposite can slowly release Fluoride ions for more than 10 weeks at a release rate higher than traditional and resin-modified glass ionomer materials (154). Another way to prolong the fluoride releasing capability is to periodically recharge the releasing device. Xu, et al. (155) provides a class of polymerizable monomers containing chelating groups and fluoride-exchanging metal chelates that can release fluoride into an aqueous solution, and that can "recharge" by taking up fluoride from an aqueous solution containing a high concentration of fluoride (e.g., a fluoridated toothpaste or mouthwash). These compositions may be incorporated into dental composite restorative materials or other dental materials, to produce materials with high fluoride release rates, and high fluoride recharge capability. Other measures such as glass ionomer cements (156) and tissue scaffolds (157) were also developed to increase fluoride retention in oral cavity, but they are used more often in caries restoration rather than prevention, and will not be discussed in details in this review.In addition to increase fluoride retention in the oral cavity, approaches to enhance the remineralization effect of fluoride or reduce the requirement of fluoride level in the oral cavity have also been developed. Recently, Faller, et al. (158) disclosed novel methods of enhancing fluoride incorporation into tooth and mineralization of tooth by use of specialized phosphonate containing polymers or telomers. Due to the polyphosphate nature of these polymers, they are able to provide desired surface conditioning effects including: 1) the effective desorption of undesirable adsorbed pellicle proteins, in particular those associated with undesirable microbial species; 2) creating a hydrophilic tooth surface immediately after treatment; and 3) maintaining surface conditioning effects and control of pellicle film for extended periods following product use. The improvement of surface properties eventually lead to increased fluoride deposition and remineralization of tooth. As mentioned earlier, tooth enamel crystals (hydroxyapatite) have “weak spots” that are less resistant to dissolution by acids. The treatment of tooth enamel by carbon dioxide laser (or other source) irradiation or by high temperatures remove or vaporize carbonate sites. At the same time, laser treatment also causes shrinkage of the hydroxyapatite crystal, which will require less fluoride to provide protection. An improved novel laser treatment method has been disclosed by Cozean, et al. (159) which makes the tooth more resistant to acid and easier to bound fluoride, thus requiring a lower concentration of fluoride. The effect was found to be synergistic.Even though fluoride has the ability to inhibit demineralization and plaque bacteria, the major role of fluoride is still enhancement of remineralization. Therefore, to prevent dental caries (especially when against high caries challenges) with only fluorides is unrealistic (137). Factors that can reduce the demineralization burden are also beneficial and should be considered in fluoride therapy. Recently, two clinical studies have shown that Colgate Total Toothpaste which contain 0.3% triclosan, 2.0% polyvinylmethyl ether/maleic acid (PVM/MA) copolymer, and 0.243% sodium fluoride in a silica base is statistically significantly better in controlling dental plaque when compared to a control dentifrice which contain only 0.243% sodium fluoride in a silica base for a 12h (160) or 24h (161) period of time. The results of a three-year clinical trial of root caries and dental crowns among adults showed a statistically significant difference for root caries and dental crown failure scores, both favoring the Colgate Total Toothpaste when compare to a control toothpaste which contain only sodium fluoride (162). However, another three-year clinical study did not show differences in plaque scores between Colgate Total Toothpaste group and standard sodium fluoride toothpaste group among periodontitis-susceptible subjects (163). More work have to be done to evaluate the remineralization efficacy of fluoride when used in combination with anti-plaque agents, as well as to develop more delivery systems that could combine anti-plaque therapy and fluoride therapy together to achieve a synergistic effect.3.2. Casein PhosphopeptidesDairy products such as milk, milk concentrates and cheese are recognized as non-cariogenic or cariostatic in several laboratory studies due to the presence of milk phosphoprotein, casein (164). The casein phosphopeptides (CPP) are derived from casein by tryptic digestion. In 1987, Reynolds found that CPPs were incorporated into the intra-oral appliance plaque and were associated with a substantial increase in the plaque's content of calcium and phosphate (165). All CPPs contain the sequence motif -Pse-Pse-Pse-Glu-Glu-, where Pse is a phosphoseryl residue. Through these multiple phosphoseryl residues, CPPs have a marked ability to stabilize calcium phosphate ions in solution and to form a amorphous calcium phosphate (ACP) complex, referred to as CPP-ACP (164, 166). It is proposed that the CPP bind to the forming alkaline ACP nanoclusters, producing a metastable solution thereby preventing ACP growth to the critical size required for nucleation and precipitation (167). CPP-ACP binds strongly to hydroxyapatite and can diffuse and retained in dental plaque, therefore is able to buffer acid and substantially raise the level of calcium phosphate in plaque or close proximity to the tooth surface, and thus inhibits enamel demineralization and enhances remineralization (165). Stable and highly soluble CPP-ACP has been trademarked as Recaldent™ and has now been commercialized in sugar-free gum and mints and in dental professional products (Tooth Mousse™) (168).Several randomized clinical trials (RCT) have shown that CPP-ACP added to sugar-free chewing gums (169), tooth paste (170) or dental cream (171, 172) increased enamel subsurface remineralization. These RCT results suggested both a short-term remineralization effect of CPP-ACP and a caries-preventing effect for long-term clinical CPP-ACP use (173). Besides ACP, CPP also stabilize calcium fluoride phosphate (ACFP) and forming CPP-ACFP (174). In this case, calcium and phosphate ions co-localize at the tooth surface with fluoride ion, therefore increases the degree of saturation with respect to fluorapatite and promoting remineralization of enamel with fluorapatite. This enhanced remineralization effect is demonstrated in an in vitro study (168).4. Expert OpinionFor antimicrobial therapies aimed at inhibiting demineralization, a clear trend in the literature is to find anti-plaque therapeutics from natural sources, including natural antimicrobials from plant extract, derivatives from natural AMPs, and use natural replacement strains or natural immune system. However, traditional antimicrobials, such as chlorhexidine or triclosan, are still the most cost-effective therapeutic agents available to the general population. In future studies, more attention should be place on developing measures such as targeting or controlled release mechanisms for these drugs in order to reduce the unwanted effect including the development of drug resistance strain and undifferentiated killing. For remineralization therapies, the challenge is obviously our sole dependence upon fluoride therapy. Many clinical studies have point out that fluoride therapy alone is not enough to overcome high caries challenges. It is probably the right time find additional and more effective remineralization measures as alternatives to fluoride therapy.For both demineralization prevention and remineralization promotion, one vital concept that may predict the success of the therapy is effective drug retention on tooth surface. Without retention, the reduced pathogen level by antimicrobial agent in the oral cavity can be re-established between two doses, and the remineralized enamel crystal surface by a short exposure to remineralization agent will be overwhelmed by the constant demineralization process. Novel drug delivery systems should be designed to fit the needs for enhanced retention and controlled release on tooth surface. Drug delivery systems that have been designed for bone-targeted delivery may be adapted to provide retention mechanisms on tooth surface. On-demand release property and bacterium-specific delivery can also be achieved by further modification of the delivery system with pH-sensitive materials and special targeting moieties.Therefore, we believe both discovery of new anti-caries agents and the development of dentotropic delivery systems for these agents are important for the prevention and treatment of dental caries. Future research in this field will probably lies within these two directions.Article HighlightsTherapeutics against dental caries can be generally divided into two categories: demineralization inhibitors and remineralization promoters.Chemoprophylactic agents are effective against dental biofilm, but their retention in oral cavity need to be improved.Antimicrobial peptides are potential replacement of traditional antibiotics to prevent the creation of antibiotic-resistant organisms.Vaccines and monoclonal antibodies can be utilized against S. mutans colonization; however, more clinical studies are needed to prove their effectiveness against caries formation.Probiotics and replacement therapy can reduce the pathogen composition in the oral flora by selectively inhibit cariogenic bacteria rather than the whole microbial community.Sugar substitutes are non-cariogenic and chewing gums containing sugar substitutes can reduce caries experience. A dose-response relationship is urgently needed to establish sugar substitutes as a therapy against dental caries.Fluoride is the most available and commonly used remineralization agent. However, many clinical studies have point out that fluoride therapy alone is not enough to overcome high caries challenges. Its retention in oral cavity is also another challenge.Casein phosphopeptides (CPP) is another reminerialization agent derived from milk phosphoprotein, casein. Recent clinical trails suggested both a short-term remineralization effect and a caries-preventing effect for long-term clinical CPP-amorphous calcium phosphate (ACP) use.This box summarises key points contained in the article.AcknowledgmentsDeclaration of interestThe preparation of this review was supported in part by Grant Number AR053325 (to DW) from the National Institute of Health/National Institute of Arthritis, Musculoskeletal and Skin Diseases. FC also acknowledges the graduate fellowship support he received from University of Nebraska Medical Center.References1. Selwitz RH, Ismail AI, Pitts NB. Dental caries. Lancet. 2007 Jan 6;369(9555):51–9. [PubMed] [Google Scholar]2. Featherstone JD. The science and practice of caries prevention. J Am Dent Assoc. 2000 Jul;131(7):887–99. [PubMed] [Google Scholar]3. Featherstone JD. Prevention and reversal of dental caries: role of low level fluoride. Community Dent Oral Epidemiol. 1999 Feb;27(1):31–40. [PubMed] [Google Scholar]4. Garcia-Godoy F, Hicks MJ. Maintaining the integrity of the enamel surface: the role of dental biofilm, saliva and preventive agents in enamel demineralization and remineralization. J Am Dent Assoc. 2008 May;139(Suppl):25S–34S. [PubMed] [Google Scholar]5. Fejerskov O, Kidd E, editors. Dental caries: the disease and its clinical management. Blackwell Monksgaard; Copenhagen, Denmark: 2003.  [Google Scholar]6. Marsh P, Martin MV.  Oral Microbiology. 4th edn. Wright; Oxford: 1999.  [Google Scholar]7. Kidd EA, Fejerskov O. What constitutes dental caries? Histopathology of carious enamel and dentin related to the action of cariogenic biofilms. J Dent Res. 2004;83(Spec No C:C35-8) [PubMed] [Google Scholar]8. Featherstone JD. The continuum of dental caries--evidence for a dynamic disease process. J Dent Res. 2004;83(Spec No C:C39-42) [PubMed] [Google Scholar]9. Featherstone JD. Dental caries: a dynamic disease process. Aust Dent J. 2008 Sep;53(3):286–91. [PubMed] [Google Scholar]10. Seow WK. Biological mechanisms of early childhood caries. Community Dent Oral Epidemiol. 1998;26(1 Suppl):8–27. [PubMed] [Google Scholar]11. ten Cate JM, Featherstone JD. Mechanistic aspects of the interactions between fluoride and dental enamel. Crit Rev Oral Biol Med. 1991;2(3):283–96. [PubMed] [Google Scholar]12. Marsh PD, Bradshaw DJ. Dental plaque as a biofilm. J Ind Microbiol. 1995 Sep;15(3):169–75. [PubMed] [Google Scholar]13. Scheie AA, Petersen FC. The Biofilm Concept: Consequences for Future Prophylaxis of Oral Diseases? Crit Rev Oral Biol Med. 2004;15(1):4–12. [PubMed] [Google Scholar]14. Zander HA, Bibby BG. Penicillin and caries activity. J Dent Res. 1947 Oct;26(5):365–8. [PubMed] [Google Scholar]15. Jordan HV, De Paola PF. Effect of a topically applied 3 percent vancomycin gel on Streptococcus mutans on different tooth surfaces. J Dent Res. 1974 Jan-Feb;53(1):115–20. [PubMed] [Google Scholar]16. Anderson MH. A review of the efficacy of chlorhexidine on dental caries and the caries infection. J Calif Dent Assoc. 2003 Mar;31(3):211–4. [PubMed] [Google Scholar]17. Duckworth RM. The science behind caries prevention. Int Dent J. 1993 Dec;43(6 Suppl 1):529–39. [PubMed] [Google Scholar]18. Walker C. Effects of sanguinarine and Sanguinaria extract on the microbiota associated with the oral cavity. J Can Dent Assoc. 1990;56(7 Suppl):13–30. [PubMed] [Google Scholar]19. Emilson CG. Potential efficacy of chlorhexidine against mutans streptococci and human dental caries. J Dent Res. 1994 Mar;73(3):682–91. [PubMed] [Google Scholar]20. Marshand PD, Bradshaw DJ. Microbiological effects of new agents in dentifrices for plaque control. Int Dent J. 1993;43:399–406. [PubMed] [Google Scholar]21. Balakrishnan M, Simmonds RS, Tagg JR. Dental caries is a preventable infectious disease. Aust Dent J. 2000 Dec;45(4):235–45. [PubMed] [Google Scholar]22. Guggenheim B, Giertsen E, Schupbach P, Shapiro S. Validation of an in vitro biofilm model of supragingival plaque. J Dent Res. 2001 Jan;80(1):363–70. [PubMed] [Google Scholar]23. Shapiro S, Giertsen E, Guggenheim B. An in vitro oral biofilm model for comparing the efficacy of antimicrobial mouthrinses. Caries Res. 2002 Mar-Apr;36(2):93–100. [PubMed] [Google Scholar]24. Moshrefi A. Chlorhexidine. J West Soc Periodontol Periodontal Abstr. 2002;50(1):5–9. [PubMed] [Google Scholar]25. Yates R, Jenkins S, Newcombe R, et al. A 6-month home usage trial of a 1% chlorhexidine toothpaste (1). Effects on plaque, gingivitis, calculus and toothstaining. J Clin Periodontol. 1993 Feb;20(2):130–8. [PubMed] [Google Scholar]26. Barton S, Galley E. Oral hygiene composition. US5695745 1997. 27. Furia TE, Schenkel AG. A new, broad spectrum bacteriostat. Soap Chem Specialties. 1968;44:47–50. 116–22. [Google Scholar]28. Stephen KW, Saxton CA, Jones CL, et al. Control of gingivitis and calculus by a dentifrice containing a zinc salt and triclosan. J Periodontol. 1990 Nov;61(11):674–9. [PubMed] [Google Scholar]29. Svatun B, Sadxton CA, Huntington E, Cummins D. The effects of three silica dentifrices containing Triclosan on supragingival plaque and calculus formation and on gingivitis. Int Dent J. 1993 Aug;43(4 Suppl 1):441–52. [PubMed] [Google Scholar]30. Raghavan SL, Schuessel K, Davis A, Hadgraft J. Formation and stabilisation of triclosan colloidal suspensions using supersaturated systems. Int J Pharm. 2003 Aug 11;261(1-2):153–8. [PubMed] [Google Scholar]31. Gilbert RJ, Williams PE. The oral retention and antiplaque efficacy of triclosan in human volunteers. Br J Clin Pharmacol. 1987 May;23(5):579–83. [PMC free article] [PubMed] [Google Scholar]32. Barabolak RM, Witkewitz DL. Anti-plaque emulsions and products containing same. US7022314 2006. 33. Nelson DGA, Sheehan CJ. Cyclodextrins in dental products. US6942848 2005. 34. Gaffar A, Nabi N, Afflitto J. Process for inhibiting S. mutans and caries. US6136298 2000. 35. Iyer LM, Barkans DE, Hench BD. Gums containing antimicrobial agents. US6248309 2001. 36. Nabi N, Mukerjee C, Schmid R, Gaffar A. In vitro and in vivo studies on triclosan/PVM/MA copolymer/NaF combination as an anti-plaque agent. Am J Dent. 1989 Sep;2(Spec No:197-206) [PubMed] [Google Scholar]Nabi N, Mukerjee C, Schmid R, Gaffar A. In vitro and in vivo studies on triclosan/PVM/MA copolymer/NaF combination as an anti-plaque agent. Am J Dent. 1989;2(Spec No: 197-206) [PubMed] [Google Scholar]37. Nabi N, Gaffar A. Antibacterial antiplaque oral composition. US4894220 1990. 38. Gaffar A, Afflitto J, Nabi N. Chemical agents for the control of plaque and plaque microflora: an overview. Eur J Oral Sci. 1997 Oct;105(5 Pt 2):502–7. [PubMed] [Google Scholar]39. Gaffar A, Nabi N, Kashuba B, et al. Antiplaque effects of dentifrices containing triclosan/copolymer/NaF system versus triclosan dentifrices without the copolymer. Am J Dent. 1990 Sep;3(Spec No:S7-14) [PubMed] [Google Scholar]40. Gaffar A, Afflitto J, Nabi N, et al. Recent advances in plaque, gingivitis, tartar and caries prevention technology. Int Dent J. 1994 Feb;44(1 Suppl 1):63–70. [PubMed] [Google Scholar]41. Plochocka K. Polymeric delivery and release systems for oral care actives. US6464961 2002. 42. Chen F, Liu XM, Rice KC, et al. Tooth-binding micelles for dental caries prevention. Antimicrob Agents Chemother. 2009 Nov;53(11):4898–902. [PMC free article] [PubMed] [Google Scholar]43. Allaker RP, Douglas CW. Novel anti-microbial therapies for dental plaque-related diseases. Int J Antimicrob Agents. 2009 Jan;33(1):8–13. [PubMed] [Google Scholar]44. Darout IA, Albandar JM, Skaug N, Ali RW. Salivary microbiota levels in relation to periodontal status, experience of caries and miswak use in Sudanese adults. J Clin Periodontol. 2002 May;29(5):411–20. [PubMed] [Google Scholar]45. Takarada K, Kimizuka R, Takahashi N, et al. A comparison of the antibacterial efficacies of essential oils against oral pathogens. Oral Microbiol Immunol. 2004 Feb;19(1):61–4. [PubMed] [Google Scholar]46. Hamilton-Miller JM. Anti-cariogenic properties of tea (Camellia sinensis) J Med Microbiol. 2001 Apr;50(4):299–302. [PubMed] [Google Scholar]47. Hirasawa M, Takada K, Otake S. Inhibition of acid production in dental plaque bacteria by green tea catechins. Caries Res. 2006;40(3):265–70. [PubMed] [Google Scholar]48. Fine DH, Furgang D, Lieb R, et al. Effects of sublethal exposure to an antiseptic mouthrinse on representative plaque bacteria. J Clin Periodontol. 1996 May;23(5):444–51. [PubMed] [Google Scholar]49. Petti S, Scully C. Polyphenols, oral health and disease: A review. J Dent. 2009 Jun;37(6):413–23. [PubMed] [Google Scholar]50. Al-Hebshi NN, Nielsen O, Skaug N. In vitro effects of crude khat extracts on the growth, colonization, and glucosyltransferases of Streptococcus mutans. Acta Odontol Scand. 2005 Jun;63(3):136–42. [PubMed] [Google Scholar]51. Rahim ZH, Khan HB. Comparative studies on the effect of crude aqueous (CA) and solvent (CM) extracts of clove on the cariogenic properties of Streptococcus mutans. J Oral Sci. 2006 Sep;48(3):117–23. [PubMed] [Google Scholar]52. Koo H, Nino de Guzman P, Schobel BD, et al. Influence of cranberry juice on glucan-mediated processes involved in Streptococcus mutans biofilm development. Caries Res. 2006;40(1):20–7. [PubMed] [Google Scholar]53. Yu HH, Lee DH, Seo SJ, You YO. Anticariogenic properties of the extract of Cyperus rotundus. Am J Chin Med. 2007;35:497–505. [PubMed] [Google Scholar]54. Brighenti FL, Luppens SB, Delbem AC, et al. Effect of Psidium cattleianum leaf extract on Streptococcus mutans viability, protein expression and acid production. Caries Res. 2008;42(2):148–54. [PubMed] [Google Scholar]55. Yu HH, Lee JS, Lee KH, et al. Saussurea lappa inhibits the growth, acid production, adhesion, and water-insoluble glucan synthesis of Streptococcus mutans. J Ethnopharmacol. 2007;111:413–7. [PubMed] [Google Scholar]56. Papetti A, Pruzzo C, Daglia M, et al. Effect of barley coffee on the adhesive properties of oral streptococci. J Agric Food Chem. 2007 Jan 24;55(2):278–84. [PubMed] [Google Scholar]57. Yamamoto H, Ogawa T. Antimicrobial activity of perilla seed polyphenols against oral pathogenic bacteria. Biosci Biotechnol Biochem. 2002 Apr;66(4):921–4. [PubMed] [Google Scholar]58. Mezine I, Zhang HZ, Petteruti M, et al. Oral care compositions derived from the Labiatae family. US7517541 2009. 59. Ofek I, Weiss E, Kashman Y, et al. Anti-microbial-adhesion fraction derived from vaccinium. US6843993 2005. 60. Majeed M, Prakash S. Composition and methods containing an antimicrobial essential oil extended from Coleus forskohlii. US6607712 2003. 61. Davies J. Inactivation of antibiotics and the dissemination of resistance genes. Science. 1994 Apr 15;264(5157):375–82. [PubMed] [Google Scholar]62. Schutze GE, Kaplan SL, Jacobs RF. Resistant Pneumococcus: a worldwide problem. Infection. 1994 Jul-Aug;22(4):233–7. [PubMed] [Google Scholar]63. Pazgier M, Hoover DM, Yang D, et al. Human beta-defensins. Cell Mol Life Sci. 2006 Jun;63(11):1294–313. [PubMed] [Google Scholar]64. Brogden KA. Antimicrobial peptides: pore formers or metabolic inhibitors in bacteria? Nat Rev Microbiol. 2005 Mar;3(3):238–50. [PubMed] [Google Scholar]65. Zasloff M. Antimicrobial peptides of multicellular organisms. Nature. 2002 Jan 24;415(6870):389–95. [PubMed] [Google Scholar]66. Marr AK, Gooderham WJ, Hancock RE. Antibacterial peptides for therapeutic use: obstacles and realistic outlook. Curr Opin Pharmacol. 2006 Oct;6(5):468–72. [PubMed] [Google Scholar]67. Wang TT, Nestel FP, Bourdeau V, et al. Cutting edge: 1,25-dihydroxyvitamin D3 is a direct inducer of antimicrobial peptide gene expression. J Immunol. 2004 Sep 1;173(5):2909–12. [PubMed] [Google Scholar]68. Rennie J, Arnt L, Tang H, et al. Simple oligomers as antimicrobial peptide mimics. J Ind Microbiol Biotechnol. 2005 Jul;32(7):296–300. [PubMed] [Google Scholar]69. Beckloff N, Laube D, Castro T, et al. Activity of an antimicrobial peptide mimetic against planktonic and biofilm cultures of oral pathogens. Antimicrob Agents Chemother. 2007 Nov;51(11):4125–32. [PMC free article] [PubMed] [Google Scholar]70. Reynolds EC, Dashper SG, O'Brien-Simpson NM, et al. Antimicrobial peptides. US7588752 2009. 71. Leung KP, Concannon SP. Antimicrobial peptide and methods of use thereof. US749498 2009. 72. Bobek LA. D-isomers of antimicrobial peptide. US7271239 2007. 73. Eckert R, He J, Yarbrough DK, et al. Targeted killing of Streptococcus mutans by a pheromone-guided “smart” antimicrobial peptide. Antimicrob Agents Chemother. 2006 Nov;50(11):3651–7. [PMC free article] [PubMed] [Google Scholar]74. Li L, He J, Eckert R, et al. Design and characterization of an acid-activated antimicrobial peptide. Chem Biol Drug Des. 2009;75:127–32. [PMC free article] [PubMed] [Google Scholar]75. Islam B, Khan SN, Khan AU. Dental caries: from infection to prevention. Med Sci Monit. 2007 Nov;13(11):RA196–203. [PubMed] [Google Scholar]76. Youngman KR, Lazarus NH, Butcher EC.  Mucosal Immunology. 3rd ed. Elsevier; Burlington: 2005.  [Google Scholar]77. Taubman MA, Nash DA. The scientific and public-health imperative for a vaccine against dental caries. Nat Rev Immunol. 2006 Jul;6(7):555–63. [PubMed] [Google Scholar]78. Russell MW, Hajishengallis G, Childers NK, Michalek SM. Secretory immunity in defense against cariogenic mutans streptococci. Caries Res. 1999;33(1):4–15. [PubMed] [Google Scholar]79. Shivakumar KM, Vidya SK, Chandu GN. Dental caries vaccine. Indian J Dent Res. 2009 Jan-Mar;20(1):99–106. [PubMed] [Google Scholar]80. Hajishengallis G, Nikolova E, Russell MW. Inhibition of Streptococcus mutans adherence to saliva-coated hydroxyapatite by human secretory immunoglobulin A (S-IgA) antibodies to cell surface protein antigen I/II: reversal by IgA1 protease cleavage. Infect Immun. 1992 Dec;60(12):5057–64. [PMC free article] [PubMed] [Google Scholar]81. Takahashi I, Okahashi N, Matsushita K, et al. Immunogenicity and protective effect against oral colonization by Streptococcus mutans of synthetic peptides of a streptococcal surface protein antigen. J Immunol. 1991 Jan 1;146(1):332–6. [PubMed] [Google Scholar]82. Hajishengallis G, Russell MW, Michalek SM. Comparison of an adherence domain and a structural region of Streptococcus mutans antigen I/II in protective immunity against dental caries in rats after intranasal immunization. Infect Immun. 1998 Apr;66(4):1740–3. [PMC free article] [PubMed] [Google Scholar]83. Ma JK, Hunjan M, Smith R, et al. An investigation into the mechanism of protection by local passive immunization with monoclonal antibodies against Streptococcus mutans. Infect Immun. 1990 Oct;58(10):3407–14. [PMC free article] [PubMed] [Google Scholar]84. Lehner T, Kelly C. Polypeptide fragments capable of competition with Streptococcus mutans antigen I/II. US6500433 2002. 85. Finnern R, Fischer R. Diabody which specifically binds Streptococcus surface antigen I/II and methods of use thereof. US7625561 2009. 86. Taubman MA, Holmberg CJ, Smith DJ. Immunization of rats with synthetic peptide constructs from the glucan-binding or catalytic region of mutans streptococcal glucosyltransferase protects against dental caries. Infect Immun. 1995 Aug;63(8):3088–93. [PMC free article] [PubMed] [Google Scholar]87. Taubman MA, Holmberg CJ, Smith DJ. Diepitopic construct of functionally and epitopically complementary peptides enhances immunogenicity, reactivity with glucosyltransferase, and protection from dental caries. Infect Immun. 2001 Jul;69(7):4210–6. [PMC free article] [PubMed] [Google Scholar]88. Smith DJ, Taubman MA. Glucosyltransferase immunogens. US7056517 2006. 89. Smith DJ, Taubman MA. Synthetic peptide vaccines for dental caries. US6827936 2004. 90. Smith DJ, Taubman MA. Experimental immunization of rats with a Streptococcus mutans 59-kilodalton glucan-binding protein protects against dental caries. Infect Immun. 1996 Aug;64(8):3069–73. [PMC free article] [PubMed] [Google Scholar]91. Smith DJ, Taubman MA. Immunogenicity of glucan binding protein. US7323175 2008. 92. Smith DJ, Taubman MA. Glucan binding protein and glucosyltransferase immunogens. US7163682 2007. 93. da Conceicao Tavares Gomes MD, das Neves Ferreira da Silva PM, Rua Vilanova MJ. Vaccine against dental caries based on virulence-associated immunomodulatory extracellular proteins produced by the cariogenic bacteria Streptococcus sobrinus and Streptococcus mutans. US7541041 2009. 94. Lees A, Taubman MA, Smith DJ. Conjugate vaccines for the prevention of dental caries. US7101562 2006. 95. Meurman JH. Probiotics: do they have a role in oral medicine and dentistry? Eur J Oral Sci. 2005 Jun;113(3):188–96. [PubMed] [Google Scholar]96. Nase L, Hatakka K, Savilahti E, et al. Effect of long-term consumption of a probiotic bacterium, Lactobacillus rhamnosus GG, in milk on dental caries and caries risk in children. Caries Res. 2001;35:412–20. [PubMed] [Google Scholar]97. Caglar E, Cildir SK, Ergeneli S, et al. Salivary mutans streptococci and lactobacilli levels after ingestion of the probiotic bacterium Lactobacillus reuteri ATCC 55730 by straws or tablets. Acta Odontol Scand. 2006 Oct;64(5):314–8. [PubMed] [Google Scholar]98. Caglar E, Sandalli N, Twetman S, et al. Effect of yogurt with Bifidobacterium DN-173 010 on salivary mutans streptococci and lactobacilli in young adults. Acta Odontol Scand. 2005 Nov;63(6):317–20. [PubMed] [Google Scholar]99. Mollstam B, Connolly E. Selection and use of lactic acid bacteria for reducing dental caries and bacteria causing dental caries. US7517681 2009. 100. He X, Lux R, Kuramitsu HK, Anderson MH, Shi W. Achieving probiotic effects via modulating oral microbial ecology. Adv Dent Res. 2009;21(1):53–6. [PMC free article] [PubMed] [Google Scholar]101. Chilcott CN, Tagg JR. Antimicrobial composition. US7226590 2007. 102. Tong H, Chen W, Merritt J, Qi F, Shi W, Dong X. Streptococcus oligofermentans inhibits Streptococcus mutans through conversion of lactic acid into inhibitory H2O2: a possible counteroffensive strategy for interspecies competition. Mol Microbiol. 2007 Feb;63(3):872–80. [PubMed] [Google Scholar]103. Hillman JD. Replacement therapy for dental caries. US5607672 1997. 104. Hillman JD. Lactate dehydrogenase mutants of Streptococcus mutans. US4324860 1982.  [PubMed]105. Hillman JD. Method of controlling dental caries with streptococcus mutans mutant strains. US4133875 1979. 106. Hillman JD, Brooks TA, Michalek SM, et al. Construction and characterization of an effector strain of Streptococcus mutans for replacement therapy of dental caries. Infect Immun. 2000 Feb;68(2):543–9. [PMC free article] [PubMed] [Google Scholar]107. Hillman JD. Genetically modified Streptococcus mutans for the prevention of dental caries. Antonie Van Leeuwenhoek. 2002 Aug;82(1-4):361–6. [PubMed] [Google Scholar]108. Thurnheer T, van der Ploeg JR, Giertsen E, Guggenheim B. Effects of Streptococcus mutans gtfC deficiency on mixed oral biofilms in vitro. Caries Res. 2006;40(2):163–71. [PubMed] [Google Scholar]109. Gustafsson BE, Quensel CE, Lanke LS, et al. The Vipeholm dental caries study; the effect of different levels of carbohydrate intake on caries activity in 436 individuals observed for five years. Acta Odontol Scand. 1954 Sep;11(3-4):232–64. [PubMed] [Google Scholar]110. Marthaler TM. Epidemiological and clinical dental findings in relation to intake of carbohydrates. Caries Res. 1967;1(3):222–38. [PubMed] [Google Scholar]111. Kandelman D, Gagnon G. A 24-month clinical study of the incidence and progression of dental caries in relation to consumption of chewing gum containing xylitol in school preventive programs. J Dent Res. 1990 Nov;69(11):1771–5. [PubMed] [Google Scholar]112. Konig KG, Schmid P, Schmid R. An apparatus for frequency-controlled feeding of small rodents and its use in dental caries experiments. Arch Oral Biol. 1968 Jan;13(1):13–26. [PubMed] [Google Scholar]113. Grafand H, Muhlemann HR. Telemetry of plaque pH from interdental area. Helv Odontol Acta. 1996;10:94–101. [PubMed] [Google Scholar]114. Matsukubo T, Takazoe I. Sucrose substitutes and their role in caries prevention. Int Dent J. 2006 Jun;56(3):119–30. [PubMed] [Google Scholar]115. Edwardsson S, Birkhed D, Mejare B. Acid production from Lycasin, maltitol, sorbitol and xylitol by oral streptococci and lactobacilli. Acta Odontol Scand. 1977;35(5):257–63. [PubMed] [Google Scholar]116. Waler SM, Rolla G. Effect of xylitol on dental plaque in vivo during carbohydrate challenge. Scand J Dent Res. 1983 Aug;91(4):256–9. [PubMed] [Google Scholar]117. Vadeboncoeur C, Trahan L, Mouton C, Mayrand D. Effect of xylitol on the growth and glycolysis of acidogenic oral bacteria. J Dent Res. 1983 Aug;62(8):882–4. [PubMed] [Google Scholar]118. Assev S, Rolla G. Further studies on the growth inhibition of Streptococcus mutans OMZ 176 by xylitol. Acta Pathol Microbiol Immunol Scand B. 1986 Apr;94(2):97–102. [PubMed] [Google Scholar]119. Hausman SZ, Thompson J, London J. Futile xylitol cycle in Lactobacillus casei. J Bacteriol. 1984 Oct;160(1):211–5. [PMC free article] [PubMed] [Google Scholar]120. Trahan L, Bareil M, Gauthier L, Vadeboncoeur C. Transport and phosphorylation of xylitol by a fructose phosphotransferase system in Streptococcus mutans. Caries Res. 1985;19(1):53–63. [PubMed] [Google Scholar]121. Ly KA, Milgrom P, Roberts MC, et al. Linear response of mutans streptococci to increasing frequency of xylitol chewing gum use: a randomized controlled trial [ISRCTN43479664] BMC Oral Health. 2006;6:6. [PMC free article] [PubMed] [Google Scholar]122. Milgrom P, Ly KA, Roberts MC, Rothen M, Mueller G, Yamaguchi DK. Mutans streptococci dose response to xylitol chewing gum. J Dent Res. 2006 Feb;85(2):177–81. [PMC free article] [PubMed] [Google Scholar]123. Soderling E, Isokangas P, Pienihakkinen K, Tenovuo J. Influence of maternal xylitol consumption on acquisition of mutans streptococci by infants. J Dent Res. 2000 Mar;79(3):882–7. [PubMed] [Google Scholar]124. Thorild I, Lindau B, Twetman S. Effect of maternal use of chewing gums containing xylitol, chlorhexidine or fluoride on mutans streptococci colonization in the mothers' infant children. Oral Health Prev Dent. 2003;1(1):53–7. [PubMed] [Google Scholar]125. Isokangas P, Alanen P, Tiekso J, Makinen KK. Xylitol chewing gum in caries prevention: a field study in children. J Am Dent Assoc. 1988 Aug;117(2):315–20. [PubMed] [Google Scholar]126. Ly KA, Milgrom P, Rothen M. Xylitol, sweeteners, and dental caries. Pediatr Dent. 2006 Mar-Apr;28(2):154–63. discussion 92-8. [PubMed] [Google Scholar]127. Ly KA, Milgrom P, Rothen M. The potential of dental-protective chewing gum in oral health interventions. J Am Dent Assoc. 2008 May;139(5):553–63. [PubMed] [Google Scholar]128. Wennerholm K, Arends J, Birkhed D, et al. Effect of xylitol and sorbitol in chewing-gums on mutans streptococci, plaque pH and mineral loss of enamel. Caries Res. 1994;28(1):48–54. [PubMed] [Google Scholar]129. Kovari H, Pienihakkinen K, Alanen P. Use of xylitol chewing gum in daycare centers: a follow-up study in Savonlinna, Finland. Acta Odontol Scand. 2003 Dec;61(6):367–70. [PubMed] [Google Scholar]130. Twetman S. Consistent evidence to support the use of xylitol- and sorbitol-containing chewing gum to prevent dental caries. Evid Based Dent. 2009;10(1):10–1. [PubMed] [Google Scholar]131. Hayes ML, Roberts KR. The breakdown of glucose, xylitol and other sugar alcohols by human dental plaque bacteria. Arch Oral Biol. 1978;23(6):445–51. [PubMed] [Google Scholar]132. Birkhed D, Edwardsson S, Kalfas S, Svensater G. Cariogenicity of sorbitol. Swed Dent J. 1984;8(3):147–54. [PubMed] [Google Scholar]133. Deshpande A, Jadad AR. The impact of polyol-containing chewing gums on dental caries: a systematic review of original randomized controlled trials and observational studies. J Am Dent Assoc. 2008 Dec;139(12):1602–14. [PubMed] [Google Scholar]134. Lingstrom P, Holm AK, Mejare I, et al. Dietary factors in the prevention of dental caries: a systematic review. Acta Odontol Scand. 2003 Dec;61(6):331–40. [PubMed] [Google Scholar]135. Takatsuka T, Nakao A. US7300645 2007. 136. Kaufmann K. Hard candy with tooth plaque-neutralizing effect comprising an ammonium salt. US5861169 1999. 137. Featherstone JD. Remineralization, the natural caries repair process--the need for new approaches. Adv Dent Res. 2009;21(1):4–7. [PubMed] [Google Scholar]138. Jenkins GN. Recent changes in dental caries. Br Med J (Clin Res Ed) 1985 Nov 9;291(6505):1297–8. [PMC free article] [PubMed] [Google Scholar]139. Karulf RE, Coller JA, Bartolo DC, et al. Anorectal physiology testing. A survey of availability and use. Dis Colon Rectum. 1991 Jun;34(6):464–8. [PubMed] [Google Scholar]140. Featherstone JD, Zero DT. An in situ model for simultaneous assessment of inhibition of demineralization and enhancement of remineralization. J Dent Res. 1992 Apr;71(Spec No:804-10) [PubMed] [Google Scholar]141. Featherstone JD, Glena R, Shariati M, Shields CP. Dependence of in vitro demineralization of apatite and remineralization of dental enamel on fluoride concentration. J Dent Res. 1990 Feb;69(Spec No:620-5) discussion 34-6. [PubMed] [Google Scholar]142. Toumba KJ, Curzon ME. A clinical trial of a slow-releasing fluoride device in children. Caries Res. 2005 May-Jun;39(3):195–200. [PubMed] [Google Scholar]143. Leverett DH, Featherstone JD, Proskin HM, et al. Caries risk assessment by a cross-sectional discrimination model. J Dent Res. 1993 Feb;72(2):529–37. [PubMed] [Google Scholar]144. Eakle WS, Featherstone JD, Weintraub JA, et al. Salivary fluoride levels following application of fluoride varnish or fluoride rinse. Community Dent Oral Epidemiol. 2004 Dec;32(6):462–9. [PubMed] [Google Scholar]145. Featherstone JD. Delivery challenges for fluoride, chlorhexidine and xylitol. BMC Oral Health. 2006;6(Suppl 1):S8. [PMC free article] [PubMed] [Google Scholar]146. Pessan JP, Al-Ibrahim NS, Buzalaf MA, Toumba KJ. Slow-release fluoride devices: a literature review. J Appl Oral Sci. 2008 Jul-Aug;16(4):238–46. [PMC free article] [PubMed] [Google Scholar]147. Billings RJ, Adair SM, Shields CP, Moss ME. Clinical evaluation of new designs for intraoral fluoride-releasing systems. Pediatr Dent. 1998 Jan-Feb;20(1):17–24. [PubMed] [Google Scholar]148. Andreadis GA, Toumba KJ, Curzon ME. Slow-release fluoride glass devices: in vivo fluoride release and retention of the devices in children. Eur Arch Paediatr Dent. 2006 Dec;7(4):258–61. [PubMed] [Google Scholar]149. Algar B, Toumba J, Curzon M. Method of treating a patient's teeth using fluoride releasing glass composition. US7323160 2008. 150. Jessop N, McLean BS, Lewis P, et al. Dental brackets for retaining a medicament-releasing pellet on a tooth and kits including such brackets. US7097449 2006. 151. Jessop NT, McLean BS, Fischer DE. Fluoride-releasing pellet kit. US6997706 2006. 152. Xu HH, Sun L, Weir MD, et al. Nano DCPA-whisker composites with high strength and Ca and PO(4) release. J Dent Res. 2006 Aug;85(8):722–7. [PMC free article] [PubMed] [Google Scholar]153. Xu HH, Weir MD, Sun L, et al. Effects of calcium phosphate nanoparticles on Ca-PO4 composite. J Dent Res. 2007 Apr;86(4):378–83. [PMC free article] [PubMed] [Google Scholar]154. Xu HH, Moreau JL, Sun L, Chow LC. Strength and fluoride release characteristics of a calcium fluoride based dental nanocomposite. Biomaterials. 2008 Nov;29(32):4261–7. [PMC free article] [PubMed] [Google Scholar]155. Xu X, Burgess JO, Ding X, Ling L. Fluoride-releasing compositions. US6703518 2004. 156. Mitra SB. Glass ionomer cement. US6765038 2004. 157. Rutherford B, Somogyi C, White C, Rabins E. Methods for treating dental conditions using tissue scaffolds. US7309232 2007. 158. Faller RV, Baig AA, White DJ. Method of enhancing fluoridation and mineralization of teeth. US7387774 2008. 159. Cozean C, Powell L, Nammour S. Method and laser apparatus for preventing tooth decay. US7163400 2007. 160. Hu D, Zhang YP, DeVizio W, Proskin HM. A clinical investigation of the efficacy of two dentifrices for controlling oral malodor and plaque microflora overnight. J Clin Dent. 2008;19:106–10. [PubMed] [Google Scholar]161. Barnes VM, Richter R, Vandeven M, et al. Clinical investigation of the antiplaque efficacy of a new variant of a commercially available triclosan/copolymer/fluoride dentifrice. J Clin Dent. 2008;19(3):81–4. [PubMed] [Google Scholar]162. Vered Y, Zini A, Mann J, et al. Comparison of a dentifrice containing 0.243% sodium fluoride, 0.3% triclosan, and 2.0% copolymer in a silica base, and a dentifrice containing 0.243% sodium fluoride in a silica base: a three-year clinical trial of root caries and dental crowns among adults. J Clin Dent. 2009;20(2):62–5. [PubMed] [Google Scholar]163. Matthews DC. Powered toothbrush plus triclosan only as effective as manual brush and fluoride toothpaste for periodontal maintenance patients. Evid Based Dent. 2008;9(3):74–5. [PubMed] [Google Scholar]164. Reynolds EC. Anticariogenic complexes of amorphous calcium phosphate stabilized by casein phosphopeptides: a review. Spec Care Dentist. 1998 Jan-Feb;18(1):8–16. [PubMed] [Google Scholar]165. Reynolds EC. The prevention of sub-surface demineralization of bovine enamel and change in plaque composition by casein in an intra-oral model. J Dent Res. 1987 Jun;66(6):1120–7. [PubMed] [Google Scholar]166. Reynolds E. Calcium phosphopeptide complexes. US7312193 2007. 167. Bergt C, Fu X, Huq NP, et al. Lysine residues direct the chlorination of tyrosines in YXXK motifs of apolipoprotein A-I when hypochlorous acid oxidizes high density lipoprotein. J Biol Chem. 2004 Feb 27;279(9):7856–66. [PubMed] [Google Scholar]168. Cross KJ, Huq NL, Reynolds EC. Casein phosphopeptides in oral health--chemistry and clinical applications. Curr Pharm Des. 2007;13(8):793–800. [PubMed] [Google Scholar]169. Morgan MV, Adams GG, Bailey DL, et al. The anticariogenic effect of sugar-free gum containing CPP-ACP nanocomplexes on approximal caries determined using digital bitewing radiography. Caries Res. 2008;42(3):171–84. [PubMed] [Google Scholar]170. Rao SK, Bhat GS, Aradhya S, et al. Study of the efficacy of toothpaste containing casein phosphopeptide in the prevention of dental caries: a randomized controlled trial in 12- to 15-year-old high caries risk children in bangalore, India. Caries Res. 2009;43(6):430–5. [PubMed] [Google Scholar]171. Andersson A, Skold-Larsson K, Hallgren A, et al. Effect of a dental cream containing amorphous cream phosphate complexes on white spot lesion regression assessed by laser fluorescence. Oral Health Prev Dent. 2007;5(3):229–33. [PubMed] [Google Scholar]172. Bailey DL, Adams GG, Tsao CE, et al. Regression of post-orthodontic lesions by a remineralizing cream. J Dent Res. 2009 Dec;88(12):1148–53. [PubMed] [Google Scholar]173. Yengopal V, Mickenautsch S. Caries preventive effect of casein phosphopeptide-amorphous calcium phosphate (CPP-ACP): a meta-analysis. Acta Odontol Scand. 2009 Aug 21;:1–12. [PubMed] [Google Scholar]174. Reynolds E. Calcium phosphopeptide complexes. US7312193 2007. 
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (90K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,589 @@
+Document Name: role of Unicide U-13 in Protective Cream3
+Document link: https://www.benlcollins.com/spreadsheets/superscript-in-google-sheets/
+
+
+
+
+
+
+
+
+
+
+
+How To Add Subscript and Superscript In Google Sheets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Skip to content	
+
+
+
+ 
+Google Developer Expert & Data Analytics Instructor. Let me help you with Google Sheets and Apps Script.
+Menu and widgets
+
+
+
+
+Newsletter
+About
+Video Courses
+Hire An Expert
+Contact
+Student Login
+ 
+
+Search
+
+Search for:
+
+
+
+
+
+Recent Posts
+
+
+Formula Challenge #7: Generate A Repeating Sequence Of Numbers
+
+
+11 New Analytical Functions In Google Sheets For 2023
+
+
+How To Create A Google Sheets Drop-Down Menu
+
+
+2022 In Review And A Look Forward To 2023
+
+
+XMATCH Function in Google Sheets
+
+
+Course Bundles
+
+
+
+All Courses Bundle (2022)
+
+
+Data Courses Bundle
+
+
+Formulas Course Bundle
+
+
+Courses
+
+
+
+NEW! Beginner Apps Script
+
+
+Lambda Functions 10-Day Challenge (FREE)
+
+
+Advanced Formulas in Google Sheets (FREE)
+
+
+Apps Script Taster Course (FREE)
+
+
+Google Sheets Essentials
+
+
+Pivot Tables in Google Sheets
+
+
+Data Analysis in Google Sheets
+
+Dashboards with Google Sheets
+
+
+REGEX Formula Cookbook
+
+
+The QUERY Function
+
+
+Automation With Apps Script
+
+
+ 
+
+
+
+
+
+
+
+How To Add Subscript and Superscript In Google Sheets 
+
+In this tutorial, you’ll learn how to add a subscript or superscript in Google Sheets.
+
+Superscript And Subscript Google Sheets Template
+All of the superscript and subscript characters and CHAR function equivalents are available in this free template:
+Superscript Google Sheets Template
+
+Open it and make your own copy from the menu: File > Make a copy
+Superscript In Google Sheets
+At the moment there is no built-in option to add a superscript in Google Sheets (or subscript), so we have to be creative to achieve the effect.
+Method 1: Copy Paste Unicode Characters
+
+Go to the website Graphemica, which is a great site to search for unicode characters
+Type in the symbol you want, using words instead of numbers e.g. “superscript two”
+Copy the result (e.g. for superscript two)
+Paste into your Google Sheet in the formula bar
+To get multiple superscripts next to each other, just copy them multiple times e.g. ¹ then ² to get ¹²
+
+Here’s a list of superscripts, which you can copy:
+
+
+Character
+Superscript
+
+
+0
+⁰
+
+
+1
+¹
+
+
+2
+²
+
+
+3
+³
+
+
+4
+⁴
+
+
+5
+⁵
+
+
+6
+⁶
+
+
+7
+⁷
+
+
+8
+⁸
+
+
+9
+⁹
+
+
+a
+ᵃ
+
+
+b
+ᵇ
+
+
+c
+ᶜ
+
+
+d
+ͩ
+
+
+e
+ͤ
+
+
+f
+ᶠ
+
+
+g
+ᵍ
+
+
+h
+ͪ
+
+
+i
+ͥ
+
+
+j
+ʲ
+
+
+k
+ᵏ
+
+
+l
+ˡ
+
+
+m
+ͫ
+
+
+n
+ⁿ
+
+
+o
+ͦ
+
+
+p
+ᵖ
+
+
+q
+Not available (why?)
+
+
+r
+ͬ
+
+
+s
+ˢ
+
+
+t
+ͭ
+
+
+u
+ͧ
+
+
+v
+ͮ
+
+
+w
+ʷ
+
+
+x
+ˣ
+
+
+y
+ʸ
+
+
+z
+ᶻ
+
+
++
+⁺
+
+
+–
+⁻
+
+
+=
+⁼
+
+
+(
+⁽
+
+
+)
+⁾
+
+
+Method 2: Create Superscripts in Google Sheets with the CHAR function
+The CHAR function converts a number into a character according to the current Unicode table.
+It’s a fun and amazing function. 
+It lets you add weird and wonderful pictures to your Google Sheets using formulas, such as this Christmas tree (from my newsletter) or this turkey:
+
+Anyway, I’m getting carried away. You came here to learn how to add a superscript not a turkey.
+Back on the superscript two Graphemica page (see Method 1 above), copy the number part of the HTML Entity (Decimal), shown in red:
+
+Enter this formula in your Google Sheet:
+=CHAR(178)
+
+With this in mind, here’s how you can create Einstein’s famous mass-energy formula:
+="E = mc"&CHAR(178)
+
+(Quick aside: You can use the CHAR function embedded in other formulas, like any other function.
+For instance, here’s how to use the CHAR function to Create Custom Table Headers in Google Sheets Using Text Rotation.)
+Subscript In Google Sheets
+Add subscripts in the same way you added superscripts to your Google Sheets.
+Method 1: Copy Paste Unicode Characters
+Search Graphemica and copy-paste the subscript into your Google Sheet, for example subscript two.
+Here are the subscript characters:
+
+
+Character
+Subscript
+
+
+0
+₀
+
+
+1
+₁
+
+
+2
+₂
+
+
+3
+₃
+
+
+4
+₄
+
+
+5
+₅
+
+
+6
+₆
+
+
+7
+₇
+
+
+8
+₈
+
+
+9
+₉
+
+
+a
+ₐ
+
+
+e
+ₑ
+
+
+i
+ᵢ
+
+
+o
+ₒ
+
+
+r
+ᵣ
+
+
+u
+ᵤ
+
+
+v
+ᵥ
+
+
+x
+ₓ
+
+
+y
+ᵧ
+
+
++
+₊
+
+
+–
+₋
+
+
+=
+₌
+
+
+(
+₍
+
+
+)
+₎
+
+
+Method 2: Subscript in Google Sheets Using the CHAR function
+Consider the chemical makeup of water: two hydrogen atoms and one oxygen atom, written H₂O.
+In the same vein as the superscript example, you can use the CHAR function to create the subscript.
+Using Graphemica, search for the subscript you want and take the number from the HTML Entity (Decimal):
+
+Insert this into your CHAR function to create the subscript in Google Sheets:
+=CHAR(8322)
+Building on this, the full formula for water is:
+="H"&CHAR(8322)&"O"
+
+Sugar Example
+Here’s a more complex chemical compound — sugar — which has the molecular formula C₁₂H₂₂O₁₁ 
+="C"&CHAR(8321)&CHAR(8322)&"H"&CHAR(8322)&CHAR(8322)&"O"&CHAR(8321)&CHAR(8321)
+
+Last Resort: Font Size
+You can also achieve a subscript effect by changing the font size of the subscript digits in your text. 
+For example, setting the main text to font size 10 and the subscript to font size 6 will create a subscript effect.
+However, I wouldn’t advocate this method because it’s tedious and not robust. But if you’re in a pinch and need a unique subscript that you can’t find elsewhere, maybe it’ll help you out.
+ 
+
+Posted on December 2, 2020November 9, 2022Author BenCategories SpreadsheetsTags Formatting, Google Sheets 
+
+
+
+			3 thoughts on “How To Add Subscript and Superscript In Google Sheets”		
+
+
+
+
+
+ Oluwafemi says: 
+
+October 24, 2021 at 10:32 am 
+
+
+I’m a Google sheet beginner I have created a Google sheet that has several protection on it I want you to help me to create a script that will duplicate the protection with the sheet anytime I duplicate the sheet
+
+Reply 
+
+
+
+
+
+ Matt says: 
+
+September 13, 2022 at 5:57 am 
+
+
+Is it possible to add superscript and subscript in google sheets by simply formatting the text, like it is in excel? Your methods work but they require much more effort.
+
+Reply 
+
+
+
+
+
+ Ben says: 
+
+September 13, 2022 at 10:13 am 
+
+
+Matt – You can copy/paste the characters from the tables and insert them, that’s the quickest/easiest way.
+
+Reply 
+
+
+
+
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name * 
+Email * 
+Website 
+ 
+
+Δ 
+
+
+Post navigation
+Previous Previous post: How To Merge Cells In Google Sheets And When To Be CarefulNext Next post: How To Freeze A Row In Google Sheets
+
+
+
+
+
+
+Privacy Policy 
+				Proudly powered by WordPress			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

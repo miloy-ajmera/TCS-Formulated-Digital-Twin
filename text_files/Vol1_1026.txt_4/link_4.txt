@@ -1,0 +1,1006 @@
+Document Name: role of ADOL 66 in Cold Cream4
+Document link: https://www.cdc.gov/poxvirus/mpox/clinicians/pediatric.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clinical Considerations for Mpox in Children and Adolescents | Mpox | Poxvirus | CDC
+  
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+Skip directly to site content
+Skip directly to search
+
+
+EspaÃ±ol | 
+Other Languages
+
+
+
+
+ 
+
+
+
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People
+
+Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People
+
+
+
+
+
+
+
+
+       
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+Submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Mpox
+
+
+
+
+
+
+
+
+
+
+
+Section Navigation
+
+
+
+
+
+
+
+
+CDC Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Clinical Considerations for Mpox in Children and Adolescents 
+
+
+
+Minus
+
+
+
+Related Pages
+
+
+
+
+Who this is for: Healthcare providers caring for children and adolescents less than ages 18 years in clinics, emergency departments, and hospitals in the United States.
+What this is for: Considerations on clinical management of children and adolescents less than ages 18 years with exposure to mpox or concern for mpox virus infection.
+How to use: These considerations are intended to help U.S. clinicians and health systems develop a plan for managing children and adolescents with exposure to mpox, suspected mpox, or confirmed mpox.
+Clinicians who are caring for children and adolescents with possible mpox should consult their jurisdictional health department to ensure that a public health investigation is performed. Once test results are known, it is important to correctly interpret results and perform clinical management in collaboration with the jurisdictional health department. Health departments can facilitate consultation with CDC for additional guidance, if desired.
+
+
+
+On this page
+
+
+
+Key pointsSigns and symptomsTestingManagement of Mpox 
+
+TreatmentPost-exposure prophylaxis (PEP)Infection controlAdditional considerations 
+
+
+Key points
+
+In the current mpox outbreak, reported cases of mpox in children and adolescents are infrequent (<0.3% of total cases) and disease is generally not severe. Exposure to a household contact with mpox is the predominant route of exposure for children, while sexual contact is the predominant route of exposure for adolescents.
+Mpox should be considered when children or adolescents present with a rash that is consistent with the disease, especially if epidemiologic criteria are present.
+Young children, children with eczema and other skin conditions, and children with immunocompromising conditions may be at increased risk of severe disease.
+Treatment should be considered on a case-by-case basis for children and adolescents with suspected, probable, or confirmed mpox who are at risk of severe disease or who develop complications of mpox. Tecovirimat is the first-line medication to treat mpox, including in children and adolescents.
+Children and adolescents with close contact to people with suspected, probable, or confirmed mpox may be eligible for post-exposure prophylaxis (PEP) with vaccination, immune globulin, or antiviral medication.
+Adolescents with certain risk factors and recent experiences that might make them more likely to have been recently exposed to mpox can be considered for vaccination [i.e., expanded post-exposure prophylaxis (PEP++)].
+Clinicians caring for adolescents who present with lesions consistent with mpox secondary to sexual transmission should consider testing for mpox, as well as for sexually transmitted infections and HIV, and offer appropriate care if tests are positive.
+
+Top of PageChildren and adolescents can become infected with mpox virus through contact with people or animals with mpox or with contaminated materials. This includes close, skin-to-skin contact such as might occur during cuddling, caregiving, or bed-sharing; transmission across the placenta in utero or contact during the birthing process; contact with body fluids and respiratory secretions of patients with mpox or with contaminated fomites; and sexual contact. Historically, mpox has been documented in children and adolescents in many African countries and in periodic outbreaks linked to travel to these countries or imported animals from Africa, including a 2003 outbreak in the United States associated with pet prairie dogs.
+In the current mpox outbreak in the U.S., cases of mpox among children and adolescents has been rare (0.3% of all reported cases as of September 24th, 2022). A report published on November 3rd, 2022 described the epidemiologic and clinical features of 83 cases of infection in children and adolescents. Among them, there were 16 cases among children <5 years, 12 cases in children 5-12 years and 55 cases among adolescents 13-17 years. Most adolescents (89%) were male.  The most common mode of exposure for children <12 years was close physical contact with an adult household member with mpox, while for adolescents the most common exposure was through male-to-male sexual contact. The most common mode of exposure for children <12 years was close physical contact with an adult household member with mpox, while for adolescents the most common exposure was through male-to-male sexual contact.
+Top of PageSigns and symptoms
+Similar to infections in adults, the most common sign of mpox in children and adolescents is a rash that progresses from maculopapular lesions to vesicles, pustules, and finally scabs. Historical reports of Clade I or II mpox infections in children and adolescents describe that the rash is often accompanied by fever, chills, sweats, lymphadenopathy, sore throat, headache, or myalgias. However, during the current outbreak, fever and lymphadenopathy have not always occurred. Other symptoms may include fatigue and headache. Difficulty swallowing or cough may occur when oropharyngeal lesions are present. Intraocular lesions, eyelid swelling, or eyelid crusting may occur when there are lesions near or in a patient’s eye, which can occur when a patient touches these sites with their hand after touching a lesion. (See Clinical Recognition for key characteristics of mpox and pictures of lesions.)
+The rash of mpox may be confused with other rash illnesses that are commonly considered in children, including classic varicella (chickenpox) and varicella zoster (shingles); hand, foot, and mouth disease; measles; scabies; molluscum contagiosum; herpes; syphilis; allergic skin rashes; drug eruptions; and a variety of congenital infections. Co-infections with mpox are possible. When indicated based on clinical presentation, evaluation for etiologies other than mpox should be done at the time of testing for mpox, particularly when no epidemiologic link to a person with mpox has been identified.
+In the recent MMWR report, distribution of the rash in children was predominantly on the trunk and face; none of the children <12 years had anogenital lesions. In contrast, most adolescents presented with anogenital lesions. Over 11% of 83 children and adolescents were hospitalized with no patients requiring intensive care; 22% were treated with tecovirimat; all patients recovered without sequalae. There were 4 infants <1 year of age and no neonates < 4 weeks of age included in this series. An August 2022 publication describing a series of pediatric patients from Spain reported a similarly low rate of complications. Information about the disease course in neonates and young infants in the current outbreak is very limited. A recent report published in October 2022 described the case of a neonate who developed mpox lesions on day 9 of life, as a result of perinatal transmission within a family cluster. The infant required hospitalization and mechanical ventilation. Both mpox virus (clade IIb) and adenovirus were identified in the infant. The infant received a 2-week course of enteral tecovirimat and intravenous cidofovir and recovered. In this case, it is not possible to attribute the clinical illness to either pathogen (mpox virus or adenovirus) directly, nor is it possible to attribute the improvement to the use of tecovirimat or cidofovir.
+Top of PageTesting
+The recommendations for testing for mpox are similar for children and adults. Tests should be performed on people for whom mpox is suspected based on clinical presentation and epidemiologic criteria. If testing is indicated, lesions should be vigorously swabbed and sent for testing according to the guidance on Preparation and Collection of Specimens. Unroofing, opening or aspirating mpox lesions because of the risk for sharps injury and related mpox transmission.
+Positive diagnostic results from testing of lesion material for Orthopoxvirus or mpox virus DNA in people without epidemiologic criteria or known risk factors, or with atypical presentations, should be verified. Molecular tests (e.g., real-time PCR tests) are highly specific and sensitive; however, when epidemiologic criteria are absent or unknown and the Cycle threshold (Ct) value is high (generally ≥34), CDC recommends re-extraction and retesting of the specimen. CDC can be consulted for complex cases, including those that appear atypical or questionable, and can perform additional viral specific- and clade-specific PCR testing and anti-orthopoxvirus serologic testing. For more information, see HAN Archive – 00471 | Health Alert Network (HAN) (cdc.gov) and Orthopoxvirus Testing Challenges for Persons in Populations at Low Risk or Without Known Epidemiologic Link to Mpox — United States, 2022 | MMWR (cdc.gov).
+Patients with suspected mpox should be assessed for contact with people or animals having a rash or diagnosed with mpox. Clinicians should contact their jurisdictional health department (Jurisdictional Contacts) as soon as mpox is suspected.
+Top of PageManagement of Mpox
+As with adults, children and adolescents with mpox should be closely monitored throughout their illness and likely will benefit from supportive care and pain control. Decisions about treatment for children closely align with treatment plans for adults (see Interim Clinical Guidance for the Treatment of Mpox). For the pediatric population, particular attention should be paid to keeping skin lesions covered and preventing children from scratching lesions or touching their eyes after touching lesions, which may result in auto-inoculation and more severe illness. For information about skin care for individuals with mpox lesions, please see.  an ophthalmologist should be consulted and a careful ocular exam performed. Optimal fluid intake should be encouraged, particularly in persons with extensive skin involvement who may have additional fluid losses.
+While most cases of mpox resolve without treatment, treatment should be considered, based on interim guidance for clinical treatment, for children and adolescents who have the following clinical manifestations:
+
+Severe disease, including disseminated rash, a large number of lesions that are confluent, hemorrhagic or necrotic lesions, severe lymphadenopathy that can cause airway obstruction, involvement of multiple organ systems and associated comorbidities (for example, pulmonary involvement with nodular lesions, encephalitis, ocular disease, myocarditis, neurologic involvement), sepsis, or if the disease requires hospitalization.
+Involvement of anatomic areas which might result in serious sequelae that include scarring or strictures.
+
+Treatment should also be considered for children and adolescents who may be at high risk for severe disease:
+
+Children under 1 year of age
+Children and adolescents experiencing severe immunodeficiency or immunocompromise
+Adolescents who are pregnant or breastfeeding
+Children and adolescents with a condition affecting skin integrity
+
+While disease caused by clade I mpox virus may be more severe in children younger than 8 years of age, compared with adults, the limited available evidence from the current outbreak of clade II suggests that, in general, the clinical presentation in children is not more severe than that of adults. There are very limited data for neonates and for young infants. Clinicians caring for young infants with mpox may consider antiviral treatment.
+When considering treatment for a child or adolescent with mpox, clinicians should consult their jurisdictional health department. Jurisdictional health departments can facilitate consultation with CDC for additional guidance, as needed.
+CDC offers a clinical consultation service (email eocevent482@cdc.gov), or healthcare providers may contact the CDC Emergency Operations Center [EOC] at (770) 488-7100) where CDC can provide additional guidance to clinicians with patient management questions.
+Top of PageTreatment
+Tecovirimat
+Tecovirimat is currently the first-line treatment for mpox virus infection in people with severe disease or who are at risk for severe disease, including for children and adolescents.
+Patients should be informed about the clinical trial for tecovirimat (, and encouraged to consider enrollment. For patients who are not eligible for STOMP or who decline to participate, tecovirimat can be provided under an expanded access protocol.
+For more specific information about tecovirimat use for adult and pediatric patients, see Guidance for Tecovirimat Use Under Expanded Access Investigational New Drug Protocol during 2022 U.S. Mpox Outbreak.
+Oral tecovirimat dosing is most practical for children who weigh at least 13 kilograms (approximately 28 pounds), can take capsules or the contents of a capsule mixed with soft food, and are able to eat a fatty meal to ensure optimal drug absorption. In the absence of an oral tecovirimat suspension formulation, IV tecovirimat may be considered for children weighing less than 13 kilograms based on clinical assessment of risk/benefit and if determined appropriate by the treating clinician. For information on weight-based dosing of tecovirimat, see the EA-IND protocol [1 MB, 22 pages]. The protocol includes instructions for opening capsules and mixing with food  [295 KB, 2 pages] or liquid for infants and children who require less than a 200 mg dose, which differs from the FDA-approved TPOXX (tecovirimat) labeling.
+Monitoring of renal function is recommended in pediatric patients < 2 years of age, given theoretical concerns that renal immaturity in young pediatric patients may result in higher exposure of hydroxypropyl-β-cyclodextrin, an ingredient in IV tecovirimat. Animal studies have shown potential for nephrotoxicity at very high exposure levels of hydroxypropyl-β-cyclodextrin. For more information, see Expanded Access IND Protocol: Use of Tecovirimat (TPOXX®) for Treatment of Human Non-Variola Orthopoxvirus Infections in Adults and Children (cdc.gov)  [1 MB, 22 pages].
+Other treatments
+Other treatments might be considered in addition to tecovirimat or as an alternative for children and adolescents who are ineligible or have a contraindication for oral or intravenous tecovirimat. These treatments should be reserved for unusual circumstances, such as very severe infections, disease progression or recrudescence (initial improvement followed by worsening) despite tecovirimat treatment, or when tecovirimat is unavailable. Use of these treatments should be in consultation with infectious disease specialists, pharmacists, state and local health departments, and CDC.
+Vaccinia immune globulin, licensed by the FDA for the treatment of vaccinia virus vaccine complications, may be used for treatment of severe mpox infection, though it is unknown whether children will benefit from treatment. Vaccinia immune globulin is available from the US Strategic National Stockpile and can be requested by clinicians through an existing expanded access Investigational New Drug (EA-IND) protocol.
+The use of the antiviral medications brincidofovir [ 670KB, 21 Pages] and cidofovir [ 828KB, 6 Pages] may also be considered, but these should be used with caution due to potential toxicity. Data are not available on the effectiveness of brincidofovir or cidofovir in treating mpox virus infection in people. However, they have been shown to be effective against orthopoxviruses in in vitro and animal studies. Brincidofovir may have a more favorable safety profile than cidofovir. Cidofovir and brincidofovir should not be used simultaneously. Cidofovir is commercially available. Brincidofovir is made available from the Strategic National Stockpile for treatment of mpox to clinicians who request and obtain an FDA-authorized single-patient emergency use IND (e-IND).  Clinicians with mpox patients necessitating brincidofovir treatment need to submit an e-IND request to FDA by email (DDI.EIND@fda.hhs.gov) or phone 301-796-3400 or 1-855-543-3784 during normal business hours (8 am-4:30 pm ET M-F). During after hours, call the FDA Emergency Coordinator at 1-866-300-4374 or 301-796-8240 or email CDER-EIND@fda.hhs.gov and call the CDER Emergency Coordinator at 301-796-9900.
+Topical trifluridine eye drops can be considered if there is involvement near or in the eye, in consultation with ophthalmology. For additional information on current therapeutic recommendations, see Treatment Information for Healthcare Professionals.
+Top of PagePost-exposure prophylaxis (PEP)
+Data on PEP to prevent mpox in children are limited. The only vaccine that is authorized and recommended for use in children or adolescents for PEP is the JYNNEOS vaccine. PEP should not be withheld from children or adolescents who are otherwise eligible. Decisions about whether to offer PEP should take into account the level of risk from the patient’s exposure and the individual patient’s risk of severe disease. Vaccination, immune globulin, and antiviral medication can be used as mpox PEP. For most people, vaccination is preferred.  Immune globulin may also be considered for infants under 6 months of age, given their immature immune systems and possible decreased responses to vaccination.
+When considering prophylactic modalities for a child or adolescent, clinicians should first consult their jurisdictional health department (Jurisdictional Contacts). Jurisdictional health departments can facilitate consultation with CDC for guidance regarding PEP modalities, when needed, and for assistance with the associated EA IND processes, if applicable.
+Vaccines and other options for mpox PEP in children and adolescents are reviewed below. For detailed information on vaccines for mpox, see Considerations for Mpox Vaccination.
+Vaccines
+JYNNEOS
+JYNNEOS contains a non-replicating Vaccinia virus. While JYNNEOS has not been studied specifically for children or adolescents, the same non-replicating Vaccinia virus in the JYNNEOS vaccine has been used in studies against other diseases including tuberculosis, measles, and Ebola. These studies included children as young as 5 months old, and no serious safety concerns were reported. In the United Kingdom in 2018–2019, JYNNEOS was administered to a few young children, including infants, following exposures to mpox, with no known adverse events. JYNNEOS has also been administered to children in the United States during the current outbreak without any adverse events to date.
+JYNNEOS is available for use as post exposure prophylaxis (PEP) for children and adolescents under 18 years determined to be at high risk for mpox infection under the Emergency Use Authorization (EUA) issued by the US Food and Drug Administration on August 9, 2022. In the current outbreak, children as young as 4 months have been vaccinated with JYNNEOS as PEP after a known exposure. Prior to administration in people younger than age 6 months, clinicians should first contact their jurisdictional health department.
+Vaccination with JYNNEOS for children and adolescents aged <18 years should be administered via subcutaneous injection as two doses (0.5mL each) given four weeks apart, ideally with the first dose given within four days of exposure. The intradermal route of administration is not recommended for persons <18 years, as there are no data with this route of administration in people <18 years. For more information, review EUA Fact Sheet for Healthcare Providers Administering Jynneos Vaccine.
+ACAM2000
+ACAM2000 contains a replicating Vaccinia virus and is associated with adverse events caused by uncontrolled viral replication, such as progressive vaccinia and eczema vaccinatum.
+Up until the early 1970s, a precursor to ACAM2000 was administered to children in the United States to prevent smallpox, an infection caused by another orthopoxvirus. That vaccine and ACAM2000 contain a replicating Vaccinia virus and are associated with adverse events caused by uncontrolled viral replication, such as progressive vaccinia and eczema vaccinatum. Many adverse events were more common in young children, particularly post-vaccinial encephalitis in those under age 12 months, and immunocompromised individuals.
+ACAM2000 is contraindicated in children under 12 months of age and in children and adolescents with the following conditions:
+
+Congenital or acquired immune deficiency disorders, including those taking immunosuppressive medications and people living with HIV (regardless of immune status)
+Atopic dermatitis/eczema or a history of atopic dermatitis/eczema or other acute or exfoliative skin conditions
+Pregnancy
+Cardiac disease
+Eye disease treated with topical steroids
+
+ACAM2000 is allowed for use against mpox under an EA-IND. However, it is not the preferred vaccine and its use should be considered only in cases that the JYNNEOS vaccine is unavailable or if there is a contraindication to its use (e.g., allergy to a component of JYNNEOS).
+Vaccinia immune globulin
+Vaccinia immune globulin is approved for treatment of smallpox vaccine complications. Its effectiveness as mpox PEP is unknown. However, vaccinia immune globulin is available through an EA-IND for potential prevention of mpox. Particularly for infants under 6 months of age with high risk exposures, vaccinia immune globulin can be offered as a PEP modality.
+Antivirals as PEP
+Antiviral medications, primarily tecovirimat, can be considered for mpox PEP in unusual circumstances, such as when vaccine is contraindicated due to an allergy to vaccine components. The effectiveness of antiviral medications as mpox PEP is unknown.
+Top of PageInfection control
+Pediatric inpatient care
+For children hospitalized with suspected or confirmed mpox or for hospitalized children with mpox exposure, isolation and infection control procedures should take into consideration the child’s age and caregiving needs, family and caregiver preferences, and individual patient and caregiver factors, including the patient’s course of illness, the extent and location of lesions, the ability to cover lesions, and the risk to caregivers (e.g., pregnant or immunocompromised persons). The presence of caregivers in the hospital provides immeasurable benefit to children.
+For detailed recommendations on isolation and infection control in healthcare settings, see Infection Control: Healthcare Settings.
+In homes
+Isolation and infection control measures can prevent the spread of mpox virus to others. Extra care should be taken to ensure all children avoid close contact with people who have mpox. If unavoidable, then children over 2 years of age should wear a well-fitting mask or respirator when interacting with members of the household who have mpox, and they should avoid any contact with rash lesions or sharing of bedding, towels, cups or utensils with household members with mpox. Household members with mpox should keep all their lesions covered. Children who have a household member who has mpox should be considered for PEP.
+If a child or adolescent develops mpox, they should avoid contact with uninfected people and pets until the rash has resolved, the scabs have fallen off, and a fresh layer of intact skin has formed. When possible, whether in the hospital or at home, limit the number of caregivers to one person. Caregivers of children with mpox should avoid direct skin-to-skin contact with the child’s rash. During interactions with caregivers, children over 2 years of age with mpox should wear well-fitting source control (e.g., a medical mask) when possible. Caregivers assisting with changing bandages or clothes covering the child’s rash should wear gloves to avoid infection. Gloves should be disposed of after each use, followed by handwashing. If any clothing (whether on the caregiver or the child) comes into contact with the rash, it should be immediately laundered. Caregivers and household members of children with mpox should be considered for PEP.
+Sexually active adolescents
+PEP vaccine should be offered to sexually active adolescents who were exposed to mpox. Additionally, people with certain risk factors and recent experiences that might make them more likely to have been recently exposed to mpox; or put them at increased risk to be exposed in the future, can be considered for vaccination [i.e., expanded post-exposure prophylaxis (PEP++); or PrEP, respectively]. Jurisdictional vaccination programs should reflect national priorities to employ PEP and PEP++ approaches, and should prioritize delivering PEP first, before other vaccination approaches.
+Top of PageAdditional considerations
+Breastfeeding a child who has mpox
+Decisions about whether an infant or child with mpox may directly breastfeed from an uninfected caregiver should be considered on a case-by-case basis through weighing the benefits of breast milk with any uncertain risks of the child transmitting infection to the caregiver, particularly to a caregiver who is immunocompromised or at risk for severe infection. PEP with the JYNNEOS vaccine should be considered for the uninfected caregiver.
+Neonates born to individuals with suspected or confirmed mpox
+Early bathing is recommended for neonates born to individuals with suspected or confirmed mpox. Bathing can be performed using soap and water and should occur prior to the neonate receiving procedures, vaccines, and medications (e.g., Vitamin K).
+PEP should be considered for neonates born to individuals with suspected or confirmed mpox. The specific therapeutic that is administered should be determined after consultation with public health authorities.
+Caregivers or family members who do not have suspected or confirmed mpox can provide routine care to an uninfected neonate who is born to a person with mpox.
+Neonates born to individuals with suspected or confirmed mpox should be closely monitored for the development of signs consistent with mpox, including fever, lymphadenopathy, rash, or any new signs or symptoms of illness, for 21 days following birth or the last close contact with a person with mpox during their infectious period. Monitoring should include at least daily temperature checks and full skin exams, which can be performed by a caregiver or healthcare provider.
+For detailed recommendations, see Clinical Considerations for Mpox in People Who are Pregnant or Breastfeeding.
+Top of PageReferencesAdler H, Gould S, Hine P, et al. Clinical features and management of human monkeypox: a retrospective observational study in the UK [published correction appears in Lancet Infect Dis. 2022 Jul;22(7): e177] [published correction appears in Lancet Infect Dis. 2022 Jul;22(7):e177]. Lancet Infect Dis. 2022;22(8):1153-1162.
+Aguilera-Alonso D, Alonso-Cadenas JA, Roguera-Sopena M, Lorusso N, Miguel LGS, Calvo C. Monkeypox virus infections in children in Spain during the first months of the 2022 outbreak. Lancet Child Adolesc Health. 2022 Nov;6(11):e22-e23. doi: 10.1016/S2352-4642(22)00250-4. Epub 2022 Sep 2. PMID: 36058226; PMCID: PMC9555952.
+Bavarian Nordic, Data on file (clinical study report MEA-HFN-002).
+Berhanu A, Prigge JT, Silvera PM, Honeychurch KM, Hruby DE, Grosenbach DW. Treatment with the smallpox antiviral tecovirimat (ST-246) alone or in combination with ACAM2000 vaccination is effective as a postsymptomatic therapy for monkeypox virus infection. Antimicrob Agents Chemother. 2015;59(7):4296-4300.
+Hennessee I, Shelus V, McArdle CE, et al. Epidemiologic and Clinical Features of Children and Adolescents Aged <18 Years with Monkeypox — United States, May 17–September 24, 2022. MMWR Morb Mortal Wkly Rep 2022;71:1407–1411. DOI: http://dx.doi.org/10.15585/mmwr.mm7144a4
+Hobson G, Adamson J, Adler H, et al. Family cluster of three cases of monkeypox imported from Nigeria to the United Kingdom, May 2021. Euro Surveill. 2021;26(32):2100745.
+Huhn GD, Bauer AM, Yorita K, Graham MB, Sejvar J, Likos A, Damon I, Reynolds M, Kuehnert M. Clinical characteristics of human monkeypox, and risk factors for severe disease. Clin Infect Dis. 2005;41(12):1742-1751.
+Jezek Z, Grab B, Szczeniowski MV, Paluku KM, Mutombo M. Human monkeypox: Secondary attack rates. Bull World Health Organ. 1988;66(4):465-70.
+Jezek Z, Grab B, Szczeniowski M, Paluku KM, Mutombo M. Clinico-epidemiological features of monkeypox patients with an animal or human source of infection. Bull World Health Organ. 1988;66(4):459-64.
+Kisalu NK, Mokili JL. Toward understanding the outcomes of monkeypox infection in human pregnancy. J Infect Dis. 2017 Oct 17;216(7):795-797.
+Lane JM, Ruben FL, Neff JM, Millar JD. Complications of smallpox vaccination, 1968: Results of ten statewide surveys. J Infect Dis 1970;122:303–9.
+Mbala PK, Huggins JW, Riu-Rovira T, Ahuka S, Mulembakani P, Rimoin A, Martin J, Muyembe JJ. Maternal and fetal outcomes among pregnant women with human monkeypox infection in the Democratic Republic of Congo. J Infect Dis. 2017;216(7):824-828.
+Meyer H, Perrichot M, Stemmler M, Emmerich P, Schmitz H, Varaine F, Shungu R, Tshioko F, Formenty P. Outbreaks of disease suspected of being due to human monkeypox virus infection in the Democratic Republic of Congo in 2001. J Clin Microbiol. 2002 Aug;40(8):2919-21.
+Nolen LD, Osadebe L, Katomba J, Likofata J, Mukadi D, Monroe B, Doty J, Hughes CM, Kabamba J, Malekani J, Bomponda PL, Lokota JI, Balilo MP, Likafi T, Lushima RS, Ilunga BK, Nkawa F, Pukuta E, Karhemere S, Tamfum JJ, Nguete B, Wemakoy EO, McCollum AM, Reynolds MG. Extended human-to-human transmission during a monkeypox outbreak in the Democratic Republic of the Congo. Emerg Infect Dis. 2016 Jun;22(6):1014-21.
+Petersen BW, Damon IK, Pertowski CA, et al. Clinical guidance for smallpox vaccine use in a postevent vaccination program. MMWR Recomm Rep. 2015;64(RR-02):1-26. Clinical Guidance for Smallpox Vaccine Use in a Postevent Vaccination Program (cdc.gov).
+Ramnarayan P, Mitting R, Whittaker E, et al. Neonatal monkeypox virus infection. N Engl J Med 2022; N Engl J Med. 2022 Oct 27;387(17):1618-1620.
+Rao AK, Petersen BW, Whitehill F, et al. Use of JYNNEOS (Smallpox and Monkeypox Vaccine, Live, Nonreplicating) for Preexposure Vaccination of Persons at Risk for Occupational Exposure to Orthopoxviruses: Recommendations of the Advisory Committee on Immunization Practices – United States, 2022. MMWR Morb Mortal Wkly Rep. 2022;71(22):734-742. Use of JYNNEOS (Smallpox and Monkeypox Vaccine, Live, Nonreplicating) for Preexposure Vaccination of Persons at Risk for Occupational Exposure to Orthopoxviruses: Recommendations of the Advisory Committee on Immunization Practices — United States, 2022 | MMWR (cdc.gov)
+Use of JYNNEOS (Smallpox and Monkeypox Vaccine, Live, Nonreplicating) for Preexposure Vaccination of Persons at Risk for Occupational Exposure to Orthopoxviruses: Recommendations of the Advisory Committee on Immunization Practices — United States, 2022 | MMWR (cdc.gov)
+Sejvar JJ, Chowdary Y, Schomogyi M, Stevens J, Patel J, Karem K, Fischer M, Kuenert M, Zaki S, Paddock C, Guarner J, Shieh WJ, Patton J, Bernard N, Li Y, Olson V, Kline R, Loparev V, Schmid D, Beard B, Regnery R, Damon I. Human monkeypox infection: A family cluster in the midwestern United States. J Infect Dis. 2004;190(10):1833-1840.
+Tameris MD, Hatherill M, Landry BS, Scriba TJ, Snowden MA, Lockhart S, Shea JE, McClain JB, Hussey GD, Hanekom WA, Mahomed H, McShane H; MVA85A 020 Trial Study Team. Safety and efficacy of MVA85A, a new tuberculosis vaccine, in infants previously vaccinated with BCG: A randomised, placebo-controlled phase 2b trial. Lancet. 2013 Mar 23;381(9871):1021-8.
+United Kingdom Health Services Agency (UK HSA). Recommendations for the use of pre and post exposure vaccination during a monkeypox incident. 2022. Recommendations for the use of pre and post exposure vaccination during a monkeypox incident (publishing.service.gov.uk) [422 KB, 23 pages]
+
+
+
+
+
+
+
+
+
+
+						Last Reviewed:  November 17, 2022 Source: 	Centers for Disease Control and Prevention, National Center for Emerging and Zoonotic Infectious Diseases (NCEZID), Division of High-Consequence Pathogens and Pathology (DHCPP)
+
+
+
+
+
+Facebook
+Twitter
+LinkedIn
+Syndicate
+
+
+
+
+
+
+
+homeMpoxYour Healthplus iconSigns & SymptomsHow It SpreadsTestingPreventionplus iconProtect YourselfMpox and HIVSafer Sex & Social GatheringsPets & MpoxCongregate SettingsVaccinesIf You're a Close ContactIf You Are Sickplus iconWhat to Do If You Are SickPrevent Spread to OthersPatient's Guide to TecovirimatCleaning and DisinfectingAbout Mpox2022 Outbreak Cases & Dataplus icon2022 U.S. Map & Case CountU.S. Case Trends2022 Global Map & Case CountOutbreak Reproduction Number EstimatesVaccine Administration & Effectivenessplus iconVaccine Administration DataVaccine Administration U.S. MapJYNNEOS Vaccine CoverageRisk Assessment of Mpox Resurgence and Vaccination ConsiderationsJYNNEOS Vaccine EffectivenessRates of Mpox Cases by Vaccination StatusLaboratory Testingplus iconLaboratory Testing DataLaboratory Testing Data by HHS RegionLaboratory Testing by DemographicsCase DemographicsTPOXX Patient DataBehavioral SurveyU.S. Wastewater DataTechnical Reportplus iconReport 1Report 2Report 3Report 4Report 4: Supplementary AnalysisResourcesScience Behind TransmissionPast U.S. Cases & Outbreaks
+Healthcare Professionalsplus iconCase DefinitionClinical Guidanceplus iconClinical Quick ReferenceClinical RecognitionConsiderations for People with HIVPregnancy ConsiderationsConsiderations for Ocular InfectionPediatric ConsiderationsMonitoring Persons ExposedIsolation & Prevention PracticesClinical TreatmentPain ManagementClinician Fact Sheet: VIRISMAPTecovirimatTecovirimat INDVaccinesplus iconVaccination Basics for Healthcare ProfessionalsVaccine Considerationsplus iconComponents of the U.S. National Vaccination StrategyJYNNEOSACAM2000Specific PopulationsErrors and DeviationsDeveloping Outreach ServicesProvider AgreementTalking with Patients About VaccinationsSpecimen Collectionplus iconBiopsy of Severe InfectionsInfection Controlplus iconInfection Control in Healthcare SettingsIsolation & Infection Control at HomeAutopsy & Handling of Human RemainsCompleting Death CertificatesClinician FAQs
+
+Laboratoriesplus iconLaboratory BiosafetyHow to Report Test Results
+
+Health Departmentsplus iconCase ReportingVaccine Equity ProgramIntervention ServicesResponse Stories
+
+Veterinariansplus iconMpox in AnimalsFor Public Health Veterinarians & Animal Health OfficialsExamining Animals with Suspected MpoxAfrican Rodent Importation BanCase Definitions for Animals
+
+Communication Resourcesplus iconDigital ResourcesCommunity, Work & School Toolkitsplus iconMpox Equity and Anti-Stigma ToolkitSocial MediaSchools, Early Care & EducationInstitutions of Higher EducationWorkplaces and BusinessesLarge GatheringsCorrectional and Detention FacilitiesEvent OrganizersSex-On-Premises VenuesTeens & Young AdultsPeople Experiencing HomelessnessSex Workers
+
+What’s New & Updated
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About CDC
+Contact Us
+800-232-4636
+
+
+
+
+Facebook
+Twitter
+Instagram
+LinkedIn
+Youtube
+Pinterest
+Snapchat
+
+
+
+
+
+
+
+
+					CONTACT CDC
+				
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+Call 800-232-4636
+
+
+
+
+
+
+
+Email Us
+
+
+
+
+
+
+
+
+					ABOUT CDC
+				
+
+
+
+About CDC
+Jobs
+Funding
+
+
+
+
+
+
+					POLICIES
+				
+
+
+
+Accessibility
+External Links
+Privacy
+Policies
+No Fear Act
+FOIA
+OIG
+Nondiscrimination
+Vulnerability Disclosure Policy
+
+
+
+
+
+
+					CONNECT WITH US
+				
+
+
+
+
+Facebook
+Twitter
+Instagram
+LinkedIn
+
+
+Youtube
+Pinterest
+Snapchat
+Email
+
+
+
+
+
+
+
+					LANGUAGES
+				
+
+
+
+EspaÃ±ol
+ç¹é«ä¸­æ
+Tiáº¿ng Viá»t
+íêµ­ì´
+Tagalog
+Ð ÑÑÑÐºÐ¸Ð¹
+Ø§ÙØ¹Ø±Ø¨ÙØ©
+KreyÃ²l Ayisyen
+FranÃ§ais
+Polski
+PortuguÃªs
+Italiano
+Deutsch
+æ¥æ¬èª
+ÙØ§Ø±Ø³Û
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. Department of Health & Human Services
+Accessibility
+External Links
+Privacy
+Policies
+No Fear Act
+FOIA
+Nondiscrimination
+OIG
+Vulnerability Disclosure Policy
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SAS
+
+
+
+
+stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exit Notification / Disclaimer Policy
+
+Close
+
+
+
+
+
+
+Links with this icon  indicate that you are leaving the CDC website.
+
+The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+You will be subject to the destination website's privacy policy when you follow the link.
+CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+
+
+			For more information on CDC's web notification policies, see Website Disclaimers.
+		
+
+
+Cancel
+Continue
+
+
+
+
+
+
+
+
+
+CDC.gov Privacy Settings
+
+
+We take your privacy seriously. You can review and change the way we collect information below.
+
+
+
+
+
+
+
+								Performance Cookies Checkbox
+							
+
+
+										Performance Cookies
+									
+
+
+
+
+
+
+									These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+								
+
+
+
+
+
+
+								Functional Cookies Checkbox
+							
+
+
+										Functional Cookies
+									
+
+
+
+
+
+
+									Cookies used to make website functionality more relevant to you. These cookies perform functions like remembering presentation options or choices and, in some cases, delivery of web content that based on self-identified area of interests.
+								
+
+
+
+
+
+
+								Campaign Cookies Checkbox
+							
+
+
+										Campaign Cookies
+									
+
+
+
+
+
+
+									Cookies used to track the effectiveness of CDC public health campaigns through clickthrough data.
+								
+
+
+
+
+
+
+								Social Media Cookies Checkbox
+							
+
+
+									Social Media Cookies
+								
+
+
+
+
+
+
+									Cookies used to enable you to share pages and content that you find interesting on CDC.gov through third party social networking and other websites. These cookies may also be used for advertising purposes by these third parties.
+								
+
+
+
+
+
+
+
+Remove all
+
+
+Confirm Choices
+
+
+
+
+
+Confirmed!
+Thank you for taking the time to confirm your preferences. If you need to go back and make any changes, you can always do so by going to our Privacy Policy page.
+Close
+
+
+
+
+

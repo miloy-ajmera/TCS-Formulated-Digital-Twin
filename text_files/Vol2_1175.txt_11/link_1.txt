@@ -1,0 +1,1679 @@
+Document Name: role of Sodium Hydroxide in Protective Cream1
+Document link: https://wwwn.cdc.gov/TSP/MMG/MMGDetails.aspx?mmgid=246&toxid=45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Sodium Hydroxide | Medical Management Guidelines | Toxic Substance Portal | ATSDR
+
+
+
+Skip directly to site content
+
+
+
+
+
+
+
+Agency for Toxic Substance and Disease Registration
+Agency for Toxic Substance and Disease Registration
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+Submit
+
+
+
+
+
+For a full list of topics: A-Z Index
+
+
+
+					Advanced Search
+				
+
+
+
+
+				Advanced Search
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toxic Substances Portal
+
+
+
+
+
+
+
+
+
+
+
+CDC Template Package
+Version 4
+
+
+
+
+
+
+
+Facebook
+Twitter
+LinkedIn
+Syndicate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On This Page
+
+General Information
+Health Effects
+Prehospital Management
+Emergency Department Management
+Patient Information Sheet
+Follow-up Instructions
+Where can I get more information?
+
+
+Medical Management Guidelines for Sodium Hydroxide (NaOH)
+CAS#  1310-73-2
+UN# 1823 (solid), 1824 (solution)
+PDF Versionpdf icon[190 KB]
+
+Synonyms include caustic soda, lye, soda 
+                    lye, and sodium hydrate.
+
+Persons whose clothing or skin is contaminated with solid 
+                      sodium hydroxide or its solutions can secondarily contaminate 
+                      rescuers by direct contact.
+Sodium hydroxide is a white, noncombustible solid that 
+                      absorbs moisture from the air. When the solid is in contact 
+                      with water, it may generate sufficient heat to ignite combustible 
+                      materials. The solid and its solutions are corrosive. Sodium 
+                      hydroxide is odorless; thus, odor provides no warning of 
+                      hazardous concentrations.
+Sodium hydroxide does not produce systemic toxicity, but 
+                      is very CORROSIVE and can cause severe burns in all tissues 
+                      that it comes in contact with. Sodium hydroxide poses a 
+                      particular threat to the eyes, since it can hydrolyze protein, 
+                      leading to severe eye damage.
+
+
+Top of Page
+
+ General Information
+Description
+At room temperature, anhydrous sodium 
+                    hydroxide is a white crystalline, odorless solid that absorbs 
+                    moisture from the air. It is produced as flakes, pellets, 
+                    sticks, and cakes. When dissolved in water or neutralized 
+                    with acid, it liberates substantial heat, which may be sufficient 
+                    to ignite combustible materials. Sodium hydroxide is caustic 
+                    and is one of several alkaline compounds referred to as "lye." 
+                    It is generally used commercially as either the solid or as 
+                    a 50% aqueous solution and should be stored in a cool, dry, 
+                    well ventilated location separate from organic and oxidizing 
+                    materials, acids, and metal powders.
+Routes of Exposure
+Inhalation
+Inhalation of sodium hydroxide dust, 
+                    mist, or aerosol may cause irritation of the mucous membranes 
+                    of the nose, throat, and respiratory tract. Sodium hydroxide 
+                    is odorless; thus, odor provides no warning of hazardous 
+                    concentrations. Mucous membrane irritation occurs at the 
+                    OSHA PEL (2 mg/m3) and is generally an adequate warning 
+                    property for acute exposure to sodium hydroxide. However, 
+                    workers exposed to prolonged or recurrent mists or aerosols 
+                    of sodium hydroxide can become somewhat tolerant of the irritant 
+                    effects. Sodium hydroxide of sufficient strength can hydrolyze 
+                    proteins in tissues and can kill cells in tissues.
+Children exposed to the same levels of 
+                    sodium hydroxide in air as adults may receive a larger dose 
+                    because they have greater lung surface area:body weight ratios 
+                    and increased minute volumes:weight ratios. In addition, they 
+                    may be exposed to higher levels than adults in the same location 
+                    because of their short stature and the higher levels of sodium 
+                    hydroxide in air found nearer to the ground. 
+Skin/Eye Contact
+Exposure to sodium hydroxide solid or 
+                    solution can cause skin and eye irritation. Direct contact 
+                    with the solid or with concentrated solutions causes thermal 
+                    and chemical burns leading to deep-tissue injuries. Very strong 
+                    solutions of sodium hydroxide can hydrolyze proteins in the 
+                    eyes, leading to severe burns and eye damage or, in extreme 
+                    cases, blindness.
+Children are more vulnerable to toxicants 
+                    affecting the skin because of their relatively larger surface 
+                    area: body weight ratio.
+Ingestion
+Ingestion of sodium hydroxide can cause 
+                    severe corrosive injury to the lips, tongue, oral mucosa, 
+                    esophagus, and stomach.
+Sources/Uses
+Sodium hydroxide is produced by the electrolysis 
+                    of aqueous solutions of sodium chloride (brine) or by reacting 
+                    naturally occurring sodium carbonate with calcium hydroxide.
+Sodium hydroxide is used to manufacture 
+                    soaps, rayon, paper, explosives, dyestuffs, and petroleum 
+                    products. It is also used in processing cotton fabric, laundering 
+                    and bleaching, metal cleaning and processing, electroplating, 
+                    oxide coating, and electrolytic extracting. It is commonly 
+                    present in commercial drain and oven cleaners.
+Standards and Guidelines
+OSHA PEL (permissible exposure limit) 
+                    = 2 mg/m3 (averaged over an 8-hour workshift)
+NIOSH IDLH (immediately dangerous to 
+                    life or health) = 10 mg/m3
+AIHA ERPG-2 (emergency response planning 
+                    guideline) (maximum airborne concentration below which it 
+                    is believed that nearly all individuals could be exposed for 
+                    up to 1 hour without experiencing or developing irreversible 
+                    or other serious health effects or symptoms which could impair 
+                    an individual's ability to take protective action) = 5 mg/m3
+Physical Properties - Calcium Hypochlorite
+Description: Colorless-to-white, 
+                    odorless, solid that absorbs moisture from the air.
+Warning properties: Inadequate; 
+                    no odor. Mucous membrane irritation at 2 mg/m3.
+Molecular weight: 40.0 daltons
+Boiling point (760 mm Hg): 2,534°F 
+                    (1,390°C)
+Freezing point: 605°F (318°C)
+Specific gravity: 2.13 (water 
+                    = 1)
+Vapor pressure: 0 mm Hg at 68°F 
+                    (20°C)
+Water solubility: 111% at 68°F 
+                    (20°C)
+Flammability: Noncombustible solid, 
+                    but when in contact with water, it may generate enough heat 
+                    to ignite combustible materials.
+Incompatibilities
+Sodium hydroxide dissolves easily in 
+                    water generating a great deal of heat. It reacts with acids 
+                    (also generating a lot of heat); halogenated organic compounds; 
+                    metals such as aluminum, tin, and zinc; and nitromethane. 
+                    Sodium hydroxide is corrosive to most metals.
+
+Top of Page
+
+Health Effects
+
+Sodium hydroxide is strongly irritating and corrosive. 
+                      It can cause severe burns and permanent damage to any tissue 
+                      that it comes in contact with. Sodium hydroxide can cause 
+                      hydrolysis of proteins, and hence can cause burns in the 
+                      eyes which may lead to permanent eye damage.
+Inhaled sodium hydroxide can cause swelling of the larynx 
+                      and an accumulation of fluid in the lungs.
+Stridor, vomiting, drooling, and abdominal pain are early 
+                      symptoms of sodium hydroxide ingestion. Ingestion may lead 
+                      to perforation of the gastrointestinal tract and shock.
+Sodium hydroxide does not produce systemic toxicity; its 
+                      health effects are due to its corrosive nature.
+
+Acute Exposure
+Sodium hydroxide is strongly irritating 
+                    and corrosive. It can cause severe burns and permanent damage 
+                    to any tissue that it comes in contact with. The extent of 
+                    damage to the gastrointestinal tract may not be clear until 
+                    several hours after ingestion. Inhaled sodium hydroxide can 
+                    cause swelling of the larynx and an accumulation of fluid 
+                    in the lungs. Contact with 25-50% solutions produces immediate 
+                    irritation, while after contact with solutions of 4% or less, 
+                    irritation may not develop for several hours. It may not be 
+                    possible to correctly ascertain the degree of damage to eyes 
+                    for up to 72 hours after exposure.
+Children do not always respond to chemicals 
+                    in the same way that adults do. Different protocols for managing 
+                    their care may be needed.
+Respiratory
+Inhalation of sodium hydroxide is immediately 
+                    irritating to the respiratory tract. Swelling or spasms of 
+                    the larynx leading to upper-airway obstruction and asphyxia 
+                    can occur after high-dose inhalation. Inflammation of the 
+                    lungs and an accumulation of fluid in the lungs may also occur.
+Children may be more vulnerable to corrosive 
+                    agents than adults because of the relatively smaller diameter 
+                    of their airways.
+Children may be more vulnerable because 
+                    of relatively increased minute ventilation per kg and failure 
+                    to evacuate an area promptly when exposed.
+People with asthma or emphysema may be 
+                    more susceptible to the toxicity of this agent.
+Dermal 
+Skin contact with solid sodium hydroxide or its concentrated solutions can cause severe burns with deep ulcerations. Burns appear soft and moist and are very painful. Although contact with concentrated solutions causes pain and irritation within 3 minutes, contact with dilute solutions may not cause symptoms for several hours.  
+Because of their relatively larger surface area:body weight ratio, children are more vulnerable to toxicants affecting the skin. 
+Ocular
+Eye exposure may produce diffuse or localized 
+                    blood vessel clots and an accumulation of fluid in the eye. 
+                    Softening, sloughing, and ulcerations of the cornea may occur. 
+                    Ulcerations may continue to progress for many days. Severe 
+                    injury can lead to clouding of the eye surface and blindness.
+Gastrointestinal
+Ingestion of sodium hydroxide can cause 
+                    spontaneous vomiting, chest and abdominal pain, and difficulty 
+                    swallowing with drooling. Corrosive injury to the mouth, throat, 
+                    esophagus, and stomach is extremely rapid and may result in 
+                    perforation, hemorrhage, and narrowing of the gastrointestinal 
+                    tract.
+Potential Sequelae
+Cataracts, glaucoma, adhesion of the 
+                    eyelid to the cornea, blindness, and loss of the eye may occur 
+                    after eye exposure. 
+Cancer of the esophagus has been reported 
+                    15 to 40 years after the formation of corrosion-induced strictures. 
+                    However, it is believed that these cancers were the result 
+                    of tissue destruction and scar formation rather than a direct 
+                    cancer-causing action of sodium hydroxide.
+Severe inhalation injuries may cause 
+                    persistent hoarseness and reactive airways dysfunction syndrome 
+                    (RADS), a chemically- or irritant-induced type of asthma. 
+                  
+Chronic Exposure
+Chronic exposure to dusts or mists of 
+                    sodium hydroxide may lead to ulceration of the nasal passages. 
+                    Chronic skin exposures can lead to dermatitis. Ingestion may 
+                    lead to perforation of the gastrointestinal tract or stricture 
+                    formation.
+Chronic exposure may be more serious 
+                    for children because of their potential longer latency period.
+Carcinogenicity
+Sodium hydroxide has not been classified 
+                    for carcinogenic effects. See Potential Sequelae above.
+Reproductive and Developmental Effects
+Sodium hydroxide dissociates within the 
+                    body and would not reach the reproductive organs in an unchanged 
+                    state. No data were located concerning reproductive endpoints 
+                    in humans exposed to sodium hydroxide. Sodium hydroxide is 
+                    not teratogenic in rats. Sodium hydroxide is not included 
+                    in Reproductive and Developmental Toxicants, a 1991 
+                    report published by the U.S. General Accounting Office (GAO) 
+                    that lists 30 chemicals of concern because of widely acknowledged 
+                    reproductive and developmental consequences.
+
+Top of Page
+
+ Prehospital Management
+
+Victims whose clothing or skin is contaminated with sodium 
+                      hydroxide solid or solutions can secondarily contaminate 
+                      response personnel by direct contact. Victims do not pose 
+                      risks of secondary contamination after clothing is removed 
+                      and the skin is washed.
+Sodium hydroxide is corrosive to tissues. When mists or 
+                      aerosols of sodium hydroxide are inhaled, laryngeal edema 
+                      and noncardiogenic pulmonary edema can result. Extensive 
+                      skin burns or gastrointestinal-tract injury from ingestion 
+                      may compromise fluid balance, causing shock; early clinical 
+                      appearance may not predict this event. Stridor, vomiting, 
+                      painful swallowing, drooling, and abdominal pain are early 
+                      symptoms of sodium hydroxide ingestion.
+There is no antidote for sodium hydroxide. Treatment consists 
+                      of respiratory and cardiovascular support.
+
+Hot Zone
+Rescuers should be trained and appropriately 
+                    attired before entering the Hot Zone. If the proper equipment 
+                    is not available, or if rescuers have not been trained in 
+                    its use, assistance should be obtained from a local or regional 
+                    HAZMAT team or other properly equipped response organization.
+Rescuer Protection
+Sodium hydroxide is a severe respiratory-tract 
+                    and skin irritant.
+Respiratory Protection: Positive-pressure, 
+                    self-contained breathing apparatus (SCBA) is recommended in 
+                    response situations that involve exposure to potentially unsafe 
+                    levels of sodium hydroxide.
+Skin Protection: Chemical-protective 
+                    clothing is recommended because sodium hydroxide can cause 
+                    irritation or skin burns.
+ABC Reminders
+Quickly access for a patent airway, ensure 
+                    adequate respiration and pulse. If trauma is suspected, maintain 
+                    cervical immobilization manually and apply a cervical collar 
+                    and a backboard when feasible.
+Victim Removal
+If victims can walk, lead them out of 
+                    the Hot Zone to the Decontamination Zone. Victims who are 
+                    unable to walk may be removed on backboards or gurneys; if 
+                    these are not available, carefully carry or drag victims to 
+                    safety.
+Consider appropriate management of chemically 
+                    contaminated children, such as measures to reduce separation 
+                    anxiety if a child is separated from a parent or other adult.
+Decontamination Zone
+All victims require decontamination as 
+                    described below.
+Rescuer Protection
+If exposure levels are determined to 
+                    be safe, decontamination may be conducted by personnel wearing 
+                    a lower level of protection than that worn in the Hot Zone 
+                    (described above).
+ABC Reminders
+Quickly access for a patent airway, ensure 
+                    adequate respiration and pulse. Stabilize the cervical spine 
+                    with a collar and a backboard if trauma is suspected. Administer 
+                    supplemental oxygen as required. Assist ventilation with a 
+                    bag-valve-mask device if necessary.
+Basic Decontamination
+Rapid decontamination is critical. 
+                    Victims who are able may assist with their own decontamination. 
+                    Rescuers should wear protective clothing and gloves while 
+                    treating patients whose skin is contaminated with sodium hydroxide. 
+                  
+Immediately brush any solid material 
+                    from clothes, skin, or hair while protecting the victim's 
+                    eyes. Quickly remove contaminated clothing and flush exposed 
+                    areas with water for at least 15 minutes. Double-bag contaminated 
+                    clothing and personal belongings. Use caution to avoid hypothermia 
+                    when decontaminating children or the elderly. Use blankets 
+                    or warmers when appropriate.
+Flush exposed or irritated eyes with 
+                    plain water or saline for at least 30 minutes. Remove contact 
+                    lenses if easily removable without additional trauma to the 
+                    eye, otherwise sodium hydroxide trapped beneath the lens will 
+                    continue to damage the eye. If pain or injury is evident, 
+                    continue irrigation while transferring the victim to the Support 
+                    Zone.
+In cases of ingestion, do not induce 
+                    emesis. Do not administer activated charcoal or attempt 
+                    to neutralize stomach contents.
+Victims who are conscious and able to 
+                    swallow can be given 4 to 8 ounces of milk or water; if the 
+                    patient is symptomatic, delay decontamination until other 
+                    emergency measures have been instituted.
+                    Consider appropriate management of chemically contaminated 
+                    children at the exposure site. Provide reassurance to the 
+                    child during decontamination, especially if separation from 
+                    a parent occurs.
+Transfer to Support Zone
+As soon as basic decontamination is complete, 
+                    move the victim to the Support Zone.
+Support Zone
+Be certain that victims have been decontaminated 
+                    properly (see Decontamination Zone above). Victims 
+                    who have undergone decontamination pose no serious risks of 
+                    secondary contamination to rescuers. In such cases, Support 
+                    Zone personnel require no specialized protective gear.
+ABC Reminders
+Quickly access for a patent airway. If 
+                    trauma is suspected, maintain cervical immobilization manually 
+                    and apply a cervical collar and a backboard when feasible. 
+                    Ensure adequate respiration and pulse. Administer supplemental 
+                    oxygen as required and establish intravenous access if necessary. 
+                    Place on a cardiac monitor.
+Additional Decontamination
+Continue irrigating exposed skin and 
+                    eyes, as appropriate.
+In cases of ingestion, do not induce 
+                    emesis. Do not administer activated charcoal or attempt 
+                    to neutralize stomach contents.
+Victims who are conscious and able to 
+                    swallow can be given 4 to 8 ounces of milk or water if this 
+                    has not been given previously; if the patient is symptomatic, 
+                    delay decontamination until other emergency measures have 
+                    been instituted.
+Advanced Treatment
+In cases of respiratory compromise secure 
+                    airway and respiration via endotracheal intubation. If not 
+                    possible, perform cricothyroidotomy if equipped and trained 
+                    to do so. Avoid blind nasotracheal intubation or the use of 
+                    an esophageal obturator. Use direct visualization to intubate.
+Treat patients who have bronchospasm 
+                    with aerosolized bronchodilators. The use of bronchial sensitizing 
+                    agents in situations of multiple chemical exposures may pose 
+                    additional risks. Consider the health of the myocardium before 
+                    choosing which type of bronchodilator should be administered. 
+                    Cardiac sensitizing agents may be appropriate; however, the 
+                    use of cardiac sensitizing agents after exposure to certain 
+                    chemicals may pose enhanced risk of cardiac arrhythmias (especially 
+                    in the elderly). Sodium hydroxide poisoning is not known to 
+                    pose additional risk during the use of bronchial or cardiac 
+                    sensitizing agents. 
+Consider racemic epinephrine aerosol 
+                    for children who develop stridor. Dose 0.25-0.75 mL of 2.25% 
+                    racemic epinephrine solution in 2.5 cc water, repeat every 
+                    20 minutes as needed, cautioning for myocardial variability.
+Patients who are comatose, hypotensive, 
+                    or are having seizures or cardiac arrhythmias should be treated 
+                    according to advanced life support (ALS) protocols.
+Transport to Medical Facility
+Only decontaminated patients should be 
+                    transported to a medical facility. "Body bags" are 
+                    not recommended.
+Report to the base station and the receiving 
+                    medical facility the condition of the patient, treatment given, 
+                    and estimated time of arrival at the medical facility.
+If a chemical has been ingested, prepare 
+                    the ambulance in case the victim vomits toxic material. Have 
+                    ready several towels and open plastic bags to quickly clean 
+                    up and isolate vomitus.
+Multi-Casualty Triage
+Consult with the base station physician 
+                    or the regional poison control center for advice regarding 
+                    triage of multiple victims.
+Patients with evidence of ingestion or 
+                    substantial inhalation exposure or who have evidence of eye 
+                    or skin burns should be transported to a medical facility 
+                    for evaluation. Others may be discharged from the scene after 
+                    their names, addresses, and telephone numbers are recorded. 
+                    Those discharged should be advised to seek medical care promptly 
+                    if symptoms develop (see Patient Information Sheet 
+                    below).
+
+Top of Page
+
+ Emergency Department Management
+
+Patients who have sodium hydroxide solid or solution on 
+                      their skin or clothing can secondarily contaminate hospital 
+                      personnel by direct contact. Patients do not pose risks 
+                      of secondary contamination after clothing is removed and 
+                      the skin is washed.
+Sodium hydroxide is corrosive to tissues. The severity 
+                      of sodium hydroxide burns may not be readily apparent until 
+                      24 to 48 hours after exposure.
+Stridor, vomiting, drooling, and abdominal pain are early 
+                      symptoms of sodium hydroxide ingestion. Patients who have 
+                      ingested sodium hydroxide may progress to shock. Patients 
+                      who have inhaled mists or aerosols of sodium hydroxide may 
+                      experience laryngeal edema and noncardiogenic pulmonary 
+                      edema.
+There is no antidote for sodium hydroxide. Treatment consists 
+                      of respiratory and cardiovascular support.
+
+Decontamination Area
+Unless previously decontaminated, all 
+                    patients suspected of contact with solid sodium hydroxide 
+                    or its solutions and all victims with skin or eye irritation 
+                    require decontamination as described below. Because sodium 
+                    hydroxide is extremely corrosive, hospital personnel should 
+                    don rubber gloves, rubber aprons, and eye protection before 
+                    treating contaminated patients. All other patients may be 
+                    transferred to the Critical Care area.
+Be aware that use of protective equipment 
+                    by the provider may cause fear in children, resulting in decreased 
+                    compliance with further management efforts.
+Because of their relatively larger surface 
+                    area:body weight ratio, children are more vulnerable to toxicants 
+                    affecting the skin. Also, emergency room personnel should 
+                    examine children's mouths because of the frequency of hand-to-mouth 
+                    activity among children.
+ABC Reminders
+Evaluate and support airway, breathing, 
+                    and circulation. Children may be more vulnerable to corrosive 
+                    agents than adults because of the smaller diameter of their 
+                    airways. Administer 100% humidified supplemental oxygen to 
+                    patients who have hypoxemia. In cases of respiratory compromise 
+                    secure airway and respiration via endotracheal intubation. 
+                    Because of possible corrosive injury, intubation should be 
+                    done carefully. If not possible, surgically create an airway.
+Treat patients who have bronchospasm 
+                    with aerosolized bronchodilators. The use of bronchial sensitizing 
+                    agents in situations of multiple chemical exposures may pose 
+                    additional risks. Consider the health of the myocardium before 
+                    choosing which type of bronchodilator should be administered. 
+                    Cardiac sensitizing agents may be appropriate; however, the 
+                    use of cardiac sensitizing agents after exposure to certain 
+                    chemicals may pose enhanced risk of cardiac arrhythmias (especially 
+                    in the elderly). Sodium hydroxide poisoning is not known to 
+                    pose additional risk during the use of bronchial or cardiac 
+                    sensitizing agents. 
+Consider racemic epinephrine aerosol 
+                    for children who develop stridor. Dose 0.25-0.75 mL of 2.25% 
+                    racemic epinephrine solution in 2.5 cc water, repeat every 
+                    20 minutes as needed, cautioning for myocardial variability.
+Patients who are comatose, hypotensive, 
+                    or have seizures or ventricular arrhythmias should be treated 
+                    in the conventional manner. 
+Basic Decontamination
+Rapid decontamination is critical. 
+                    Patients who are able may assist with their own decontamination.
+Immediately brush any solid material 
+                    from clothes, skin, or hair while protecting the victim's 
+                    eyes. Quickly remove contaminated clothing and flush exposed 
+                    areas with water for at least 15 minutes. Double-bag contaminated 
+                    clothing and personal belongings. Use caution to avoid hypothermia 
+                    when decontaminating children or the elderly. Use blankets 
+                    or warmers when appropriate.
+Flush exposed or irritated eyes with 
+                    plain water or saline for at least 30 minutes. Remove contact 
+                    lenses if easily removable without additional trauma to the 
+                    eye. If a corrosive material is suspected or if pain or injury 
+                    is evident, continue irrigation while transferring the victim 
+                    to the Critical Care Area.
+In cases of ingestion, do not induce 
+                    emesis. Do not administer activated charcoal or attempt 
+                    to neutralize stomach contents.
+Victims who are conscious and able to 
+                    swallow can be given 4 to 8 ounces of milk or water if this 
+                    has not been given previously (see Critical Care Area 
+                    below for more information on ingestion exposure).
+Critical Care Area
+Be certain that appropriate decontamination 
+                    has been carried out (see Decontamination Area above).
+ABC Reminders
+Evaluate and support airway, breathing, 
+                    and circulation as in ABC Reminders above. Children 
+                    may be more vulnerable to corrosive agents than adults because 
+                    of the smaller diameter of their airways. Establish intravenous 
+                    access in seriously ill patients if this has not been done 
+                    previously. Continuously monitor cardiac rhythm.
+Patients who are comatose, hypotensive, 
+                    or have seizures or cardiac arrhythmias should be treated 
+                    in the conventional manner. 
+Inhalation Exposure
+Administer supplemental oxygen by mask 
+                    to patients who have respiratory symptoms. Treat patients 
+                    who have bronchospasm with aerosolized bronchodilators. The 
+                    use of bronchial sensitizing agents in situations of multiple 
+                    chemical exposures may pose additional risks. Consider the 
+                    health of the myocardium before choosing which type of bronchodilator 
+                    should be administered. Cardiac sensitizing agents may be 
+                    appropriate; however, the use of cardiac sensitizing agents 
+                    after exposure to certain chemicals may pose enhanced risk 
+                    of cardiac arrhythmias (especially in the elderly). Sodium 
+                    hydroxide poisoning is not known to pose additional risk during 
+                    the use of bronchial or cardiac sensitizing agents. 
+Consider racemic epinephrine aerosol 
+                    for children who develop stridor. Dose 0.25-0.75 mL of 2.25% 
+                    racemic epinephrine solution in 2.5 cc water, repeat every 
+                    20 minutes as needed, cautioning for myocardial variability.
+Skin Exposure
+Skin burns from sodium hydroxide should 
+                    be irrigated frequently with normal saline for 24 hours. Consider 
+                    early (within 1 hour of exposure) institution of continuous 
+                    hydrotherapy. Neutralizing substances should not be used. 
+                    Fluid resuscitation should be provided as for comparable thermal 
+                    burns; keeping in mind that the full extent of the sodium 
+                    hydroxide burn may not be accurately assessed for 24 to 48 
+                    hours and may be underestimated initially.
+Because of their relatively larger surface 
+                    area:body weight ratio children are more vulnerable to toxicants 
+                    affecting the skin.
+Eye Exposure
+Continue eye irrigation until the pH 
+                    of the conjunctival sac is neutral (pH 7). The pH of the conjunctiva 
+                    should be checked every 30 minutes for 2 hours after irrigation 
+                    is stopped to ensure that the measured pH is that of the tissue 
+                    and not the irrigating fluid. Ensure that any particulate 
+                    matter has been removed. A mydriatic-cycloplegic medication 
+                    such as homatropine should be used to prevent synechiae. Examine 
+                    the eyes for conjunctival or corneal damage and treat appropriately. 
+                    Immediately consult an ophthalmologist for patients who have 
+                    eye exposure.
+Ingestion Exposure
+In cases of ingestion, do not induce 
+                    emesis. Do not administer activated charcoal or attempt 
+                    to neutralize stomach contents.
+Victims who are conscious and able to 
+                    swallow can be given 4 to 8 ounces of milk or water if this 
+                    has not been given previously.
+Extreme throat swelling may require endotracheal 
+                    intubation or cricothyroidotomy. Gastric lavage is useful 
+                    in certain circumstances to remove caustic material and prepare 
+                    for endoscopic examination. Consider gastric lavage with a 
+                    small nasogastric tube if: (1) a large dose has been ingested; 
+                    (2) the patient's condition is evaluated within 30 minutes; 
+                    (3) the patient has oral lesions or persistent esophageal 
+                    discomfort; and (4) the lavage can be administered within 
+                    one hour of ingestion. Placement of the gastric tube should 
+                    be guided by endoscopy because blind gastric-tube placement 
+                    may further injure the chemically damaged esophagus or stomach.
+Endoscopic evaluation is essential in 
+                    cases of sodium hydroxide ingestion, and surgical consultation 
+                    is recommended for patients who have suspected perforation. 
+                    Signs and symptoms do not provide an accurate guide to the 
+                    extent of injury. All patients suspected of significant caustic 
+                    ingestion must have early endoscopy to assess injury to the 
+                    esophagus, stomach and duodenum, and to guide subsequent management. 
+                    Severe esophageal burns have occurred even in cases where 
+                    burns of the mouth or oropharynx were not seen. The ingestion 
+                    of large amounts of sodium hydroxide may also result in shock. 
+                    Endoscopy may be contraindicated in cases where the patient 
+                    is unstable, has upper airway compromise, evidence of perforation, 
+                    or ingestion took place more than 48 hours previously.
+Perforation almost always requires surgical 
+                    repair.
+Because children do not ingest large 
+                    amounts of corrosive materials, and because of the risk of 
+                    perforation from NG intubation, lavage is discouraged in children 
+                    unless performed under endoscopic guidance.
+Toxic vomitus or gastric washings should 
+                    be isolated (e.g., by attaching the lavage tube to isolated 
+                    wall suction or another closed container).
+Antidotes and Other Treatments
+There is no antidote for sodium hydroxide. 
+                    Various treatments to decrease stricture formation have been 
+                    proposed (including administration of ascorbic acid and steroids), 
+                    but are not recommended.
+Laboratory Tests
+The diagnosis of acute sodium hydroxide 
+                    toxicity is primarily clinical, based on symptoms of corrosive 
+                    injury. However, laboratory testing is useful for monitoring 
+                    the patient and evaluating complications. Routine laboratory 
+                    studies for all exposed patients include CBC, glucose, and 
+                    electrolyte determinations. Patients who have respiratory 
+                    complaints may require chest radiography and pulse oximetry 
+                    (or ABG measurements). Patients with symptoms of severe burns 
+                    or perforation may require renal function tests and blood 
+                    typing.
+Disposition and Follow-up
+Consider hospitalizing patients who have 
+                    ingested sodium hydroxide or who have eye or serious skin 
+
+                    burns or histories of significant inhalation exposure. Patients 
+                    with signs of perforation may require emergency surgery. Those 
+                    with significant dermal injury should be admitted to the burn 
+                    unit and patients with significant ingestion may need admission 
+                    to the intensive care unit.
+Delayed Effects
+Injury may continue to progress in severity 
+                    for up to 48 hours after exposure. Patients may develop upper 
+                    airway obstruction, perforation, and shock.
+ Severe inhalation injuries may cause 
+                    persistent hoarseness and reactive airways dysfunction syndrome 
+                    (RADS), a chemically- or irritant-induced type of asthma. 
+                  
+Patient Release
+Patients who have minimal skin exposure 
+                    or patients who show no progressive symptoms 6 to 12 hours 
+                    after a mild-to-moderate inhalation exposure may be discharged 
+                    with instructions to seek medical care promptly if symptoms 
+                    develop (see the Sodium Hydroxide-Patient Information Sheet 
+                    below).
+Follow-up
+Obtain the name of the patient's primary 
+                    care physician so that the hospital can send a copy of the 
+                    ED visit to the patient's doctor.
+ For patients who have ingested sodium 
+                    hydroxide, esophagoscopy should be performed within 48 hours 
+                    of ingestion to assess severity of injury; a flexible instrument 
+                    should be used. If perforation has not occurred, consider 
+                    follow-up endoscopy or a barium swallow 10 days to 3 weeks 
+                    after the initial burn to further assess the injury.
+Patients who have corneal, conjunctival, 
+                    scleral, or lid lesions should be reexamined within 24 hours.
+Reporting
+If a work-related incident has occurred, 
+                    you may be legally required to file a report; contact your 
+                    state or local health department.
+Other persons may still be at risk in 
+                    the setting where this incident occurred. If the incident 
+                    occurred in the workplace, discussing it with company personnel 
+                    may prevent future incidents. If a public health risk exists, 
+                    notify your state or local health department or other responsible 
+                    public agency. When appropriate, inform patients that they 
+                    may request an evaluation of their workplace from OSHA or 
+                    NIOSH. See Appendices III and IV for a list of agencies that 
+                    may be of assistance.
+
+Top of Page
+
+ Patient Information Sheet 
+This handout provides information and 
+                    follow-up instructions for persons who have been exposed to 
+                    sodium hydroxide. 
+Print this handout only.pdf icon[46.4 KB]
+What is sodium hydroxide?
+Sodium hydroxide is a white, solid material 
+                    that picks up moisture from the air. If put in water, it produces 
+                    a large amount of heat. Both the solid and its solutions are 
+                    very corrosive and can cause severe burns. Sodium hydroxide 
+                    is a member of a group of chemical compounds also known as 
+                    bases or alkalies, which can neutralize and are neutralized 
+                    by, acids, releasing a lot of heat.
+What immediate health effects can be caused by exposure to sodium hydroxide?
+Solid sodium hydroxide or strong solutions 
+                    produce immediate pain when they come in contact with any 
+                    part of the body. Weak solutions may not produce pain for 
+                    several hours, but serious burns can result even from weak 
+                    solutions if they are not washed off quickly. Spilling sodium 
+                    hydroxide over large areas of the skin or swallowing sodium 
+                    hydroxide may cause shock and even death. Sodium hydroxide 
+                    can break down proteins and generates heat when dissolving 
+                    in water. Contact with sensitive tissues, such as the eyes, 
+                    is particularly dangerous and can cause permanent damage or 
+                    even blindness.
+Can sodium hydroxide poisoning be treated?
+There is no antidote for sodium hydroxide, 
+                    but the burns and shock it can cause can be treated. Patients 
+                    who develop serious symptoms need to be hospitalized.
+Are any future health effects likely to occur?
+A single small exposure from which a 
+                    person recovers quickly is not likely to cause delayed or 
+                    long-term effects. After a serious exposure to large areas 
+                    of the skin, scarring may occur that will require skin grafts. 
+                    A serious eye exposure can result in blindness. If sodium 
+                    hydroxide mist was breathed, permanent injury to the lungs 
+                    may result. If a solution was swallowed, damage to the mouth, 
+                    throat, and esophagus may cause permanent scarring, making 
+                    swallowing difficult.
+What tests can be done if a person has been exposed to sodium hydroxide?
+Specific tests for the presence of sodium 
+                    hydroxide in blood or urine are not available. If a severe 
+                    exposure has occurred, blood and urine analyses and other 
+                    tests may show whether the lungs, eyes, or stomach has been 
+                    injured. Testing is not needed in every case.
+Where can more information about sodium hydroxide be found?
+More information about sodium hydroxide 
+                    can be obtained from your regional poison control center; 
+                    your state, county, or local health department; the Agency 
+                    for Toxic Substances and Disease Registry (ATSDR); your doctor; 
+                    or a clinic in your area that specializes in occupational 
+                    and environmental health. If the exposure happened at work, 
+                    you may wish to discuss it with your employer, the Occupational 
+                    Safety and Health Administration (OSHA), or the National Institute 
+                    for Occupational Safety and Health (NIOSH). Ask the person 
+                    who gave you this form for help in locating these telephone 
+                    numbers.
+
+Top of Page
+
+ Follow-up Instructions
+Keep this page and take it with you to 
+                    your next appointment. Follow only the instructions 
+                    checked below. 
+Print instructions only.pdf icon[46.4 KB]
+[ ] Call your doctor or the Emergency 
+                    Department if you develop any unusual signs or symptoms within 
+                    the next 24 hours, especially: 
+
+ drooling or difficulty swallowing
+stomach pain or vomiting
+coughing, wheezing, or hoarseness
+difficulty breathing, shortness of breath, or chest pain
+increased pain or a discharge from exposed eyes
+increased redness or pain or a pus-like discharge in the 
+                      area of a skin burn 
+
+[ ] No follow-up appointment is necessary 
+                    unless you develop any of the symptoms listed above. 
+[ ] Call for an appointment with Dr.____ 
+                    in the practice of ________.
+When you call for your appointment, please 
+                    say that you were treated in the Emergency Department at _________ 
+                    Hospital by________and were advised to be seen again in ____days.
+[ ] Return to the Emergency Department/Clinic 
+                    on ____ (date) at _____ AM/PM for a follow-up examination.
+[ ] Do not perform vigorous physical 
+                    activities for 1 to 2 days.
+[ ] You may resume everyday activities 
+                    including driving and operating machinery.
+[ ] Do not return to work for _____days.
+[ ] You may return to work on a limited 
+                    basis. See instructions below.
+[ ] Avoid exposure to cigarette smoke 
+                    for 72 hours; smoke may worsen the condition of your lungs.
+[ ] Avoid drinking alcoholic beverages 
+                    for at least 24 hours; alcohol may worsen injury to your stomach 
+                    or have other effects.
+[ ] Avoid taking the following medications: 
+                    ________________
+[ ] You may continue taking the following 
+                    medication(s) that your doctor(s) prescribed for you: _______________________________ 
+                  
+[ ] Other instructions: 
+					____________________________________ 
+					_____________________________________________________
+
+Provide the Emergency Department with the name and the 
+					number of your primary care physician so that the ED can 
+					send him or her a record of your emergency department visit.                            
+                    
+You or your physician can get more information on the 
+					chemical by contacting: ____________ or _____________, or by 
+					checking out the following Internet Web sites: 
+					___________;__________.
+
+Signature of patient _______________ Date ____________ 
+Signature of physician _____________ Date ____________
+
+Top of Page
+
+Where can I get more information?
+If you have questions or concerns, please contact your community or state health or environmental quality department or:
+
+For more information, contact:
+Agency for Toxic Substances and Disease Registry 
+Division of Toxicology and Human Health Sciences
+4770 Buford Highway
+Chamblee, GA 30341-3717
+Phone: 1-800-CDC-INFO  888-232-6348 (TTY) 
+Email: Contact CDC-INFO
+
+ATSDR can also tell you the location of occupational and environmental health clinics. These clinics specialize in recognizing, evaluating, and treating illnesses resulting from exposure to hazardous substances.
+
+Top of Page
+
+
+
+
+
+
+
+
+
+
+Page last reviewed:  October 21, 2014
+
+                        Content source: Agency for Toxic Substances and Disease Registry
+
+
+
+
+
+
+
+
+TSP Home
+
+
+TSP Home
+
+Sodium HydroxideToxFAQsMedical Management Guidelines (MMG) for Acute Chemical ExposureToxProfile Index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About CDC / ATSDR
+Contact Us
+800-232-4636
+
+
+
+
+Facebook
+Twitter
+Instagram
+LinkedIn
+Youtube
+Pinterest
+Snapchat
+
+
+
+
+
+
+
+
+					CONTACT ATSDR
+				
+
+
+
+
+
+
+
+Contact Information
+
+
+
+
+
+
+
+Visit CDC-INFO
+
+
+
+
+
+
+
+Call 800-232-4636
+
+
+
+
+
+
+
+Email CDC-INFO
+
+
+
+
+
+
+
+
+					ABOUT ATSDR
+				
+
+
+
+About CDC / ATSDR
+Jobs
+Funding
+
+
+
+
+
+
+					POLICIES
+				
+
+
+
+Policies
+File Viewers & Players
+Other Languages
+Privacy
+FOIA
+No Fear Act
+OIG
+Nondiscrimination
+Accessibility
+
+Vulnerability Disclosure Policy |
+								EspaÃ±ol
+
+CDC Website Exit Disclaimer external icon
+
+
+
+
+
+
+					CONNECT WITH US
+				
+
+
+
+
+Facebook
+Twitter
+Instagram
+LinkedIn
+
+
+Youtube
+Pinterest
+Snapchat
+Email
+
+
+
+
+
+
+
+					LANGUAGES
+				
+
+
+
+EspaÃ±ol
+ç¹é«”ä¸­æ–‡
+Tiáº¿ng Viá»‡t
+í•œêµ­ì–´
+Tagalog
+Ð ÑƒÑÑÐºÐ¸Ð¹
+Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
+KreyÃ²l Ayisyen
+FranÃ§ais
+Polski
+PortuguÃªs
+Italiano
+Deutsch
+æ—¥æœ¬èªž
+ÙØ§Ø±Ø³ÛŒ
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+U.S. Department of Health & Human Services
+Accessibility
+External Links
+Privacy
+Policies
+No Fear Act
+FOIA
+Nondiscrimination
+OIG
+Vulnerability Disclosure Policy
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+Exit Notification / Disclaimer Policy
+
+Close
+
+
+
+
+
+
+Links with this icon  indicate that you are leaving the CDC website.
+
+The Centers for Disease Control and Prevention (CDC) cannot attest to the accuracy of a non-federal website.
+Linking to a non-federal website does not constitute an endorsement by CDC or any of its employees of the sponsors or the information and products presented on the website.
+You will be subject to the destination website's privacy policy when you follow the link.
+CDC is not responsible for Section 508 compliance (accessibility) on other federal or private website.
+
+
+			For more information on CDC's web notification policies, see Website Disclaimers.
+		
+
+
+Cancel
+Continue
+
+
+
+
+
+
+
+
+
+CDC.gov Privacy Settings
+
+
+We take your privacy seriously. You can review and change the way we collect information below.
+
+
+
+
+
+
+
+								Performance Cookies Checkbox
+							
+
+
+										Performance Cookies
+									
+
+
+
+
+
+
+									These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+								
+
+
+
+
+
+
+								Functional Cookies Checkbox
+							
+
+
+										Functional Cookies
+									
+
+
+
+
+
+
+									Cookies used to make website functionality more relevant to you. These cookies perform functions like remembering presentation options or choices and, in some cases, delivery of web content that based on self-identified area of interests.
+								
+
+
+
+
+
+
+								Campaign Cookies Checkbox
+							
+
+
+										Campaign Cookies
+									
+
+
+
+
+
+
+									Cookies used to track the effectiveness of CDC public health campaigns through clickthrough data.
+								
+
+
+
+
+
+
+								Social Media Cookies Checkbox
+							
+
+
+									Social Media Cookies
+								
+
+
+
+
+
+
+									Cookies used to enable you to share pages and content that you find interesting on CDC.gov through third party social networking and other websites. These cookies may also be used for advertising purposes by these third parties.
+								
+
+
+
+
+
+
+
+Remove all
+
+
+Confirm Choices
+
+
+
+
+
+Confirmed!
+Thank you for taking the time to confirm your preferences. If you need to go back and make any changes, you can always do so by going to our Privacy Policy page.
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

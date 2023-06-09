@@ -1,0 +1,371 @@
+Document Name: role of Lo Micron Pink Extender in Cover Cream1
+Document link: https://www.ncbi.nlm.nih.gov/books/NBK547667/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Condyloma Acuminata - StatPearls - NCBI Bookshelf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warning:
+	The NCBI web site requires JavaScript to function. 
+	more...
+
+
+
+
+
+
+
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it's official.
+
+							Federal government websites often end in .gov or .mil. Before
+							sharing sensitive information, make sure you're on a federal
+							government site.
+						
+
+
+
+
+
+
+The site is secure.
+
+							The https:// ensures that you are connecting to the
+							official website and that any information you provide is encrypted
+							and transmitted securely.
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+
+
+
+
+
+
+
+Show account info
+
+
+
+
+
+
+
+
+
+
+
+Close
+Account
+
+
+							Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+Bookshelf
+Search databaseBooksAll DatabasesAssemblyBiocollectionsBioProjectBioSampleBooksClinVarConserved DomainsdbGaPdbVarGeneGenomeGEO DataSetsGEO ProfilesGTRHomoloGeneIdentical Protein GroupsMedGenMeSHNLM CatalogNucleotideOMIMPMCPopSetProteinProtein ClustersProtein Family ModelsPubChem BioAssayPubChem CompoundPubChem SubstancePubMedSNPSRAStructureTaxonomyToolKitToolKitAllToolKitBookghSearch termSearch
+Browse Titles
+
+Advanced
+
+Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NCBI Bookshelf. A service of the National Library of Medicine, National Institutes of Health.StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. StatPearls [Internet].Show detailsTreasure Island (FL): StatPearls Publishing; 2023 Jan-.Search term 
+Condyloma AcuminataKeith B. Pennycook; Tess A. McCready.Author Information and AffiliationsAuthorsKeith B. Pennycook1; Tess A. McCready2.Affiliations1 Ascension Providence Rochester Hospital2 Wayne St./Ascension Providence RochesterLast Update: August 1, 2022.Continuing Education ActivityCondyloma acuminata is a manifestation of human papillomavirus (HPV) infection. The condition is characterized by skin-colored, fleshy papules in the anogenital region. This activity outlines the evaluation and management of condyloma acuminata and explains the role of the healthcare team in evaluating and treating patients with this condition.
+Objectives:
+Describe the etiology of condyloma acuminata.Identify physical exam findings associated with condyloma acuminata.Describe the treatment and management considerations for patients with condyloma acuminata.Explain the importance of collaboration and communication amongst the interprofessional team to enhance the delivery of care for patients affected by condyloma acuminata.
+Access free multiple choice questions on this topic.
+IntroductionCondyloma acuminata refers to anogenital warts caused by human papillomavirus (HPV). The most common strains of HPV that cause anogenital warts are 6 and 11. HPV is a double-stranded DNA virus primarily spread through sexual contact. Age, lifestyle, and sexual practices all play a role in one's susceptibility to developing condyloma acuminata.[1][2] There are several topical treatment options available, including podophyllotoxin solutions and creams, imiquimod cream, and sinecatechins ointment. Cryotherapy, trichloroacetic acid solution, and several surgical modalities are also available treatments. There is a chance for Condyloma acuminata to recur after topical treatments. Surgical excision is the only available treatment with clearance rates close to 100 percent. Patients should receive counsel on treatment options, the importance of follow up appointments, and safe sex practices.EtiologyCondyloma acuminata results from HPV infection. There have been over 100 types of HPV identified, with 40 strains known to affect the anogenital area. HPV strains 6 and 11 are the most prevalent strains that cause condyloma acuminata. Other strains of HPV are known to cause plantar warts, in which the lesions are on the hands and feet. Infection with several strains of HPV also causes cellular dysplasia leading to certain cancers, namely cervical cancer in females and penile or rectal cancer in males [3]. HPV types 16 and 18 are high-risk subtypes for developing a malignancy. Research has solidly established their role in the development of cervical, anogenital, and oral carcinomas. HPV types 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 66, 68, 73, and 82 may also be present in mucosal cancer. Non-melanoma skin cancers correlate with HPV types 1, 5, 8, 9, 17, 20, 23, and 38. Bowen’s disease has correlations with HPV types 16, 18, 31, 32, and 34. Epidermodysplasia verruciformis has been linked to HPV types 5, 8, 9, 12, 14, 15, 17, 19-25, 36-38, 46, 47, 49, and 50. HPV types 6 and 11 present a low risk for developing malignancy and cause 90 percent of anogenital warts. Cutaneous warts are associated with HPV types 1, 2, 3, 4, 27, and 57.[4]EpidemiologyHPV is the most common sexually transmitted infection worldwide, with 9 to 13 percent of the global population infected.[3] Patients who are between 20 and 39 years of age are most commonly affected.[5] There are several known risk factors for acquiring HPV. Prevalence of infection increases with an increased number of lifetime sexual partners, a history of chlamydia and gonorrhea infections, smoking, and human immunodeficiency virus (HIV) infection.[3][6] Since anogenital warts are not a reportable disease, the incidence of condyloma acuminata is difficult to estimate. However, recent estimates report the incidence of anogenital warts in the United States at 1.1 to 1.2 cases per 1000 person-years.[7]PathophysiologyHPV is a double-stranded DNA virus that primarily infects the nucleus of differentiated squamous epithelial cells. The DNA virus can remain in a latent phase for several months, resulting in an incubation period of one month to two years.[8] The genome of HPV contains oncogene, which encodes proteins that stimulate cell proliferation. These proteins enable the virus to replicate via the host cell’s DNA polymerase while the host cells undergo cell division. As the number of virally infected host cells grows, the basal, spinous, and granular layers of the epidermis thicken, leading to acanthosis and the macroscopic appearance of warts. Condyloma acuminata generally take three to four months to form. In otherwise healthy individuals, an adequate immune response can halt viral replication and resolve the infection over time. However, prolonged HPV infection increases the risk of developing malignant transformation.[9]HistopathologyCondyloma acuminata is typically a clinical diagnosis, and histopathologic examination of the lesions is generally unnecessary. Microscopic evaluation of the tissue will display acanthosis with overlying hyperkeratosis. Distinctive cells termed koilocytes are also identifiable. Koilocytes are large keratinocytes with abundant cytoplasm and small pyknotic nuclei. These characteristic cells are often present in the upper layers of the epidermis. Additionally, condyloma acuminata can be differentiated from verruca vulgaris by the type of hyperplasia present. Spiked verrucous hyperplasia is seen in verruca vulgaris, while papillomatosis will display in condyloma acuminata.[10]History and PhysicalCondyloma acuminata are usually asymptomatic, although they may occasionally cause bleeding, pruritus, and pain. Patients will generally present concerned about the appearance of the lesions, as they often cause psychological and psychosexual distress. Condyloma acuminata may also be found incidentally during routine female gynecological examinations. The appearance of the lesion depends on the type of HPV and the site of infection.[9] While condyloma acuminata generally occur in the anogenital region, lesions may also be present in the oral cavity. Simultaneous lesions in the anogenital region suggest sexual transmission, but fomites may also be the source of condyloma acuminata present in the oral cavity. Lesions are generally found in multiples and can coalesce into a larger lesion. However, solitary lesions are also possible. Oral condyloma acuminata are typically present on the tongue and lip.[10] Anogenital lesions may be found on the penis, vulva, vagina, cervix, perineum, and the anal region.[11] Condyloma acuminata usually appear as raised, skin-colored, fleshy papules that range in size from one to five millimeters in diameter. They can be broad and flat, pedicled, or occasionally have a cauliflower-like appearance.[9] If a large tumor mass occupies the entire anogenital area, Buschke-Lowenstein tumors should be a considered diagnosis. These tumors are a malignant complication of condyloma acuminata.[12]EvaluationCondyloma acuminata are often diagnosed clinically following definitive history and thorough visual examination of the lesions. Additional testing can be done to aid in the diagnosis. A colposcope can be used to magnify the lesion for improved visualization. Confirmatory testing and gene typing are possible via DNA detection assays such as polymerase chain reaction (PCR). Additionally, the acetic acid test can be used to evaluate the lesion further. In this test, five percent acetic acid gets applied to the lesion. Following the application, white areas of the lesion raise concern for dysplasia. The acetic acid test is not valid for screening as it has high false-positive rates. If the clinician is concerned about dysplasia, a biopsy of the lesion is the appropriate followup.[2]Physicians should have a concern regarding sexual abuse in children with condyloma acuminata. Although condyloma acuminata are considered to be sexually transmitted, there are other forms of transmission. The suspicion of sexual abuse should increase as the age of children increases. Physicians in the United States are required to report suspected sexual abuse. Clinicians should use their professional judgment when considering reporting sexual abuse.[10]Treatment / ManagementThere are multiple treatment options for patients diagnosed with condyloma acuminata. Treatment can be delayed in children, adolescents, and young, healthy adults, as lesions often resolve spontaneously over months to years. Treatment should be pursued with lesions that persist for more than two years if the lesions are symptomatic, or for cosmetic purposes.[9] Topical therapies, cryotherapy, and surgical excision are available treatment options for patients. A formal treatment algorithm does not exist, and treatment depends on lesion location, morphology, and patient preference.Podophyllotoxin 0.5% solution and 0.15% cream can be used to treat the fleshy papules. Podoxophyllin toxin is applied twice daily for three days, followed by a four-day break. Lesions can resolve after four weeks. Imiquimod cream 5% is another topical treatment, with lower rates of recurrence than with podophyllotoxin. Imiquimod is applied three times per week, every other day with resolution seen in sixteen weeks. Another available topical treatment is sinecatechins 15% ointment, which is used three times daily for up to sixteen weeks. Patients can also receive treatments in the clinic for condyloma acuminata. Cryotherapy is inexpensive, minimally painful, and safe during pregnancy. Liquid nitrogen is applied to the margin of the lesion three to five times for twenty seconds each application. These applications take place weekly for six to ten weeks. Trichloracetic acid (TCA) 80 to 90% is an available treatment for smaller lesions. After application, a small ulcer will form that heals without scarring. TCA is applied once per week for eight to ten weeks. Finally, surgical excision may be performed for lesions refractory to treatment and also for advanced disease. Surgical options include electrosurgery, curettage, scissors excision, and laser therapy. Only surgical therapies have clearance rates near one hundred percent.[13]Application of 5-aminolevulinic acid (ALA) with photodynamic therapy is an emerging treatment for condyloma acuminata. This treatment modality was found to be more effective, simpler, and have lower recurrence rates than CO2 laser treatment. Photodynamic therapy with ALA may be a useful adjuvant to other traditional treatment modalities.[14]Differential DiagnosisCondyloma lataMolluscum contagiosumLichen planusPsoriasisMalignancyPearly penile papulesAcrochordonSebaceous cystsBuschke-Lowenstein tumor[1]PrognosisWhile condyloma acuminata can be challenging to treat, the condition is curable. However, lesions may require multiple treatments or a combination of treatments over time. Surgical excision is the only treatment option with clearance rates near 100 percent, although condyloma acuminata can recur after all treatment types. In fact, recurrence of lesions after clearance is seen 20 to 30 percent of the time. The recurrence rates for genital warts treated with topical podophyllotoxin treatments have a clearance rate of 45 to 83 percent and a recurrence rate of 6 to 100 percent. Imiquimod treatments have a lower rate of recurrence at 6 to 26 percent and a clearance rate of 35 to 68 percent. Sinecatechins ointment clears 47 to 59 percent of condyloma acuminata, and only 7 to 11 percent of patients have a recurrence of lesions after clearance. Cryotherapy with liquid nitrogen clears 44 to 75 percent of genital warts with a 21 to 42 percent recurrence rate. Treatment with trichloroacetic acid solution clears 56 to 81 percent of lesions and 36 percent of lesions recur after clearance[13]ComplicationsCondyloma acuminata can have significant psychological effects on patients, including anxiety, guilt, and anger. Patients may also have concerns about the loss of fertility and cancer. Premalignant and malignant lesions can be present within genital warts. Condyloma acuminata can also develop into malignant lesions. Concerning signs for malignant transformation include bleeding, irregular pigmentation, ulceration, and lesions with palpable dermal infiltration.[13] Also, as previously mentioned, Buschke-Lowenstein tumors are a known complication of condyloma acuminata.[12]Deterrence and Patient EducationPhysicians should provide patients an explanation of the cause of their lesions. The patient should be advised to inform all current and previous sexual partners in the past six months of their genital warts. Patients should be counseled on the importance of condom usage, as condoms have been shown to protect against HPV infection, which causes genital warts.[13] Condom usage can also prevent the transmission of other communicable diseases, as well.The primary care clinicians and infectious disease nurses should educate patients on the benefits of the HPV vaccine. The HPV infection is preventable with a highly efficacious vaccine. This vaccine protects against HPV6 and HPV11, which is the causative agent behind around 90% of genital warts. The vaccine also protects against viral strains that cause cervical cancer, including HPV16 and HPV18.[15] The HPV vaccine is most effective when given before exposure to the virus. Therefore, the current recommendations are for girls and boys ages 11 to 12 to receive two doses of the vaccine. It is also recommended for anyone under the age of 26 to be vaccinated.[16]Cervical cancer screening guidance comes from the American Cancer Society guidelines and does not require modification with the presence or absence of genital warts. There are no indications for females younger than 21 to be screened for cervical cancer. Females aged 21 to 29 should receive screening with a cytology pap smear alone every three years. Between the ages of 30 to 65, females should undergo either cytology testing every three years, or a combination of HPV viral testing and cytology testing every five years. Cervical cancer screening after age 65 is not a recommendation if the patient has had adequate negative testing.[17]Finally, the patient should receive education on safe sex practice; this means using barrier protection, avoiding anal sex, and multiple partners. The patient should be encouraged to be tested for other sexually transmitted infections and maintain long term follow up.Enhancing Healthcare Team Outcomes Physicians should thoroughly educate patients after diagnosing them with condyloma acuminata. Patients should be advised to notify sexual partners and practice safe sex practices, such as using condoms. Clinicians should present all treatment options to the patient, along with an explanation of clearance and recurrence rates. Patients need to understand that surgical modalities are the only treatment options with recurrence rates approaching 100 percent after a single treatment. Therefore, physicians should explain the importance of follow up appointments and the necessity of multiple treatment courses to clear condyloma acuminata. Also, patients with extensive or refractory lesions may need a referral to a specialist for surgical removal of the genital lesions.An interprofessional team is necessary for the effective management of condyloma acuminata. Patient counseling points for prevention were discussed above, and are the responsibility of all healthcare team members; clinicians, nursing, and pharmacists. Once diagnosed, the clinician can consult with the pharmacist regarding the treatment options available short of surgery. If the case is surgical, a surgeon should be consulted and brought in on the case. Nursing can assist with the surgery, and perform followup assessments on both surgical and non-surgical cases, evaluating the effectiveness of pharmaceutical treatments in the latter. Open communication between the members of the interprofessional team is vital for improved outcomes.[13] [Level 5]Review Questions
+Access free multiple choice questions on this topic.
+
+Comment on this article.
+FigureCondylomata acuminatum. Image courtesy S Bhimji MD FigureOral condylomata. Image courtesy S Bhimji MD FigureCondyloma acuminata, labia, groin. Contributed by Dr. Shyam Verma, MBBS, DVD, FRCP, FAAD, Vadodara, India References1.O'Mahony C, Gomberg M, Skerlev M, Alraddadi A, de Las Heras-Alonso ME, Majewski S, Nicolaidou E, Serdaroğlu S, Kutlubay Z, Tawara M, Stary A, Al Hammadi A, Cusini M. Position statement for the diagnosis and management of anogenital warts. J Eur Acad Dermatol Venereol. 2019 Jun;33(6):1006-1019. [PMC free article: PMC6593709] [PubMed: 30968980]2.Maw R., HPV Special Interest Group of BASHH.  Anogenital warts. Sex Transm Infect. 2006 Dec;82 Suppl 4(Suppl 4):iv40-1. [PMC free article: PMC2563897] [PubMed: 17151053]3.Kaderli R, Schnüriger B, Brügger LE. The impact of smoking on HPV infection and the development of anogenital warts. Int J Colorectal Dis. 2014 Aug;29(8):899-908. [PubMed: 24935346]4.Brianti P, De Flammineis E, Mercuri SR. Review of HPV-related diseases and cancers. New Microbiol. 2017 Apr;40(2):80-85. [PubMed: 28368072]5.Fleischer AB, Parrish CA, Glenn R, Feldman SR. Condylomata acuminata (genital warts): patient demographics and treating physicians. Sex Transm Dis. 2001 Nov;28(11):643-7. [PubMed: 11677386]6.Chelimo C, Wouldes TA, Cameron LD, Elwood JM. Risk factors for and prevention of human papillomaviruses (HPV), genital warts and cervical cancer. J Infect. 2013 Mar;66(3):207-17. [PubMed: 23103285]7.Park IU, Introcaso C, Dunne EF. Human Papillomavirus and Genital Warts: A Review of the Evidence for the 2015 Centers for Disease Control and Prevention Sexually Transmitted Diseases Treatment Guidelines. Clin Infect Dis. 2015 Dec 15;61 Suppl 8:S849-55. [PubMed: 26602622]8.Varma S, Lathrop E, Haddad LB. Pediatric condyloma acuminata. J Pediatr Adolesc Gynecol. 2013 Dec;26(6):e121-2. [PubMed: 24001431]9.Costa-Silva M, Fernandes I, Rodrigues AG, Lisboa C. Anogenital warts in pediatric population. An Bras Dermatol. 2017 Sep-Oct;92(5):675-681. [PMC free article: PMC5674701] [PubMed: 29166505]10.Betz SJ. HPV-Related Papillary Lesions of the Oral Mucosa: A Review. Head Neck Pathol. 2019 Mar;13(1):80-90. [PMC free article: PMC6405797] [PubMed: 30693456]11.Sykes NL. Condyloma acuminatum. Int J Dermatol. 1995 May;34(5):297-302. [PubMed: 7541783]12.Sporkert M, Rübben A. [Buschke-Lowenstein tumors]. Hautarzt. 2017 Mar;68(3):199-203. [PubMed: 28074214]13.Lacey CJ, Woodhall SC, Wikstrom A, Ross J. 2012 European guideline for the management of anogenital warts. J Eur Acad Dermatol Venereol. 2013 Mar;27(3):e263-70. [PubMed: 22409368]14.Scheinfeld N. Update on the treatment of genital warts. Dermatol Online J. 2013 Jun 15;19(6):18559. [PubMed: 24011309]15.Castle PE, Maza M. Prophylactic HPV vaccination: past, present, and future. Epidemiol Infect. 2016 Feb;144(3):449-68. [PubMed: 26429676]16.Beachler DC, Gonzales FA, Kobrin SC, Kreimer AR. HPV vaccination initiation after the routine-recommended ages of 11-12 in the United States. Papillomavirus Res. 2016 Dec 01;2:11-16. [PMC free article: PMC4714353] [PubMed: 26783559]17.Saslow D, Solomon D, Lawson HW, Killackey M, Kulasingam SL, Cain J, Garcia FA, Moriarty AT, Waxman AG, Wilbur DC, Wentzensen N, Downs LS, Spitzer M, Moscicki AB, Franco EL, Stoler MH, Schiffman M, Castle PE, Myers ER., ACS-ASCCP-ASCP Cervical Cancer Guideline Committee.  American Cancer Society, American Society for Colposcopy and Cervical Pathology, and American Society for Clinical Pathology screening guidelines for the prevention and early detection of cervical cancer. CA Cancer J Clin. 2012 May-Jun;62(3):147-72. [PMC free article: PMC3801360] [PubMed: 22422631]
+Copyright © 2023, StatPearls Publishing LLC.
+This book is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+(
+http://creativecommons.org/licenses/by-nc-nd/4.0/
+), which permits others to distribute the work, provided that the article is not altered or used commercially. You are not required to obtain permission to distribute this article, provided that you credit the author and journal.
+Bookshelf ID: NBK547667PMID: 31613447
+
+
+
+
+
+
+
+
+
+
+
+
+Share
+
+ViewsPubReaderPrint ViewCite this PagePennycook KB, McCready TA. Condyloma Acuminata. [Updated 2022 Aug 1]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 Jan-. In this PageContinuing Education ActivityIntroductionEtiologyEpidemiologyPathophysiologyHistopathologyHistory and PhysicalEvaluationTreatment / ManagementDifferential DiagnosisPrognosisComplicationsDeterrence and Patient EducationEnhancing Healthcare Team Outcomes Review QuestionsReferencesBulk DownloadBulk download StatPearls data from FTPRelated informationPMCPubMed Central citationsPubMedLinks to PubMedSimilar articles in PubMedImiquimod versus podophyllotoxin, with and without human papillomavirus vaccine, for anogenital warts: the HIPvac factorial RCT.[Health Technol Assess. 2020]Imiquimod versus podophyllotoxin, with and without human papillomavirus vaccine, for anogenital warts: the HIPvac factorial RCT.Gilson R, Nugent D, Bennett K, Doré CJ, Murray ML, Meadows J, Haddow LJ, Lacey C, Sandmann F, Jit M, et al. Health Technol Assess. 2020 Sep; 24(47):1-86. Human papillomavirus infection: protocol for a randomised controlled trial of imiquimod cream (5%) versus podophyllotoxin cream (0.15%), in combination with quadrivalent human papillomavirus or control vaccination in the treatment and prevention of recurrence of anogenital warts (HIPvac trial).[BMC Med Res Methodol. 2018]Human papillomavirus infection: protocol for a randomised controlled trial of imiquimod cream (5%) versus podophyllotoxin cream (0.15%), in combination with quadrivalent human papillomavirus or control vaccination in the treatment and prevention of recurrence of anogenital warts (HIPvac trial).Murray ML, Meadows J, Doré CJ, Copas AJ, Haddow LJ, Lacey C, Jit M, Soldan K, Bennett K, Tetlow M, et al. BMC Med Res Methodol. 2018 Nov 6; 18(1):125. Epub 2018 Nov 6.Review Asian guidelines for condyloma acuminatum.[J Infect Chemother. 2022]Review Asian guidelines for condyloma acuminatum.Sindhuja T, Bhari N, Gupta S. J Infect Chemother. 2022 Jul; 28(7):845-852. Epub 2022 Mar 25.Therapy for anogenital verrucae in preadolescent children with topical and systemic treatment.[Pediatr Dermatol. 2019]Therapy for anogenital verrucae in preadolescent children with topical and systemic treatment.Chamseddin BH, Agim NG, Jarin J, Wilson EE, Mir A. Pediatr Dermatol. 2019 Sep; 36(5):623-627. Epub 2019 Jun 13.Case of giant vulvar condyloma acuminata successfully treated with imiquimod 3.75% cream: A case report.[SAGE Open Med Case Rep. 2018]Case of giant vulvar condyloma acuminata successfully treated with imiquimod 3.75% cream: A case report.Hum M, Chow E, Schuurmans N, Dytoc M. SAGE Open Med Case Rep. 2018; 6:2050313X18802143. Epub 2018 Oct 10.See reviews...See all...Recent ActivityClearTurn OffTurn OnCondyloma Acuminata - StatPearlsCondyloma Acuminata - StatPearlsYour browsing activity is empty.Activity recording is turned off.Turn recording back onSee more...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NCBI Insights Blog
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+Facebook
+
+
+
+
+
+
+
+
+
+Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+							Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

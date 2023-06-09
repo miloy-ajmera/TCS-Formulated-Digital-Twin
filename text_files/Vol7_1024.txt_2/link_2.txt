@@ -1,0 +1,192 @@
+Document Name: role of Miglyol 812 (Caprylic/Capric Triglyceride) in Protective Cream2
+Document link: https://go.drugbank.com/drugs/DB13959
+Medium-chain triglycerides: Uses, Interactions, Mechanism of Action | DrugBank Online
+OnlineBrowse
+
+
+ Drugs
+
+
+ Starred Drugs
+
+
+ Categories
+
+
+ Pathways
+
+
+ Drug Reactions
+
+
+ Drug Classification
+
+
+ Drug Targets
+
+
+ Pharmaco-genomics
+
+
+ Pharmaco-metabolomics
+
+
+ Pharmaco-transcriptomics
+
+
+ Pharmaco-proteomicsSearch
+
+
+ Chemical Structure
+
+
+ Molecular Weight
+
+
+ Drug & Food Interactions
+
+
+ Target Sequences
+
+
+ Pharmaco-omics
+
+
+ Advanced Search
+
+
+ MS Search
+
+
+ MS/MS Search
+
+
+ GC/MS Search
+
+
+ 1D NMR Search
+
+
+ 2D NMR SearchInteraction CheckerDownloadsProducts  Navigate to DrugBank.com to check out our commercial products, use cases and more!DrugBank For Commercial Research  Drug DatasetsStructured drug data for data science & MLDrugBank For Clinical Software  Clinical APIClinical intelligence tool for your softwareFeatures  Drug SearchCustomizable drug search options  Drug-Drug Interaction CheckerSearch for drug interactions with our API  Drug AllergyGet drug allergy and cross sensitivities info  US Drug LabelsIntegrate drug manufacturer informationAbout   Help Center
+
+
+ Citing DrugBank
+
+
+ DrugBank Online FAQs
+
+
+ Searching DrugBank
+
+
+ Other Databases
+
+
+ Data Sources   About
+
+
+ About DrugBank Online
+
+
+ DrugBank in Research
+
+
+ Statistics
+
+
+ Blog
+
+
+ Wishart Research Group
+
+
+ Contact Us
+
+
+ Log inDrugs
+Targets
+Pathways
+Indications 
+
+
+  
+
+
+ New eBook: Your Guide to Quality Drug DataGet access!
+
+
+
+
+
+NAV   
+
+
+ IdentificationSummaryBrand NamesNameAccession NumberBackgroundTypeGroupsSynonymsExternal IDsPharmacologyIndicationAssociated TherapiesContraindications & Blackbox WarningsPharmacodynamicsMechanism of actionAbsorptionVolume of distributionProtein bindingMetabolismRoute of eliminationHalf-lifeClearanceAdverse EffectsToxicityPathwaysPharmacogenomic Effects/ADRsInteractionsDrug InteractionsFood InteractionsProductsMixture ProductsCategoriesDrug CategoriesAffected organismsChemical IdentifiersUNIICAS numberInChI KeyInChIIUPAC NameSMILESReferencesGeneral ReferencesExternal LinksClinical TrialsPharmacoeconomicsManufacturersPackagersDosage FormsPricesPatentsPropertiesStateExperimental PropertiesPredicted PropertiesPredicted ADMET FeaturesSpectraMass SpecSpectraCarriers (1)Medium-chain triglycerides
+
+
+Star0IdentificationSummaryMedium-chain triglycerides is a source of essential fatty acids used as a source of calories in parenteral nutrition.Generic NameMedium-chain triglyceridesDrugBank Accession NumberDB13959BackgroundMedium-chain triglycerides (MCTs) are triglycerides made up of a glycerol backbone and three fatty acids with an aliphatic tail of six to 12 carbon atoms. MCTs are found in natural foods, such as coconut oil, palm kernel oil, and raw coconut meat. In the body, MCTs are broken down into glycerol and free fatty acids, which are directly absorbed into the blood stream and transported to the target organs to exert a range of biological and metabolic effects.4 MCTs are used in parenteral nutrition therapy: they serve as a source of calories and essential fatty acids in conditions associated with malnutrition and malabsorption.10
+TypeSmall MoleculeGroupsApprovedSynonymsCaprylic/capric triglycerideCaprylic/capric triglyceridesCoconut oil, fractionedFractionated coconut oilFractionated triglyceride of coconut oilMCTMedium chain triglycerideMedium-chain glyceridesTriglycerides, medium-chainExternal IDs 
+
+
+
+
+
+
+
+
+MIGLYOL 810 N
+MIGLYOL 812 NPharmacologyIndicationMedium-chain triglycerides (MCTs), in combination with other compounds like fish oils, soya oil, and olive oil, is indicated in adult and pediatric patients, including term and preterm neonates, as a source of calories and essential fatty acids for parenteral nutrition when oral or enteral nutrition is not possible, insufficient, or contraindicated.10 MCTs are also available as over-the-counter natural products and health supplements.
+Reduce drug development failure ratesBuild, train, & validate machine-learning modelswith evidence-based and structured datasets.See how  Build, train, & validate predictive machine-learning models with structured datasets.See howAssociated Therapies
+
+
+
+
+
+Parenteral Nutrition
+Total parenteral nutrition therapyContraindications & Blackbox WarningsAvoid life-threatening adverse drug eventsImprove clinical decision support with information on contraindications & blackbox warnings, population restrictions, harmful risks, & more.Learn more  Avoid life-threatening adverse drug events & improve clinical decision support.Learn morePharmacodynamicsMedium-chain triglycerides (MCTs) contained in injectable lipid emulsions serve as a source of calories and essential fatty acids, which are important substrate for energy production.10 MCTs exert several metabolic effects: they were shown to reduce weight, metabolic syndrome, abdominal obesity, and inflammation in animal studies. It is proposed that MCTs induces weight loss through increasing energy expenditure and fat oxidation, and altering body composition.4 However, it is unknown whether the effects of MCTs on energy expenditure and body weight are long-lasting and sustainable.9 MCTs can also play a role in food intake and satiety, as some studies showed that MCT consumption led to reduced food intake.4,6,7 While MCTs was shown to reduce energy intake, it was not shown to affect appetite.8 MCT may facilitate the absorption of calcium.2
+Mechanism of actionMedium-chain triglycerides (MCTs) are broken down into glycerol and medium-chain fatty acids, which are directly absorbed into the blood stream and transported to the target organs,4 where they undergo β-oxidation to form acetyl-CoA. The β-oxidation is the most common mechanism of action for energy production derived from fatty acid metabolism.10 Because medium-chain fatty acids are rapidly oxidized, it leads to greater energy expenditure.9 Fatty acids are important substrates for energy production and also play a critical role in membrane structure and function. Additionally, fatty acids act as precursors for bioactive molecules (such as prostaglandins) and as regulators of gene expression.10
+Fatty acids may mediate their effects on energy expenditure, food consumption, and fat deposition by upregulating the expression and protein levels of genes involved in mitochondrial biogenesis and metabolism via activating Akt and AMPK signaling pathways and inhibiting the TGF-β signaling pathway. It is proposed that the promotion of weight loss by MCTs may be due to sympathetic activation of brown fat thermogenesis.4
+AbsorptionMedium chain triglycerides are rapidly absorbed.2,11 They passively and directly diffuse across the gastrointestinal tract into the portal system then to liver, where they are oxidized.9,11
+Volume of distributionThe apparent volumes of distribution have been researched as approximately 4.5 L for medium chain triglycerides and 19 L for medium chain fatty acids in a typical 70-kg subject.1
+Protein bindingMedium chain triglycerides bind weakly to serum albumin. They can readily cross the blood-brain barrier.11
+MetabolismMedium chain triglycerides are hydrolyzed by lipoprotein lipase to glycerol and medium-chain free fatty acids such as alpha-linolenic acid and linoleic acid.4,10,11 Free fatty acids then undergo β-oxidation in the organs such as the liver, kidneys, and heart. Alpha-linolenic acid and linoleic acid are metabolized within a common biochemical pathway through a series of desaturation and elongation steps. Downstream products of alpha-linolenic acid are eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), and linoleic acid is converted to arachidonic acid.10
+Hover over products below to view reaction partnersMedium-chain triglycerides
+
+
+Glycerol + Linoleic acid + alpha-Linolenic acid
+
+
+Docosahexaenoic acid + Eicosapentaenoic acid
+
+
+Arachidonic AcidRoute of eliminationThere is limited information available regarding the main route of elimination. 
+Half-lifeThe plasma half-life of medium chain triglycerides is recorded to be 11 minutes and that of medium chain fatty acids is about 17 minutes.1
+ClearanceThe clearance of medium chain triglycerides in healthy control subjects was measured to be about 1.93 +/- 0.34 mL.kg-1.min-1.3
+Adverse EffectsImprove decision support & research outcomesWith structured adverse effects data, including: blackbox warnings, adverse reactions, warning & precautions, & incidence rates.Learn more  Improve decision support & research outcomes with our structured adverse effects data.Learn moreToxicityThere is limited information regarding the LD50 of medium-chain triglycerides; however, MCTs at doses up to levels of 1g/kg have been safely consumed by humans in several clinical trials.5
+Fat overload syndrome is a condition rarely reported with the use of intravenous lipid emulsions that is most frequently observed when the recommended lipid dose or infusion rate was exceeded. However, some cases still occurred when the lipid formulation was administered according to instructions. Fat overload syndrome results from a reduced or limited ability to metabolize lipids, accompanied by prolonged plasma clearance, leading to a sudden deterioration in the patient's condition.10
+If signs or symptoms of fat overload syndrome occur, stop the infusion of medium chain triglyceride-containing emulsions until triglyceride levels have normalized and symptoms have abated. The effects are usually reversible by stopping the lipid infusion. If medically appropriate, further intervention may be indicated. Lipids are not dialyzable from plasma.10
+PathwaysNot AvailablePharmacogenomic Effects/ADRs 
+
+
+Not AvailableInteractionsDrug Interactions 
+
+
+This information should not be interpreted without the help of a healthcare provider. If you believe you are experiencing an interaction, contact a healthcare provider immediately. The absence of an interaction does not necessarily mean no interactions exist. Not AvailableFood InteractionsNo interactions found.ProductsDrug product information from 10+ global regionsOur datasets provide approved product information including:dosage, form, labeller, route of administration, and marketing period.Access now  Access drug product information from over 10 global regions.Access nowMixture ProductsNameIngredientsDosageRouteLabellerMarketing StartMarketing EndRegionImageCELEPID MCT-LCT 20% W/VMedium-chain triglycerides (10 g) + Soybean oil (10 g)EmulsionIntravenousFARMALOGICA S.A2007-03-14Not applicableColombiaColip 20%Medium-chain triglycerides (15 g / 100 mL) + Soybean oil (5 g / 100 mL)EmulsionIntravenousBaxter Corporation Clintec Nutrition Division1998-10-072007-08-02CanadaDeNino Diaper RashMedium-chain triglycerides (18.21 mL/60mL) + Avena sativa flowering top (.6 mL/60mL) + Lanolin (2.4 mL/60mL) + Zinc oxide (7.8 mL/60mL)CreamTopicalCorpsain Sa De Cv2010-04-01Not applicableUSFinomel Emulsion zur InfusionMedium-chain triglycerides (10.3 g/1085ml) + Alanine (11.41 g/1085ml) + Arginine (6.34 g/1085ml) + Calcium chloride dihydrate (0.41 g/1085ml) + D-glucose monohydrate (151.5 g/1085ml) + Fish oil (8.24 g/1085ml) + Glycine (5.68 g/1085ml) + Histidine (2.64 g/1085ml) + Isoleucine (3.31 g/1085ml) + Leucine (4.02 g/1085ml) + Lysine hydrochloride (3.99 g/1085ml) + Magnesium sulfate heptahydrate (1.36 g/1085ml) + Methionine (2.2 g/1085ml) + Olive oil (10.3 g/1085ml) + Phenylalanine (3.09 g/1085ml) + Potassium chloride (2.47 g/1085ml) + Proline (3.75 g/1085ml) + Serine (2.76 g/1085ml) + Sodium acetate trihydrate (3.1 g/1085ml) + Sodium glycerophosphate hydrate (3.26 g/1085ml) + Soybean oil (12.36 g/1085ml) + Threonine (2.31 g/1085ml) + Tryptophan (0.99 g/1085ml) + Tyrosine (0.22 g/1085ml) + Valine (3.2 g/1085ml) + Zinc sulfate heptahydrate (0.013 g/1085ml)EmulsionParenteralBaxter Healthcare Gmb H2019-05-14Not applicableAustriaFinomel Peri Emulsion zur InfusionMedium-chain triglycerides (7.65 g/1085ml) + Alanine (7.08 g/1085ml) + Arginine (3.93 g/1085ml) + Calcium chloride dihydrate (0.25 g/1085ml) + D-glucose monohydrate (84.4 g/1085ml) + Fish oil (6.12 g/1085ml) + Glycine (3.52 g/1085ml) + Histidine (1.64 g/1085ml) + Isoleucine (2.05 g/1085ml) + Leucine (2.5 g/1085ml) + Lysine hydrochloride (2.48 g/1085ml) + Magnesium sulfate heptahydrate (0.84 g/1085ml) + Methionine (1.37 g/1085ml) + Olive oil (7.65 g/1085ml) + Phenylalanine (1.92 g/1085ml) + Potassium chloride (1.53 g/1085ml) + Proline (2.33 g/1085ml) + Serine (1.71 g/1085ml) + Sodium acetate trihydrate (1.92 g/1085ml) + Sodium glycerophosphate hydrate (2.03 g/1085ml) + Soybean oil (9.18 g/1085ml) + Threonine (1.44 g/1085ml) + Tryptophan (0.62 g/1085ml) + Tyrosine (0.14 g/1085ml) + Valine (1.98 g/1085ml) + Zinc sulfate heptahydrate (0.008 g/1085ml)EmulsionParenteralBaxter Healthcare Gmb H2019-05-14Not applicableAustriaLipidem 20%, Emulsion for infusionMedium-chain triglycerides (100 g/L) + Omega-3 fatty acids (20 g/L) + Soybean oil (80 g/L)Injection, emulsionIntravenous dripB.BRAUN MEDICAL INDUSTRIES SDN BHD2020-09-08Not applicableMalaysiaLipidem 200mg/ml Emulsion for InfusionMedium-chain triglycerides (100 g/1000ml) + Omega-3 fatty acids (20 g/1000ml) + Soybean oil (80 g/1000ml)EmulsionIntravenousB. BRAUN SINGAPORE PTE LTD2009-03-16Not applicableSingaporeLipidem Emulsion zur InfusionMedium-chain triglycerides (100 g/l) + Omega-3 fatty acids (20 g/l) + Soybean oil (80 g/l)EmulsionParenteralB. Braun Melsungen Ag2005-04-20Not applicableAustriaLIPOFUNDIN %10 MCT/LCT VIT ELI 500 ML IV SOL.Medium-chain triglycerides (50 g/L) + Soybean oil (50 g/L)Injection, emulsionIntravenousB.BRAUN MEDİKAL DIŞ TİC. A.Ş.2020-08-142018-10-03TurkeyLIPOFUNDIN %20 MCT/LCT VIT E'LI 500 ML IV SOL.Medium-chain triglycerides (100 g/L) + Soybean oil (100 g/L)Injection, emulsionIntravenousB.BRAUN MEDİKAL DIŞ TİC. A.Ş.2020-08-142018-10-03TurkeyCategoriesDrug CategoriesLipids
+Oils
+Parenteral Nutrition Solutions
+Solutions for Parenteral NutritionClassificationNot classifiedAffected organismsHumans and other mammalsChemical IdentifiersUNIIC9H2L21V7UCAS number438544-49-1InChI KeyNot AvailableInChINot AvailableIUPAC NameNot AvailableSMILESNot AvailableReferencesGeneral ReferencesMingrone G, De Gaetano A, Greco AV, Capristo E, Castagneto M, Gasbarrini G: Medium-chain triglycerides for parenteral nutrition: kinetic profile in humans. Nutrition. 1995 Sep-Oct;11(5):418-22. [Article] Los-Rycharska E, Kieraszewicz Z, Czerwionka-Szaflarska M: Medium chain triglycerides (MCT) formulas in paediatric and allergological practice. Prz Gastroenterol. 2016;11(4):226-231. doi: 10.5114/pg.2016.61374. Epub 2016 Jul 20. [Article] Druml W, Fischer M, Pidlich J, Lenz K: Fat elimination in chronic hepatic failure: long-chain vs medium-chain triglycerides. Am J Clin Nutr. 1995 Apr;61(4):812-7. doi: 10.1093/ajcn/61.4.812. [Article] Wang Y, Liu Z, Han Y, Xu J, Huang W, Li Z: Medium Chain Triglycerides enhances exercise endurance through the increased mitochondrial biogenesis and metabolism. PLoS One. 2018 Feb 8;13(2):e0191182. doi: 10.1371/journal.pone.0191182. eCollection 2018. [Article] Traul KA, Driedger A, Ingle DL, Nakhasi D: Review of the toxicologic properties of medium-chain triglycerides. Food Chem Toxicol. 2000 Jan;38(1):79-98. doi: 10.1016/s0278-6915(99)00106-4. [Article] Clegg ME: Medium-chain triglycerides are advantageous in promoting weight loss although not beneficial to exercise performance. Int J Food Sci Nutr. 2010 Nov;61(7):653-79. doi: 10.3109/09637481003702114. [Article] St-Onge MP, Ross R, Parsons WD, Jones PJ: Medium-chain triglycerides increase energy expenditure and decrease adiposity in overweight men. Obes Res. 2003 Mar;11(3):395-402. doi: 10.1038/oby.2003.53. [Article] Maher T, Clegg ME: A systematic review and meta-analysis of medium-chain triglycerides effects on acute satiety and food intake. Crit Rev Food Sci Nutr. 2021;61(4):636-648. doi: 10.1080/10408398.2020.1742654. Epub 2020 Mar 26. [Article] St-Onge MP, Jones PJ: Physiological effects of medium-chain triglycerides: potential agents in the prevention of obesity. J Nutr. 2002 Mar;132(3):329-32. doi: 10.1093/jn/132.3.329. [Article] FDA Approved Drug Products: SMOFLIPID (lipid injectable emulsion), for intravenous use [Link] Australian Government Therapeutic Goods Administration: Australian Public Assessment Report for SMOFlipid [Link] External LinksRxNav1310578WikipediaMedium-chain_triglycerideClinical TrialsClinical Trials 
+
+
+PhaseStatusPurposeConditionsCount4CompletedHealth Services ResearchSepsis Newborn14CompletedPreventionCholestasis / Psychomotor Disorders, Developmental14CompletedSupportive CareDietary and Nutritional Therapies14CompletedSupportive CareGastric Resection / Malnutrition14CompletedSupportive CareMalnutrition14CompletedTreatmentHepatic Function / Inflammatory Responses14CompletedTreatmentParenteral Nutrition14CompletedTreatmentPatients Requiring Home Parenteral Nutrition14TerminatedSupportive CareCancer-related Malnutrition14TerminatedSupportive CareChildren - Malnutrition1PharmacoeconomicsManufacturersNot AvailablePackagersNot AvailableDosage FormsFormRouteStrengthEmulsionIntravenous10 gCreamTopicalInjection, emulsionIntravenous dripInjectionIntravenousEmulsionParenteralEmulsionIntravenousInjection, emulsionIntravenous4.656 g/1000mlInjection, emulsionIntravenous6.792 g/1000mlInjection, emulsionIntravenous14 g/1000mlInjection, emulsionIntravenousInjection, solutionIntravenousSolutionParenteralPricesNot AvailablePatentsNot AvailablePropertiesStateSolidExperimental PropertiesNot AvailablePredicted PropertiesNot AvailablePredicted ADMET FeaturesNot AvailableSpectraMass Spec (NIST)Not AvailableSpectraNot AvailableCarriers
+
+
+ Details1. Serum albuminKindProteinOrganismHumansPharmacological actionUnknownActionsBinderGeneral FunctionToxic substance bindingSpecific FunctionSerum albumin, the main protein of plasma, has a good binding capacity for water, Ca(2+), Na(+), K(+), fatty acids, hormones, bilirubin and drugs. Its main function is the regulation of the colloid...Gene NameALBUniprot IDP02768Uniprot NameSerum albuminMolecular Weight69365.94 DaReferencesAustralian Government Therapeutic Goods Administration: Australian Public Assessment Report for SMOFlipid [Link] ×Identify potential medication risksEasily compare up to 40 drugs with our drug interaction checker.Get severity rating, description, and management advice. Learn more   Drug created at January 17, 2018 16:57 / Updated at June 01, 2022 17:06 Product Image×Show full imageInterested in using DrugBank in a commercial product or application?Visit DrugBank.com   Stay up-to-date with the latest from DrugBank!SubscribeThank you for subscribing!AboutAbout DrugBank OnlineBlogWishart Research GroupCareersTerms of UsePrivacy PolicySupportHelp CenterDrugBank Online FAQsContact SupportProductsCommercial Drug DatasetsAcademic Drug DatasetsClinical APIContact Sales
+
+
+
+
+
+
+
+
+Website design by Educe Design & Innovation Inc.

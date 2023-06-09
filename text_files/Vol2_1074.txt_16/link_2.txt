@@ -1,0 +1,710 @@
+Document Name: role of COLLAGEN CLR in Eye Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8551410/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roles of calcitonin gene-related peptide in the skin, and other physiological and pathophysiological functions - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Brain Behav Immun Health
+
+
+v.18; 2021 Dec
+
+
+                    PMC8551410
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.3M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Brain Behav Immun Health
+
+
+v.18; 2021 Dec
+
+
+                    PMC8551410
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Brain Behav Immun Health. 2021 Dec; 18: 100361. Published online 2021 Oct 5.  doi: 10.1016/j.bbih.2021.100361PMCID: PMC8551410PMID: 34746878Roles of calcitonin gene-related peptide in the skin, and other physiological and pathophysiological functionsYee Jung Kim and  Richard D. Granstein∗Author information Article notes Copyright and License information DisclaimerDepartment of Dermatology, Weill Cornell Medicine, 1305 York Avenue, WGC9, New York, NY, 10021, USAYee Jung Kim: ude.llenroc.dem@6002key;  Richard D. Granstein: ude.llenroc.dem@tsnargdr ∗Corresponding author. ude.llenroc.dem@tsnargdrReceived 2021 May 1; Revised 2021 Oct 1; Accepted 2021 Oct 2.Copyright © 2021 The AuthorsThis is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).AbstractSkin immunity is regulated by many mediator molecules. One is the neuropeptide calcitonin gene-related peptide (CGRP). CGRP has roles in regulating the function of components of the immune system including T cells, B cells, dendritic cells (DCs), endothelial cells (ECs), and mast cells (MCs).Herein we discuss actions of CGRP in mediating inflammatory and vascular effects in various cutaneous models and disorders.Keywords: Calcitonin gene-related peptide, CGRP, Skin immunity, Immunoregulation, Neurogenic inflammation, Cutaneous disorders, Therapeutic targetAbbreviationsCGRPcalcitonin gene-related peptide;DCdendritic cellECendothelial cellMCmast cellCALCCalcitonin I geneCLRcalcitonin receptor-like receptorRAMPreceptor activity modifying pro`teinSPsubstance PLCsLangerhans cellsNGFnerve growth factorDRGdorsal root gangliaTRPtransient receptor potentialELISAenzyme-linked immunosorbent assayTRPV1transient receptor potential vanilloid 1TRPA1transient receptor potential ankyrin 1CEES2-chloroethyl ethyl sulfide;ICAMintercellular adhesion moleculeVCAMvascular cell adhesion moleculeAMadrenomedullinTIAtransient ischemic attackRAASrenin-angiotensin-aldosterone systemNPYneuropeptide YVIPvasoactive intestinal peptide,MAPKmitogen activated protein kinaseNFκBnuclear factor κBERK1/2extracellular signal related kinase1/2FPDfibroproliferation diseaseEMTepithelial-mesenchymal transitionFMTfibroblast-to-myofibroblast transdifferentiationAPCantigen presenting cellDTHdelayed-type hypersensitivityAHRairway inflammation and hyperresponsivenesspDMECprimary murine dermal microvascular EC(ROR)-γtretinoic acid receptor-related orphan receptor gammaUVBultraviolet BUCAcis-urocanic acidDNFB2,4-dinitro-1-flurorobenzeneCHScontact hypersensitivityBoNT-Abotulinum neurotoxin ARvD3resolvin D3BTX-Bbotulinum toxin BETRerythematotelangiectatic subtype of rosaceaTPtelangiectatic photoaging1. IntroductionCGRP was identified in 1982 by Amara et al. (Amara et al., 1982). CGRP consists of 37 amino acids, created from alternative RNA processing of the calcitonin gene. CGRP exists in two forms, α-CGRP (CGRP I) and β-CGRP (CGRP II). In humans, they are from two different genes (Brain et al., 1986), differ by three amino acids and share >90% homology, exerting biological effects, including vasodilation through similar mechanisms (Morris et al., 1984; Amara et al., 1985; Steenbergh et al., 1986). The calcitonin (CALC) I gene gives rise to either calcitonin or α-CGRP via alternative splicing, while a separate CALC II gene yields β-CGRP (Alevizaki et al., 1986; Steenbergh et al., 1986). α-CGRP is more abundant, located in specific regions in the central and peripheral nervous system. β-CGRP is found primarily in the gut, enteric nerves and pituitary gland (Mulderry et al., 1985; Brain et al., 1986, Brain and Grant, 2004).CGRP acts on calcitonin receptor-like receptors (CLRs) associated with receptor activity modifying proteins (RAMPs), needed for full functionality. The CGRP receptor consists of a CLR and a single transmembrane protein, RAMP1. CGRP is produced primarily in sensory nerves together with neuropeptides such as substance P (SP), as well as in the central nervous system. CGRP expression is also abundant in trigeminal ganglion neurons (Iyengar et al., 2019). CGRP expression by other cells is also known, including Langerhans cells (LCs), ECs, keratinocytes, fibroblasts, T lymphocytes, B lymphocytes, and monocytes (Hosoi et al., 1993; Bracci-Laudiero et al., 2002; Linscheid et al., 2004; Ding et al., 2008; Roggenkamp et al., 2013; Granstein et al., 2015). Its production is regulated by nerve growth factor (NGF) and can be secreted together with SP (Park et al., 2010). CGRP is an important vasodilator; it can trigger a signaling cascade that can lead to mast cells (MCs) releasing vasoactive amines such as histamine and serotonin (Voss et al., 2021) that recruit neutrophils and T cells, or it can more directly vasodilate through ATP-dependent potassium channels in arterial smooth muscle (Nelson et al., 1990). CGRP is found in the peripheral and central sensory nervous systems (Rosenfeld et al., 1983; Terenghi et al., 1985). In the periphery, CGRP is synthesized primarily in dorsal root ganglia (DRG) (Gangula et al., 2000), where the pro-peptide is cleaved to the active form and packaged in dense-core vesicles at sensory nerve terminals where it is stored and co-released with SP (Brain and Grant, 2004; Schlereth et al., 2016). Upon depolarization, calcium-dependent pathways trigger the exocytosis and release of CGRP (Matteoli et al., 1988; Russell et al., 2014).CGRP synthesis is upregulated in damaged nerves (such as peripheral axotomy) and tissues (Russell et al., 2014). Increased levels of CGRP observed with methods such as the enzyme-linked immunosorbent assay (ELISA) show that CGRP is released following transient receptor potential vanilloid 1 (TRPV1) or transient receptor potential ankyrin 1 (TRPA1) activation (Achanta et al., 2018; Pinho-Ribeiro et al., 2018; Zhang et al., 2020). TRPV1 is activated by capsaicin (which stimulates nociceptive afferents), heat, and acid, and acts as a transducer of temperature-sensitive pain (Venkatachalam and Montell 2007). TRPA1 is a chemosensory cation channel in sensory nerves and is activated by cold, endogenous reactive oxygen species, and cellular stress mediators, as well as pungent extracts like sulfur mustard and 2-chloroethyl ethyl sulfide (CEES), a sulfur mustard analog, promoting vesicant injury manifested as blistering (Bandell et al., 2004; Viana 2016). Both TRPV1 and TRPA1 channels trigger exocytosis of CGRP via a pathway that leads to increased intracellular calcium levels as shown in vitro by using ELISA and enzyme immunoassay techniques (Quallo et al., 2015; Shang et al., 2016; Eberhardt et al., 2017), and in vivo, leading to neurogenic vasodilation (Pozsgai et al., 2012). Thus, CGRP is essential for neurogenic inflammatory responses and other microvascular effects from neuropeptide release. CGRP and SP are two of the main proinflammatory neuropeptides released from nerve terminals- SP acts on NK1 receptors to mediate increased microvascular permeability (Cao et al., 2000), and CGRP is a potent vasodilator, contributing to the formation of edema, increased blood flow, and infiltration of inflammatory cells locally. Interestingly, although rodent MCs respond to CGRP, there is a report that human MCs do not (Kulka et al., 2008) and human mast cells may not express functional CGRP receptors (Eftekhari et al., 2013).Endothelial cells (ECs) synthesize and store CGRP in Weibel-Palade bodies, likely involved in autoregulation of hemodynamics (Ozaka et al., 1997). CGRP receptors are expressed on monocytes, macrophages, and neutrophils, along with epidermal cells such as keratinocytes, melanocytes and LCs. Human dermal microvascular ECs were also found to express mRNA for CLR and RAMP1-3 (Nikitenko et al., 2003).In skin, CGRP-immunoreactive nerve fibers are just under, and occasionally penetrating into the epidermis, sometimes forming fiber bundles deep to the epidermis (Schotzinger and Landis 1990), although single fibers run either near blood vessels or sweat glands (Wallengren 1997). In human skin, CGRP evokes slowly developing erythema within several hours (Wallengren et al., 1987; Wallengren and Hakanson 1987); this is not due to MC histamine or C-fiber tachykinins, as the effects were not suppressed by pre-treatment with mepyramine (histamine H1 receptor inverse agonist) or compound 48/80 (promoter of MC degranulation and histamine release) (Wallengren and Hakanson 1992; Wallengren et al., 1992). The longer-lasting and more widespread vascular effects of CGRP infer a gradual diffusion of CGRP, with direct vasodilation.Nitric oxide (NO) generated from glyceryl trinitrate (GTN) acts downstream to CGRP to evoke vasodilatation and probably headache (Geppetti et al., 2012). It is also reported that CGRP signaling inhibits NO production through pannexin-1 channel activation in endothelial cells. (Gaete et al., 2019). What is known is that periarterial nerve stimulation leads to vasodilation resistant to propranolol and atropine in the isolated mesenteric vascular bed (Kawasaki et al., 1988). Concurrent CGRP release during the vasodilation response (Fujimori et al., 1989), and the ability to block vasodilatation with CGRP antiserum (Han et al., 1990) demonstrates that this nonadrenergic, noncholinergic vasodilation is regulated by endogenous CGRP (Han et al., 1990). Thus, CGRP-containing nerves tonically mediate vascular tone in mesenteric resistance vessels.Inflammatory skin conditions including atopic dermatitis, psoriasis and rosacea may be regulated by nerve-derived immunomodulators including SP and CGRP. SP and CGRP act on vascular ECs and smooth muscle cells. SP increases vascular permeability by increasing intercellular adhesion molecules (ICAMs) and vascular cell adhesion molecules (VCAMs) on vascular epithelial cells and enhancing VEGF release from MCs (Lindsey et al., 2000; Castellani et al., 2010; Mishima et al., 2011), which both significantly enhance vascular permeability and induce proliferation of vascular ECs in vivo (Boesiger et al., 1998; Grutzkau et al., 1998), ultimately causing plasma extravasation and edema through hypervascularization and infiltration of inflammatory cells (Brain and Williams 1989). CGRP is also an important vasodilator of the microvasculature and helps to recruit inflammatory cells (Saria 1984; Zhou et al., 2010), mechanisms of which will be discussed further later in this review.2. CGRP and vascular effects2.1. CGRP in migraineCGRP is key in the pathogenesis of migraines (Sacco and Kurth 2014), perhaps due to its role in vasodilation. CGRP release from trigeminal neurons regulates cerebral vascular tone (O'Connor and van der Kooy 1988; Edvinsson et al., 2012). Whereas plasma levels of CGRP are increased in certain pathological states such as sepsis (Joyce et al., 1990), only cerebral vessel and ipsilateral jugular vein levels of CGRP are elevated in migraine (Edvinsson and Goadsby 1995; Ashina et al., 2000; Messlinger 2018).CGRP is present in trigeminal ganglia and cerebral arteries and blood levels in the jugular vein are elevated during headache, particularly migraine and cluster headaches. Some effective CGRP inhibitors appear not to cross the blood brain barrier suggesting a peripheral rather than a direct central action (Edvinsson et al., 2007; Edvinsson and Tfelt-Hansen, 2008). A comprehensive review of mechanisms by which CGRP blockade therapeutically benefits migraine is beyond the scope of this review. However, as stated by Edvinsson and colleagues “given that the trigeminal ganglion is central to the trigeminal vascular pain pathway, speculations that blocking CGRP transmission within the trigeminal ganglion is sufficient to abort or prevent the debilitating symptoms of migraine seems reasonable” (Edvinsson et al., 2018).CGRP antagonists alleviate migraines, as they can be explicitly designed to act on the trigeminal pain system (Edvinsson et al., 2018). The first non-peptide CGRP antagonist, BIBN 4096 BS, is effective in both animals and humans (Doods et al., 2000; Olesen et al., 2004). There are ongoing clinical trials with CGRP receptor antagonists for migraine treatment and some are approved for human use (Goadsby et al., 2017; Pellesi et al., 2017; Edvinsson et al., 2018). Galcanezumab (LY2951742), fremanezumab (TEV-48125), eptinezumab (ALD403), are monoclonal antibodies against CGRP, and indicated for use in migraine prevention in episodic migraine and chronic migraine (Bigal et al., 2013; Cernuda-Morollon et al., 2013; Giani et al., 2019), as well as for reduction of frequency of attacks in patients with episodic cluster headaches (Pellesi et al., 2020). Ubrogepant is an oral CGRP receptor antagonist, used for relief from acute migraine attacks (Curto et al., 2020). Rimegepant is another oral CGRP antagonist used for acute migraines (Peters 2019). However, telcagepant, another oral compound, was not approved due to liver toxicity (Holland and Goadsby 2018).Migraines can also be treated by triptan drugs like sumatriptan and rizatriptan, which are 5-HT1B/1D receptor agonists. 5-HT1B/1D receptors are seretonergic receptor subtypes located in the CNS, with one of their roles being vasoconstriction of vessels. As vasodilation in the dura mater could be a contributing factor to the pathogenesis of migraine headache (Humphrey and Feniuk 1991), one way that triptans can alleviate the migraine by constricting the dural blood vessels (Jansen et al., 1992), although vasoconstriction is not always necessary (Do et al., 2019). Neuropeptides such as CGRP are released from dural sensory nerve terminals during migraine attacks, a process mediated by 5-HT1B/1D receptors (Buzzi et al., 1991; Goadsby and Edvinsson 1993). More recently, it was shown that the voltage-gated P/Q-type calcium channel plays an important role in modulating neurotransmitter and neuropeptide release, such as that of CGRP (Xiao et al., 2008). Furthermore, CGRP levels are increased in the cranial circulation specifically in the outflow of the external jugular vein during migraine attacks, and intravenously injecting CGRP into patients can lead to migraine-like headaches (Lassen et al., 2002).Interestingly, a case report of a migraine patient who developed a possible CGRP receptor antibody (erenumab)-associated skin wound healing disturbance twice during the course of her therapy also suggests that impaired wound healing may be a potential side effect of CGRP antibody treatment as it is clear that CGRP plays significant roles in migration of keratinocytes, vascularization and immune responses (Wurthmann et al., 2020).2.2. CGRP and cardiovascular effectsCGRP mediates cardioprotective effects in different cardiovascular models and disorders (Li et al., 1996; Depre et al., 2018). Perivascular nerve fibers throughout the body also display CGRP immunoreactivity. Perivascular CGRP fibers are in all vascular beds, generally more abundant around arteries than veins (Uddman et al., 1986). They are potent regulators of local blood flow and carry sensory information (Uddman et al., 1986). Respiratory, gastrointestinal, and genitourinary tracts contain many small arteries with CGRP fibers, particularly the gastroepiploic arteries (Uddman et al., 1986). CGRP fibers are in coronary blood vessels, especially close to myocardial fibers (Uddman et al., 1986; Sekiguchi et al., 1994). Thus, CGRP may have protective effects in various cardiovascular diseases (Gao et al., 2015). CGRP immunoreactivity is also in nerve cell bodies and nerve fibers in sensory ganglia (Lawson et al., 2002). It has also been shown that CGRP antagonists can worsen cerebral ischemic outcomes in a murine ischemic stroke model (Mulder et al., 2020).In some models of hypertension, CGRP protected against the onset and advancing of hypertensive conditions by possibly counteracting the pro-hypertensive mechanisms such as the renin-angiotensin-aldosterone system (RAAS) and the sympathetic system (Li et al., 2004). CGRP could also alleviate some of the pathophysiology of heart failure and ischemia, by mediating cardiac hypertrophy, protecting against reperfusion injury, inflammation, and apoptosis (Kee et al., 2018). In myocardial ischemia, CGRP can play a protective role, as IV administration of CGRP led to an increased heart rate and decrease in both systolic and diastolic arterial pressure (Gennari and Fischer 1985). However, there are mixed results with regards to plasma CGRP levels in hypertensive patients; plasma CGRP was higher (Masuda et al., 1992), unchanged (Schifter et al., 1991), and decreased (Edvinsson et al., 1989; Portaluppi et al., 1992). These discrepancies could be due to differences in sampling, radioimmunoassays used, heterogeneity in duration, severity, and treatment of different hypertensive populations (Bell and McDermott 1996). However, plasma CGRP levels were decreased in patients after adrenalectomy to treat another underlying condition, suggesting that CGRP is a compensatory response to hypertension and can become reduced or even inhibited with disease progression (Russell et al., 2014; Smillie et al., 2014). NO plays a role in maintaining low blood pressure and healthy heart function. It was also shown that when vascular NO production is not fully functional, alpha-CGRP can act via the canonical CGRP receptor to protect against cardiovascular dysfunction by promoting mesenteric regulation of blood flow (Argunhan et al., 2021).Although CGRP is a potent mediator in cardiovascular protection, it is also involved in migraine pathogenesis as mentioned earlier in the review. Therefore, it is important to consider the safety and tolerability profile of anti-CGRP monoclonal antibodies, with regards to both systems. So far, clinical trials have shown that CGRP monoclonal antibodies used for treatment of both episodic and chronic migraine did not demonstrate any safety problems concerning the cardiovascular system (Tso and Goadsby 2017; Khan et al., 2019), although it should be noted that the patients in these trials were young and typically without significant cardiovascular disease. Olcegepant did not have any effect on myocardial vascular conductance in rat and pig, nor did it affect their baseline hemodynamics (Kapoor et al., 2003; Arulmani et al., 2004). These studies suggest that in healthy subjects without cardiovascular conditions, CGRP inhibitors do not pose a threat. However, in patients with cardiovascular conditions, CGRP receptor antagonists could lessen the cardioprotective effect of CGRP (Lu et al., 1999; Chai et al., 2006), as demonstrated by studies showing that CGRP has a protective effect during coronary and cranial ischemia (Li and Peng 2002; Rehni et al., 2008; Cai et al., 2010) and olcegepant, a CGRP receptor antagonist, could block the protective effect of CGRP in a rat heart model (Chai et al., 2006). It is important that more studies on the safety of CGRP receptor antagonists and the downstream effects of CGRP receptor blockade under ischemic conditions be done, in order to confirm both the acute and chronic effects of these drugs when used in patients with increased cardiovascular risk.2.3. CGRP pharmacologyThe more recently discovered adrenomedullin (AM) and amylin are considered to be members of the CGRP/calcitonin family of peptides. AM (52 amino acids) is longer than CGRP (37 amino acids), they exhibit crossreactivity at each other's receptors because biological activity is conserved by the C-terminal 38 amino acids (Alexander et al., 2019). AM is a potent vasodilator in rat skin and amylin is a pancreatic islet amyloid polypeptide which also shares 16 amino acids with both AM and CGRP (Tso and Goadsby 2017). In in vivo experiments that measured changes in local blood flow in rat skin, injection of either AM (3–300 ​pmol) or CGRP (0.1–30 ​pmol) led to dose-dependent increases in local blood flow. As of now, CGRP8-37 is the best available peptide antagonist for the CGRP receptor and AM22-52 is the best known antagonist at the AM receptor (Hay et al., 2003; Hay et al., 2004). CGRP8-37 also antagonized sustained high blood flow mediated by IL-1β; AM mRNA is upregulated by local administration of IL-1β and sufficient AM is produced to contribute to vasodilatation (Chu et al., 2001). CGRP antagonists such as rimegepant are capable of antagonizing alpha-CGRP mediated signaling through both the AMY1 receptor and CGRP receptor (Pan et al., 2020), showing that CGRP and amylin share receptors and can have several similar pharmacological and biological actions. Another agent effective against migraine, erenumab, blocks the CGRP signaling by binding both the CGRP and AMY1 receptors, with an essential requirement for RAMP1, the common subunit in both (Bhakta et al., 2021).3. Role of CGRP in neurogenic inflammationNeurogenic inflammation is the process by which sensory nerves induce inflammation by release of inflammatory neuropeptides (Kilo et al., 1997; Cao et al., 2000) Mechanical stress can induce vasoactive neuropeptide release which stimulate skin sensory fibers to release neuropeptides responsible for vessel modifications and fibroblast activation (Akaishi et al., 2008). Most cutaneous cells express functional receptors for neuropeptides such as CGRP, through which they transmit signals from the nervous system; after stimulation with CGRP, these cells, in turn, release other neuropeptides such as neuropeptide Y (NPY), galanin, CGRP, or vasoactive intestinal peptide (VIP), as well as neurotrophins that can further stimulate nerve fibers by recruiting inflammatory cells-hence the term “neurogenic” inflammation (Roosterman et al., 2006; Chiu et al., 2012). NGF can augment CGRP release through signal transduction pathways mediated by signaling proteins Ras and MEK (mitogen-activated protein kinase), through both acute sensitization and long-term upregulation of CGRP expression (Park et al., 2010). Human skin fibroblasts also express mRNA for RAMP1, demonstrating that they also have a low-expression of CGRP receptors (Albertin et al., 2003; Ferreira et al., 2009), and they contribute to the pathogenesis of neurogenic inflammation with induction of extracellular matrix synthesis (Akaishi et al., 2008; Hochman et al., 2008). MCs also release histamine, an important factor in inducing itch. SP, CGRP, and histamine, also directly contribute to vasodilation and permeabilization of vessels, completing the malignant cycle of neurogenic inflammation (Akaishi et al., 2008). In particular, SP recruits inflammatory cells directly. While this has been attributed to action at NK1 receptors, recent data suggests that engagement of MrgprB2/X2 receptors is more relevant to inflammation (Navratilova and Porreca 2019). Also, capsaicin-induced vasodilation in both the rhesus monkeys (Hershey et al., 2005) and humans (Sinclair et al., 2010) is inhibited by a CGRP-receptor antagonist. CGRP plays an important role in dermal blood flow due to capsaicin; MK-0974, a powerful oral antagonist of CGRP, can inhibit vasodilation in the dermis after skin application of capsaicin (Sinclair et al., 2010).4. CGRP and the skin4.1. KeratinocytesKeratinocytes are derived from ectoderm, similar to neurons, and exhibit neurochemical properties (Roosterman et al., 2006). The skin is innervated by sensory neurons that release neuropeptides. CGRP, produced by peptidergic sensory endings in the epidermis, can promote keratinocyte proliferation and cytokine expression (Toyoda et al., 1999). A keratinocyte cell line was used to identify receptors for SP and CGRP on keratinocytes, and their role in keratinocyte neuropeptide signaling, cell proliferation and IL-1β, IL-6, TNFα, and NGF expression (Shi et al., 2013). Stimulation with SP or CGRP upregulated neuropeptide receptor expression in keratinocytes and increased keratinocyte secretion of SP and CGRP, implying autocrine or paracrine stimulatory effects. SP activated all 3 families of mitogen activated protein kinase (MAPK) and nuclear factor κB (NFκB) in keratinocytes, and CGRP activated p38 and extracellular signal related kinase1/2 (ERK1/2) MAPKs. Accordingly, ERK1/2 and JNK inhibitors reversed neuropeptide-stimulated inflammatory mediatory production in keratinocytes (Lei et al., 2012). In another study, competitive receptor antagonists of CGRP and SP were applied to the epidermis in an in vitro skin model to test whether they affect the neuron-derived effect on epidermal morphogenesis (Roggenkamp et al., 2013). The CGRP antagonist CGRP8-37 significantly reduced epidermal thickness compared to the control preparation. Furthermore, CGRP-treated skin models exhibited a thickened epidermis and an increase in proliferating, Ki-67-positive keratinocytes, compared to a lesser degree of thickening of rtheepidermis when treated with SP (Roggenkamp et al., 2013). These observations could help in designing novel treatments for inflammatory skin diseases and pain disorders, as CGRP antagonists or agonists could be used to disrupt ERK1/2 and JNK signaling pathways involved with exaggerated sensory neuron-keratinocyte signaling.4.2. MelanocytesEpidermal melanocytes are anatomically associated with axons in human skin including formation of synapse-like contacts (Hara et al., 1996; Hirobe 2005), and CGRP stimulates melanocyte proliferation. CGRP also increases intracellular cAMP, suggesting an effect on cAMP pathway mediated proliferation. Through immunohistochemistry and electron microscopy, a close physical connection between axon terminals in the epidermis and melanocytes was shown via thickening of either pre- or postsynaptic plasma membranes and submembraneous aggregation of vesicles, similar to nervous system synapses (Hara et al., 1996). CGRP could also exert its effects through secretion from intraepidermal free nerve endings (Hara et al., 1996). Melanogenic activity, defined by tyrosinase activity and melanin content, was compared between a pure culture system of melanocytes treated with either CGRP-KCM (medium conditioned by CGRP-stimulated keratinocytes) or CGRP alone. Although CGRP alone had no effect on melanogenic activity, CGRP-KCM upregulated melanogenesis, showing that CGRP stimulated melanogenesis via keratinocyte-derived factors (Toyoda et al., 1999) but does not do so directly. No significant difference in the quantity of melanocytes between cultured melanocytes treated with CGRP alone or with CGRP-KCM (Toyoda et al., 1999) was seen, demonstrating that CGRP directly stimulated melanocyte mitosis without keratinocyte-derived factors. CGRP can enhance the number of dendrites and the average dendrite length per cell (Toyoda et al., 1999). Melanocytes in control medium had short, unipolar/bipolar dendrites, compared to melanocytes stimulated with NGF, an inducer of melanocyte dendricity, or CGRP, which induced multiple, long dendrites. CGRP-KCM further induced elongation of dendrites of melanocytes in different directions (Yaar et al., 1991). Thus, keratinocytes are an important source of exogenous signals that induce melanocyte dendricity. CGRP also influences keratinocytes to release endothelin-1, βFGF, α−melanocyte stimulating hormone, and prostaglandin E2, which all affect melanocyte dendricity (Snell 1964; Abdel-Malek 1988; Halaban et al., 1988; Hara et al., 1995). Under CGRP's influence, keratinocytes regulate melanocyte morphology and increase melanocyte number, total epidermal melanin content, melanosome maturation, and dendrite formation (Toyoda et al., 1999).4.3. FibroblastsNeuropeptides can directly modulate fibroblasts with implications for wound healing and are associated with hyperproliferative skin and mesenchymal conditions (Peters et al., 2006; Yu et al., 2009). SP can stimulate chemotaxis in human fibroblasts (O'Connor, O'Connell et al., 2004), and in vitro, it is also a powerful chemoattractant for human fibroblasts as it stimulates a concentration-dependent migratory response (Kahler et al., 1993a, Kahler et al., 1993b). Human dermal fibroblasts move after adding SP to the culture medium (Kahler et al., 1993a, Kahler et al., 1993b), and SP upregulates the proliferation of skin fibroblasts (Morbidelli et al., 1993). SP, CGRP, and melanocyte-stimulating hormone (alpha-MSH) can also upregulate the IL-8/IL-8RA system of keratinocytes and fibroblasts (Kiss et al., 1999), important for cutaneous inflammation. CGRP may have a role in fibroproliferation disease (FPD) of the skin (Akaishi et al., 2008). Mechanical stress, such as skin stretching, stimulates mechanosensitive nociceptors on sensory fibers in the skin, leading to SP and CGRP release with binding to SP-NK1R and CLR-RAMP-1 receptors on skin cells (Muschter et al., 2019), along with upregulation of MC histamine release (Durham 2016). This suggests innovative therapeutic targets for FPDs of the skin, such as keloids and hypertrophic scars.Fibroblasts are critical elements of inflamed tissues and are often near neural cells. CGRP promotes IL-1β− or TNF-α- induced biosynthesis of IL-6 by a non-transformed fibroblast cell line, through post-transcriptional stabilization of IL-6 specific mRNA (Sakuta et al., 1995). Also, CGRP and SP act through their receptors to promote epithelial-mesenchymal transition (EMT), fibroblast-to-myofibroblast transdifferentiation (FMT), and convert stromal cells into smooth muscle cells in endometriotic lesions, increasing migration and invasion, cell contractility, and collagen synthesis, leading to fibrosis (Yan et al., 2019). Interactions between CGRP and fibroblasts also occur in the heart. There is abundant expression of CGRP in rat, mouse, and human myocardium, and cardiac CGRP is mainly derived from cardiac fibroblasts (Li et al., 2020). NF-κB signaling plays an integral part in cardiac fibroblast activation, seen in aortic coarctation and angiotensin II induced cardiac fibrosis (Higashikuni et al., 2013; Thakur et al., 2014). Autocrine CGRP can inhibit TGFβ1-induced activation of the NF-κB signal pathway, and activation of TRPA1 alleviated cardiac fibrosis by stimulating synthesis and production of CGRP in cardiac tissues (Li et al., 2020).4.4. Effects on antigen presenting cells (APCs)4.4.1.  LCs LCs are dendritic APCs in the epidermis. They are the sole APC in the epidermis in steady-state conditions (Merad et al., 2002). It has been believed that LCs are potent APCs for induction of effector immune responses. However, most experiments in this regard were performed ex vivo where LCs underwent maturation. Now it appears that, depending on the circumstances, LCs can also serve to limit immunity (Kaplan 2010; Seneschal et al., 2012; Strandt et al., 2017; Kitashima et al., 2018).LCs are found in the basal and supra-basal layer of the epidermis, and they can migrate from the skin to the draining lymph nodes during steady-state, without any inflammatory changes (Merad et al., 2002). With inflammation, the migration rate of LCs is increased (Rajesh et al., 2019). LCs play a pivotal role in immune surveillance, as they have a functional relationship with macrophages and DC's, and influence differentiation of Th17 and CD4+ follicular helper T cells, and responses of regulatory T cells, CD8+ T cells, and Th2 cells (Fujita et al., 2009).CGRP plays an essential role in immunomodulation (Wang et al., 1992; Hosoi et al., 1993; Asahina et al., 1995a, Asahina et al., 1995b; Fox et al., 1997; Torii et al., 1997) by regulating APCs and their capacity to express costimulatory molecules and inhibiting antigen presentation for generation of Th1 immunity while enhancing Th2-type immunity. CGRP upregulates production of IL-10 by LCs, PBMCs and macrophages (Fox et al., 1997; Ding et al., 2008; Mikami et al., 2011). CGRP exposure of LCs in vitro prior to use for presenting antigen to responsive T cells led to an increased IL-4 production and a decreased interferon-γ release, consistent with inhibition of a Th1 response and enhancement of Th2-type immunity (Ding et al., 2008). CGRP also decreased production of the Th1 chemokines CXCL9 and CXCL10 stimulated by exposure of LCs to interferon-γ and induces release of the Th2 chemokines CCL17 and CCL22. Thus, CGRP favors Th2-type immunity in skin by at least 2 mechanisms.4.4.2.  Other types of DCS CGRP inhibits lipopolysaccharide induction of CD80 and CD86 on macrophages and DCs (Bracci-Laudiero et al., 2002). These molecules are ligands for CD28, found on T cells and regulate their ability to develop a competent immune response (Fox et al., 1997; Assas et al., 2014). CGRP also physiologically regulates cytokine production from DCs in vivo; DCs from the draining lymph nodes of RAMP1-deficient mice (lacking intact CGRP receptor) showed a tendency to express a high level of IL-12, favoring a Th1 response. To prove the direct effect of CGRP on DCs in the ovalbumin (OVA)- induced delayed-type hypersensitivity (DTH) model, authors showed that footpad swelling, as well as the OVA-specific total IgG and Th-1 mediated IgG2a production, was significantly increased in OVA-immune mice who received RAMP1-deficient OVA-pulsed BMDCs compared to mice who received wild-type OVA-pulsed BMDCs (Mikami et al., 2014). CGRP also inhibits DC maturation and allergen-specific T cell responses, regulating allergic airway inflammation in vivo (Rochlitzer et al., 2011). Providing CGRP to sensitized and challenged mice resulted in the normalization of airway responsiveness to inhaled methacholine, used to induce airway inflammation and hyperresponsiveness (AHR) in the mouse model (Dakhama et al., 2002). This discovery suggests using CGRP for treating AHR. Also, CGRP participates in NF-κB activation and induction of cAMP-responsive suppressor genes in immune cells, especially DCs (Assas et al., 2014), although in the presence of more potent inducers of NF-kB, it inhibits NF-kB activation in LCs and ECs (Holzmann 2013). CGRP can also down-regulate the expression of HLA-DR and CD86 by both mature and immature human DCs (Carucci et al., 2000).4.5. Endothelial cellsCGRP can regulate the outcome of antigen presentation by LCs to T cells by acting on microvascular ECs (Ding et al., 2008). Th17-type T helper cells mediate inflammation and defend the host from invasion against many pathogens while inappropriate Th17 responses and IL-17A production have been linked to many chronic inflammatory conditions including psoriasis, and atopic dermatitis (Cesare et al., 2008; Dhingra and Guttman-Yassky 2014; Sugaya 2020). When primary murine dermal microvascular ECs (pDMECs) (Ding et al., 2016) were exposed to CGRP and co-cultured with LCs, responsive CD4+ T-cells and antigen, pDMECs treated with CGRP favored the production of IL-6 and IL-17A by responding T cells, while down-regulating production of IFNγ and IL-22. IL-22 used to be perceived as a significant product of Th17 ​cells, but it is now known to be also produced by activated Th1, natural killer cells, and gamma delta T-cells (Chien et al., 2014); most of it comes from Th22 ​cells (Fujita 2013). Further experiments proved that this phenomenon was not dependent on contact between pDMECs and LCs or responding T-cells, but, at least partly, is due to pDMEC production of IL-6. CGRP-treated pDMECs induced a higher proportion of CD4+ T-cells expressing intracellular IL-17A and increased IL-17A mRNA, whereas it decreased the proportion of CD4+ T cells expressing IFN-y or IL-22 as well as mRNA levels for these cytokines (Ding et al., 2016). There was also an increase in levels of retinoic acid receptor-related orphan receptor gamma (ROR)-γt mRNA associated with differentiation of Th17 ​cells, whereas T-bet (transcription factor in Th1 response) and GATA3 (transcription factor in Th2 response) expression was inhibited. BALB/c mice injected intradermally with CGRP or medium alone, followed by immunization at the injected site with the hapten dinitrofluorobenzene resulted in enhanced production of IL-17A with reduced production of IFNγ in cells from mice treated with CGRP compared to the medium control group upon non-specific stimulation of CD4+ T cells from skin-draining lymph nodes (Ding et al., 2016). CGRP also inhibits lipopolysaccharide-stimulated production of pro-inflammatory chemokines such as IL-8, chemokine CCL2, and chemokine CXCL1 by ECs (Huang et al., 2011). This may explain, in part, reports that systemic administration of CGRP inhibits non-immune inflammation induced by local or systemic administration of inflammatory agents (Ding et al., 2007).4.6. Direct effects on immune cellsCGRP and VIP have an additive inhibitory effect on T cell proliferation (Ottaway and Greenberg 1984; Teresi et al., 1996). α-CGRP and VIP, administered separately (combination studies not performed), significantly reduce murine splenocyte proliferation induced by the combination of phorbol-12-myristate-13-acetate (PMA) and the calcium ionophore A2387 as well as that of splenic purified CD4+ and CD8+ T cells (Teresi et al., 1996).CGRP also regulates B cell behavioir. Although CGRP gene transcript expression is almost absent in resting B cells, they were strongly expressed in activated B cells (Bracci-Laudiero et al., 2002). CGRP gene expression was induced by nerve growth factor (NGF), produced by B cells in an autocrine process; anti-NGF antibodies significantly reduced CGRP expression in both resting and activated B-cells. Also, physiological concentrations of CGRP inhibited pre-B cell responses to interleukin-7 (IL-7), preventing B cell development and colony formation (Fernandez et al., 2000). In vivo, CGRP induced a reduction of IL-7-responsive B-cell progenitors in the bone marrow (Schlomer et al., 2007). Furthermore, in peripheral blood mononuclear cells (PBMCs), monocyte adhesion and migration in vivo was influenced via chemoattraction and inflammation-mediated NO synthesis (Wiedermann et al., 2002), which is amplified by the expression and secretion of procalcitonin and CGRP that occurs post-adherence to ECs or plastic surfaces (Linscheid et al., 2004).5. Ultraviolet radiation-induced immune suppressionUltraviolet B (UVB, 280–320 ​nm) radiation regulates immune responses in animals and humans. UVB radiation induced CGRP release from nerve fibers in rat skin (Benrath et al., 1995), which subsequently induced MC release of TNF-α (Gillardon et al., 1995; Niizeki et al., 1997). Urocanic acid, derived from filaggrin catabolism, is abundant in skin, primarily as the trans isomer. Cis-urocanic acid (UCA), derived from formed by a trans-cis isomerization of trans-UCA following UVB exposure, also led to CGRP production (Kurimoto and Streilein 1992). CGRP may be involved in UVB-impaired induction of contact hypersensitivity (CHS), through CGRP release from sensory neurons, followed by release of MC TNF-α, which mediates suppressed CHS in some models (Niizeki et al., 1997). Pre-treatment of mice with a CGRP antagonist inhibited the cis-urocanic acid induction of suppression of CHS (Khalil et al., 2001). In addition, intradermal injection of CGRP induced tolerance to 2,4-dinitro-1-flurorobenzene (DNFB) in both normal and mast cell-deficient mice, and injection of a CGRP receptor antagonist, CGRP8-37, into mouse skin subsequently exposed to acute, low-dose UVB radiation, partially prevented tolerance induced by pre-exposure to UVB radiation. A CGRP receptor antagonist applied topically to the irradiated site restored the normal induction of CHS if applied after UVB irradiation but before exposure to contact allergens (Kitazawa and Streilein 2000). A CGRP receptor antagonist applied topically to the irradiated site restored the normal induction of CHS, if applied after UVB irradiation but before exposure to contact allergens (Gillardon et al., 1995). Also, CGRP, detected in human Finn chamber skin samples, was significantly increased after UVB exposure, suggesting contribution to UVB-mediated immunosuppression in humans. In mice, UVB failed to inhibit CHS in sensory-nerve-depleted mice, demonstrating that neuropeptides are involved in this process (Garssen et al., 1998; Sleijffers et al., 2003). Also in mice, CGRP contributed to UVB-induced immune suppression by inducing hapten-specific tolerance via the release of immune suppressive cytokines such as IL-10 (Kitazawa and Streilein 2000). However, it is not clear whether CGRP uses this same mechanism in immunosuppression in humans.6. Relevance for inflammatory skin disorders6.1. PsoriasisPsoriasis is a chronic, multisystem inflammatory skin disease with a strong genetic predisposition and autoimmune pathogenic traits, characterized by hyperproliferation of keratinocytes (Saraceno et al., 2006), erythema, and pruritus, with cutaneous discomfort and pain. Interestingly, it is known that denervation improves or clears psoriasis and also plays a role in psoriatic arthritis (Dewing 1971; Omland and Gniadecki 2015; Zhu et al., 2016). Additionally, administration of lidocaine hydrochloride into psoriatic plaques was reported to induce significant improvement (Ostrowski et al., 2011). Accordingly, chemical denervation with injection of botulinum neurotoxin A (BoNT-A) into psoriatic lesions results in improvement or resolution of the lesions, including in inverse psoriasis (Mafong et al., 2002). BoNT-A acts by inhibiting neurotransmitter release by cleaving the SPAP25 protein, thus blocking acetylcholine release. It also inhibits CGRP and SP release (Rapp et al., 2006; Meng et al., 2007; Ward et al., 2012). Botox could also decrease plaque severity by decreasing SP- and CGRP-immunoreactive nerve expression and increasing epidermal nerve fiber (ENF) density (Aschenbeck et al., 2018).Other data supports a role for neuropeptides in psoriasis. SP- and CGRP- containing neuropeptide nerve fibers are more dense in the psoriatic epidermis (Jiang et al., 1998). Blocking common sensory neurogenic mechanisms for TRPV1, TRPA1, and neuropeptides such as SP and CGRP, can inhibit certain spontaneous behaviors indicative of cutaneous discomfort in mice (Kodji et al., 2019). Imiquimod cream is a TLR 7/8 agonist used clinically to strengthen innate immunity to treat viral neoplasms of the skin, such as warts and other skin malignancies and pre-malignancies (Hemmi et al., 2002; Van Belle, de Heusch et al., 2012). Consistent, repeated application of 5% imiquimod skin to the dorsal skin of mice resulted in a psoriasis-like phenotype (Sakai et al., 2016). Mice with C57BL/6J background also exhibit a scratching phenotype, suggesting itch similar to human psoriasis (Swindell et al., 2017). Nociceptors also play a role in IL-23 -mediated imiquimod-induced skin inflammation. In the imiquimod-based mouse model of psoriasis, chemical denervation of TRPV1+ nociceptors or genetic deletion of Nav1.8+ neurons resulted in decreased skin pathology (Riol-Blanco et al., 2014). Dermal DCs were in proximity with sensory nerves in the dermis, and eliminating nociceptive response in mice led to reduced production of IL-23, IL-17, and the imiquimod-induced inflammation (Riol-Blanco et al., 2014).There is further evidence from another murine model that the cutaneous nervous system and nerve-derived SP and CGRP play a role in psoriasis. Transecting the thoracic-level of cutaneous nerves at their entry site into dorsal skin of mice prevents a psoriatic phenotype (Ostrowski et al., 2011) in the KC-Tie2 murine model of psoriasiform skin disease, a phenotype based on engineered keratinocyte-specific expression of the angiopoietin receptor Tie2 (Wolfram et al., 2009). Most interestingly, in this model intradermal administration of an SP agonist to denervated skin corrected the loss of CD4+ cells and CD11c+ cells seen with denervation but did not correct the loss of acanthosis while intradermal administration of CGRP reversed the loss of acanthosis (sub-totally) and corrected CD4+ cell loss but did not affect the number of CD11c+ cells (Ostrowski et al., 2011).Another study demonstrated that resolvin D3 (RvD3), a family member of the resolvins with anti-inflammatory and anti-pruritic effects through neuroimmune mechanisms, can reduce skin inflammation in the imiquimod murine model, perhaps by blocking TRPV1 activity via G protein-coupled receptor signaling and CGRP release from DRG neurons (Sawada et al., 2018; Serhan and Levy 2018; Xu et al., 2018). Botulinum toxin B (BTX-B), when injected into mice with imiquimod-induced psoriasis-like dermatitis, also inhibited SP and CGRP release in the skin, potentially inhibiting nerve elongation, infiltration of immune cells, and IL-17 production, leading to improvement of psoriasis (Amalia et al., 2021).Nociceptor-immune interactions also have significant contributions to inflammation. In psoriasis-like conditions, skin allergen-sensitized dendritic cells come in direct contact with afferent sensory neurons and activate them. In a study, C. albicans induced CGRP by stimulation of Nav1.8-positive nociceptors via the B-glucan receptor Dectin-1. This induction of CGRP is associated with TRPV1 and TRPA1 ion channels, as hindpaw B-glucan injection after Nav1.8-positive nociceptor deletion or in TRPV1/TRPA1 deficiency led to increased skeletal inflammation and impaired CGRP production (Maruyama et al., 2017). These findings show that nociceptors interact with DCs and regulate the IL-23-IL-17 pathway via TRPV1 and TRPA1 ion channels in the psoriasis like dermatitis model, particularly in the context of fungal osteoinflammation.As discussed above, cutaneous neuropeptides can induce TRP activation and TRP channel activation leads to neurogenic inflammation in skin and pain in conditions involving arthritis.(Fernandes et al., 2011; Kodji et al., 2019). In addition to psoriasis, cutaneous sensory nerves are involved in other skin conditions such as allergic contact dermatitis (mouse model) and pruritus (Prignano et al., 2009; Wilson et al., 2011; Liu et al., 2013; Therene et al., 2018). Topical capsaicin led to depletion of sensory neuropeptides with repeated application-efficient in minimizing both psoriasis-associated skin lesions as well as cutaneous discomfort, albeit with initial burning as a side-effect (Bernstein et al., 1986). Although psoriasis treatments generally improve pruritus, this does not always correlate with lesion regression (Prignano et al., 2009; Therene et al., 2018).Through a study that involved stimulation of spinal cord synaptosomes and activating spinal TRPA1 by pungent foods and products of lipid peroxidation, it was shown that TRPA1 receptors were a potential trigger for the release of CGRP in tissues that include mouse skin (Quallo et al., 2015). It was also recently shown that activating neuronal and nonneuronal TRPA1 receptors has a protective role in imiquimod-induced psoriasiform dermatitis in mice. The variation in outcome of the imiquimod-induced reaction in TRPA1 knockout mice, TRPV1 knockout mice, and TRPV1/TRPA1 double-knockout mice were observed, and it was proposed that imiquimod has TRPA1 agonist activity that exerts anti-inflammatory activity in the skin although pro-inflammatory TRPV1 activity was dominant (Kemeny et al., 2018). Another study showed further contribution of the TRPA1-sensory nerve pathway in cutaneous discomfort of psoriasis involving neuropeptide (CGRP, SP) dependent mechanisms through the imiquimod model (Kodji et al., 2019).These findings demonstrate that the activation of TRP channels and the release of CGRP could play a significant role in the phenotypic expression of psoriasis. Most importantly, they suggest the possibility of a new locus for therapeutic manipulation.6.2. Atopic dermatitisAtopic dermatitis is a chronic inflammatory skin disorder manifested as eczematous skin eruptions with intense pruritus with persistent flares and remissions. The exact mechanisms and etiology of atopic dermatitis are not unclear, but there are multifactorial genetic and environmental components. Chronic inflammatory skin conditions, such as atopic dermatitis and psoriasis, share common features of increased neurotrophin expression and peptidergic nerve fibers, supporting a role for neurogenic inflammation (Peters 2012; Chen and Lyga 2014). CGRP can shift LCs toward Th2 responses by enhancing LC antigen presentation for Th2 responses and inhibiting presentation for the Th1 response. There is some evidence suggesting involvement of CGRP in atopic dermatitis (reviewed in Granstein et al., 2015). SP might also have a role in atopic dermatitis; the NK1 antagonist aprepitant inhibited itch in atopic dermatitis mouse models and exhibited some efficacy in pruritus in humans (Stander et al., 2010). Hyperinnervation with increased SP- and CGRP-positive nerve fibers in the epidermis and papillary dermis, along with increased MC-nerve fiber contacts in lesional skin compared to non-lesional skin was found in AD (Ostlere et al., 1995; Jarvikallio et al., 2003). NGF levels were also increased in the plasma of patients with atopic dermatitis, which could be correlated with clinical severity and eosinophil counts (Yamaguchi et al., 2009). Phototherapy reduces the level of epidermal NGF was and decreases epidermal hyperinnervation in patients with AD (Tominaga et al., 2009). In this regard, NGF can induce CGRP in sensory nerve cells (Horiuchi et al., 2005; Park et al., 2010). Although plasma levels of CGRP were not increased in AD patients, they were significantly higher in AD patients with intense pruritus compared to those without (Salomon and Baran 2008). Another study showed that CGRP biased immunity towards a Th2 pattern by upregulating IL-13 and HLA-DR expression in circulating cutaneous lymphocyte-associated antigen-positive CLA+) T cells in AD patients, while it did not in healthy controls (Antunez et al., 2009). CGRP also increased the IL-13/IFNγ ratio after co-culture, also suggesting an immunomodulatory role in AD.6.3. RosaceaRosacea is a common cutaneous vascular disorder primarily affecting the face with redness, inflammation, frequently papules and pustules and occasionally edema. Triggering factors include stress, menopause, and alcohol consumption, as well as environmental factors such as extreme temperatures, excessive sun exposure, and food items such as spices and caffeine as well as temperature hot food or beverage (Crawford et al., 2004). Many patients experience flushing with burning or stinging. Although the pathophysiology of flushing remains unclear, neuropeptides are likely involved. By gene expression analysis, mRNA for several neuropeptides were upregulated in rosacea-CALCA (alpha CGRP), CALCB (beta CGRP), and TAC1 (SP) (Helfrich et al., 2015). Compared with control samples, the level of alpha CGRP was elevated almost 10-fold, beta CGRP was elevated 7-fold, and SP was elevated 28-fold in patients with the erythematotelangiectatic subtype of rosacea (ETR). CGRP likely contributes to flushing by vasodilation. Levels of alpha CGRP and SP were significantly increased in patients with ETR compared to patients with telangiectatic photoaging (TP). It is likely that neurogenic inflammatory processes are active in rosacea, as activation of TRP, as mentioned previously, results in release of vasoactive neuropeptides such as SP, CGRP, and VIP, which regulate local blood flow as well as induce MC degranulation resulting in elevated levels of pro-inflammatory cytokines (IL-1, Il-3, IL-8), chemokines (CCL2, CXCL9, CXCL10, CCL5, CXCL8) and TNF-α (Kulka et al., 2008; Gerber et al., 2011; Schwab et al., 2011; Helfrich et al., 2015).6.4. Contact dermatitisA study investigated the role of CGRP in established CHS, immediate immunologic reaction, and irritant contact dermatitis. CHS was elicited by a patch test with nickel sulfate 0.2%, 0.4%, and/or 0.8% in water in 19 nickel-allergic patients, and irritant contact dermatitis was induced by using benzalkonium chloride (1%) in water solution in 21 subjects. CGRP is present in free sensory nerve fibers in both the dermis and epidermis, surrounding blood vessels and hair follicles. CGRP influenced the sensation of itch and pain from the skin to the CNS via sensory c-fibers (Wallengren 1993). CGRP is expressed in approximately 45% of dorsal root ganglion neurons, mainly in small-diameter unmyelinated C-fibers (Sann and Pierau 1998; Ruscheweyh et al., 2007). As above, CGRP-positive nerve fibers are in close proximity to LCs in the epidermis and regulates their functions (Hosoi et al., 1993; Fox et al., 1997; Misery 1998). CGRP has been observed to regulate the antigen-presenting ability of the LC and to inhibit the induction phase of CHS in mice to a Th1-dominant hapten (Asahina et al., 1995a, Asahina et al., 1995b; Mikami et al., 2011).With mechanical stress, sensory c-fibers are stimulated to release both CGRP and SP, and the interaction between these two factors help determine the physiologic outcome (Brain and Williams 1988; Wallengren and Wang 1993). However, there is contradicting evidence as to whether CGRP plays a role in the symptoms of irritant contact dermatitis, a more immediate inflammatory process than CHS. Whereas the aforementioned study (Wallengren and Wang 1993) failed to show that either CGRP or CGRP8-37 has any significant effects on the pathophysiology of irritant contact dermatitis, other studies have reported that local administration of CGRP augmented irritant contact dermatitis from croton oil in mice (Gutwald et al., 1991), and that topical application of CGRP reduced irritant contact dermatitis from croton oil, arachidonic acid, and phorbol esters (Clementi et al., 1994). Perhaps CGRP plays a role in delayed inflammatory processes such as CHS, but has no effect on immediate immunologic reactions such as irritant contact dermatitis. However, interpretation is difficult as experiments differed in design and neuropeptide dose.6.5. Candida skin invasionNociceptors are important in mediating protective skin immunity against Candida albicans. Candida invasion of murine skin triggers nociceptor neurons to release CGRP in the dermis, which then induces IL-23 production by CD301b+ dermal DCs. IL-23, in turn, stimulates gamma-delta T cells to produce IL-17A and IL-22, resulting in host resistance to the infection (Kashem et al., 2015). Repeated injections of CGRP during infection in nociceptor-deficient mice restored the defense against Candida albicans (Kashem et al., 2015). This circuit is similar to that described for the imiquimod murine model of psoriasiform dermatitis (Riol-Blanco et al., 2014). Perhaps CGRP is the factor released by nerves that induce dermal DCs to produce IL-23 in that model.7. ConclusionThere is abundant evidence demonstrating roles for CGRP in the functional relationship between the nervous and immune systems. Many studies demonstrate that CGRP regulates various inflammatory processes in human skin, as summarized in Fig. 1. This review highlights the importance of CGRP immunoregulation and presents emerging clinical and preclinical evidence suggesting CGRP's putative role in various cutaneous disorders, as summarized in Fig. 2. As described in the review, nociceptors, as a specialized subset of sensory neurons that respond to various noxious stimuli, act as primary responders to damaged tissue or pathogens. A recent study shows that nociceptors can even mediate the immune response to bacterial pathogens and microbial products during infection, as they can release neuropeptides such as CGRP to modulate appropriate inflammatory responses. In a mouse model of necrotizing fasciitis, it was demonstrated that CGRP inhibits neutrophilic killing of Streptococcus pyogenes (Pinho-Ribeiro et al., 2018). Although beyond the scope of our current review, the area of neuropeptide actions on anti-microbial immunity is a new and important area of research. Future studies will provide further insights into the etiology and pathomechanisms of psoriasis, atomic dermatitis, rosacea, contact dermatitis, and other inflammatory processes in the skin. Pharmacodynamic models are needed to evaluate CGRP receptor antagonists and agonists in vivo for actions in inflammatory skin disorders. The potential for an effective, specific cutaneous anti-inflammatory drug lacking significant side-effects is great. Topical versions of CGRP antagonists or agonists, if effective, would hold particular promise for novel and possibly safer approaches to the treatment of inflammatory cutaneous disorders.Open in a separate windowFig. 1Effect of CGRP on the heart, the brain, the skin and vessels. CGRP impacts monocytes, macrophages, LCs, dendritic cells, endothelial cells, vascular smooth muscle and neutrophils, along with epidermal cells such as keratinocytes, melanocytes, and fibroblasts, likely contributing to a number of disease states, as described in the text. EMT, epithelial-mesenchymal transition; FMT, fibroblast to myofibroblast transdifferentiation; APC, antigen presenting cell; LC, Langerhans Cell; DC, dendritic cell. Created with BioRender.com. (single column fitting image).Open in a separate windowFig. 2Probable Roles of CGRP in inflammatory skin disorders. TRPA1, transient receptor potential ankyrin 1; TRPV1, transient receptor potential vanilloid 1; CGRP, calcitonin gene-related peptide; MC, mast cell; ETR, erythematotelangiectatic subtype of rosacea; CNS, central nervous system; CHS, contact hypersensitivity; DC, dendritic cells; BoNT-A, botulinum neurotoxin A. Created with BioRender.com. (single column fitting image).Declaration of competing interestRDG is on the scientific advisory boards of Elysium Health and Hoth Therapeutics. He is also on the Industry Advisory Board of Gore Range Capital and has research agreements with Leo Pharma, the Leo Foundation, Galderma, Pfizer and Elysium Health.AcknowledgementsWe thank Wanhong Ding, Lori Stohl, Zakir Bulmer, Cameron Moattari and John A. Wagner for their ongoing support. All figures were created with BioRender.com.ReferencesAbdel-Malek Z.A. Endocrine factors as effectors of integumental pigmentation. Dermatol. Clin. 1988;6(2):175–183. [PubMed] [Google Scholar]Achanta S., Chintagari N.R., Brackmann M., Balakrishna S., Jordt S.E. TRPA1 and CGRP antagonists counteract vesicant-induced skin injury and inflammation. Toxicol. Lett. 2018;293:140–148. [PMC free article] [PubMed] [Google Scholar]Akaishi S., Ogawa R., Hyakusoku H. Keloid and hypertrophic scar: neurogenic inflammation hypotheses. Med. Hypotheses. 2008;71(1):32–38. [PubMed] [Google Scholar]Albertin G., Carraro G., Parnigotto P.P., Conconi M.T., Ziolkowska A., Malendowicz L.K., Nussdorfer G.G. Human skin keratinocytes and fibroblasts express adrenomedullin and its receptors, and adrenomedullin enhances their growth in vitro by stimulating proliferation and inhibiting apoptosis. Int. J. Mol. Med. 2003;11(5):635–639. [PubMed] [Google Scholar]Alevizaki M., Shiraishi A., Rassool F.V., Ferrier G.J., MacIntyre I., Legon S. The calcitonin-like sequence of the beta CGRP gene. FEBS Lett. 1986;206(1):47–52. [PubMed] [Google Scholar]Alexander S.P.H., Christopoulos A., Davenport A.P., Kelly E., Mathie A., Peters J.A., Veale E.L., Armstrong J.F., Faccenda E., Harding S.D., Pawson A.J., Sharman J.L., Southan C., Davies J.A., Collaborators C. The concise guide to pharmacology 2019/20: G protein-coupled receptors. Br. J. Pharmacol. 2019;176(Suppl. 1):S21–S141. [PMC free article] [PubMed] [Google Scholar]Amalia S.N., Uchiyama A., Baral H., Inoue Y., Yamazaki S., Fujiwara C., Sekiguchi A., Yokoyama Y., Ogino S., Torii R., Hosoi M., Ishikawa O., Motegi S.I. Suppression of neuropeptide by botulinum toxin improves imiquimod-induced psoriasis-like dermatitis via the regulation of neuroimmune system. J. Dermatol. Sci. 2021;101(1):58–68. [PubMed] [Google Scholar]Amara S.G., Arriza J.L., Leff S.E., Swanson L.W., Evans R.M., Rosenfeld M.G. Expression in brain of a messenger RNA encoding a novel neuropeptide homologous to calcitonin gene-related peptide. Science. 1985;229(4718):1094–1097. [PubMed] [Google Scholar]Amara S.G., Jonas V., Rosenfeld M.G., Ong E.S., Evans R.M. Alternative RNA processing in calcitonin gene expression generates mRNAs encoding different polypeptide products. Nature. 1982;298(5871):240–244. [PubMed] [Google Scholar]Antunez C., Torres M.J., Lopez S., Rodriguez-Pena R., Blanca M., Mayorga C., Santamaria-Babi L.F. Calcitonin gene-related peptide modulates interleukin-13 in circulating cutaneous lymphocyte-associated antigen-positive T cells in patients with atopic dermatitis. Br. J. Dermatol. 2009;161(3):547–553. [PubMed] [Google Scholar]Argunhan F., Thapa D., Aubdool A.A., Carlini E., Arkless K., Hendrikse E.R., de Sousa Valente J., Kodji X., Barrett B., Ricciardi C.A., Gnudi L., Debbie Lucy H., Brain S.D. Calcitonin gene-related peptide protects against cardiovascular dysfunction independently of nitric oxide in vivo. Hypertension. 2021;77(4):1178–1190. [PubMed] [Google Scholar]Arulmani U., Schuijt M.P., Heiligers J.P., Willems E.W., Villalon C.M., Saxena P.R. Effects of the calcitonin gene-related peptide (CGRP) receptor antagonist BIBN4096BS on alpha-CGRP-induced regional haemodynamic changes in anaesthetised rats. Basic Clin. Pharmacol. Toxicol. 2004;94(6):291–297. [PubMed] [Google Scholar]Asahina A., Hosoi J., Beissert S., Stratigos A., Granstein R.D. Inhibition of the induction of delayed-type and contact hypersensitivity by calcitonin gene-related peptide. J. Immunol. 1995;154(7):3056–3061. [PubMed] [Google Scholar]Asahina A., Moro O., Hosoi J., Lerner E.A., Xu S., Takashima A., Granstein R.D. Specific induction of cAMP in Langerhans cells by calcitonin gene-related peptide: relevance to functional effects. Proc. Natl. Acad. Sci. U. S. A. 1995;92(18):8323–8327. [PMC free article] [PubMed] [Google Scholar]Aschenbeck K.A., Hordinsky M.K., Kennedy W.R., Wendelschafer-Crabb G., Ericson M.E., Kavand S., Bertin A., Dykstra D.D., Panoutsopoulou I.G. Neuromodulatory treatment of recalcitrant plaque psoriasis with onabotulinumtoxinA. J. Am. Acad. Dermatol. 2018;79(6):1156–1159. [PubMed] [Google Scholar]Ashina M., Bendtsen L., Jensen R., Schifter S., Olesen J. Evidence for increased plasma levels of calcitonin gene-related peptide in migraine outside of attacks. Pain. 2000;86(1–2):133–138. [PubMed] [Google Scholar]Assas B.M., Pennock J.I., Miyan J.A. Calcitonin gene-related peptide is a key neurotransmitter in the neuro-immune axis. Front. Neurosci. 2014;8:23. [PMC free article] [PubMed] [Google Scholar]Bandell M., Story G.M., Hwang S.W., Viswanath V., Eid S.R., Petrus M.J., Earley T.J., Patapoutian A. Noxious cold ion channel TRPA1 is activated by pungent compounds and bradykinin. Neuron. 2004;41(6):849–857. [PubMed] [Google Scholar]Bell D., McDermott B.J. Calcitonin gene-related peptide in the cardiovascular system: characterization of receptor populations and their (patho)physiological significance. Pharmacol. Rev. 1996;48(2):253–288. [PubMed] [Google Scholar]Benrath J., Eschenfelder C., Zimmerman M., Gillardon F. Calcitonin gene-related peptide, substance P and nitric oxide are involved in cutaneous inflammation following ultraviolet irradiation. Eur. J. Pharmacol. 1995;293(1):87–96. [PubMed] [Google Scholar]Bernstein J.E., Parish L.C., Rapaport M., Rosenbaum M.M., Roenigk H.H., Jr. Effects of topically applied capsaicin on moderate and severe psoriasis vulgaris. J. Am. Acad. Dermatol. 1986;15(3):504–507. [PubMed] [Google Scholar]Bhakta M., Vuong T., Taura T., Wilson D.S., Stratton J.R., Mackenzie K.D. Migraine therapeutics differentially modulate the CGRP pathway. Cephalalgia. 2021;41(5):499–514. [PMC free article] [PubMed] [Google Scholar]Bigal M.E., Walter S., Rapoport A.M. Calcitonin gene-related peptide (CGRP) and migraine current understanding and state of development. Headache. 2013;53(8):1230–1244. [PubMed] [Google Scholar]Boesiger J., Tsai M., Maurer M., Yamaguchi M., Brown L.F., Claffey K.P., Dvorak H.F., Galli S.J. Mast cells can secrete vascular permeability factor/vascular endothelial cell growth factor and exhibit enhanced release after immunoglobulin E-dependent upregulation of fc epsilon receptor I expression. J. Exp. Med. 1998;188(6):1135–1145. [PMC free article] [PubMed] [Google Scholar]Bracci-Laudiero L., Aloe L., Buanne P., Finn A., Stenfors C., Vigneti E., Theodorsson E., Lundeberg T. NGF modulates CGRP synthesis in human B-lymphocytes: a possible anti-inflammatory action of NGF? J. Neuroimmunol. 2002;123(1–2):58–65. [PubMed] [Google Scholar]Brain S.D., Grant A.D. Vascular actions of calcitonin gene-related peptide and adrenomedullin. Physiol. Rev. 2004;84(3):903–934. [PubMed] [Google Scholar]Brain S.D., MacIntyre I., Williams T.J. A second form of human calcitonin gene-related peptide which is a potent vasodilator. Eur. J. Pharmacol. 1986;124(3):349–352. [PubMed] [Google Scholar]Brain S.D., Williams T.J. Substance P regulates the vasodilator activity of calcitonin gene-related peptide. Nature. 1988;335(6185):73–75. [PubMed] [Google Scholar]Brain S.D., Williams T.J. Interactions between the tachykinins and calcitonin gene-related peptide lead to the modulation of oedema formation and blood flow in rat skin. Br. J. Pharmacol. 1989;97(1):77–82. [PMC free article] [PubMed] [Google Scholar]Buzzi M.G., Carter W.B., Shimizu T., Heath H., 3rd, Moskowitz M.A. Dihydroergotamine and sumatriptan attenuate levels of CGRP in plasma in rat superior sagittal sinus during electrical stimulation of the trigeminal ganglion. Neuropharmacology. 1991;30(11):1193–1200. [PubMed] [Google Scholar]Cai H., Xu X., Liu Z., Wang Q., Feng G., Li Y., Xu C., Liu G., Li Z. The effects of calcitonin gene-related peptide on bFGF and AQP4 expression after focal cerebral ischemia reperfusion in rats. Pharmazie. 2010;65(4):274–278. [PubMed] [Google Scholar]Cao T., Pinter E., Al-Rashed S., Gerard N., Hoult J.R., Brain S.D. Neurokinin-1 receptor agonists are involved in mediating neutrophil accumulation in the inflamed, but not normal, cutaneous microvasculature: an in vivo study using neurokinin-1 receptor knockout mice. J. Immunol. 2000;164(10):5424–5429. [PubMed] [Google Scholar]Carucci J.A., Ignatius R., Wei Y., Cypess A.M., Schaer D.A., Pope M., Steinman R.M., Mojsov S. Calcitonin gene-related peptide decreases expression of HLA-DR and CD86 by human dendritic cells and dampens dendritic cell-driven T cell-proliferative responses via the type I calcitonin gene-related peptide receptor. J. Immunol. 2000;164(7):3494–3499. [PubMed] [Google Scholar]Castellani M.L., Galzio R.J., Felaco P., Tripodi D., Toniato E., De Lutiis M.A., Conti F., Fulcheri M., Conti C., Theoharides T.C., Caraffa A., Antinolfi P., Felaco M., Tete S., Pandolfi F., Shaik-Dasthagirisaheb Y.B. VEGF, substance P and stress, new aspects: a revisited study. J. Biol. Regul. Homeost. Agents. 2010;24(3):229–237. [PubMed] [Google Scholar]Cernuda-Morollon E., Larrosa D., Ramon C., Vega J., Martinez-Camblor P., Pascual J. Interictal increase of CGRP levels in peripheral blood as a biomarker for chronic migraine. Neurology. 2013;81(14):1191–1196. [PubMed] [Google Scholar]Cesare A.D., Meglio P.D., Nestle F.O. A role for Th17 cells in the immunopathogenesis of atopic dermatitis? J. Invest. Dermatol. 2008;128(11):2569–2571. [PubMed] [Google Scholar]Chai W., Mehrotra S., Jan Danser A.H., Schoemaker R.G. The role of calcitonin gene-related peptide (CGRP) in ischemic preconditioning in isolated rat hearts. Eur. J. Pharmacol. 2006;531(1–3):246–253. [PubMed] [Google Scholar]Chen Y., Lyga J. Brain-skin connection: stress, inflammation and skin aging. Inflamm. Allergy - Drug Targets. 2014;13(3):177–190. [PMC free article] [PubMed] [Google Scholar]Chien Y.H., Meyer C., Bonneville M. Gammadelta T cells: first line of defense and beyond. Annu. Rev. Immunol. 2014;32:121–155. [PubMed] [Google Scholar]Chiu I.M., von Hehn C.A., Woolf C.J. Neurogenic inflammation and the peripheral nervous system in host defense and immunopathology. Nat. Neurosci. 2012;15(8):1063–1067. [PMC free article] [PubMed] [Google Scholar]Chu D.Q., Legon S., Smith D.M., Costa S.K., Cuttitta F., Brain S.D. The calcitonin gene-related peptide (CGRP) antagonist CGRP(8-37) blocks vasodilatation in inflamed rat skin: involvement of adrenomedullin in addition to CGRP. Neurosci. Lett. 2001;310(2–3):169–172. [PubMed] [Google Scholar]Clementi G., Amico-Roxas M., Caruso A., Catena Cutuli V.M., Prato A., Maugeri S., de Bernardis E., Scapagnini U. Effects of CGRP in different models of mouse ear inflammation. Life Sci. 1994;54(8):PL119–124. [PubMed] [Google Scholar]Crawford G.H., Pelle M.T., James W.D. Rosacea: I. Etiology, pathogenesis, and subtype classification. J. Am. Acad. Dermatol. 2004;51(3):327–341. quiz 342-324. [PubMed] [Google Scholar]Curto M., Capi M., Cipolla F., Cisale G.Y., Martelletti P., Lionetto L. Ubrogepant for the treatment of migraine. Expet Opin. Pharmacother. 2020;21(7):755–759. [PubMed] [Google Scholar]Dakhama A., Kanehiro A., Makela M.J., Loader J.E., Larsen G.L., Gelfand E.W. Regulation of airway hyperresponsiveness by calcitonin gene-related peptide in allergen sensitized and challenged mice. Am. J. Respir. Crit. Care Med. 2002;165(8):1137–1144. [PubMed] [Google Scholar]Depre C., Antalik L., Starling A., Koren M., Eisele O., Lenz R.A., Mikol D.D. A randomized, double-blind, placebo-controlled study to evaluate the effect of erenumab on exercise time during a treadmill test in patients with stable Angina. Headache. 2018;58(5):715–723. [PMC free article] [PubMed] [Google Scholar]Dewing S.B. Remission of psoriasis associated with cutaneous nerve section. Arch. Dermatol. 1971;104(2):220–221. [PubMed] [Google Scholar]Dhingra N., Guttman-Yassky E. A possible role for IL-17A in establishing Th2 inflammation in murine models of atopic dermatitis. J. Invest. Dermatol. 2014;134(8):2071–2074. [PMC free article] [PubMed] [Google Scholar]Ding W., Stohl L.L., Wagner J.A., Granstein R.D. Calcitonin gene-related peptide biases Langerhans cells toward Th2-type immunity. J. Immunol. 2008;181(9):6020–6026. [PMC free article] [PubMed] [Google Scholar]Ding W., Stohl L.L., Xu L., Zhou X.K., Manni M., Wagner J.A., Granstein R.D. Calcitonin gene-related peptide-exposed endothelial cells bias antigen presentation to CD4+ T cells toward a Th17 response. J. Immunol. 2016;196(5):2181–2194. [PMC free article] [PubMed] [Google Scholar]Ding W., Wagner J.A., Granstein R.D. CGRP, PACAP, and VIP modulate Langerhans cell function by inhibiting NF-kappaB activation. J. Invest. Dermatol. 2007;127(10):2357–2367. [PubMed] [Google Scholar]Do T.P., Guo S., Ashina M. Therapeutic novelties in migraine: new drugs, new hope? J. Headache Pain. 2019;20(1):37. [PMC free article] [PubMed] [Google Scholar]Doods H., Hallermayer G., Wu D., Entzeroth M., Rudolf K., Engel W., Eberlein W. Pharmacological profile of BIBN4096BS, the first selective small molecule CGRP antagonist. Br. J. Pharmacol. 2000;129(3):420–423. [PMC free article] [PubMed] [Google Scholar]Durham P.L. Diverse physiological roles of calcitonin gene-related peptide in migraine pathology: modulation of neuronal-glial-immune cells to promote peripheral and central sensitization. Curr. Pain Headache Rep. 2016;20(8):48. [PMC free article] [PubMed] [Google Scholar]Eberhardt M., Stueber T., de la Roche J., Herzog C., Leffler A., Reeh P.W., Kistner K. TRPA1 and TRPV1 are required for lidocaine-evoked calcium influx and neuropeptide release but not cytotoxicity in mouse sensory neurons. PLoS One. 2017;12(11) [PMC free article] [PubMed] [Google Scholar]Edvinsson L., Ekman R., Thulin T. Reduced levels of calcitonin gene-related peptide (CGRP) but not substance P during and after treatment of severe hypertension in man. J. Hum. Hypertens. 1989;3(4):267–270. [PubMed] [Google Scholar]Edvinsson L., Goadsby P.J. Neuropeptides in the cerebral circulation: relevance to headache. Cephalalgia. 1995;15(4):272–276. [PubMed] [Google Scholar]Edvinsson L., Haanes K.A., Warfvinge K., Krause D.N. CGRP as the target of new migraine therapies - successful translation from bench to clinic. Nat. Rev. Neurol. 2018;14(6):338–350. [PubMed] [Google Scholar]Edvinsson L., Nilsson E., Jansen-Olesen I. Inhibitory effect of BIBN4096BS, CGRP(8-37), a CGRP antibody and an RNA-Spiegelmer on CGRP induced vasodilatation in the perfused and non-perfused rat middle cerebral artery. Br. J. Pharmacol. 2007;150(5):633–640. [PMC free article] [PubMed] [Google Scholar]Edvinsson L., Tfelt-Hansen P. The blood-brain barrier in migraine treatment. Cephalalgia. 2008;28(12):1245–1258. [PubMed] [Google Scholar]Edvinsson L., Villalon C.M., MaassenVanDenBrink A. Basic mechanisms of migraine and its acute treatment. Pharmacol. Ther. 2012;136(3):319–333. [PubMed] [Google Scholar]Eftekhari S., Warfvinge K., Edvinsson L. Differentiation of nerve fibers storing CGRP and CGRP receptors in the peripheral trigeminovascular system. J. Pain. 2013;14(11):1289–1303. [PubMed] [Google Scholar]Fernandes E.S., Russell F.A., Spina D., McDougall J.J., Graepel R., Gentry C., Staniland A.A., Mountford D.M., Keeble J.E., Malcangio M., Bevan S., Brain S.D. A distinct role for transient receptor potential ankyrin 1, in addition to transient receptor potential vanilloid 1, in tumor necrosis factor alpha-induced inflammatory hyperalgesia and Freund's complete adjuvant-induced monarthritis. Arthritis Rheum. 2011;63(3):819–829. [PubMed] [Google Scholar]Fernandez S., Knopf M.A., McGillis J.P. Calcitonin-gene related peptide (CGRP) inhibits interleukin-7-induced pre-B cell colony formation. J. Leukoc. Biol. 2000;67(5):669–676. [PubMed] [Google Scholar]Ferreira L.M., Gragnani A., Furtado F., Hochman B. Control of the skin scarring response. An. Acad. Bras. Cienc. 2009;81(3):623–629. [PubMed] [Google Scholar]Fox F.E., Kubin M., Cassin M., Niu Z., Hosoi J., Torii H., Granstein R.D., Trinchieri G., Rook A.H. Calcitonin gene-related peptide inhibits proliferation and antigen presentation by human peripheral blood mononuclear cells: effects on B7, interleukin 10, and interleukin 12. J. Invest. Dermatol. 1997;108(1):43–48. [PubMed] [Google Scholar]Fujimori A., Saito A., Kimura S., Watanabe T., Uchiyama Y., Kawasaki H., Goto K. Neurogenic vasodilation and release of calcitonin gene-related peptide (CGRP) from perivascular nerves in the rat mesenteric artery. Biochem. Biophys. Res. Commun. 1989;165(3):1391–1398. [PubMed] [Google Scholar]Fujita H. The role of IL-22 and Th22 cells in human skin diseases. J. Dermatol. Sci. 2013;72(1):3–8. [PubMed] [Google Scholar]Fujita H., Nograles K.E., Kikuchi T., Gonzalez J., Carucci J.A., Krueger J.G. Human Langerhans cells induce distinct IL-22-producing CD4+ T cells lacking IL-17 production. Proc. Natl. Acad. Sci. U. S. A. 2009;106(51):21795–21800. [PMC free article] [PubMed] [Google Scholar]Gaete P.S., Lillo M.A., Puebla M., Poblete I., Figueroa X.F. CGRP signalling inhibits NO production through pannexin-1 channel activation in endothelial cells. Sci. Rep. 2019;9(1):7932. [PMC free article] [PubMed] [Google Scholar]Gangula P.R., Lanlua P., Wimalawansa S., Supowit S., DiPette D., Yallampalli C. Regulation of calcitonin gene-related peptide expression in dorsal root ganglia of rats by female sex steroid hormones. Biol. Reprod. 2000;62(4):1033–1039. [PubMed] [Google Scholar]Gao Y., Song J., Chen H., Cao C., Lee C. TRPV1 activation is involved in the cardioprotection of remote limb ischemic postconditioning in ischemia-reperfusion injury rats. Biochem. Biophys. Res. Commun. 2015;463(4):1034–1039. [PubMed] [Google Scholar]Garssen J., Buckley T.L., Van Loveren H. A role for neuropeptides in UVB-induced systemic immunosuppression. Photochem. Photobiol. 1998;68(2):205–210. [PubMed] [Google Scholar]Gennari C., Fischer J.A. Cardiovascular action of calcitonin gene-related peptide in humans. Calcif. Tissue Int. 1985;37(6):581–584. [PubMed] [Google Scholar]Geppetti P., Rossi E., Chiarugi A., Benemei S. Antidromic vasodilatation and the migraine mechanism. J. Headache Pain. 2012;13(2):103–111. [PMC free article] [PubMed] [Google Scholar]Gerber P.A., Buhren B.A., Steinhoff M., Homey B. Rosacea: the cytokine and chemokine network. J. Invest. Dermatol. Symp. Proc. 2011;15(1):40–47. [PMC free article] [PubMed] [Google Scholar]Giani L., Proietti Cecchini A., Leone M. Anti-CGRP in cluster headache therapy. Neurol. Sci. 2019;40(Suppl. 1):129–135. [PubMed] [Google Scholar]Gillardon F., Moll I., Michel S., Benrath J., Weihe E., Zimmermann M. Calcitonin gene-related peptide and nitric oxide are involved in ultraviolet radiation-induced immunosuppression. Eur. J. Pharmacol. 1995;293(4):395–400. [PubMed] [Google Scholar]Goadsby P.J., Edvinsson L. The trigeminovascular system and migraine: studies characterizing cerebrovascular and neuropeptide changes seen in humans and cats. Ann. Neurol. 1993;33(1):48–56. [PubMed] [Google Scholar]Goadsby P.J., Holland P.R., Martins-Oliveira M., Hoffmann J., Schankin C., Akerman S. Pathophysiology of migraine: a disorder of sensory processing. Physiol. Rev. 2017;97(2):553–622. [PMC free article] [PubMed] [Google Scholar]Granstein R.D., Wagner J.A., Stohl L.L., Ding W. Calcitonin gene-related peptide: key regulator of cutaneous immunity. Acta Physiol. 2015;213(3):586–594. [PMC free article] [PubMed] [Google Scholar]Grutzkau A., Kruger-Krasagakes S., Baumeister H., Schwarz C., Kogel H., Welker P., Lippert U., Henz B.M., Moller A. Synthesis, storage, and release of vascular endothelial growth factor/vascular permeability factor (VEGF/VPF) by human mast cells: implications for the biological significance of VEGF206. Mol. Biol. Cell. 1998;9(4):875–884. [PMC free article] [PubMed] [Google Scholar]Gutwald J., Goebeler M., Sorg C. Neuropeptides enhance irritant and allergic contact dermatitis. J. Invest. Dermatol. 1991;96(5):695–698. [PubMed] [Google Scholar]Halaban R., Langdon R., Birchall N., Cuono C., Baird A., Scott G., Moellmann G., McGuire J. Basic fibroblast growth factor from human keratinocytes is a natural mitogen for melanocytes. J. Cell Biol. 1988;107(4):1611–1619. [PMC free article] [PubMed] [Google Scholar]Han S.P., Naes L., Westfall T.C. Inhibition of periarterial nerve stimulation-induced vasodilation of the mesenteric arterial bed by CGRP (8-37) and CGRP receptor desensitization. Biochem. Biophys. Res. Commun. 1990;168(2):786–791. [PubMed] [Google Scholar]Hara M., Toyoda M., Yaar M., Bhawan J., Avila E.M., Penner I.R., Gilchrest B.A. Innervation of melanocytes in human skin. J. Exp. Med. 1996;184(4):1385–1395. [PMC free article] [PubMed] [Google Scholar]Hara M., Yaar M., Gilchrest B.A. Endothelin-1 of keratinocyte origin is a mediator of melanocyte dendricity. J. Invest. Dermatol. 1995;105(6):744–748. [PubMed] [Google Scholar]Hay D.L., Conner A.C., Howitt S.G., Smith D.M., Poyner D.R. The pharmacology of adrenomedullin receptors and their relationship to CGRP receptors. J. Mol. Neurosci. 2004;22(1–2):105–113. [PubMed] [Google Scholar]Hay D.L., Howitt S.G., Conner A.C., Schindler M., Smith D.M., Poyner D.R. CL/RAMP2 and CL/RAMP3 produce pharmacologically distinct adrenomedullin receptors: a comparison of effects of adrenomedullin22-52, CGRP8-37 and BIBN4096BS. Br. J. Pharmacol. 2003;140(3):477–486. [PMC free article] [PubMed] [Google Scholar]Helfrich Y.R., Maier L.E., Cui Y., Fisher G.J., Chubb H., Fligiel S., Sachs D., Varani J., Voorhees J. Clinical, histologic, and molecular analysis of differences between erythematotelangiectatic rosacea and telangiectatic photoaging. JAMA Dermatol. 2015;151(8):825–836. [PubMed] [Google Scholar]Hemmi H., Kaisho T., Takeuchi O., Sato S., Sanjo H., Hoshino K., Horiuchi T., Tomizawa H., Takeda K., Akira S. Small anti-viral compounds activate immune cells via the TLR7 MyD88-dependent signaling pathway. Nat. Immunol. 2002;3(2):196–200. [PubMed] [Google Scholar]Hershey J.C., Corcoran H.A., Baskin E.P., Salvatore C.A., Mosser S., Williams T.M., Koblan K.S., Hargreaves R.J., Kane S.A. Investigation of the species selectivity of a nonpeptide CGRP receptor antagonist using a novel pharmacodynamic assay. Regul. Pept. 2005;127(1–3):71–77. [PubMed] [Google Scholar]Higashikuni Y., Tanaka K., Kato M., Nureki O., Hirata Y., Nagai R., Komuro I., Sata M. Toll-like receptor-2 mediates adaptive cardiac hypertrophy in response to pressure overload through interleukin-1beta upregulation via nuclear factor kappaB activation. J Am Heart Assoc. 2013;2(6) [PMC free article] [PubMed] [Google Scholar]Hirobe T. Role of keratinocyte-derived factors involved in regulating the proliferation and differentiation of mammalian epidermal melanocytes. Pigm. Cell Res. 2005;18(1):2–12. [PubMed] [Google Scholar]Hochman B., Nahas F.X., Sobral C.S., Arias V., Locali R.F., Juliano Y., Ferreira L.M. Nerve fibres: a possible role in keloid pathogenesis. Br. J. Dermatol. 2008;158(3):651–652. [PubMed] [Google Scholar]Holland P.R., Goadsby P.J. Targeted CGRP small molecule antagonists for acute migraine therapy. Neurotherapeutics. 2018;15(2):304–312. [PMC free article] [PubMed] [Google Scholar]Holzmann B. Antiinflammatory activities of CGRP modulating innate immune responses in health and disease. Curr. Protein Pept. Sci. 2013;14(4):268–274. [PubMed] [Google Scholar]Horiuchi Y., Bae S., Katayama I. Nerve growth factor (NGF) and epidermal nerve fibers in atopic dermatitis model NC/Nga mice. J. Dermatol. Sci. 2005;39(1):56–58. [PubMed] [Google Scholar]Hosoi J., Murphy G.F., Egan C.L., Lerner E.A., Grabbe S., Asahina A., Granstein R.D. Regulation of Langerhans cell function by nerves containing calcitonin gene-related peptide. Nature. 1993;363(6425):159–163. [PubMed] [Google Scholar]Huang J., Stohl L.L., Zhou X., Ding W., Granstein R.D. Calcitonin gene-related peptide inhibits chemokine production by human dermal microvascular endothelial cells. Brain Behav. Immun. 2011;25(4):787–799. [PMC free article] [PubMed] [Google Scholar]Humphrey P.P., Feniuk W. Mode of action of the anti-migraine drug sumatriptan. Trends Pharmacol. Sci. 1991;12(12):444–446. [PubMed] [Google Scholar]Iyengar S., Johnson K.W., Ossipov M.H., Aurora S.K. CGRP and the trigeminal system in migraine. Headache. 2019;59(5):659–681. [PMC free article] [PubMed] [Google Scholar]Jansen I., Edvinsson L., Mortensen A., Olesen J. Sumatriptan is a potent vasoconstrictor of human dural arteries via a 5-HT1-like receptor. Cephalalgia. 1992;12(4):202–205. [PubMed] [Google Scholar]Jarvikallio A., Harvima I.T., Naukkarinen A. Mast cells, nerves and neuropeptides in atopic dermatitis and nummular eczema. Arch. Dermatol. Res. 2003;295(1):2–7. [PubMed] [Google Scholar]Jiang W.Y., Raychaudhuri S.P., Farber E.M. Double-labeled immunofluorescence study of cutaneous nerves in psoriasis. Int. J. Dermatol. 1998;37(8):572–574. [PubMed] [Google Scholar]Joyce C.D., Fiscus R.R., Wang X., Dries D.J., Morris R.C., Prinz R.A. Calcitonin gene-related peptide levels are elevated in patients with sepsis. Surgery. 1990;108(6):1097–1101. [PubMed] [Google Scholar]Kahler C.M., Herold M., Wiedermann C.J. Substance P: a competence factor for human fibroblast proliferation that induces the release of growth-regulatory arachidonic acid metabolites. J. Cell. Physiol. 1993;156(3):579–587. [PubMed] [Google Scholar]Kahler C.M., Sitte B.A., Reinisch N., Wiedermann C.J. Stimulation of the chemotactic migration of human fibroblasts by substance P. Eur. J. Pharmacol. 1993;249(3):281–286. [PubMed] [Google Scholar]Kaplan D.H. In vivo function of Langerhans cells and dermal dendritic cells. Trends Immunol. 2010;31(12):446–451. [PMC free article] [PubMed] [Google Scholar]Kapoor K., Arulmani U., Heiligers J.P., Garrelds I.M., Willems E.W., Doods H., Villalon C.M., Saxena P.R. Effects of the CGRP receptor antagonist BIBN4096BS on capsaicin-induced carotid haemodynamic changes in anaesthetised pigs. Br. J. Pharmacol. 2003;140(2):329–338. [PMC free article] [PubMed] [Google Scholar]Kashem S.W., Riedl M.S., Yao C., Honda C.N., Vulchanova L., Kaplan D.H. Nociceptive sensory fibers drive interleukin-23 production from CD301b+ dermal dendritic cells and drive protective cutaneous immunity. Immunity. 2015;43(3):515–526. [PMC free article] [PubMed] [Google Scholar]Kawasaki H., Takasaki K., Saito A., Goto K. Calcitonin gene-related peptide acts as a novel vasodilator neurotransmitter in mesenteric resistance vessels of the rat. Nature. 1988;335(6186):164–167. [PubMed] [Google Scholar]Kee Z., Kodji X., Brain S.D. The role of calcitonin gene related peptide (CGRP) in neurogenic vasodilation and its cardioprotective effects. Front. Physiol. 2018;9:1249. [PMC free article] [PubMed] [Google Scholar]Kemeny A., Kodji X., Horvath S., Komlodi R., Szoke E., Sandor Z., Perkecz A., Gyomorei C., Setalo G., Kelemen B., Biro T., Toth B.I., Brain S.D., Pinter E., Gyulai R. TRPA1 acts in a protective manner in imiquimod-induced psoriasiform dermatitis in mice. J. Invest. Dermatol. 2018;138(8):1774–1784. [PubMed] [Google Scholar]Khalil Z., Townley S.L., Grimbaldeston M.A., Finlay-Jones J.J., Hart P.H. cis-Urocanic acid stimulates neuropeptide release from peripheral sensory nerves. J. Invest. Dermatol. 2001;117(4):886–891. [PubMed] [Google Scholar]Khan S., Olesen A., Ashina M. CGRP, a target for preventive therapy in migraine and cluster headache: systematic review of clinical data. Cephalalgia. 2019;39(3):374–389. [PubMed] [Google Scholar]Kilo S., Harding-Rose C., Hargreaves K.M., Flores C.M. Peripheral CGRP release as a marker for neurogenic inflammation: a model system for the study of neuropeptide secretion in rat paw skin. Pain. 1997;73(2):201–207. [PubMed] [Google Scholar]Kiss M., Kemeny L., Gyulai R., Michel G., Husz S., Kovacs R., Dobozy A., Ruzicka T. Effects of the neuropeptides substance P, calcitonin gene-related peptide and alpha-melanocyte-stimulating hormone on the IL-8/IL-8 receptor system in a cultured human keratinocyte cell line and dermal fibroblasts. Inflammation. 1999;23(6):557–567. [PubMed] [Google Scholar]Kitashima D.Y., Kobayashi T., Woodring T., Idouchi K., Doebel T., Voisin B., Adachi T., Ouchi T., Takahashi H., Nishifuji K., Kaplan D.H., Clausen B.E., Amagai M., Nagao K. Langerhans cells prevent autoimmunity via expansion of keratinocyte antigen-specific regulatory T cells. EBioMedicine. 2018;27:293–303. [PMC free article] [PubMed] [Google Scholar]Kitazawa T., Streilein J.W. Hapten-specific tolerance promoted by calcitonin gene-related peptide. J. Invest. Dermatol. 2000;115(6):942–948. [PubMed] [Google Scholar]Kodji X., Arkless K.L., Kee Z., Cleary S.J., Aubdool A.A., Evans E., Caton P., Pitchford S.C., Brain S.D. Sensory nerves mediate spontaneous behaviors in addition to inflammation in a murine model of psoriasis. Faseb. J. 2019;33(2):1578–1594. [PMC free article] [PubMed] [Google Scholar]Kulka M., Sheen C.H., Tancowny B.P., Grammer L.C., Schleimer R.P. Neuropeptides activate human mast cell degranulation and chemokine production. Immunology. 2008;123(3):398–410. [PMC free article] [PubMed] [Google Scholar]Kurimoto I., Streilein J.W. cis-urocanic acid suppression of contact hypersensitivity induction is mediated via tumor necrosis factor-alpha. J. Immunol. 1992;148(10):3072–3078. [PubMed] [Google Scholar]Lassen L.H., Haderslev P.A., Jacobsen V.B., Iversen H.K., Sperling B., Olesen J. CGRP may play a causative role in migraine. Cephalalgia. 2002;22(1):54–61. [PubMed] [Google Scholar]Lawson S.N., Crepps B., Perl E.R. Calcitonin gene-related peptide immunoreactivity and afferent receptive properties of dorsal root ganglion neurones in Guinea-pigs. J. Physiol. 2002;540(Pt 3):989–1002. [PMC free article] [PubMed] [Google Scholar]Lei L., Yuan X., Wang S., Zhang F., Han Y., Ning Q., Luo G., Lu S. Mitogen-activated protein kinase pathways are involved in the upregulation of calcitonin gene-related peptide of rat trigeminal ganglion after organ culture. J. Mol. Neurosci. 2012;48(1):53–65. [PubMed] [Google Scholar]Li J., Zhao H., Supowit S.C., DiPette D.J., Wang D.H. Activation of the renin-angiotensin system in alpha-calcitonin gene-related peptide/calcitonin gene knockout mice. J. Hypertens. 2004;22(7):1345–1349. [PubMed] [Google Scholar]Li W., Zhang Z., Li X., Cai J., Li D., Du J., Zhang B., Xiang D., Li N., Li Y. CGRP derived from cardiac fibroblasts is an endogenous suppressor of cardiac fibrosis. Cardiovasc. Res. 2020;116(7):1335–1348. [PubMed] [Google Scholar]Li Y.J., Peng J. The cardioprotection of calcitonin gene-related peptide-mediated preconditioning. Eur. J. Pharmacol. 2002;442(3):173–177. [PubMed] [Google Scholar]Li Y.J., Xiao Z.S., Peng C.F., Deng H.W. Calcitonin gene-related peptide-induced preconditioning protects against ischemia-reperfusion injury in isolated rat hearts. Eur. J. Pharmacol. 1996;311(2–3):163–167. [PubMed] [Google Scholar]Lindsey K.Q., Caughman S.W., Olerud J.E., Bunnett N.W., Armstrong C.A., Ansel J.C. Neural regulation of endothelial cell-mediated inflammation. J. Invest. Dermatol. Symp. Proc. 2000;5(1):74–78. [PubMed] [Google Scholar]Linscheid P., Seboek D., Schaer D.J., Zulewski H., Keller U., Muller B. Expression and secretion of procalcitonin and calcitonin gene-related peptide by adherent monocytes and by macrophage-activated adipocytes. Crit. Care Med. 2004;32(8):1715–1721. [PubMed] [Google Scholar]Liu B., Escalera J., Balakrishna S., Fan L., Caceres A.I., Robinson E., Sui A., McKay M.C., McAlexander M.A., Herrick C.A., Jordt S.E. TRPA1 controls inflammation and pruritogen responses in allergic contact dermatitis. Faseb. J. 2013;27(9):3549–3563. [PMC free article] [PubMed] [Google Scholar]Lu R., Li Y.J., Deng H.W. Evidence for calcitonin gene-related peptide-mediated ischemic preconditioning in the rat heart. Regul. Pept. 1999;82(1–3):53–57. [PubMed] [Google Scholar]Mafong E.A., Friedman P.M., Kauvar A.N., Bernstein L.J., Alexiades-Armenakas M., Geronemus R.G. Treatment of inverse psoriasis with the 308 nm excimer laser. Dermatol. Surg. 2002;28(6):530–532. [PubMed] [Google Scholar]Maruyama K., Takayama Y., Kondo T., Ishibashi K.I., Sahoo B.R., Kanemaru H., Kumagai Y., Martino M.M., Tanaka H., Ohno N., Iwakura Y., Takemura N., Tominaga M., Akira S. Nociceptors boost the resolution of fungal osteoinflammation via the TRP channel-CGRP-Jdp2 Axis. Cell Rep. 2017;19(13):2730–2742. [PubMed] [Google Scholar]Masuda A., Shimamoto K., Mori Y., Nakagawa M., Ura N., Iimura O. Plasma calcitonin gene-related peptide levels in patients with various hypertensive diseases. J. Hypertens. 1992;10(12):1499–1504. [PubMed] [Google Scholar]Matteoli M., Haimann C., Torri-Tarelli F., Polak J.M., Ceccarelli B., De Camilli P. Differential effect of alpha-latrotoxin on exocytosis from small synaptic vesicles and from large dense-core vesicles containing calcitonin gene-related peptide at the frog neuromuscular junction. Proc. Natl. Acad. Sci. U. S. A. 1988;85(19):7366–7370. [PMC free article] [PubMed] [Google Scholar]Meng J., Wang J., Lawrence G., Dolly J.O. Synaptobrevin I mediates exocytosis of CGRP from sensory neurons and inhibition by botulinum toxins reflects their anti-nociceptive potential. J. Cell Sci. 2007;120(Pt 16):2864–2874. [PubMed] [Google Scholar]Merad M., Manz M.G., Karsunky H., Wagers A., Peters W., Charo I., Weissman I.L., Cyster J.G., Engleman E.G. Langerhans cells renew in the skin throughout life under steady-state conditions. Nat. Immunol. 2002;3(12):1135–1141. [PMC free article] [PubMed] [Google Scholar]Messlinger K. The big CGRP flood - sources, sinks and signalling sites in the trigeminovascular system. J. Headache Pain. 2018;19(1):22. [PMC free article] [PubMed] [Google Scholar]Mikami N., Matsushita H., Kato T., Kawasaki R., Sawazaki T., Kishimoto T., Ogitani Y., Watanabe K., Miyagi Y., Sueda K., Fukada S., Yamamoto H., Tsujikawa K. Calcitonin gene-related peptide is an important regulator of cutaneous immunity: effect on dendritic cell and T cell functions. J. Immunol. 2011;186(12):6886–6893. [PubMed] [Google Scholar]Mikami N., Sueda K., Ogitani Y., Otani I., Takatsuji M., Wada Y., Watanabe K., Yoshikawa R., Nishioka S., Hashimoto N., Miyagi Y., Fukada S., Yamamoto H., Tsujikawa K. Calcitonin gene-related peptide regulates type IV hypersensitivity through dendritic cell functions. PLoS One. 2014;9(1) [PMC free article] [PubMed] [Google Scholar]Misery L. Langerhans cells in the neuro-immuno-cutaneous system. J. Neuroimmunol. 1998;89(1–2):83–87. [PubMed] [Google Scholar]Mishima T., Ito Y., Hosono K., Tamura Y., Uchida Y., Hirata M., Suzsuki T., Amano H., Kato S., Kurihara Y., Kurihara H., Hayashi I., Watanabe M., Majima M. Calcitonin gene-related peptide facilitates revascularization during hindlimb ischemia in mice. Am. J. Physiol. Heart Circ. Physiol. 2011;300(2):H431–H439. [PubMed] [Google Scholar]Morbidelli L., Maggi C.A., Ziche M. Effect of selective tachykinin receptor antagonists on the growth of human skin fibroblasts. Neuropeptides. 1993;24(6):335–341. [PubMed] [Google Scholar]Morris H.R., Panico M., Etienne T., Tippins J., Girgis S.I., MacIntyre I. Isolation and characterization of human calcitonin gene-related peptide. Nature. 1984;308(5961):746–748. [PubMed] [Google Scholar]Mulder I.A., Li M., de Vries T., Qin T., Yanagisawa T., Sugimoto K., van den Bogaerdt A., Danser A.H.J., Wermer M.J.H., van den Maagdenberg A., MaassenVanDenBrink A., Ferrari M.D., Ayata C. Anti-migraine calcitonin gene-related peptide receptor antagonists worsen cerebral ischemic outcome in mice. Ann. Neurol. 2020;88(4):771–784. [PMC free article] [PubMed] [Google Scholar]Mulderry P.K., Ghatei M.A., Bishop A.E., Allen Y.S., Polak J.M., Bloom S.R. Distribution and chromatographic characterisation of CGRP-like immunoreactivity in the brain and gut of the rat. Regul. Pept. 1985;12(2):133–143. [PubMed] [Google Scholar]Muschter D., Beiderbeck A.S., Spath T., Kirschneck C., Schroder A., Grassel S. Sensory neuropeptides and their receptors participate in mechano-regulation of murine macrophages. Int. J. Mol. Sci. 2019;20(3) [PMC free article] [PubMed] [Google Scholar]Navratilova E., Porreca F. Substance P and inflammatory pain: getting it wrong and right simultaneously. Neuron. 2019;101(3):353–355. [PubMed] [Google Scholar]Nelson M.T., Huang Y., Brayden J.E., Hescheler J., Standen N.B. Arterial dilations in response to calcitonin gene-related peptide involve activation of K+ channels. Nature. 1990;344(6268):770–773. [PubMed] [Google Scholar]Niizeki H., Alard P., Streilein J.W. Calcitonin gene-related peptide is necessary for ultraviolet B-impaired induction of contact hypersensitivity. J. Immunol. 1997;159(11):5183–5186. [PubMed] [Google Scholar]Nikitenko L.L., Smith D.M., Bicknell R., Rees M.C. Transcriptional regulation of the CRLR gene in human microvascular endothelial cells by hypoxia. Faseb. J. 2003;17(11):1499–1501. [PubMed] [Google Scholar]O'Connor T.M., O'Connell J., O'Brien D.I., Goode T., Bredin C.P., Shanahan F. The role of substance P in inflammatory disease. J. Cell. Physiol. 2004;201(2):167–180. [PubMed] [Google Scholar]O'Connor T.P., van der Kooy D. Enrichment of a vasoactive neuropeptide (calcitonin gene related peptide) in the trigeminal sensory projection to the intracranial arteries. J. Neurosci. 1988;8(7):2468–2476. [PMC free article] [PubMed] [Google Scholar]Olesen J., Diener H.C., Husstedt I.W., Goadsby P.J., Hall D., Meier U., Pollentier S., Lesko L.M., B. B. C. P. o. C. S. Group  Calcitonin gene-related peptide receptor antagonist BIBN 4096 BS for the acute treatment of migraine. N. Engl. J. Med. 2004;350(11):1104–1110. [PubMed] [Google Scholar]Omland S.H., Gniadecki R. Psoriasis inversa: a separate identity or a variant of psoriasis vulgaris? Clin. Dermatol. 2015;33(4):456–461. [PubMed] [Google Scholar]Ostlere L.S., Cowen T., Rustin M.H. Neuropeptides in the skin of patients with atopic dermatitis. Clin. Exp. Dermatol. 1995;20(6):462–467. [PubMed] [Google Scholar]Ostrowski S.M., Belkadi A., Loyd C.M., Diaconu D., Ward N.L. Cutaneous denervation of psoriasiform mouse skin improves acanthosis and inflammation in a sensory neuropeptide-dependent manner. J. Invest. Dermatol. 2011;131(7):1530–1538. [PMC free article] [PubMed] [Google Scholar]Ottaway C.A., Greenberg G.R. Interaction of vasoactive intestinal peptide with mouse lymphocytes: specific binding and the modulation of mitogen responses. J. Immunol. 1984;132(1):417–423. [PubMed] [Google Scholar]Ozaka T., Doi Y., Kayashima K., Fujimoto S. Weibel-Palade bodies as a storage site of calcitonin gene-related peptide and endothelin-1 in blood vessels of the rat carotid body. Anat. Rec. 1997;247(3):388–394. [PubMed] [Google Scholar]Pan K.S., Siow A., Hay D.L., Walker C.S. Antagonism of CGRP signaling by rimegepant at two receptors. Front. Pharmacol. 2020;11:1240. [PMC free article] [PubMed] [Google Scholar]Park K.A., Fehrenbacher J.C., Thompson E.L., Duarte D.B., Hingtgen C.M., Vasko M.R. Signaling pathways that mediate nerve growth factor-induced increase in expression and release of calcitonin gene-related peptide from sensory neurons. Neuroscience. 2010;171(3):910–923. [PMC free article] [PubMed] [Google Scholar]Pellesi L., De Icco R., Al-Karagholi M.A., Ashina M. Reducing episodic cluster headaches: focus on galcanezumab. J. Pain Res. 2020;13:1591–1599. [PMC free article] [PubMed] [Google Scholar]Pellesi L., Guerzoni S., Pini L.A. Spotlight on anti-CGRP monoclonal antibodies in migraine: the clinical evidence to date. Clin Pharmacol Drug Dev. 2017;6(6):534–547. [PMC free article] [PubMed] [Google Scholar]Peters E.M. The neuroendocrine-immune connection regulates chronic inflammatory disease in allergy. Chem. Immunol. Allergy. 2012;98:240–252. [PubMed] [Google Scholar]Peters E.M., Ericson M.E., Hosoi J., Seiffert K., Hordinsky M.K., Ansel J.C., Paus R., Scholzen T.E. Neuropeptide control mechanisms in cutaneous biology: physiological and clinical significance. J. Invest. Dermatol. 2006;126(9):1937–1947. [PubMed] [Google Scholar]Peters G.L. Migraine overview and summary of current and emerging treatment options. Am. J. Manag. Care. 2019;25(2 Suppl. l):S23–S34. [PubMed] [Google Scholar]Pinho-Ribeiro F.A., Baddal B., Haarsma R., O'Seaghdha M., Yang N.J., Blake K.J., Portley M., Verri W.A., Dale J.B., Wessels M.R., Chiu I.M. Blocking neuronal signaling to immune cells treats streptococcal invasive infection. Cell. 2018;173(5):1083–1097 e1022. [PMC free article] [PubMed] [Google Scholar]Portaluppi F., Trasforini G., Margutti A., Vergnani L., Ambrosio M.R., Rossi R., Bagni B., Pansini R., degli Uberti E.C. Circadian rhythm of calcitonin gene-related peptide in uncomplicated essential hypertension. J. Hypertens. 1992;10(10):1227–1234. [PubMed] [Google Scholar]Pozsgai G., Hajna Z., Bagoly T., Boros M., Kemeny A., Materazzi S., Nassini R., Helyes Z., Szolcsanyi J., Pinter E. The role of transient receptor potential ankyrin 1 (TRPA1) receptor activation in hydrogen-sulphide-induced CGRP-release and vasodilation. Eur. J. Pharmacol. 2012;689(1–3):56–64. [PubMed] [Google Scholar]Prignano F., Ricceri F., Pescitelli L., Lotti T. Itch in psoriasis: epidemiology, clinical aspects and treatment options. Clin. Cosmet. Invest. Dermatol. 2009;2:9–13. [PMC free article] [PubMed] [Google Scholar]Quallo T., Gentry C., Bevan S., Broad L.M., Mogg A.J. Activation of transient receptor potential ankyrin 1 induces CGRP release from spinal cord synaptosomes. Pharmacol Res Perspect. 2015;3(6) [PMC free article] [PubMed] [Google Scholar]Rajesh A., Wise L., Hibma M. The role of Langerhans cells in pathologies of the skin. Immunol. Cell Biol. 2019;97(8):700–713. [PubMed] [Google Scholar]Rapp D.E., Turk K.W., Bales G.T., Cook S.P. Botulinum toxin type a inhibits calcitonin gene-related peptide release from isolated rat bladder. J. Urol. 2006;175(3 Pt 1):1138–1142. [PubMed] [Google Scholar]Rehni A.K., Singh T.G., Jaggi A.S., Singh N. Pharmacological preconditioning of the brain: a possible interplay between opioid and calcitonin gene related peptide transduction systems. Pharmacol. Rep. 2008;60(6):904–913. [PubMed] [Google Scholar]Riol-Blanco L., Ordovas-Montanes J., Perro M., Naval E., Thiriot A., Alvarez D., Paust S., Wood J.N., von Andrian U.H. Nociceptive sensory neurons drive interleukin-23-mediated psoriasiform skin inflammation. Nature. 2014;510(7503):157–161. [PMC free article] [PubMed] [Google Scholar]Rochlitzer S., Veres T.Z., Kuhne K., Prenzler F., Pilzner C., Knothe S., Winkler C., Lauenstein H.D., Willart M., Hammad H., Muller M., Krug N., Lambrecht B.N., Braun A. The neuropeptide calcitonin gene-related peptide affects allergic airway inflammation by modulating dendritic cell function. Clin. Exp. Allergy. 2011;41(11):1609–1621. [PubMed] [Google Scholar]Roggenkamp D., Kopnick S., Stab F., Wenck H., Schmelz M., Neufang G. Epidermal nerve fibers modulate keratinocyte growth via neuropeptide signaling in an innervated skin model. J. Invest. Dermatol. 2013;133(6):1620–1628. [PubMed] [Google Scholar]Roosterman D., Goerge T., Schneider S.W., Bunnett N.W., Steinhoff M. Neuronal control of skin function: the skin as a neuroimmunoendocrine organ. Physiol. Rev. 2006;86(4):1309–1379. [PubMed] [Google Scholar]Rosenfeld M.G., Mermod J.J., Amara S.G., Swanson L.W., Sawchenko P.E., Rivier J., Vale W.W., Evans R.M. Production of a novel neuropeptide encoded by the calcitonin gene via tissue-specific RNA processing. Nature. 1983;304(5922):129–135. [PubMed] [Google Scholar]Ruscheweyh R., Forsthuber L., Schoffnegger D., Sandkuhler J. Modification of classical neurochemical markers in identified primary afferent neurons with Abeta-, Adelta-, and C-fibers after chronic constriction injury in mice. J. Comp. Neurol. 2007;502(2):325–336. [PubMed] [Google Scholar]Russell F.A., King R., Smillie S.J., Kodji X., Brain S.D. Calcitonin gene-related peptide: physiology and pathophysiology. Physiol. Rev. 2014;94(4):1099–1142. [PMC free article] [PubMed] [Google Scholar]Sacco S., Kurth T. Migraine and the risk for stroke and cardiovascular disease. Curr. Cardiol. Rep. 2014;16(9):524. [PubMed] [Google Scholar]Sakai K., Sanders K.M., Youssef M.R., Yanushefski K.M., Jensen L., Yosipovitch G., Akiyama T. Mouse model of imiquimod-induced psoriatic itch. Pain. 2016;157(11):2536–2543. [PMC free article] [PubMed] [Google Scholar]Sakuta H., Inaba K., Muramatsu S. Calcitonin gene-related peptide enhances cytokine-induced IL-6 production by fibroblasts. Cell. Immunol. 1995;165(1):20–25. [PubMed] [Google Scholar]Salomon J., Baran E. The role of selected neuropeptides in pathogenesis of atopic dermatitis. J. Eur. Acad. Dermatol. Venereol. 2008;22(2):223–228. [PubMed] [Google Scholar]Sann H., Pierau F.K. Efferent functions of C-fiber nociceptors. Z. Rheumatol. 1998;57(Suppl. 2):8–13. [PubMed] [Google Scholar]Saraceno R., Kleyn C.E., Terenghi G., Griffiths C.E. The role of neuropeptides in psoriasis. Br. J. Dermatol. 2006;155(5):876–882. [PubMed] [Google Scholar]Saria A. Substance P in sensory nerve fibres contributes to the development of oedema in the rat hind paw after thermal injury. Br. J. Pharmacol. 1984;82(1):217–222. [PMC free article] [PubMed] [Google Scholar]Sawada Y., Honda T., Nakamizo S., Otsuka A., Ogawa N., Kobayashi Y., Nakamura M., Kabashima K. Resolvin E1 attenuates murine psoriatic dermatitis. Sci. Rep. 2018;8(1):11873. [PMC free article] [PubMed] [Google Scholar]Schifter S., Krusell L.R., Sehested J. Normal serum levels of calcitonin gene-related peptide (CGRP) in mild to moderate essential hypertension. Am. J. Hypertens. 1991;4(7 Pt 1):565–569. [PubMed] [Google Scholar]Schlereth T., Schukraft J., Kramer-Best H.H., Geber C., Ackermann T., Birklein F. Interaction of calcitonin gene related peptide (CGRP) and substance P (SP) in human skin. Neuropeptides. 2016;59:57–62. [PubMed] [Google Scholar]Schlomer J.J., Storey B.B., Ciornei R.T., McGillis J.P. Calcitonin gene-related peptide inhibits early B cell development in vivo. J. Leukoc. Biol. 2007;81(3):802–808. [PubMed] [Google Scholar]Schotzinger R.J., Landis S.C. Postnatal development of autonomic and sensory innervation of thoracic hairy skin in the rat. A histochemical, immunocytochemical, and radioenzymatic study. Cell Tissue Res. 1990;260(3):575–587. [PubMed] [Google Scholar]Schwab V.D., Sulk M., Seeliger S., Nowak P., Aubert J., Mess C., Rivier M., Carlavan I., Rossio P., Metze D., Buddenkotte J., Cevikbas F., Voegel J.J., Steinhoff M. Neurovascular and neuroimmune aspects in the pathophysiology of rosacea. J. Invest. Dermatol. Symp. Proc. 2011;15(1):53–62. [PMC free article] [PubMed] [Google Scholar]Sekiguchi N., Kanatsuka H., Sato K., Wang Y., Akai K., Komaru T., Takishima T. Effect of calcitonin gene-related peptide on coronary microvessels and its role in acute myocardial ischemia. Circulation. 1994;89(1):366–374. [PubMed] [Google Scholar]Seneschal J., Clark R.A., Gehad A., Baecher-Allan C.M., Kupper T.S. Human epidermal Langerhans cells maintain immune homeostasis in skin by activating skin resident regulatory T cells. Immunity. 2012;36(5):873–884. [PMC free article] [PubMed] [Google Scholar]Serhan C.N., Levy B.D. Resolvins in inflammation: emergence of the pro-resolving superfamily of mediators. J. Clin. Invest. 2018;128(7):2657–2669. [PMC free article] [PubMed] [Google Scholar]Shang S., Zhu F., Liu B., Chai Z., Wu Q., Hu M., Wang Y., Huang R., Zhang X., Wu X., Sun L., Wang Y., Wang L., Xu H., Teng S., Liu B., Zheng L., Zhang C., Zhang F., Feng X., Zhu D., Wang C., Liu T., Zhu M.X., Zhou Z. Intracellular TRPA1 mediates Ca2+ release from lysosomes in dorsal root ganglion neurons. J. Cell Biol. 2016;215(3):369–381. [PMC free article] [PubMed] [Google Scholar]Shi X., Wang L., Clark J.D., Kingery W.S. Keratinocytes express cytokines and nerve growth factor in response to neuropeptide activation of the ERK1/2 and JNK MAPK transcription pathways. Regul. Pept. 2013;186:92–103. [PMC free article] [PubMed] [Google Scholar]Sinclair S.R., Kane S.A., Van der Schueren B.J., Xiao A., Willson K.J., Boyle J., de Lepeleire I., Xu Y., Hickey L., Denney W.S., Li C.C., Palcza J., Vanmolkot F.H., Depre M., Van Hecken A., Murphy M.G., Ho T.W., de Hoon J.N. Inhibition of capsaicin-induced increase in dermal blood flow by the oral CGRP receptor antagonist, telcagepant (MK-0974) Br. J. Clin. Pharmacol. 2010;69(1):15–22. [PMC free article] [PubMed] [Google Scholar]Sleijffers A., Herreilers M., van Loveren H., Garssen J. Ultraviolet B radiation induces upregulation of calcitonin gene-related peptide levels in human Finn chamber skin samples. J. Photochem. Photobiol., B. 2003;69(3):149–152. [PubMed] [Google Scholar]Smillie S.J., King R., Kodji X., Outzen E., Pozsgai G., Fernandes E., Marshall N., de Winter P., Heads R.J., Dessapt-Baradez C., Gnudi L., Sams A., Shah A.M., Siow R.C., Brain S.D. An ongoing role of alpha-calcitonin gene-related peptide as part of a protective network against hypertension, vascular hypertrophy, and oxidative stress. Hypertension. 2014;63(5):1056–1062. [PubMed] [Google Scholar]Snell R.S. Effect of the alpha melanocyte stimulating hormone of the pituitary on mammalian epidermal melanocytes. J. Invest. Dermatol. 1964;42:337–347. [PubMed] [Google Scholar]Stander S., Siepmann D., Herrgott I., Sunderkotter C., Luger T.A. Targeting the neurokinin receptor 1 with aprepitant: a novel antipruritic strategy. PLoS One. 2010;5(6) [PMC free article] [PubMed] [Google Scholar]Steenbergh P.H., Hoppener J.W., Zandberg J., Visser A., Lips C.J., Jansz H.S. Structure and expression of the human calcitonin/CGRP genes. FEBS Lett. 1986;209(1):97–103. [PubMed] [Google Scholar]Strandt H., Pinheiro D.F., Kaplan D.H., Wirth D., Gratz I.K., Hammerl P., Thalhamer J., Stoecklinger A. Neoantigen expression in steady-state Langerhans cells induces CTL tolerance. J. Immunol. 2017;199(5):1626–1634. [PMC free article] [PubMed] [Google Scholar]Sugaya M. The role of Th17-related cytokines in atopic dermatitis. Int. J. Mol. Sci. 2020;21(4) [PMC free article] [PubMed] [Google Scholar]Swindell W.R., Michaels K.A., Sutter A.J., Diaconu D., Fritz Y., Xing X., Sarkar M.K., Liang Y., Tsoi A., Gudjonsson J.E., Ward N.L. Imiquimod has strain-dependent effects in mice and does not uniquely model human psoriasis. Genome Med. 2017;9(1):24. [PMC free article] [PubMed] [Google Scholar]Terenghi G., Polak J.M., Ghatei M.A., Mulderry P.K., Butler J.M., Unger W.G., Bloom S.R. Distribution and origin of calcitonin gene-related peptide (CGRP) immunoreactivity in the sensory innervation of the mammalian eye. J. Comp. Neurol. 1985;233(4):506–516. [PubMed] [Google Scholar]Teresi S., Boudard F., Bastide M. Effect of calcitonin gene-related peptide and vasoactive intestinal peptide on murine CD4 and CD8 T cell proliferation. Immunol. Lett. 1996;50(1–2):105–113. [PubMed] [Google Scholar]Thakur S., Li L., Gupta S. NF-kappaB-mediated integrin-linked kinase regulation in angiotensin II-induced pro-fibrotic process in cardiac fibroblasts. Life Sci. 2014;107(1–2):68–75. [PubMed] [Google Scholar]Therene C., Brenaut E., Barnetche T., Misery L. Efficacy of systemic treatments of psoriasis on pruritus: a systemic literature review and meta-analysis. J. Invest. Dermatol. 2018;138(1):38–45. [PubMed] [Google Scholar]Tominaga M., Tengara S., Kamo A., Ogawa H., Takamori K. Psoralen-ultraviolet A therapy alters epidermal Sema3A and NGF levels and modulates epidermal innervation in atopic dermatitis. J. Dermatol. Sci. 2009;55(1):40–46. [PubMed] [Google Scholar]Torii H., Hosoi J., Beissert S., Xu S., Fox F.E., Asahina A., Takashima A., Rook A.H., Granstein R.D. Regulation of cytokine expression in macrophages and the Langerhans cell-like line XS52 by calcitonin gene-related peptide. J. Leukoc. Biol. 1997;61(2):216–223. [PubMed] [Google Scholar]Toyoda M., Luo Y., Makino T., Matsui C., Morohashi M. Calcitonin gene-related peptide upregulates melanogenesis and enhances melanocyte dendricity via induction of keratinocyte-derived melanotrophic factors. J. Invest. Dermatol. Symp. Proc. 1999;4(2):116–125. [PubMed] [Google Scholar]Tso A.R., Goadsby P.J. Anti-CGRP monoclonal antibodies: the next era of migraine prevention? Curr. Treat. Options Neurol. 2017;19(8):27. [PMC free article] [PubMed] [Google Scholar]Uddman R., Edvinsson L., Ekblad E., Hakanson R., Sundler F. Calcitonin gene-related peptide (CGRP): perivascular distribution and vasodilatory effects. Regul. Pept. 1986;15(1):1–23. [PubMed] [Google Scholar]Van Belle A.B., de Heusch M., Lemaire M.M., Hendrickx E., Warnier G., Dunussi-Joannopoulos K., Fouser L.A., Renauld J.C., Dumoutier L. IL-22 is required for imiquimod-induced psoriasiform skin inflammation in mice. J. Immunol. 2012;188(1):462–469. [PubMed] [Google Scholar]Venkatachalam K., Montell C. TRP channels. Annu. Rev. Biochem. 2007;76:387–417. [PMC free article] [PubMed] [Google Scholar]Viana F. TRPA1 channels: molecular sentinels of cellular stress and tissue damage. J. Physiol. 2016;594(15):4151–4169. [PMC free article] [PubMed] [Google Scholar]Voss M., Kotrba J., Gaffal E., Katsoulis-Dimitriou K., Dudeck A. Mast cells in the skin: defenders of integrity or offenders in inflammation? Int. J. Mol. Sci. 2021;22(9) [PMC free article] [PubMed] [Google Scholar]Wallengren J. Pathophysiology of itch. Eur. J. Dermatol. 1993;3(4) [Google Scholar]Wallengren J. Vasoactive peptides in the skin. J. Invest. Dermatol. Symp. Proc. 1997;2(1):49–55. [PubMed] [Google Scholar]Wallengren J., Ekman R., Sundler F. Occurrence and distribution of neuropeptides in the human skin. An immunocytochemical and immunochemical study on normal skin and blister fluid from inflamed skin. Acta Derm. Venereol. 1987;67(3):185–192. [PubMed] [Google Scholar]Wallengren J., Hakanson R. Effects of substance P, neurokinin A and calcitonin gene-related peptide in human skin and their involvement in sensory nerve-mediated responses. Eur. J. Pharmacol. 1987;143(2):267–273. [PubMed] [Google Scholar]Wallengren J., Hakanson R. Effects of capsaicin, bradykinin and prostaglandin E2 in the human skin. Br. J. Dermatol. 1992;126(2):111–117. [PubMed] [Google Scholar]Wallengren J., Hakanson R., Andre'n-Sandberg A. Physiological factors influencing the substance P-evoked flare and wheal in human skin. Adv. Pain Res. Ther. 1992;20:63–69. [Google Scholar]Wallengren J., Wang Z.Y. Interaction between tachykinins and CGRP in human skin. Acta Derm. Venereol. 1993;73(4):259–261. [PubMed] [Google Scholar]Wang F., Millet I., Bottomly K., Vignery A. Calcitonin gene-related peptide inhibits interleukin 2 production by murine T lymphocytes. J. Biol. Chem. 1992;267(29):21052–21057. [PubMed] [Google Scholar]Ward N.L., Kavlick K.D., Diaconu D., Dawes S.M., Michaels K.A., Gilbert E. Botulinum neurotoxin A decreases infiltrating cutaneous lymphocytes and improves acanthosis in the KC-Tie2 mouse model. J. Invest. Dermatol. 2012;132(7):1927–1930. [PMC free article] [PubMed] [Google Scholar]Wiedermann F.J., Kaneider N., Egger P., Tiefenthaler W., Wiedermann C.J., Lindner K.H., Schobersberger W. Migration of human monocytes in response to procalcitonin. Crit. Care Med. 2002;30(5):1112–1117. [PubMed] [Google Scholar]Wilson S.R., Gerhold K.A., Bifolck-Fisher A., Liu Q., Patel K.N., Dong X., Bautista D.M. TRPA1 is required for histamine-independent, Mas-related G protein-coupled receptor-mediated itch. Nat. Neurosci. 2011;14(5):595–602. [PMC free article] [PubMed] [Google Scholar]Wolfram J.A., Diaconu D., Hatala D.A., Rastegar J., Knutsen D.A., Lowther A., Askew D., Gilliam A.C., McCormick T.S., Ward N.L. Keratinocyte but not endothelial cell-specific overexpression of Tie2 leads to the development of psoriasis. Am. J. Pathol. 2009;174(4):1443–1458. [PMC free article] [PubMed] [Google Scholar]Wurthmann S., Nagel S., Hadaschik E., Schlott S., Scheffler A., Kleinschnitz C., Holle D. Impaired wound healing in a migraine patient as a possible side effect of calcitonin gene-related peptide receptor antibody treatment: a case report. Cephalalgia. 2020;40(11):1255–1260. [PubMed] [Google Scholar]Xiao Y., Richter J.A., Hurley J.H. Release of glutamate and CGRP from trigeminal ganglion neurons: role of calcium channels and 5-HT1 receptor signaling. Mol. Pain. 2008;4:12. [PMC free article] [PubMed] [Google Scholar]Xu J., Duan X., Hu F., Poorun D., Liu X., Wang X., Zhang S., Gan L., He M., Zhu K., Ming Z., Chen H. Resolvin D1 attenuates imiquimod-induced mice psoriasiform dermatitis through MAPKs and NF-kappaB pathways. J. Dermatol. Sci. 2018;89(2):127–135. [PubMed] [Google Scholar]Yaar M., Grossman K., Eller M., Gilchrest B.A. Evidence for nerve growth factor-mediated paracrine effects in human epidermis. J. Cell Biol. 1991;115(3):821–828. [PMC free article] [PubMed] [Google Scholar]Yamaguchi J., Aihara M., Kobayashi Y., Kambara T., Ikezawa Z. Quantitative analysis of nerve growth factor (NGF) in the atopic dermatitis and psoriasis horny layer and effect of treatment on NGF in atopic dermatitis. J. Dermatol. Sci. 2009;53(1):48–54. [PubMed] [Google Scholar]Yan D., Liu X., Guo S.W. Neuropeptides substance P and calcitonin gene related peptide accelerate the development and fibrogenesis of endometriosis. Sci. Rep. 2019;9(1):2698. [PMC free article] [PubMed] [Google Scholar]Yu L.C., Hou J.F., Fu F.H., Zhang Y.X. Roles of calcitonin gene-related peptide and its receptors in pain-related behavioral responses in the central nervous system. Neurosci. Biobehav. Rev. 2009;33(8):1185–1191. [PubMed] [Google Scholar]Zhang C., Ye L., Zhang Q., Wu F., Wang L. The role of TRPV1 channels in atherosclerosis. Channels. 2020;14(1):141–150. [PMC free article] [PubMed] [Google Scholar]Zhou Z., Hu C.P., Wang C.J., Li T.T., Peng J., Li Y.J. Calcitonin gene-related peptide inhibits angiotensin II-induced endothelial progenitor cells senescence through up-regulation of klotho expression. Atherosclerosis. 2010;213(1):92–101. [PubMed] [Google Scholar]Zhu T.H., Nakamura M., Farahnik B., Abrouk M., Lee K., Singh R., Gevorgyan A., Koo J., Bhutani T. The role of the nervous system in the pathophysiology of psoriasis: a review of cases of psoriasis remission or improvement following denervation injury. Am. J. Clin. Dermatol. 2016;17(3):257–263. [PubMed] [Google Scholar]Articles from Brain, Behavior, & Immunity - Health are provided here courtesy of Elsevier
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.3M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

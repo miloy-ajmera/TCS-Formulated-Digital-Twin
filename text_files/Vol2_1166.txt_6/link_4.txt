@@ -1,0 +1,8504 @@
+Document Name: role of SUPER HARTOLAN in Cover Cream4
+Document link: https://patents.google.com/patent/WO2006079830A1/en
+
+
+
+WO2006079830A1 - Alkoxylated lanolin derivatives and compositions therewith 
+        - Google Patents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WO2006079830A1 - Alkoxylated lanolin derivatives and compositions therewith 
+        - Google Patents
+Alkoxylated lanolin derivatives and compositions therewith 
+       
+
+Download PDF
+Info
+
+Publication number
+WO2006079830A1
+
+
+
+WO2006079830A1
+PCT/GB2006/000290
+GB2006000290W
+WO2006079830A1
+WO 2006079830 A1
+WO2006079830 A1
+WO 2006079830A1
+ 
+ 
+ 
+GB 2006000290 W
+GB2006000290 W
+GB 2006000290W
+WO 2006079830 A1
+WO2006079830 A1
+WO 2006079830A1
+Authority
+WO
+WIPO (PCT)
+Prior art keywords
+lanolin
+derivative
+peg
+ppg
+rtm
+Prior art date
+2005-01-29
+
+Application number
+PCT/GB2006/000290
+Other languages
+
+
+French (fr)
+    
+
+Inventor
+Ian Steel
+Original Assignee
+Croda International Plc
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+2005-01-29
+Filing date
+2006-01-30
+Publication date
+2006-08-03
+
+
+Priority claimed from GB0501861.9
+external-priority
+
+
+2005-01-29
+Priority claimed from GB0501857A
+external-priority
+patent/GB0501857D0/en
+
+
+2005-01-29
+Priority claimed from GB0501861A
+external-priority
+patent/GB0501861D0/en
+
+
+2006-01-30
+Application filed by Croda International Plc
+filed
+Critical
+Croda International Plc
+
+
+2006-08-03
+Publication of WO2006079830A1
+publication
+Critical
+patent/WO2006079830A1/en
+
+Links
+
+
+
+Espacenet
+
+
+
+Global Dossier
+
+
+
+PatentScope
+
+
+
+Discuss
+
+
+
+
+235000019388
+lanolin
+Nutrition
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+269
+
+
+239000004166
+Lanolin
+Substances
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+268
+
+
+229940039717
+Lanolin
+Drugs
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+257
+
+
+239000000203
+mixture
+Substances
+
+
+
+
+0.000
+title
+claims
+description
+102
+
+
+239000003908
+antipruritic agent
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+47
+
+
+239000002202
+Polyethylene glycol
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+24
+
+
+229920001223
+polyethylene glycol
+Polymers
+
+
+
+
+0.000
+claims
+abstract
+description
+24
+
+
+DUFKCOQISQKSAV-UHFFFAOYSA-N
+2-(2-hydroxypropoxy)propan-1-ol
+Chemical compound
+
+
+CC(O)COC(C)CO
+DUFKCOQISQKSAV-UHFFFAOYSA-N
+0.000
+claims
+abstract
+description
+20
+
+
+IAYPIBMASNFSPL-UHFFFAOYSA-N
+oxane
+Chemical compound
+
+
+C1CO1
+IAYPIBMASNFSPL-UHFFFAOYSA-N
+0.000
+claims
+abstract
+description
+9
+
+
+229920001451
+Polypropylene glycol
+Polymers
+
+
+
+
+0.000
+claims
+abstract
+description
+8
+
+
+238000001212
+derivatisation
+Methods
+
+
+
+
+0.000
+claims
+abstract
+description
+7
+
+
+GOOHAUXETOMSMM-UHFFFAOYSA-N
+propylene oxide
+Chemical compound
+
+
+CC1CO1
+GOOHAUXETOMSMM-UHFFFAOYSA-N
+0.000
+claims
+abstract
+description
+6
+
+
+LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+ethanol
+Chemical compound
+
+
+CCO
+LFQSCWFLJHTTHZ-UHFFFAOYSA-N
+0.000
+claims
+description
+79
+
+
+210000003491
+Skin
+Anatomy
+
+
+
+
+0.000
+claims
+description
+48
+
+
+208000003251
+Pruritus
+Diseases
+
+
+
+
+0.000
+claims
+description
+43
+
+
+HVYWMOMLDIMFJA-DPAQBDIFSA-N
+(3Î²)-Cholest-5-en-3-ol
+Chemical compound
+
+
+C1C=C2C[C@@H](O)CC[C@]2(C)[C@@H]2[C@@H]1[C@@H]1CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC2
+HVYWMOMLDIMFJA-DPAQBDIFSA-N
+0.000
+claims
+description
+39
+
+
+239000000126
+substance
+Substances
+
+
+
+
+0.000
+claims
+description
+29
+
+
+229940099367
+LANOLIN ALCOHOLS
+Drugs
+
+
+
+
+0.000
+claims
+description
+26
+
+
+XSQUKJJJFZCRTK-UHFFFAOYSA-N
+urea
+Chemical compound
+
+
+NC(N)=O
+XSQUKJJJFZCRTK-UHFFFAOYSA-N
+0.000
+claims
+description
+18
+
+
+150000002632
+lipids
+Chemical class
+
+
+
+
+0.000
+claims
+description
+16
+
+
+239000003974
+emollient agent
+Substances
+
+
+
+
+0.000
+claims
+description
+13
+
+
+239000003795
+chemical substances by application
+Substances
+
+
+
+
+0.000
+claims
+description
+12
+
+
+230000002335
+preservative
+Effects
+
+
+
+
+0.000
+claims
+description
+12
+
+
+239000003755
+preservative agent
+Substances
+
+
+
+
+0.000
+claims
+description
+12
+
+
+239000003995
+emulsifying agent
+Substances
+
+
+
+
+0.000
+claims
+description
+11
+
+
+239000004480
+active ingredient
+Substances
+
+
+
+
+0.000
+claims
+description
+10
+
+
+235000014113
+dietary fatty acids
+Nutrition
+
+
+
+
+0.000
+claims
+description
+9
+
+
+239000000194
+fatty acid
+Substances
+
+
+
+
+0.000
+claims
+description
+9
+
+
+239000004094
+surface-active agent
+Substances
+
+
+
+
+0.000
+claims
+description
+9
+
+
+150000004665
+fatty acids
+Chemical class
+
+
+
+
+0.000
+claims
+description
+8
+
+
+238000004519
+manufacturing process
+Methods
+
+
+
+
+0.000
+claims
+description
+8
+
+
+230000000475
+sunscreen
+Effects
+
+
+
+
+0.000
+claims
+description
+8
+
+
+239000000516
+sunscreening agent
+Substances
+
+
+
+
+0.000
+claims
+description
+8
+
+
+229940107161
+Cholesterol
+Drugs
+
+
+
+
+0.000
+claims
+description
+7
+
+
+239000004202
+carbamide
+Substances
+
+
+
+
+0.000
+claims
+description
+7
+
+
+235000012000
+cholesterol
+Nutrition
+
+
+
+
+0.000
+claims
+description
+7
+
+
+239000003814
+drug
+Substances
+
+
+
+
+0.000
+claims
+description
+7
+
+
+239000003605
+opacifier
+Substances
+
+
+
+
+0.000
+claims
+description
+7
+
+
+230000003110
+anti-inflammatory
+Effects
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000003963
+antioxidant agent
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+235000006708
+antioxidants
+Nutrition
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000003246
+corticosteroid
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+230000035515
+penetration
+Effects
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000000344
+soap
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+230000000111
+anti-oxidant
+Effects
+
+
+
+
+0.000
+claims
+description
+5
+
+
+230000002708
+enhancing
+Effects
+
+
+
+
+0.000
+claims
+description
+5
+
+
+239000003906
+humectant
+Substances
+
+
+
+
+0.000
+claims
+description
+5
+
+
+239000002085
+irritant
+Substances
+
+
+
+
+0.000
+claims
+description
+5
+
+
+229940106189
+Ceramides
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229940064701
+Corticosteroid nasal preparations for topical use
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229960001334
+Corticosteroids
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+230000001166
+anti-perspirant
+Effects
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000004599
+antimicrobial
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000003213
+antiperspirant
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+150000001783
+ceramides
+Chemical class
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000003623
+enhancer
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000003205
+fragrance
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000003349
+gelling agent
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000000049
+pigment
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229940083878
+topical for treatment of hemorrhoids and anal fissures Corticosteroids
+Drugs
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000000047
+product
+Substances
+
+
+
+
+0.000
+description
+55
+
+
+NTYJJOPFIAHURM-UHFFFAOYSA-N
+histamine
+Chemical compound
+
+
+NCCC1=CN=CN1
+NTYJJOPFIAHURM-UHFFFAOYSA-N
+0.000
+description
+46
+
+
+230000003444
+anaesthetic
+Effects
+
+
+
+
+0.000
+description
+27
+
+
+239000007788
+liquid
+Substances
+
+
+
+
+0.000
+description
+27
+
+
+239000000463
+material
+Substances
+
+
+
+
+0.000
+description
+24
+
+
+229960001340
+histamine
+Drugs
+
+
+
+
+0.000
+description
+23
+
+
+-1
+polyoxyethylene
+Polymers
+
+
+
+
+0.000
+description
+18
+
+
+150000001875
+compounds
+Chemical class
+
+
+
+
+0.000
+description
+14
+
+
+JYGXADMDTFJGBT-VWUMJDOOSA-N
+Cortisol
+Chemical compound
+
+
+O=C1CC[C@]2(C)[C@H]3[C@@H](O)C[C@](C)([C@@](CC4)(O)C(=O)CO)[C@@H]4[C@@H]3CCC2=C1
+JYGXADMDTFJGBT-VWUMJDOOSA-N
+0.000
+description
+12
+
+
+238000006243
+chemical reaction
+Methods
+
+
+
+
+0.000
+description
+12
+
+
+229960000890
+hydrocortisone
+Drugs
+
+
+
+
+0.000
+description
+12
+
+
+150000002148
+esters
+Chemical class
+
+
+
+
+0.000
+description
+11
+
+
+SFNALCNOMXIBKG-UHFFFAOYSA-N
+ethylene glycol monododecyl ether
+Chemical compound
+
+
+CCCCCCCCCCCCOCCO
+SFNALCNOMXIBKG-UHFFFAOYSA-N
+0.000
+description
+11
+
+
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+glycerine
+Chemical compound
+
+
+OCC(O)CO
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+0.000
+description
+11
+
+
+239000000447
+pesticide residue
+Substances
+
+
+
+
+0.000
+description
+11
+
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+
+
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+description
+11
+
+
+206010002091
+Anaesthesia
+Diseases
+
+
+
+
+0.000
+description
+10
+
+
+229920002884
+Laureth 4
+Polymers
+
+
+
+
+0.000
+description
+10
+
+
+230000037005
+anaesthesia
+Effects
+
+
+
+
+0.000
+description
+10
+
+
+238000001949
+anaesthesia
+Methods
+
+
+
+
+0.000
+description
+10
+
+
+230000001139
+anti-pruritic
+Effects
+
+
+
+
+0.000
+description
+10
+
+
+239000006071
+cream
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+239000000243
+solution
+Substances
+
+
+
+
+0.000
+description
+10
+
+
+210000002268
+Wool
+Anatomy
+
+
+
+
+0.000
+description
+9
+
+
+230000000694
+effects
+Effects
+
+
+
+
+0.000
+description
+9
+
+
+238000009472
+formulation
+Methods
+
+
+
+
+0.000
+description
+9
+
+
+238000005259
+measurement
+Methods
+
+
+
+
+0.000
+description
+9
+
+
+239000003921
+oil
+Substances
+
+
+
+
+0.000
+description
+9
+
+
+230000035807
+sensation
+Effects
+
+
+
+
+0.000
+description
+9
+
+
+235000019615
+sensations
+Nutrition
+
+
+
+
+0.000
+description
+9
+
+
+230000000699
+topical
+Effects
+
+
+
+
+0.000
+description
+9
+
+
+239000002253
+acid
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+238000000034
+method
+Methods
+
+
+
+
+0.000
+description
+8
+
+
+235000019198
+oils
+Nutrition
+
+
+
+
+0.000
+description
+8
+
+
+239000002537
+cosmetic
+Substances
+
+
+
+
+0.000
+description
+7
+
+
+239000000839
+emulsion
+Substances
+
+
+
+
+0.000
+description
+7
+
+
+KWYUFKZDYYNOTN-UHFFFAOYSA-M
+potassium hydroxide
+Inorganic materials
+
+
+[OH-].[K+]
+KWYUFKZDYYNOTN-UHFFFAOYSA-M
+0.000
+description
+7
+
+
+NOOLISFMXDJSKH-UTLUCORTSA-N
+(+)-Neomenthol
+Chemical compound
+
+
+CC(C)[C@@H]1CC[C@@H](C)C[C@@H]1O
+NOOLISFMXDJSKH-UTLUCORTSA-N
+0.000
+description
+6
+
+
+229960004873
+LEVOMENTHOL
+Drugs
+
+
+
+
+0.000
+description
+6
+
+
+229940041616
+Menthol
+Drugs
+
+
+
+
+0.000
+description
+6
+
+
+229920001363
+Polidocanol
+Polymers
+
+
+
+
+0.000
+description
+6
+
+
+150000007513
+acids
+Chemical class
+
+
+
+
+0.000
+description
+6
+
+
+238000007046
+ethoxylation reaction
+Methods
+
+
+
+
+0.000
+description
+6
+
+
+ISWSIDIOOBJBQZ-UHFFFAOYSA-N
+phenol
+Chemical compound
+
+
+OC1=CC=CC=C1
+ISWSIDIOOBJBQZ-UHFFFAOYSA-N
+0.000
+description
+6
+
+
+238000002360
+preparation method
+Methods
+
+
+
+
+0.000
+description
+6
+
+
+239000002904
+solvent
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+235000003702
+sterols
+Nutrition
+
+
+
+
+0.000
+description
+6
+
+
+230000000638
+stimulation
+Effects
+
+
+
+
+0.000
+description
+6
+
+
+239000001993
+wax
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+229960005274
+Benzocaine
+Drugs
+
+
+
+
+0.000
+description
+5
+
+
+BLFLLBZGZJTVJG-UHFFFAOYSA-N
+Benzocaine
+Chemical compound
+
+
+CCOC(=O)C1=CC=C(N)C=C1
+BLFLLBZGZJTVJG-UHFFFAOYSA-N
+0.000
+description
+5
+
+
+239000007864
+aqueous solution
+Substances
+
+
+
+
+0.000
+description
+5
+
+
+238000001816
+cooling
+Methods
+
+
+
+
+0.000
+description
+5
+
+
+238000011156
+evaluation
+Methods
+
+
+
+
+0.000
+description
+5
+
+
+235000011187
+glycerol
+Nutrition
+
+
+
+
+0.000
+description
+5
+
+
+229960005150
+glycerol
+Drugs
+
+
+
+
+0.000
+description
+5
+
+
+229940053336
+lauromacrogols
+Drugs
+
+
+
+
+0.000
+description
+5
+
+
+239000006210
+lotion
+Substances
+
+
+
+
+0.000
+description
+5
+
+
+239000011505
+plaster
+Substances
+
+
+
+
+0.000
+description
+5
+
+
+230000001603
+reducing
+Effects
+
+
+
+
+0.000
+description
+5
+
+
+238000007670
+refining
+Methods
+
+
+
+
+0.000
+description
+5
+
+
+230000004044
+response
+Effects
+
+
+
+
+0.000
+description
+5
+
+
+239000000523
+sample
+Substances
+
+
+
+
+0.000
+description
+5
+
+
+239000007858
+starting material
+Substances
+
+
+
+
+0.000
+description
+5
+
+
+POJWUDADGALRAB-PVQJCKRUSA-N
+Allantoin
+Natural products
+
+
+NC(=O)N[C@@H]1NC(=O)NC1=O
+POJWUDADGALRAB-PVQJCKRUSA-N
+0.000
+description
+4
+
+
+UKMSUNONTOPOIO-UHFFFAOYSA-N
+Behenic acid
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCCCCCC(O)=O
+UKMSUNONTOPOIO-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+LXCFILQKKLGQFO-UHFFFAOYSA-N
+Methylparaben
+Chemical compound
+
+
+COC(=O)C1=CC=C(O)C=C1
+LXCFILQKKLGQFO-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+150000001298
+alcohols
+Chemical class
+
+
+
+
+0.000
+description
+4
+
+
+238000004458
+analytical method
+Methods
+
+
+
+
+0.000
+description
+4
+
+
+239000000969
+carrier
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000001965
+increased
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+239000004615
+ingredient
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+propylene glycol
+Chemical compound
+
+
+CC(O)CO
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+230000002829
+reduced
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+239000007787
+solid
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+210000001519
+tissues
+Anatomy
+
+
+
+
+0.000
+description
+4
+
+
+XLOMVQKBTHCTTD-UHFFFAOYSA-N
+zinc monoxide
+Chemical compound
+
+
+[Zn]=O
+XLOMVQKBTHCTTD-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+DSSYKIVIOFKYAU-UHFFFAOYSA-N
+Camphor
+Chemical compound
+
+
+C1CC2(C)C(=O)CC1C2(C)C
+DSSYKIVIOFKYAU-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+229960000846
+Camphor
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+241000723346
+Cinnamomum camphora
+Species
+
+
+
+
+0.000
+description
+3
+
+
+206010012438
+Dermatitis atopic
+Diseases
+
+
+
+
+0.000
+description
+3
+
+
+210000004209
+Hair
+Anatomy
+
+
+
+
+0.000
+description
+3
+
+
+206010022114
+Injury
+Diseases
+
+
+
+
+0.000
+description
+3
+
+
+241000283898
+Ovis
+Species
+
+
+
+
+0.000
+description
+3
+
+
+DQKXQSGTHWVTAD-UHFFFAOYSA-N
+Pramocaine
+Chemical compound
+
+
+C1=CC(OCCCC)=CC=C1OCCCN1CCOCC1
+DQKXQSGTHWVTAD-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+NNJVILVZKWQKPM-UHFFFAOYSA-N
+Xylocaine
+Chemical compound
+
+
+CCN(CC)CC(=O)NC1=C(C)C=CC=C1C
+NNJVILVZKWQKPM-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+201000008937
+atopic dermatitis
+Diseases
+
+
+
+
+0.000
+description
+3
+
+
+239000003899
+bactericide agent
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+229930007890
+camphor
+Natural products
+
+
+
+
+0.000
+description
+3
+
+
+238000001704
+evaporation
+Methods
+
+
+
+
+0.000
+description
+3
+
+
+239000003862
+glucocorticoid
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+150000002430
+hydrocarbons
+Chemical class
+
+
+
+
+0.000
+description
+3
+
+
+229960004194
+lidocaine
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+239000011159
+matrix material
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+239000004530
+micro-emulsion
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+239000002480
+mineral oil
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+235000010446
+mineral oil
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+239000002674
+ointment
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+230000036407
+pain
+Effects
+
+
+
+
+0.000
+description
+3
+
+
+239000002245
+particle
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+229960003742
+phenol
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+235000010482
+polyoxyethylene sorbitan monooleate
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+229920000053
+polysorbate 80
+Polymers
+
+
+
+
+0.000
+description
+3
+
+
+229960001896
+pramocaine
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+229940093883
+pramoxine
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+102000004169
+proteins and genes
+Human genes
+
+
+
+
+0.000
+description
+3
+
+
+108090000623
+proteins and genes
+Proteins
+
+
+
+
+0.000
+description
+3
+
+
+230000035909
+sensory irritation
+Effects
+
+
+
+
+0.000
+description
+3
+
+
+150000003432
+sterols
+Chemical class
+
+
+
+
+0.000
+description
+3
+
+
+239000012085
+test solution
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+239000003981
+vehicle
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+230000000007
+visual effect
+Effects
+
+
+
+
+0.000
+description
+3
+
+
+239000011787
+zinc oxide
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+235000014692
+zinc oxide
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+CUNWUEBNSZSNRX-RKGWDQTMSA-N
+(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol;(Z)-octadec-9-enoic acid
+Chemical compound
+
+
+OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO.CCCCCCCC\C=C/CCCCCCCC(O)=O.CCCCCCCC\C=C/CCCCCCCC(O)=O.CCCCCCCC\C=C/CCCCCCCC(O)=O
+CUNWUEBNSZSNRX-RKGWDQTMSA-N
+0.000
+description
+2
+
+
+229960000458
+Allantoin
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000003911
+Arachis
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+240000005781
+Arachis hypogaea
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000021357
+Behenic acid
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+210000004369
+Blood
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+210000003743
+Erythrocytes
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+210000000245
+Forearm
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+206010061218
+Inflammation
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+AXISYYRBXTVTFY-UHFFFAOYSA-N
+Isopropyl myristate
+Chemical compound
+
+
+CCCCCCCCCCCCCC(=O)OC(C)C
+AXISYYRBXTVTFY-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940044591
+METHYL GLUCOSE DIOLEATE
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000004909
+Moisturizer
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+YBGZDTIWKVFICR-JLHYYAGUSA-N
+Octyl methoxycinnamate
+Chemical compound
+
+
+CCCCC(CC)COC(=O)\C=C\C1=CC=C(OC)C=C1
+YBGZDTIWKVFICR-JLHYYAGUSA-N
+0.000
+description
+2
+
+
+229920003171
+Poly (ethylene oxide)
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229940068977
+Polysorbate 20
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229920001213
+Polysorbate 20
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229940068968
+Polysorbate 80
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+QELSKZZBTMNZEB-UHFFFAOYSA-N
+Propylparaben
+Chemical compound
+
+
+CCCOC(=O)C1=CC=C(O)C=C1
+QELSKZZBTMNZEB-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940082622
+Prostaglandin cardiac therapy preparations
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940077717
+Prostaglandin drugs for peptic ulcer and gastro-oesophageal reflux disease (GORD)
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+210000003324
+RBC
+Anatomy
+
+
+
+
+0.000
+description
+2
+
+
+229960005078
+Sorbitan sesquioleate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940046009
+Vitamin E
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229930003427
+Vitamin E
+Natural products
+
+
+
+
+0.000
+description
+2
+
+
+229960001296
+Zinc Oxide
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000000853
+adhesive
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+125000000217
+alkyl group
+Chemical group
+
+
+
+
+0.000
+description
+2
+
+
+230000001387
+anti-histamine
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000000739
+antihistaminic agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229940116226
+behenic acid
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+230000015572
+biosynthetic process
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000008280
+blood
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000017531
+blood circulation
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000004359
+castor oil
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000019438
+castor oil
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+238000007385
+chemical modification
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000010634
+clove oil
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000000295
+complement
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000001010
+compromised
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000000875
+corresponding
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+ALEXXDVDDISNDU-JZYPGELDSA-N
+cortisol 21-acetate
+Chemical compound
+
+
+C1CC2=CC(=O)CC[C@]2(C)[C@@H]2[C@@H]1[C@@H]1CC[C@@](C(=O)COC(=O)C)(O)[C@@]1(C)C[C@@H]2O
+ALEXXDVDDISNDU-JZYPGELDSA-N
+0.000
+description
+2
+
+
+239000003599
+detergent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000002009
+diols
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+201000009910
+diseases by infectious agent
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+239000012153
+distilled water
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000009826
+distribution
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+229950008690
+docosanoic acid
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+230000001804
+emulsifying
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000008387
+emulsifying waxe
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000005516
+engineering process
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000000284
+extract
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000002191
+fatty alcohols
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+239000000835
+fiber
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000001914
+filtration
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+238000005755
+formation reaction
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000000417
+fungicide
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+125000005456
+glyceride group
+Chemical group
+
+
+
+
+0.000
+description
+2
+
+
+229960001067
+hydrocortisone acetate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+125000004356
+hydroxy functional group
+Chemical group
+
+
+O*
+
+0.000
+description
+2
+
+
+230000000774
+hypoallergenic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000003384
+imaging method
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000004054
+inflammatory process
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000009114
+investigational therapy
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000000865
+liniment
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000001525
+mentha piperita l. herb oil
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000010270
+methyl p-hydroxybenzoate
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000004292
+methyl p-hydroxybenzoate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229960002216
+methylparaben
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+230000001333
+moisturizer
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+229960001679
+octinoxate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940060184
+oil ingredients
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940094443
+oxytocics Prostaglandins
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000006072
+paste
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000000149
+penetrating
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+235000019477
+peppermint oil
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000002304
+perfume
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000575
+pesticide
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000256
+polyoxyethylene sorbitan monolaurate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000010486
+polyoxyethylene sorbitan monolaurate
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000000244
+polyoxyethylene sorbitan monooleate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000002203
+pretreatment
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+230000002265
+prevention
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+235000010232
+propyl p-hydroxybenzoate
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000004405
+propyl p-hydroxybenzoate
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229960003415
+propylparaben
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+150000003180
+prostaglandins
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+230000002633
+protecting
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000035945
+sensitivity
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000001953
+sensory
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000002453
+shampoo
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000007619
+statistical method
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000000725
+suspension
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+GWEVSGVZZGPLCZ-UHFFFAOYSA-N
+titan oxide
+Chemical compound
+
+
+O=[Ti]=O
+GWEVSGVZZGPLCZ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000012049
+topical pharmaceutical composition
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+230000036572
+transepidermal water loss
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+239000004034
+viscosity adjusting agent
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000011709
+vitamin E
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000019165
+vitamin E
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+150000003712
+vitamin E derivatives
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+238000005406
+washing
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+WBYWAXJHAXSJNI-VOTSOKGWSA-N
+(2E)-3-phenylprop-2-enoic acid
+Chemical class
+
+
+OC(=O)\C=C\C1=CC=CC=C1
+WBYWAXJHAXSJNI-VOTSOKGWSA-N
+0.000
+description
+1
+
+
+ADNPLDHMAVUMIW-CUZNLEPHSA-N
+(2S)-2-[[(2S)-1-[(2S)-6-amino-2-[[(2S)-1-[(2S)-2-amino-5-(diaminomethylideneamino)pentanoyl]pyrrolidine-2-carbonyl]amino]hexanoyl]pyrrolidine-2-carbonyl]amino]-N-[(2S)-5-amino-1-[[(2S)-1-[[(2S)-1-[[2-[[(2S)-1-[[(2S)-1-amino-4-methylsulfanyl-1-oxobutan-2-y
+Chemical compound
+
+
+C([C@@H](C(=O)NCC(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCSC)C(N)=O)NC(=O)[C@H](CC=1C=CC=CC=1)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H](CCC(N)=O)NC(=O)[C@H]1N(CCC1)C(=O)[C@H](CCCCN)NC(=O)[C@H]1N(CCC1)C(=O)[C@@H](N)CCCN=C(N)N)C1=CC=CC=C1
+ADNPLDHMAVUMIW-CUZNLEPHSA-N
+0.000
+description
+1
+
+
+DMBUODUULYCPAK-UHFFFAOYSA-N
+1,3-bis(docosanoyloxy)propan-2-yl docosanoate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCCCCCC(=O)OCC(OC(=O)CCCCCCCCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCCCCCCCCCC
+DMBUODUULYCPAK-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+ZAUYNCUCMJDAHW-UHFFFAOYSA-N
+1-ethenylpyrrolidin-2-one;hydrogen peroxide;molecular iodine
+Chemical compound
+
+
+OO.II.C=CN1CCCC1=O
+ZAUYNCUCMJDAHW-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+WXZMFSXDPGVJKK-UHFFFAOYSA-N
+2,2-bis(hydroxymethyl)propane-1,3-diol
+Chemical compound
+
+
+OCC(CO)(CO)CO
+WXZMFSXDPGVJKK-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+UCYLROVJSUACAD-UHFFFAOYSA-N
+2-[2,3-bis(2-hydroxyethoxy)propoxy]ethanol
+Chemical compound
+
+
+OCCOCC(OCCO)COCCO
+UCYLROVJSUACAD-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+XMFXBMLFOSSELI-UHFFFAOYSA-N
+2-octyldodecyl 12-octadecanoyloxyoctadecanoate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OC(CCCCCC)CCCCCCCCCCC(=O)OCC(CCCCCCCC)CCCCCCCCCC
+XMFXBMLFOSSELI-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+HXVCOQUDJKMJQY-UHFFFAOYSA-N
+2-octyldodecyl octadecanoate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OCC(CCCCCCCC)CCCCCCCCCC
+HXVCOQUDJKMJQY-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+ALYNCZNDIQEVRV-UHFFFAOYSA-N
+4-Aminobenzoic acid
+Chemical class
+
+
+NC1=CC=C(C(O)=O)C=C1
+ALYNCZNDIQEVRV-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+CWSZBVAUYPTXTG-UHFFFAOYSA-N
+5-[6-[[3,4-dihydroxy-6-(hydroxymethyl)-5-methoxyoxan-2-yl]oxymethyl]-3,4-dihydroxy-5-[4-hydroxy-3-(2-hydroxyethoxy)-6-(hydroxymethyl)-5-methoxyoxan-2-yl]oxyoxan-2-yl]oxy-6-(hydroxymethyl)-2-methyloxane-3,4-diol
+Chemical compound
+
+
+O1C(CO)C(OC)C(O)C(O)C1OCC1C(OC2C(C(O)C(OC)C(CO)O2)OCCO)C(O)C(O)C(OC2C(OC(C)C(O)C2O)CO)O1
+CWSZBVAUYPTXTG-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940035676
+ANALGESICS
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940116904
+ANTIINFLAMMATORY THERAPEUTIC RADIOPHARMACEUTICALS
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940061720
+Alpha Hydroxy Acids
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+244000144725
+Amygdalus communis
+Species
+
+
+
+
+0.000
+description
+1
+
+
+235000011437
+Amygdalus communis
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940031955
+Anhydrous lanolin
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+206010003071
+Aquagenic pruritus
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+XNEFYCZVKIDDMS-UHFFFAOYSA-N
+Avobenzone
+Chemical compound
+
+
+C1=CC(OC)=CC=C1C(=O)CC(=O)C1=CC=C(C(C)(C)C)C=C1
+XNEFYCZVKIDDMS-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+206010004146
+Basal cell carcinoma
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+208000003373
+Basosquamous Carcinoma
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+229960000686
+Benzalkonium Chloride
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+QFOHBWFCKVYLES-UHFFFAOYSA-N
+Butylparaben
+Chemical compound
+
+
+CCCCOC(=O)C1=CC=C(O)C=C1
+QFOHBWFCKVYLES-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940105847
+Calamine
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940073532
+Candelilla Wax
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+241000283707
+Capra
+Species
+
+
+
+
+0.000
+description
+1
+
+
+229960001631
+Carbomer
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229960002152
+Chlorhexidine Acetate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+KXKPYJOVDUMHGS-OSRGNVMNSA-N
+Chondroitin sulfate
+Chemical compound
+
+
+CC(=O)N[C@H]1[C@H](O)O[C@H](OS(O)(=O)=O)[C@H](O)[C@@H]1O[C@H]1[C@H](O)[C@@H](O)[C@H](O)[C@@H](C(O)=O)O1
+KXKPYJOVDUMHGS-OSRGNVMNSA-N
+0.000
+description
+1
+
+
+SNPLKNRPJHDVJA-ZETCQYMHSA-N
+D-panthenol
+Chemical compound
+
+
+OCC(C)(C)[C@@H](O)C(=O)NCCCO
+SNPLKNRPJHDVJA-ZETCQYMHSA-N
+0.000
+description
+1
+
+
+239000011703
+D-panthenol
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000004866
+D-panthenol
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+ZDQWESQEGGJUCH-UHFFFAOYSA-N
+Diisopropyl adipate
+Chemical compound
+
+
+CC(C)OC(=O)CCCCC(=O)OC(C)C
+ZDQWESQEGGJUCH-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+LQZZUXJYWNFBMV-UHFFFAOYSA-N
+Dodecanol
+Chemical class
+
+
+CCCCCCCCCCCCO
+LQZZUXJYWNFBMV-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+102000004190
+Enzymes
+Human genes
+
+
+
+
+0.000
+description
+1
+
+
+108090000790
+Enzymes
+Proteins
+
+
+
+
+0.000
+description
+1
+
+
+206010015150
+Erythema
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+GHXZTYHSJHQHIJ-UHFFFAOYSA-N
+Exidine
+Chemical compound
+
+
+C=1C=C(Cl)C=CC=1NC(N)=NC(N)=NCCCCCCN=C(N)N=C(N)NC1=CC=C(Cl)C=C1
+GHXZTYHSJHQHIJ-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940065521
+Glucocorticoid inhalants for obstructive airway disease
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+IUJAMGNYPWYUPM-UHFFFAOYSA-N
+Hentriacontane
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+IUJAMGNYPWYUPM-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+WSSJONWNBBTCMG-UHFFFAOYSA-N
+Homosalate
+Chemical compound
+
+
+C1C(C)(C)CC(C)CC1OC(=O)C1=CC=CC=C1O
+WSSJONWNBBTCMG-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000004354
+Hydroxyethyl cellulose
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229920000663
+Hydroxyethyl cellulose
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+210000000987
+Immune System
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+102000002397
+Kinins
+Human genes
+
+
+
+
+0.000
+description
+1
+
+
+108010093008
+Kinins
+Proteins
+
+
+
+
+0.000
+description
+1
+
+
+229950006462
+Lauromacrogol 400
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+206010025650
+Malignant melanoma
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+210000000138
+Mast Cells
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+229920000715
+Mucilage
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+210000000929
+Nociceptors
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+229940074726
+OPHTHALMOLOGIC ANTIINFLAMMATORY AGENTS
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229960003921
+Octisalate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+DXGLGDHPHMLXJC-UHFFFAOYSA-N
+Oxybenzone
+Chemical compound
+
+
+OC1=CC(OC)=CC=C1C(=O)C1=CC=CC=C1
+DXGLGDHPHMLXJC-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940100460
+PEG-100 Stearate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+WYWZRNAHINYAEF-UHFFFAOYSA-N
+Padimate O
+Chemical compound
+
+
+CCCCC(CC)COC(=O)C1=CC=C(N(C)C)C=C1
+WYWZRNAHINYAEF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+QCDWFXQBSFUVSP-UHFFFAOYSA-N
+Phenoxyethanol
+Chemical compound
+
+
+OCCOC1=CC=CC=C1
+QCDWFXQBSFUVSP-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229960005323
+Phenoxyethanol
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+210000001732
+Sebaceous Glands
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+206010039986
+Senile pruritus
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+229940010747
+Sodium Hyaluronate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940005581
+Sodium Lactate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229920002385
+Sodium hyaluronate
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+NGSFWBMYFKHRBD-UHFFFAOYSA-M
+Sodium lactate
+Chemical compound
+
+
+[Na+].CC(O)C([O-])=O
+NGSFWBMYFKHRBD-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+229940075582
+Sorbic Acid
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+238000000692
+Student's t-test
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+CXVGEDCSTKKODG-UHFFFAOYSA-N
+Sulisobenzone
+Chemical compound
+
+
+C1=C(S(O)(=O)=O)C(OC)=CC(O)=C1C(=O)C1=CC=CC=C1
+CXVGEDCSTKKODG-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+206010042496
+Sunburn
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+229940037128
+Systemic Glucocorticoids
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+102100002996
+TAC1
+Human genes
+
+
+
+
+0.000
+description
+1
+
+
+101700065588
+TAC1
+Proteins
+
+
+
+
+0.000
+description
+1
+
+
+229940098780
+TRIBEHENIN
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+206010068760
+Ulcers
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+206010046736
+Urticarias
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+229940029983
+VITAMINS
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940021016
+Vitamin IV solution additives
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+206010048222
+Xerosis
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+240000008042
+Zea mays
+Species
+
+
+
+
+0.000
+description
+1
+
+
+235000002017
+Zea mays subsp mays
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+SZYSLWCAWVWFLT-UTGHZIEOSA-N
+[(2S,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)-2-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxolan-2-yl]methyl octadecanoate
+Chemical compound
+
+
+O([C@@H]1[C@@H]([C@@H](O)[C@H](O)[C@@H](CO)O1)O)[C@]1(COC(=O)CCCCCCCCCCCCCCCCC)O[C@H](CO)[C@@H](O)[C@@H]1O
+SZYSLWCAWVWFLT-UTGHZIEOSA-N
+0.000
+description
+1
+
+
+230000002378
+acidificating
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+acrylic acid
+Chemical compound
+
+
+OC(=O)C=C
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+230000001070
+adhesive
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000000443
+aerosol
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+125000001931
+aliphatic group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+238000005904
+alkaline hydrolysis reaction
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+230000002009
+allergen
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+235000020224
+almond
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+150000001280
+alpha hydroxy acids
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+230000000202
+analgesic
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000003945
+anionic surfactant
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000000730
+antalgic agent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000000844
+anti-bacterial
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000002260
+anti-inflammatory agent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000002421
+anti-septic
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+230000003078
+antioxidant
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+235000013871
+bee wax
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000012166
+beeswax
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+WPYMKLBDIGXBTP-UHFFFAOYSA-M
+benzoate
+Chemical compound
+
+
+[O-]C(=O)C1=CC=CC=C1
+WPYMKLBDIGXBTP-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+230000031018
+biological processes and functions
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+230000005540
+biological transmission
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000004061
+bleaching
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+229940067596
+butylparaben
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000004204
+candelilla wax
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000013868
+candelilla wax
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+125000004432
+carbon atoms
+Chemical group
+
+
+C*
+
+0.000
+description
+1
+
+
+239000003054
+catalyst
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000003093
+cationic surfactant
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000012185
+ceresin wax
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229940074979
+cetyl palmitate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+230000005591
+charge neutralization
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000002738
+chelating agent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+238000002512
+chemotherapy
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+238000004587
+chromatography analysis
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+238000004040
+coloring
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+238000009833
+condensation
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+230000005494
+condensation
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+230000003750
+conditioning
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000000356
+contaminant
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+238000011109
+contamination
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+230000001276
+controlling effect
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000007796
+conventional method
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+239000002826
+coolant
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000005822
+corn
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+235000005824
+corn
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940086555
+cyclomethicone
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+238000000354
+decomposition reaction
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+230000002939
+deleterious
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000009795
+derivation
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+201000004624
+dermatitis
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+230000005857
+detection of stimulus
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000011161
+development
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+230000018109
+developmental process
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+229940031578
+diisopropyl adipate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000002270
+dispersing agent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000006185
+dispersion
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000002552
+dosage form
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+238000001035
+drying
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+230000002500
+effect on skin
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000004945
+emulsification
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+150000002118
+epoxides
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+231100000321
+erythema
+Toxicity
+
+
+
+
+0.000
+description
+1
+
+
+150000002170
+ethers
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+238000002474
+experimental method
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+239000012467
+final product
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000006260
+foam
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+238000001640
+fractional crystallisation
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+239000000499
+gel
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000003193
+general anesthetic agent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+150000002314
+glycerols
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+229940075529
+glyceryl stearate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+glycol
+Chemical compound
+
+
+OCCO
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+125000003827
+glycol group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+239000008187
+granular material
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000036074
+healthy skin
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000010438
+heat treatment
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+229910052864
+hemimorphite
+Inorganic materials
+
+
+
+
+0.000
+description
+1
+
+
+ZUVCYFMOHFTGDM-UHFFFAOYSA-L
+hexadecyl phosphate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCOP([O-])([O-])=O
+ZUVCYFMOHFTGDM-UHFFFAOYSA-L
+0.000
+description
+1
+
+
+239000000413
+hydrolysate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+238000006460
+hydrolysis reaction
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+125000002887
+hydroxy group
+Chemical group
+
+
+[H]O*
+
+0.000
+description
+1
+
+
+235000019447
+hydroxyethyl cellulose
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+230000028993
+immune response
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000012535
+impurity
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+238000002347
+injection
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+239000007924
+injection
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229910010272
+inorganic material
+Inorganic materials
+
+
+
+
+0.000
+description
+1
+
+
+239000011147
+inorganic material
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000003522
+irritant
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+231100000021
+irritant
+Toxicity
+
+
+
+
+0.000
+description
+1
+
+
+125000001449
+isopropyl group
+Chemical group
+
+
+[H]C([H])([H])C([H])(*)C([H])([H])[H]
+
+0.000
+description
+1
+
+
+229940074928
+isopropyl myristate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+JVTAAEKCZFNVCJ-UHFFFAOYSA-N
+lactic acid
+Chemical compound
+
+
+CC(O)C(O)=O
+JVTAAEKCZFNVCJ-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000004310
+lactic acid
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000014655
+lactic acid
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+230000000670
+limiting
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000002502
+liposome
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229940057995
+liquid paraffin
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+230000000873
+masking
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+201000001441
+melanoma
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+238000002844
+melting
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+238000001690
+micro-dialysis
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+238000002156
+mixing
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+238000000199
+molecular distillation
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+229920001206
+natural gum
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+210000002569
+neurons
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+238000006386
+neutralization reaction
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+PVNIIMVLHYAWGP-UHFFFAOYSA-N
+nicotinic acid
+Chemical class
+
+
+OC(=O)C1=CC=CN=C1
+PVNIIMVLHYAWGP-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000002736
+nonionic surfactant
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+ZHALDANPYXAMJF-UHFFFAOYSA-N
+octadecanoate;tris(2-hydroxyethyl)azanium
+Chemical compound
+
+
+OCC[NH+](CCO)CCO.CCCCCCCCCCCCCCCCCC([O-])=O
+ZHALDANPYXAMJF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+WWZKQHOCKIZLMA-UHFFFAOYSA-M
+octanoate
+Chemical compound
+
+
+CCCCCCCC([O-])=O
+WWZKQHOCKIZLMA-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+WCJLCOAEJIHPCW-UHFFFAOYSA-N
+octyl 2-hydroxybenzoate
+Chemical compound
+
+
+CCCCCCCCOC(=O)C1=CC=CC=C1O
+WCJLCOAEJIHPCW-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000004006
+olive oil
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000008390
+olive oil
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229960001173
+oxybenzone
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000003002
+pH adjusting agent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+PXDJXZJSCPSGGI-UHFFFAOYSA-N
+palmityl palmitate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCOC(=O)CCCCCCCCCCCCCCC
+PXDJXZJSCPSGGI-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+230000003071
+parasitic
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+230000036961
+partial
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000003961
+penetration enhancing agent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000000546
+pharmaceutic aid
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000008194
+pharmaceutical composition
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+238000005020
+pharmaceutical industry
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+229920001888
+polyacrylic acid
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+229920000570
+polyether
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+230000003389
+potentiating
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+102000004196
+processed proteins & peptides
+Human genes
+
+
+
+
+0.000
+description
+1
+
+
+108090000765
+processed proteins & peptides
+Proteins
+
+
+
+
+0.000
+description
+1
+
+
+BFZNCPXNOGIELB-UHFFFAOYSA-N
+propan-2-yl 10-[5,6-dihexyl-2-(8-oxo-8-propan-2-yloxyoctyl)cyclohex-3-en-1-yl]dec-9-enoate
+Chemical compound
+
+
+CCCCCCC1C=CC(CCCCCCCC(=O)OC(C)C)C(C=CCCCCCCCC(=O)OC(C)C)C1CCCCCC
+BFZNCPXNOGIELB-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+230000001681
+protective
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+230000001823
+pruritic
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+230000001185
+psoriatic
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000000746
+purification
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+VBICKXHEKHSIBG-UHFFFAOYSA-N
+rac-1-monostearoylglycerol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OCC(O)CO
+VBICKXHEKHSIBG-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+238000001959
+radiotherapy
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+239000002994
+raw material
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000011514
+reflex
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000011160
+research
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+150000003839
+salts
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+230000028327
+secretion
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+235000019578
+sensation perception
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+201000000849
+skin cancer
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+230000037067
+skin hydration
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000011780
+sodium chloride
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000001540
+sodium lactate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000011088
+sodium lactate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+MAKUBRYLFHZREJ-JWBQXVCJSA-M
+sodium;(2S,3S,4R,5R,6R)-3-[(2S,3R,5S,6R)-3-acetamido-5-hydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4,5,6-trihydroxyoxane-2-carboxylate
+Chemical compound
+
+
+[Na+].CC(=O)N[C@@H]1C[C@H](O)[C@@H](CO)O[C@H]1O[C@@H]1[C@@H](C([O-])=O)O[C@@H](O)[C@H](O)[C@H]1O
+MAKUBRYLFHZREJ-JWBQXVCJSA-M
+0.000
+description
+1
+
+
+238000000638
+solvent extraction
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+235000010199
+sorbic acid
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000004334
+sorbic acid
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+WSWCOQWTEOXDQX-UHFFFAOYSA-N
+sorbic acid
+Chemical compound
+
+
+CC=CC=CC(O)=O
+WSWCOQWTEOXDQX-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+241000894007
+species
+Species
+
+
+
+
+0.000
+description
+1
+
+
+239000007921
+spray
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+150000003431
+steroids
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+210000000434
+stratum corneum
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+NINIDFKCEFEMDL-UHFFFAOYSA-N
+sulfur
+Chemical compound
+
+
+[S]
+NINIDFKCEFEMDL-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229960000368
+sulisobenzone
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+230000037072
+sun protection
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000000829
+suppository
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000000375
+suspending agent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000002195
+synergetic
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000002560
+therapeutic procedure
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+239000004408
+titanium dioxide
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229960005196
+titanium dioxide
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+238000006276
+transfer reaction
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+150000003626
+triacylglycerols
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+229940029614
+triethanolamine stearate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+231100000397
+ulcer
+Toxicity
+
+
+
+
+0.000
+description
+1
+
+
+235000015112
+vegetable and seed oil
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000008158
+vegetable oil
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000013343
+vitamin
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000011782
+vitamin
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229930003231
+vitamins
+Natural products
+
+
+
+
+0.000
+description
+1
+
+
+238000004078
+waterproofing
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+200000000019
+wound
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+231100001002
+xerosis
+Toxicity
+
+
+
+
+0.000
+description
+1
+
+
+CPYIZQLXMGRKSW-UHFFFAOYSA-N
+zinc;iron(3+);oxygen(2-)
+Chemical compound
+
+
+[O-2].[O-2].[O-2].[O-2].[Fe+3].[Fe+3].[Zn+2]
+CPYIZQLXMGRKSW-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+
+Classifications
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K31/00—Medicinal preparations containing organic active ingredients
+
+
+A61K31/74—Synthetic polymeric materials
+
+
+A61K31/765—Polymers containing oxygen
+
+
+A61K31/77—Polymers containing oxygen of oxiranes
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/92—Oils, fats or waxes; Derivatives thereof, e.g. hydrogenation products thereof
+
+
+A61K8/925—Oils, fats or waxes; Derivatives thereof, e.g. hydrogenation products thereof of animal origin
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61P—SPECIFIC THERAPEUTIC ACTIVITY OF CHEMICAL COMPOUNDS OR MEDICINAL PREPARATIONS
+
+
+A61P17/00—Drugs for dermatological disorders
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C07—ORGANIC CHEMISTRY
+
+
+C07C—ACYCLIC OR CARBOCYCLIC COMPOUNDS
+
+
+C07C43/00—Ethers; Compounds having groups, groups or groups
+
+
+C07C43/02—Ethers
+
+
+C07C43/03—Ethers having all ether-oxygen atoms bound to acyclic carbon atoms
+
+
+C07C43/04—Saturated ethers
+
+
+C07C43/10—Saturated ethers of polyhydroxy compounds
+
+
+C07C43/11—Polyethers containing âOâ(CâCâOâ)n units with â¤ 2 nâ¤ 10
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C11—ANIMAL OR VEGETABLE OILS, FATS, FATTY SUBSTANCES OR WAXES; FATTY ACIDS THEREFROM; DETERGENTS; CANDLES
+
+
+C11C—FATTY ACIDS FROM FATS, OILS OR WAXES; CANDLES; FATS, OILS OR FATTY ACIDS BY CHEMICAL MODIFICATION OF FATS, OILS, OR FATTY ACIDS OBTAINED THEREFROM
+
+
+C11C3/00—Fats, oils, or fatty acids by chemical modification of fats, oils, or fatty acids obtained therefrom
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/74—Biological properties of particular ingredients
+
+
+A61K2800/75—Anti-irritant
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q17/00—Barrier preparations; Preparations brought into direct contact with the skin for affording protection against external influences, e.g. sunlight, X-rays or other harmful rays, corrosive materials, bacteria or insect stings
+
+
+
+
+
+
+
+
+Abstract
+
+According to a first aspect of the present invention there is provided novel antipruritic agents comprising PEG-9 or PPG-9 lanolin derivative formed by derivatisation of lanolin or a lanolin derivative with 9 molar equivalents of ethylene oxide or propylene oxide respectively or the equivalent polyethylene glycol or polypropylene glycol.
+
+
+
+
+Description
+
+ ALKOXYLATED LANOLIN DERIVATIVES AND COMPOSITIONS THEREWITH
+Field of the Invention
+The present invention relates to antipruritic compositions comprising alkoxylated and in particular ethoxylated lanolin and/or alkoxylated and in particular ethoxyiated lanolin derivatives as the antipruritic agent, and to methods of manufacturing such compositions. The invention further relates to the use of these compositions for treating parts of the mammalian body, particularly the skin.
+Background to the Invention
+Lanolin (wool wax) is the naturally occurring protective lipid found on the wool of sheep. Chemically, lanolin is a complex mixture of waxy esters, alcohols, acids and hydrocarbons. Lanolin has been shown to possess a high degree of similarity to human stratum corneum lipids, the lipids responsible for controlling trans-epidermal water loss (TEWL) and subsequent skin hydration levels.
+Wool wax is a true wax in the chemical sense, there being no glycerides present, but rather it comprises a highly complex mixture of esters of fatty alcohols with fatty acids, both of which are of several different types and covering a wide range of molecular weight. A typical composition of pharmaceutical grade lanolin comprises, by weight:
+
+
+
+Much of the lanolin now produced is used within the industry for derivatisation.
+To date, the most important derivatives include the lanolin alcohols (the unsaponifiable fraction of lanolin) and lanolin oil (the liquid ester fraction of lanolin). Both of these are used extensively in cosmetics and toiletries; lanolin alcohols are also important in the pharmaceutical industry.
+Lanolin is known to possess excellent emollient properties, which has resulted in its widespread inclusion in topical products over many years. In addition to this use, a 
+
+large quantity of lanolin produced worldwide each year is used as a starting material for the production of lanolin derivatives. For example, lanolin and certain lanolin derivatives, as examples of lipid materials, are well known for their unique blend of emollient, moisture retentive and skin penetrating properties, particularly in compositions such as cosmetics and medicaments for treatment of the skin and other parts of the body. The chemical constitution of lanolin and its useful properties are discussed for example in European Patent Application EP-A-0602961. Examples of lanolin-containing compositions in the form of oil-in-water emulsions for cosmetic and other applications are disclosed for instance in GB-A-1530064 and US-A-3666857. The text of these three patent documents are hereby incorporated by reference and are intended to form an integral part of he present disclosure.
+One class of lanolin derivatives that is well known is the aikoxylates, predominantly ethoxylates and propyloxylates. Lanolin, like many other lipids, can be rendered water-soluble / dispersible by ethoxylation and alcohol soluble / dispersible by propoxylation.
+Lanolin ethoxylates may be prepared by reacting lanolin (or a suitable lanolin derivative) with gaseous ethylene oxide (under alkaline conditions) to form the corresponding polyoxyethylene derivative. Similar reaction conditions are used in the manufacture of lanolin propoxylates. Other known methods of manufacture of ethoxylates include the direct condensation of the lipid with a polyethylene glycol chain of suitable chain length.
+Ethoxylated lanolin derivatives are well known for their non-ionic emulsifying, solubilising and foam boosting properties, which makes them ideal for use in topical skin care formulations such as creams, lotions, shampoos and conditioners etc. To date, however, there has been no suggestion that such derivatives, particularly the 9- mole ethoxylated derivatives, would exert anti-pruritic effects.
+Itch (pruritus) is a widespread and complex phenomenon. Itch is a major symptom of many dermatological conditions, for example, atopic eczema, urticaria, xerosis, senile pruritus etc. In addition to the incidence, prevalence and frequency of itch in 'compromised' skin conditions such as atopic dermatitis, itch is also often prevalent in apparently healthy skin, for example, the itch associated with sunburn or after contact with water (aquagenic pruritus). 
+
+ A wide array of mediators has thus far been identified or implicated in the transmission of itch, for example histamine, prostaglandins, substance P, other peptides and proteins etc.
+A number of compositions have been reported to relieve itching. These include those compositions described in US4, 797,402 (Dorsey) containing a mixture of corticosteroid, peppermint oil and urea, those in US5,961 ,997 (Swinehart) containing a mixture of camphor, menthol and phenol, and those in US6,248,763 (Scivoletto) containing nicotinic acid derivatives. Such mixtures may be lanolin-free or may contain lanolin or lanolin-derived materials but it is clear in the context of those disclosures that any lanolin component is included for its properties as an emollient or surfactant, not because it reduces itch per se.
+Other instances of lanolin derivatives in topical formulations include
+DE2247759A (Innothera) which describes a mixture of materials as a cosmetic cleansing agent and as a pharmaceutical excipient. However, it specifically states that the lanolin/ethylene oxide condensate is acylated before use. US5,492,698 (LTS
+Lohmann Therapie-Systeme GmbH) describes formulations which are designed to increase the transdermal permeation of biolofically active substances. Whilst these formulations contain polyethyleneglycol ethers of lanolin derivatives, none of these derivatives are of lanolin itself. And there is no mention that the formulations may be useful in itch.
+Emulsifiers for cosmetic purposes are described in US4,600,539 (Briersdorf). In this case wool wax acid glycerol esters are subjected to ethoxylation, rather than lanolin itself. Surfactants comprising ethoxylated lanolin have been used from time to time in anti-itch preparations such as in US4, 797,402 (Dorsey). However, it is clear from this disclosure that the anti-itch component is a non-lanolin derived compound such as a corticosteroid, peppermint oil or urea.
+None of the above prior art recognises that PEG-lanolin derivatives have antipruritic activity, nor do they recognise that such PEG-lanolin derivatives might have such a property.
+Summary of the Invention
+The aim of this invention is to combine the beneficial lipid properties of lanolin and/or one of its many derivatives such as lanolin alcohols, lanolin acids, hydrogenated 
+
+lanolin etc with polyethers such as 9-moles of polyethylene glycol (PEG) to produce hitherto unknown compounds possessing anti-pruritic activity.
+A high-purity grade of lanolin, clinically proven to be hypoallergenic and acceptable for use on compromised skin conditions, is preferred as a starting material, for example, one chosen from the Medilanâ¢ range (Croda Chemicals Europe Ltd) but lanolin alcohols, lanolin acids, hydrogenated lanolin, may also be used as a starting material.
+The compositions of the invention may also find use in other industrial, agricultural, veterinary and/or domestic applications. Wool wax or purified lanolin (lanolin purified to varying levels of removed impurities such as allergens and pesticides) may be used as a lanolin starting component. Such lanolin for use in the invention may be hydrous or, more preferably, anhydrous. Physically or chemically obtained lanolin derivatives suitable for use as starting materials in the present invention may include for example lanolin oil, lanolin alcohols, lanolin esters (eg isopropyl lanolate) and hydrogenated lanolin. Suitable examples of these lanolin and lanolin-derived materials are readily available commercially and their derivation and/or preparation is widely documented in the patent and technical literature.
+According to a first aspect of the present invention there is provided novel antipruritic agents comprising a PEG-9 or PPG-9 lanolin derivative formed by derivatisation of lanolin or a lanolin derivative with 9 molar equivalents of ethylene oxide or propylene oxide respectively or with the equivalent polyethylene glycol or polypropylene glycol.
+Preferably the lanolin component comprises MEDILAN (RTM). In an alternative embodiment the lanolin component comprises lanolin alcohols and in particular SUPER HARTOLAN (RTM).
+Alternatively the lanolin component comprises hydrogenated lanolin, preferably SATULAN (RTM).
+According to a second aspect of the invention there is provided a PEG-9 derivative of MEDILAN(RTM).
+According to a further aspect of the present invention there is provided a chemical composition for treatment of itch, said composition comprising as active antipruritic agent alkoxylated lanolin or an alkoxylated lanolin derivative. 
+
+ Preferably the active antipruritic agent comprises an ethoxylated lanolin or an ethoxyiated lanolin derivative, more preferably a PEG-# lanolin or a PEG-# derivative of a lanolin derivative wherein # is an integer between 1 and 30.
+Advantageously # is an integer between 1 and 20, and more preferably # is an integer between 1 and 15.
+In a particularly preferred embodiment # is 9.
+Alternatively the active antipruritic agent may comprise propoxylated lanolin or a propoxylated lanolin derivative, more preferably a PPG-# lanolin or a PPG-# derivative of a lanolin derivative wherein # is an integer between 1 and 30. Advantageously # has the integer values described above.
+In a particularly preferred embodiment the alkoxylated lanolin comprises a PEG-9 derivative of MEDILAN (RTM), available from Croda Health Care UK.
+Alternatively the alkoxylated lanolin derivative comprises a PEG-9 derivative of lanolin alcohols and in particular a PEG-9 derivative of SUPER HARTOLAN (RTM) available from Croda Health Care UK.
+In a further alternative embodiment the alkoxylated lanolin derivative comprises a PEG-9 derivative of hydrogenated lanolin and in particular a PEG-9 derivative of SATULAN (RTM), available from Croda Health Care UK.
+Preferably said composition further comprises at least one member selected from the group consisting of:-
+(a) antiperspirant active ingredients;
+(b) fragrances;
+(c) anti-infective agents;
+(d) anti-irritants; (e) emollients;
+(f) surfactants;
+(g) corticosteroids; (h) preservatives; (i) opacifiers; (j) sunscreens;
+(k) soaps; and
+(i) gelling agents
+(j) penetration enhancers 
+
+(k) anti-inflammatory products (I) pigments (m) moisturisers (n) emulsifiers (o) humectants (p) anti-oxidants (q) barrier repair agents
+(r) skin-similar lipids (eg ceramides, cholesterol, fatty acids etc) (s) urea (t) other anti-pruritic agents (u) film-forming agents.
+Preferably the amount of alkoxylated lanolin or alkoxylated lanolin derivative in the composition is in the range 0.05% to 40% and preferably in the range 0.5% to 15% by weight based on the total weight of the composition. According to a further aspect of the invention there is provided a PEG-# or a
+PPG-# lanolin derivative formed by derivatisation of lanolin or a lanolin derivative with # molar equivalents of ethylene oxide or propylene oxide respectively or the equivalent polyethylene glycol or polypropylene glycol when used as an antipruritic agent in a composition intended for application to the skin to reduce itch. Preferably # is an integer between 1 and 30.
+Preferably # is an integer between 1 and 20.
+Preferably # is an integer between 5 and 15.
+More preferably # is 9.
+Preferably said lanolin component comprises MEDILAN (RTM). Preferably said derivative comprises PEG-9 MEDILAN (RTM).
+In an alternative preferred embodiment said lanolin component comprises lanolin alcohols.
+Preferably said lanolin component comprises SUPER HARTOLAN (RTM).
+Alternatively said lanolin component comprises hydrogenated lanolin, and preferably SATULAN (RTM).
+According to a further aspect of the invention there is provided use of an alkoxylated lanolin or an alkoxylated derivative of a lanolin derivative as an antipruritic agent in the manufacture of a medicament for the treatment of itch. 
+
+ Preferably said antipruritic agent comprises an ethoxylated lanolin or an ethoxylated lanolin derivative.
+In a particularly preferred embodiment said antipruritic agent comprises PEG-# lanolin or a PEG-# derivative of a lanolin derivative where # is an integer between 1 and 30.
+Advantageously # is an integer between 1 and 20 and preferably # is an integer between 1 and 15.
+In a particularly preferred embodiment # is 9.
+In a further preference the antipruritic agent comprises a PEG-9 derivative of MEDILAN (RTM).
+Alternatively the alkoxylated lanolin derivative comprises a PEG-9 derivative of lanolin alcohols and in particular a PEG-9 derivative of SUPER HARTOLAN (RTM).
+Alternatively the alkoxylated lanolin derivative comprises a PEG-9 derivative of hydrogenated lanolin, and in particular a PEG-9 derivative of SATULAN (RTM). Alternatively said antipruritic agent comprises a propoxylated lanolin or a propoxylated derivative of a lanolin derivative, more preferably a PPG-# lanolin or a PPG-# derivative of a lanolin derivative wherein # is an integer between 1 and 30. Advantageously # has the integer values described above.
+In a particularly preferred embodiment of this use said antipruritic agent comprises a PPG-9 derivative of MEDILAN (RTM).
+In preferred embodiments said antipruritic agent comprises a PPG-9 derivative of lanolin alcohols, and in particular a PPG-9 derivative of SUPER HARTOLAN (RTM); or a PPG-9 derivative of hydrogenated lanolin and in particular a PPG-9 derivative of SATULAN (RTM). Said medicament may further comprise at least one member selected from the group consisting of:-
+(a) antiperspirant active ingredients;
+(b) fragrances;
+(c) anti-infective agents; (d) anti-irritants;
+(e) emollients;
+(f) surfactants;
+(g) corticosteroids; 
+
+(h) preservatives;
+(i) opacifiers;
+G) sunscreens;
+(k) soaps; and (i) gelling agents
+(j) penetration enhancers
+(k) anti-inflammatory products
+(I) pigments
+(m) moisturisers (n) emulsifiers
+(o) humectants
+(p) anti-oxidants
+(q) barrier repair agents
+(r) skin-similar lipids (eg ceramides, cholesterol, fatty acids etc) (s) urea
+(t) other anti-pruritic agents
+(u) film-forming agents.
+Preferably the amount of alkoxylated lanolin or alkoxylated lanolin derivative in the composition is in the range 0.05% to 40% and preferably in the range 0.5% to 10% by weight based on the total weight of the composition.
+According to a further aspect of the present invention there is provided use of alkoxylated lanolin or an alkoxylated lanolin derivative as an antipruritic agent in the treatment of itch. In many, if not all, cases itch is not an ailment requiring therapy.
+Rather it is a cosmetic condition, usually of the skin. In such use the lanolin component preferably comprises a PEG-# lanolin or a
+PEG-# derivative of a lanolin derivative where # is an integer between 1 and 25, and wherein # preferably has the integer values described above.
+It is particularly preferred that the antipruritic agent comprises at least one member selected from the list comprising:- (i) PEG-9 MEDILAN (RTM).
+(ii) PEG-9 SUPER HARTOLAN (RTM)
+(iii) PEG-9 SATULAN (RTM). 
+
+ It will be appreciated that the present invention also encompasses methods of treating pruritic skin comprising the application of an effective amount of one or more of the compositions as claimed herein to the skin. It also extends to include methods of manufacturing those compositions. It will be apparent to those skilled in the art that for a particular integer value of
+# there will be a gaussian or gaussian-type of distribution of alkoxylated derivatives around the integer value #. That is to say, for example, PEG 9 Medilan will inevitably contain some PEG 11 and PEG 8 derivatives. Conversely, a PEG 10 or PEG 11 derivative of lanolin or of a lanolin derivative will inevitably contain some of the corresponding PEG 9 derivative. This is an inevitable consequence of reacting the lanolin starting material with a # molar amount of ethylene oxide or other epoxide. This reaction, or rather complex series of reactions, is discussed in more detail below.
+When interpreting the claims of the present invention, and hence the scope of the present invention, this gaussian distribution must be born in mind.
+Detailed Description of the Invention and Preferred Embodiments
+Lanolins
+The wool and skin of sheep are protected and lubricated by Wool Wax which is an oily secretion of ovine sebaceous glands. Shorn wool is subjected to a washing process, known as woolscouring, and this provides woolgrease which is the raw material, from which lanolin is refined. Therefore, lanolin is a natural, animal harvested material.
+The processes employed in conventional lanolin refining (neutralisation, washing, bleaching, active earth treatment) are designed to remove particulate matter, free lanolin acids, colouring species and detergent residues and are sufficient to produce a product which conforms to the requirements of the lanolin monographs to be found in pharmacopoeia.
+However, woolgrease contains pesticide residues as a result of sheep being
+"dipped" to protect them against parasitic attack. These pesticide residues are highly lipophilic and, consequently, persist throughout the stages of conventional lanolin refining. Additional processing is required if lanolin is to be purified into a low-pesticide grade. 
+
+ The PhEur monograph for lanolin is entitled "Wool Fat". However, this is misleading as lanolin contains no glycerides. The major components of the lanolin matrix are esters and hydroxyesters consisting of straight- and branched-chain acids and hydroxyl-acids combined with straight- and branched-chain aliphatic alcohols, diols, sterols and trimethylsterols. Therefore, lanolin is properly considered to be a wax. The natural complexity of this mixture is such that the theoretical number of mono-ester combinations alone is estimated to exceed 10,000. The lanolin matrix also contains di- esters, free lanolin alcohols and low levels of free lanolin acids and lanolin hydrocarbons. Liquid lanolin is a physical derivative which is obtained by means of a fractional crystallisation process. As the name suggests, it is a fraction of the lanolin matrix which is liquid at typical ambient temperatures. As no chemical modification has taken place, all of the components of liquid lanolin are components of ordinary lanolin. Consequently, it retains the basic emollient and emulsification properties of lanolin but in a liquid form.
+Lanolin Alcohols is a chemical derivative which is one of the products of the alkaline hydrolysis of lanolin. It is separated from the soaps in the resultant hydrolysate mixture by means of solvent extraction. Following removal of the solvent, the crude lanolin alcohols is molecularly distilled to yield a pale yellow product which conforms to the requirements of the PhEur monograph for "Wool Alcohols".
+Although lanolin derived, Lanolin Alcohols differs significantly from both lanolin and liquid lanolin. Physically, it is a brittle solid having a melting point of >58Â°C. Chemically, it is a mixture of alcohols (straight- and branched-chain aliphatics, diols, sterols and trimethylsterols) of which cholesterol predominates. As a consequence of the greatly increased number of hydroxy moieties, Lanolin Alcohols is an extremely powerful W/O emulsifier.
+The different grades of Lanolin and Liquid Lanolin in the Croda/Westbrook range of Medical Grade Lanolins and Lanolin Derivatives are each produced by further refining the conventional material by means of one of two purification processes. Both processes produce high purity products by utilising existing, proven technology and both remove pesticide residues and other contaminants by physical means. Therefore, there is no chemical modification of the lanolin or liquid lanolin and no decomposition artefacts are introduced. 
+
+ Molecular Distillation is a high temperature process which is conducted under vacuum and used to remove the pesticide residues from the bulk material in a relatively small distillate fraction. It can also be used to decrease the level of free lanolin alcohols in lanolin or liquid lanolin. Although the process operates at an elevated temperature there is no deleterious effect on the colour of the product because the residence time is short.
+Chromatography can be used to improve the quality of natural oils by removing their polar components. The application of this process to lanolin or liquid lanolin removes pesticide residues and results in products which consist, predominantly, of sterol esters. The super refined products, in addition to being of extremely low pesticide residue content, are less "tacky" than the parent materials, almost colourless and essentially odourless.
+Medical Grade Lanolins (Wool Fat PhEur) The three following grades of Medical Lanolin are all of pharmaceutical quality and represent increasing degrees of refinement.
+- Anhydrous Lanolin PhEur
+A yellow coloured pharmaceutical lanolin conforming to the requirements of Wool Fat PhEur which has been molecularly distilled to comply with the proposed PhEur pesticide residue limits for lanolin (ppm).
+- Medilan PhEur
+A yellow coloured pharmaceutical lanolin conforming to the requirements of Wool Fat PhEur which has been molecularly distilled to comply with the proposed PhEur pesticide residue limits for lanolin (ppm) and to also conform to a maximum free lanolin alcohol limit of 3%. (For lanolins, a free lanolin alcohol content of less than 3% is an indicator of hypoallergenicity). Medilan (RTM) can therefore be considered an hypoallergenic Lanolin.
+Note: A grade of Medilan conforming to the requirements of the USP Modified Lanolin monograph is also available. 
+
+- Medilan Ultra
+The product of super refining lanolin; Medilan Ultra is an odourless, white soft solid which essentially consists of lanolin sterol esters and complies with the proposed PhEur pesticide residue limits for lanolin (ppm). Both PhEur and USP compliant versions of this ultra high purity lanolin are available.
+Medical Grade Liquid Lanolins
+There is no pharmacopoeia monograph for Liquid Lanolin but both grades are of high purity and suitable for topical medical applications.
+- Liquid Medilan
+A yellow coloured liquid lanolin which has been molecularly distilled to comply with the proposed PhEur pesticide residue limits for lanolin (ppm) and conforms to a maximum free lanolin alcohol limit of 3%.
+- Liquid Medilan Ultra
+This ultra pure lanolin oil is the product of super refining liquid lanolin. Liquid Medilan Ultra is an odourless, almost water white, oily liquid which essentially consists of liquid lanolin sterol esters and complies with the proposed PhEur pesticide residue limits for lanolin (ppm).
+- Super Hartolan lanolin alcohol
+Super Hartolan contains in excess of 30% cholesterol and 20% related sterols which are responsible for its highly efficient emulsifying, moisturising and conditioning properties. The synergistic action of the components enhances water-binding power well beyond that of cholesterol alone.
+Pre-studv Positive control selection
+Preliminary literature and internet searches were performed to identify compounds believed or claimed to possess / exert mild skin anaesthetic efficacy. It was decided to screen some of the more commonly used compounds to identify a leading candidate for use as a positive control in the assessment protocol. Materials tested were Clove oil, Benzocaine and Menthol. 
+
+Measurement of Itch VAS
+The visual analogue scale (VAS) has been used to evaluate pain, itch and other sensations. The scale consists of a 10cm numerically calibrated line. During the trial the volunteer is asked to rate the sensation (e.g. pain or itch sensation) by marking the line with a cross. The scale can be marked with a numerical scale or left unmarked with only the ends labelled for the 2 extreme possibilities.
+Visual analogue scales have been used in a number of studies to assess the volunteer's perception of itch. Weisshaar et al (1997) performed a study where volunteers expressed the intensity of their itch at 1 -minute intervals from 0 to 10 minutes (Heinemann and Eisner 2003).
+Whilst there are some disadvantages to this method, it does however offer a good reflection of a sensation which is otherwise difficult to measure directly. Volunteers were pre-screened to ensure only those who elicit a response were included in the trial.
+The two extremes of the scale were described as no itch at all and the most severe itch you could imagine. As this is volunteer dependant, it was important not to influence the response of the volunteer in any way in the descriptions of the scale, the extent of what is classified as a severe itch was therefore left for interpretation by the volunteer.
+To prevent the volunteers' perception of the severity of itch being affected by the visual appearance of the skin after treatment (i.e. the development of a weal and flare) a screen was constructed to prevent the volunteer from seeing their arms during the test. The volunteer was also prevented from seeing the computer screen as observation of a flare / increase in perfusion, recorded from the laser doppler scan may have affected the result.
+Results were calculated by measuring the distance between no itch and the mark placed on the scale by the volunteer (in cm). This is a widely used method for the observation of pain and itch, but due to its subjectivity is most useful when used in conjunction with other methods such as the laser doppler analysis. 
+
+Temperature
+All biological processes are thermally sensitive and sensory irritation can also be affected by temperature. Many of the neurons in the skin which respond to chemicals, also respond to changes in skin temperature. For example c-polymodel nocireceptors are stimulated by irritants and high temperature. The result of this is that heating synergizes with chemical stimulation and sensory irritation is increased, conversely cooling reduces irritation (Green 2000).
+When a trauma occurs to the skin, whether this is due to an infection or injury caused by chemical, physical or biological damage, a physiological reaction takes place which involves an increase in blood flow to the affected area, this causes an increase in temperature.
+The DermaTempâ¢ thermometer (available from Actamed Ltd, Wakefield, England) is a high precision hand held infrared thermographic scanner designed to detect subtle changes in skin temperature caused by underlying changes in perfusion. This therefore made it a useful complement to the scanning laser doppler measurements (see below), and it was used to record the maximum temperature on each test zone. To prevent cross contamination between test sites the probe was positioned approximately 10mm above the surface.
+To ensure accuracy it is important measurements are taken in an environment which is free from drafts and of a constant temperature.
+Scanning Laser Doppler
+Laser Doppler fluximetry was developed a number of years ago and is used to assess blood perfusion in superficial microvascular systems of e.g. the skin. Stationary laser doppler probes are contact instruments which assess blood flow over a small area, the scanning laser doppler is able to take thousands of measurements of a designated area.
+The Periscanâ¢ laser doppler scanner (available from Perimed AB, Stockholm, Sweden) and used in this study uses a low power monochromatic beam which sequentially scans the surface of the tissue (up to 1 mm deep). At each tissue site the laser penetrates the tissue. When it comes into contact with a moving particle for example the haemoglobin in the red blood cells, a fraction of the photons become 
+
+shifted according to the laser doppler principle. The speed and number of red blood cells influence the backscatter of light recorded in the scanner.
+The backscattered light compromises a mixture of light which is shifted and non-shifted in frequency. This is detected by the scanner. As the beam moves to the next site the perfusion image is displayed on the computer screen, in addition a black and white image is shown which aids identification of the test site.
+The scanning laser doppler is a non-contact instrument which allows readings to be taken without positioning being an issue.
+Research has shown that histamine induced flare reactions can be assessed by laser doppler imagery. Church and Clough (1997) used this technique to assess the histamine induced weals (by intradermal injection) and found that the flare had reached a steady state by 10 minutes and that the area of perfusion detected by laser imaging was greater than that measured by conventional methods such as planimetry, where the are area of inflammation is traced on to paper and measured. To ensure accurate measurements, test should be performed in a temperature- controlled environment. In addition it is recommended that volunteers lie in a supine position, however this was not possible in this trial.
+Study 1 : anaesthetic assessment Experimental
+Test materials were diluted (to 10%w/w) in either ethanol or mineral oil. However, it was noted that the mineral oil seemed to prevent the anaesthetic penetrating the skin and was therefore not used in further studies.
+Test subjects placed their arms under a screen for the duration of the evaluation to prevent them seeing the test sites. Filter paper strips (1.5 cm2) were soaked in the test solution, and applied to the forearms of test subjects. Tests were conducted in a randomised, double blind manner.
+One minute after application, filter paper strips were removed 'and test sites blotted dry with tissue paper. Perception of stimulation was assessed by stroking each test site with a single hair fibre six times. Test subjects were asked to confirm (i.e. say "yes") each time they discerned a stimulation. Results are expressed as the number of stimulations felt out of six i.e. 0/6 = total anaesthesia, 6/6 no anaesthesia and are summarised in Table 1. 
+
+ Results - TABLE 1 : Assessment of anaesthetic effects of Clove oil, Benzocaine and Menthol
+
+
+
+These results are illustrated graphically in Figure 1. In light of these results Benzocaine was chosen as a positive control.
+One product that is widely used an anti-itch ingredient in topical formulations is lauromacrogols, the 9-mole ethoxylated derivative of lauryl alcohol. These lauromacrogols compounds are believed to work as anti-pruritic materials by exerting/imparting a mild anaesthetic effect to the skin. Lauromacrogol is a widely used ingredient in a number of anti-itch products.
+Although Lauromacrogol 400 (Sigma product code P9641 ) was not screened in the positive control assessment it was decided to include it in the full study due to its well publicised mild anaesthetic effect.
+Anaesthetic Assessment of selected PEG-lanolin derivatives ((5) 10% w/w)
+The study consisted of 10 female volunteer subjects (n=10) of less than 40 years of age. All subjects met the inclusion criteria of the evaluation protocol.
+As with the positive control assessment the test site was defined as the volar forearms of volunteers. Four sites per arm were used, making a total of eight test sites. Test materials were placed into vials and labelled with a letter code in order to be blind from the volunteer and the assessor. The identification letter codes are listed in Table II. 
+
+ TABLE Il - Identification codes (at 10% w/w)
+
+
+
+PEG-9-Medilan has a weight average molecular weight of approximately 1200 Daltons and a Hydroxy! value of 40-50 mgkoH/g.
+The evaluation was performed under ambient temperature / humidity conditions, over a single day in order to reduce temperature/humidity variations, although these parameters were not recorded.
+Method
+On arrival volunteers were asked to remove clothing from the test area and place their arms on a cushion. Test sites on the arm were then marked (delineated) using a square of filter paper as a template. Assessment was performed as detailed in the positive control assessment section. 
+
+
+Results - TABLE III: Assessment of anaesthetic activity @ 10% w/w
+
+
+
+= Significant p<0.05
+The results of these assessments of anaesthetic activity are illustrated graphically in Figure 2.
+Anaesthetic Assessment of selected PEG-lanolin derivatives ((Î±) 5% w/w) -1
+The anaesthetic assessment at 5% concentrations was performed as described
+10 in Part 1 of the anaesthetic assessment. All of the volunteers from Part 1 were retested to reduce variation. A decision was made not to retest PEG-9-AHA, and PEG-9-
+Satulan in Part 2 of the assessment owing to their low efficacy in Part 1 of the assessment.
+15 The following materials were tested in the assessment using the identification codes set out in Table IV. 
+
+ TABLE IV - Identification Codes (@.5% w/w)
+
+
+
+The results of these assessments are summarised in Table V. 
+
+
+Results - TABLE V: Assessment of anaesthetic activity @ 5% w/w
+
+
+
+* Significant p<0.05
+The results of these assessments of anaesthetic activity at 5% w/w are illustrated graphically in Figure 3. 
+
+Study 1 : Discussion
+The results of the two assessments have shown that all solutions caused a decrease in sensation perception compared to the non-treated site. This decrease in sensation may be explained by the evaporation of solvent cooling the skin, and subsequently partial masking the stimuli.
+Part 1 of the anaesthetic assessment, carried out at 10% active concentration highlighted that both Benzocaine (local anaesthetic agent), and the test compound PEG-9-Medilan were significantly better (p<0.05) than the non-treated (blank) and ethanol (negative control) at reducing test subjects stimuli perception (anaesthesia). The other compounds tested (Lauromacrogol (positive control), PEG-9-Super Hartolan, PEG-9-AHA, and PEG-9-Satulan) were found to be better than the non-treated and ethanol treated sites, but the results were not found to be significant. This is surprising as Lauromacrogol has a history of use in anti-itch preparations, and is believed to gain its efficacy through a mild anaesthetic effect.
+The second part of the anaesthetic assessment at 5% active concentration showed that Benzocaine, Lauromacrogol, PEG-9-Medilan, and PEG-9-Super Hartolan were all significantly (p<0.05) better then the non-treated blank. None of the compounds were found to be significantly better then the ethanol (negative control). It is arguable that the reproducibility of the stimuli (see blank for study 1 & 2), and climate control can influence results. However, the fact the same product candidate came out twice as best performer (statistically or not) gives this screening study good credibility.
+Study 2: Prevention of histamine-induced itch
+Experimental
+10 volunteers (6 male, 4 female) were used in the study. During a number of preliminary tests it was noted that although application of various test products reduced the itch sensation, it was difficult to reduce the perfusion units. It was therefore decided that the test products would be applied prior to histamine application. Volunteers were asked to attend three evaluation studies; during each visit 2 test products would be assessed. 
+
+ Test products were applied to the skin on a plaster for 1 hour. After plaster removal the test sites were left for 15 minutes to ensure any erythema caused by the plaster adhesive had subsided.
+Histamine was then applied to the test site on a filter paper (to prevent leakage to the surrounding areas) at a concentration of 2.5mg/cm2 for 5 minutes.
+Before histamine application test sites were assessed for temperature and blood perfusion units using scanning laser doppler. Immediately after removal, 5 and 10 minutes after removal the above parameters were reassessed, in addition sensory assessments of the itch sensation were made using VAS. After the study, commercial available itch creams were applied to alleviate any remaining itch sensation.
+Test Products
+The test products used in the study are shown in Table Vl below. Hydrocortisone solution was used as a positive control as this is known to have anti-inflammatory benefits. Hydrocortisone is a glucocorticoid used topically on the skin. Glucocorticoids have potent anti-inflammatory actions and suppress the immune system. Hydrocortisone is a short acting glucocorticoid which prevents formation, release and activity of endogenous mediators of inflammations, including prostaglandins, kinins, histamine, lysosymal enzymes and complement (a substance consisting of nine fractions, which aids the immune response). Hydrocortisone acts by reducing the number of mast cells and thereby reducing histamine release.
+Commercially available anti-itch products use hydrocortisone at 2% w/w and so this concentration was used in the trial. Ethanol was used as the vehicle and so served as the negative control.
+Ethanol was used as it would remove the lipids and so aid penetration of both the histamine and PEG-9 derivatives. As previously stated, ethanol can cool the skin and so decrease the sensitivity, however it was felt that the 15 minutes allocated for evaporation after plaster removal would prevent this from affecting the results. Preliminary trials using Crodamol IPM as a penetration enhancer suggested this produced a film formation, thereby protecting the test sites and so reducing the penetration of the products. 
+
+ Other commercially available anti-itch products use lauromacrogol as the active ingredient to reduce itch. This is normally incorporated into formulations at 3% w/w. This was included in the trial and for comparison the PEG-9 derivatives were assessed at the same concentration.
+The possibility of using formulated creams as pre-treatment product was considered, however it was felt, the inclusion of other products such as urea in the formulation may have an influence on the results.
+TABLE Vl - Test Products
+
+
+
+Each volunteer assessed the positive and negative control and as the test products were randomised each volunteer had 4 (out of the 6) test products applied. This randomisation is provided in Appendix 4. Histamine was made in a water solution at pH 6.
+Statistical analysis of results
+The t-test for equal variance was performed on the raw data obtained from these experiments. The p values which showed a significant difference are shown in Table VII below. 
+
+ TABLE VII - P Values
+
+
+
+When comparing the test products to the controls (i.e. hydrocortisone and ethanol) the number of volunteers assessed was 8. When comparing to lauromacrogols this was reduced to 6, as the assessment of the products was randomised to ensure all were included in the trial.
+The results on the graphs in Figure 4 to 6 are for 10 volunteers for hydrocortisone and ethanol and 8 for all other products. The left hand bar in each group of 3 bars relates to the reading 0 minutes after Histamine removal, the middle of the 3 bars to the reading 5 minutes after Histamine removal and the right hand bar to the reading 10 minutes after Histamine removal.
+VAS
+The results of the VAS analysis for each product are shown in Figure 4. The data provided is raw data, i.e. the average score for each product. It was not possible to calculate the percentage change, as the starting (baseline) scores would be zero. Error bars are calculated from interval of confidence at a confidence level of 0.05.
+Perfusion units The results of the perfusion units for each product are shown in Figure 5. The data provided is the value for each volunteer calculated as a percentage change value from baseline (i.e. before histamine application), averaged to give a percentage increase for each product. 
+
+Temperature
+The results for the measured changes in skin temperature are shown in Figure 6. As with perfusion units the data for temperature is provided as average percentage change for each product.
+Discussion
+A number of different products were investigated for their ability to cause a reproducible weal/flare reaction and histamine chosen as the most appropriate candidate. Preliminary investigations showed different volunteers responded to different histamine concentrations with some being classed as non-responders.
+Single probe laser doppler analysis was looked into and scanning laser doppler subsequently chosen over this as it appeared to offer a more accurate and versatile method of assessing the activity of candidate compounds.
+The most appropriate method of histamine and test product application was evaluated and determined to be filter paper and plaster application, respectively. Pre- treatment of the test sites with the test products was the most appropriate as it proved difficult to reduce the perfusion units, despite seeing a decrease in VAS readings, when products were applied after histamine application.
+Assessment of the PEG-9 derivatives including the lauromacrogols took place on 10 volunteers and included the measurement of skin temperature, perfusion units and sensory assessment using the VAS. Controls included hydrocortisone, ethanol. The results are summarised in Figures 4,5 and 6.
+The results of the VAS assessment showed that PEG-9 Medilan was significantly better at preventing itch than Lauromacrogols immediately after histamine removal (p<0.05) and 10 minutes after removal (p<0.06). Ethanol was also shown to be significantly better than lauromacrogol.
+For perfusion measurements ethanol was also shown to be significantly better than PEG-9 Super Hartolan (p<0.05). Hydrocortisone was also shown to be significantly better than PEG-9 Super Hartolan, this was expected as hydrocortisone is a steroid preparation. It was also expected that Hydrocortisone would be more effective at preventing the itch response than PEG -9 Medilan, however no significant difference was observed between these results. 
+
+ For temperature the initial results showed a decrease immediately after histamine removal due to the temperature of the liquid. These results were not considered in the analysis.
+The results for the ethanol could be a result of inadequate time being allowed for evaporation of the ethanol, this may have caused a cooling effect on the skin and so reduced sensitivity to the histamine. This could also be due to the small population size, the results of a larger group of volunteers may have reduced the influence these few volunteers had on the results.
+Figures 4 to 6 show the error bars to be large, if the study was to be performed again, a larger panel may reduce these, thus making some results more statistically significant.
+Without statistical analysis, PEG-9 Medilan appears to be the most effective at preventing a histamine provoked reaction for VAS and perfusion units. Lauromacrogol appears to be the least effective. Overall the results of this trial have shown that PEG-9 Medilan appears to be the most effective compound at preventing the itch reaction. PEG-9 Satulan performed well for the prevention of an increase in perfusion units. Lauromacrogol did not perform particularly well in the trial.
+Study 3: Anaesthetic assessment of PEG-5, 9, 20 and 30 MEDILAN (RTM) and PEG-9 Super Refined SATULAN (RTM) in ethanol
+This study assessed the anaesthetic properties of PEG-5, 9, 20 and 30 Medilan and PEG-9 Super Refined Satulan in ethanol. In addition PEG-9 Medilan and Lauromacrogol were assessed in an emulsion. It was hypothesised that these compounds would demonstrate anti-itch potential through a mild anaesthetic effect on the skin.
+To observe differences between the liquid and mixed sample, both were assessed in an ethanol vehicle. 
+
+Objective
+A number of PEG-9 derivatives were tested as potential anti-itch materials. It was hypothesised that these compounds would demonstrate anti-itch potential through a mild anaesthetic effect on the skin. The aim of this investigation was to assess the test materials in an emulsion base and assess the differences between the liquid and insoluble portions of the samples.
+Method: Study 3.1
+Test solutions were made up in ethanol at 10%.
+The test panel consisted of 10 females aged 20-30. Volunteers were asked to place their arms behind a screen for the duration of the evaluation to ensure their response was based on touch response only. Ethanol solutions were applied using 1.5cm2 filter papers which had been soaked in the test solution and applied to the skin for 1 minute. Sufficient time was allocated for the samples to fully evaporate after removal from the skin.
+Product application was randomised and was performed in a double blind manner. Perception of stimulation was assessed by stroking each test site with a single hair fibre six times. Volunteers were asked to say "yes" each time they felt a sensation. Results were expressed as the number of stimulations felt out of six i.e. 0/6 = total anaesthesia, 6/6 no anaesthesia. From this, the percentage of stimuli felt was calculated. The results of this study are illustrated graphically in Figure 7.
+Method: Study 3.2
+To determine the effects the products would have in a formulation a second study was performed using an emulsion (see Table VIII for formulation).
+Product application was randomised and carried out in a double blind manner, with test materials being applied at a concentration of 2mg/cm2. Samples were rubbed into the skin using a finger cot, to avoid transfer to the experimenter. Care was taken to ensure the product had absorbed into the skin prior to the assessment. 
+
+ Perception of stimulus was carried out as described in Study 3.1.
+In addition PEG-9 Medilan was assessed in ethanol to compare the mixture (including the in-soluble portion of the material) and the liquid fraction only.
+These products were compared to an ethanol control and used the method described in Study 3.1.
+This comparison was performed in duplicate to confirm reproducibility of the method.
+The results of this study are illustrated graphically in Figure 8.
+Discussion
+The results indicate that PEG-9 Medilan is more effective at causing anaesthesia than PEG 5, 20 and 30, although this was not shown to be statistically significant. This is likely to be due to the small sample size. PEG-9 Super Refined Satulan was shown to be the least effective Croda product. Looking at the trend all Croda products were shown to be more effective than Lauromacrogol at a concentration of 10%. PEG-30 Medilan proved to be the second most effective candidate.
+When assessing the products in an emulsion no significant difference was noted between the formulations, with an anaesthetic effect being noted from the control formulation. This could be due to a cooling effect caused by the aqueous solution, therefore suggesting that the use of this type of formulation is not appropriate for short term anti-itch / anaesthetic assessments.
+Comparison of the liquid fraction of PEG-9 Medilan, i.e. the soluble fraction, and the mixture showed a slight reduction in anaesthesia when the solid fraction was not included. This suggests that the insoluble portion of the material i.e. the non- ethoxylated fraction of the Medilan has some anaesthetic properties. It should be noted however that the liquid fraction alone does show significant anaesthesia (compared to ethanol), therefore the effects of the product is not solely due to the unreacted Medilan. 
+
+ Table VIII: formulation
+
+
+
+Triethanolannine added to pH 6. 
+
+ In summary, the results suggest that PEG-9 Medilan is more effective at causing anaesthesia than PEG 5, 20 and 30, with PEG-30 being the second most effective. PEG-9 Super Refined Satulan was shown to be the least effective Croda product.
+When assessing the products in emulsions no significant difference was noted between the formulations, with an anaesthetic effect being noted from the control formulation. This could be due to a cooling effect caused by the aqueous solution. This is therefore not a suitable vehicle for this type of assessment.
+In comparison to the mixture of soluble and insoluble proportions of the PEG-9 Medilan, the liquid only sample was less effective as an anaesthetic. This suggests that the insoluble portion of the material i.e. the non-ethoxylated fraction of the Medilan, has some anaesthetic properties. However as the liquid fraction did still show significant anaesthesia (compared to ethanol), the effects of the product are not solely due to the unreacted Medilan. 
+
+
+Ethoxylation of Medilan
+The ethoxylation/propoxylation of MEDILAN (RTM) is a complex reaction.
+Without wishing to be bound by any particular theory, it is assumed that all of the KOH catalyst in the reaction is consumed in hydrolysis of ester (rather than in abstracting a proton from free Wool Wax alcohols or from secondary hydroxyls on esters of Î±- hydroxy acids).
+RCH2OCOR' + H2O K0H âº RCH2OH + R1CO2H (1 )
+Either: 
+
+
+ROO2H + KOH âº R1CO2 K+ + H2O (2)
+Or:
+RCH2OH + KOH âº RCH2O K+ + 
+
+ (3)
+R1CO2H is much more acidic than RCH2OH, therefore reaction (2) is favoured.
+Therefore the initial reaction is probably:
+R1CO2 " K+ + EO âº R1CO2CH2CH2O" K+ (4)
+Once (4) has commenced one can then get proton exchange:
+R'CO2(CH2)2O~ K+ + RCH2OH âº R'CO2(CH2)2OH + RCH2O- K+ (5)
+This leads to ethoxylation of the alcohol portion of the ester:
+RCH2O" K+ + EO âº RCH2O(CH2)2O~ K+ (6) 
+
+It is also possible to get chain transfer (ester interchange).
+Either:
+R1CO2(CH2CH2O)xH + RCH2OCOR' âº ROO2(CH2CH2O)xCOR' + RCH2OH (7)
+Or:
+RCH2O(CH2CH2O)xH + RCH2OCOR^ ^ RCH2O(CH2CH2O)XCOR' + RCH2OH (8)
+RCH2OH produced in (7) or (8) can then undergo proton exchange (5), followed by ethoxylation (6).
+Free PEG will also be produced by a chain transfer reaction involving two ethoxylated fatty acids:
+2 R1CO2(CH2CH2O)xH âº R1CO2(CH2CH2O)xCOR' + HO(CH2CH2O)xH (9)
+The conclusion is that the final product will be a complex mixture of ethoxylated ester (PEG-inserted), ethoxylated fatty acids, ethoxylated alcohols & free PEG
+Because of the lanolin derivative content of the compositions according to preferred embodiments of the invention, they find particular use in the treatment of parts of the mammalian body, especially the skin, for various purposes. Thus, suitable topical delivery forms may include sprays, aerosols, liniments, lotions, bath dispersions, shampoos, drenches, ointments, pastes, creams, gels, salves and patches and may also comprise non-topical forms such as pessaries, suppositories or any other suitable dosage form such as is typically used for the delivery of cosmetically or pharmacologically active agents. The formulations may accordingly comprise oil-in- water or water-in-oil or complex emulsions, or solutions or suspensions.
+A preferred topical delivery form is a cream. A suitable cream will comprise distilled water, a wax, an emulsifier and a preservative. The cream may also contain an opacifier, an emollient, and/or a sunscreen. Preferably, the cream contains about 10% to 50% distilled water, about 5% to 25% wax, about 1% to 15% emulsifier, about 0.01- 
+
+0.25% preservative, about 1% to 10% opacifier, and about 1% to 10% emollient. All percentages are w/w based on the total weight of the composition.
+Suitable waxes include ceresin wax, candelilla wax, camauba wax and emulsifying wax NF. Presently preferred is emulsifying wax NF in a range 5 to 25%. Suitable emulsifiers include diisopropyl dimerate, octyldodecyl stearate, octyldodecyl stearoyl stearate, sorbitan sesquioleate, glyceryl stearate NSE, behenyl triglyceride, pentaerythritol tetra capra/caprylate, sucrose stearate, PEG 100 stearate, steareth-100, PPG 30 cetyl ester, PPG 50 cetyl ester, polypentaerythrital tetralaurate,
+PEG 120 methyl glucose dioleate, C12-15 alkyl (alkyl containing 12-15 carbon atoms) benzoate, and ammoniomethylpropinate. Presently preferred are sorbitan sesquioleate in a range of 1 to 5%, PEG 120 methyl glucose dioleate in a range of 1 to 4%, and C12-
+15 alkyl benzoate in a range of 1 to 5%.
+Suitable preservatives include methyl paraben, propyl paraben, butyl paraben, phenoxyethyl paraben, phenoxyethyl alcohol, precipitated sulfur, and sorbic acid and other sorbates. Presently preferred are methyl paraben in a range of 0.05 to 0.15% and propyl paraben in a range of 0.03 to 0.1%.
+Suitable opacifiers include behenic acid and tribehenin. Presently preferred is behenic acid in a range of 2 to 7%.
+Suitable emollients include cetyl palmitate, diisopropyl adipate, polysorbate 20, polysorbate 80 (Tween 80), glycereth-26, sodium hyaluronate, chondroitin sulfate and allantoin. Presently preferred are polysorbate 20 in a range of 1 to 5%, and polysorbate 80 in a range of 1 to 3%.
+Suitable sunscreens include octyl methoxycinnamate and other cinnamates, octyl salicylate, oxygenzone, octyl dimethyl PABA and other PABA esters in ranges of approximately 5% to approximately 15%. The increasing worldwide prevalence of skin cancer (including basal cell carcinoma, squamous cell carcinoma and malignant melanoma) has led many formulators to include sunscreens in skin care products applied to exposed areas. The compositions of the present invention employ ingredients providing adequate sun protection while avoiding comedogenicity and irritancy.
+The antipruritic compositions of the present invention may also include other actives which are known to have antipruritic properties. Such actives, without being limiting, include menthol, camphor, phenol, lidocaine, pramoxine and hydrocortisone. 
+
+This list is intended to illustrate the wide range of actives which may be incorporated and is intended to include all known antipruritic agents as well as those yet to be discovered.
+By way of example only, the compositions may contain camphor in a range of about 0.5% to 1.5%, menthol in a range of about 0.5% to 1.5%, and phenol in a range of about 0.5% to 1.0%.
+Where the antipruritic compositions of the invention additionally comprise lidocaine and pramoxine as additional active ingredients, the compositions may contain about 1% to 10% lidocaine and about 1% to 2.5% pramoxine. Finally, the antipruritic compositions may comprise hydrocortisone acetate as a further active ingredient. Preferably the compositions contain about 1% to 5% hydrocortisone acetate.
+Drops according to the present invention may comprise sterile aqueous or oily solutions and may be prepared by dissolving the active ingredient in a suitable aqueous solution containing a bactericide and/or fungicidal agent and/or any other suitable preservative. The resulting solution may then be clarified by filtration, transferred to a suitable container, and then sealed and sterilized by autoclaving or maintaining at 90- 1000C for half an hour. The solution may be sterilized by filtration and transferred to the container by an aseptic technique. Preservatives, bactericidal and fungicidal agents suitable for inclusion in the drops are phenylmercuric salts (0.002%), benzalkonium chloride (0.01%) and chlorhexidine acetate (0.01%). Suitable solvents for the preparation of an oily solution include glycerol, diluted alcohol and propylene glycol.
+Lotions according to the present invention include those suitable for application to the eye. An eye lotion may comprise a sterile aqueous solution optionally containing a bactericide or preservative prepared by methods similar to those for the preparation of drops. Lotions or liniments for application to the skin may also include an agent to hasten drying and to cool the skin, such as an alcohol, or a softener or moisturiser such as glycerol or an oil such as castor oil or arachis oil.
+Creams, ointments or pastes according to the present invention are semi-solid formulations of the active ingredient for external application. They may be made by mixing the active ingredient in granule or powdered form, alone or in solution or suspension in an aqueous or non-aqueous solution in suitable machinery, with a greasy or non-greasy basis. The basis may comprise one or more of a hard, soft or liquid 
+
+paraffin, glycerol, beeswax, a metallic soap; a mucilage; an oil such as vegetable oil, eg almond, corn, arachis, castor or olive oil; wool fat or its derivatives; or a fatty acid ester of a fatty acid together with an alcohol such as propylene glycol or macrogols. The formulation may also comprise a suitable surface-active agent, such as an anionic, cationic or non-ionic surfactant such as glycol or polyoxyethylene derivatives thereof. Suspending agents such as natural gums may be incorporated, optionally with other inorganic materials such as silicaceous silicas, and other ingredients such as lanolin or other lanolin derivatives.
+The compositions of the invention may further be used as skin moisturizers or for the provision of a film or barrier to allow both the delivery of medicaments to underlying traumatised skin (eg to wounds, burns, ulcers) or to eczematous or psoriatic skin or to areas of generalised dry or damaged skin or hair, eg following excessive exposure to the sun or wind or after radiation or chemotherapy treatments, and also to prevent the actions of airborne infections to such aforesaid traumas. The compositions, particularly for use as a sunscreen, include one or more of a moisturizer, an emollient, an emulsifier, a preservative, a dispersant, a viscosity modifier, an herbal extract, a solvent, a chelating agent, an antioxidant, a waterproofing agent, a pH adjuster, a perfume, and a protein.
+The composition may include one or more of: titanium dioxide, zinc oxide, benzophenone-3; benzophenone-4; octyl methoxycinnamate (Parsol 1789); 3,3,5- trimethylcyclohexyl salicylate; carbomer; hydroxyethyl cellulose; lanolin alcohols; cetyl phosphate; fatty alcohols; Ci2 to C15 alkyl benzoate; cyclomethicone; caprylic/caphc triglycerides; mineral oil; glycerin; vitamin E; and isopropyl myristate.
+According to another aspect of the invention, there is provided a pharmaceutical formulation for treating itch caused by bums, by exposure to sunlight or by exposure to UV radiation, comprising a composition of the invention and a physiologically acceptable carrier.
+The carrier may therefore include excipients normally present in formulations for treating bums, such as antiseptic compounds, emollients, inorganics, humectants, moisturisers, anti-inflammatory agents, vitamins, preservatives, pH adjusters, proteins, herbal extracts, carriers/solvents, soothing/cooling agents, antioxidants, perfumes, emulsifiers and viscosity modifiers. Specific examples of useful materials include 
+
+glycerine, triethanolamine stearate, vitamin E, lanolin, zinc oxide, allantoin, calamine, sodium lactate, water, lactic acid, pro-vitamin B5 and menthol.
+A typical example of a formulation for an anti-itch cream is:-
+â¢ Polychol-20 5% w/w â¢ PEG -9-Medilan 3% w/w
+â¢ Medilan 22% w/w
+â¢ Water 70% w/w
+The compositions of the invention also find use as carriers for one or more cosmetic or pharmaceutical active agents which are incorporated into the compositions so that they may be efficiently delivered to the skin, mucosae or other parts of the body by application of the composition thereto.
+It is particularly advantageous to prepare antipruritic compounds and compositions according to the present invention in the form of microemulsions/liposomes. Suitable technology for forming such microemulsions is described in detail in EP0977538 (Croda International pic), the entire text of which is hereby imported by reference. It is intended that that text should form an integral part of the present disclosure. Such microemulsions include aqueous compositions suitable for An aqueous composition, suitable for topical application to the mammalian body, comprising:
+(a) a solvent consisting essentially of water;
+(b) one or more surfactant materials selected from polyoxyalkylene condensate derivatives of lanolin or a lanolin derivative selected from: wool wax, purified lanolin, lanolin oil, lanolin alcohols and lanolin esters; and (c) a lipid component comprising one or more lipid materials selected from lanolin, lanolin derivatives and C12-6o hydrocarbons, which lipid materials are present as particles emulsified by the said one or more lanolin-derived surfactant materials and having a median particle size of less than 5 Î¼m.
+The relative proportions of the polyoxyalkylene condensate derivatives of lanolin or of a lanolin derivative and the lipid component will be adjusted to suit the particular application. Other actives will be incorporated as necessary. 
+
+References
+Church M. Clough G (1997). Scanning Laser Doppler imaging and Dermal Micro- dialysis in the investigation of skin inflammation. ACI international 9/2 Green B. G. (2000). Measurement of sensory irritation of the skin. Am J Contact Dermat. Sep;11(3):170-80.
+Heinemann C. Eisner P. (2003). Efficacy Measurements of Topical Antihistamines. Skin Pharmacol Appl Skin Physiol. Jan-Feb; 16(1 ): 4-11.
+Weisshaar E, Forsther C, Dotzer M, Heyer G (1997). Experimentally induced pruritus and cutaneous reactions with topical antihistamine and local analgesics in atopic eczema. Skin Pharmacol; 10: 183-190 
+
+
+
+
+
+Claims
+
+Claims:
+
+1. A PEG-9 or PPG-9 lanolin derivative formed by derivatisation of lanolin or a lanolin derivative with 9 molar equivalents of ethylene oxide or propylene oxide respectively or the equivalent polyethylene glycol or polypropylene glycol.
+
+
+2. A PEG-9 or PPG-9 lanolin derivatiave according to Claim 1 wherein said lanolin component comprises MEDILAN (RTM).
+
+
+3. A PEG-9 derivative of MEDILAN (RTM).
+
+
+4. A PEG-9 or PPG-9 lanolin derivative according to Claim 1 wherein said lanolin component comprises lanolin alcohols.
+
+
+5. A PEG-9 or PPG-9 lanolin derivative according to Claim 4 wherein said lanolin alcohols comprise SUPER HARTOLAN (RTM).
+
+
+6. A PEG-9 or PPG-9 lanolin derivative as claimed in Claim 1 wherein said lanolin component comprises hydrogenated lanolin.
+
+
+7. A PEG-9 or PPG-9 lanolin derivative as claimed in Claim 6 wherein said hydrogenated lanolin comprises SATULAN (RTM).
+
+
+8. A chemical composition for treatment of itch, said composition comprising as active antipruritic agent alkoxylated lanolin or an alkoxylated lanolin derivative.
+
+
+9. A chemical composition according to Claim 8 wherein the active antipruritic agent comprises an ethoxylated lanolin or an ethoxylated lanolin derivative.
+
+
+10. A chemical composition according to Claim 8 or Claim 9 wherein the active antipruritic agent comprises PEG-lanolin or a PEG-# derivative of a lanolin derivative wherein # is an integer between 1 and 30.  
+
+
+11. A chemical composition according to Claim 10 wherein # is an integer between 1 and 20.
+
+
+12. A chemical composition according to Claim 10 wherein # is an integer between 5 and 15.
+
+
+13. A chemical composition according to Claim 10 wherein # is 9.
+
+
+14. A chemical composition as claimed in Claim 8 wherein the active antipruritic agent comprises propoxylated lanolin or a propoxylated lanolin derivative.
+
+
+15. A chemical composition according to Claim 14 wherein the active antipruritic agent comprises PPG-# lanolin or a PPG-# derivative of a lanolin derivative wherein # is an integer between 1 and 30.
+
+
+16. A chemical composition according to Claim 15 wherein # is an integer between 1 and 20.
+
+
+17. A chemical composition according to Claim 15 wherein # is an integer between 5 and 15.
+
+
+18. A chemical composition according to Claim 15 wherein # is 9.
+
+
+19. A chemical composition according to any of Claims 8 to 13 inclusive wherein the alkoxylated lanolin comprises a PEG-9 derivative of MEDILAN (RTM).
+
+
+20. A chemical composition according to any of Claims 8 to 13 inclusive wherein the alkoxylated lanolin derivative comprises a PEG-9 derivative of lanolin alcohols.
+
+
+21. A chemical composition according to Claim 20 wherein said lanolin alcohols comprise SUPER HARTOLAN (RTM).  
+
+
+22. A chemical composition according to any of Claims 8 to 13 inclusive wherein the alkoxylated lanolin derivative comprises a PEG-9 derivative of hydrogenated lanolin.
+
+
+23. A chemical composition according to Claim 22 wherein said hydrogenated lanolin comprises SATULAN (RTM).
+
+
+24. A chemical composition as claimed in any of Claims 8 to 23 inclusive wherein said composition further comprises at least one member selected from the group consisting of:- (a) antiperspirant active ingredients;
+(b) fragrances;
+(c) anti-infective agents;
+(d) anti-irritants;
+(e) emollients; (f) surfactants;
+(g) corticosteroids;
+(h) preservatives;
+(i) opacifiers;
+(j) sunscreens; (k) soaps; and
+(i) gelling agents
+(j) penetration enhancers
+(k) anti-inflammatory products
+(I) pigments (m) moisturisers
+(n) emulsifiers
+(o) humectants
+(p) anti-oxidants
+(q) barrier repair agents (r) skin-similar lipids (eg ceramides, cholesterol, fatty acids etc)
+(s) urea
+(t) other anti-pruritic agents
+(u) film-forming agents.  
+
+
+25. A chemical composition according to any of Claims 8 to 25 wherein the amount of alkoxylated lanolin or alkoxylated lanolin derivative in the composition is in the range 0.05% to 40% and preferably in the range 0.5% to 15% by weight based on the total weight of the composition.
+
+
+26. Use of an alkoxylated lanolin or an alkoxylated derivative of a lanolin derivative as an antipruritic agent in the manufacture of a medicament for the treatment of itch.
+
+
+27. Use according to Claim 26 wherein said antipruritic agent comprises an ethoxylated lanolin or an ethoxylated lanolin derivative.
+
+
+28. Use according to Claim 27 wherein said antipruritic agent comprises PEG-# lanolin or a PEG-# derivative of a lanolin derivative where # is an integer between 1 and 30.
+
+
+29. Use according to Claim 28 wherein # is an integer between 1 and 20.
+
+
+30. Use according to Claim 28 wherein # is an integer between 5 and 15.
+
+
+31. Use according to Claim 28 wherein # is 9.
+
+
+32. Use according to Claim 31 wherein the antipruritic agent comprises a PEG-9 derivative of MEDILAN (RTM).
+
+
+33. Use according to any of Claims 26 to 31 inclusive wherein the alkoxylated lanolin derivative comprises a PEG-9 derivative of lanolin alcohols.
+
+
+34. Use according to Claim 33 wherein said lanolin alcohol comprises SUPER HARTOLAN (RTM).
+
+
+35. Use according to any of Claims 26 to 31 inclusive the alkoxylated lanolin derivative comprises a PEG-9 derivative of hydrogenated lanolin.  
+
+
+36. Use according to Claim 35 wherein said hydrogenated lanolin comprises SATULAN (RTM).
+
+
+37. Use according to Claim 26 wherein said antipruritic agent comprises a propoxylated lanolin or a propoxylated derivative of a lanolin derivative.
+
+
+38. Use according to Claim 37 wherein the active antipruritic agent comprises PPG- # lanolin or a PPG-# derivative of a lanolin derivative wherein # is an integer between 1 and 30.
+
+
+39. Use according to Claim 38 wherein # is an integer between 1 and 20.
+
+
+40. Use according to Claim 39 wherein # is 5 to 15.
+
+
+41. Use according to Claim 40 wherein # is 9.
+
+
+42. Use according to Claim 41 wherein said antipruritic agent comprises a PPG-9 derivative of MEDILAN (RTM).
+
+
+43. Use according to Claim 41 wherein said antipruritic agent comprises a PPG-9 derivative of lanolin alcohols.
+
+
+44. Use according to Claim 43 wherein said lanolin alcohols comprise SUPER HARTOLAN (RTM).
+
+
+45. Use according to Claim 41 wherein said antipruritic agent comprises a PPG-9 derivative of hydrogenated lanolin.
+
+
+46. Use according to Claim 45 wherein said hydrogenated lanolin comprises SATULAN (RTM).
+
+
+47. Use according to any of Claims 26 to 46 inclusive wherein said medicament further comprises at least one member selected from the group consisting of:-
+(a) antiperspirant active ingredients;  (b) fragrances;
+(C) anti-infective agents;
+(d) anti-irritants;
+(e) emollients;
+(f) surfactants;
+(g) corticosteroids;
+(h) preservatives;
+(i) opacifiers;
+G) sunscreens;
+(k) soaps; and
+0) gelling agents
+0) penetration enhancers
+(k) anti-inflammatory products
+(I) pigments
+(m) moisturisers
+(n) emulsifiers
+(o) humectants
+(P) anti-oxidants
+(q) barrier repair agents
+(r) skin-similar lipids (eg ceramides, cholesterol, fatty acids etc)
+(S) urea
+(t) other anti-pruritic agents
+(U) film-forming agents.
+
+
+48. Use according to any of Claims 27 to 48 wherein the amount of alkoxylated lanolin or alkoxylated lanolin derivative in the composition is in the range 0.05% to 40% and preferably in the range 0.5% to 15% by weight based on the total weight of the composition.
+
+
+49. Use of alkoxylated lanolin or an alkoxylated lanolin derivative as an antipruritic agent in the treatment of itch.  
+
+
+50. Use according to Claim 49 wherein said lanolin component comprises a PEG-# lanolin or a PEG-# derivative of a lanolin derivative where # is an integer between 1 and 30.
+
+
+51. Use according to Claim 50 wherein # is an integer between 1 and 20.
+
+
+52. Use according to Claim 50 wherein # is an integer between 5 and 15.
+
+
+53. Use according to Claim 50 wherein # is 9.
+
+
+54. Use according to Claim 53 wherein the antipruritic agent comprises at least one member selected from the list comprising:-
+(i) PEG-9 MEDILAN (RTM). (ii) PEG-9 SUPER HARTOLAN (RTM) (iii) PEG-9 SATULAN (RTM).
+
+
+55. A PEG-# or a PPG-# lanolin derivative formed by derivatisation of lanolin or a lanolin derivative with # molar equivalents of ethylene oxide or propylene oxide respectively or the equivalent polyethylene glycol or polypropylene glycol when used as an antipruritic agent in a composition intended for application to the skin to reduce itch.
+
+
+56. A PEG-# or PPG-# lanolin derivative as claimed in Claim 55 wherein # is an integer between 1 and 30.
+
+
+57. A PEG-# or PPG-# lanolin derivative according to Claim 55 wherein # is an integer between 1 and 20.
+
+
+58. A PEG-# or PPG-# lanolin derivative according to Claim 55 wherein # is an integer between 5 and 15.
+
+
+59. A PEG-# or PPG-# lanolin derivative according to Claim 55 wherein # is 9.  
+
+
+60. A PEG-# or PPG-# lanolin derivative according to Claim 59 wherein said lanolin component comprises MEDILAN (RTM).
+
+
+61. A PEG-# or PPG-# lanolin derivative according to claim 60 wherein said derivative comprises PEG-9 MEDILAN (RTM).
+
+
+62. A PEG-9 or PPG-9 lanolin derivative according to Claim 59 wherein said lanolin component comprises lanolin alcohols.
+
+
+63. A PEG-9 or PPG-9 lanolin derivative according to Claim 62 wherein said lanolin component comprises SUPER HARTOLAN (RTM).
+
+
+64. A PEG-9 or PPG-9 lanolin derivative according to Claim 59 wherein said lanolin component comprises hydrogenated lanolin.
+
+
+65. A PEG-9 or PPG-9 lanolin derivative according to Claim 64 wherein said lanolin component comprises SATULAN (RTM).
+
+
+66. A PEG-# or a PPG-# lanolin derivative formed by derivatisation of lanolin or a lanolin derivative with # molar equivalents of ethylene oxide or propylene oxide respectively or the equivalent polyethylene glycol or polypropylene glycol when used as an antipruritic agent in a composition intended for application to the skin to reduce itch substantially as herein described.
+
+
+67. A chemical composition for treatment of itch comprising as active antipruritic agent an alkoxylated lanolin or an alkoxylated derivative of a lanolin derivative substantially as herein described.
+
+
+68. Use of an alkoxylated lanolin or an alkoxylated derivative of a lanolin derivative as an antipruritic agent in the manufacture of a medicament for the treatment of itch substantially as herein described. 
+
+
+
+
+
+
+PCT/GB2006/000290
+2005-01-29
+2006-01-30
+Alkoxylated lanolin derivatives and compositions therewith 
+       
+
+WO2006079830A1
+            (en)
+        
+
+Applications Claiming Priority (4)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+GB0501857A
+
+GB0501857D0
+                          (en)
+                      
+2005-01-29
+2005-01-29
+Compounds 
+     
+
+
+GB0501861A
+
+GB0501861D0
+                          (en)
+                      
+2005-01-29
+2005-01-29
+Compounds 
+     
+
+
+GB0501861.9
+
+2005-01-29
+
+
+
+GB0501857.7
+
+2005-01-29
+
+
+
+
+Publications (1)
+
+
+
+Publication Number
+Publication Date
+
+
+
+
+
+WO2006079830A1
+true
+WO2006079830A1
+                       (en)
+                   
+
+2006-08-03
+
+
+
+
+
+Family
+ID=36061130
+Family Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+PCT/GB2006/000290
+
+WO2006079830A1
+                          (en)
+                      
+
+2005-01-29
+2006-01-30
+Alkoxylated lanolin derivatives and compositions therewith 
+       
+
+
+
+Country Status (2)
+
+
+
+Country
+Link
+
+
+
+
+
+GB
+                (1)
+              
+            
+
+
+GB2425475A
+                  (en)
+              
+
+
+
+WO
+                (1)
+              
+
+
+
+WO2006079830A1
+                  (en)
+              
+
+
+
+
+Cited By (1)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+WO2013126155A1
+              (en)
+            
+*
+
+2012-02-24
+2013-08-29
+Bausch & Lomb Incorporated
+Ophthalmic compositions with alkoxylated natural waxes 
+       
+
+
+
+Citations (8)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+EP0019720A2
+              (en)
+            
+*
+
+1979-05-28
+1980-12-10
+BAYER ITALIA S.p.A.
+Mesulfen preparations and method of making them 
+       
+
+
+
+US4567039A
+              (en)
+            
+*
+
+1984-10-12
+1986-01-28
+Revlon, Inc.
+Hair conditioning composition and method 
+       
+
+
+
+US5641480A
+              (en)
+            
+*
+
+1994-12-08
+1997-06-24
+Lever Brothers Company, Division Of Conopco, Inc.
+Hair care compositions comprising heteroatom containing alkyl aldonamide compounds 
+       
+
+
+
+DE19613424A1
+              (en)
+            
+*
+
+1996-04-04
+1997-10-09
+Goldwell Gmbh
+Odourless nail varnish remover 
+       
+
+
+
+DE19834812A1
+              (en)
+            
+*
+
+1998-08-01
+2000-02-03
+Beiersdorf Ag
+Use of sterol derivatives, e.g., dihydrocholesterol, to strengthen the barrier function of skin, e.g., to protect against drying of skin and associated skin aging 
+       
+
+
+
+US6224853B1
+              (en)
+            
+*
+
+1997-04-22
+2001-05-01
+Woolcombers Group Plc
+Aqueous compositions comprising a lipid and a lanolin-derived surfactant, and their use 
+       
+
+
+
+US20030125223A1
+              (en)
+            
+*
+
+2001-12-29
+2003-07-03
+Robert Denton
+Soy based hand cleaner and method of use 
+       
+
+
+
+US20050008680A1
+              (en)
+            
+*
+
+2003-07-09
+2005-01-13
+The Procter & Gamble Company
+Composition for wet wipes that enhances the efficacy of cleansing while being gentle to the skin 
+       
+
+
+
+Family Cites Families (11)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+GB891901A
+              (en)
+            
+*
+
+1958-10-09
+1962-03-21
+Belge Produits Chimiques Sa
+Detergent compositions 
+     
+
+
+
+JPS5729213B2
+              (en)
+            
+*
+
+1974-11-12
+1982-06-21
+
+
+
+
+
+US4215116A
+              (en)
+            
+*
+
+1978-06-30
+1980-07-29
+Block Drug Company Inc.
+Propoxylate toxicants 
+       
+
+
+
+DE3338890A1
+              (en)
+            
+*
+
+1983-10-27
+1985-05-09
+Beiersdorf Ag, 2000 Hamburg
+
+  NEW O / W EMULSIFIERS FOR COSMETIC PURPOSES
+ 
+       
+
+
+
+US4797402A
+              (en)
+            
+*
+
+1987-06-02
+1989-01-10
+Dorsey Kenneth E
+Cooling anti-itch skin preparations 
+       
+
+
+
+US5676955A
+              (en)
+            
+*
+
+1990-11-09
+1997-10-14
+Henkel Kommanditgesellschaft Auf Aktien
+Local anesthetic 
+       
+
+
+
+DE4115849A1
+              (en)
+            
+*
+
+1991-05-15
+1992-11-19
+Lohmann Therapie Syst Lts
+
+  PENETRATION PROMOTING SUBSTANCE
+ 
+       
+
+
+
+US5922359A
+              (en)
+            
+*
+
+1998-02-17
+1999-07-13
+Youssefyeh; Rena T.
+Skin treatment compositions comprising unoxidized nerve tissue 
+       
+
+
+
+DE10139791A1
+              (en)
+            
+*
+
+2001-08-14
+2003-02-27
+Beiersdorf Ag
+
+  Use of Oroxylin A for the production of cosmetic or dermatological preparations for the prophylaxis and treatment of inflammatory skin conditions and / or for skin protection in the case of sensitive, dry skin
+ 
+       
+
+
+
+GB0217366D0
+              (en)
+            
+*
+
+2002-07-26
+2002-09-04
+Croda Int Plc
+Compositions 
+     
+
+
+
+EP1452167A1
+              (en)
+            
+*
+
+2003-02-28
+2004-09-01
+Cognis France S.A.
+Cosmetic, pharmaceutical and/or dermatological composition comprising an extract of Eperua falcata 
+       
+
+
+
+
+
+2006
+
+
+2006-01-30
+GB
+GB0601851A
+patent/GB2425475A/en
+not_active
+Withdrawn
+
+
+2006-01-30
+WO
+PCT/GB2006/000290
+patent/WO2006079830A1/en
+active
+Search and Examination
+
+
+
+
+
+
+
+Patent Citations (8)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+EP0019720A2
+              (en)
+            
+*
+
+1979-05-28
+1980-12-10
+BAYER ITALIA S.p.A.
+Mesulfen preparations and method of making them 
+       
+
+
+
+US4567039A
+              (en)
+            
+*
+
+1984-10-12
+1986-01-28
+Revlon, Inc.
+Hair conditioning composition and method 
+       
+
+
+
+US5641480A
+              (en)
+            
+*
+
+1994-12-08
+1997-06-24
+Lever Brothers Company, Division Of Conopco, Inc.
+Hair care compositions comprising heteroatom containing alkyl aldonamide compounds 
+       
+
+
+
+DE19613424A1
+              (en)
+            
+*
+
+1996-04-04
+1997-10-09
+Goldwell Gmbh
+Odourless nail varnish remover 
+       
+
+
+
+US6224853B1
+              (en)
+            
+*
+
+1997-04-22
+2001-05-01
+Woolcombers Group Plc
+Aqueous compositions comprising a lipid and a lanolin-derived surfactant, and their use 
+       
+
+
+
+DE19834812A1
+              (en)
+            
+*
+
+1998-08-01
+2000-02-03
+Beiersdorf Ag
+Use of sterol derivatives, e.g., dihydrocholesterol, to strengthen the barrier function of skin, e.g., to protect against drying of skin and associated skin aging 
+       
+
+
+
+US20030125223A1
+              (en)
+            
+*
+
+2001-12-29
+2003-07-03
+Robert Denton
+Soy based hand cleaner and method of use 
+       
+
+
+
+US20050008680A1
+              (en)
+            
+*
+
+2003-07-09
+2005-01-13
+The Procter & Gamble Company
+Composition for wet wipes that enhances the efficacy of cleansing while being gentle to the skin 
+       
+
+
+
+
+Cited By (2)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+WO2013126155A1
+            (en)
+          
+*
+
+2012-02-24
+2013-08-29
+Bausch & Lomb Incorporated
+Ophthalmic compositions with alkoxylated natural waxes 
+       
+
+
+
+US9375401B2
+            (en)
+          
+
+2012-02-24
+2016-06-28
+Bausch Ã· Lomb Incorporated
+Ophthalmic compositions with alkoxylated natural waxes 
+       
+
+
+
+
+Also Published As
+
+
+
+Publication number
+Publication date
+
+
+
+
+
+
+GB2425475A
+              (en)
+            
+
+2006-11-01
+
+
+
+GB0601851D0
+              (en)
+            
+
+2006-03-08
+
+
+
+
+
+Similar Documents
+
+
+
+Publication
+Publication Date
+Title
+
+
+
+
+
+
+
+TW508246B
+                (en)
+              
+
+
+2002-11-01
+
+Stabilization of an unstable retinoid in oil-in-water emulsions for skin care compositions 
+     
+
+
+
+
+US6342208B1
+                (en)
+              
+
+
+2002-01-29
+
+Oil-in-water emulsion containing C10-C24 fatty acid derivatives for treating skin of mammals 
+       
+
+
+
+
+US6099849A
+                (en)
+              
+
+
+2000-08-08
+
+Skin care moisturizers and cleansers 
+       
+
+
+
+
+US7771753B2
+                (en)
+              
+
+
+2010-08-10
+
+Topical formulations comprising ceramic hydroxyapatite particles 
+       
+
+
+
+
+KR100423458B1
+                (en)
+              
+
+
+2004-05-17
+
+External skin preparation 
+       
+
+
+
+
+US20080254150A1
+                (en)
+              
+
+
+2008-10-16
+
+Management of dermatitic symptoms of mammalian integument with emollient disinfectant formulations 
+       
+
+
+
+
+US20050063930A1
+                (en)
+              
+
+
+2005-03-24
+
+Topical formulation of the oil-in-water type, comprising galactolipid material as emulsifier, with a prolonged effect of an incorporated active substance 
+       
+
+
+
+
+US4960592A
+                (en)
+              
+
+
+1990-10-02
+
+Lanolin and lanolin oil skin treatment composition 
+       
+
+
+
+
+EP1005320A1
+                (en)
+              
+
+
+2000-06-07
+
+Non-irritating composition for treating acne and other skin conditions 
+       
+
+
+
+
+JP2010522757A
+                (en)
+              
+
+
+2010-07-08
+
+
+  Treatment of mammalian skin with skin emollient fungicide
+ 
+       
+
+
+
+
+JP3020278B2
+                (en)
+              
+
+
+2000-03-15
+
+
+  Cosmetic composition containing hydroxyalkanoate derivative
+ 
+     
+
+
+
+
+EP1069886B1
+                (en)
+              
+
+
+2003-11-12
+
+Use of a topical formulation of the oil-in-water type, comprising galactolipid material as emulsifier, for providing a prolonged effect of an incorporated active substance 
+       
+
+
+
+
+US11331326B2
+                (en)
+              
+
+
+2022-05-17
+
+Composition for prevention or treatment of inflammatory skin diseases or severe pruritus comprising the aqueous solubilized ursodeoxycholic acid 
+       
+
+
+
+
+KR20020027198A
+                (en)
+              
+
+
+2002-04-13
+
+Method for reduction of inflammation and erythema 
+     
+
+
+
+
+JPH08259433A
+                (en)
+              
+
+
+1996-10-08
+
+Cosmetic or preparation for external use containing humectant composition 
+       
+
+
+
+
+Trapp
+
+
+2007
+
+Is there room for improvement in the emollients for adjuvant therapy?
+
+
+
+
+CN107898734B
+                (en)
+              
+
+
+2021-08-31
+
+Application of agave extract in preparing external itching-relieving and moisturizing personal care product 
+       
+
+
+
+
+Reuter et al.
+
+
+2008
+
+Skin tolerance of a new bath oil containing St. Johnâs wort extract
+
+
+
+
+WO2006079830A1
+                (en)
+              
+
+
+2006-08-03
+
+Alkoxylated lanolin derivatives and compositions therewith 
+       
+
+
+
+
+JP5746807B2
+                (en)
+              
+
+
+2015-07-08
+
+
+  Cosmetic composition for skin
+ 
+     
+
+
+
+
+WO2004011581A1
+                (en)
+              
+
+
+2004-02-05
+
+Compositions formed from the reduction of lanolin 
+       
+
+
+
+
+US20160303036A1
+                (en)
+              
+
+
+2016-10-20
+
+Compositions for long-lasting moisturizing cosmetic formulation comprising ucuuba butter with high concentration of myristic acid, as well as the use of said formulation for the preparation of a highly moisturizing cosmetic product and kit 
+       
+
+
+
+
+WO2019221531A1
+                (en)
+              
+
+
+2019-11-21
+
+Composition for improving vaginal health of women comprising poly-gamma-glutamic acid or salt thereof 
+       
+
+
+
+
+JP5768114B2
+                (en)
+              
+
+
+2015-08-26
+
+
+  Method for producing an external preparation for aging
+ 
+     
+
+
+
+
+Hannuksela et al.
+
+
+1990
+
+Effects of dermatological vehicles on the skin
+
+
+
+
+
+Legal Events
+
+
+
+Date
+Code
+Title
+Description
+
+
+
+
+2006-09-13
+121
+Ep: the epo has been informed by wipo that ep was designated in this application
+
+
+
+
+2006-12-21
+DPE1
+Request for preliminary examination filed after expiration of 19th month from priority date (pct application filed from 20040101)
+
+
+
+
+2008-03-19
+122
+Ep: pct application non-entry in european phase
+
+
+Ref document number:
+              06709583
+
+
+Country of ref document:
+              EP
+
+
+Kind code of ref document:
+              A1
+
+
+
+
+2008-03-19
+WWW
+Wipo information: withdrawn in national office
+
+
+Ref document number:
+              6709583
+
+
+Country of ref document:
+              EP
+
+
+
+
+2012-01-05
+DPE1
+Request for preliminary examination filed after expiration of 19th month from priority date (pct application filed from 20040101)
+
+
+
+
+
+
+
+
+
+
+
+
+
+

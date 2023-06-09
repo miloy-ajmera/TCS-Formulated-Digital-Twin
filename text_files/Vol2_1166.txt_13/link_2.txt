@@ -1,0 +1,157 @@
+Document Name: role of Methyl Paraben in Cover Cream2
+Document link: http://www.thecosmeticchemist.com/molecule_of_the_week/methylparaben.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Cosmetic Chemist
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home 
+ About 
+ News 
+ Events 
+ Education
+
+ Skin Science 
+ Hair Care Technology 
+ Oral Care 
+ Regulatory 
+ Formulation Science 
+ Career Corner 
+ Molecule of the Week 
+ Crossword Puzzles 
+
+
+ Resources
+
+ Links 
+ Societies 
+ Online Education 
+ Cosmetic Science Degrees 
+ Journals 
+ Research Groups 
+
+
+ Careers
+
+ Job Listing 
+ Post an Ad 
+
+
+
+
+
+Menu
+
+
+
+
+ 
+Methylparaben
+
+INCI name: methylparaben 
+  Synonyms: p-hydroxybenzoic acid methyl ester
+Molecular formula: C8H8O3 
+Molecular weight: 152.15 g/mol
+IUPAC name: methyl 4-hydroxybenzoate
+CAS number: 99-76-3
+EC number: 202-785-7
+
+  Methylparaben is frequently used as a preservative in cosmetics to prevent the growth of bacteria and mold in products that would otherwise be susceptible to microbial growth.1 It is a broad spectrum antimicrobial agent that is effective over a widespread pH range. Interestingly, it is believed that the mechanism of action of methylparabenâlike other parabensâis by interfering with cellular membrane transfer processes as well as by inhibition of the synthesis of DNA, RNA, and enzymes in bacterial cells.2 On the molecular level, methylparaben is characterized by its alkyl hydroxybenzoate structure in which case esterification is carried out with p-hydroxybenzoic acid in the presence of an alcohol (in this case methanol) resulting in the formation of the methyl ester of 4-hydroxybenzoic acid. Other common parabens used to preserve cosmetic products include ethylparaben, propylparaben, isopropylparaben, isobutylparaben, and benzylparaben. 
+There has been a lot of concern that parabens are endocrine disruptors and may play a role in the development of breast cancer and male infertility.3,4 Endocrine disruptors are defined as compounds that interfere with the normal function of the endocrine system and can interfere with development and also affect the reproductive, immune, and neurological systems.5 Parabens bind to human estrogren receptors; however, they have very weak estrogenic activity (thousands of times less) as compared to the natural female sex hormone, 17Î²-estradiol (an estrogen), and researchers have argued that such low levels of activity more than likely do not induce a significant in vivo biological response.6-8 Furthermore, research in this area has yet to elucidate a direct relationship between breast cancer and parabens.9-15 
+Legislation
+In 2014, the European Parliament passed an ammendment to Commission Regulation 1223/2009, which is the regulatory framework for finished cosmetic products. The new ammendment prohibits the use of isopropylparaben, isobutylparaben, phenylparaben, benzylparaben, and pentylparaben in cosmetic products in the European Union.16 Further, the directive provides authorized use levels for methylparaben and ethylparaben as 0.4% for a single paraben and 0.8% for mixtures of parabens. Later in 2014, another ammendment was issued by the European Parliament, setting guidelines for the use levels of propylparaben and butylparaben not to exceed a combined concentration of 0.19%.16 In addition, these two parabens cannot be used in products designed for treatment of the nappy (diaper) area of children under three years of age. The legislation in Europe was passed in response to similar actions taken by the Danish government. The Scientific Committee on Consumer Safety of the European Union made its decisions based on limitations of available safety assessment and toxicological data for the affected parabens. 
+The Association of Southeast Asian Nations' (Asean) Cosmetics Committee (ACC), followed suite with the European Union and passed very similar legislation in 2014.17 On the other hand, the Food and Drug Administration (FDA) in the United States and Health Canada have not passed any legislation regulating the use of parabens in cosmetics. In fact, the FDA states on its website: âFDA scientists continue to review published studies on the safety of parabens. At this time, we do not have information showing that parabens as they are used in cosmetics have an effect on human health.â18 In addition, it should be noted that the Cosmetic Ingredient Review Expert Panelâan organization based in the U.S. that assesses the safety of cosmetic ingredientsâmet on several occasions (2004, 2008, and 2012) and determined that the parabens are safe for use in cosmetics.15,19 Moreover, parabens are permitted for use in cosmetics by the Ministries of Health in Australia, Brazil, and Japan. 
+Properties20
+Boiling point: 270-280 Â°C21
+Melting point: 131 Â°C21
+LogP: log Kow = 1.9622
+pKa: 8.4 (est.)23
+Î»max: 258 nm (ethanol); log E = 4.2224
+Stability: Parabens are stable against hydrolysis during autoclaving and resist saponification. Calcium salts are stable while sodium salts are unstable.25
+Solubility: 1 g dissolves in 40 mL warm oil, about 70 mL warm glycerol.21  Solubility at 25 Â°C in methanol (59 g/100 g), ethanol (52 g/100 g), propylene glycol (22 g/100 g), peanut oil (0.5 g/100 g), acetone (64 g/100 g), benzene (0.7 g/100 g), ether (23 g/100 g), carbon tetrachloride (0.1 g/100 g).26
+ Footnotes
+  1. It should be noted that parabens are also used as preservatives in food and pharmaceutical products. 
+  2. N. Valkova, F. LÃ©pine, L. Valeanu, M. Dupont, L. Labrie, J.-G. Bisaillon, R. Beaudet, F. Shareck, and R. Villemur, Hydrolysis of 4-hydroxybenzoic acid esters (parabens) and their aerobic transformation into phenol by the resistant Enterobacter cloacae strain EM, Appl. Environ. Microbiol., 67, 2404â2409 (2001).
+3. P.D. Darbre, A. Aljarrah, W.R. Miller, N.G. Coldham, M.J. Sauer, and G.S. Pope, Concentrations of parabens in human breast tumours, J. Appl. Toxicol., 24, 5-13 (2004). 
+4. P.D. Darbre and P.W. Harvey, Parabens can enable hallmarks and characteristics of cancer in human breast epithelial cells: a review of the literature with reference to new exposure data and regulatory status, J. Appl. Toxicol., 34, 925-938 (2014).
+5. National Institute of Environmental Health Sciences; https://www.niehs.nih.gov/health/topics/agents/endocrine/. 
+6. J. Boberg, C. Taxvig, S. Christiansen, and U. Hass, Possible endrocrine disrupting effects of parabens and their metabolites, Reprod. Toxicol., 30, 301-312 (2010). 
+7. R. Golden, J. Gandy, and G. Vollmer, A review of the endocrine activity of parabens and implications for potential risks to human health, Crit. Rev. Toxicol., 35, 435-458 (2005). 
+8. E. Karpuzoglu, S.D. Holladay, and G.M. Gogal, Parabens: potential impact of low-affinity estrogen receptor binding chemicals on human health, J. Toxicol. Environ. Health B Crit. Rev., 16, 321-335 (2013). 
+9. D. Sasseville, M. Alfalah, and J.P. Lacroix, "Parabenoia" Debunked, or "Who's Afraid of Parabens?" Dermatitis, 26, 254-259 (2015). 
+10. F. Castelain and M. Castelain, Parabens: a real hazard or a scare story? Eur. J. Dermatol., 22, 723-727 (2012). 
+11. P.D. Darbre and P.W. Harvey, Paraben esters: review of recent studies of endocrine toxicity, absorption, esterase and human exposure, and discussion of potential human health risks, J. Appl. Toxicol., 28, 561-578 (2008). 
+12. R.J. Witorsch and J.A. Thomas, Personal care products and endocrine disruption: A critical review of the literature, Crit. Rev. Toxicol., 40(Suppl. 3), 1-30 (2010). 
+13. M.G. Kirchhof and G.C. de Gannes, The health controversies of parabens, Skin Therapy Lett., 18, 5-7 (2013). 
+14. E. Konduracka, K. Krzemieniecki, and G. Gajos, Relationship between everyday use cosmetics and female breast cancer, Pol. Arch. Med. Wewn., 124, 264-269 (2014). 
+15. Cosmetic Ingredient Review Expert Panel, Final amended report on the safety assessment of Methylparaben, Ethylparaben, Propylparaben, Isopropylparaben, Butylparaben, Isobutylparaben, and Benzylparaben as used in cosmetic products, Int. J. Toxicol., 27(Supp. 4), 1-82 (2008). 
+16. Commission Regulation (EU) No 358/2014 (April 9, 2014) amends Annex II and V of Commission Regulation (EC) No 1223/2009 (November 30, 2009) of the European Parlament and the Scientific Committee on Consumer Safety. Essentially, Annex II contains a list of substances prohibited in cosmetic products. Commission Regulation (EU) No 1004/2014 is another amendment to Commission Regulation (EC) No 1223/2009 mandating the use levels of propylparaben and butylparaben not to exceed a combined concentration of 0.19%. 
+17. T.Y. Be, Asia-Pacific update: ASEAN mirrors EU regulation, Cosmet. Toil., August 26, 2014.
+18. http://www.fda.gov/cosmetics/productsingredients/ingredients/ucm128042.htm.
+19. Cosmetic Ingredient Review (CIR), Parabens â New Data (2012). Available from: http://www.cir-safety.org/sites/default/files/paraben_build.pdf.
+20. Miscellaneous physical properties and a pertinent review of analytical methods to determine paraben concentrations in cosmetic preparations can be found in: J.A. OcaÃ±a-GonzÃ¡lez, M. Villar-Navarro, M. Ramos-PayÃ¡n, R. FernÃ¡ndez-Torres, and M.A. Bello-LÃ³pez, New developments in the extraction and determination of parabens in cosmetics and environmental samples. A review, Anal. Chim. Acta, 858, 1-15 (2015).
+21. M.J. O'Neil, The Merck Index: An Encyclopedia of Chemicals, Drugs, and Biologicals, 13th ed., Merck and Co., Inc: Whitehouse Station, NJ, p. 1088 (2001). 
+22. C. Hansch, A. Leo, and D. Hoekman, Exploring QSAR: Hydrophobic, Electronic, and Steric Constants, American Chemical Society: Washington, DC, p. 42 (1995). 
+23. E. Tomlinson and T.L. Hafkenscheid, âAqueous solution and partition coefficient estimation from HPLC dataâ in Partition Coefficient, Determination and Estimation, Eds. W.J. Dunn, J.H.Block, and R.S. Pearlman, Pergamon Press: New York, NY (1986).
+24. R.C. Weast, Handbook of Chemistry and Physics, 60th ed., CRC Press: Boca Raton, FL, p. C-193 (1979). 
+25. T.E. Furia, CRC Handbook of Food Additives, 2nd ed., The Chemical Rubber Co: Cleveland, OH, p. 124 (1972).
+26. M.R. Thomas, Ullmann's Encyclopedia of Industrial Chemistry, 7th ed., John Wiley & Sons: New York, NY (2005).
+ 
+
+
+
+
+
+ Home 
+ Contact 
+ Terms of Use 
+ Privacy Policy 
+ Advertising 
+
+
+
+Menu
+
+
+
+ 
+Copyright 2016-2022, The Cosmetic Chemist, LLC. All Rights Reserved.
+
+
+
+
+

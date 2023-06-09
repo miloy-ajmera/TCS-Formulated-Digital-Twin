@@ -1,0 +1,730 @@
+Document Name: role of Lipopeg 39-S in Protective Cream4
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8465302/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Phytosomes as an Emerging Nanotechnology Platform for the Topical Delivery of Bioactive Phytochemicals - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Pharmaceutics
+
+
+                    PMC8465302
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.4M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Pharmaceutics
+
+
+                    PMC8465302
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Pharmaceutics. 2021 Sep; 13(9): 1475. Published online 2021 Sep 15.  doi: 10.3390/pharmaceutics13091475PMCID: PMC8465302PMID: 34575551Phytosomes as an Emerging Nanotechnology Platform for the Topical Delivery of Bioactive PhytochemicalsWaleed S. Alharbi,1 Fahad A. Almughem,2 Alshaimaa M. Almehmady,1 Somayah J. Jarallah,2 Wijdan K. Alsharif,2 Nouf M. Alzahrani,2 and  Abdullah A. Alshehri2,*Waleed S. Alharbi1Department of Pharmaceutics, Faculty of Pharmacy, King Abdulaziz University, P.O. Box 80260, Jeddah 21589, Saudi Arabia; as.ude.uak@ibrahlamsw (W.S.A.); as.ude.uak@ydamhemlanma (A.M.A.)Find articles by Waleed S. AlharbiFahad A. Almughem2National Centre for Pharmaceutical Technology, Life Science and Environment Research Institute, King Abdulaziz City for Science and Technology (KACST), P.O. Box 6086, Riyadh 11442, Saudi Arabia; as.ude.tscak@mehgumlaf (F.A.A.); as.ude.tscak@hallarajs (S.J.J.); as.ude.tscak@firahslaw (W.K.A.); as.ude.tscak@inarhazlamn (N.M.A.)Find articles by Fahad A. AlmughemAlshaimaa M. Almehmady1Department of Pharmaceutics, Faculty of Pharmacy, King Abdulaziz University, P.O. Box 80260, Jeddah 21589, Saudi Arabia; as.ude.uak@ibrahlamsw (W.S.A.); as.ude.uak@ydamhemlanma (A.M.A.)Find articles by Alshaimaa M. AlmehmadySomayah J. Jarallah2National Centre for Pharmaceutical Technology, Life Science and Environment Research Institute, King Abdulaziz City for Science and Technology (KACST), P.O. Box 6086, Riyadh 11442, Saudi Arabia; as.ude.tscak@mehgumlaf (F.A.A.); as.ude.tscak@hallarajs (S.J.J.); as.ude.tscak@firahslaw (W.K.A.); as.ude.tscak@inarhazlamn (N.M.A.)Find articles by Somayah J. JarallahWijdan K. Alsharif2National Centre for Pharmaceutical Technology, Life Science and Environment Research Institute, King Abdulaziz City for Science and Technology (KACST), P.O. Box 6086, Riyadh 11442, Saudi Arabia; as.ude.tscak@mehgumlaf (F.A.A.); as.ude.tscak@hallarajs (S.J.J.); as.ude.tscak@firahslaw (W.K.A.); as.ude.tscak@inarhazlamn (N.M.A.)Find articles by Wijdan K. AlsharifNouf M. Alzahrani2National Centre for Pharmaceutical Technology, Life Science and Environment Research Institute, King Abdulaziz City for Science and Technology (KACST), P.O. Box 6086, Riyadh 11442, Saudi Arabia; as.ude.tscak@mehgumlaf (F.A.A.); as.ude.tscak@hallarajs (S.J.J.); as.ude.tscak@firahslaw (W.K.A.); as.ude.tscak@inarhazlamn (N.M.A.)Find articles by Nouf M. AlzahraniAbdullah A. Alshehri2National Centre for Pharmaceutical Technology, Life Science and Environment Research Institute, King Abdulaziz City for Science and Technology (KACST), P.O. Box 6086, Riyadh 11442, Saudi Arabia; as.ude.tscak@mehgumlaf (F.A.A.); as.ude.tscak@hallarajs (S.J.J.); as.ude.tscak@firahslaw (W.K.A.); as.ude.tscak@inarhazlamn (N.M.A.)Find articles by Abdullah A. AlshehriMarta Gallo, Academic Editor and  Marta Miola, Academic EditorAuthor information Article notes Copyright and License information Disclaimer1Department of Pharmaceutics, Faculty of Pharmacy, King Abdulaziz University, P.O. Box 80260, Jeddah 21589, Saudi Arabia; as.ude.uak@ibrahlamsw (W.S.A.); as.ude.uak@ydamhemlanma (A.M.A.)2National Centre for Pharmaceutical Technology, Life Science and Environment Research Institute, King Abdulaziz City for Science and Technology (KACST), P.O. Box 6086, Riyadh 11442, Saudi Arabia; as.ude.tscak@mehgumlaf (F.A.A.); as.ude.tscak@hallarajs (S.J.J.); as.ude.tscak@firahslaw (W.K.A.); as.ude.tscak@inarhazlamn (N.M.A.)*Correspondence: as.ude.tscak@irhehslaudba; Tel.: +966-509-896-863Received 2021 Aug 19; Accepted 2021 Sep 13.Copyright © 2021 by the authors.Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).AbstractThe emergence of phytosome nanotechnology has a potential impact in the field of drug delivery and could revolutionize the current state of topical bioactive phytochemicals delivery. The main challenge facing the translation of the therapeutic activity of phytochemicals to a clinical setting is the extremely low absorption rate and poor penetration across biological barriers (i.e., the skin). Phytosomes as lipid-based nanocarriers play a crucial function in the enhancement of pharmacokinetic and pharmacodynamic properties of herbal-originated polyphenolic compounds, and make this nanotechnology a promising tool for the development of new topical formulations. The implementation of this nanosized delivery system could enhance the penetration of phytochemicals across biological barriers due to their unique physiochemical characteristics, improving their bioavailability. In this review, we provide an outlook on the current knowledge of the biological barriers of phytoconstituents topical applications. The great potential of the emerging nanotechnology in the delivery of bioactive phytochemicals is reviewed, with particular focus on phytosomes as an innovative lipid-based nanocarrier. Additionally, we compared phytosomes with liposomes as the gold standard of lipid-based nanocarriers for the topical delivery of phytochemicals. Finally, the advantages of phytosomes in topical applications are discussed.Keywords: phytosomes, nanocarriers, skin barrier, phytochemicals, topical application, drug delivery1. Introduction1.1. PhytochemicalsPhytochemicals are bioactive polyphenolic compounds naturally found in plants that have been studied extensively due to their potential medicinal and nutritional benefits to humans. They not only play a protective role for the plant but are responsible for its color, aroma, and flavor. These compounds have attracted the attention of scientists worldwide, owing to their potent bioactivity against different diseases, their low cytotoxicity and their ability to be utilized in the production of cosmetics and dietary supplements [1,2,3].Phytochemicals are categorized into three major categories based on their structural elements: terpenoids, alkaloids and polyphenolic substances. Numerous flavor and aromatic molecules are trepeniods, including menthol, linalool, geraniol, and caryophyllene, while catechols, lignins, tannins, stilbenes, and flavonoids are phenolic compounds. Alkaloids are further divided into Pyrrolidine, Pyrrolidine-pyridine, Pyridine-piperidine, and Isoquinoline alkaloids based on their heterocyclic ring systems [4]. There are a variety of ways in which phytochemicals can exhibit their influence, including acting as substrates, cofactors, or inhibitors of enzymatic reactions [5,6,7]. By demonstrating their chelating properties, they can remove undesirable constituents from the gastrointestinal tract. Additionally, phytochemicals can be utilized to enhance the uptake and stability of a variety of essential nutrients [8]. The antioxidant activity of phytochemicals is one of their potential properties that has an important function in scavenging free radicals in human tissue [9]. An example of the utility of phytochemicals is salicin, which is a compound found in willow tree bark. It has anti-inflammatory and analgesic activity, and is also used as a precursor to numerous conventional non-steroidal anti-inflammatory drugs (NSAIDs). Due to its widespread use and high demand, greater quantities of salicin were prepared using chemical synthesis [10]. Certain phytochemicals also have nutritional and energetic properties, which is why they are referred to as nutraceuticals [7,11]. Efforts have been made to identify bioactivities in different phytochemicals compounds extracted from a variety of plant species that can be implemented in the treatment of different diseases. Despite the potential bioactivity of phytochemicals, there remain concerns about their quality, safety and efficacy [12].Nowadays, the skin is more likely to become infected as a result of changing environmental conditions and an increase in pollution levels. Consequently, there has been a significant increase in the demand for herbal medicine in both developed and developing countries owing to their potent biological efficacy, higher safety margins, and lower cost than synthetic agents [13]. Numerous herbal extracts originating from different plant species have been evaluated for their potential to treat skin conditions due to their medicinal benefits, which include antimicrobial and anti-inflammatory properties, their ability to promote blood clotting and wound healing, and to relieve burns and other skin diseases [14,15]. Several common skin conditions, including eczema, acne, urticaria, pruritus, psoriasis, and other bacterial and fungal skin diseases, can be treated efficiently using medicinal herbs [16,17]. The chemical structure of most plant extracts used in pharmaceutical and cosmeceutical applications is based on flavonoids or other polyphenol rings, which have high molecular weight and, hence, have poor solubility and are poorly absorbed through the skin [18,19]. 1.2. Structural Nature and Barrier Properties of the Skin The human skin is a remarkably complex and sophisticated organ that serves as a barrier to external exposure by enveloping the inner body components. It consists of three main layers—the epidermis, dermis and hypodermis—and each has different degrees of specialization. Along with its function as a waterproof barrier, the epidermis contains melanocytes, which determine the skin’s tone and pigmentation. The dermis is the skin layer underneath the epidermis that composed of connective tissue, sweat glands and hair follicles and helps to maintain the skin’s flexibility. In comparison to the other layers of the skin, the hypodermis is made up of fat and connective tissue and is responsible for shock absorption [20]. The stratum corneum (SC), or outer layer of the epidermis, is entirely made up of dead, keratinized epithelium cells and other metabolically inactive cells that cover the outer surface of the skin [21]. The SC and epidermis are regarded as the most effective barriers against hydrophilic and lipophilic compounds, respectively [22,23]. Furthermore, in terms of skin mechanical properties, elastic fibres are essential for skin elasticity and are directly responsible for skin performance and appearance [24]. Figure 1 shows a simplified structure of the skin and its barriers.Open in a separate windowFigure 1Simplified structure of the skin and its barriers.In terms of skin permeation, there are three possible cellular routes for active compounds penetration across the SC: transcellular, intercellular, and appendageal diffusion (i.e., sweat glands and hair follicles) [25]. The latter route is, however, considered to be insignificant due to the appendages occupying only a relatively low surface area (e.g., approximately 0.1% of the forearm skin area) [26]. The main route of the compound’s penetration across the SC is via the intracellular pathway, which causes a direct penetration of the SC to reach the lower layer of the epidermis or even lower to the dermis layer [26]. Figure 2 shows the mechanism of transdermal drug delivery. Open in a separate windowFigure 2Mechanism of transdermal drug delivery.The skin is an excellent site for the administration of pharmaceutical agents for both local and systemic impacts and serves as a strong barrier to the permeability of the majority of substances [27]. The transdermal permeability can be increased when the active ingredients are lipophilic and have a low molecular weight. Most of the widely studied phytochemicals are polyphenols-based compounds such as flavonoids, alkaloids, and terpene, as shown in Figure 3, which have poor bioavailability and low lipid solubility due to their hydrophilic nature, which limits their in vivo activity [28]. The multiple ring structures of polyphenols results in large particle size compounds being unable to cross the biological membrane by passive diffusion [29]. Many flavonoids, such as glycyrrhizic acid and silymarin, have significant value in medicine and cosmetics when applied topically. Nevertheless, their topical application is restricted due to poor absorption through the skin structure [30]. Absorption through the skin is influenced by a number of factors such as skin temperature, hydration, and the permeability of ingredients due to molecular size, which is believed to be the most important factor affecting dermal penetration [21,31]. Furthermore, particle-related factors, such as surface properties, coating presence, and surface charge type, can affect skin penetration [32]. Therefore, the loading of these herbal polyphenol phytochemicals in a novel delivery system can facilitate their penetration across the skin barriers and would be essential to enhance their topical bioavailability [33].Open in a separate windowFigure 3The chemical structure of major classes of phytochemicals.1.3. Nanotechnology Platform for the Delivery of Bioactive Phytochemicals As mentioned previously, the chemical structure for most of the phytochemicals in the plant kingdom that have biological activity and can be utilized in the pharmaceutical and cosmeceutical fields are mainly based on polyphenolic compounds [34], which have a multiple-ring structure, high miscibility in the aqueous phase, and high molecular weight [29,35]. These bioactive polyphenolic compounds are formed in the plant as secondary metabolites to perform different functions, and are widely present and easily extracted from a variety of plant species [36]. The outstanding properties of polyphenolic compounds have attracted researchers in the field of pharmaceutical science owing to their potent therapeutic efficacy against different diseases and their capacity to be utilized in the production of cosmetics and dietary supplements [37]. Several studies demonstrated that polyphenolic phytochemical-rich products have potent anti-inflammatory, anticancer, antidiabetic, and antioxidant activities in addition to other multiple health benefits to human organs [9,38,39,40]. The chemical nature of these components has a crucial impact on the lipid solubility properties, as poor penetration across lipid-rich biological membranes, such as the skin barrier, has been reported, which leads to poor bioavailability [18]. This is considered the main challenge regarding the translation of phytochemicals’ therapeutic activity to clinical settings [41]. To overcome the low absorption of bioactive polyphenolic phytocompounds, nanosized drug delivery systems can be utilized to enhance their penetration across biological barriers thanks to their unique physicochemical properties, increasing the bioavailability of phytocompounds [42,43,44]. Nanocarriers have an important function over conventional phytochemicals obtained at other scales in protecting the bioactive polyphenolic phytochemicals from oxidation and degradation, hence maintaining their long-term effects as well as improving their stability [45,46]. The high surface area of nanoparticles supports the effective delivery of active ingredients into the skin in the case of topical applications of phytochemicals [47]. The mechanism of polyphenolic phytochemicals’ incorporation into nanoparticles is by the hydrogen bond (H-bond) or through hydrophobic interactions [45]. There are various types of nanotechnology-based materials that are currently used in the delivery of polyphenolic phytochemicals. Nanosized delivery systems can be classified into two main groups: Organic delivery systems (i.e., liposomes and polymeric nanoparticles) and inorganic delivery systems (i.e., silver, gold, and copper nanoparticles) [48]. Liposomes are one of the most commonly used nanoparticles that have been successfully used in the pharmaceutical and cosmetics fields [49]. The encapsulation of curcumin into liposomal nanoparticles showed potent activity against lung, pancreatic, and colorectal cancer at a lower dose in comparison to free curcumin [50]. Polymeric nanoparticles can also be used as an efficient nanocarrier of phytochemicals, and the encapsulation of curcumin extract into chitosan and polylactic-co-glycolic acid (PLGA) nanoparticles exhibited a significant improvement in its solubility profile compared to a conventional curcumin formulation [51]. Metallic inorganic nanoparticles, such as silver, have also been used as a nanocarrier for phytocompounds. Ginseng herbal extract showed stronger anticancer activity in vitro against A549 cells at a lower dose when formulated as silver nanoparticles [52]. Using gold nanoparticles as a delivery system of Moringa oleifera demonstrated potent therapeutic activity against the in vitro model of non-small cell lung carcinoma [53]. Sankar et al. studied the effect of Ficus religiosa incorporation into copper nanoparticles and the results showed a significant increase in anticancer activity [54].Another example of how nanoparticulate delivery platforms can be used to overcome SC barriers is transferosomes [55]. Transferosomes can transport hydrophilic substances and biomacromolecules into deeper layers of the epidermis, resulting in a sustained release effect and improved bioavailability [56]. This type of lipid nanocarriers is more elastic, ultra-deformable, and adaptable to external stress than liposomes (inflexible lipid layer) or niosomes (non-ionic surfactant-based vesicles) [56]. Four essential components make up transferosomes: phospholipids, an edge activator (surfactant or bile salt), ethanol, and water, which serves as the vehicle for transport. An edge activator is required to destabilize the lipid bilayer and increase membrane deformability. Transferosomes can spontaneously squeeze through SC channels to avoid vesicle rupture when passing through numerous skin layers [57]. Curcuma longa extract, capsaicin, vincristine, and colchicine are examples of natural compounds that can be formulated using transferosomes as a delivery vehicle [58,59,60,61].In recent years, there have been significant developments of novel nanosized delivery systems that may enhance the absorption and penetration of herbal bioactive materials through biological membranes, and therefore increase their bioavailability [62]. One of these emerging nanotechnologies that can be implemented to overcome the poor bioavailability of bioactive phytoconstituents and enhance their miscibility in lipid-rich barriers is phytosomes [63].2. Phytosomes2.1. Phytosome Significance in Drug DeliveryPhytosomes are an innovative lipid-based delivery system that have a liposomes-related structure and can be used for the entrapment of different types of polyphenolic-based phytoconstituents to improve their absorption when administrated [63,64,65]. The first phytosomes were developed by Indena company (Milan, Italy) in the late 1980s, which aimed to increase the bioavailability of drugs by complexing them to phospholipids. The structure of phytosomes is composed of standardized polyphenolic plant extract incorporated into phospholipids, mainly phosphatidylcholine (PC) [28]. The lipid vesicles of phytosomes are the result of a H-bond interaction between the polyphenolic moiety of the bioactive herbal extracts and the phosphate group of phospholipids matrix in non-polar solvents [66]. The water-soluble polyphenolic rings of phytochemicals (i.e., flavonoids and terpenoids) have a high affinity to chemically bind to the hydrophilic moiety of phospholipids (i.e., choline) to form the body of phytosomes, while the phosphatidyl lipophilic moiety of the phospholipids forms a tail to incorporate the water-soluble choline-bound phytoconstituents [67,68]. The encapsulation of poorly soluble polyphenolic compounds into the phytosomal delivery system has a significant effect on the enhancement of their absorption, leading to better penetration and absorption across the biological membrane and enhanced bioavailability [69]. The bifunctional nature of phytosomes has been demonstrated to improve their pharmacodynamic and pharmacokinetic properties in comparison with conventional herbal compounds when applied topically, owing to their capabilities in the transition between lipophilic and hydrophilic barriers of the skin [28,70]. The potential role of phytosomes in the improvement of herbal-originated polyphenolic compounds used for the treatment of several diseases makes this nanotechnology a promising tool for the development of new formulations. Phytosomes are usually prepared by mixing the active biological phytoconstituents with phospholipids, such as PC, phosphatidylserine (PS), and phosphatidylethanolamine (PE), in specific stoichiometric ratios under certain conditions [71]. Following mixing, aprotic solvents, such as ethyl acetate, methylene chloride, dioxane and acetone, are evaporated under a constant vacuum to isolate the complex completely, meaning the phytoconstituents will be incorporated into the phytosomes lipid vesicles [72]. The emergence of phytosomes nanotechnology has a potential impact in the field of drug delivery to resolve the barriers of poor lipid solubility and improve the bioavailability of bioactive phytochemicals such as silybin, ginkgo and polyphenolic compounds found in olive oil. Several phytosomes-based products are being formulated and commercialized, some of which are described in Table 1. Silybin, the active ingredient of Silybum marianum (milk thistle), is a water-soluble flavonoid reported to have potent hepatoprotective and antioxidant activities [73]. However, silybin has poor solubility and absorption in a lipid-rich biological membrane. The formulation of the milk thistle extract as a phytosome delivery system increased its absorption and led to a sevenfold increase in antioxidant activity in comparison to free silybin [74]. Moreover, oral administration of silybin-phytosome preparation showed remarkable enhancement in bioavailability in rats [75]. Table 1Phytosome-based bioactive phytochemicals products available on the market.Phytosome FormulationSource PlantUseReferenceSilybin
+Silymarin marium
+Hepatoprotective and antioxidant activities[73,74,75]Ginkgo
+Ginkgo biloba
+Brain and vascular protection[29,76]Olive oil
+Europaea oil
+Anti-inflammatory, antioxidant, anti-hyperlipidemic activities and cardiovascular protection[77]Centella
+Centella asiatica
+Vein and skin disorders[78]Greenselect
+Camellia sinensis
+Antioxidant activity[79]Rutin
+Ruta graveolens
+
+Sophora japonica
+Rheumatoid arthritis[80]Curcumin
+Curcuma longa
+Hepatoprotective activity[81,82]Leucoselect
+Vitis vinifera
+Antioxidant activity[28]Ecdhinacea
+Echinacea augustifolia
+Immunomodulator[83]Cartaegus
+Cartaegus mexicana
+Antioxidant activity[84]Haw thorn
+Carteagus species
+Antihypertensive activity[65]Roscugenin
+Ruscus aculeatus
+Anti-inflammatory activity[85]Open in a separate windowUsing phytosomes nanotechnology for the delivery of ginkgo herbal extract had beneficial results in the pharmacokinetic profile and enhanced brain and vascular protection [76]. A study conducted with human volunteers demonstrated that the incorporation of Gingko biloba extract into a phytosomes delivery system increased the absorption of its flavonoids and terpenes constituents significantly in comparison to the free extract [29]. Oleaselect is a commercialized product based on the polyphenols of olive oil and is manufactured as a phytosomes formulation. Anti-inflammatory, antioxidant, and antihyperlipidemic activity, as well as cardiovascular protection, were reported to be enhanced when it was administrated as a phytosomal formulation in comparison to standard oil [77]. The preparation of Centella asiatica in the form of phytosomes was found to reduce the oxidative stress in diabetic patients and enhance protection against ischemic-reperfusion damage in rat heart [78]. Greenselect herbal extracts exerted several benefits, such as the ability to scavenge free radicals, antioxidant activity, and proinflammatory cytokine formation interference, among others. The formulation of Greenselect as phytosomes was reported to improve the bioavailability of this extract and, therefore, its bioactivity [79]. The phytosomal formulation of rutin showed significantly higher dermal absorption when compared to the conventional rutin formulation, resulting in greater activity against rheumatoid arthritis [80]. The incorporation of poorly soluble curcumin into a phytosomes delivery system enhanced hepatic protection via the restoration of liver glutathione system [81]. The bounding of the flavonoids in the bioactive curcumin with the phosphatidylcholine moiety of 1,2-dimyristoyl-sn-glycero-3-phosphocholine facilitated the absorption of curcumin in rats in comparison with the standard composition [82]. The therapeutic activity of other phytoconstituents, such as Vitis vinifera [28], Echinacea augustifolia [83], Cartaegus mexicana [84], Carteagus species [65] and Ruscus aculeatus [85], has been shown to be significantly improved when incorporated into phytosomes.2.2. Phytosomes in Clinical TrialsFollowing the phase of preclinical studies, several phytosome-based formulations have reached the clinical trial in order to perform further investigations on drug saftey and how a drug can interact with human body. This is very crucial step toward obtaining the final approval from FDA. In 2007, the first clinical trial on phytosome-based formulation was conducted (ClinicalTrials.gov Identifier: {"type":"clinical-trial","attrs":{"text":"NCT00487721","term_id":"NCT00487721"}}NCT00487721, accessed date: 28 August 2021). Silybin with its reported anti-cancer activity [86] was incorporated into phytosomes to be used in prostate cancer patients before their prostatectomy. The preliminary result demonstrated that a high oral dose of silybin-phytosome achieves transient high blood concentration, and concluded that this phytosomal formulation could be used as an alternative future therapy in the treatment of patients with prostate cancer [87,88]. The second study that reached clinical trial was also based on silybin-phytosome formulation (ClinicalTrials.gov Identifier: {"type":"clinical-trial","attrs":{"text":"NCT02146118","term_id":"NCT02146118"}}NCT02146118, accessed date: 28 August 2021). The phytosomal formulation was used as combination therapy with Erlotinib (Tarceva) and investigated under the name of Siliphos. This study is still under investigation to date, and they proposed that this combination could have synergistic effect in the treatment of patients With EGFR mutant lung adenocarcinoma. In 2014, a study on the efficacy of green tea extract loaded into phytosome on obesity was conducted (ClinicalTrials.gov Identifier: {"type":"clinical-trial","attrs":{"text":"NCT02542449","term_id":"NCT02542449"}}NCT02542449, accessed date: 28 August 2021). The administrated formulation was used to control the weight in obese patients following their weight loss, and this study is currently in phase IV in clinical trial. The result showed a significant effect of green tea extract phytosomal preparation in maintaining the weight in obese patients following their weight loss® [89]. Grape seed extract was also investigated in clinical trial to explore its efficacy against early stages lung cancer when prepared as phytosome-based formulation (ClinicalTrials.gov Identifier: {"type":"clinical-trial","attrs":{"text":"NCT04515004","term_id":"NCT04515004"}}NCT04515004, accessed date: 28 August 2021). The study outcome exhibited that the phytosomal formulation delayed the planned surgery of >14 days. The activity of bergamot-phytosome preparation as anti-hypercholesterolemic agent in subjects with mild hypercholesterolemia when combined artichoke leaf dry extract was studied (ClinicalTrials.gov Identifier: {"type":"clinical-trial","attrs":{"text":"NCT04697121","term_id":"NCT04697121"}}NCT04697121, accessed date: 28 August 2021). The result showed that the administration of prepared formulation has positive impact on lipid and metabolic parameters, hence significant activity as anti-hypercholesterolemic agent was achieved. The most recent study reached clinical trial has explored the adjuvant benefits of quercetin phytosome in treatment of patients with COVID-19 (ClinicalTrials.gov Identifier: {"type":"clinical-trial","attrs":{"text":"NCT04578158","term_id":"NCT04578158"}}NCT04578158, accessed date: 28 August 2021). It is proposed that quercetin phytosome will contribute to boosting the natural immunity of the subjects and will help in preventing the COVID-19 disease progression (i.e., preventing the need of hospitalization). The study is still under investigation to date. Table 2 summarizes the phytosome-based formulations on clinical trials. Table 2Phytosome-based formulations on clinical trials. All data were obtained from www.clinicaltrials.gov, accessed on 28 August 2021.Phytosome FormulationConditionClinical Trial Phase and No.Sudy OutcomeReferenceSilybinProstate cancerPhase II({"type":"clinical-trial","attrs":{"text":"NCT00487721","term_id":"NCT00487721"}}NCT00487721)High blood concentration of silybin[87,88]SilybinEGFR mutant lung adenocarcinomaPhase II({"type":"clinical-trial","attrs":{"text":"NCT02146118","term_id":"NCT02146118"}}NCT02146118)Under investigation-Green tea extractObesityPhase IV ({"type":"clinical-trial","attrs":{"text":"NCT02542449","term_id":"NCT02542449"}}NCT02542449)Maintaing weight following weight loss[89]Grape seeds extractEarly stages lung cancerPhase II({"type":"clinical-trial","attrs":{"text":"NCT04515004","term_id":"NCT04515004"}}NCT04515004)Delay planned surgery of >14 days-BergamotHypercholesterolemiaNot applicable({"type":"clinical-trial","attrs":{"text":"NCT04697121","term_id":"NCT04697121"}}NCT04697121)Anti-hypercholesterolemic activity-QuercetinCOVID-19Phase III({"type":"clinical-trial","attrs":{"text":"NCT04578158","term_id":"NCT04578158"}}NCT04578158)Under investigation-Open in a separate window2.3. Phytosomes and Other Lipid-Based Nanocarriers: Similarities and DifferencesIn the field of topical dosage form, the optimal pharmaceutical vehicle should facilitate the penetration of incorporated molecules efficiently through the skin barriers, protect the loaded compounds from degradation, be easy to prepare, be safe for the skin, and not cause dermal sensitivity or irritation [26,90]. Phytosomes have been demonstrated to effectively deliver poorly soluble molecules via the incorporation of these materials in the lipid bilayer membrane or through conjugation with the lipid composition [91]. To evaluate phytosomes as an emerging nanotechnology for topical applications and to determine their capability to transport biomaterials efficiently through the skin barriers, they need to be compared with other lipid-based drug vehicles that proved to have superior characteristics in topical applications. Liposomes and transferosomes are one of the most widely used lipid-based vehicles in the field of drug delivery nanotechnology for topical applications to facilitate the penetration of water-soluble compounds across the skin [92,93]. Phytosomes, liposomes and transferosomes are examples of lipid-based delivery systems that have the ability to encapsulate bioactive phytochemicals in order to increase the concentration of poorly soluble molecules, their absorption, and stability [94]. Since their discovery, different phytosomal and liposomal products for skin care have been approved and marketed, while very few transferosomal formulations have been translated into clinical products. Due to the structural similarities, as shown in Figure 4A, the comparison between these lipid-based drug delivery systems would be essential. Open in a separate windowFigure 4(A) Figurative representation of structural comparison between different lipid-based drug delivery systems (phytosomes, liposomes, and transferosomes). In the preparation step of phytosomes, phytochemicals are mixed with phospholipids to make phytochemical-phospholipid complex. This complex is mixed with cholesterol in suitable solvent to make phytosomes [91]. In case of liposomes and transferosomes preparation, phospholipid is mixed first with lipids to make the liposomal vesicle. Then, the phytochemical is incorporated in the liposome later [97,98]. (B) Represent the composition of phospholipid moiety. The phospholipid is composed of a polar head (which contains phosphate group) and hydrophobic tail (which composed of fatty acid chains). The most common example of polar head is PC. The chemical structure in the figure is the typical structure of the phospholipid derived from the soybean.Phytosomes retain some crucial characteristics of liposomes and transferosomes such as the ability to increase the solubility of poorly soluble molecules as in polyphenolic phytochemicals. Interestingly, phytosomes and transferosomes exhibit additional novel natural properties in the topical applications such as long-term stability and higher skin penetration [91]. These characteristics encouraged researchers to explore the similarities and differences between phytosomes and commonly used lipid-based nanocarriers (i.e., liposomes and transferosomes). The comparison should be established according to several criteria relevant to the area of nanotechnology such as the structure of lipid vesicles, their phospholipid composition, and the method of preparation. A good understanding of phytosomes’ special properties has crucial consequences in the field of topical dosage form industry and may improve the quality of topical products. Phytosomes have many similarities to liposomes and transerosomes in terms of structural and functional properties. Different types of lipids can be used to formulate the lipid bilayer structure of phytosomes such as cholesterol, PC, PS, PE, and glycosphingolipids [28]. Figure 4B shows the composition of phospholipid moiety of phytosomes which is composed of a polar head containing a phosphate group and hydrophobic tail composed of fatty acid chains. These lipids, in addition to others, are commonly used in the preparation of liposomes and transferosomes delivery systems. In liposomes, several cationic lipids such as 1,2-dioleoyl-3-trimethylammonium-propane (DOTAP), 1,2-distearoyl-sn-glycero-3-phosphoethanolamine (DSPE), and 3ß-[N-(N’,N’-dimethylaminoethane)-carbamoyl]cholesterol (DC-Chol) are commonly added to the formulation to improve their ability to cross the negatively charged cell membrane [95]. Transferosomes are mainly composed of phospholipids, an edge activator (i.e., surfactant or bile salt ranging from 10–25%), low percentage of ethanol, and water as a vehicle as shown in Figure 4A [56,57,96].In terms of colloidal stability, phytosomes and transferosomes exhibited a greater physical stability in aqueous media than liposomes with no sign of aggregation in 4 °C and 25 °C up to three months [99,100], whereas liposomes should be freeze dried to maintain their stability. Different bioactive substances, including herbal products, can be packaged into these lipid-based nanocarriers and applied to the skin to facilitate their dermal absorption. In topical products, phytosomes and transferosomes are considered superior to liposomes in the delivery of active ingredients, owing to their higher absorption properties through the skin [101]. When compared with liposomes as the most commonly used drug delivery system for skin purposes, phytosomes and transferosomes demonstrated superior SC penetration resulting in high accumulation in the deeper areas of the skin (i.e., the epidermis and dermis). The high dermal penetration properties of transferosomes are owed to their ultra-deformability and the ability to squeeze via SC and transport as intact vesicles when the hydrodynamic diameter is below 300 nm [102,103]. The edge activator in transferosomes play an essential function in providing a high radius of curvature that leads to destabilize the lipid bilayer and increase membrane deformability, hence, the capability of transferosomes to squeeze through different skin layers can be observed [103].Structurally, bioactive molecules are part of the phytosomes membrane [97], whereas the hydrophilic molecules are engulfed in the aqueous core of liposomes and transferosomes or entrapped in the lipid layer membrane if they have a lipophilic nature [98]. The structure of phytosomes is based on the H-bond interaction between the phytoconstituents and the polar moiety of phospholipid molecules [104], whereas no chemical interaction occurs in liposomes and transferosomes because the encapsulated materials are entrapped naturally in the lipid bilayer membrane or in the aqueous core [105]. The stability of incorporated compounds is much higher in phytosomes, owing to the chemical interaction, whereas one of the main challenges in liposomes nanotechnology is the leakage of bioactive molecules from the lipid-vesicles over time [106]. Phytosomes are typically prepared following dissimilar protocols of liposomes and transferosomes. Liposomes and transerosomes are usually formulated by thin hydration method [107,108]. Briefly, appropriate amounts of lipid mixture were dissolved in the suitable organic solvent and mixed in a round bottom flask. The lipid mixture then dried by nitrogen gas until the formation of thin film. Then, a hydration solvent (i.e., distilled water or phosphate buffer saline) containing the loaded material is added to the lipid thin film to form the multilamellar vesicles (MLV). These vesicles are then converted to unilamellar vesicles (ULV) using a sonicator or extruder [109]. However, the encapsulation method used for phytosomes mainly depends on the chemical conjugation between the phospholipid’s moiety and the polyphenol-based bioactive phytoconstituents [110]. Table 3 summarizes the key similarities and differences between different lipid-based drug delivery systems that commonly used in the topical delivery of herbal substances.Table 3Key similarities and differences in the features of different lipid-based drug delivery systems that commonly used in the topical delivery of herbal substances.PropertyPhytosomesLiposomesTransferosomesReferenceStructureLipid bilayer vesicles composed of different type of phospholipids that can chemically bound to phytochemicalsLipid bilayer visecles composed of wider range of lipids including cationic, anionic, and neutral lipidsLipid bilayer viscles composed of phospholipids, an edge activator (i.e., surfactant or bile salt ranging from 10–25%), low percentage of ethanol, and water as a vehicle[55,91]Encapsulation The bioactive molecules are fixed by H-bond to the polar tip of the phospholipidsThe active materials are incorporated in the aqueous core of the vesicles or in the lipid bilayer membraneThe active materials are incorporated in the aqueous core of the vesicles or in the lipid bilayer membrane[55,97,98]PreparationThe phosphatidylcholine and the phytochemicals actually form a 1:1 or 2:1 molecular complex that contains chemical bondsThe lipid compositions mixed alone, then the loaded materials added to the lipid thin film to form the complex with no chemical bonds formedThe lipid compositions mixed alone, then the loaded materials added to the lipid thin film to form the complex with no chemical bonds formed[55,109,110]Hydration bufferAct with aprotic solvents such as acetone,1,4-dioxane, hexane, metyhlenechlorideand ethylacetateFormed in the presence of a water or buffer solutionFormed in the presence of a water or buffer solution[55,110]Skin absorption High skin absorptionLower skin absorptionHigh skin absorption[55,101]StabilityHigh stabilityLower stabilityHigh stability[55,106]Open in a separate window3. Advantages of Phytosomes in Topical ApplicationsIn topical applications, phytosomes have several potential advantages over the conventional topical formulations. Phytosomes increase skin absorption and bioavailability, and they induce the delivery of herbal active constituents to tissues [111]. Moreover, phytosomes improve skin functions by enhancing hydration, the enzyme balance, and collagen structure [30]. The high affinity of phytosomes to skin phospholipids intensified its effectiveness compared to conventional free compounds [112]. As mentioned earlier, there are several barriers facing topical applications of phytosomes formulation. For example, one of the most important barriers of the transdermal application of phytochemicals is the SC, which is the thick outer layer of the epidermis [113]. Bioactive molecules can cross the SC via different pathways, which are either intercellular or intracellular. Intercellular penetration can be achieved via sweat glands, sebaceous, or hair follicles, whereas the intercellular lipid matrix and corneocytes are the main pathways of intracellular penetration [114,115]. It has been reported that enhancing the diffusion coefficient of the drug can increase the concentration of biomolecules and enhance partitioning between the these molecules and the SC layer, and that all these factors can improve the permeability of biomolecules to the SC for transdermal application [26]. The transdermal permeability of topical products can be increased when the active ingredients are lipophilic and have a low molecular weight. Most of the widely studied phytocompounds are polyphenols, which have poor bioavailability and lipid solubility due to their hydrophilic nature, limiting their in vivo activity [28]. The phospholipid moieties of phytosomes have a high affinity to bind several flavonoids compounds tightly [116]. There are several herbal extracts, such as hawthorn, grape seed, green tea, milk thistle and ginseng, that are more effective when they are loaded into phytosomes, even more so than when they are carried in a liposomal formulation [112]. The formulation of polyphenol-based phytochemicals phytosomes nanoparticles enhances the application of standard herbal materials as the phospholipid molecules of phytosomes interact with the active phytoconstituents, increasing their stability [117]. Furthermore, the phytosomes–herbal complex has a higher affinity to the skin phospholipid moiety, which can improve the lipid solubility of the topical formulation [112]. Figure 5 demonstrates some examples of the phytocompounds incorporated into a phytosomal delivery system.Open in a separate windowFigure 5Scheme demonstrating examples of phytocompounds incorporated into a phytosomal delivery system.G. biloba extract has been used for different applications and can be applied topically for its antioxidant and antiaging agents [118]. There are various reports that have compared standard G. biloba extract and the extract complexed with phospholipids. It was reported that the topical application of G. biloba improved peripheral circulation due to its topical anti-inflammatory activity, and it was more effective in a complex with phospholipid moieties of phytosomes [119]. The bioavailability and pharmacokinetics profiles of the conventional G. biloba extract and the phytosomal form were evaluated by Chen et al., who showed that the bioavailability of the herbal extract increased significantly in the phytosomal complex [120]. In a clinical study by Kennedy et al., they compared the cognitive and mood effects of a low dose of G. biloba extract and products complexing the extract with two types of phospholipids (PS or PC) in human subjects. Their findings demonstrated that all treatments were associated with improved calmness; however, there was a modest enhancement in the therapeutic benefit of secondary memory performance for G. biloba extract complexed with PC [121].Quercetin is a phenolic phytochemical compound found in various vegetables, fruits, and leaves, and has soothing antioxidant and anti-itching effects [122]. In a study by Maramaldi et al., the formulation of quercetin complexed with phytosomes nanoparticles exhibited potent dermal activity above that of standard quercetin and similar to the conventional anti-inflammatory drugs that are usually used [122]. The quercetin-phytosomes complex had a significant impact by reducing redness, itching, and inflammation of damaged skin. Research also suggested that this complex may also support restoration of the skin barrier function, increasing hydration, and reducing water loss [122]. In another report by El-Fattah et al., quercetin phytosomes demonstrated superiority in the dermal therapeutic benefit over free quercetin in an ovariectomized rat model [123]. Lycopene is a terpene molecule found in fruits and vegetables that is known for its antioxidant, antiproliferative, and anti-inflammatory activities. Its incorporation into lipid nanocarriers enhanced the dermal absorption significantly to tackle skin aging and other skin conditions [124,125]. Moreover, it can also produce anti-proliferative effect against tumour [126].Molecular interaction of phytochemical-phospholipid complex has been studied using various analysis methods. Studies using 13C-NMR, 1H-NMR, 31P-NMR, IR, DSC, and X-ray revealed that complex formation resulted in chemical shifts and signal changes different from their original components [33,85,127,128,129,130,131]. All these studies confirm the generation of chemical bonds between the phospholipid’s moieties and phytochemicals moieties. Chemical interactions include H-bonding, van der waals interaction, and hydrophobic effect, dipole-dipole interaction [132]. The chemical structure of the phytochemicals can significantly affect the type of bonds formed during complex formation. For instance, lycopene, a type of hydrophobic β -carotenoids, consists of tetraterpene carbon chain interacts mainly via hydrophobic effect with the acyl chain of the phospholipid (i.e., fatty acid chain moiety and hydrophobic tail). This interaction has been confirmed by x-ray study where the signal of hydrophobic part of PC disappeared completely among the formation of the complex [133]. Quercetin, a polyphenolic compound, on the other hand, has a cyclic hydrophobic part and hydroxyl groups which makes it an amphiphilic compound. Studies have shown that quercetin mainly interacts via H-bonding with the polar head group and with a lesser extent with the acyl chain moiety of the phospholipid [127,128]. Saponins, are glycoside compounds consists of a parent compound (such as terpene) and sugar derivative. A study of saponins formed from pentacyclic triterpenes and one or more sugar units showed that saponin interacts with the polar head group of the phospholipid during complex formation [15]. Polyphenolic compounds extracted from olive oil fruit (i.e., tyrosol, verbascoside, hydroxytyrosol), interact mainly with the polar head group via H-bonding [33]. 18-β-glycyrrhetinic acid, a steroid like structure, contains pentacyclic rings and an acid group. The polar group of 18-β-glycyrrhetinic acid interacts via H-bond with the polar head group of phospholipids and formed a complex [132,134]. In the DSC thermogram, the complex of 18-β-glycyrrhetinic acid-phospholipid showed a signal different than that of 18-β-glycyrrhetinic acid alone or the phospholipid alone. For example, 18-β-glycyrrhetinic Acid (18β-GA) showed a sharp endothermic peak at 294° which revealed its melting and thermogram of phospholipids showed mild and broad endothermic peak at 277°, 203° and 96°, while thermogram of 18β-GA phytosome revealed endothermic peak at 245°, 198° and 80° [130]. Table 4 summarizes the main types of chemical interactions between phospholipids and phytochemicals.Table 4Examples of phytochemicals-phospholipids chemical interactions during phytosomes preparation.PhytochemicalType of PhytochemicalType of PhospholipidChemical InteractionAnalysis MethodReferenceQuercetinPolyphenolsPCH-bonds with the polar group of the phosphplipid1H-NMR, 31P-NMR, 13C-NMR[127] PolyphenolsDPPC 1(PC)(1) Electrostatic interactions,(2) H-bonds with the polar group of the phosphplipid,(3) Hydrophobicinteraction with fatty acyl chains1H-NMR, 31P-NMR, 13C-NMR[128]LycopeneCarotenoids (Terpenoid)DPPC(PC)Hydrophobic interaction with the acyl fatty acid chainX-Ray[133]β-carotene, LycopeneCarotenoids (Terpenoid)POPC 2(PC)Hydrophobic interaction with the acyl fatty acid chainX-Ray[131]Tyrosol, Verbascoside, HydroxytyrosolPolyphenolsPCH-bonds with the polar group of the phosphplipid1H-NMR, 31P-NMR, 13C-NMR[33]SaponinTriterpene glycosidesPCH-bonds with the polar group of the phosphplipid1H-NMR, 31P-NMR, 13C-NMR[15]18-β-glycyrrhetinic AcidTriterpenoidsSoy lecithin (PC)H-bonds with the polar group of the phosphplipidDSC[132]Open in a separate window1 DPPC: Dipalmitoylphosphatidylcholine. 2 POPC: 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine.In vitro skin permeation studies have shown better permeation parameters and higher permeability rate into skin when phytochemicals complexed with PC. For example, oxymatrine (OXM) when complexed with PC (OXM-PC) in microemulsion formulation demonstrated better flux (Jss) and permeability coefficient (Kp) compared to control, which is free oxymatrine solution (Jss was 253.63 ± 8.62 and 67.87 ± 8.03 µg/cm2.h for complexed and free formula, respectively) when complexed with PC [135]. Oxymatrine is a cyclic water-soluble compound found in a number of Chinese herbs, such as Sophora flavescens, Sophora macrocarpa, Ammothamnus lehmannii, Euchresta horsfieldii and Leguminosae, and can be used as anti-inflammatory agent [136]. Another example is boswellic acid (BA), which is the active phytoconstituent in Boswellia serrata extract. The extract has been widely used in the treatment of inflammatory conditions and has some cosmetic applications [137]. In vitro permeation studies on Caco-2 cell model of B. serrata extract complexed with phospholipid showed superior mass flux (J) than the free extract alone (J was 24.02 ± 2.08 and 3.07 ± 0.09 ng/ cm2.min, for complexed and free formula, respectively) [138]. As mentioned earlier, SC is a barrier for drugs and chemicals to penetrate to the skin and deliver topically. In a study by F.-H. Cao et al., where in vivo skin permeation studies in mice have shown that percent of OXM-PC complex retention in destartum corneum skins is higher than that of free oxymatrine solution [135]. The percent of retention ratio of OXM-PC reached a peak after 6 h (31.41%) and maintained a level of 22.37% after 24 h, while free (OXM) solution reached a peak after 9 h (17.23%) and decreased quickly to 4.56% after 24 h. This data confirmed that complexation with phospholipid can increase accumulation of OXM and enhance topical activity [135]. Moreover, phytosomes was found to release the phytoconstituent in higher percent than other vesicular systems such as liposomes and niosomes. In a study by Sharma et al. investigated the effect of BA phytosomes in producing topical anti-inflammatory effect in induced paw edema in rats compared to BA liposomes and BA niosomes. BA phytosomes were found to be the most in reducing the inflammation and edema after 1, 3, 5 h of topical application (78.26 ± 3.67, 89.23 ± 3.11, and 88.89 ± 3.17%), while BA liposomes and BA niosomes could reduce the inflammation after topical application, but it was less than the effect of BA phytosomes (52.17 ± 2.14, 80.00 ± 3.19, 77.78 ± 3.02% for liposome and 60.87 ± 2.54, 81.54 ± 3.24, 79.63 ± 3.14% for niosome). The least inhibition of inflammation was by BA free formula (39.13 ± 1.97, 70.77 ± 2.71, and 68.52 ± 2.37% at 1, 3, and 5 h, respectively). This study indicate that vesicular system was more effective than free extract probably due to the encapsulation of the extract inside the vesicle and their small size [139]. The bioavailability of phytochemicals has been greatly improved when formulated into phytosomes compared to free phytochemicals. Ju Ho et al. investigated the anti-inflammatory effect of C. asiatica phytosomes in a mouse model of phthalic anhydride-induced atopic dermatitis. They found that C. asiatica phytosomes successfully inhibited inflammatory activity by macrophage, which could be a promising tool for the management of atopic dermatitis [140]. C. asiatica extract contains different groups of phytoconstituents, such as siaticoside, asiatic acid and madecassic acid, and is known for its anti-inflammatory activity [141]. Phytosomes have been formulated in gel [130] and cream [122] for topical applications. Djekic et al. reported the formulation of a 18β-GA phytosomes loaded hydrogel by dispersion of 18β-GA phytosomes and carbomer with water. Then, formula was neutralized by 10% sodium hydroxide. Humectant was added later to form hydrogel. The study reported satisfactory physical stability during the first 30 days at room temperature and refrigerator with no organoleptic signs of change [130]. 18β-GA is a triterpenoid derivative extracted from Glycyrrhiza glabra which has anti-inflammatory, anti-irritant, and soothing effects [132,142,143]. Quercetin phytosomes cream is available in a cream form in the market (Quercevita®) which mainly contains lecithin, lecithin-quercetin, hydrogenated polydecene, glycerin and water [122].In terms of scale up production of phytosomal formulations, the manufacturing process and the obstacles that could be faced should be recognized to ensure the successful transfer of phytosome technology from the laboratory to the market. One of the main advantages of phytosomes scale up process is that the materials required for phytosomes preparation are mainly safe which make phytosomes as good target to be synthesized in large scale for industrial production [144]. In addition, these materials were well evaluated in terms of toxicological effects which show low hazard report [144]. Moreover, the process of phytosome preparation is simple, does not required complicated and expensive instruments, and does not interfere with the encapsulated herbal substances as high chemical binding between phytosome’s phospholipid and phytochemical is occurred [144]. The easy process of scale up production of phytosomes from laboratory scale to industrial scale led to the successful reach of several phytosomal formulations to the market, and most of these products were developed by Indena [144,145]. For example, silybin phytosomes (Siliphos®) and curcumin phytosomes (Meriva®) are commercially available products currently used in cancer therapy [129]. Despite the easy scale up production of phytosomes, the high pH sensitivity of some phytosome components could limit the large scale synthesis of such phytosme-based formulations and should be considered during the manufacturing [146].4. Conclusions and Future ProspectsPhytochemicals have potential for various therapeutic and aesthetic topical applications. Due to their low absorption profile, nanoengineered drug delivery systems are used to enhance the penetration of bioactive polyphenolic phytocompounds across biological barriers, thus increasing their bioavailability. One of these novel nanoplatforms is phytosomes nanocarriers. The lipid composition and nano-vesicular nature of phytosomes enables them to penetrate skin layers in a more effective manner than the extract of phytochemicals alone. Phytosomes are similar to liposomes in terms of vesicular structure and have a similar stability and skin penetration profile. However, in phytosomes, the phospholipid interacts with the phytochemicals via the formation of a H-bond between the phospholipid’s polar head and the polar functionalities of the bioactive components. This crucially enhances the stability and skin penetration of phytochemicals in comparison to liposomes. Many phytochemicals have been formulated successfully as phytosomes, and there are likely to be other phytochemicals that can benefit from phytosomes formulations. Future research might consider using phytosomes with other phytochemicals or the incorporation of drug and phytochemicals in the same nano-vesicle to produce synergistic effects.FundingThis work was supported by the National Industrial Development and Logistics Program (NIDLP) through the Health Initiative and the Technology Leader Program Initiative, project numbers 20-0103 and 20-0051.Conflicts of InterestThe authors declare no conflict of interest.FootnotesPublisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.References1. Jasemi S.V., Khazaei H., Aneva I.Y., Farzaei M.H., Echeverría J. Medicinal Plants and Phytochemicals for the Treatment of Pulmonary Hypertension. Front. Pharmacol. 2020;11 doi: 10.3389/fphar.2020.00145. [PMC free article] [PubMed] [CrossRef] [Google Scholar]2. Oveissi V., Ram M., Bahramsoltani R., Ebrahimi F., Rahimi R., Naseri R., Belwal T., Devkota H.P., Abbasabadi Z., Farzaei M.H. Medicinal plants and their isolated phytochemicals for the management of chemotherapy-induced neuropathy: Therapeutic targets and clinical perspective. DARU J. Pharm. Sci. 2019;27:389–406. doi: 10.1007/s40199-019-00255-6. [PMC free article] [PubMed] [CrossRef] [Google Scholar]3. Kooti W., Servatyari K., Behzadifar M., Asadi-Samani M., Sadeghi F., Nouri B., Marzouni H.Z. Effective Medicinal Plant in Cancer Treatment, Part 2: Review Study. J. Evid.-Based Integr. Med. 2017;22:982–995. doi: 10.1177/2156587217696927. [PMC free article] [PubMed] [CrossRef] [Google Scholar]4. O’Hagan D. Pyrrole, pyrrolidine, pyridine, piperidine and tropane alkaloids (1998 to 1999) Nat. Prod. Rep. 2000;17:435–446. doi: 10.1039/a707613d. [PubMed] [CrossRef] [Google Scholar]5. Zengin G., Guler G.O., Aktumsek A., Ceylan R., Picot C.M.N., Mahomoodally M.F. Enzyme Inhibitory Properties, Antioxidant Activities, and Phytochemical Profile of Three Medicinal Plants from Turkey. Adv. Pharmacol. Sci. 2015;2015:1–8. doi: 10.1155/2015/410675. [PMC free article] [PubMed] [CrossRef] [Google Scholar]6. Zarei I., Brown D.G., Nealon N.J., Ryan E.P. Rice Bran Metabolome Contains Amino Acids, Vitamins & Cofactors, and Phytochemicals with Medicinal and Nutritional Properties. Rice. 2017;10:24. doi: 10.1186/s12284-017-0157-2. [PMC free article] [PubMed] [CrossRef] [Google Scholar]7. Dillard C.J., German J.B. Phytochemicals: Nutraceuticals and human health. J. Sci. Food Agric. 2000;80:1744–1756. doi: 10.1002/1097-0010(20000915)80:12<1744::AID-JSFA725>3.0.CO;2-W. [CrossRef] [Google Scholar]8. Selby-Pham S.N.B., Miller R.B., Howell K., Dunshea F., Bennett L.E. Physicochemical properties of dietary phytochemicals can predict their passive absorption in the human small intestine. Sci. Rep. 2017;7:1–15. doi: 10.1038/s41598-017-01888-w. [PMC free article] [PubMed] [CrossRef] [Google Scholar]9. Zhang Y.-J., Gan R.-Y., Li S., Zhou Y., Li A.-N., Xu D.-P., Li H.-B. Antioxidant Phytochemicals for the Prevention and Treatment of Chronic Diseases. Molecules. 2015;20:21138–21156. doi: 10.3390/molecules201219753. [PMC free article] [PubMed] [CrossRef] [Google Scholar]10. Desborough M.J.R., Keeling D.M. The aspirin story—From willow to wonder drug. Br. J. Haematol. 2017;177:674–683. doi: 10.1111/bjh.14520. [PubMed] [CrossRef] [Google Scholar]11. Howes M.R., Perry N.S., Vásquez-Londoño C.A., Perry E.K. Role of phytochemicals as nutraceuticals for cognitive functions affected in ageing. Br. J. Pharmacol. 2019;177:1294–1315. doi: 10.1111/bph.14898. [PMC free article] [PubMed] [CrossRef] [Google Scholar]12. Govindaraghavan S., Sucher N., Govindaraghavan S., Sucher N. Quality assessment of medicinal herbs and their extracts: Criteria and prerequisites for consistent safety and efficacy of herbal medicines. Epilepsy Behav. 2015;52:363–371. doi: 10.1016/j.yebeh.2015.03.004. [PubMed] [CrossRef] [Google Scholar]13. Ekor M. The growing use of herbal medicines: Issues relating to adverse reactions and challenges in monitoring safety. Front. Pharmacol. 2014;4:177. doi: 10.3389/fphar.2013.00177. [PMC free article] [PubMed] [CrossRef] [Google Scholar]14. Kim J.-E. Molecular Targets of Phytochemicals for Skin Inflammation. Curr. Pharm. Des. 2018;24:1533–1550. doi: 10.2174/1381612824666180426113247. [PubMed] [CrossRef] [Google Scholar]15. Bahramsoltani R., Farzaei M.H., Rahimi R. Medicinal plants and their natural components as future drugs for the treatment of burn wounds: An integrative review. Arch. Dermatol. Res. 2014;306:601–617. doi: 10.1007/s00403-014-1474-6. [PubMed] [CrossRef] [Google Scholar]16. Dawid-Pac R. Medicinal plants used in treatment of inflammatory skin diseases. Adv. Dermatol. Allergol. 2013;3:170–177. doi: 10.5114/pdia.2013.35620. [PMC free article] [PubMed] [CrossRef] [Google Scholar]17. Laura V., Mattia F., Roberta G., Federico I., Emi D., Chiara T., Luca B., Elena C. Potential of Curcumin in Skin Disorders. Nutrients. 2019;11:2169.  doi: 10.3390/nu11092169. [PMC free article] [PubMed] [CrossRef] [Google Scholar]18. Manach C., Scalbert A., Morand C., Rémésy C., Jiménez L. Polyphenols: Food sources and bioavailability. Am. J. Clin. Nutr. 2004;79:727–747. doi: 10.1093/ajcn/79.5.727. [PubMed] [CrossRef] [Google Scholar]19. Kidd P.M. Bioavailability and activity of phytosome complexes from botanical polyphenols: The silymarin, curcumin, green tea, and grape seed extracts. Altern. Med. Rev. J. Clin. Ther. 2009;14:226–246. [PubMed] [Google Scholar]20. Wong R., Geyer S., Weninger W.J., Guimberteau J.-C., Wong J.K. The dynamic anatomy and patterning of skin. Exp. Dermatol. 2015;25:92–98. doi: 10.1111/exd.12832. [PubMed] [CrossRef] [Google Scholar]21. Prausnitz M.R., Elias P.M., Franz T.J., Schmuth M., Tsai J.-C., Menon G.K., Holleran W.M., Feingold K.R. Skin barrier and transdermal drug delivery. Dermatology. 2012;32:760–769. [Google Scholar]22. Schnittger S., Sinha M. The Materials Science of Cosmetics. MRS Bull. 2007;32:760–769. doi: 10.1557/mrs2007.162. [CrossRef] [Google Scholar]23. Andrews S.N., Jeong E., Prausnitz M.R. Transdermal Delivery of Molecules is Limited by Full Epidermis, Not Just Stratum Corneum. Pharm. Res. 2012;30:1099–1109. doi: 10.1007/s11095-012-0946-7. [PMC free article] [PubMed] [CrossRef] [Google Scholar]24. Sherratt M.J. Tissue elasticity and the ageing elastic fibre. AGE. 2009;31:305–325. doi: 10.1007/s11357-009-9103-6. [PMC free article] [PubMed] [CrossRef] [Google Scholar]25. Hadgraft J. Skin, the final frontier. Int. J. Pharm. 2001;224:1–18. doi: 10.1016/S0378-5173(01)00731-1. [PubMed] [CrossRef] [Google Scholar]26. Kim B., Cho H.-E., Moon S.H., Ahn H.-J., Bae S., Cho H.-D., An S. Transdermal delivery systems in cosmetics. Biomed. Dermatol. 2020;4:1–12. doi: 10.1186/s41702-019-0053-z. [CrossRef] [Google Scholar]27. Proksch E., Brandner J.M., Jensen J.-M. The skin: An indispensable barrier. Exp. Dermatol. 2008;17:1063–1072. doi: 10.1111/j.1600-0625.2008.00786.x. [PubMed] [CrossRef] [Google Scholar]28. Lu M., Qiu Q., Luo X., Liu X., Sun J., Wang C., Lin X., Deng Y., Song Y. Phyto-phospholipid complexes (phytosomes): A novel strategy to improve the bioavailability of active constituents. Asian J. Pharm. Sci. 2018;14:265–274. doi: 10.1016/j.ajps.2018.05.011. [PMC free article] [PubMed] [CrossRef] [Google Scholar]29. Amin T., Bhat S.V. A Review on Phytosome Technology as a Novel Approach to Improve the Bioavailability of Nutraceuticals. Int. J. Adv. Res. Technol. 2012;1:43. [Google Scholar]30. Gupta A., Ashawat M., Saraf S., Saraf S. Phytosome: A novel approach towards functional cosmetics. J. Plant Sci. 2007;2:644–649. [Google Scholar]31. Magnusson B.M., Anissimov Y., Cross S.E., Roberts M. Molecular Size as the Main Determinant of Solute Maximum Flux Across the Skin. J. Investig. Dermatol. 2004;122:993–999. doi: 10.1111/j.0022-202X.2004.22413.x. [PubMed] [CrossRef] [Google Scholar]32. Schneider M., Stracke F., Hansen S., Schaefer U.F. Nanoparticles and their interactions with the dermal barrier. Dermato-Endocrinol. 2009;1:197–206. doi: 10.4161/derm.1.4.9501. [PMC free article] [PubMed] [CrossRef] [Google Scholar]33. Semalty A., Semalty M., Rawat M.S.M., Franceschi F. Supramolecular phospholipids–polyphenolics interactions: The PHYTOSOME® strategy to improve the bioavailability of phytochemicals. Fitoterapia. 2010;81:306–314. doi: 10.1016/j.fitote.2009.11.001. [PubMed] [CrossRef] [Google Scholar]34. Panche A.N., Diwan A.D., Chandra S.R. Flavonoids: An overview. J. Nutr. Sci. 2016;5:e47. doi: 10.1017/jns.2016.41. [PMC free article] [PubMed] [CrossRef] [Google Scholar]35. Abubakar A.R., Haque M. Preparation of medicinal plants: Basic extraction and fractionation procedures for experimental purposes. J. Pharm. Bioallied Sci. 2020;12:1–10. doi: 10.4103/jpbs.JPBS_175_19. [PMC free article] [PubMed] [CrossRef] [Google Scholar]36. Kähkönen M.P., Hopia A.I., Vuorela H.J., Rauha J.-P., Pihlaja K., Kujala A.T.S., Heinonen M. Antioxidant Activity of Plant Extracts Containing Phenolic Compounds. J. Agric. Food Chem. 1999;47:3954–3962. doi: 10.1021/jf990146l. [PubMed] [CrossRef] [Google Scholar]37. Tungmunnithum D., Thongboonyou A., Pholboon A., Yangsabai A. Flavonoids and Other Phenolic Compounds from Medicinal Plants for Pharmaceutical and Medical Aspects: An Overview. Medicines. 2018;5:93.  doi: 10.3390/medicines5030093. [PMC free article] [PubMed] [CrossRef] [Google Scholar]38. Upadhyay S., Dixit M. Role of Polyphenols and Other Phytochemicals on Molecular Signaling. Oxid. Med. Cell. Longev. 2015;2015:1–15. doi: 10.1155/2015/504253. [PMC free article] [PubMed] [CrossRef] [Google Scholar]39. Boojar M.M.A. An Overview of the Cellular Mechanisms of Flavonoids Radioprotective Effects. Adv. Pharm. Bull. 2019;10:13–19. doi: 10.15171/apb.2020.002. [PMC free article] [PubMed] [CrossRef] [Google Scholar]40. Ozkan G., Kamiloglu S., Ozdal T., Boyacioglu D., Capanoglu E. Potential Use of Turkish Medicinal Plants in the Treatment of Various Diseases. Molecules. 2016;21:257.  doi: 10.3390/molecules21030257. [PMC free article] [PubMed] [CrossRef] [Google Scholar]41. Hollman P., Katan M. Absorption, metabolism and health effects of dietary flavonoids in man. Biomed. Pharmacother. 1997;51:305–310. doi: 10.1016/S0753-3322(97)88045-6. [PubMed] [CrossRef] [Google Scholar]42. Patra J.K., Das G., Fraceto L.F., Campos E.V.R., Rodriguez-Torres M.D.P., Acosta-Torres L.S., Diaz-Torres L.A., Grillo R., Swamy M.K., Sharma S., et al. Nano based drug delivery systems: Recent developments and future prospects. J. Nanobiotechnol. 2018;16:1–33. doi: 10.1186/s12951-018-0392-8. [PMC free article] [PubMed] [CrossRef] [Google Scholar]43. Martínez-Ballesta M., Gil-Izquierdo Á., García-Viguera C., Domínguez-Perles R. Nanoparticles and Controlled Delivery for Bioactive Compounds: Outlining Challenges for New “Smart-Food” for Health. Foods. 2018;7:72.  doi: 10.3390/foods7050072. [PMC free article] [PubMed] [CrossRef] [Google Scholar]44. Spanidi E., Karapetsas A., Voulgaridou G.-P., Letsiou S., Aligiannis N., Tsochantaridis I., Kynigopoulos S., Lambropoulou M., Mourtzinos I., Pappa A., et al. A New Controlled Release System for Propolis Polyphenols and Its Biochemical Activity for Skin Applications. Plants. 2021;10:420.  doi: 10.3390/plants10020420. [PMC free article] [PubMed] [CrossRef] [Google Scholar]45. Li Z., Jiang H., Xu C., Gu L. A review: Using nanoparticles to enhance absorption and bioavailability of phenolic phytochemicals. Food Hydrocoll. 2015;43:153–164. doi: 10.1016/j.foodhyd.2014.05.010. [CrossRef] [Google Scholar]46. Aqil F., Munagala R., Jeyabalan J., Vadhanam M.V. Bioavailability of phytochemicals and its enhancement by drug delivery systems. Cancer Lett. 2013;334:133–141. doi: 10.1016/j.canlet.2013.02.032. [PMC free article] [PubMed] [CrossRef] [Google Scholar]47. Rizvi S.A., Saleh A.M. Applications of nanoparticle systems in drug delivery technology. Saudi Pharm. J. 2017;26:64–70. doi: 10.1016/j.jsps.2017.10.012. [PMC free article] [PubMed] [CrossRef] [Google Scholar]48. Khalid K., Tan X., Zaid H.F.M., Tao Y., Chew C.L., Chu D.-T., Lam M.K., Ho Y.-C., Lim J.W., Wei L.C. Advanced in developmental organic and inorganic nanomaterial: A review. Bioengineered. 2020;11:328–355. doi: 10.1080/21655979.2020.1736240. [PMC free article] [PubMed] [CrossRef] [Google Scholar]49. Akbarzadeh A., Rezaei-Sadabady R., Davaran S., Joo S.W., Zarghami N., Hanifehpour Y., Samiei M., Kouhi M., Nejati-Koshki K. Liposome: Classification, preparation, and applications. Nanoscale Res. Lett. 2013;8:102. doi: 10.1186/1556-276X-8-102. [PMC free article] [PubMed] [CrossRef] [Google Scholar]50. Lin Y.-L., Liu Y.-K., Tsai N.-M., Hsieh J.-H., Chen C.-H., Lin C.-M., Liao K.-W. A Lipo-PEG-PEI complex for encapsulating curcumin that enhances its antitumor effects on curcumin-sensitive and curcumin-resistance cells. Nanomed. Nanotechnol. Biol. Med. 2012;8:318–327. doi: 10.1016/j.nano.2011.06.011. [PubMed] [CrossRef] [Google Scholar]51. Das R.K., Kasoju N., Bora U. Encapsulation of curcumin in alginate-chitosan-pluronic composite nanoparticles for delivery to cancer cells. Nanomed. Nanotechnol. Biol. Med. 2010;6:153–160. doi: 10.1016/j.nano.2009.05.009. [PubMed] [CrossRef] [Google Scholar]52. Singh P., Singh H., Ahn S., Castro-Aceituno V., Jiménez Z., Simu S.Y., Kim Y.J., Yang D.C. Pharmacological importance, characterization and applications of gold and silver nanoparticles synthesized by Panax ginseng fresh leaves. Artif. Cells Nanomed. Biotechnol. 2016;45:1415–1424. doi: 10.1080/21691401.2016.1243547. [PubMed] [CrossRef] [Google Scholar]53. Anand K., Gengan R., Phulukdaree A., Chuturgoon A. Agroforestry waste Moringa oleifera petals mediated green synthesis of gold nanoparticles and their anti-cancer and catalytic activity. J. Ind. Eng. Chem. 2015;21:1105–1111. doi: 10.1016/j.jiec.2014.05.021. [CrossRef] [Google Scholar]54. Sankar R., Maheswari R., Karthik S., Shivashangari K.S., Ravikumar V. Anticancer activity of Ficus religiosa engineered copper oxide nanoparticles. Mater. Sci. Eng. C. 2014;44:234–239. doi: 10.1016/j.msec.2014.08.030. [PubMed] [CrossRef] [Google Scholar]55. Fernández-García R., Lalatsa A., Statts L., Bolás-Fernández F., Ballesteros M.P., Serrano D.R. Transferosomes as nanocarriers for drugs across the skin: Quality by design from lab to industrial scale. Int. J. Pharm. 2019;573:118817. doi: 10.1016/j.ijpharm.2019.118817. [PubMed] [CrossRef] [Google Scholar]56. Rajan R., Vasudevan D.T., Mukund V.P.B., Jose S. Transferosomes—A vesicular transdermal delivery system for enhanced drug permeation. J. Adv. Pharm. Technol. Res. 2011;2:138–143. doi: 10.4103/2231-4040.85524. [PMC free article] [PubMed] [CrossRef] [Google Scholar]57. Rai S., Pandey V., Rai G. Transfersomes as versatile and flexible nano-vesicular carriers in skin cancer therapy: The state of the art. Nano Rev. Exp. 2017;8:1325708. doi: 10.1080/20022727.2017.1325708. [PMC free article] [PubMed] [CrossRef] [Google Scholar]58. Al-Othman M., Al-Othman A.M., Al-Numair K.S., El-Desoky G.E., Yusuf K., Alothman Z., Aboul-Soud M.A.M., Giesy J.P. Protection of -tocopherol and selenium against acute effects of malathion on liver and kidney of rats. Afr. J. Pharm. Pharmacol. 2011;5:1263–1271. doi: 10.5897/AJPP11.226. [CrossRef] [Google Scholar]59. Sarwa K.K., Mazumder B., Rudrapal M., Verma V.K. Potential of capsaicin-loaded transfersomes in arthritic rats. Drug Deliv. 2013;22:638–646. doi: 10.3109/10717544.2013.871601. [PubMed] [CrossRef] [Google Scholar]60. Lu Y., Hou S.-X., Zhang L.-K., Li Y., He J.-Y., Guo D.-D. Transdermal and lymph targeting transfersomes of vincristine. Acta Pharm. Sin. 2007;42:1097–1101. [PubMed] [Google Scholar]61. El-Feky G.S., El-Naa M.M., Mahmoud A.A. Flexible nano-sized lipid vesicles for the transdermal delivery of colchicine; in vitro/in vivo investigation. J. Drug Deliv. Sci. Technol. 2018;49:24–34. doi: 10.1016/j.jddst.2018.10.036. [CrossRef] [Google Scholar]62. Vargason A.M., Anselmo A.C., Mitragotri S. The evolution of commercial drug delivery technologies. Nat. Biomed. Eng. 2021:1–17. doi: 10.1038/s41551-021-00698-w. [PubMed] [CrossRef] [Google Scholar]63. Kumar D., Vats N., Saroha K., Rana A.C.  Phytosomes as Emerging Nanotechnology for Herbal Drug Delivery. In: Saneja A., Panda A.K., Lichtfouse E., editors. Sustainable Agriculture Reviews 43: Pharmaceutical Technology for Natural Products Delivery Vol. 1 Fundamentals and Applications. Springer International Publishing; Cham, Switzerland: 2020. pp. 217–237. [CrossRef] [Google Scholar]64. Rahman H., Othman H.H., Hammadi N.I., Yeap S.K., Amin K.M., Samad N.A., Alitheen N.B. Novel Drug Delivery Systems for Loading of Natural Plant Extracts and Their Biomedical Applications. Int. J. Nanomed. 2020;15:2439–2483. doi: 10.2147/IJN.S227805. [PMC free article] [PubMed] [CrossRef] [Google Scholar]65. Gandhi A., Dutta A., Pal A., Bakshi P. Recent trends of phytosomes for delivering herbal extract with improved bioavailability. J. Pharmacogn. Phytochem. 2012;1:6–14. [Google Scholar]66. Shakeri A., Sahebkar A. Opinion Paper: Phytosome: A Fatty Solution for Efficient Formulation of Phytopharmaceuticals. Recent Patents Drug Deliv. Formul. 2016;10:7–10. doi: 10.2174/1872211309666150813152305. [PubMed] [CrossRef] [Google Scholar]67. Rathore P., Swami G. Planterosomes: A potential phyto-phospholipid carriers for the bioavailability enhancement of herbal extracts. Int. J. Pharm. Sci. Res. 2012;3:737. [Google Scholar]68. Jain N., Gupta B.P., Thakur N., Jain R., Banweer J., Jain D.K., Jain S. Phytosome: A novel drug delivery system for herbal medicine. Int. J. Pharm. Sci. Drug Res. 2010;2:224–228. [Google Scholar]69. Yang B., Dong Y., Wang F., Zhang Y. Nanoformulations to Enhance the Bioavailability and Physiological Functions of Polyphenols. Molecules. 2020;25:4613.  doi: 10.3390/molecules25204613. [PMC free article] [PubMed] [CrossRef] [Google Scholar]70. Kidd P., Head K. A review of the bioavailability and clinical efficacy of milk thistle phytosome: A silybin-phosphatidylcholine complex (Siliphos) Altern. Med. Rev. J. Clin. Ther. 2005;10:193–203. [PubMed] [Google Scholar]71. Gaikwad A.R., Ahire K.D., Gosavi A.A., Salunkhe K.S., Khalkar A., Gaikwad Abhijeet R. Phytosome as a Novel Drug Delivery System for Bioavailability Enhancement of Phytoconstituents and its Applications: A Review. J. Drug Deliv. Ther. 2021;11:138–152. doi: 10.22270/jddt.v11i3.4847. [CrossRef] [Google Scholar]72. Arora S., Sharma A., Kaur P. Preparation and Characterization of Phytosomal-Phospholipid Complex of P. Amarus and its Tablet Formulation. J. Pharm. Technol. Res. Manag. 2013;1:1–18. doi: 10.15415/jptrm.2013.11001. [CrossRef] [Google Scholar]73. Bijak M. Silybin, a Major Bioactive Component of Milk Thistle (Silybum marianum L. Gaernt.)—Chemistry, Bioavailability, and Metabolism. Molecules. 2017;22:1942.  doi: 10.3390/molecules22111942. [PMC free article] [PubMed] [CrossRef] [Google Scholar]74. Loguercio C. Silybin and the liver: From basic research to clinical practice. World J. Gastroenterol. 2011;17:2288–2301. doi: 10.3748/wjg.v17.i18.2288. [PMC free article] [PubMed] [CrossRef] [Google Scholar]75. Yanyu X., Yunmei S., Zhipeng C., Qineng P. The preparation of silybin–phospholipid complex and the study on its pharmacokinetics in rats. Int. J. Pharm. 2006;307:77–82. doi: 10.1016/j.ijpharm.2005.10.001. [PubMed] [CrossRef] [Google Scholar]76. Naik S.R., Pilgaonkar V.W., Panda V. Evaluation of antioxidant activity of Ginkgo biloba phytosomes in rat brain. Phytother. Res. 2006;20:1013–1016. doi: 10.1002/ptr.1976. [PubMed] [CrossRef] [Google Scholar]77. Shivanand P., Kinjal P. Phytosomes: Technical revolution in phytomedicine. Int. J. PharmTech Res. 2010;2:627–631. [Google Scholar]78. Sbrini G., Brivio P., Fumagalli M., Giavarini F., Caruso D., Racagni G., Dell’Agli M., SanGiovanni E., Calabrese F. Centella asiatica L. Phytosome Improves Cognitive Performance by Promoting Bdnf Expression in Rat Prefrontal Cortex. Nutrients. 2020;12:355.  doi: 10.3390/nu12020355. [PMC free article] [PubMed] [CrossRef] [Google Scholar]79. Belcaro G., Ledda A., Hu S., Cesarone M.R., Feragalli B., Dugall M. Greenselect Phytosome for Borderline Metabolic Syndrome. Evid.-Based Complement. Altern. Med. 2013;2013:1–7. doi: 10.1155/2013/869061. [PMC free article] [PubMed] [CrossRef] [Google Scholar]80. Das M.K., Kalita B. Design and Evaluation of Phyto-Phospholipid Complexes (Phytosomes) of Rutin for Transdermal Application. J. Appl. Pharm. Sci. 2014;4:51–57. doi: 10.7324/JAPS.2014.401010. [CrossRef] [Google Scholar]81. Tung B.T., Hai N.T., Son P.K. Hepatoprotective effect of Phytosome Curcumin against paracetamol-induced liver toxicity in mice. Braz. J. Pharm. Sci. 2017;53 doi: 10.1590/s2175-97902017000116136. [CrossRef] [Google Scholar]82. Li Z., Shi M., Li N., Xu R. Application of Functional Biocompatible Nanomaterials to Improve Curcumin Bioavailability. Front. Chem. 2020;8:589957. doi: 10.3389/fchem.2020.589957. [PMC free article] [PubMed] [CrossRef] [Google Scholar]83. Burger A.M., Mengs U., Kelter G., Schüler J.B., Fiebig H.H. No evidence of stimulation of human tumor cell proliferation by a standardized aqueous mistletoe extract in vitro. Anticancer Res. 2003;23:3801–3806. [PubMed] [Google Scholar]84. Kumar A., Kumar B., Singh S.K., Kaur B., Singh S. A review on phytosomes: Novel approach for herbal phytochemicals. Asian J. Pharm. Clin. Res. 2017;10:41–47. doi: 10.22159/ajpcr.2017.v10i10.20424. [CrossRef] [Google Scholar]85. Singh A., Saharan V.A., Singh M., Bhandari A. Phytosome: Drug Delivery System for Polyphenolic Phytoconstituents. Iran. J. Pharm. Sci. 2011;7:209–219. [Google Scholar]86. Agarwal R., Agarwal C., Ichikawa H., Singh R.P., Aggarwal B.B. Anticancer potential of silymarin: From bench to bed side. Anticancer Res. 2007;26:4457–4498. [PubMed] [Google Scholar]87. Flaig T.W., Glodé M., Gustafson D., van Bokhoven A., Tao Y., Wilson S., Su L.-J., Li Y., Harrison G., Agarwal R., et al. A study of high-dose oral silybin-phytosome followed by prostatectomy in patients with localized prostate cancer. Prostate. 2010;70:848–855. doi: 10.1002/pros.21118. [PubMed] [CrossRef] [Google Scholar]88. Flaig T.W., Gustafson D.L., Su L.-J., Zirrolli J.A., Crighton F., Harrison G.S., Pierson A.S., Agarwal R., Glodé L.M. A phase I and pharmacokinetic study of silybin-phytosome in prostate cancer patients. Investig. New Drugs. 2007;25:139–146. doi: 10.1007/s10637-006-9019-2. [PubMed] [CrossRef] [Google Scholar]89. Gilardini L., Pasqualinotto L., Di Pierro F., Risso P., Invitti C. Effects of Greenselect Phytosome® on weight maintenance after weight loss in obese women: A randomized placebo-controlled study. BMC Complement. Altern. Med. 2016;16:233.  doi: 10.1186/s12906-016-1214-x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]90. Tampucci S., Burgalassi S., Chetoni P., Monti D. Cutaneous Permeation and Penetration of Sunscreens: Formulation Strategies and In Vitro Methods. Cosmetics. 2018;5:1.  doi: 10.3390/cosmetics5010001. [CrossRef] [Google Scholar]91. Karimi N., Ghanbarzadeh B., Hamishehkar H., Keivani F., Pezeshki A., Gholian M.M. Phytosome and Liposome: The Beneficial Encapsulation Systems in Drug Delivery and Food Application. Appl. Food Biotechnol. 2015;2:17–27. doi: 10.22037/afb.v2i3.8832. [CrossRef] [Google Scholar]92. Pierre M.B.R., Costa I.M. Liposomal systems as drug delivery vehicles for dermal and transdermal applications. Arch. Dermatol. Res. 2011;303:607–621. doi: 10.1007/s00403-011-1166-4. [PubMed] [CrossRef] [Google Scholar]93. Kaul S., Gulati N., Verma D., Mukherjee S., Nagaich U. Role of Nanotechnology in Cosmeceuticals: A Review of Recent Advances. J. Pharm. 2018;2018:1–19. doi: 10.1155/2018/3420204. [PMC free article] [PubMed] [CrossRef] [Google Scholar]94. Rafiee Z., Jafari S.M.  Application of Lipid Nanocarriers for the Food Industry. In: Mérillon J.-M., Ramawat K.G., editors. Bioactive Molecules in Food. Springer International Publishing; Cham, Switzerland: 2019. pp. 623–665. [CrossRef] [Google Scholar]95. Ahmad M.U., Ali S.M., Ahmad I.  Applications of nanotechnology in pharmaceutical development. In: Ahmad M.U., editor. Lipids in Nanotechnology. AOCS Press; Urbana, IL, USA: 2012. pp. 171–190. [CrossRef] [Google Scholar]96. Morrow D.I.J., Garland M.J., McCarron P., Woolfson A.D., Donnelly R. Innovative Drug Delivery Strategies for Topical Photodynamic Therapy using Porphyrin Precursors. J. Environ. Pathol. Toxicol. Oncol. 2007;26:105–116. doi: 10.1615/JEnvironPatholToxicolOncol.v26.i2.50. [PubMed] [CrossRef] [Google Scholar]97. Hoque M., Agarwal S., Gupta S., Garg S., Syed I., Rupesh A., Mohapatra N., Bose S., Sarkar P.  3.34—Lipid Nanostructures in Food Applications. In: Knoerzer K., Muthukumarappan K., editors. Innovative Food Processing Technologies. Elsevier; Oxford, UK: 2021. pp. 565–579. [CrossRef] [Google Scholar]98. Bozzuto G., Molinari A. Liposomes as nanomedical devices. Int. J. Nanomed. 2015;10:975–999. doi: 10.2147/IJN.S68861. [PMC free article] [PubMed] [CrossRef] [Google Scholar]99. Hadidi N., Saffari M., Faizi M. Optimized Transferosomal Bovine Lactoferrin (BLF) as a Promising Novel Non-Invasive Topical Treatment for Genital Warts Caused by Human Papiluma Virus (HPV) Iran. J. Pharm. Res. 2018;17:12–23. [PMC free article] [PubMed] [Google Scholar]100. Fathi-Azarbayjani A., Ng K.X., Chan Y.W., Chan S.Y. Lipid Vesicles for the Skin Delivery of Diclofenac: Cerosomes vs. Other Lipid Suspensions. Adv. Pharm. Bull. 2015;5:25–33. doi: 10.5681/apb.2015.004. [PMC free article] [PubMed] [CrossRef] [Google Scholar]101. Asghar A., Randhawa M.A., Masood M.M., Abdullah M., Irshad M.A.  Chapter 10-nutraceutical formulation strategies to enhance the bioavailability and efficiency: An overview. In: Grumezescu A.M., Holban A.M., editors. Role of Materials Science in Food Bioengineering. Academic Press; Waltham, MA, USA: 2018. pp. 329–352. [CrossRef] [Google Scholar]102. Naik U.S.  The Synthesis and Characterisation of Novel Ultra-Flexible Lipidic Vesicles Using Propanol. University of Central Lancashire; Preston, UK: 2013.  [Google Scholar]103. Bhushan Rajendra R., Nayan Ashok G.  Transfersomes and Protransfersome: Ultradeformable Vesicular System. In: Raj K.K., Anil K.S., Rajesh Kumar K., editors. Novel Approaches for Drug Delivery. IGI Global; Hershey, PA, USA: 2017. pp. 149–169. [CrossRef] [Google Scholar]104. Kumar S., Baldi A., Sharma D. Phytosomes: A Modernistic Approach for Novel Herbal Drug Delivery—Enhancing Bioavailability and Revealing Endless Frontier ofPhytopharmaceuticals. J. Dev. Drugs. 2019;9:1–8. [Google Scholar]105. Sercombe L., Veerati T., Moheimani F., Wu S., Sood A.K., Hua S. Advances and Challenges of Liposome Assisted Drug Delivery. Front. Pharmacol. 2015;6:286. doi: 10.3389/fphar.2015.00286. [PMC free article] [PubMed] [CrossRef] [Google Scholar]106. Mouhid L., Corzo-Martínez M., Torres C., Vázquez L., Reglero G., Fornari T., de Molina A.R. ImprovingIn VivoEfficacy of Bioactive Molecules: An Overview of Potentially Antitumor Phytochemicals and Currently Available Lipid-Based Delivery Systems. J. Oncol. 2017;2017:1–34. doi: 10.1155/2017/7351976. [PMC free article] [PubMed] [CrossRef] [Google Scholar]107. Fernández-García R., Statts L., De Jesus J.A., Ayuela M.A.D., Bautista L., Simão R., Bolás-Fernández F., Ballesteros M.P., Laurenti M.D., Passero L.F.D., et al. Ultradeformable Lipid Vesicles Localize Amphotericin B in the Dermis for the Treatment of Infectious Skin Diseases. ACS Infect. Dis. 2020;6:2647–2660. doi: 10.1021/acsinfecdis.0c00293. [PubMed] [CrossRef] [Google Scholar]108. Zhang H.  Thin-Film Hydration Followed by Extrusion Method for Liposome Preparation. In: D’Souza G.G.M., editor. Liposomes: Methods and Protocols. Springer; New York, NY, USA: 2017. pp. 17–22. [PubMed] [CrossRef] [Google Scholar]109. Olga Popovska J., Kavrakovski Z., Rafajlovska V. An Overview: Methods for Preparation and Characterization of Liposomes as Drug Delivery Systems. Int. J. Pharm. Phytopharmacol. 2013;3:13–20. [Google Scholar]110. Karole S., Gupta G. Preparation and evaluation of phytosomes containing ethanolic extract of leaves of Bombax ceiba for hepatoprotective activity. Evaluation. 2019;6:1–5. [Google Scholar]111. Dini I., Laneri S. The New Challenge of Green Cosmetics: Natural Food Ingredients for Cosmetic Formulations. Molecules. 2021;26:3921.  doi: 10.3390/molecules26133921. [PMC free article] [PubMed] [CrossRef] [Google Scholar]112. Chanchal D., Swarnlata S. Novel approaches in herbal cosmetics. J. Cosmet. Dermatol. 2008;7:89–95. doi: 10.1111/j.1473-2165.2008.00369.x. [PubMed] [CrossRef] [Google Scholar]113. Tessema E.N., Gebre-Mariam T., Neubert R.H., Wohlrab J. Potential Applications of Phyto-Derived Ceramides in Improving Epidermal Barrier Function. Skin Pharmacol. Physiol. 2017;30:115–138. doi: 10.1159/000464337. [PubMed] [CrossRef] [Google Scholar]114. Haque T., Talukder M.U. Chemical Enhancer: A Simplistic Way to Modulate Barrier Function of the Stratum Corneum. Adv. Pharm. Bull. 2018;8:169–179. doi: 10.15171/apb.2018.021. [PMC free article] [PubMed] [CrossRef] [Google Scholar]115. Patzelt A., Antoniou C., Sterry W., Lademann J. Skin penetration from the inside to the outside: A review. Drug Discov. Today Dis. Mech. 2008;5:e229–e235. doi: 10.1016/j.ddmec.2008.05.002. [CrossRef] [Google Scholar]116. Bombardelli E., Spelta M. Phospholipid-polyphenol complexes: A new concept in skin care ingredients. Cosmet. Toilet. 1991;106:69–76. [Google Scholar]117. Tripathy S., Patel D.K., Barob L., Naira S.K. A review on phytosomes, their characterization, advancement & potential for transdermal application. J. Drug Deliv. Ther. 2013;3:147–152. doi: 10.22270/jddt.v3i3.508. [CrossRef] [Google Scholar]118. Droy-Lefaix M.T. Effect of the antioxidant action of Ginkgo biloba extract (EGb 761) on aging and oxidative stress. Age. 1997;20:141–149. doi: 10.1007/s11357-997-0013-1. [PMC free article] [PubMed] [CrossRef] [Google Scholar]119. Loggia R.d., Sosa S., Tubaro A., Morazzoni P., Bombardelli E., Griffini A. Anti-inflammatory activity of some Ginkgo biloba constituents and of their phospholipid-complexes. Fitoterapia. 1996;67:257–264. [Google Scholar]120. Chen Z.-P., Sun J., Chen H.-X., Xiao Y.-Y., Liu D., Chen J., Cai H., Cai B.-C. Comparative pharmacokinetics and bioavailability studies of quercetin, kaempferol and isorhamnetin after oral administration of Ginkgo biloba extracts, Ginkgo biloba extract phospholipid complexes and Ginkgo biloba extract solid dispersions in rats. Fitoterapia. 2010;81:1045–1052. doi: 10.1016/j.fitote.2010.06.028. [PubMed] [CrossRef] [Google Scholar]121. Kennedy D., Haskell C.F., Mauri P., Scholey A.B. Acute cognitive effects of standardised Ginkgo biloba extract complexed with phosphatidylserine. Hum. Psychopharmacol. Clin. Exp. 2007;22:199–210. doi: 10.1002/hup.837. [PubMed] [CrossRef] [Google Scholar]122. Maramaldi G., Togni S., Pagin I., Giacomelli L., Cattaneo R., Eggenhöffner R., Burastero S.E. Clin. CosmetSoothing and anti-itch effect of quercetin phytosome in human subjects: A single-blind study. Clin. Cosmet. Investig. Dermatol. 2016;9:55–62. doi: 10.2147/CCID.S98890. [PMC free article] [PubMed] [CrossRef] [Google Scholar]123. El-Fattah A.I.A., Fathy M.M., Ali Z.Y., El-Garawany A.E.-R.A., Mohamed E.K. Enhanced therapeutic benefit of quercetin-loaded phytosome nanoparticles in ovariectomized rats. Chem. Interact. 2017;271:30–38. doi: 10.1016/j.cbi.2017.04.026. [PubMed] [CrossRef] [Google Scholar]124. Okonogi S., Riangjanapatee P. Physicochemical characterization of lycopene-loaded nanostructured lipid carrier formulations for topical administration. Int. J. Pharm. 2015;478:726–735. doi: 10.1016/j.ijpharm.2014.12.002. [PubMed] [CrossRef] [Google Scholar]125. Sharma P.K.S.P., Saxena P., Jaswanth A., Chalamaiah M., Tekade K.R., Balasubramaniam A. Novel encapsulation of lycopene in niosomes and assessment of its anticancer activity. J. Bioequivalence Bioavailab. 2016;8:224–232. [Google Scholar]126. Ghazi A.M., Al-Bayati M.A. Anti-proliferative of the phytosome propolis, phytosome lycopene and synergistic effect on the benign prostatic hyperplasia cells in-vitro. Plant Arch. 2020;20:6579–6589. [Google Scholar]127. De Granada-Flor A., Sousa C., Filipe H.A.L., Santos M.S.C.S., De Almeida R.F.M. Quercetin dual interaction at the membrane level. Chem. Commun. 2019;55:1750–1753. doi: 10.1039/C8CC09656B. [PubMed] [CrossRef] [Google Scholar]128. Pawlikowska-Pawlęga B., Gruszecki W.I., Misiak L., Paduch R., Piersiak T., Zarzyka B., Pawelec J., Gawron A. Modification of membranes by quercetin, a naturally occurring flavonoid, via its incorporation in the polar head group. Biochim. Biophys. Acta Biomembr. 2007;1768:2195–2204. doi: 10.1016/j.bbamem.2007.05.027. [PubMed] [CrossRef] [Google Scholar]129. Emiliano A., Veronica B., Walter V., Elena Del B., Marzia C. Oral Curcumin (Meriva) Is Effective as an Adjuvant Treatment and Is Able to Reduce IL-22 Serum Levels in Patients with Psoriasis Vulgaris. BioMed Res. Int. 2015;3:1–7. doi: 10.1155/2015/283634. [PMC free article] [PubMed] [CrossRef] [Google Scholar]130. Djekic L., Krajišnik D., Mićic Z., Čalija B. Formulation and physicochemical characterization of hydrogels with 18β-glycyrrhetinic acid/phospholipid complex phytosomes. J. Drug Deliv. Sci. Technol. 2016;35:81–90. doi: 10.1016/j.jddst.2016.06.008. [CrossRef] [Google Scholar]131. McNulty H.P., Byun J., Lockwood S.F., Jacob R.F., Mason R.P. Differential effects of carotenoids on lipid peroxidation due to membrane interactions: X-ray diffraction analysis. Biochim. Biophys. Acta Biomembr. 2007;1768:167–174. doi: 10.1016/j.bbamem.2006.09.010. [PubMed] [CrossRef] [Google Scholar]132. Khan J., Alexander A., Uddin A., Saraf S., Saraf S. Recent advances and future prospects of phyto-phospholipid complexation technique for improving pharmacokinetic profile of plant actives. J. Control. Release. 2013;168:50–60. doi: 10.1016/j.jconrel.2013.02.025. [PubMed] [CrossRef] [Google Scholar]133. Hidalgo P., Strzalka K., Kostecka-Gugala A. Comparative X-Ray Studies on the Interaction of Carotenoids with a Model Phosphatidylcholine Membrane. Z. Nat. C. 2002;57:129–134. doi: 10.1515/znc-2002-1-222. [PubMed] [CrossRef] [Google Scholar]134. Djekic L., Krajisnik D., Micic Z. Polyphenolics-Phospholipid Complexes as Natural Cosmetic Ingredients: Properties and Application. Tenside Surfactants Deterg. 2015;52:186–192. doi: 10.3139/113.110364. [CrossRef] [Google Scholar]135. Cao F.-H., Ouyang W.-Q., Wang Y.-P., Yue P.-F., Li S.-P. A combination of a microemulsion and a phospholipid complex for topical delivery of oxymatrine. Arch. Pharmacal Res. 2011;34:551–562. doi: 10.1007/s12272-011-0405-8. [PubMed] [CrossRef] [Google Scholar]136. Ma A., Yang Y., Wang Q., Wang Y., Wen J., Zhang Y. Anti-inflammatory effects of oxymatrine on rheumatoid arthritis in rats via regulating the imbalance between Treg and Th17 cells. Mol. Med. Rep. 2017;15:3615–3622. doi: 10.3892/mmr.2017.6484. [PMC free article] [PubMed] [CrossRef] [Google Scholar]137. Iram F., Khan S., Husain A. Phytochemistry and potential therapeutic actions of Boswellic acids: A mini-review. Asian Pac. J. Trop. Biomed. 2017;7:513–523. doi: 10.1016/j.apjtb.2017.05.001. [CrossRef] [Google Scholar]138. Hüsch J., Gerbeth K., Fricker G., Setzer C., Zirkel J., Rebmann H., Schubert-Zsilavecz M., Abdel-Tawab M. Effect of Phospholipid-Based Formulations of Boswellia serrataExtract on the Solubility, Permeability, and Absorption of the Individual Boswellic Acid Constituents Present. J. Nat. Prod. 2012;75:1675–1682. doi: 10.1021/np300009w. [PubMed] [CrossRef] [Google Scholar]139. Sharma A., Gupta N.K., Dixit V.K. Complexation with phosphatidyl choline as a strategy for absorption enhancement of boswellic acid. Drug Deliv. 2010;17:587–595. doi: 10.3109/10717544.2010.501461. [PubMed] [CrossRef] [Google Scholar]140. Ho P.J., Sung J.J., Cheon K.K., Tae H.J. Anti-inflammatory effect of Centella asiatica phytosome in a mouse model of phthalic anhydride-induced atopic dermatitis. Phytomedicine. 2018;43:110–119. doi: 10.1016/j.phymed.2018.04.013. [PubMed] [CrossRef] [Google Scholar]141. Gray N.E., Magana A.A., Lak P., Wright K.M., Quinn J., Stevens J.F., Maier C.S., Soumyanath A. Centella asiatica: Phytochemistry and mechanisms of neuroprotection and cognitive enhancement. Phytochem. Rev. 2017;17:161–194. doi: 10.1007/s11101-017-9528-y. [PMC free article] [PubMed] [CrossRef] [Google Scholar]142. Bombardelli E., Cristoni A., Morazzoni P. Phytosome® s in functional cosmetics. Fitoterapia. 1994;65:387–401. [Google Scholar]143. Darvishi B., Manoochehri S., Kamalinia G., Samadi N., Amini M., Mostafavi S.H., Maghazei S., Atyabi F., Dinarvand R. Preparation and Antibacterial Activity Evaluation of 18-β-glycyrrhetinic Acid Loaded PLGA Nanoparticles. Iran. J. Pharm. Res. 2015;14:373–383. [PMC free article] [PubMed] [Google Scholar]144. Anitha V., Reddy P.D., Ramkanth S. Phytosomes: A promising technology in novel herbal drug delivery system. PharmaTutor. 2019;7:18–25. [Google Scholar]145. Agarwal A., Chakraborty P., Chakraborty D.D., Saharan V.A.S. Phytosomes: Complexation, Utilisation and Commerical Status. J. Biol. Act. Prod. Nat. 2012;2:65–77. doi: 10.1080/22311866.2012.10719111. [CrossRef] [Google Scholar]146. Babazadeh A., Zeinali M., Hamishehkar H. Nano-Phytosome: A Developing Platform for Herbal Anti-Cancer Agents in Cancer Therapy. Curr. Drug Targets. 2018;19:170–180. doi: 10.2174/1389450118666170508095250. [PubMed] [CrossRef] [Google Scholar]Articles from Pharmaceutics are provided here courtesy of Multidisciplinary Digital Publishing Institute  (MDPI)
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.4M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

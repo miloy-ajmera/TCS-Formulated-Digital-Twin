@@ -1,0 +1,1120 @@
+Document Name: role of Rivalia Perfume in Cover Cream0
+Document link: https://br.privalia.com/
+
+
+PRIVALIA - O outlet online de moda e lifestyle Nº1 no Brasil. Encontre as maiores ofertas e descontos em nossa loja: as melhores marcas de moda e lifestyle para mulheres, homens, crianças e para casa com descontos de até 70%. Privalia Brasil.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Baixe o app de Privalia e acesse à ofertas exclusivas 
+    
+
+
+
+
+
+
+
+
+
+
+
+EntrarCrie uma conta
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+EntrarCrie uma conta
+
+
+Catálogo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+                #{html_items}
+            
+        
+
+
+
+
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+                #{html_items}
+            
+        
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+                #{html_items}
+            
+    
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+                #{html_items}
+            
+    
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+                #{html_items}
+            
+     
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+                #{html_items}
+            
+    
+
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+            #{html_items}
+        
+    
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+            #{html_items}
+        
+    
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+            #{html_items}
+        
+    
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+            #{html_items}
+        
+    
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+            #{html_items}
+        
+    
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+            #{html_items}
+        
+    
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+            #{html_items}
+        
+    
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+            #{html_items}
+        
+    
+
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+                #{html_items}
+            
+     
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+                #{html_items}
+            
+    
+
+
+
+
+
+
+{{datepreopen}}
+{{txtlink}}
+>
+
+
+
+
+    
+        {{#if date}}
+        
+
+{{{date}}}
+
+        {{/if}}
+    
+
+
+
+
+#{title}
+                #{html_items}
+            
+        
+
+
+
+
+
+
+
+
+
+
+Inicie sessão
+
+
+
+
+
+
+
+
+
+
+Inicie sessão
+
+
+
+
+
+
+E-mail
+
+Senha
+
+Esqueceu a senha?
+
+
+
+
+
+ 
+
+
+
+
+
+
+Entre com Facebook
+Use sua conta do Facebook para entrar na Privalia em um clic. É fácil e seguro. Nós não teremos acesso à sua conta, e não publicaremos nada em seu nome.
+
+
+
+
+
+
+
+
+
+
+Registre-se na Privalia
+E encontre suas marcas favoritas com até 70% off.
+
+
+
+
+
+
+
+
+< Inicie sessão
+
+
+
+
+
+
+
+                 {{#banners}}
+                
+                    {{#if url}}  {{/if}} {{img src="{{{path}}}"
+                        data-banner-id="{{{banner_id}}}" alt="{{{title}}}"}} {{#if url}} 
+                    {{/if}}
+                
+                {{/banners}}
+                    
+              
+
+
+
+
+
+
+
+Registre-se com Facebook
+Se você é dos que sempre esquece a senha e não gosta de preencher formulários, entre com sua conta do Facebook e esqueça de tudo.É fácil e seguro. Nós não teremos acesso à sua conta, e não publicaremos nada em seu nome.
+
+
+
+
+
+
+
+Registre-se na Privalia
+
+
+
+Aceite o convite de {{{member_name}}} para entrar na Privalia e você receberá um desconto de R${{{voucher_value}}} para usar em sua primeira compra.
+
+
+
+
+
+
+
+
+
+
+
+
+ E-mail:
+
+
+
+ Senha:
+
+
+
+ Sexo (opcional):
+
+Feminino
+
+Masculino
+
+
+
+Um amigo me convidou (opcional)
+
+
+
+
+
+
+
+
+Li e aceito as Condições de uso e a Privacidade e Cookies.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRIVALIA
+Insira seus dados de acesso para continuar. Assim confirmamos que você é realmente você!
+
+
+
+
+
+E-mail
+
+Senha
+
+Esqueceu a senha?
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Entre com Facebook
+Use sua conta do Facebook para entrar na Privalia em um clic. É fácil e seguro. Nós não teremos acesso à sua conta, e não publicaremos nada em seu nome.
+
+
+
+
+
+
+
+
+Ainda não tem uma conta? Cadastre-se
+
+
+
+
+
+
+
+
+< Registre-se na Privalia
+
+
+
+Acesse seu e-mail e ative sua conta
+
+
+Em breve você receberá um e-mail para ativar sua conta. Se você não pode visualizá-lo, verifique o correio não desejado, pode ter sido marcado como spam.
+
+
+
+
+
+
+
+< Inicie sessão
+
+
+
+
+
+
+
+Esqueceu a senha?
+Informe seu e-mail e enviaremos um link para você criar uma nova senha.
+
+
+Esqueceu a senha?
+E-mail:
+
+
+
+
+
+
+
+
+Acesse seu e-mail
+Enviamos um e-mail a você com as instruções para cadastrar sua nova senha.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marca
+
+
+
+
+
+* campos obrigatórios
+
+
+
+
+Nome: *
+
+
+
+Sobrenome: *
+
+
+
+E-mail: *
+
+
+
+Telefone: *
+
+
+
+
+
+Cargo na empresa: *
+
+
+
+Marca: *
+
+
+
+Departamento: *
+
+
+
+
+Produtos recomendados: *
+
+
+
+
+
+
+Cancelar
+Enviar
+
+
+
+
+
+
+
+
+Aviso!
+
+
+Para ver esta campanha, você deve ser maior de 18 anos. Você é?
+
+
+Sim
+Não 
+
+
+ 
+
+
+
+Acesse o e-mail que acabamos de enviar e ative sua conta.
+
+
+Se você não receber o e-mail, confira se a mensagem não foi marcada como Spam.
+
+
+
+
+
+
+
+
+
+
+
+
+Baixe o app
+
+
+
+
+iOS
+
+
+
+
+
+Android
+
+
+
+
+ 
+
+
+Siga a gente
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+Sobre a Privalia
+
+
+O que é a Privalia?
+
+
+Privacidade e Cookies
+
+
+Condições de uso
+
+
+Relações com Investidores
+
+
+Nossas marcas
+
+ 
+
+
+
+Fale com a gente
+
+
+Ajuda
+
+
+Contato para marcas
+
+ 
+
+
+Reconhecimentos
+
+CertificadoRA 1000
+
+
+
+
+Trustpilot
+
+ 
+
+
+ Premium
+
+Aproveite o melhor da Privalia
+Seja Premium
+
+
+
+VISA
+Master card
+Amex
+Paypal
+
+
+Verisign
+
+ 
+
+
+
+
+
+Marcas:
+
+Femininas
+Masculinas
+Infantis
+Casa
+
+
+
+ 
+
+
+
+
+Copyright © Privalia Brasil S.A. 2008-2021
+Av Prof Alceu Maynard de Araújo, 698 CEP 04726-160 - São Paulo/SP – CNPJ 10.464.223/0001-63
+
+
+
+
+
+
+
+
+

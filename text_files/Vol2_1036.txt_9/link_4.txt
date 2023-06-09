@@ -1,0 +1,6187 @@
+Document Name: role of POLYOX WSR-205 in Cold Cream4
+Document link: https://patents.google.com/patent/WO2012041591A1/en
+
+
+
+WO2012041591A1 - Liquid soap compositions 
+        - Google Patents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WO2012041591A1 - Liquid soap compositions 
+        - Google Patents
+Liquid soap compositions 
+       
+
+Download PDF
+Info
+
+Publication number
+WO2012041591A1
+
+
+
+WO2012041591A1
+PCT/EP2011/063903
+EP2011063903W
+WO2012041591A1
+WO 2012041591 A1
+WO2012041591 A1
+WO 2012041591A1
+ 
+ 
+ 
+EP 2011063903 W
+EP2011063903 W
+EP 2011063903W
+WO 2012041591 A1
+WO2012041591 A1
+WO 2012041591A1
+Authority
+WO
+WIPO (PCT)
+Prior art keywords
+weight
+fatty acids
+composition
+mixture
+composition according
+Prior art date
+2010-09-28
+
+Application number
+PCT/EP2011/063903
+Other languages
+
+
+French (fr)
+    
+
+Inventor
+Sheng Liang Tsaur
+Original Assignee
+Unilever PlcUnilever N.V.Hindustan Unilever Limited
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+2010-09-28
+Filing date
+2011-08-12
+Publication date
+2012-04-05
+
+
+Priority claimed from US12/891,879
+external-priority
+
+
+2011-08-12
+Application filed by Unilever Plc, Unilever N.V., Hindustan Unilever Limited
+filed
+Critical
+Unilever Plc
+
+
+2011-08-12
+Priority to EA201390466A
+priority
+Critical
+patent/EA022404B1/en
+
+
+2011-08-12
+Priority to MX2013003397A
+priority
+patent/MX342317B/en
+
+
+2011-08-12
+Priority to ES11743236.9T
+priority
+patent/ES2525018T3/en
+
+
+2011-08-12
+Priority to EP11743236.9A
+priority
+patent/EP2622058B1/en
+
+
+2011-08-12
+Priority to JP2013530652A
+priority
+patent/JP5860883B2/en
+
+
+2011-08-12
+Priority to BR112013007052-8A
+priority
+patent/BR112013007052B1/en
+
+
+2011-08-12
+Priority to CN201180046604.4A
+priority
+patent/CN103108946B/en
+
+
+2011-08-12
+Priority to CA2812137A
+priority
+patent/CA2812137C/en
+
+
+2012-04-05
+Publication of WO2012041591A1
+publication
+Critical
+patent/WO2012041591A1/en
+
+
+2013-02-27
+Priority to ZA2013/01491A
+priority
+patent/ZA201301491B/en
+
+Links
+
+
+
+Espacenet
+
+
+
+Global Dossier
+
+
+
+PatentScope
+
+
+
+Discuss
+
+
+
+
+239000000203
+mixture
+Substances
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+109
+
+
+239000007788
+liquid
+Substances
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+33
+
+
+239000000344
+soap
+Substances
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+32
+
+
+235000014113
+dietary fatty acids
+Nutrition
+
+
+
+
+0.000
+claims
+abstract
+description
+75
+
+
+239000000194
+fatty acid
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+75
+
+
+150000004665
+fatty acids
+Chemical class
+
+
+
+
+0.000
+claims
+abstract
+description
+72
+
+
+239000004094
+surface-active agent
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+13
+
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+
+
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+claims
+abstract
+description
+13
+
+
+POULHZVOKOAJMA-UHFFFAOYSA-N
+Lauric acid
+Chemical compound
+
+
+CCCCCCCCCCCC(O)=O
+POULHZVOKOAJMA-UHFFFAOYSA-N
+0.000
+claims
+description
+18
+
+
+TUNFSRHWOTWDNC-UHFFFAOYSA-N
+Myristic acid
+Chemical compound
+
+
+CCCCCCCCCCCCCC(O)=O
+TUNFSRHWOTWDNC-UHFFFAOYSA-N
+0.000
+claims
+description
+16
+
+
+235000021360
+Myristic acid
+Nutrition
+
+
+
+
+0.000
+claims
+description
+8
+
+
+229920000642
+polymer
+Polymers
+
+
+
+
+0.000
+claims
+description
+8
+
+
+239000002888
+zwitterionic surfactant
+Substances
+
+
+
+
+0.000
+claims
+description
+8
+
+
+239000005639
+Lauric acid
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000003945
+anionic surfactant
+Substances
+
+
+
+
+0.000
+claims
+description
+6
+
+
+239000002736
+nonionic surfactant
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+125000000129
+anionic group
+Chemical group
+
+
+
+
+0.000
+claims
+description
+3
+
+
+-1
+myristic fatty acids
+Chemical class
+
+
+
+
+0.000
+abstract
+description
+23
+
+
+HEMHJVSKTPXQMS-UHFFFAOYSA-M
+sodium hydroxide
+Chemical compound
+
+
+[OH-].[Na+]
+HEMHJVSKTPXQMS-UHFFFAOYSA-M
+0.000
+description
+36
+
+
+KWIUHFFTVRNATP-UHFFFAOYSA-N
+Trimethylglycine
+Chemical compound
+
+
+C[N+](C)(C)CC([O-])=O
+KWIUHFFTVRNATP-UHFFFAOYSA-N
+0.000
+description
+18
+
+
+KWYUFKZDYYNOTN-UHFFFAOYSA-M
+potassium hydroxide
+Chemical compound
+
+
+[OH-].[K+]
+KWYUFKZDYYNOTN-UHFFFAOYSA-M
+0.000
+description
+17
+
+
+229960003237
+betaine
+Drugs
+
+
+
+
+0.000
+description
+13
+
+
+230000005591
+charge neutralization
+Effects
+
+
+
+
+0.000
+description
+13
+
+
+230000001264
+neutralization
+Effects
+
+
+
+
+0.000
+description
+13
+
+
+238000006386
+neutralization reaction
+Methods
+
+
+
+
+0.000
+description
+13
+
+
+230000000052
+comparative effect
+Effects
+
+
+
+
+0.000
+description
+12
+
+
+QIQXTHQIDYTFRH-UHFFFAOYSA-N
+Stearic acid
+Chemical class
+
+
+CCCCCCCCCCCCCCCCCC(O)=O
+QIQXTHQIDYTFRH-UHFFFAOYSA-N
+0.000
+description
+10
+
+
+210000003491
+Skin
+Anatomy
+
+
+
+
+0.000
+description
+9
+
+
+239000011734
+sodium
+Substances
+
+
+
+
+0.000
+description
+9
+
+
+125000002091
+cationic group
+Chemical group
+
+
+
+
+0.000
+description
+8
+
+
+230000002335
+preservative
+Effects
+
+
+
+
+0.000
+description
+8
+
+
+239000003755
+preservative agent
+Substances
+
+
+
+
+0.000
+description
+8
+
+
+QAOWNCQODCNURD-UHFFFAOYSA-L
+sulfate
+Chemical compound
+
+
+[O-]S([O-])(=O)=O
+QAOWNCQODCNURD-UHFFFAOYSA-L
+0.000
+description
+8
+
+
+239000002253
+acid
+Substances
+
+
+
+
+0.000
+description
+7
+
+
+SFNALCNOMXIBKG-UHFFFAOYSA-N
+ethylene glycol monododecyl ether
+Chemical compound
+
+
+CCCCCCCCCCCCOCCO
+SFNALCNOMXIBKG-UHFFFAOYSA-N
+0.000
+description
+6
+
+
+239000000499
+gel
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+IPCSVZSSVZVIGE-UHFFFAOYSA-N
+Palmitic acid
+Natural products
+
+
+CCCCCCCCCCCCCCCC(O)=O
+IPCSVZSSVZVIGE-UHFFFAOYSA-N
+0.000
+description
+5
+
+
+235000021355
+Stearic acid
+Nutrition
+
+
+
+
+0.000
+description
+5
+
+
+150000007513
+acids
+Chemical class
+
+
+
+
+0.000
+description
+5
+
+
+239000003795
+chemical substances by application
+Substances
+
+
+
+
+0.000
+description
+5
+
+
+230000000694
+effects
+Effects
+
+
+
+
+0.000
+description
+5
+
+
+229920001223
+polyethylene glycol
+Polymers
+
+
+
+
+0.000
+description
+5
+
+
+229910052708
+sodium
+Inorganic materials
+
+
+
+
+0.000
+description
+5
+
+
+235000021314
+Palmitic acid
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+241000282372
+Panthera onca
+Species
+
+
+
+
+0.000
+description
+4
+
+
+239000003599
+detergent
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+230000002708
+enhancing
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+glycol
+Chemical compound
+
+
+OCCO
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+KEAYESYHFKHZAL-UHFFFAOYSA-N
+sodium
+Chemical compound
+
+
+[Na]
+KEAYESYHFKHZAL-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+GWEVSGVZZGPLCZ-UHFFFAOYSA-N
+titan oxide
+Chemical compound
+
+
+O=[Ti]=O
+GWEVSGVZZGPLCZ-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+229920002472
+Starch
+Polymers
+
+
+
+
+0.000
+description
+3
+
+
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+acrylic acid
+Chemical compound
+
+
+OC(=O)C=C
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+150000001298
+alcohols
+Chemical class
+
+
+
+
+0.000
+description
+3
+
+
+125000001931
+aliphatic group
+Chemical group
+
+
+
+
+0.000
+description
+3
+
+
+WVDDGKGOMKODPV-UHFFFAOYSA-N
+benzyl alcohol
+Chemical compound
+
+
+OCC1=CC=CC=C1
+WVDDGKGOMKODPV-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+239000004615
+ingredient
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+239000000463
+material
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+IAYPIBMASNFSPL-UHFFFAOYSA-N
+oxane
+Chemical compound
+
+
+C1CO1
+IAYPIBMASNFSPL-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+150000002943
+palmitic acids
+Chemical class
+
+
+
+
+0.000
+description
+3
+
+
+229920001888
+polyacrylic acid
+Polymers
+
+
+
+
+0.000
+description
+3
+
+
+235000019698
+starch
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+ZQBJRVYLUFBBEQ-UHFFFAOYSA-N
+2-[diamino(3-formamidopropyl)azaniumyl]acetate
+Chemical compound
+
+
+[O-]C(=O)C[N+](N)(N)CCCNC=O
+ZQBJRVYLUFBBEQ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+244000215068
+Acacia senegal
+Species
+
+
+
+
+0.000
+description
+2
+
+
+229920002134
+Carboxymethyl cellulose
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+240000005497
+Cyamopsis tetragonoloba
+Species
+
+
+
+
+0.000
+description
+2
+
+
+FPVVYTCTZKCSOJ-UHFFFAOYSA-N
+Glycol distearate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OCCOC(=O)CCCCCCCCCCCCCCCCC
+FPVVYTCTZKCSOJ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229920000084
+Gum arabic
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+LXCFILQKKLGQFO-UHFFFAOYSA-N
+Methylparaben
+Chemical compound
+
+
+COC(=O)C1=CC=C(O)C=C1
+LXCFILQKKLGQFO-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940083542
+Sodium
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940091252
+Sodium supplements
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+LSNNMFCWUKXFEE-UHFFFAOYSA-L
+Sulphite
+Chemical compound
+
+
+[O-]S([O-])=O
+LSNNMFCWUKXFEE-UHFFFAOYSA-L
+0.000
+description
+2
+
+
+GSEJCLTVZPLZKY-UHFFFAOYSA-N
+Tris
+Chemical compound
+
+
+OCCN(CCO)CCO
+GSEJCLTVZPLZKY-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229960004418
+Trolamine
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000010489
+acacia gum
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000003513
+alkali
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+125000000217
+alkyl group
+Chemical group
+
+
+
+
+0.000
+description
+2
+
+
+239000002280
+amphoteric surfactant
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+125000004432
+carbon atoms
+Chemical group
+
+
+C*
+
+0.000
+description
+2
+
+
+239000001768
+carboxy methyl cellulose
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000010948
+carboxy methyl cellulose
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+239000007795
+chemical reaction product
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000019588
+creaminess
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+KCXVZYZYPLLWCC-UHFFFAOYSA-N
+edta
+Chemical compound
+
+
+OC(=O)CN(CC(O)=O)CCN(CC(O)=O)CC(O)=O
+KCXVZYZYPLLWCC-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940071106
+ethylenediaminetetraacetate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+150000004676
+glycans
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+glycerine
+Chemical compound
+
+
+OCC(O)CO
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+235000011187
+glycerol
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-M
+hydroxyl anion
+Chemical compound
+
+
+[OH-]
+XLYOFNOQVPJJNP-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+RRHGJUQNOFWUDK-UHFFFAOYSA-N
+isoprene
+Chemical compound
+
+
+CC(=C)C=C
+RRHGJUQNOFWUDK-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+PMZURENOXWZQFD-UHFFFAOYSA-L
+na2so4
+Chemical compound
+
+
+[Na+].[Na+].[O-]S([O-])(=O)=O
+PMZURENOXWZQFD-UHFFFAOYSA-L
+0.000
+description
+2
+
+
+239000002304
+perfume
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000012071
+phase
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+238000005191
+phase separation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+229920001282
+polysaccharide
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+239000005017
+polysaccharide
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000004804
+polysaccharides
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+ZLMJMSJWJFRBEC-UHFFFAOYSA-N
+potassium
+Chemical compound
+
+
+[K]
+ZLMJMSJWJFRBEC-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229910052700
+potassium
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+239000011591
+potassium
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000000047
+product
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+GOOHAUXETOMSMM-UHFFFAOYSA-N
+propylene oxide
+Chemical compound
+
+
+CC1CO1
+GOOHAUXETOMSMM-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000002453
+shampoo
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000004666
+short chain fatty acids
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+VYPSYNLAJGMNEJ-UHFFFAOYSA-N
+silicium dioxide
+Chemical compound
+
+
+O=[Si]=O
+VYPSYNLAJGMNEJ-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000011780
+sodium chloride
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000008107
+starch
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000008117
+stearic acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+PPBRXRYQALVLMV-UHFFFAOYSA-N
+styrene
+Chemical compound
+
+
+C=CC1=CC=CC=C1
+PPBRXRYQALVLMV-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000000126
+substance
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+239000004408
+titanium dioxide
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+150000003626
+triacylglycerols
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+229940029612
+triethanolamine
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+ZMANZCXQSJIPKH-UHFFFAOYSA-N
+triethylamine
+Chemical compound
+
+
+CCN(CC)CC
+ZMANZCXQSJIPKH-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+235000013311
+vegetables
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+NOOLISFMXDJSKH-UTLUCORTSA-N
+(+)-Neomenthol
+Chemical compound
+
+
+CC(C)[C@@H]1CC[C@@H](C)C[C@@H]1O
+NOOLISFMXDJSKH-UTLUCORTSA-N
+0.000
+description
+1
+
+
+PIICEJLVQHRZGT-UHFFFAOYSA-N
+1,2-ethanediamine
+Chemical compound
+
+
+NCCN
+PIICEJLVQHRZGT-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+UNPLRYRWJLTVAE-UHFFFAOYSA-N
+1-[2-[(4-chlorophenyl)-phenylmethoxy]ethyl]piperidin-1-ium;chloride
+Chemical compound
+
+
+Cl.C1=CC(Cl)=CC=C1C(C=1C=CC=CC=1)OCCN1CCCCC1
+UNPLRYRWJLTVAE-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+BVDRUCCQKHGCRX-UHFFFAOYSA-N
+2,3-dihydroxypropyl formate
+Chemical compound
+
+
+OCC(O)COC=O
+BVDRUCCQKHGCRX-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+AMRBZKOCOOPYNY-QXMHVHEDSA-N
+2-[dimethyl-[(Z)-octadec-9-enyl]azaniumyl]acetate
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCC[N+](C)(C)CC([O-])=O
+AMRBZKOCOOPYNY-QXMHVHEDSA-N
+0.000
+description
+1
+
+
+FJKROLUGYXJWQN-UHFFFAOYSA-N
+4-Hydroxybenzoic acid
+Chemical compound
+
+
+OC(=O)C1=CC=C(O)C=C1
+FJKROLUGYXJWQN-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940090248
+4-hydroxybenzoic acid
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+CWSZBVAUYPTXTG-UHFFFAOYSA-N
+5-[6-[[3,4-dihydroxy-6-(hydroxymethyl)-5-methoxyoxan-2-yl]oxymethyl]-3,4-dihydroxy-5-[4-hydroxy-3-(2-hydroxyethoxy)-6-(hydroxymethyl)-5-methoxyoxan-2-yl]oxyoxan-2-yl]oxy-6-(hydroxymethyl)-2-methyloxane-3,4-diol
+Chemical compound
+
+
+O1C(CO)C(OC)C(O)C(O)C1OCC1C(OC2C(C(O)C(OC)C(CO)O2)OCCO)C(O)C(O)C(OC2C(OC(C)C(O)C2O)CO)O1
+CWSZBVAUYPTXTG-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+102200042350
+ACP1 C13S
+Human genes
+
+
+
+
+0.000
+description
+1
+
+
+PNEYBMLMFCGWSK-UHFFFAOYSA-N
+AI2O3
+Inorganic materials
+
+
+[O-2].[O-2].[O-2].[Al+3].[Al+3]
+PNEYBMLMFCGWSK-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940063953
+AMMONIUM LAURYL SULFATE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+235000006491
+Acacia senegal
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229920001817
+Agar
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+244000144927
+Aloe barbadensis
+Species
+
+
+
+
+0.000
+description
+1
+
+
+235000002961
+Aloe barbadensis
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+BTBJBAZGXNKLQC-UHFFFAOYSA-N
+Ammonium lauryl sulfate
+Chemical compound
+
+
+[NH4+].CCCCCCCCCCCCOS([O-])(=O)=O
+BTBJBAZGXNKLQC-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+241000416162
+Astragalus gummifer
+Species
+
+
+
+
+0.000
+description
+1
+
+
+PTHCMJGKKRQCBF-UHFFFAOYSA-N
+Cellulose, microcrystalline
+Chemical compound
+
+
+OC1C(O)C(OC)OC(CO)C1OC1C(O)C(O)C(OC)C(CO)O1
+PTHCMJGKKRQCBF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+OSDLLIBGSJNGJE-UHFFFAOYSA-N
+Chloroxylenol
+Chemical compound
+
+
+CC1=CC(O)=CC(C)=C1Cl
+OSDLLIBGSJNGJE-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+FBPFZTCFMRRESA-FSIIMWSLSA-N
+D-Glucitol
+Natural products
+
+
+OC[C@H](O)[C@H](O)[C@@H](O)[C@H](O)CO
+FBPFZTCFMRRESA-FSIIMWSLSA-N
+0.000
+description
+1
+
+
+FBPFZTCFMRRESA-JGWLITMVSA-N
+D-glucitol
+Chemical compound
+
+
+OC[C@H](O)[C@@H](O)[C@H](O)[C@H](O)CO
+FBPFZTCFMRRESA-JGWLITMVSA-N
+0.000
+description
+1
+
+
+DBVJJBKOTRCVKF-UHFFFAOYSA-N
+Didronel
+Chemical compound
+
+
+OP(=O)(O)C(O)(C)P(O)(O)=O
+DBVJJBKOTRCVKF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+ZBCBWPMODOFKDW-UHFFFAOYSA-N
+Diethanolamine
+Chemical compound
+
+
+OCCNCCO
+ZBCBWPMODOFKDW-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+SZXQTJUDPRGNJN-UHFFFAOYSA-N
+Dipropylene glycol
+Chemical compound
+
+
+OCCCOCCCO
+SZXQTJUDPRGNJN-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000004908
+Emulsion polymer
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000001856
+Ethyl cellulose
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+ZZSNKZQZMQGXPY-UHFFFAOYSA-N
+Ethyl cellulose
+Chemical compound
+
+
+CCOCC1OC(OC)C(OCC)C(OCC)C1OC1C(O)C(O)C(OC)C(CO)O1
+ZZSNKZQZMQGXPY-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229920000926
+Galactomannan
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+229920002907
+Guar gum
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+229920000569
+Gum karaya
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+239000004705
+High-molecular-weight polyethylene
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000004354
+Hydroxyethyl cellulose
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229920000663
+Hydroxyethyl cellulose
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+229920002153
+Hydroxypropyl cellulose
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+229960004873
+LEVOMENTHOL
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940069822
+MONOETHANOLAMINE LAURYL SULFATE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940041616
+Menthol
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229920000168
+Microcrystalline cellulose
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+239000004909
+Moisturizer
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+KKXWPVVBVWBKBL-UHFFFAOYSA-N
+N,N-diethylethanamine;dodecyl hydrogen sulfate
+Chemical compound
+
+
+CC[NH+](CC)CC.CCCCCCCCCCCCOS([O-])(=O)=O
+KKXWPVVBVWBKBL-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+XAPRFLSJBSXESP-UHFFFAOYSA-N
+Oxycinchophen
+Chemical compound
+
+
+N=1C2=CC=CC=C2C(C(=O)O)=C(O)C=1C1=CC=CC=C1
+XAPRFLSJBSXESP-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940116985
+POTASSIUM LAURYL SULFATE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+102220375131
+PSMD13 C14S
+Human genes
+
+
+
+
+0.000
+description
+1
+
+
+239000004264
+Petrolatum
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229940066842
+Petrolatum
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+ISWSIDIOOBJBQZ-UHFFFAOYSA-N
+Phenol
+Natural products
+
+
+OC1=CC=CC=C1
+ISWSIDIOOBJBQZ-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+QCDWFXQBSFUVSP-UHFFFAOYSA-N
+Phenoxyethanol
+Chemical compound
+
+
+OCCOC1=CC=CC=C1
+QCDWFXQBSFUVSP-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229960005323
+Phenoxyethanol
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229920003171
+Poly (ethylene oxide)
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+239000004698
+Polyethylene (PE)
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000002202
+Polyethylene glycol
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229960003975
+Potassium
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+ONQDVAFWWYYXHM-UHFFFAOYSA-M
+Potassium lauryl sulfate
+Chemical compound
+
+
+[K+].CCCCCCCCCCCCOS([O-])(=O)=O
+ONQDVAFWWYYXHM-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+QELSKZZBTMNZEB-UHFFFAOYSA-N
+Propylparaben
+Chemical compound
+
+
+CCCOC(=O)C1=CC=C(O)C=C1
+QELSKZZBTMNZEB-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940048106
+SODIUM LAUROYL ISETHIONATE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940102541
+SODIUM TRIDECETH SULFATE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940079862
+Sodium Lauryl Sarcosinate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000004288
+Sodium dehydroacetate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+KSAVQLQVUXSOCR-UHFFFAOYSA-M
+Sodium lauroyl sarcosinate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCC(=O)N(C)CC([O-])=O
+KSAVQLQVUXSOCR-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+DBMJMQXJHONAFJ-UHFFFAOYSA-M
+Sodium laurylsulphate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCCOS([O-])(=O)=O
+DBMJMQXJHONAFJ-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+229920001615
+Tragacanth
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+ICUTUKXCWQYESQ-UHFFFAOYSA-N
+Triclocarban
+Chemical compound
+
+
+C1=CC(Cl)=CC=C1NC(=O)NC1=CC=C(Cl)C(Cl)=C1
+ICUTUKXCWQYESQ-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+XEFQLINVKFYRCS-UHFFFAOYSA-N
+Triclosan
+Chemical compound
+
+
+OC1=CC(Cl)=CC=C1OC1=CC=C(Cl)C=C1Cl
+XEFQLINVKFYRCS-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+NBIIXXVUZAFLBC-UHFFFAOYSA-K
+[O-]P([O-])([O-])=O
+Chemical compound
+
+
+[O-]P([O-])([O-])=O
+NBIIXXVUZAFLBC-UHFFFAOYSA-K
+0.000
+description
+1
+
+
+239000000205
+acacia gum
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+DPXJVFZANSGRMM-UHFFFAOYSA-N
+acetic acid;2,3,4,5,6-pentahydroxyhexanal;sodium
+Chemical compound
+
+
+[Na].CC(O)=O.OCC(O)C(O)C(O)C(O)C=O
+DPXJVFZANSGRMM-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000008272
+agar
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000032683
+aging
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+150000001335
+aliphatic alkanes
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+229910052783
+alkali metal
+Inorganic materials
+
+
+
+
+0.000
+description
+1
+
+
+150000001340
+alkali metals
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+125000005907
+alkyl ester group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+125000002947
+alkylene group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+235000011399
+aloe vera
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+150000001408
+amides
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+150000001412
+amines
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+QGZKDVFQNNGYKY-UHFFFAOYSA-O
+ammonium
+Chemical compound
+
+
+[NH4+]
+QGZKDVFQNNGYKY-UHFFFAOYSA-O
+0.000
+description
+1
+
+
+VHUUQVKOLVNVRT-UHFFFAOYSA-N
+ammonium hydroxide
+Chemical compound
+
+
+[NH4+].[OH-]
+VHUUQVKOLVNVRT-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000000908
+ammonium hydroxide
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000000845
+anti-microbial
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+229940053195
+antiepileptics Hydantoin derivatives
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000004599
+antimicrobial
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229940027983
+antiseptics and disinfectants Quaternary ammonium compounds
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+OPVLOHUACNWTQT-UHFFFAOYSA-N
+azane;2-dodecoxyethyl hydrogen sulfate
+Chemical compound
+
+
+N.CCCCCCCCCCCCOCCOS(O)(=O)=O
+OPVLOHUACNWTQT-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000002585
+base
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000019445
+benzyl alcohol
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+MKHVZQXYWACUQC-UHFFFAOYSA-N
+bis(2-hydroxyethyl)azanium;dodecyl sulfate
+Chemical compound
+
+
+OCCNCCO.CCCCCCCCCCCCOS(O)(=O)=O
+MKHVZQXYWACUQC-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+230000001914
+calming
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+150000001720
+carbohydrates
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+235000014633
+carbohydrates
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000008112
+carboxymethyl-cellulose
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+150000001768
+cations
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+229920002678
+cellulose
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+239000001913
+cellulose
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000010980
+cellulose
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940079840
+cocoyl isethionate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000003086
+colorant
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+150000001875
+compounds
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+238000009833
+condensation
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+230000005494
+condensation
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000007859
+condensation product
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000002826
+coolant
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229920001577
+copolymer
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+235000012343
+cottonseed oil
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000002385
+cottonseed oil
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+GVGUFUZHNYFZLC-UHFFFAOYSA-N
+dodecyl benzenesulfonate;sodium
+Chemical compound
+
+
+[Na].CCCCCCCCCCCCOS(=O)(=O)C1=CC=CC=C1
+GVGUFUZHNYFZLC-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+QVBODZPPYSSMEL-UHFFFAOYSA-N
+dodecyl sulfate;2-hydroxyethylazanium
+Chemical compound
+
+
+NCCO.CCCCCCCCCCCCOS(O)(=O)=O
+QVBODZPPYSSMEL-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+JZKFHQMONDVVNF-UHFFFAOYSA-N
+dodecyl sulfate;tris(2-hydroxyethyl)azanium
+Chemical compound
+
+
+OCCN(CCO)CCO.CCCCCCCCCCCCOS(O)(=O)=O
+JZKFHQMONDVVNF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+HZAXFHJVJLSVMW-UHFFFAOYSA-N
+ethanolamine
+Chemical compound
+
+
+NCCO
+HZAXFHJVJLSVMW-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+235000019325
+ethyl cellulose
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229920001249
+ethyl cellulose
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+238000011156
+evaluation
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+150000002191
+fatty alcohols
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+239000006260
+foam
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+238000005187
+foaming
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+239000008187
+granular material
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000000665
+guar gum
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000010417
+guar gum
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229960002154
+guar gum
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229920000591
+gum
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+150000001469
+hydantoins
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+150000002430
+hydrocarbons
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+125000004435
+hydrogen atoms
+Chemical group
+
+
+[H]*
+
+0.000
+description
+1
+
+
+125000001165
+hydrophobic group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+235000019447
+hydroxyethyl cellulose
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000001863
+hydroxypropyl cellulose
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000010977
+hydroxypropyl cellulose
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+ZCTXEAQXZGPWFG-UHFFFAOYSA-N
+imidurea
+Chemical compound
+
+
+O=C1NC(=O)N(CO)C1NC(=O)NCNC(=O)NC1C(=O)NC(=O)N1CO
+ZCTXEAQXZGPWFG-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+235000010494
+karaya gum
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940071190
+laureth sulfosuccinate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000007791
+liquid phase
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+150000004668
+long chain fatty acids
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+238000002844
+melting
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+229910000000
+metal hydroxide
+Inorganic materials
+
+
+
+
+0.000
+description
+1
+
+
+150000004692
+metal hydroxides
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+229920000609
+methyl cellulose
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+235000010270
+methyl p-hydroxybenzoate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000004292
+methyl p-hydroxybenzoate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000001923
+methylcellulose
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000010981
+methylcellulose
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229960002216
+methylparaben
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+244000005700
+microbiome
+Species
+
+
+
+
+0.000
+description
+1
+
+
+235000019813
+microcrystalline cellulose
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000008108
+microcrystalline cellulose
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229940016286
+microcrystalline cellulose
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000004200
+microcrystalline wax
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000019808
+microcrystalline wax
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000002480
+mineral oil
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000010446
+mineral oil
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+230000001333
+moisturizer
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+230000003472
+neutralizing
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000003605
+opacifier
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000002245
+particle
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000019271
+petrolatum
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000003209
+petroleum derivative
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000010452
+phosphate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+XYFCBTPGUUZFHI-UHFFFAOYSA-N
+phosphine
+Chemical compound
+
+
+P
+XYFCBTPGUUZFHI-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+NJRWNWYFPOFDFN-UHFFFAOYSA-L
+phosphonate(2-)
+Chemical compound
+
+
+[O-][P]([O-])=O
+NJRWNWYFPOFDFN-UHFFFAOYSA-L
+0.000
+description
+1
+
+
+XYFCBTPGUUZFHI-UHFFFAOYSA-O
+phosphonium
+Chemical compound
+
+
+[PH4+]
+XYFCBTPGUUZFHI-UHFFFAOYSA-O
+0.000
+description
+1
+
+
+229920000573
+polyethylene
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+XBDQKXXYIPTUBI-UHFFFAOYSA-M
+propionate
+Chemical class
+
+
+CCC([O-])=O
+XBDQKXXYIPTUBI-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+235000010232
+propyl p-hydroxybenzoate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000004405
+propyl p-hydroxybenzoate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229960003415
+propylparaben
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+150000003856
+quaternary ammonium compounds
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+FSYKKLYZXJSNPZ-UHFFFAOYSA-N
+sarcosine zwitterion
+Chemical compound
+
+
+C[NH2+]CC([O-])=O
+FSYKKLYZXJSNPZ-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+230000001953
+sensory
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000000926
+separation method
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+239000003352
+sequestering agent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000000377
+silicon dioxide
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229920002545
+silicone oil
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+235000015424
+sodium
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940079839
+sodium dehydroacetate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+235000019259
+sodium dehydroacetate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940080264
+sodium dodecylbenzenesulfonate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940057950
+sodium laureth sulfate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940045885
+sodium lauroyl sarcosinate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+235000019333
+sodium laurylsulphate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229910052938
+sodium sulfate
+Inorganic materials
+
+
+
+
+0.000
+description
+1
+
+
+235000011152
+sodium sulphate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+KLYDBHUQNXKACI-UHFFFAOYSA-M
+sodium;2-[2-(2-tridecoxyethoxy)ethoxy]ethyl sulfate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCCCOCCOCCOCCOS([O-])(=O)=O
+KLYDBHUQNXKACI-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+CAVXVRQDZKMZDB-UHFFFAOYSA-M
+sodium;2-[dodecanoyl(methyl)amino]ethanesulfonate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCC(=O)N(C)CCS([O-])(=O)=O
+CAVXVRQDZKMZDB-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+BRMSVEGRHOZCAM-UHFFFAOYSA-M
+sodium;2-dodecanoyloxyethanesulfonate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCC(=O)OCCS([O-])(=O)=O
+BRMSVEGRHOZCAM-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+ZSSZUMCXBONOBH-UHFFFAOYSA-M
+sodium;4-dodecanoyloxy-4-oxo-3-sulfobutanoate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCC(=O)OC(=O)C(S(O)(=O)=O)CC([O-])=O
+ZSSZUMCXBONOBH-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+XZZDWCJZCAQFDF-UHFFFAOYSA-N
+sodium;tridecyl benzenesulfonate
+Chemical compound
+
+
+[Na].CCCCCCCCCCCCCOS(=O)(=O)C1=CC=CC=C1
+XZZDWCJZCAQFDF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000007787
+solid
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000000600
+sorbitol
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+125000001424
+substituent group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+DIORMHZUUKOISG-UHFFFAOYSA-M
+sulfoformate
+Chemical compound
+
+
+OC(=O)S([O-])(=O)=O
+DIORMHZUUKOISG-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+238000006277
+sulfonation reaction
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+RWSOTUBLDIXVET-UHFFFAOYSA-O
+sulfonium
+Chemical class
+
+
+[SH3+]
+RWSOTUBLDIXVET-UHFFFAOYSA-O
+0.000
+description
+1
+
+
+235000020238
+sunflower seed
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000000271
+synthetic detergent
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+150000003512
+tertiary amines
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+235000019587
+texture
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229960003500
+triclosan
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229920001285
+xanthan gum
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+239000000230
+xanthan gum
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000010493
+xanthan gum
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940082509
+xanthan gum
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+
+Classifications
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C11—ANIMAL OR VEGETABLE OILS, FATS, FATTY SUBSTANCES OR WAXES; FATTY ACIDS THEREFROM; DETERGENTS; CANDLES
+
+
+C11D—DETERGENT COMPOSITIONS; USE OF SINGLE SUBSTANCES AS DETERGENTS; SOAP OR SOAP-MAKING; RESIN SOAPS; RECOVERY OF GLYCEROL
+
+
+C11D9/00—Compositions of detergents based essentially on soap
+
+
+C11D9/04—Compositions of detergents based essentially on soap containing compounding ingredients other than soaps
+
+
+C11D9/22—Organic compounds, e.g. vitamins
+
+
+C11D9/26—Organic compounds, e.g. vitamins containing oxygen
+
+
+C11D9/267—Organic compounds, e.g. vitamins containing oxygen containing free fatty acids
+
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C11—ANIMAL OR VEGETABLE OILS, FATS, FATTY SUBSTANCES OR WAXES; FATTY ACIDS THEREFROM; DETERGENTS; CANDLES
+
+
+C11D—DETERGENT COMPOSITIONS; USE OF SINGLE SUBSTANCES AS DETERGENTS; SOAP OR SOAP-MAKING; RESIN SOAPS; RECOVERY OF GLYCEROL
+
+
+C11D10/00—Compositions of detergents, not provided for by one single preceding group
+
+
+C11D10/04—Compositions of detergents, not provided for by one single preceding group based on mixtures of surface-active non-soap compounds and soap
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C11—ANIMAL OR VEGETABLE OILS, FATS, FATTY SUBSTANCES OR WAXES; FATTY ACIDS THEREFROM; DETERGENTS; CANDLES
+
+
+C11D—DETERGENT COMPOSITIONS; USE OF SINGLE SUBSTANCES AS DETERGENTS; SOAP OR SOAP-MAKING; RESIN SOAPS; RECOVERY OF GLYCEROL
+
+
+C11D17/00—Detergent materials or soaps characterised by their shape or physical properties
+
+
+C11D17/08—Liquid soap, e.g. for dispensers; capsuled
+
+
+
+
+
+
+
+C—CHEMISTRY; METALLURGY
+
+
+C11—ANIMAL OR VEGETABLE OILS, FATS, FATTY SUBSTANCES OR WAXES; FATTY ACIDS THEREFROM; DETERGENTS; CANDLES
+
+
+C11D—DETERGENT COMPOSITIONS; USE OF SINGLE SUBSTANCES AS DETERGENTS; SOAP OR SOAP-MAKING; RESIN SOAPS; RECOVERY OF GLYCEROL
+
+
+C11D1/00—Detergent compositions based essentially on surface-active compounds; Use of these compounds as a detergent
+
+
+C11D1/88—Ampholytes; Electroneutral compounds
+
+
+C11D1/90—Betaines
+
+
+
+
+
+
+
+
+Abstract
+
+A liquid cleansing composition is provided which includes from 5 to 25% by weight of a fatty acids mixture and from 30 to 90% by weight of water, wherein the fatty acids mixture is present in a weight amount greater than a total of all surfactants other than soap present in the composition. Further, the fatty acids mixture is 70- 95% of lauric and myristic fatty acids in a weight ratio from 9: 1 to 1 :2, and 5-30% C16-C20 fatty acid, all by weight of the fatty acids mixture. Still further, 60-90 mole % of the fatty acids mixture is neutralized into soap.
+
+
+
+
+Description
+
+ LIQUID SOAP COMPOSITIONS 
+BACKGROUND OF THE INVENTION Field of the Invention 
+The present invention relates to stable liquid personal skin and hair cleansing compositions based on fatty acid technology. The Related Art 
+Soap has been a mainstay active for cleansers. Most toilet bars contain this surfactant. That is why they are called soap bars. Beginning many decades ago synthetic detergents, known shorthand as syndets, have been replacing soap. Among the reasons are that many syndets are milder, foam better and are more stable in liquid formats. Partially a result of a relatively higher melting point, soap is ideal for semi-solids such as bars. Contrary in aqueous liquid formulas, there are structuring and stability problems. 
+In recent years sustainability of resources has become an issue. Syndets are often petroleum derivatives. Those syndets that are prepared from renewable resources need further reactive chemical processing such as sulfonation and/or alkoxylation. By contrast, soaps are generally obtained from renewable 
+resources. They are neutralized fatty acid salts which through mild chemical processing are readily available from vegetable triglycerides. Relevant technology is found in the disclosures which follow. 
+GB 2 351 979 B (Arai et al) describes liquid cleansing compositions containing mixtures of alkali metal soaps, anionic surfactants and 
+amphoteric/zwitterionic surfactants. The soap/synthetic surfactant liquid 
+
+ compositions were recognized to have problems with low temperature storage stability. They tend to freeze and thereby cannot be readily pumped from their containers. Isoprene glycol with dipropylene glycol were utilized to solve the problem. 
+WO 97/27279 (Hamada et al.) discloses a body soap incorporating polyoxyethylene alkyl ether sulfate to reduce stiff skinfeel attributed to the soap. A specific ratio of soap to alkyl ether sulfate is needed to overcome the problem. WO 96/36313 (Chatfield et al.) relates to aqueous liquid cleansing compositions containing soaps. In this patent, short chain fatty acid (do or less) is united with a long chain (C14-C22) fatty acid soap to obtain a skin mild liquid with good lather. U.S. Patent 4,975,218 (Rosser et al.) reports a single liquid phase clear aqueous soap composition containing ethoxylated nonionic surfactants to enhance mildness. Included in the composition are 10-50% of C12-C18 fatty acid soaps and 5-30% of C8-C22 fatty alcohol having 20 to 50 ethoxylate groups. 
+Preferred mixtures of lauric acid to myristic acid are in a ratio of 1 : 1 to 1 :4. 
+U.S. Patent 4,486,328 (Knott et al.) describes a clear liquid shampoo containing a mixture of water-soluble Cs-C-is fatty acid soap and a zwitterionic detergent. The latter is present in a major proportion, i.e. more than 60% of total fatty acid and zwitterionic detergent, to provide the shampoo with stability and clarity. The mole ratio of zwitterionic detergent (e.g. cocoamidopropyldimethyl betaine) to fatty acid ranges from 1 .2: 1 to 2.3: 1 . Liquid compositions containing low levels of zwitterionic detergent are cloudy and show phase separation during storage. 
+
+ U.S. Patent 5, 147,574 (MacGilp et al.) discloses a stable dispersoidal liquid soap personal cleanser. The mixture contains 5-20% saturated higher fatty acid potassium soap and 3-18% of free fatty acids. The weight ratio of soap to free fatty acid is 1 :0.5 to 1 : 1 equivalent to about 62.7% to 45.8% of neutralization of total fatty acids. Preferred fatty acids of the invention are those being fully saturated with low levels of lauric acid and high levels of palmitic and stearic acids. 
+U.S. Patent Application Publication No. 2005/0020461 A1 (Seki) concerns a cleansing composition containing 20-50% of fatty acids and fatty acid salt (soap) mixtures in which 50-80% have 16 or higher carbon atoms. The higher chain lengths are used to improve both mildness and storage stability. High levels of lauric and myristic acids are not preferred due to the after-cleansing tight skinfeel and poor storage stability. 
+U.S. Patent 6,812, 192 B2 (Ribery) reports a foaming liquid for cleansing or make-up removal. Compositions therein contain fatty acids with degree of neutralization between 50 and 100 weight %. The comparative examples show that liquid cleansers containing partially neutralized fatty acids are unstable. At least one non-betaine amphoteric surfactant and at least one sulphosuccinate- type anionic surfactant are required to achieve stability. 
+Although there is substantial technology reported in the liquid soap area, none of the references have truly achieved a skin mild system that has highly controlled phase and viscosity stability without necessity to depend on syndets. 
+
+ SUMMARY OF THE INVENTION 
+A liquid cleansing composition is provided which includes: 
+ (i) from 5 to 25% by weight of the composition of a fatty acids mixture in which: 
+ (a) from 70 to 95% by weight of the mixture of C12 and Cu fatty acids present in a relative weight ratio of 9: 1 to 1 :2; 
+ (b) from 5 to 30% by weight of the mixture of C16-C20 fatty acids;
+(c) from 60 to 90 mole % of the fatty acids mixture being neutralized to form soaps; and 
+ (ii) from 30 to 90% by weight of the composition of water; and 
+ wherein the fatty acids mixture is present in a weight amount greater than a total of all surfactants other than soap present in the composition. DETAILED DESCRIPTION OF THE INVENTION 
+Now it has been found that a stable liquid soap composition can be achieved by selection of fatty acids, control of neutralization levels and 
+appropriate manipulation of their concentrations. More specifically, the mole percentage of the fatty acid mixture that is neutralized should lie in a range from 60 to 90%, preferably from 65 to 85%, and more preferably from 68 to 80%. 
+Bases used to neutralize the fatty acids may be metal hydroxides such as potassium or sodium hydroxide, organic amines such as mono-, di- or tri-ethanol amine, or ammonium hydroxide and mixtures thereof. Combinations of lauric acids (C12) and myristic acid (Cu) constitute from 70 to 95%, preferably from 75 to 90% by weight of the fatty acids mixture. The weight ratio of lauric to myristic acid is in the range from 9: 1 to 2: 1 , preferably 4: 1 to 2: 1 , to provide good lather volume and lather cream iness to the liquid soap compositions. From 5 to 30% and preferably from 10 to 25% by weight of the fatty acids mixture is constituted of 
+
+ C16-C20 chain lengths. Syndets may be present but their total amounts by weight should be less than the total weight amount of the fatty acids mixture. 
+The fatty acids mixture of this invention may amount to 5 to 25%, and optimally from 8 to 18% by weight of the composition. 
+In this disclosure the term "fatty acids mixture" is used to include a sum of both free fatty acids and neutralized fatty acids (i.e. soaps) in the liquid 
+composition. The term "fatty acids mixture weight" refers to the weight of the free fatty acid together with the neutralized fatty acid, the latter including the weight of the neutralizing cations. 
+Water will be present in the compositions in amounts from 30 to 90%, preferably from 50 to 85%, and optimally from 65 to 80% by weight. 
+Zwitterionic surfactants may be formulated into compositions of this invention. Zwitterionic surfactants suitable for use herein include, but are not limited to derivatives of aliphatic quaternary ammonium, phosphonium, and sulfonium compounds, in which the aliphatic radicals can be straight or branched chain, and wherein one of the aliphatic substituents contains from about 8 to about 18 carbon atoms and one substituent contains an anionic group, e.g., carboxy, sulfonate, sulfate, phosphate, or phosphonate. Illustrative zwitterionics are coco dimethyl carboxymethyl betaine, cocoamidopropyl betaine, cocobetaine, oleyl betaine, cetyl dimethyl carboxymethyl betaine, lauryl bis-(2-hydroxyethyl) carboxymethyl betaine, stearyl bis-(2-hydroxypropyl) carboxymethyl betaine, oleyl dimethyl gamma-carboxypropyl betaine, lauryl bis-(2-hydroxypropyl)alpha- carboxyethyl betaine, and mixtures thereof. The sulfobetaines may include stearyl dimethyl sulfopropyl betaine, lauryl dimethyl sulfoethyl betaine, lauryl bis-(2- hydroxyethyl) sulfopropyl betaine and mixtures thereof. 
+
+ The amount of zwitterionic surfactant used in the invention depends on the amount of the fatty acids mixture in the liquid composition. It should be at least 25 wt% but less than 100 wt% of the amount of the fatty acids mixture, preferably in the range of 35 to 95 wt% of the fatty acids mixture amount. 
+Anionic and/or nonionic surfactants may also be included in the 
+compositions. Examples of anionic surfactants suitable for use herein include, but are not limited to, ammonium lauryl sulfate, ammonium laureth sulfate, 
+triethylamine lauryl sulfate, triethylamine laureth sulfate, triethanolamine lauryl sulfate, triethanolamine laureth sulfate, monoethanolamine lauryl sulfate, monoethanolamine laureth sulfate, diethanolamine lauryl sulfate, diethanolamine laureth sulfate, lauric monoglyceride sodium sulfate, sodium lauryl sulfate, sodium laureth sulfate, potassium laureth sulfate, sodium lauryl sarcosinate, sodium lauroyl sarcosinate, potassium lauryl sulfate, sodium trideceth sulfate, sodium methyl lauroyl taurate, sodium lauroyl isethionate, sodium laureth sulfosuccinate, sodium lauroyl sulfosuccinate, sodium tridecyl benzene sulfonate, sodium dodecyl benzene sulfonate, sodium lauryl amphoacetate and mixtures thereof. 
+The anionic surfactant may be, for example, an aliphatic sulfonate, such as a primary C8-C22 alkane sulfonate, primary C8-C22 alkane disulfonate, C8-C22 alkene sulfonate, C8-C22 hydroxyalkane sulfonate or alkyl glyceryl ether sulfonate. 
+Nonionic surfactants which may be used include the reaction products of compounds having a hydrophobic group and a reactive hydrogen atom. 
+Exemplative are alcohols, acids, amides or alkyl phenols reacted with alkylene oxides, especially ethylene oxide either alone or with propylene oxide. Specific nonionics are C6-C22 alkyl phenols-ethylene oxide condensates, the condensation products of Cs-C-is aliphatic primary or secondary linear or branched alcohols with ethylene oxide, and products made by condensation of ethylene oxide with the reaction products of propylene oxide and ethylenediamine. Other nonionics 
+
+ include long chain tertiary amine oxides, long chain tertiary phosphine oxides and dialkyl sulphoxides. Also useful are the alkyl polysaccharides. 
+Water soluble/dispersible polymers are an optional ingredient that is highly preferred to be included in the liquid composition of the invention. These polymers can be cationic, anionic, amphoteric or nonionic types with molecular weights higher than 100,000 Dalton. They are known to increase the viscosity and stability of liquid cleanser compositions, to enhance in-use and after-use skin sensory feels, and to enhance lather creaminess and lather stability. Amount of the polymers when present may range from 0.1 to 10% by weight of the composition. 
+Examples of water soluble/ or dispersible polymers include the 
+carbohydrate gums such as cellulose gum, microcrystalline cellulose, cellulose gel, hydroxyethyl cellulose, hydroxypropyl cellulose, sodium 
+carboxymethylcellulose, methyl cellulose, ethyl cellulose, guar gum, gum karaya, gum tragacanth, gum arabic, gum acacia, gum agar, xanthan gum and mixtures thereof; modified and nonmodified starch granules and pregelatinized cold water soluble starch; emulsion polymers such as AculynÂ® 28, AculynÂ® 22 or Carbopol Â©Aqua SF1 ; cationic polymer such as modified polysaccharides including cationic guar available from Rhone Poulenc under the trade name Jaguar C13S, Jaguar C14S, Jaguar C17, or Jaguar C16; cationic modified cellulose such as UCARE Polymer JR 30 or JR 40 from Amerchol; N-HanceÂ® 3000, N-HanceÂ® 3196, N- HanceÂ® GPX 215 or N-HanceÂ® GPX 196 from Hercules; synthetic cationic polymer such as MerquatÂ® 100, MerquatÂ® 280, MerquatÂ® 281 and MerquatÂ® 550 sold by Nalco; cationic starches such as 
+ StaLokÂ® 100, 200, 300 and 400 sold by Staley Inc.; cationic galactomannans such as GalactasolÂ® 800 series by Henkel, Inc.; QuadrosoftÂ® LM-200; and Polyquaternium-24. Also suitable are high molecular weight polyethylene glycols such as PolyoxÂ® WSR-205 (PEG 14M), PolyoxÂ® WSR-N-60K (PEG 45), and PolyoxÂ® WSR-301 (PEG 90M). 
+
+ Water-soluble skin benefit agents may optionally be formulated into the liquid compositions of the invention. A variety of water-soluble skin benefit agents can be used and the level can be from 0 to 50% but preferably from 1 to 30% by weight of the composition. These materials include, but are not limited to, polyhydroxy alcohols. Preferred water soluble skin benefit agents are glycerin, sorbitol and polyethylene glycol. 
+Water-insoluble skin benefit agents may also be formulated into the compositions as conditioners and moisturizers. Examples include silicone oils; hydrocarbons such as liquid paraffins, petrolatum, microcrystalline wax, and mineral oil; and vegetable triglycerides such as sunflowerseed and cottonseed oils. Preservatives can desirably be incorporated into the compositions of this invention to protect against the growth of potentially harmful microorganisms. Suitable traditional preservatives for compositions of this invention are alkyl esters of para-hydroxybenzoic acid. Other preservatives which have more recently come into use include hydantoin derivatives, propionate salts, and a variety of quaternary ammonium compounds. Particularly preferred preservatives are phenoxyethanol, methyl paraben, propyl paraben, imidazolidinyl urea, sodium dehydroacetate and benzyl alcohol. The preservatives should be selected having regard for the use of the composition and possible incompatabilities between the preservatives and other ingredients. Preservatives are preferably employed in amounts ranging from 0.01 % to 2% by weight of the composition. 
+A variety of other optional materials may be formulated into the 
+compositions. These may include: antimicrobials such as 2-hydroxy-4,2',4'- trichlorodiphenylether (triclosan), 2,6-dimethyl-4-hydroxychlorobenzene, and 3,4,4'-trichlorocarbanilide; scrub and exfoliating particles such as polyethylene 
+
+ and silica or alumina; cooling agents such as menthol; skin calming agents such as aloe vera; and colorants. 
+In addition, the compositions of the invention may further include 0 to 10% by weight of sequestering agents, such as tetra sodium 
+ethylenediaminetetraacetate (EDTA), EHDP or mixtures; opacifiers and pearlizers such as ethylene glycol distearate, titanium dioxide or Lytron 621 
+(Styrene/Acrylate copolymer); all of which are useful in enhancing the appearance or properties of the product. 
+All documents referred to herein, including all patents, patent applications, and printed publications, are hereby incorporated by reference in their entirety in this disclosure. 
+The term "comprising" is meant not to be limiting to any subsequently stated elements but rather to encompass non-specified elements of major or minor functional importance. In other words the listed steps, elements or options need not be exhaustive. Whenever the words "including" or "having" are used, these terms are meant to be equivalent to "comprising" as defined above. 
+Except in the operating and comparative examples, or where otherwise explicitly indicated, all numbers in this description indicating amounts of material ought to be understood as modified by the word "about". 
+It should be noted that in specifying any range of concentration or amount, any particular upper concentration can be associated with any particular lower concentration or amount. 
+The following examples will more fully illustrate the embodiments of this invention. All parts, percentages and proportions referred to herein and in the appended claims are by weight unless otherwise illustrated. 
+
+ EXAMPLES 
+All examples in Tables 1 , 2 and 3 were prepared in a vessel by mixing water, CarbopolÂ® Aqua SF1 , fatty acids, ethylene glycol distearate and titanium dioxide (when present) at 70Â° to 75Â°C for 15 to 30 minutes until all the fatty acids melted. PolyoxÂ® WSR 301 was predispersed in 25% sodium hydroxide solution. The predispersion was then added slowly to the charged vessel to neutralize the molten fatty acids and allowed to mix for 15 to 25 minutes at 70Â° to 75Â°C. 
+Cocoamidopropyl betaine, sodium laureth(1 ) sulfate and other synthetic surfactants were then added and mixed at 70Â° to 75Â°C for another 15 to 20 minutes. Subsequently, the mixture was cooled below 40Â°C. All the other ingredients such as preservatives and perfume were lastly charged to the vessel and mixed for 10 more minutes. Each resultant formula was aged overnight at room temperature (RT). Viscosity was measured using a Brookfield viscometer (20 rpm using #5 spindle for 30 seconds at 20Â°C). The viscosity results are recorded in the Tables. Samples were then stored at 4Â°C and 45Â°C for stability evaluation. Physical stability of the samples after the storage test was visually assessed and viscosity was measured using the same method described above after the sample was aged at 20Â° to 25Â°C room temperature for 20 to 24 hours. These results are also recorded in the Tables. 
+
+
+Table 1 : Effect of co-surfactant level on liquid stability 
+Example No. 1 2 3 4 5 - - - -
+Comparative - - - - A B C D Example 
+ Na 
+ cocoamidopropyl 7 7 3.5 5 7 7 10 12 12 betaine 
+ Na laurylethyl 
+ sulfate 0 2 2 4 0 4 2 2 0 
+ 
+ RT initial to 4 
+weeks 
+ Storage at 4Â°C 
+for 1 week 3580 2420 1440 2700 28000 4900 3700 4400 1660
+% Decrease in 
+Viscosity at 18 24 3 16 -1 -- -- 13 45 RT initial to 
+4Â°C at 1 week 
+ Storage at 
+45Â°C for 2 2880 2800 1200 2360 22000 2000 2600 2600 2000 weeks 
+ % Decrease in 
+Viscosity at 34 13 19 26 15 44 38 48 33 RT initial to 
+45Â°C for 2 
+weeks 
+ Contains 80% cocoyl isethionate and 20% stearic acid. 
+ 2 Degree of fatty acid neutralization = (amount of NaOH added less amount of added NaOH required to neutralize SF1) divided by (amount of NaOH required to 100% neutralize fatty acids) as stated in mole terms. 
+ 3 "Separated" means liquid shows separation with two or more phases at 45Â°C storage condition. 
+
+
+Table 1 explores the effect of synthetic surfactant level on liquid stability. Five examples (1 -5) of this invention were compared to four examples (A-D) outside the invention. In Examples 1 to 5 the total amount of synthetic surfactants is less than the total amount of fatty acids. All of the first five examples exhibited stability at all storage conditions, i.e., retaining at least 60%, preferably at least 66% and optimally at least 70% of the initial viscosity under all storage conditions. Comparative examples A to D containing total synthetic surfactants close to or higher than the total amount of the fatty acids mixture were not stable. They either showed phase separation at room temperature (see A and B) or did not retain 60% or more of their initial viscosity after storage at either 45Â°C or 4Â°C. 
+Table 2: Effect of degree of neutralization and fatty acids composition 
+Example No. 6 7 - - - - -
+Comparative - - E F G H I J
+Example 
+ Na 
+ cocoamidopropyl 7 7 7 7 7 7 7 7 betaine 
+ Na laurylethyl 
+ sulfate 2 2 2 2 2 2 2 2
+Laurie acid 
+ (wt% of fatty 7.6 6 7.6 1 1 .7 6.7 4.7 3.4 0 
+ (65.5%) (51 .2%) (65.5%) (100%) (57.2%) (40.2%) (28.3%) (0%) acids mixture) 
+ Myristic acid 
+ (wt% of fatty 3 4.5 3 0 1 .0 1 6.9 10.3 
+ (25.6%) (39.3%) (57.7%) (85.7%) acids mixture) 
+ Palmitic acid 
+ (wt% of fatty 0.54 0.54 0.54 0 1 .96 2.94 0.83 0.83 acids mixture) (16.7%) (25.1 %) 
+ Stearic acid 
+ (wt% of fatty 0.56 0.56 0.56 0 2.04 3.06 0.87 0.87 acids mixture) (17.4%) (26.1 %) 
+ Ethylene glycol 1 .0 1 .0 1 .0 1 .0 1 .0 1 .0 1 .0 1 distearate 
+ CarbopolÂ® Aqua 0.9 0.45 0.9 0.9 0.9 0.9 0.9 0.45 SF1 
+ PolyoxÂ® WSR 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 301 
+ AqualonÂ® 
+ D4051 0.05 0.05 -- -- -- -- 0.05 0.05 cationic guar 
+ Glycerine 2 2 -- -- -- -- 2 2 
+
+ Perfume 1 1 1 1 1 1 1 1
+NaOH (25% in 6.0 7.0 7.0 7.0 
+ water) 
+ KOH (45% in 6.3 5.9 2 2 water) 
+ PH 8.50 8.58 7.80 8.1 8.1 1 8.38 8.52 8.6
+Amount of Alkali 
+ Hydroxide to 0.49 0.25 0.63 0.63 0.63 0.63 0.49 0.25 neutralize SF1 
+ Total moles of 0.0551 0.0543 0.0551 0.0585 0.0527 0.050 0.0536 0.0515 fatty acids 
+ Amount of Alkali 
+ Hydroxide 6.85 6.75 8.81 9.36 8.44 8.02 6.66 6.40 required to 
+ 100% neutralize 
+ fatty acids 
+ mixture 
+ Degree of fatty 
+ acid 84.8% 83.7% 61.0% 68.1 % 75.5% 79.2% 78.2% 83.6% neutralization 
+ Initial viscosity 
+ (cps) 19700 18000 13500 2500 6000 Over 126900 Over
+Overnight at RT 20000 20000
+Storage at RT 
+ for 4 weeks 19500 16700 13000 1 100 2560 gel gel gel
+% Decrease in 
+ Viscosity at RT 1 7 4 56 57 -- -- -- initial to 4 weeks 
+ Storage at 4Â°C 
+ for 1 week 19500 16800 3800 2000 4600 gel 17500 gel
+% Decrease in 
+ Viscosity at RT 1 7 72 20 23 -- -4 -- initial to 4Â°C at 1 
+ week 
+ Storage at 45Â°C 
+ for 2 weeks 19200 16400 10800 1600 2900 3600 10820 13000
+% Decrease in 
+ Viscosity at RT 3 9 20 36 52 -- 36 -- initial to 45Â°C for 
+ 2 weeks Degree of fatty acid neutralization = (amount of NaOH/KOH added) less (amount of NaOH/KOH required to neutralize SF1) divided by (amount NaOH/KOH required to 100% neutralize fatty acids) as stated in mole terms. 
+
+ Table 2 explores the effect of fatty acid composition and the degree of neutralization on stability. Comparative examples E has the same composition as Example 2 of Table 1 except having lower degree of fatty acid neutralization, 61 % vs.72.3%. Comparative example E has higher initial viscosity with lotion-like texture. However, the liquid turned thin after being stored at 4Â°C for 1 week. Comparative examples F, G, H, I and J show the criticality of fatty acid 
+composition on stability. Comparative Example F contains only lauric acid. 
+Comparative Example G contains a high wt% of palmitic and stearic acids (34.1 wt% of total fatty acids). Example H contains 51.2 wt% of palmitic and stearic acids. Both G and H do not have enough of lauric and myristic acids to achieve stability. 
+Comparative Examples I and J contain too low a ratio of lauric acid to myristic acid (1 :2.03 for Example I and 0: 10.3 for Example J). Both have stability problems during storage at RT, 4Â°C or 45Â°C. 
+These examples contain either a high wt% of C14 (Examples I and J) or too high of C16/C18 (Example G and H) and insufficient amounts of lauric acid. They became non-pourable gels after aging at room temperature over several weeks. 
+
+
+Table 3: Effect of neutralization and fatty acid composition on liquid stability 
+ 
+ Storage at RT 
+for 4weeks 2160 2200 4000 1 1200 14900 Over 20000
+% Decrease in 
+Viscosity at RT 14 83 17 17 -17 
+initial to 4 
+weeks 
+ Storage at 4Â°C 
+for 1 week 2360 2000 3840 1 1740 6300 13200
+% Decrease in 
+Viscosity at RT 6 84 20 13 50 -100 initial to 4Â°C for 
+1 week 
+ Storage at 
+45Â°C for 2 2180 9940 3300 10200 13300 2620 weeks 
+ % Decrease 
+Viscosity at RT 13 22 31 24 -5 60 initial to 45Â°C 
+for 2 weeks Degree of fatty acid neutralization = (amount of NaOH/KOH added) less (amount of NaOH/KOH required to neutralize SF1) divided by (amount NaOH/KOH required to 100% neutralize fatty acids) as stated in mole terms. 
+Three more examples of this invention and 3 comparative examples with similar synthetic surfactant and fatty acids compositions were prepared and detailed in Table 3. These examples further confirm that both the degree of fatty acid neutralization and fatty acid composition are critical to the liquid stability of this invention. To make liquid compositions of this invention stable at all storage conditions, degree of fatty acid neutralization should be more than 60%, preferably at least 65% and it should contain both short chain and long chain fatty acids in the composition. 
+
+
+
+
+
+Claims
+
+ CLAIMS: 
+
+1 . A liquid cleansing composition comprising: 
+ (i) from 5 to 25% by weight of the composition of a fatty acids mixture comprising: 
+ (a) from 70 to 95% by weight of the mixture of C12 and Cu fatty acids present in a relative weight ratio of 9: 1 to 1 :2; 
+ (b) from 5 to 30% by weight of the mixture of C16-C20 fatty acids;
+(c) from 60 to 90 mole % of the fatty acids mixture being neutralized to form soaps; and 
+ (ii) from 30 to 90% by weight of the composition of water; and 
+ wherein the fatty acids mixture is present in a weight amount greater than a total of all surfactants other than soap present in the composition. 
+
+
+2. The composition according to claim 1 further comprising zwitterionic surfactants in an amount from 2 to 25% by weight of the composition. 
+
+
+3. The composition according to claim 2 wherein the zwitterionic surfactants total 25 to less than 100% by weight relative to the weight of the fatty acids mixture. 
+
+
+4. The composition according to claim 2 wherein the zwitterionic surfactants total 35 to 95% by weight relative to the weight of the fatty acids mixture.  
+
+
+5. The composition according to claim 2 further comprising from 0 to 10% by weight of the composition of surfactants selected from anionic, nonionic and surfactant mixtures thereof, and wherein the total zwitterionic surfactants are in amounts greater than the total anionic and nonionic surfactants. 
+
+
+6. The composition according to claim 1 further comprising from 0.1 to 10% by weight of the composition of water soluble or water swellable polymers. 
+
+
+7. The composition according to claim 1 which retains at least 70% of initial viscosity after storage at 20Â°C for 4 weeks. 
+
+
+8. The composition according to claim 1 wherein the weight ratio of lauric acid to myristic acid ranges from 4: 1 to 2: 1 by weight. 
+
+
+9. The composition according to claim 1 wherein from 65 to 85 mole % of the fatty acids mixture is neutralized to form soaps. 
+
+
+
+
+
+
+PCT/EP2011/063903
+2010-09-28
+2011-08-12
+Liquid soap compositions 
+       
+
+WO2012041591A1
+            (en)
+        
+
+Priority Applications (9)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+EA201390466A
+
+EA022404B1
+                          (en)
+                      
+2010-09-28
+2011-08-12
+Liquid soap compositions 
+       
+
+
+MX2013003397A
+
+MX342317B
+                          (en)
+                      
+2010-09-28
+2011-08-12
+Liquid soap compositions. 
+       
+
+
+ES11743236.9T
+
+ES2525018T3
+                          (en)
+                      
+2010-09-28
+2011-08-12
+
+  Liquid soap compositions
+ 
+     
+
+
+EP11743236.9A
+
+EP2622058B1
+                          (en)
+                      
+2010-09-28
+2011-08-12
+Liquid soap compositions 
+       
+
+
+JP2013530652A
+
+JP5860883B2
+                          (en)
+                      
+2010-09-28
+2011-08-12
+
+  Liquid soap composition
+ 
+     
+
+
+BR112013007052-8A
+
+BR112013007052B1
+                          (en)
+                      
+2010-09-28
+2011-08-12
+
+  Liquid cleaning composition
+ 
+     
+
+
+CN201180046604.4A
+
+CN103108946B
+                          (en)
+                      
+2010-09-28
+2011-08-12
+Liquid soap compositions 
+       
+
+
+CA2812137A
+
+CA2812137C
+                          (en)
+                      
+2010-09-28
+2011-08-12
+Liquid soap compositions 
+     
+
+
+ZA2013/01491A
+
+ZA201301491B
+                          (en)
+                      
+2010-09-28
+2013-02-27
+Liquid soap compositions 
+     
+
+
+
+Applications Claiming Priority (2)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+US12/891,879
+
+2010-09-28
+
+
+
+US12/891,879
+
+US8110533B1
+                          (en)
+                      
+2010-09-28
+2010-09-28
+Liquid soap compositions 
+       
+
+
+
+Publications (1)
+
+
+
+Publication Number
+Publication Date
+
+
+
+
+
+WO2012041591A1
+true
+WO2012041591A1
+                       (en)
+                   
+
+2012-04-05
+
+
+
+
+
+Family
+ID=44503834
+Family Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+PCT/EP2011/063903
+
+WO2012041591A1
+                          (en)
+                      
+
+2010-09-28
+2011-08-12
+Liquid soap compositions 
+       
+
+
+
+Country Status (11)
+
+
+
+Country
+Link
+
+
+
+
+
+US
+                (1)
+              
+            
+
+
+US8110533B1
+                  (en)
+              
+
+
+
+EP
+                (1)
+              
+            
+
+
+EP2622058B1
+                  (en)
+              
+
+
+
+JP
+                (1)
+              
+            
+
+
+JP5860883B2
+                  (en)
+              
+
+
+
+CN
+                (1)
+              
+            
+
+
+CN103108946B
+                  (en)
+              
+
+
+
+BR
+                (1)
+              
+            
+
+
+BR112013007052B1
+                  (en)
+              
+
+
+
+CA
+                (1)
+              
+            
+
+
+CA2812137C
+                  (en)
+              
+
+
+
+EA
+                (1)
+              
+            
+
+
+EA022404B1
+                  (en)
+              
+
+
+
+ES
+                (1)
+              
+            
+
+
+ES2525018T3
+                  (en)
+              
+
+
+
+MX
+                (1)
+              
+            
+
+
+MX342317B
+                  (en)
+              
+
+
+
+WO
+                (1)
+              
+
+
+
+WO2012041591A1
+                  (en)
+              
+
+
+
+ZA
+                (1)
+              
+            
+
+
+ZA201301491B
+                  (en)
+              
+
+
+
+
+Cited By (5)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+WO2016095145A1
+              (en)
+            
+*
+
+2014-12-18
+2016-06-23
+Colgate-Palmolive Company
+Liquid skin cleanser 
+       
+
+
+
+JP2017057287A
+              (en)
+            
+*
+
+2015-09-17
+2017-03-23
+å°¾æ±  å²é
+Fatty acid sodium soap having fluidity 
+       
+
+
+
+EP3670639A1
+              (en)
+            
+*
+
+2018-12-17
+2020-06-24
+Unilever N.V.
+Liquid hand dishwash formulation comprising hydroxy fatty acid and polymer 
+       
+
+
+
+WO2020126592A1
+              (en)
+            
+*
+
+2018-12-17
+2020-06-25
+Unilever N.V.
+Liquid hand dishwash formulation comprising fatty acids and polymer 
+       
+
+
+
+WO2020126601A1
+              (en)
+            
+*
+
+2018-12-17
+2020-06-25
+Unilever N.V.
+Liquid hand dishwash formulation comprising fatty acids and polymer 
+       
+
+
+
+Families Citing this family (17)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US8721739B2
+              (en)
+            
+
+2012-10-02
+2014-05-13
+L'oreal
+Agent for altering the color of keratin fibers containing a fatty substance and a rheology modifying polymer in an alkaline system 
+       
+
+
+
+US8721742B2
+              (en)
+            
+
+2012-10-02
+2014-05-13
+L'oreal
+Agent for altering the color of keratin fibers comprising a fatty substance, a rheology modifying polymer, and direct dyes in a liquid emulsion system 
+       
+
+
+
+US8721740B2
+              (en)
+            
+
+2012-10-02
+2014-05-13
+L'oreal
+Agent for altering the color of keratin fibers containing a fatty substance and a rheology modifying polymer in a neutral to acidic system 
+       
+
+
+
+US8721741B2
+              (en)
+            
+
+2012-10-02
+2014-05-13
+L'oreal
+Agent for altering the color of keratin fibers containing a fatty substance, a rheology modifying polymer, and direct dyes in a cream emulsion system 
+       
+
+
+
+CN104768523B
+              (en)
+            
+
+2012-10-29
+2017-08-15
+å®æ´å¬å¸
+There is 0.30 or the more personal care composition of lossy angle tangent value at 10 DEG C 
+     
+
+
+
+US9193942B2
+              (en)
+            
+
+2012-11-30
+2015-11-24
+Danielle D Manning
+Soap recycling and conversion process 
+       
+
+
+
+US8778910B2
+              (en)
+            
+
+2012-12-07
+2014-07-15
+Conopco, Inc.
+Concentrated lamellar liquid personal cleansing composition 
+       
+
+
+
+US8915973B1
+              (en)
+            
+
+2013-10-01
+2014-12-23
+L'oreal
+Agent for altering the color of keratin fibers containing a rheology modifying polymer and a fatty substance in an alkaline cream system 
+       
+
+
+
+US8920521B1
+              (en)
+            
+
+2013-10-01
+2014-12-30
+L'oreal
+Agent for altering the color of keratin fibers comprising a rheology modifying polymer and high levels of a fatty substance in a cream system 
+       
+
+
+
+CN104031774A
+              (en)
+            
+*
+
+2014-06-12
+2014-09-10
+èä¿
+Transparent cleaning liquid soap 
+       
+
+
+
+CN105326650A
+              (en)
+            
+*
+
+2015-11-04
+2016-02-17
+ä¼½èï¼éå¢ï¼è¡ä»½æéå¬å¸
+Stable soap base composition of liquid crystal structure 
+       
+
+
+
+CN105296249B
+              (en)
+            
+*
+
+2015-11-04
+2022-04-19
+ä¼½èï¼éå¢ï¼è¡ä»½æéå¬å¸
+Transparent liquid soap with stable phase structure by changing soap-based system 
+       
+
+
+
+JP6254638B2
+              (en)
+            
+*
+
+2016-04-18
+2017-12-27
+æ ªå¼ä¼ç¤¾ è³çå 
+
+  Liquid skin cleansers and liquid skin cleansing products
+ 
+     
+
+
+
+GB201804011D0
+              (en)
+            
+
+2018-03-13
+2018-04-25
+Givaudan Sa
+Improvements in or relating to organic compounds 
+     
+
+
+
+GB201815293D0
+              (en)
+            
+
+2018-09-20
+2018-11-07
+Givaudan Sa
+Improvements in or relating to organic compounds 
+     
+
+
+
+CN111286426B
+              (en)
+            
+*
+
+2019-12-24
+2021-01-15
+çº³ç±æ¯æµæ±ç§ææéå¬å¸
+Neutral soap-based easy-rinsing liquid detergent composition 
+       
+
+
+
+CN112812904A
+              (en)
+            
+*
+
+2021-02-08
+2021-05-18
+éå²æ°çº³åå°çç©æéå¬å¸
+Method for producing liquid soap 
+       
+
+
+
+Citations (10)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US4486328A
+              (en)
+            
+
+1983-05-03
+1984-12-04
+Colgate-Palmolive Company
+Betaine-soap shampoo composition 
+       
+
+
+
+US4975218A
+              (en)
+            
+
+1988-04-29
+1990-12-04
+Chesebrough-Ponds's USA Co.
+Aqueous soap composition containing ethoxylated nonionic surfactants 
+       
+
+
+
+US5147574A
+              (en)
+            
+
+1991-03-05
+1992-09-15
+The Procter & Gamble Company
+Stable liquid soap personal cleanser 
+       
+
+
+
+WO1996036313A1
+              (en)
+            
+
+1995-05-17
+1996-11-21
+Unilever Plc
+Aqueous liquid cleansing composition containing fatty acid soaps 
+       
+
+
+
+WO1997027279A1
+              (en)
+            
+
+1996-01-25
+1997-07-31
+Johnson & Johnson Kabushiki Kaisha
+Body soap composition 
+       
+
+
+
+US20030224955A1
+              (en)
+            
+*
+
+2002-03-28
+2003-12-04
+Delphine Ribery
+Foaming cosmetic compositions, uses for cleansing or make-up removal 
+       
+
+
+
+GB2351979B
+              (en)
+            
+
+1999-07-12
+2004-03-03
+Unilever Plc
+Liquid composition comprising isoprene glycol and dialkylene glycol 
+       
+
+
+
+US20050020461A1
+              (en)
+            
+
+2003-06-13
+2005-01-27
+Kao Corporation
+Skin cleansing compositions 
+       
+
+
+
+WO2007103968A2
+              (en)
+            
+*
+
+2006-03-08
+2007-09-13
+Lubrizol Advanced Materials, Inc.
+Stable soap based cleansing system 
+       
+
+
+
+WO2011018337A1
+              (en)
+            
+*
+
+2009-08-12
+2011-02-17
+Unilever Plc
+Concentrated liquid soap formulations having readily pumpable viscosity 
+       
+
+
+
+Family Cites Families (13)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US5312559A
+              (en)
+            
+
+1992-07-07
+1994-05-17
+The Procter & Gamble Company
+Personal cleanser with moisturizer 
+       
+
+
+
+US5308526A
+              (en)
+            
+
+1992-07-07
+1994-05-03
+The Procter & Gamble Company
+Liquid personal cleanser with moisturizer 
+       
+
+
+
+GB9323306D0
+              (en)
+            
+
+1993-11-11
+1994-01-05
+Procter & Gamble
+Cleansing compositions 
+     
+
+
+
+GB9414572D0
+              (en)
+            
+*
+
+1994-07-19
+1994-09-07
+Unilever Plc
+Soap composition 
+     
+
+
+
+JPH0967591A
+              (en)
+            
+
+1995-09-04
+1997-03-11
+Kao Corp
+Detergent composition 
+       
+
+
+
+JP3032165B2
+              (en)
+            
+*
+
+1996-12-20
+2000-04-10
+è±çæ ªå¼ä¼ç¤¾
+
+  Detergent composition
+ 
+     
+
+
+
+JP2002356699A
+              (en)
+            
+*
+
+2001-03-28
+2002-12-13
+Shiseido Co Ltd
+Liquid detergent composition 
+       
+
+
+
+JP3545372B2
+              (en)
+            
+*
+
+2001-09-04
+2004-07-21
+ã«ããã¦æ ªå¼ä¼ç¤¾
+
+  Skin cleansing composition
+ 
+     
+
+
+
+JP2003089614A
+              (en)
+            
+*
+
+2001-09-18
+2003-03-28
+Noevir Co Ltd
+Cleaner composition 
+       
+
+
+
+FR2837697B1
+              (en)
+            
+*
+
+2002-03-28
+2005-01-28
+Oreal
+
+  FOAMING COSMETIC COMPOSITION; USES FOR CLEANING OR CLEANING
+ 
+     
+
+
+
+US20050220736A1
+              (en)
+            
+
+2004-03-31
+2005-10-06
+Unilever Home & Personal Care Usa, Division Of Conopco, Inc.
+Beauty wash product compositions delivering enhanced visual benefits to the skin with specific optical attributes 
+       
+
+
+
+US6906016B1
+              (en)
+            
+
+2004-05-19
+2005-06-14
+Unilever Home & Personal Care Usa, A Division Of Conopco, Inc.
+Personal product liquid cleansers comprising combined fatty acid and water soluble or water swellable starch structuring system 
+       
+
+
+
+JP4953695B2
+              (en)
+            
+*
+
+2006-06-08
+2012-06-13
+æ ªå¼ä¼ç¤¾  è³çå 
+
+  Transparent liquid cleaning material
+ 
+     
+
+
+
+
+
+2010
+
+
+2010-09-28
+US
+US12/891,879
+patent/US8110533B1/en
+active
+Active
+
+
+
+
+2011
+
+
+2011-08-12
+EA
+EA201390466A
+patent/EA022404B1/en
+not_active
+IP Right Cessation
+
+
+2011-08-12
+CN
+CN201180046604.4A
+patent/CN103108946B/en
+active
+Active
+
+
+2011-08-12
+BR
+BR112013007052-8A
+patent/BR112013007052B1/en
+active
+IP Right Grant
+
+
+2011-08-12
+CA
+CA2812137A
+patent/CA2812137C/en
+active
+Active
+
+
+2011-08-12
+WO
+PCT/EP2011/063903
+patent/WO2012041591A1/en
+active
+Application Filing
+
+
+
+2011-08-12
+ES
+ES11743236.9T
+patent/ES2525018T3/en
+active
+Active
+
+
+2011-08-12
+JP
+JP2013530652A
+patent/JP5860883B2/en
+active
+Active
+
+
+2011-08-12
+MX
+MX2013003397A
+patent/MX342317B/en
+active
+IP Right Grant
+
+
+2011-08-12
+EP
+EP11743236.9A
+patent/EP2622058B1/en
+active
+Active
+
+
+
+
+2013
+
+
+2013-02-27
+ZA
+ZA2013/01491A
+patent/ZA201301491B/en
+unknown
+
+
+
+
+
+
+
+Patent Citations (11)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US4486328A
+              (en)
+            
+
+1983-05-03
+1984-12-04
+Colgate-Palmolive Company
+Betaine-soap shampoo composition 
+       
+
+
+
+US4975218A
+              (en)
+            
+
+1988-04-29
+1990-12-04
+Chesebrough-Ponds's USA Co.
+Aqueous soap composition containing ethoxylated nonionic surfactants 
+       
+
+
+
+US5147574A
+              (en)
+            
+
+1991-03-05
+1992-09-15
+The Procter & Gamble Company
+Stable liquid soap personal cleanser 
+       
+
+
+
+WO1996036313A1
+              (en)
+            
+
+1995-05-17
+1996-11-21
+Unilever Plc
+Aqueous liquid cleansing composition containing fatty acid soaps 
+       
+
+
+
+WO1997027279A1
+              (en)
+            
+
+1996-01-25
+1997-07-31
+Johnson & Johnson Kabushiki Kaisha
+Body soap composition 
+       
+
+
+
+GB2351979B
+              (en)
+            
+
+1999-07-12
+2004-03-03
+Unilever Plc
+Liquid composition comprising isoprene glycol and dialkylene glycol 
+       
+
+
+
+US20030224955A1
+              (en)
+            
+*
+
+2002-03-28
+2003-12-04
+Delphine Ribery
+Foaming cosmetic compositions, uses for cleansing or make-up removal 
+       
+
+
+
+US6812192B2
+              (en)
+            
+
+2002-03-28
+2004-11-02
+L'oreal S.A.
+Foaming cosmetic compositions, uses for cleansing or make-up removal 
+       
+
+
+
+US20050020461A1
+              (en)
+            
+
+2003-06-13
+2005-01-27
+Kao Corporation
+Skin cleansing compositions 
+       
+
+
+
+WO2007103968A2
+              (en)
+            
+*
+
+2006-03-08
+2007-09-13
+Lubrizol Advanced Materials, Inc.
+Stable soap based cleansing system 
+       
+
+
+
+WO2011018337A1
+              (en)
+            
+*
+
+2009-08-12
+2011-02-17
+Unilever Plc
+Concentrated liquid soap formulations having readily pumpable viscosity 
+       
+
+
+
+
+Cited By (8)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+WO2016095145A1
+            (en)
+          
+*
+
+2014-12-18
+2016-06-23
+Colgate-Palmolive Company
+Liquid skin cleanser 
+       
+
+
+
+CN106999377A
+            (en)
+          
+*
+
+2014-12-18
+2017-08-01
+é«é²æ´-æ£æ¦å¬å¸
+Liquid cleansing agent 
+       
+
+
+
+US9943470B2
+            (en)
+          
+
+2014-12-18
+2018-04-17
+Colgate-Palmolive Company
+Liquid skin cleanser 
+       
+
+
+
+CN106999377B
+            (en)
+          
+*
+
+2014-12-18
+2020-10-09
+é«é²æ´-æ£æ¦å¬å¸
+Liquid skin cleaning agent 
+       
+
+
+
+JP2017057287A
+            (en)
+          
+*
+
+2015-09-17
+2017-03-23
+å°¾æ±  å²é
+Fatty acid sodium soap having fluidity 
+       
+
+
+
+EP3670639A1
+            (en)
+          
+*
+
+2018-12-17
+2020-06-24
+Unilever N.V.
+Liquid hand dishwash formulation comprising hydroxy fatty acid and polymer 
+       
+
+
+
+WO2020126592A1
+            (en)
+          
+*
+
+2018-12-17
+2020-06-25
+Unilever N.V.
+Liquid hand dishwash formulation comprising fatty acids and polymer 
+       
+
+
+
+WO2020126601A1
+            (en)
+          
+*
+
+2018-12-17
+2020-06-25
+Unilever N.V.
+Liquid hand dishwash formulation comprising fatty acids and polymer 
+       
+
+
+
+
+Also Published As
+
+
+
+Publication number
+Publication date
+
+
+
+
+
+
+CN103108946A
+              (en)
+            
+
+2013-05-15
+
+
+
+BR112013007052B1
+              (en)
+            
+
+2022-03-29
+
+
+
+MX342317B
+              (en)
+            
+
+2016-09-23
+
+
+
+US8110533B1
+              (en)
+            
+
+2012-02-07
+
+
+
+BR112013007052A2
+              (en)
+            
+
+2021-07-20
+
+
+
+EA022404B1
+              (en)
+            
+
+2015-12-30
+
+
+
+EP2622058A1
+              (en)
+            
+
+2013-08-07
+
+
+
+MX2013003397A
+              (en)
+            
+
+2013-05-22
+
+
+
+JP2013543528A
+              (en)
+            
+
+2013-12-05
+
+
+
+EA201390466A1
+              (en)
+            
+
+2013-07-30
+
+
+
+CA2812137A1
+              (en)
+            
+
+2012-04-05
+
+
+
+JP5860883B2
+              (en)
+            
+
+2016-02-16
+
+
+
+CA2812137C
+              (en)
+            
+
+2018-11-06
+
+
+
+CN103108946B
+              (en)
+            
+
+2014-12-31
+
+
+
+ZA201301491B
+              (en)
+            
+
+2014-04-30
+
+
+
+ES2525018T3
+              (en)
+            
+
+2014-12-16
+
+
+
+EP2622058B1
+              (en)
+            
+
+2014-10-08
+
+
+
+
+
+Similar Documents
+
+
+
+Publication
+Publication Date
+Title
+
+
+
+
+
+
+
+US8110533B1
+                (en)
+              
+
+
+2012-02-07
+
+Liquid soap compositions 
+       
+
+
+
+
+EP2182913B1
+                (en)
+              
+
+
+2018-04-11
+
+Stable liquid cleansing compositions containing fatty acyl isethionate surfactant 
+       
+
+
+
+
+US6906016B1
+                (en)
+              
+
+
+2005-06-14
+
+Personal product liquid cleansers comprising combined fatty acid and water soluble or water swellable starch structuring system 
+       
+
+
+
+
+CA2735100C
+                (en)
+              
+
+
+2017-09-19
+
+Stable cleansing compositions containing fatty acyl isethionate surfactant products having more than 10 wt.% of fatty acid/fatty soap content using high level of polyol and methods thereof 
+       
+
+
+
+
+AU2005244429B2
+                (en)
+              
+
+
+2008-08-07
+
+Personal liquid cleanser composition stabilized with a starch structuring system 
+       
+
+
+
+
+EP1486559B1
+                (en)
+              
+
+
+2006-05-24
+
+A packaged product containing an extrudable multiphase composition of a free fatty acid phase and a soap phase 
+       
+
+
+
+
+EP2986699B1
+                (en)
+              
+
+
+2018-09-26
+
+Liquid soap having enhanced antibacterial activity 
+       
+
+
+
+
+CA2774287C
+                (en)
+              
+
+
+2017-08-22
+
+Mild, foaming liquid cleansers comprising low levels of fatty isethionate product and low total fatty acid and/or fatty acid soap content 
+       
+
+
+
+
+EP2734174A1
+                (en)
+              
+
+
+2014-05-28
+
+Cleansing composition with whipped texture 
+       
+
+
+
+
+
+Legal Events
+
+
+
+Date
+Code
+Title
+Description
+
+
+
+
+2011-08-12
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              201180046604.4
+
+
+Country of ref document:
+              CN
+
+
+
+
+2012-05-23
+121
+Ep: the epo has been informed by wipo that ep was designated in this application
+
+
+Ref document number:
+              11743236
+
+
+Country of ref document:
+              EP
+
+
+Kind code of ref document:
+              A1
+
+
+
+
+2012-09-13
+DPE1
+Request for preliminary examination filed after expiration of 19th month from priority date (pct application filed from 20040101)
+
+
+
+
+2013-02-18
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              2011743236
+
+
+Country of ref document:
+              EP
+
+
+
+
+2013-03-13
+ENP
+Entry into the national phase
+
+
+Ref document number:
+              2812137
+
+
+Country of ref document:
+              CA
+
+
+
+
+2013-03-25
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              MX/A/2013/003397
+
+
+Country of ref document:
+              MX
+
+
+
+
+2013-03-27
+ENP
+Entry into the national phase
+
+
+Ref document number:
+              2013530652
+
+
+Country of ref document:
+              JP
+
+
+Kind code of ref document:
+              A
+
+
+
+
+2013-03-28
+NENP
+Non-entry into the national phase
+
+
+Ref country code:
+              DE
+
+
+
+
+2013-04-26
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              201390466
+
+
+Country of ref document:
+              EA
+
+
+
+
+2013-12-31
+REG
+Reference to national code
+
+
+Ref country code:
+              BR
+
+
+Ref legal event code:
+              B01A
+
+
+Ref document number:
+              112013007052
+
+
+Country of ref document:
+              BR
+
+
+
+
+2021-07-20
+ENP
+Entry into the national phase
+
+
+Ref document number:
+              112013007052
+
+
+Country of ref document:
+              BR
+
+
+Kind code of ref document:
+              A2
+
+
+Effective date:
+              20130326
+
+
+
+
+
+
+
+
+
+
+
+
+
+

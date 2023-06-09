@@ -1,0 +1,764 @@
+Document Name: role of Lactoperoxidase AMI in Protective Cream0
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7766425/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Effects of Milk and Dairy Products on Sleep: A Systematic Review - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Int J Environ Res Public Health
+
+
+                    PMC7766425
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (662K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Int J Environ Res Public Health
+
+
+                    PMC7766425
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Int J Environ Res Public Health. 2020 Dec; 17(24): 9440. Published online 2020 Dec 16.  doi: 10.3390/ijerph17249440PMCID: PMC7766425PMID: 33339284The Effects of Milk and Dairy Products on Sleep: A Systematic ReviewYoko Komada,1,* Isa Okajima,2 and  Tamotsu Kuwata3,4Yoko Komada1Faculty of Liberal Arts, Meiji Pharmaceutical University, 2-522-1 Noshio, Kiyose, Tokyo 204-8588, JapanFind articles by Yoko KomadaIsa Okajima2Department of Psychological Counseling, Faculty of Humanities, Tokyo Kasei University, 1-18-1 Kaga, Itabashi-ku, Tokyo 173-8602, Japan; pj.ca.iesak-oykot@i-amijakoFind articles by Isa OkajimaTamotsu Kuwata3International Life Sciences Institute Japan, 3-5-19 Kojimachi, Chiyoda-ku, Tokyo 102-0083, Japan; pj.ca.namuh@atawuk4Department of Health Food Sciences, University of Human Arts and Sciences, 963-9 Yamaguchi Tokorozawa, Saitama 359-1145, JapanFind articles by Tamotsu KuwataAuthor information Article notes Copyright and License information Disclaimer1Faculty of Liberal Arts, Meiji Pharmaceutical University, 2-522-1 Noshio, Kiyose, Tokyo 204-8588, Japan2Department of Psychological Counseling, Faculty of Humanities, Tokyo Kasei University, 1-18-1 Kaga, Itabashi-ku, Tokyo 173-8602, Japan; pj.ca.iesak-oykot@i-amijako3International Life Sciences Institute Japan, 3-5-19 Kojimachi, Chiyoda-ku, Tokyo 102-0083, Japan; pj.ca.namuh@atawuk4Department of Health Food Sciences, University of Human Arts and Sciences, 963-9 Yamaguchi Tokorozawa, Saitama 359-1145, Japan*Correspondence: pj.ca.mrahp-ym@yamokReceived 2020 Nov 2; Accepted 2020 Dec 14.Copyright © 2020 by the authors.Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).AbstractSeveral studies have assessed the effects of milk and dairy product intake on sleep quality and duration. Such investigations have varied in terms of their geographic locations, amounts of milk and dairy products, study participants (age, sex, race), and study designs. The present study aimed to summarize this literature and provide a unified view on whether the intake of milk and dairy products affects sleep quality. This systematic review was conducted according to the preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines. The following keywords were chosen as electronic database search items from MeSH (medical subject headings) terms and descriptors in health sciences (DeHS) lists: milk, yogurt, dairy product, cheese, sleep, human, observational study, and interventional study. As a result, a total of 14 studies published between 1972 and 2019 were included in this review, including eight randomized controlled trials, two experimental studies with cross-over designs, one longitudinal study, and three cross-sectional studies. Four studies targeted older adults, three included toddlers, two targeted children, and six enrolled adults inclusive of university students. Overall, these studies indicated that a well-balanced diet that includes milk and dairy products is effective in improving sleep quality, despite mixed results across studies attributable to differences in study populations and methods.Keywords: sleep, milk, dairy product, human, systematic review, study quality1. IntroductionThe intake of milk and dairy products is generally considered to promote good sleep quality and to have a positive effect on physical and mental health. As for the mechanism of action, it is believed that a high amount of tryptophan (Try), from which melatonin is synthesized, contained in milk and dairy products can suppress the action of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA) [1]. The anti-inflammatory effects of milk and dairy products, due to their containing antioxidant and anti-inflammatory components, as well as activity changes within the brain-gut-microbiome axis, has recently garnered extensive attention in the literature [2].Blood melatonin levels are synchronized by circadian rhythms, and this hormone induces sleep onset in humans. Melatonin is synthesized in vivo from Try via serotonin synthesis. The α-lactalbumin protein contained in milk has the highest Try content among the food proteins normally consumed by humans. Furthermore, the amino acid composition of α-lactalbumin allows Try to cross the blood-brain barrier (BBB) [3]. As the BBB transporter is shared by the large, neutral amino acid LNAA (tryptophan (Try), phenylalanine (Phe), valine (Val), leucine (Leu), isoleucine (Ileu), tyrosine (Tyr)), Try transfer into the brain is determined by the Try/LNNA ratio. An increased amount of Try passes through the BBB when blood glucose concentration is high. Therefore, beverages in which milk has been sweetened with sugar additives (e.g., malted milk products such as Horlicks) have been produced and are now being advertised and marketed as sleep aids [3].Although some studies have focused on the antioxidant components and anti-inflammatory effects of milk products [4], it is not easy to directly explain the relationship between sleep quality and dairy intake because it may be masked by the much greater effect of diet as a whole. Recently, attention has been focused on the intestinal microbiota and its relation to sleep via the modulation of the brain-gut-microbiome axis [5]; however, since the whole diet modifies the intestinal microbiota, interventional studies have not yet been conducted to assess dairy products alone.GABA contained in fermented dairy products is a non-protein amino acid produced from glutamic acid via decarboxylation catalyzed by the enzyme glutamine decarboxylase, produced by lactic acid bacteria [6]. GABA is an inhibitory neurotransmitter in the central nervous system of mammals synthesized in the body during sleep, but disruptions of the sleep cycle and stress-induced deterioration of sleep quality reduces the amount of GABA synthesized, further impeding sleep onset [7,8]. Foods rich in GABA include fermented foods such as kimuchi, natto, and yogurt, as well as germinated brown rice and potatoes. GABA is presumed to be involved in the improvement of sleep quality observed upon the ingestion of fermented dairy products.As a result of the identification of these mechanisms of action, various studies have been conducted to better assess the effects of milk and dairy product intake on sleep quality and sleep duration. However, due to differences in research methodologies, such as the amount of milk and dairy products ingested, the participants’ race, sex, and age, and intervention techniques, whether milk and dairy consumption have a positive effect on sleep remains unclear. In addition, whether any improvement in overall sleep is the result of better sleep quality, longer sleep duration, or improvements in sleep-wake rhythms also remains vague. Thus, it is necessary to comprehensively consider the relationship between the intake of milk and dairy products and sleep. The purpose of this study was to clarify these points through a systematic review.2. Materials and Methods2.1. ProtocolThis systematic review was conducted and reported according to the preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines [9]. This study was funded by the Japan Dairy Association.2.2. Literature SearchInformation pertaining to the characteristics of population/patient, intervention, comparison/comparators and outcomes (PICOS) criteria adopted by the selected articles in this study are shown in Table 1. Three authors (TK, IO, and YK) independently searched for original articles that investigated the effects of milk products on sleep, using electronic databases, including MEDLINE (PubMed, www.pubmed.com). Keywords were chosen from MeSH (medical subject headings) terms and descriptors in health sciences (DeHS); the following search terms were used (Table 1): milk, yogurt, dairy product, cheese, sleep, human, observational study, and interventional study. The final search was conducted on 20 August 2019.Table 1PICOS1 criteria for inclusion in the review and search terms.ParameterInclusion CriteriaParticipantsHumanIntervention or exposureConsumption of milk, yogurt, cheese, or other dairy productsComparator(s)–OutcomeSleepStudy typeObservational study, intervention study#1. milk [title/abstract]#6. sleep [title/abstract]#2. yogurt [title/abstract]#7. human [text word]#3. “dairy product” [title/abstract]#8. “observational study” [text word]#4. cheese [title/abstract]#9. #5 and #6 and #7 and #8#5. #1 or #2 or #3 or #4
+Open in a separate window1 PICOS = participant, intervention, comparator, outcome, study type.2.3. Article Selection ProcessThe study selection was performed by three authors (TK, IO, YK) in the following three analyses phases: titles, abstracts, and full-text analyses. The present systematic review excluded comment articles, review articles, letters, case reports, abstracts, and unpublished articles. We also excluded studies on breast-fed babies.2.4. Data ExtractionAfter reading the selected studies, a comparison of all compiled data was conducted by the authors (TK, IO, and YK) to verify their integrity and reliability. Differences in decisions regarding selected studies were settled by consensus. For each included study, the following information was extracted: title, author name(s), year of publication, study purpose, subjects’ characteristics, sample size, study design, intervention, and main results.2.5. Risk of Bias: Assessment of Study QualityA modified Jadad scale [10] was used to evaluate the quality of the retrieved randomized controlled trials (RCTs). Each study was assigned a quality score between 0 and 5 based on the quality of the randomization, the method of generation of random numbers, details describing double-blinding procedures, information about withdrawals, and allocation concealment. High-quality RCTs scored ≥3 points, whereas low-quality RCTs scored <2 points, according to the modified Jadad score.The Newcastle-Ottawa scale (NOS) was used to evaluate the overall quality of observational studies [11] by totaling scores based on the following nine criteria (0 to 9 stars): representativeness of the exposed cohort, selection of the non-exposed cohort, ascertainment of exposure, and whether the outcome of interest was present at the beginning of the study (maximum of 4 stars), comparability of the cohorts on the basis of study design and analysis methodology (maximum of 2 stars), and assessment of outcome measures (maximum of 3 stars). Studies with scores of ≥6, 4–5, and 0–3 were defined as being of high-, moderate-, and low-quality, respectively, as shown in Table 2.Table 2Risk of bias: assessment of study quality of articles included in the review.Study (Year)Newcastle-Ottawa Scale (NOS) ScoringJadad Scale ScoringSelectionComparabilityOutcomeTotal ScoreRandomizationDouble-BlindingWithdrawals and DropoutsTotal ScoreValtonen et al. (2005)
+
+
+
+noyesyes2Steinberg et al. (1992)
+
+
+
+yesyesno2Brezinova et al. (1972)
+
+
+
+nonono0Southwell et al. (1972)
+
+
+
+nonono0Jalilolghadr et al. (2011)
+
+
+
+yesnono1Aparicio S et al. (2007)
+
+
+
+noyesno1Yamamura et al. (2009)
+
+
+
+yesyesyes3Misra et al. (2015)
+
+
+
+yes (extra point added)yes (extra point added)no4Markus et al. (2005)
+
+
+
+noyes (extra point added)no2Takada et al. (2017)
+
+
+
+yes (extra point added)yes (extra point added)yes5Tatone-Tokuda F et al. (2012)★★★★★★★7
+
+
+
+Sato-Mito et al. (2011)★★★
+3
+
+
+
+Grandner et al. (2014)★★★★
+4
+
+
+
+Kitano et al. (2014)★★★
+3
+
+
+
+Open in a separate window★★★ high-quality, ★★ moderate-quality, ★ low-quality.2.6. Data AnalysesAll 14 studies reviewed in this article are summarized in Table 2 according to their main characteristics and findings concerning sleep-associated variables. The studies are organized chronologically by year of publication, starting with the earliest published study.3. Results3.1. Study SelectionPubMed database searches identified 717 studies. Of these, 668 were excluded based on their titles since they were considered irrelevant to the topic of interest (first screening). After reading the abstracts of the identified reports, the following studies were selected: (1) those with milk product consumption as independent variable and (2) those with sleep variables as dependent variables (second screening). Three authors (TK, IO, and YK) confirmed and discussed the articles’ content (third screening). Eight of these met all the criteria for the systematic review [12,13,14,15,16,17,18,19]. Additional studies were manually identified through other sources (n = 6) [20,21,22,23,24,25]. The reasons for the inclusion/exclusion of studies are shown in Figure 1.Open in a separate windowFigure 1Flowchart of the study selection process.3.2. Description of Included StudiesA total of 14 studies published between 1972 and 2019 were included in this review [12,13,14,15,16,17,18,19,20,21,22,23,24,25]. In these studies, sample sizes ranged from 4 [15] to 4552 [23], with a total of 10,833 participants (Table A1).Four studies targeted older participants [12,14,19,25], three included toddlers [13,18,20], two targeted children [16,17], and six targeted adults, including university students [14,15,21,22,23,24].The geographical areas covered in the studies were North America (three studies) [13,17,23], Oceania (one study) [16], Europe (five studies) [12,14,15,18], Japan (four studies) [19,22,24,25], and Asia other than Japan (one study) [20]. The research design of these studies included RCTs (n = 8), experimental studies such as cross-over trials (n = 2), a longitudinal study (n = 1), and cross-sectional studies (n = 3).The independent variables were Try concentration (n = 3), milk consumption at night (n = 1), Horlicks consumption (n = 2), fermented milk consumption (n = 2), high or low glycemic index (GI) (n = 2), and the proportion of consumed milk product (n = 2). One study that assessed Try showed a comparison of the effect of different quantities of Tyr on sleep: 892 μmol/L, 1192 μmol/L, 1513 μmol/L, 1808 μmol/L [13]. The second Try study assessed the effect of consuming Try-enriched milk (3.4 g Try/100 g protein) during nighttime compared to controls who consumed regular milk (1.5 g Try/100 g protein) [18]. The third study compared Try-rich alpha-lactalbumin or placebo protein with low Try content [21]. One of the studies assessing Horlicks consumption compared 32 g of Horlicks combined with 250 mL of hot milk or control milk [14]; the other compared 350 mL of warm water and 350 mL of warm milk combined with Horlicks [15]. One of the studies that assessed fermented milk consumption compared fermented and artificial milk [19]; the other compared fermented milk containing the Lactobacillus casei strain Shirota (LcS) and non-fermented, placebo milk (a daily dose of 100 mL) [24]. One of the studies assessing GIs compared a high GI (200 mg low fat cow’s milk with 50 g Glucodin powder) and a low GI drink (200 mg full cream cow’s milk with 50 g honey) [16]; the other compared low GI (23) milk and high GI (65) milk [20].3.3. Main Results of the StudiesAlthough the extents of the effects of dairy on characteristics of sleep differed somewhat between studies, several studies observed shorter sleep latency, less waking after sleep onset (WASO), greater sleep efficiency, longer sleep duration, and a lower awakening index in those consuming high Try-enriched milk relative to low-Try milk [13,18,21]. Milk consumption at night did not improve sleep quality [12]; this may be attributable to the differences in the amounts of tryptophan and duration of intake compared to the control condition. In a study of healthy college students, only one trial for two days was conducted, and whether the study controlled for dietary intake other than milk consumption was unclear [21].Based on the results of the cross-sectional studies, the combination of engaging in physical activity and the consumption of milk or cheese is necessary to improve the ability to fall asleep in older adults [25]. Among younger adults, participants with a late chronotype consumed fewer milk products compared to those with an early chronotype [22]. The 2007–2008 National Health and Nutrition Examination Survey revealed that low calcium intake was associated with difficulty falling asleep and an increase in non-restorative sleep [23]. In a longitudinal study, girls with a short persistent/increasing sleep pattern consumed milk products significantly less often (≤once per day) and drank soft drinks significantly more often (≥once per day) than girls with 10-h persistent or 11-h persistent sleep patterns [17].Subsequently, we reviewed the effects of milk product consumption on sleep with the participants stratified by generation. Among toddlers, sleep latency was shortened in those consuming milk products with added Try [13]. There were no significant differences in the latency of sleep onset, total sleep time, WASO, or sleep efficiency between 14–24-month-old toddlers consuming high or low GI formulas across a period of 3.5 days. Low GI formulations are preferable because they tend to be high in dietary fiber and low in refined sugars and starches [20]. Among school-aged children, the mean total arousal index in the first half of the night was greater after consuming beverages with a high GI for one day than a low-GI drink, and the arousal index during non-rapid eye movement (NREM) sleep in the first half of the night was higher after consuming a high-GI drink than a low-GI drink [16]. It has been suggested that Horlicks may improve the sleep of younger individuals [14,15]. In addition, Horlicks combined with hot milk improved sleep among older participants [14]; however, the effectiveness of night milk on sleep is inconsistent among older participants [12]. Participant age group, intervention, main results and implications of each study are summarized in Table 3. Although the age range of the participants (children, adults, the older adults), interventions (dairy products intake, nutritive component of dairy products, dietary habits) varied across studies, several positive effects on different sleep outcomes (electroencephalography, actigraphy, and subjective assessment) were reported.Table 3Systematic review summary.InterventionCategoryParticipant Age GroupMain ResultsImplicationsNight milkDairy product intake, RCT [12]Older peoplePositive and negative effects on sleep from subjective measurementEffectiveness is inconsistent for older people with and without underlying diseasesFermented milkDairy product intake, RCT and non-RCT [19,24]Older peoplePositive effects on sleep (sleep efficacy, wake episodes on actigraphy) from objective measurementCertain effects on sleep have been reportedUniversity studentsPositive effects on sleep (sleep latency and stage 3 non-REM sleep measured by EEG, subjective sleep length) from objective measurementMilk plus HorlicksNutrients, RCT [14,15]AdultsPositive effects on sleep (restlessness during sleep, total sleep duration and wake episode measured by EEG) from objective measurementCertain effects on sleep have been reportedOlder peoplePositive effects on sleep (small movements during sleep) from objective measurementTryptophanNutritive component of dairy products, RCT and non-RCT [13,18,21]InfantsPositive effects on sleep (observational sleep latency, quiet sleep, active REM sleep) from subjective measurementCertain effects on sleep among infants, but no positive effects on sleep among university students have been reportedInfantsPositive effects on sleep (sleep length, sleep efficacy on actigraphy) from objective measurementUniversity studentsNo positive effects on sleep. Evening consumption improved early morning performance from subjective and objective measurementHigh glycemic index milkNutrients, RCT and non-RCT [16,20]ToddlersNo positive effects on sleep (sleep-onset latency, total sleep time, wake after sleep onset, sleep efficiency on actigraphy) from objective measurementHigh GI milk has negative effects or no positive effects on sleep compared to low GI milkChildrenNegative effects on sleep (arousal during sleep measured by polysomnography) from objective measurementProportion of milk consumptionDietary habit, observational study [17,22,23,25]ChildrenSignificant association between milk consumption and sleep (subjective sleep length) among girlsCross-sectional and longitudinal studies suggested the relationship between proportion of milk and dairy products consumption and sleepUniversity studentsSignificant association between less intake of milk and milk products and late midpoint of sleepAdultsSignificant association between low calcium intake and sleep (difficulty falling asleep and non-restorative sleep)Older peopleSignificant association between dairy products consumption plus physical activity and sleep (subjective sleep latency)Open in a separate windowRCT: randomized controlled trial, EEG: electroencephalography, GI: glycemic index, REM: rapid eye movement.3.4. Study QualityWe assessed 10 clinical studies and four observational studies using the modified Jadad scale and the NOS. Among the 10 clinical studies, three were determined to be of high quality; the other seven were determined to be of low quality. Of the four observational studies, the NOS classified one as being high quality, one as moderate quality, and two as low quality.4. DiscussionThe present systematic review was performed to determine the relationship between milk and dairy product consumption and sleep by summarizing the methodologies and results of studies that met our selection criteria. Eight of the selected studies were chosen based on automated PubMed searches [12,13,14,15,16,17,18,19], and six studies were manually selected [20,21,22,23,24,25]. The studies varied in terms of their geographic locations, amounts of milk and dairy products considered, study participants, and study designs. Several positive effects of milk and dairy products on different sleep outcomes were revealed (electroencephalography, actigraphy, and subjective assessment); however, the interpretation of such findings requires caution because the age range of the participants (children, adults, the elderly) and interventions (dairy products intake, nutritive component of dairy products, dietary habits) varied across the studies (Table 3). While RCTs investigating milk intake at night, consumption of Horlicks milk containing added Try, and fermented milk all showed partial, positive effects on sleep quality (sleep onset latency, WASO, sleep duration) [12,13,14,15,18], the effects were limited, and any positive effects were considered to be small. Such limited results may also be due to the difficulty of controlling for long-term conditions in human intervention trials.Cross-sectional study has suggested relationships between high milk intake, ease of falling asleep, and an early chronotype [22]. The circadian rhythm is regulated by the body clock, which is largely influenced by light exposure and diet. By eating food rich in Try at breakfast and exposing oneself to light during the daytime, the onset of nighttime melatonin secretion could be accelerated [26]. Melatonin synthesized from tryptophan via serotonin is known to induce sleep onset in humans [27]. The relationship between the amount of tryptophan intake and sleep improvement requires elucidation. In a survey of elderly Japanese participants, a combination of high physical activity and intake of milk and dairy products was associated with good sleep quality [25]. Thus, it may be expected that a person with healthy eating habits and overall lifestyle that includes physical activity will experience good sleep quality. To the best of our knowledge, the literature features no reports concerning the effect of milk and dairy product on sleep in lactose-intolerant individuals. Lactose intolerance should be diagnosed by a lactose intolerance test, but at an early age, after drinking milk, people experience symptoms such as abdominal distention, flatulence, and diarrhea, which causes dislike of milk. It has been reported that even those who avoid milk intake can reduce their digestive symptoms by continuing to consume fermented milk and cheese with low lactose content, considering the nutritional benefits of milk and dairy products and the variety of dietary contents [28]. Such individuals should be considered in future studies.Antioxidant and anti-inflammatory components in milk and dairy products may also contribute to improvements in sleep quality. A cross-sectional study of older participants [29] and middle-aged adults [30] reported that a Mediterranean diet had a positive effect on sleep quality. Older adults who frequently consumed many vegetables, whole grains, legumes, fruits, olive oil, and seafood slept better than their counterparts who did not, suggesting the importance of the food intake in sleep quality. The authors noted that the major ingredients of the Mediterranean diet are rich in antioxidants and anti-inflammatory substances that help to suppress inflammation in the body [29]. Furthermore, milk and dairy products contain more antioxidants of low molecular weight (various vitamins, nitrogen-containing components, and peptides such as glutathione) and anti-inflammatory proteins (lactoferrin, lactoperoxidase, lactalbumin, etc.) compared to other animal-derived foods. Finally, a Mediterranean diet with frequent milk and dairy product consumption was suggested to be effective in reducing the risk of developing dementia in older Japanese adults when combined with exercise and good dietary habits [31].As the present systematic review included a variety of study participants, including infants, children, young adults, and older adults, we further explored whether the effects of dairy on sleep varied with age. For example, infants often experience difficulty in falling asleep and frequent awakenings during sleep. Two studies have suggested that fortifying milk with Try improves sleep quality and increases sleep duration [13,18]. When comparing nighttime milk consumption with commercial milk, the effect was inconsistent, rendering it difficult to base any conclusions on the findings. Two studies, however, have shown that malted drinks (such as Horlicks) and fermented milk can improve sleep [14,15]. Study of older adults have assessed the impact of dairy intake on problems such as poor sleep quality, awakening during sleep, and decreased physical activity during the day [12]. It seemed hard to conclude the effect of night milk on sleep quality among older adults, because both night milk and normal milk improved the quality of sleep in some subjects, while in others it did not change. Since older people are more likely to have underlying medical conditions, it is presumed that the difference of medical condition changes the effect of milk.Daytime physical activity is also important for improving nighttime sleep, but only one study has examined this association [12]. The ingestion of milk and dairy products reportedly restores physical and mental functioning and increases daytime activity [32], which may contribute to better sleep at night. Therefore, it is necessary to consider not only the direct effects of dairy product intake on sleep, but also the indirect effects resulting from increased physical functionality during the day.This study is subject to several limitations. First, stress-related mental health and depressive symptoms were not included in the search terms. Stress is closely related to sleep quality [33,34], and both variables should be considered. Second, the present study did not use the specific ingredients in milk such as Try, GABA, and melatonin as the search terms. While this omission reflected our aim of revealing the effects of consuming milk and dairy products on sleep rather than the effects of specific ingredients found in dairy on sleep, future studies should elucidate the relationships between the ingredients in dairy products and sleep and thereby improve the current understanding of their mechanism of action. Third, the sample sizes of the included studies were relatively small, particularly those of the longitudinal studies. There were also variations in the outcomes across studies. Hence, the generalization of these findings requires caution. We refrained from conducting a meta-analysis to avoid the so-called “garbage in, garbage out” problem. Both meta-analyses and further experimental studies will be needed to clarify the long-term efficacy of milk and dairy products in improving sleep. In addition, only a few studies included in this review were determined to be of a high quality. More studies of great rigor and quality may be warranted to determine the relationship between dairy intake and sleep quality.5. ConclusionsThe present systematic review of past studies published between 1972 and 2019 aimed to assess the relationship between milk and dairy product intake and sleep. We observed that a well-balanced diet that includes milk and dairy products is considered to be effective for improving sleep quality, although the results of some of the studies were mixed and their conclusions limited as a result of small sample sizes and poor study quality. According to dietary intake standards in the United States, milk and dairy products are classified as foods with high nutritional density. People who consume adequate amounts of milk and dairy products meet the recommended requirements for daily calcium intake, and such people tend to have high health literacy and better sleep habits. In order to maintain good quality sleep, it is important to consider all lifestyle habits, including the consumption of healthy meals. Milk and dairy product consumption in the diet could be an index of sleep quality.Appendix ATable A1Studies conducted to assess the effect of dairy products on sleep.Study (Year)Enrolled SubjectsStudy DesignCountryIndependent VariableDependent VariableResultsValtonen et al. (2005) [12]Study 1: 59 females and 11 males (mean age = 81 ± 9 years, range = unclear); Study 2: 64 females and 17 males (mean age = 82.8 ± 8.1 years, range = unclear)Study 1: Randomized controlled trial (RCT) (2-arms); Study 2: RCT (3-arms)Finland“Study 1: Group I: night milk (experimental) for 8 weeks and normal commercial milk (placebo) for 8 weeks, with a washout period of 1 week; Group II: normal daytime milk for 8 weeks, then switched to night milk after the washout period; Study 2: Group III: night milk for 8 weeks and normal daytime milk for another 8 weeks, with a washout period of 1 week; Group IV: normal milk for 8 weeks and night milk for another 8 weeks, with a washout period of 1 week. Group V: normal daytime milk throughout the experiment (control)”Study 1: sleep quality, number of restless nights reported by nurses, Mini-Mental State Exam (MMSE) score; Study 2: sleep quality, daytime activity reported by caregiversStudy 1: decreased number of restless nights in Group I in Period 2 (normal milk), decreased sleep quality and number of restless nights in Group II in Period 2 (night milk); Study 2: increased sleep quality in Group III in Period 2 (normal milk). No effect of night milk. Increased sleep quality, morning activity and evening activity in Group IV in Period 2 (night milk). Slight increase in sleep quality In Group V in Period 2 (control).Steinberg et al. (1992) [13]57 infantsRCT (4-arms)USAExperimental formulae (EF): +0 (892 μmol/L tryptophan), +1 (1192 μmol/L tryptophan), +2 (1513 μmol/L tryptophan), +3 (1808 μmol/L tryptophan)Sleep latency, quiet sleep, active rapid eye movement (REM) sleep (observation)Shorter sleep latency in those fed with the higher tryptophan-containing formula.Brezinova et al. (1972) [14]Younger group: six males and four females (mean age = 22 years, range = 20–30); older group: three males and five females (mean age = 55 years, range = 42–66)RCT (2-arms)Edinburgh32 g Horlicks solution with 250 mL of hot milk or control (inert yellow capsule)Electroencephalography (EEG)Younger group: diminished restlessness during sleep in Horlicks-administered group; older group: longer total sleep duration and fewer instances of awakening in the Horlicks group.Southwell et al. (1972) [15]Four male students (age: unclear)RCT (2-arms)LondonNo drink (control), 350 mL of warm water, or 350 mL of warm milk plus HorlicksMovements during sleepHorlicks consumption reduced the number of small movements during sleepJalilolghadr et al. (2011) [16]Children (8–12 yrs; n = 8)Experimental studySydneyHigh glycemic index (GI) drink (200 mg low fat cow’s milk with 50 g Glucodin powder) vs. low GI drink (200 mg full cream cow’s milk with 50 g honey) each for one dayPSGThe mean total arousal index in the first half of the night after the consumption of the high GI drink was greater than that of the low GI drink. (12.9 ± 4.6 vs. 9.9 ± 2.2, p = 0.03). Non-rapid eye movement (NREM) arousal index in the first half of night after the consuming the high GI drink was also higher than that of the low GI drink (12.7 ± 4.8 vs. 9.6 ± 2.3, p = 0.04). Tatone-Tokuda F et al. (2012) [17]Children (6 years old: n = 1106; 7 years old: n = 1015)Quebec Longitudinal Study of Child Development (QLSCD) (longitudinal study: 1998–2010)CanadaProportion who had consumed a dairy productCategorical sleep pattern characteristics (“short-persistent⁄increasing” sleep pattern, “10-h persistent,” “11-h persistent” patterns.Girls who had a “short-persistent⁄increasing” sleep pattern consumed milk products significantly less often (≤once per day) and soft drinks significantly more often (≥once per day) than girls with “10-h persistent” or “11-h persistent” patterns. In boys or girls; milk products or soft drinks (in boys) at the 0.05 level (data not shown).Aparicio S et al. (2007) [18]Healthy infants (12–20 weeks of age; n-18) consuming artificial milk before the studyExperimental study (double-blind)Spain (Balearic Island)1. Control week: each infant received commercial infant milk throughout the 24 h of the day (1.5 g tryptophan/100 g protein).2. Other control week (inverse): control milk from 18.00 to 06.00 h, and tryptophan-enriched milk (3.4 g tryptophan/100 g protein) from 06.00 to 18.00 h. 3. The experimental week the infants received control milk during light time (from 06.00 to 18.00 h) and tryptophan enriched milk during dark time (from 18.00 to 06.00 h)”Sleep time; sleep efficacy; sleep bouts; immobility on activity recordingSlept longer, better sleep efficiency, more immobility during the experimental week.Yamamura et al. (2009) [19]29 healthy elderly subjects (aged 60–81 years)RCT with double-blind, cross-over designJapanFermented milk vs. artificial milk (placebo) Sleep efficacy; sleep latency; waking episodes; waking after sleep onset (WASO) based on actigraphyThere was no significant difference between the groups. Sleep efficiency had improved significantly from the baseline period in those receiving the fermented milk (p = 0.03). The number of awakening episodes decreased significantly from the baseline period in the fermented milk group (p = 0.007).Misra et al. (2015) [20]56 toddlers (Age: 14–24 months)A double-blind RCT (between subjects) designMalaysiaLow GI (23) milk or high GI (65) milk for a period of 3.5 days Sleep-onset latency (SOL), total sleep time (TST), WASO, sleep efficiency (SE).“There were no significant differences between the two GI groups for SOL, TST, WASO, and SE. There was no need for any added sugars to improve the sleep patterns of this age group. The LGI formulations are preferable, as these tend to be higher in dietary fiber and lower in refined sugars and starches.”Markus et al. (2005) [21]Healthy college students with (n = 14) or without (n = 14) mild sleep complaintsA double-blind, placebo-controlled studyNetherlandsTryptophan-rich alpha-lactalbumin (A-LAC) tryptophan-low placebo proteinThe Stanford Sleepiness Scale, The Psychmotor Vigilance task, electroencephalographic recordings, concentrations of plasma tryptophan to other large neutral amino acids (Trp:LNAA)The mean plasma Trp:LNAA was higher after the A-LAC diet condition than after the placebo diet condition (but not significantly). All subjects were less sleepy in the morning after evening intake of A-LAC than after placebo intake (but not significantly). Evening consumption of tryptophan-rich A-LAC may improve early morning performance indirectly through enhanced available brain tryptophan levels and subsequent sleep improvement.Sato-Mito et al. (2011) [22]3304 female dietetics students (Age: 18–20 years)Cross-sectional surveyJapanMidpoint of sleepA validated 16-page self-administered diet history questionnaire (DHQ).The late midpoint of sleep was significantly negatively associated with the percentage of energy derived from proteins and carbohydrates, and the energy-adjusted intake of cholesterol, potassium, calcium, magnesium, iron, zinc, vitamin A, vitamin D, thiamin, riboflavin, vitamin B6, folate, rice, vegetables, pulses, eggs, and milk and milk products.Grandner et al. (2014) [23]The 2007–2008 National Health and Nutrition Examination Survey (NHANES) (n = 4552)Cross-sectional surveyUSAThe 2007–2008 National Health and Nutrition Examination Survey (NHANES)”“Sleep symptoms (difficulty falling asleep, difficultymaintaining sleep, non-restorative sleep, and daytime sleepiness)”Low calcium intake was associated with difficulty falling asleep and a greater duration of non-restorative sleep.Takada et al. (2017) [24]94 medical studentsDouble-blind, placebo-controlled trialJapanLactobacillus casei strain Shirota (LcS) or non-fermented placebo milk (a daily dose of 100 mL) for 8 weeks prior to and 3 weeks after the examination (under psychological stress)Overnight single-channel electroencephalography (EEG) recordings, subjective sleep and anxiety reporting.There was a significant positive effect of LcS treatment on subjective assessment of sleepiness on waking and sleep duration. Sleep latency measured by EEG increased as the exam approached in the placebo group but was significantly suppressed in the LcS group. The percentage of stage 3 non-REM (N3) sleep decreased in the placebo group as the exam approached, whereas it was maintained in the LcS group throughout the trial.Kitano et al. (2014) [25]421 community-dwelling older people aged ≥65 years (mean age: 74.9 ± 5.5 years; male: 43.7%)Cross-sectional surveyJapanThe Pittsburgh Sleep Quality IndexDairy consumption of habitual intake of milk, yogurt, and cheese; the Physical Activity Scale for the ElderlyThe combination of engaging in leisure-time physical activity (LTPA) and consuming milk or cheese is necessary as a prescription to improve latency to sleep onset for older adults suffering from DIS.Open in a separate windowRCT: randomized controlled trial, MMSE: Mini-Mental State Examination, EF: experimental formulae, REM: rapid eye movement, EEG: electroencephalography, GI: glycemic index, NREM: non-rapid eye movement, WASO: waking after sleep onset, SOL: sleep onset latency, TST: total sleep time, SE: sleep efficiency, Trp: tryptophan, A-LAC: alpha-lactalbumin, DHQ: Diet History Questionnaire, NHANES: National Health and Nutrition Examination Survey, LcS: Lactobacillus casei strain Shirota, LTPA: leisure-time physical activity.Author ContributionsConceptualization, Y.K., I.O., and T.K.; methodology, Y.K., I.O., and T.K.; formal analysis, Y.K., I.O., and T.K.; investigation, Y.K., I.O., and T.K.; data curation, Y.K.; writing—original draft preparation, Y.K. and T.K.; writing—review and editing, Y.K., I.O., and T.K.; project administration, Y.K., I.O., and T.K.; funding acquisition, Y.K. All authors have read and agreed to the published version of the manuscript.FundingThis work was funded by the Japan Diary Association.Conflicts of InterestThe authors declare no conflict of interest.FootnotesPublisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.References1. Zeng Y., Yang J., Du J., Pu X., Yang X., Yang S., Yang T. Strategies of Functional Foods Promote Sleep in Human Being. Curr. Signal. Transduct. Ther. 2014;9:148–155. doi: 10.2174/1574362410666150205165504. [PMC free article] [PubMed] [CrossRef] [Google Scholar]2. Bosscher D., Breynaert A., Pieters L., Hermans N. Food-based strategies to modulate the composition of the intestinal microbiota and their associated health effects. J. Physiol. Pharmacol. 2009;60(Suppl. 6):5–11. [PubMed] [Google Scholar]3. Markus C.R., Olivier B., Panhuysen G.E., Van Der Gugten J., Alles M.S., Tuiten A., Westenberg H.G., Fekkes D., Koppeschaar H.F., de Haan E.E. The bovine protein alpha-lactalbumin increases the plasma ratio of tryptophan to the other large neutral amino acids, and in vulnerable subjects raises brain serotonin activity, reduces cortisol concentration, and improves mood under stress. Am. J. Clin. Nutr. 2000;71:1536–1544. doi: 10.1093/ajcn/71.6.1536. [PubMed] [CrossRef] [Google Scholar]4. Nongonierma A.B., FitzGerald R.J. Bioactive properties of milk proteins in humans: A review. Peptides. 2015;73:20–34. doi: 10.1016/j.peptides.2015.08.009. [PubMed] [CrossRef] [Google Scholar]5. Galland L. The gut microbiome and the brain. J. Med. Food. 2014;17:1261–1272. doi: 10.1089/jmf.2014.7000. [PMC free article] [PubMed] [CrossRef] [Google Scholar]6. Tillakaratne N.J., Medina-Kauwe L., Gibson K.M. gamma-Aminobutyric acid (GABA) metabolism in mammalian neural and nonneural tissues. Comp. Biochem. Physiol. A Physiol. 1995;112:247–263. doi: 10.1016/0300-9629(95)00099-2. [PubMed] [CrossRef] [Google Scholar]7. Cui R., Li B., Suemaru K., Araki H. Psychological stress-induced changes in sleep patterns and their generation mechanism. Yakugaku Zasshi. 2008;128:405–411. doi: 10.1248/yakushi.128.405. [PubMed] [CrossRef] [Google Scholar]8. Cui Y., Miao K., Niyaphorn S., Qu X. Production of Gamma-Aminobutyric Acid from Lactic Acid Bacteria: A Systematic Review. Int. J. Mol. Sci. 2020;21:995.  doi: 10.3390/ijms21030995. [PMC free article] [PubMed] [CrossRef] [Google Scholar]9. Moher D., Liberati A., Tetzlaff J., Altman D.G., Group P. Preferred reporting items for systematic reviews and meta-analyses: The PRISMA Statement. Open Med. 2009;3:e123–e130. [PMC free article] [PubMed] [Google Scholar]10. Jadad A.R., Moore R.A., Carroll D., Jenkinson C., Reynolds D.J., Gavaghan D.J., McQuay H.J. Assessing the quality of reports of randomized clinical trials: Is blinding necessary? Control. Clin. Trials. 1996;17:1–12. doi: 10.1016/0197-2456(95)00134-4. [PubMed] [CrossRef] [Google Scholar]11. Wells G.A., Shea B., Connell D.O., Peterson J., Welch V., Losos M., Tugwell P. The Newcastle-Ottawa Scale (NOS) for Assessing the Quality of Nonrandomised Studies in Meta- Analyses.  [(accessed on 10 August 2020)]; Available online:  http://www.ohri.ca/programs/clinical_epidemiology/oxford.asp12. Valtonen M., Niskanen L., Kangas A.P., Koskinen T. Effect of melatonin-rich night-time milk on sleep and activity in elderly institutionalized subjects. Nord. J. Psychiatry. 2005;59:217–221. doi: 10.1080/08039480510023034. [PubMed] [CrossRef] [Google Scholar]13. Steinberg L.A., O’Connell N.C., Hatch T.F., Picciano M.F., Birch L.L. Tryptophan intake influences infants’ sleep latency. J. Nutr. 1992;122:1781–1791. doi: 10.1093/jn/122.9.1781. [PubMed] [CrossRef] [Google Scholar]14. Brezinova V., Oswald I. Sleep after a bedtime beverage. Br. Med. J. 1972;2:431–433. doi: 10.1136/bmj.2.5811.431. [PMC free article] [PubMed] [CrossRef] [Google Scholar]15. Southwell P.R., Evans C.R., Hunt J.N. Effect of a hot milk drink on movements during sleep. Br. Med. J. 1972;2:429–431. doi: 10.1136/bmj.2.5811.429. [PMC free article] [PubMed] [CrossRef] [Google Scholar]16. Jalilolghadr S., Afaghi A., O’Connor H., Chow C.M. Effect of low and high glycaemic index drink on sleep pattern in children. J. Pak. Med. Assoc. 2011;61:533–536. [PubMed] [Google Scholar]17. Tatone-Tokuda F., Dubois L., Ramsay T., Girard M., Touchette E., Petit D., Montplaisir J.Y. Sex differences in the association between sleep duration, diet and body mass index: A birth cohort study. J. Sleep Res. 2012;21:448–460. doi: 10.1111/j.1365-2869.2011.00989.x. [PubMed] [CrossRef] [Google Scholar]18. Aparicio S., Garau C., Esteban S., Nicolau M.C., Rivero M., Rial R.V. Chrononutrition: Use of dissociated day/night infant milk formulas to improve the development of the wake-sleep rhythms. Effects of tryptophan. Nutr. Neurosci. 2007;10:137–143. doi: 10.1080/10284150701455916. [PubMed] [CrossRef] [Google Scholar]19. Yamamura S., Morishima H., Kumano-go T., Suganuma N., Matsumoto H., Adachi H., Sigedo Y., Mikami A., Kai T., Masuyama A., et al. The effect of Lactobacillus helveticus fermented milk on sleep and health perception in elderly subjects. Eur. J. Clin. Nutr. 2009;63:100–105. doi: 10.1038/sj.ejcn.1602898. [PubMed] [CrossRef] [Google Scholar]20. Misra S., Khor G.L., Mitchell P., Haque S., Benton D. A pilot study to determine the short-term effects of milk with differing glycaemic properties on sleep among toddlers: A randomised controlled trial. BMC Pediatr. 2015;15:79.  doi: 10.1186/s12887-015-0393-9. [PMC free article] [PubMed] [CrossRef] [Google Scholar]21. Markus C.R., Jonkman L.M., Lammers J.H., Deutz N.E., Messer M.H., Rigtering N. Evening intake of alpha-lactalbumin increases plasma tryptophan availability and improves morning alertness and brain measures of attention. Am. J. Clin. Nutr. 2005;81:1026–1033. doi: 10.1093/ajcn/81.5.1026. [PubMed] [CrossRef] [Google Scholar]22. Sato-Mito N., Sasaki S., Murakami K., Okubo H., Takahashi Y., Shibata S., Yamada K., Sato K., the Freshmen in Dietetic Courses Study II group  The midpoint of sleep is associated with dietary intake and dietary behavior among young Japanese women. Sleep Med. 2011;12:289–294. doi: 10.1016/j.sleep.2010.09.012. [PubMed] [CrossRef] [Google Scholar]23. Grandner M.A., Jackson N., Gerstner J.R., Knutson K.L. Sleep symptoms associated with intake of specific dietary nutrients. J. Sleep Res. 2014;23:22–34. doi: 10.1111/jsr.12084. [PMC free article] [PubMed] [CrossRef] [Google Scholar]24. Takada M., Nishida K., Gondo Y., Kikuchi-Hayakawa H., Ishikawa H., Suda K., Kawai M., Hoshi R., Kuwano Y., Miyazaki K., et al. Beneficial effects of Lactobacillus casei strain Shirota on academic stress-induced sleep disturbance in healthy adults: A double-blind, randomised, placebo-controlled trial. Benef. Microbes. 2017;8:153–162. doi: 10.3920/BM2016.0150. [PubMed] [CrossRef] [Google Scholar]25. Kitano N., Tsunoda K., Tsuji T., Osuka Y., Jindo T., Tanaka K., Okura T. Association between difficulty initiating sleep in older adults and the combination of leisure-time physical activity and consumption of milk and milk products: A cross-sectional study. BMC Geriatr. 2014;14:118.  doi: 10.1186/1471-2318-14-118. [PMC free article] [PubMed] [CrossRef] [Google Scholar]26. Fukushige H., Fukuda Y., Tanaka M., Inami K., Wada K., Tsumura Y., Kondo M., Harada T., Wakamura T., Morita T. Effects of tryptophan-rich breakfast and light exposure during the daytime on melatonin secretion at night. J. Physiol. Anthropol. 2014;33:33. doi: 10.1186/1880-6805-33-33. [PMC free article] [PubMed] [CrossRef] [Google Scholar]27. Sanlier N., Sabuncular G. Relationship between nutrition and sleep quality, focusing on the melatonin biosynthesis. Sleep Biol. Rhythms. 2020;18:89–99. doi: 10.1007/s41105-020-00256-y. [CrossRef] [Google Scholar]28. Misselwitz B., Butter M., Verbeke K., Fox M.R. Update on lactose malabsorption and intolerance: Pathogenesis, diagnosis and clinical management. Gut. 2019;68:2080–2091. doi: 10.1136/gutjnl-2019-318404. [PMC free article] [PubMed] [CrossRef] [Google Scholar]29. Mamalaki E., Anastasiou C.A., Ntanasi E., Tsapanou A., Kosmidis M.H., Dardiotis E., Hadjigeorgiou G.M., Sakka P., Scarmeas N., Yannakoulia M. Associations between the mediterranean diet and sleep in older adults: Results from the hellenic longitudinal investigation of aging and diet study. Geriatr. Gerontol. Int. 2018;18:1543–1548. doi: 10.1111/ggi.13521. [PubMed] [CrossRef] [Google Scholar]30. Muscogiuri G., Barrea L., Aprano S., Framondi L., Di Matteo R., Laudisio D., Pugliese G., Savastano S., Colao A., on behalf of the OPERA PREVENTION Project  Sleep Quality in Obesity: Does Adherence to the Mediterranean Diet Matter? Nutrients. 2020;12:1364.  doi: 10.3390/nu12051364. [PMC free article] [PubMed] [CrossRef] [Google Scholar]31. Ozawa M., Ohara T., Ninomiya T., Hata J., Yoshida D., Mukai N., Nagata M., Uchida K., Shirota T., Kitazono T., et al. Milk and dairy consumption and risk of dementia in an elderly Japanese population: The Hisayama Study. J. Am. Geriatr. Soc. 2014;62:1224–1230. doi: 10.1111/jgs.12887. [PubMed] [CrossRef] [Google Scholar]32. Cuesta-Triana F., Verdejo-Bravo C., Fernandez-Perez C., Martin-Sanchez F.J. Effect of Milk and Other Dairy Products on the Risk of Frailty, Sarcopenia, and Cognitive Performance Decline in the Elderly: A Systematic Review. Adv. Nutr. 2019;10:S105–S119. doi: 10.1093/advances/nmy105. [PMC free article] [PubMed] [CrossRef] [Google Scholar]33. Almoosawi S., Palla L., Walshe I., Vingeliene S., Ellis J.G. Long Sleep Duration and Social Jetlag Are Associated Inversely with a Healthy Dietary Pattern in Adults: Results from the UK National Diet and Nutrition Survey Rolling Programme Y1(-)4. Nutrients. 2018;10:1131.  doi: 10.3390/nu10091131. [PMC free article] [PubMed] [CrossRef] [Google Scholar]34. Raniti M.B., Allen N.B., Schwartz O., Waloszek J.M., Byrne M.L., Woods M.J., Bei B., Nicholas C.L., Trinder J. Sleep Duration and Sleep Quality: Associations With Depressive Symptoms Across Adolescence. Behav. Sleep Med. 2017;15:198–215. doi: 10.1080/15402002.2015.1120198. [PubMed] [CrossRef] [Google Scholar]Articles from International Journal of Environmental Research and Public Health are provided here courtesy of Multidisciplinary Digital Publishing Institute  (MDPI)
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (662K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

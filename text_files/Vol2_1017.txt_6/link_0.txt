@@ -1,0 +1,710 @@
+Document Name: role of MIGLYOL 812 in Cold Cream0
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200990/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Physico-chemical characterization of nano-emulsions in cosmetic matrix enriched on omega-3 - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+J Nanobiotechnology
+
+
+v.9; 2011
+
+
+                    PMC3200990
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (699K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+J Nanobiotechnology
+
+
+v.9; 2011
+
+
+                    PMC3200990
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+J Nanobiotechnology. 2011; 9: 41. Published online 2011 Sep 21.  doi: 10.1186/1477-3155-9-41PMCID: PMC3200990PMID: 21936893Physico-chemical characterization of nano-emulsions in cosmetic matrix enriched on omega-3Tin-hinan Kabri,1 Elmira Arab-Tehrany,1 Nabila Belhaj,1 and  Michel Linder1Tin-hinan Kabri1Laboratoire d'Ingénierie des Biomolécules (LIBio), Nancy-Université, 2 avenue de la Forêt de Haye, 54500 Vandoeuvre-lès-Nancy, FranceFind articles by Tin-hinan KabriElmira Arab-Tehrany1Laboratoire d'Ingénierie des Biomolécules (LIBio), Nancy-Université, 2 avenue de la Forêt de Haye, 54500 Vandoeuvre-lès-Nancy, FranceFind articles by Elmira Arab-TehranyNabila Belhaj1Laboratoire d'Ingénierie des Biomolécules (LIBio), Nancy-Université, 2 avenue de la Forêt de Haye, 54500 Vandoeuvre-lès-Nancy, FranceFind articles by Nabila BelhajMichel Linder1Laboratoire d'Ingénierie des Biomolécules (LIBio), Nancy-Université, 2 avenue de la Forêt de Haye, 54500 Vandoeuvre-lès-Nancy, FranceFind articles by Michel LinderAuthor information Article notes Copyright and License information Disclaimer1Laboratoire d'Ingénierie des Biomolécules (LIBio), Nancy-Université, 2 avenue de la Forêt de Haye, 54500 Vandoeuvre-lès-Nancy, FranceCorresponding author.Tin-hinan Kabri: rf.ycnan-lpni.aiasne@irbak.nanih-nit;  Elmira Arab-Tehrany: rf.ycnan-lpni.aiasne@ynarhet-bara.arimle;  Nabila Belhaj: rf.ycnan-lpni.aiasne@jahleb.aliban;  Michel Linder: rf.ycnan-lpni.aiasne@rednil.lehcim Received 2011 Mar 15; Accepted 2011 Sep 21.Copyright  ©2011 Kabri et al; licensee BioMed Central Ltd.This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.AbstractBackgroundNano-emulsions, as non-equilibrium systems, present characteristics and properties which depend not only on composition but also on their method of preparation. To obtain better penetration, nanocosmeceuticals use nano-sized systems for the delivery of active ingredients to targeted cells. In this work, nano-emulsions composed of miglyol, rapeseed oil and salmon oil were developed as a cosmetic matrix. Measurements of different physico-chemical properties of nano-emulsions were taken according to size, electrophoretic mobility, conductivity, viscosity, turbidity, cristallization and melting point. The RHLB was calculated for each formulation in order to achieve maximum stability.ResultsBoth tween 80 and soya lecithin were found to stabilize formulations. The results showed that rapeseed oil and miglyol are the predominant parameters for determining the expression of results concerning the characterization of emulsion. Based on the mixture design, we achieved the optimal point using the following formulation: 56.5% rapessed oil, 35.5% miglyol, and 8% salmon oil. We considered this formulation to be the best as a nanocosmeceutical product due to the small size, good turbidity, and average HLB.ConclusionsThis study demonstrates the influence of formulation on the physico-chemical properties of each nano-emulsion obtained by the mixture design.IntroductionCosmetics represent an important industry worldwide, especially in Europe. The matrix of cosmetics is not simple; it usually contains a high number of ingredients and often requires time-consuming and tedious sample treatments [1,2].Nanotechnology is a key technology leading to product innovation. Nano-emulsions have attracted considerable attention in recent years as potential vehicles for the controlled delivery of cosmetics and personal care products [3].Nano-emulsions are oil-in-water (O/W) or water-in-oil (W/O), transparent or translucent, colloidal dispersions, usually in the 20-500 nm size range [4,5]. An advantage in using nano-emulsions compared to ordinary emulsion, is their ability, as delivery systems, to improve the bioavailability and bioefficacy of lipophilic bioactives in their delivery [6]. The very small droplet size causes a large reduction in the force of gravity, and the Brownian motion may be sufficient for overcoming it. This means that no creaming, sedimentation and flocculation occurs during storage. Weak flocculation is prevented, which enables delivery system to remain dispersed with no separation [7].Nano-emulsions render possible different visual aspects, richness and skin feel in a great variety of products such as lotions, transparent milks and crystal-clear gels with different rheological behavior, properties which themselves represent biophysical and sensorial benefits highly valued by consumers [8].Eicosapentaenoic acid (EPA, 20:5n-3) and docosahexaenoic acid (DHA, 22:6n-3) are two major polyunsaturated fatty acids (PUFA), not present in normal skin epidermis. However, they are metabolized by skin epidermal enzymes into anti-inflammatory and anti-proliferative metabolites that are associated with a variety of benefits regarding inflammatory skin disorders [9]. Oil and marine lecithin from salmon (Salmo salar) contains a high percentage of PUFAs, especially EPA and DHA [10,11].This study is focused on the development of a cosmetic matrix made of nano-emulsions enriched on long-chain polyunsaturated fatty acids (LC-PUFA) as final application products, and on the optimization of their preparation. We focused on two of them: eicosapentaenoic acid (EPA, 20:5n-3) and docosahexaenoic acid (DHA, 22:6n-3).We formulated a mixture of various oils (rapeseed, salmon and miglyol) based on an innovative design. This formulation helps us mask the salmon oil smell. We calculated the required hydrophilic-lipophilic balance (RHLB) for each experiment and measured different physico-chemical parameters of each nano-emulsion, such as size, electrophoretic mobility, viscosity, turbidity, crystallization and melting point.Materials and methodsThe salmon oil (Salmo salar) was provided by enzymatic hydrolysis. The lipids were extracted through a low temperature enzymatic process without using any organic solvent [12]. BF3 (Boron trifluoride)/methanol (purity = 99%) and hexane (purity = 97%) used for gas chromatograph (CG) with a flame ionization detector were purchased from Fisher (France). These organic solvents were analytical grade reagents. We used Rapeseed oil (Walter Micher, Ferme d'Ormes, France), Caprylic/Capric Triglyceride (Miglyol 812, SASOL, Paris, France), Soya lecithin (Lecrsoyaf F60 IP, France) and Polyoxyethylene Sorbitan Monooleate (Tween 80, Sigma-Aldrich, Munich, Germany) to prepare the nano-emulsions.Mixture designTo assess the effects and interactions between different constituents of Scheffe design, we constructed a mixture design with 13 experiments, each containing a different percentage of rapeseed, salmon and miglyol oils, and representing different cosmetic matrices (candidate points). All 13 emulsions were prepared in our laboratory. We used the NEMROD® software (New Efficient Methodology for Research using Optimal Design) to generate the mixture design [13].The proportions of the various components in the emulsions are (wt):• 30% of oily phase• 12% of emulsifiants• 3% glycerol• 55% aqueous phase (water)We developed a mixture design with constraint [14], Table ​Table1,1, to predict the dependence of observed responses on the cosmetic matrix compositions.Table 1Lower and Upper Constraint for each ingredient in oil phaseOilLower Constraint (%)Upper Constraint (%)Rapeseed oil2080Miglyol2080Salmon oil210Open in a separate windowThe proportions of emulsifiers (tween 80 and soya lecithin) vary in relation to the proportions of oils (miglyol, rapeseed and salmon) used for the mixture design.Data from the physico-chemical properties were used to calculate the special cubic equation for the three components:Y = b1X1 + b2X2 + b3X3 + b12X1X2 + b13X1X3 + b23X2X3 + b123X1X2X3(1)in which Y is the measured response, b(i) are parameters estimated for each linear and cross-product term in the model, and X1, X2 and X3 represent level constituents of rapeseed oil, miglyol and salmon oil.Table ​Table22 presents the mixture design used for the cosmetic matrix.Table 2Mixture plan used for the cosmetic matrixN° ExperienceRapeseed oilMiglyolSalmon oil10.78000.20000.020020.70000.20000.100030.20000.78000.020040.20000.70000.100050.74000.20000.060060.49000.49000.020070.45000.45000.100080.20000.74000.060090.47000.47000.0600100.62500.33500.0400110.5850.33500.0800120.33500.62500.0400130.33500.58500.0800Open in a separate windowDetermination of required hydrophilic-lipophilic balance (RHLB) in the oil mixtureHydrophilic-lipophilic balance (HLB) was calculated using the Griffin empirical method translating into the following formula [15]:HLB=20(1−IsIa)(2)where Is is the saponification Index, and Ia, the acid index, both of which were measured based on oil indexes analysis.We calculated the RHLB using the following equation:RHLB = (x1 ∕ X).HLBrapeseed + (x2 ∕ X).HLBmiglyol + (x3 ∕ X).HLBsalmon(3)in which x1, 2, 3 is the proportion of rapeseed oil, salmon oil and miglyol, and X, the total proportion of oil phase in the formulation.Oil indexes analysisWe used standard procedures of the American Oil Chemists' Society to arrive at the index values [16]: acid index (standard 969.17 1997) and saponification index (standard 920.160, 1997).Fatty acid compositionFatty acid methyl esters (FAMEs) were prepared [17]. To separate the FAMEs, we used a Perichrom™ 2000 gas chromatograph (Perichrom, Saulx-lès-Chartreux, France), equipped with a flame-ionization detector, and a fused silica capillary column (50 m, 0.25 mm i.d. × 0.25 μm film thicknesses, CP 7419 Varian, Middelburg, Netherlands). Injector and detector temperatures were set at 260°C. A temperature program of column was initially set at 145°C for 5 min, to rise to 210°C at a rate of 2°C/min and to be held at 210°C for 10 min. We used standard mixtures (PUFA1 from a marine source and PUFA2 from a vegetable source (Supelco, Sigma-Aldrich, Bellfonte, PA, USA) to identify fatty acids. Results were presented as triplicate analyses.Preparation of nano-emulsionsWe initially mixed the three oils (miglyol, rapeseed and salmon) in different proportions based on the mixture design. The appropriate quantity of soya lecithin was determined based on the RHLB added in the oil phase and mixed during 5 min by vortex in inert atmosphere (nitrogen).We mixed the glycerol (3%) and tween 80 with water (55%) at 50°C and then under vortex.The oil phase added into aqueous phase and then we sonicated the mixture at 40 kHz and 40% of full power, for 120 s (1 s on and 1 s off), to achieve a homogeneous solution.To obtain the various nano-emulsions based on the mixture design, we circulated the O/W emulsions five times through a high-pressure valve homogenizer Emulsiflex-C3 (provided by Sodexim S.A, France), at 22,000 psi. The homogenization temperature was kept at 10°C by circulating cold water (4°C) around the valve. Each re-circulated sample was kept under nitrogen atmosphere to avoid any oxidation. Emulsion samples were stored in the dark in sterilized bottles at 20°C.Size measurement of droplet emulsionsOil droplet sizes were analyzed by dynamic light scattering using a Malvern Zetasizer Nano ZS (Malvern Instruments Ltd, UK). The apparatus is equipped with a 4 mW He/Ne laser, emitting 633 nm, measurement cell, photomultiplier and correlator. Prior to measuring size, the samples were diluted (1:400) into a distilled water ultra-filtrate and placed in vertical cylindrical cuvettes (10 mm-diameter). Using an avalanche of photodiode detector set at 25°C, we measured the scattering intensity at a 173° angle relative to the source. Intensity autocorrelation functions were analyzed by a General Purpose Algorithm (integrated into the Malvern Zetasizer software) in order to determine the distribution of the translational z-averaged diffusion coefficient of the particles, DT (m2 s-1). The DT parameter and the hydrodynamic radius (Rh) of particles are related through the Stokes-Einstein equation: DT = kBT/6πηRh. In dispersion, particles move in a constant random Brownian motion such as it causes the intensity of scattered light to fluctuate as a function of time. Therefore droplets' sizes were measured based on the correlation function as established by the dispersion technology software (DTS), using various algorithms. The refractive index (RI) and absorbance were set respectively at 1.471 and 0.01 at 25°C. Measurements were repeated five times.Electrophoretic MobilityElectrophoretic mobility measurements (μE) were performed by means of laser Doppler electrophoresis. Each sample was put in a standard capillary electrophoresis cell equipped with gold electrodes. The emulsions were diluted (1:400) to measure their electrophoretic mobility using a Malvern Zetasizer Nano ZS (Malvern instruments, UK) to evaluate the surface net charge around the lipid droplets. Prior to analysis, emulsions were diluted with de-ionized water, to avoid multiple scattering effects, and were then directly placed into the equipment. Measurements were performed directly in the diluted emulsions (mean, n = 3).TurbidityThe experiments were carried out in a 50-ml bottle. Temperature was maintained at 20°C and a turbidity sensor positioned through the bottle wall, to avoid disturbances during stirring. Turbidity changes accompanying the nano-emulsion formulation were observed using a turbidity meter (Analite NEP 160, McVan Instruments, Mulgrave, Australia). This apparatus used light in the near infrared region (860 nm) so that any particle in suspension in the fluid reflected the incident beam at 180° back to a sensitive electronic receptor. A measurement system ensured the continuous monitoring of turbidity (Almemo 8990-8 V5, Ahlborn, Holskirchen, Germany). This data logger was coupled with a PC equipped with an AMR WinControl software (adapted for Almemo). Data were collected automatically every second during 1,000 seconds, then every five seconds. All runs were carried out at least in triplicate.Measuring system for the rheological behaviorThe Stress Tech Rheometer (Reologica AB, Lund, Sweden) was equipped with a C40.4 cup.All runs were carried out at least in duplicate. The applied constraint ran from 0.2 to 1 Pa.s on 25 points. Integration and acquisition time was of 10 seconds with automatic resolution on each measurement cycle, itself performed in triplicate.Differential scanning calorimetryDifferential Scanning Calorimetry (DSC) technique was applied with a DSC 204F1 NETZSCH (France). First, an emulsion sample of about 10 mg was placed in an aluminum pan, hermetically sealed before being placed in the calorimeter thermocouples.The samples were then heated from 20°C to 60°C in 5°C/min heating increments, to eliminate initial thermal history (equilibrated at 60°C), and then cooled down to -60°C following the same process (equilibrated at -60°C). The samples were then reheated to 60°C, in 5°C/min heating increments as well.Color measurementThe color of the oils was determined in triplicate, using the Lovibond method. Color was measured using the Lovibond (Lovibond PFX195, VWR International France). The equipment was calibrated following the method described by Windsor and Barlow [18], fixing the color yellow in 30 units and varying the color red. Each sample was taken in a cube and placed in the space provided in the tintometer. We proceeded by trial and error to match different combinations of red and yellow slides with the reflected color of the oil, until we did.Results and DiscussionFatty acid analysesThe samples' main fatty acid composition is shown in Table ​Table3.3. Salmon oil and rapeseed oil exhibited the highest percentage of total polyunsaturated fatty acids. In regards to salmon oil, the most significant proportions of fatty acids were respectively of C22:6 and C20:5, found in the polyunsaturated fatty acids class, C18:1(n-9), found in the monounsaturated fatty acids class, and C16:0, found in the saturated fatty acids class. In regards to rapeseed oil, the percentage of C18:3n-3 was important in the polyunsaturated fatty acids class. The fatty acid most present was C18:1n-9 with 55.47%, found in the monounsaturated fatty acids class. Table ​Table33 shows miglyol as containing a high percentage of saturated fatty acids such as C8:0 and C10:0.Table 3Main fatty acid compositions of different oils by gas chromatography (area %)Fatty acidsRapeseed oilMiglyolSalmon oil%sd%sd%sdC6:00.000.000.160.030.000.00C8:00.000.0055.090.810.000.00C10:00.000.0041.470.140.000.00C12:00.000.000.210.010.000.00C14:00.000.001.870.062.400.02C16:04.390.350.000.0015.340.18C18:01.700.550.000.004.350.07C20:00.530.030.000.000.000.00SAT6.62-98.75-22.09-C16:1 n-90.160.000.000.002.550.03C18:1 n-959.760.670.000.0023.180.33C18:1 n-73.180.200.000.002.660.08C20:11.210.120.000.00--MONO64.31-0.00-28.39-C18:2 n-619.270.250.000.006.770.01C20:3 n-60.000.000.000.000.000.00C20:4 n-60.000.000.000.001.610.03C22:4n-60.000.000.000.000.190.01n-619.27-0.00-8.57-C18:3 n-39.530.070.000.002.640.03C18:4 n-30.000.000.000.00--C20:4 n-30.000.000.000.00--C20:5 n-30.000.000.000.007.350.01C22:5 n-30.000.000.000.00--C22:6 n-30.000.000.000.0017.480.09n-39.53-0.000.0027.47-PUFA28.80-0.000.0036.04-n-6/n-32.02-0.000.000.31-Open in a separate windowData obtained are the average ± standard deviation in triplicate.sd: standard deviationResults of emulsions characterizationWe used the NEMROD® software with a cubic model to analyze experimental results. At this stage of the experiment, we focused on size distribution, electrophoretic mobility, HLB and turbidity values in emulsions' system. We investigated the impact of formulation on physico-chemical properties of emulsions. Table ​Table44 presents the coefficients of our model for each response.Table 4Estimation of model coefficients (Equation 1)CoefficientSize distribution of emulsion (nm)Mobility electrophoretic (μmcm/Vs)HLBTurbidity(NTU)*Melting onset(°C)b1192.520*-5.053**7.543***48761.993***-23.31b2276.223*-5.605**12.674***18764.217*20.87b36582.411-176.643-91.207528043.2237849.77***b12-327.2986.4215.867-91049.791*14.03b13-7249.278212.419127.855-884315.817-8481.72**b23-8417.213218.825143.770*-709495.692-8998.93**b1232206.082-105.357-59.960898519.743-233.36R20.890.820.990.950.95Open in a separate windowMeaning of each star: * 95%, ** 99%, *** 99.9% confidence level*NTU: Nephelometric Turbidity Units (NTU)b1: rapeseed oil; b2: miglyol; b3: salmon oilTable ​Table44 shows expression of results concerning the characterization of emulsion (size distribution, mobility electrophoretic, HLB, turbidity and melting point): rapeseed oil and miglyol are the determining parameters. Rapeseed oil has a significant influence on HLB and on turbidity parameters, with a 99.9% confidence level, and with a lesser one on electrophoretic mobility, size distribution and melting onset. Figure ​Figure1,1, which presents results of the degree of influence of miglyol and rapeseed oil on HLB response, shows that miglyol plays a major role on HLB of emulsions.Open in a separate windowFigure 1Variation of HLB in function of different oil mixture.Figure ​Figure1.1. Variation of HLB based on different oil mixtures.Results show that the influence of salmon oil is very important on the melting onset. In addition, interactions between rapeseed oil/salmon oil and miglyol/salmon oil are noticeable.We can increase emulsion stability by decreasing droplet size. In this study, the optimal size distribution is 130 ± 10 nm for an HLB of 12.5 ± 0.08.The distribution of droplet size is related to the polydispersity index (PdI). When this index is lower than 0.25, all droplets have a similar size [19]. Study results show an average PdI of 0.16 ± 0.046, indicating a good stability of the emulsions.For a nano-emulsion at 130 nm, the turbidity factor is about 9900 NUT (Nephelometric Turbidity Units) and appears correlated to the proportion of rapeseed oil present in the emulsion. In addition, we established we could decrease turbidity to 8000 NTU by increasing the proportion of miglyol in it.Using our mixture design, we arrived at the optimal point based on the following formulation:56.5% of rapeseed oil, 35.5% of miglyol, and 8% salmon oil. Table ​Table55 shows the calculated and experimental values of different characteristics of this emulsion: there is no significant difference between calculated and experimental values except in regards to turbidity.Table 5Experimental and calculated values of the different responseResponseModel valueExperimental valueSize (nm)136.38139.74 ± 1.09Mobility electrophoretic (μmcm/Vs)-3.56-4.90 ± 0.28Turbidity (NTU)1249316373 ± 200HLB11.5410.76 ± 1.02Melting onset (°C)-15.9-16.5 ± 0.93Open in a separate windowDroplet size analysisWe measured the particle sizes of different nano-emulsions stabilized by soya lecithin and tween 80, immediately after homogenizing. The minimum size that can be achieved generally depends on the viscosity of materials used and on applied homogenization parameters (number of cycles and pressure). In our study, the average droplet size was 143 nm and the polydispersity index was 0.16. To obtain a distribution of centered size, we had to perform five successive cycles of homogenization, hence demonstrating that the size of the nano-droplets depends not only upon such physical parameters as number of cycles and pressure, but also on oil composition and the surface-active properties of the soya lecithin used [20,21].Electrophoretic MobilityMeasurements of electrophoretic mobility vary between -3 and -4 μmcm/Vs with a relatively high stability of the formulations. It is mainly due to the fact that the lipophilic and hydrophilic characteristics of the two emulsifiers used in this study maintain the equilibrium between the positive and negative charges.TurbidityThe turbidity value stabilized at 6248 NTU in the case of emulsion no. 8. Results showed that turbidity depends upon the percentage of miglyol and rapeseed oil in the formulation.By increasing the amount of miglyol in the formulation, we observed a decrease in turbidity. Miglyol is fluid and transparent. The decrease in turbidity correlates with miglyol's fluidity and color characteristics.On the other hand, we observe an increase in turbidity in direct proportion with the quantity of rapeseed oil in emulsion formulation. This phenomenon is related to color and fluidity of the rapeseed oil.Finally, results showed that salmon oil had no influence on turbidity. Figure ​Figure22 shows the significant influence of rapeseed oil and miglyol on turbidity.Open in a separate windowFigure 2Variation of turbidity in function of oil type.Figure ​Figure2.2. Variation of turbidity in function of oil type.Rheological propertiesRheological properties of the oils were characterized. Measurements of the shear rate as a function of the shear stress are plotted for rapeseed oil. Curve slope and correlation coefficient are y = 0.017x+0.0003 and 0.99, respectively.We observed the same behavior for two other matrix (rapeseed oil and miglyol). Rheological properties of oils were determined using a Stress Tech Rheometer: they exhibited a Newtonian flow behavior.Rheological properties of the 13 emulsions were also characterized. We observed the same behavior for other systems, with a curve slope equal to y = 0.0468x-0.0095 and a correlation coefficient was 0.99. Results lead to the same conclusions and indicate a Newtonian flow behavior.These results suggest that tween 80 and soya lecithin do not affect the rheological properties of our emulsions.Calculation of the RHLB in oil phaseWe measured saponification and acid indexes and calculated the HLB of each oil phase using equation 2. Table ​Table66 shows results of saponification and acid indexes and balance lipophilic-hydrophilic (HLB) for rapeseed oil, salmon oil and soya lecithin. The HLB of the Miglyol 812 is 15.36 according to Macedo et al. [22].Table 6Results of saponification and acid indexes and balance lipophilic-hydrophilic (HLB) for rapeseed oil, salmon oil and soya lecithinExperimental resultsRapeseed oilSalmon oilSoya lecithinSaponification index215.98 ± 0.07201.96 ± 0.16215.98 ± 0.05Acid index151.47 ± 0.56112.20 ± 0.73280.50 ± 0.26Balance Lipophilic -Hydrophilic (HLB)8.5164.6Open in a separate windowData obtained are the average ± standard deviation in triplicate.Then RHLB values were calculated using equation 3. For an optimal emulsification, we must adjust the proportions of two emulsifiers, one with a lipophilic tendency (soya lecithin, HLB = 4.6), and the other with a hydrophilic tendency (tween 80, HLB = 15).Oil and emulsion characterization by DSCDue to the dispersion of triacylglycerols (TG) molecules in individual particles [23], crystallization in emulsion droplets and nanoparticles renders the process of nucleation and crystal growth, well-described for bulk phase, even more complex,. In this study, we observed the influence of lipid composition on crystallization and on melting behavior of TG molecules.Thermograms obtained during cooling and heating of bulk oil are presented in Table ​Table7,7, and the O/W emulsion samples in Figure ​Figure3.3. Analysis results show that, on one hand, the melting points of rapeseed and salmon oils are very close. On the other hand, salmon oil crystallization point sets at -18.7°C and that of rapeseed oil at -54.9°C (Table ​(Table7).7). These data point to the fact that salmon oil changes from liquid to solid state within a very narrow temperature range, near 5°C, while rapeseed oil and miglyol change from liquid to solid at 29°C and 28°C respectively. Considering the ratio between the areas of the peaks in relation with the corresponding amounts of energy released, and therefore with the amount of bulk and dispersed material, it is possible to follow the evolution of the emulsion in time [24].Table 7Results of melting and crystalization of used bulk oilsAnalyzed oil  Melting temperature (°C)  Cristallisation temperature(°C)Rapeseed oil  -25.3 ± 0.07  -54.9 ± 0.07Salmon oil  -24.7 ± 0.82  -18.7 ± 0.42Miglyol  -2.1 ± 0.35  -30.2 ± 0.28Open in a separate windowData obtained are the average ± standard deviation in triplicate.Open in a separate windowFigure 3DSC thermogram showing the crystallization and melting point of a W/O emulsion sample 7 (the red curve presents the melting point and blue curve presents the crystallization point).Figure ​Figure33 shows the evolution of experimental crystallization and melting temperatures determined for emulsion 7.Figure ​Figure33 DSC thermogram shows the crystallization and melting point of a O/W emulsion sample 7.We can observe that, for each formulation, melting and crystallization temperatures vary in proportion with both oil and emulsifier.Results show that the beginning of crystallization, represented by the onset on the graph, is close to the total crystallization of the matter. The variation in temperature between primary nucleation and total crystallization of the emulsion is limited: it is of 0.3°C on average. On the other hand, temperature variation is high for all components to reach total melting. It is necessary to use high levels of energy to maintain the emulsion in a state of total melting.Vanapalli et al. [25] performed a DSC study of the stability of O/W emulsions in food applications. They investigated the effect of oil type, dispersed oil volume fraction and cooling rate on the stability of emulsified. According to Clause et al. [24], the peak area of the thermogram is a revealing index of droplet size distribution: the narrower the area is, the smaller the particle size, and thus, the system polydispersity is lower than 0.25.Color measurementObjective color evaluation performed by reflectance spectrophotometry allows the computation of CIE tristimulus values (X, Y, Z) which can be mathematically transformed into co-ordinates describing color in a more intuitive and easier way [26]. These co-ordinates determine lightness (L*in the CIE L* a* b* or Y in xyY system) and chromaticity (a*, b*in the CIE L* a* b* system; and xy in the xyY system).Color is an important indication of product composition, purity, and degree of deterioration. It is a quick check on degradation, and on the suitability and stability of a product for a particular use [27]. In this study, we converted the Lab values to xyY using the CIE software, and then identified each oil color on a chromaticity diagram. Results show that Lovibond color is higher in salmon oil (x: 0.45; y: 0.34) than in rapeseed oil (x: 0.40; y: 0.46) and in miglyol (x: 0.33; y: 0.38).ConclusionNanotechnology is a rapidly expanding and potentially beneficial field with tremendous implications for society, industry, and medicine.Understanding nano-emulsification processes is of prime importance for the development of nanoparticulate systems. In the formulation of nano-cosmetics, homogenization appears to be the favored method of preparation of the cosmetic matrix in order to reduce the size of emulsion. The use of a mixture design approach appears to be a valuable tool in the investigation of real cosmetic matrix systems consisting of multiple ingredients, the proportions of which, in the mixture, are interrelated. Stable nano-emulsions containing an appropriate amount of emulsifiers were successfully formulated. Different physico-chemical properties of nano-emulsions were measured such as size distribution, mobility, electrophoretic mobility, HLB, turbidity and melting point. The optimal formulation was calculated using a Nemrod software according to these physico-chemical properties. This study indicates the influence of formulation on physico-chemical properties of each nano-emulsion obtained by the mixture design.Abbreviation(EPA): Eicosapentaenoic acid; (DHA): Docosahexaenoic acid; (PUFA): Polyunsaturated fatty acids; (LC-PUFA): Long-chain polyunsaturated fatty acids; (RHLB): Required hydrophilic-lipophilic balance; (CG): Gas chromatograph; (NEMROD): New Efficient Methodology for Research using Optimal Design; (HLB): Hydrophilic-lipophilic balance; (FAMEs): Fatty acid methyl esters; (DTS): Dispersion technology software; (RI): Refractive index; (DSC): Differential Scanning Calorimetry; (PdI): Polydispersity index; (NUT): Nephelometric Turbidity Units; (TG): triacylglycerols.Competing interestsThe authors declare that they have no competing interests.Authors' contributionsTHK and NB performed all necessary experiments and analyzed the data collected. EAT and ML validated the mixture design and data. EAT drafted the manuscript. All authors read and approved the final manuscript.AcknowledgementsThis work was supported by National Association of Research and Technology (France).ReferencesLavilla I, Cabaleiro N, Costas M, de la Calle I, Bendicho C. Utrasound-assisted emulsification of cosmetic samples prior to elemental analysis by different atomic spectrometric techniques. Talanta. 2009;80:109–116. doi: 10.1016/j.talanta.2009.06.036. [PubMed] [CrossRef] [Google Scholar]Salvador A, March JG, Vidal MT, Chisvert A, Balaguer A.  In: Analysis of Cosmetic Products. 1. Elsevier, editor. UK: Oxford; 2007. General overview on analytical methods for cosmetic ingredients; pp. 72–82. [Google Scholar]Guglielmini G. Nanostructured novel carrier for topical application. Clinical Dermatology. 2008;26:341–346. [PubMed] [Google Scholar]Al-Edresi S, Baie S. Formulation and stability of whitening VCO-in-water nano-cream. Pharmaceutical Nanotechnology. 2009;373:174–178. [PubMed] [Google Scholar]Porras M, Solans C, González C, Martínez A, Guinart A, Gutierrez JM. Studies of formation of W/O nano-emulsion. Colloids and Surfaces A: physicochemical and Engineering Aspect. 2004;249:115–118. doi: 10.1016/j.colsurfa.2004.08.060. [CrossRef] [Google Scholar]Sagalowicz L, Leser ME. Delivery systems for liquid food products. Current Opinion in Colloid and Interface Science. 2010;15:61–72. doi: 10.1016/j.cocis.2009.12.003. [CrossRef] [Google Scholar]Tadros T, Izquierdo P, Esquena J, Solans C. Formation and stability of nanoemulsions. Advances in Colloid and Interface Science. 2004;108-109:303–318. [PubMed] [Google Scholar]Sonneville-Aubrun O, Simonnet JT, L'Allonet F. Nanoemulsions: a new vehicle for skincore products. Advances in Colloid and Interface Science. 2004;108-109:145–149. [PubMed] [Google Scholar]Ziboh VA, Miller CC, Cho Y. Metabolism of polyunsaturated fatty acids by skin epidermal enzymes: generation of anti-inflammatory and antiproliferative metabolites. American Journal of Clinical Nutrition. 2000;71:3615–3665. [PubMed] [Google Scholar]Belhaj N, Arab Tehrany E, Linder M. Oxidative kinetics of salmon oil in bulk and in nanoemulsion stabilized by marine lecithin. Process Biochemistry. 2010;45:187–195. doi: 10.1016/j.procbio.2009.09.005. [CrossRef] [Google Scholar]Gbogouri GA, Linder M, Fanni J, Parmentier M. Analysis of lipids extracted from salmon (salmo salar) heads by commercial proteolytic enzymes. European Journal of Lipid Science and Technology. 2006;108:766–775. doi: 10.1002/ejlt.200600081. [CrossRef] [Google Scholar]Linder M, Matouba E, Fanni J, Parmentier M. Enrichment of salmon oil with n - 3 PUFA by lipolysis, filtration and enzymatic re-esterification. European Journal of Lipid Science and Technology. 2002;104:455–62. doi: 10.1002/1438-9312(200208)104:8<455::AID-EJLT455>3.0.CO;2-Q. [CrossRef] [Google Scholar]Mathieu D, Phan-Than-Luu R. Laboratoire de prospective réactionnelle et d'analyse de l'information (LPRAI) Université d'Aix-Marseille. NEMROD®: New efficient methodology for research using optimal design. 2002. Cornell JA.  Experiments with mixtures. New York: John Wiley and Sons; 1990.  [Google Scholar]Griffin WC. Classification of surface-active agents by « HLB » Journal of Society of Cosmetic Chemists. 1948. pp. 311–326.AOAC. Official methods of analysis. 17. Washington: Association of Official Agricultural Chemists; 1997.  [Google Scholar]Ackman RG. Laboratory preparation of conjugated linoleic acids. Journal of the American Oil Chemists' Society. 1998;75:541–5. doi: 10.1007/s11746-998-0263-9. [CrossRef] [Google Scholar]Windsor M, Barlow S.  Introduction to the Fishing Products. Zaragosa Spain: Acribia Publishing House; 1984. pp. 99–109. [Google Scholar]Yilmaz E, Brochet HH. Design of a phytosphingosine-containing, positively-charged nanoemulsion as a colloidal carrier system for dermal application of ceramides. European Journal of Pharmaceutics and Biopharmaceutics. 2005;60:91–98. doi: 10.1016/j.ejpb.2004.11.009. [PubMed] [CrossRef] [Google Scholar]Osborn HT, Akoh CC. Effect of emulsifier type, droplet size, and oil concentration on lipid oxidation in structured lipid-based oil-in-water emulsions. Food Chemistry. 2004;84:451–6. doi: 10.1016/S0308-8146(03)00270-X. [CrossRef] [Google Scholar]Lethuaut L, Métro F, Genot C. Effect of droplet size on lipid oxidation rates of oil-in-water emulsions stabilized by protein. Journal of the American Oil Chemists' Society. 2002;79:425–530. doi: 10.1007/s11746-002-0500-z. [CrossRef] [Google Scholar]Macedo JPF, Fernandes LL, Formiga FR, Reis MF, Nagashima T, Soares LAL, Egito EST. Micro-emultocrit technique: a valuable tool for determination of critical HLB value of emulsions. AAPS Pharm- SciTech. 2006;7:E1–E7. [PMC free article] [PubMed] [Google Scholar]Lopez C, Ollivon M. Crystallisation of triacylglycerols in nanoparticles. Journal of Thermal Analysis and Calorimetry. 2009;98:29–37. doi: 10.1007/s10973-009-0183-4. [CrossRef] [Google Scholar]Clausse D, Gome F, Pezron I, Komunjer L, Dalmazzone C. Morphology characterization of emulsions by differential scanning calorimetry. Advances in Colloid and Interface Science. 2005;117:59–74. doi: 10.1016/j.cis.2005.06.003. [PubMed] [CrossRef] [Google Scholar]Vanapalli SA, Palanuwech J, Coupland JN. Stability of emulsions to dispersed phase crystallization: Effect of oil type, dispersed phase volume fraction, and cooling rate. Colloids and Surfaces. A Physicochemical and Engineering Aspects. 2002;204:227–237. doi: 10.1016/S0927-7757(01)01135-9. [CrossRef] [Google Scholar]Giese J. Measuring physical properties of foods. Food Technology. 1995. pp. 54–63.Tan Y, Kuntom A, Lee CK, Low KS. Method and apparatus for detection of color of liquids. 2003.  Malaysian Patent Application. No. PI 2003 1840.Articles from Journal of Nanobiotechnology are provided here courtesy of BioMed Central
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (699K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

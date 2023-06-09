@@ -1,0 +1,845 @@
+Document Name: role of Sunflower Oil in Protective Cream4
+Document link: https://bmcpediatr.biomedcentral.com/articles/10.1186/s12887-019-1871-2
+
+
+
+
+
+
+
+Impact of sunflower seed oil versus mustard seed oil on skin barrier function in newborns: a community-based, cluster-randomized trial | BMC Pediatrics | Full Text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+                                        Explore journals
+                                    
+
+
+
+                                        Get published
+                                    
+
+
+
+                                        About BMC
+                                    
+
+
+
+                                My account
+                            
+
+
+
+
+
+
+
+
+
+
+
+Search all BMC articles
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BMC Pediatrics
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+About
+
+
+Articles
+
+
+Submission Guidelines
+
+
+Collections
+
+
+
+Submit manuscript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Impact of sunflower seed oil versus mustard seed oil on skin barrier function in newborns: a community-based, cluster-randomized trial
+                        
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+Research article
+
+Open Access
+
+Published: 23 December 2019
+
+Impact of sunflower seed oil versus mustard seed oil on skin barrier function in newborns: a community-based, cluster-randomized trial
+Aimee Summers1, Marty O. Visscher2, Subarna K. Khatry1,3, Jeevan B. Sherchand4, Steven C. LeClerq1, Joanne Katz1, James M. Tielsch5 & …Luke C. Mullany 
+            ORCID: orcid.org/0000-0003-4668-98031 Show authors
+
+BMC Pediatrics
+volume 19, Article number: 512 (2019)
+            Cite this article
+
+
+
+
+4332 Accesses
+
+
+16 Citations
+
+
+10 Altmetric
+
+
+Metrics details
+
+
+
+
+AbstractBackgroundNatural vegetable oils are widely used for newborn massage in many low resource settings. Animal models indicated that sunflower seed oil (SSO) can accelerate skin barrier recovery following damage, while other oils, including mustard oil (MO), may cause further skin barrier damage. The objective was to compare the effects of two SSO and MO used for routine massage on skin integrity in premature and full-term neonates.MethodsThis community-based cluster randomized controlled trial included 995 neonates assigned to full body massage with sunflower seed oil (SSO, intervention) or mustard seed oil (MO, standard practice) from July 2012–May 2014 in Sarlahi, Nepal. Skin integrity measures were evaluated over 28 days, including skin condition (erythema, rash, dryness), skin surface pH, stratum corneum (SC) cohesion/protein concentration, and transepidermal water loss (TEWL). Overall means and rates of change in these skin measures were compared between oil groups using bivariate random-effects models.Results500 and 495 live born neonates received repeated massage with MO and SSO, respectively. Skin pH decreased more quickly for SSO than MO in the first week of life, with a difference in mean daily reductions of 0.02 (95% CI: 0.002–0.040). Erythema, rash and dryness increased (worsened) over days 1–14 then decreased by day 28, with no significant oil group differences. TEWL increased over time, with no significant oil group differences. Gestational age did not modify the effect; the slightly faster decrease in skin pH among SSO infants was similar in magnitude between term and preterm infants.ConclusionsOil type may contribute to differences in skin integrity when neonates are massaged regularly. The more rapid acid mantle development observed for SSO may be protective for neonates in lower resource settings.Trial registrationClinicalTrials.gov (NCT01177111); registered August 6th, 2010.
+
+
+Peer Review reports
+
+BackgroundNeonatal stratum corneum (SC) and epidermis provide robust innate immunity in addition to antimicrobial defense, protection from ultraviolet radiation, water loss, injury, and thermoregulation [1, 2]. The premature infant skin barrier is underdeveloped, thereby creating risks for increased permeability, skin damage, delayed barrier maturation, and infection [3, 4]. In low resource settings, where the majority of neonatal deaths occur [5, 6], skin care based interventions have emerged as important strategies in improving survival, especially among low birth weight babies and those born preterm. In particular, given widespread use of natural vegetable oils for newborn massage in many low resource settings, interest in emollient therapy remains high. Animal models have shown that sunflower seed oil (SSO) can accelerate skin barrier recovery following damage, while other oils, including mustard oil (MO), cause further barrier damage [7]. The lipid profile of SSO may enhance skin barrier integrity and function by providing 1) a physical barrier to infectious agents, 2) essential SC fatty acids and 3) linoleic acid that may reduce epidermal inflammation [7]. Hospital-based studies have demonstrated improved skin condition scores, reductions in nosocomial infections, and improved survival among preterm infants receiving applications of SSO [8, 9]. Such results provided strong rationale for evaluating this intervention in a community setting, such as Nepal, where almost half of deliveries occur at home [10]. Newborns in Nepal are routinely massaged with MO several times daily throughout the neonatal period and beyond [11]. The vigorous, lengthy massages might increase transcutaneous acquisition of invasive environmental pathogens, particularly among preterm infants whose skin barrier is underdeveloped and fragile [12]. Compromised barrier function occurs with nutritional deficiencies that are common to the region [13]. We previously described skin barrier function and integrity indicators among preterm and full term infants massaged routinely with MO in rural communities of Sarlahi District, Nepal [14]. We observed that skin rash and erythema increased (worsened) until day 14 then decreased by day 28. Dynamics of skin pH reduction over 28 days for all infants reflected skin barrier maturation, but this process was delayed among preterm infants. Here we quantify differences in skin barrier integrity and maturation between newborns randomly assigned to routine massage with MO or SSO over the first postnatal month.MethodsSetting and parent trialOur cluster-randomized study was nested within a larger trial (ClinicalTrials.gov, NCT01177111) of the impact of topical skin emollient application on newborn mortality and morbidity in Sarlahi District, Nepal. In that parent trial, field workers identified incident pregnancies through universal five-weekly home visits, enrolled pregnant women, and followed them through delivery and the first month post-partum. Visits at enrollment and during monthly pregnancy visits allowed for collection of household socioeconomic status, paternal and maternal demographic variables, prior birth history, and care-seeking and morbidity during pregnancy. Post-delivery home visits started as soon as possible (i.e. day 1), and continued on days 3, 7, 10, 14, 21, and 28. On day 1, data collectors recorded the circumstances of labor, delivery, and immediate postpartum care, inquired about infant health since delivery, and measured weight (BD-585 Pediatric Scale [10 g precision], Tanita Corporation of America, Arlington Heights, IL). At subsequent visits workers collected maternal reports of infant morbidities and examined babies for signs of infection.Intervention and randomizationCommunities in the larger trial were randomized to either promotion of full-body topical applications (“newborn massage”) with SSO (intervention) or the MO (comparison), traditionally practiced in Nepal almost universally [11]. The study area encompassed 34 village development committees (VDC, a government defined unit), further divided by our team into “clusters” (unit of randomization) based on population. For clusters with prior neonatal death data, restricted randomization was performed to ensure balance on mortality risk. The remaining clusters were randomized with a computerized quasi-random number generator by author LCM prior to trial initiation. Blinding of field workers and mothers was not possible given the distinct colors and smells of MO and SSO. Both oils were purchased (Shiv Shakti Ghee Udyhog Pvt. Ltd., Jitpur, Nepal) approximately every 4–6 weeks and stored in sealed half-liter plastic packets at room temperature at site headquarters. Samples were submitted to the Government of Nepal Food Inspection Laboratory (Hetauda, Makwanpur District, Nepal) for quality assurance. In late pregnancy (~ 28–32 weeks), field workers visited enrolled women to promote the use of either SSO or MO and provide a 100 ml bottle of oil with instruction to initiate full body massage using the provided oil as soon as possible after birth. During week one, field workers visited daily to promote oil use and resupply households with 500 ml bottles on days 1, 10, and 21.Design of Current StudyOur study was nested within the larger trial, as previously described [14]. A subset of newborns based on geographic area, gestational age (GA) and timing of the first postnatal visit were enrolled on day 1. We chose a subset of 9 VDCs close to our main field office to maintain a cold chain for specimens. All preterm and a randomly selected 20% sample of term infants born alive between July 2012 and May 2014, and met by field workers before age 48 h were eligible. This down-sampling of term infants was to achieve a ratio of term/preterm infants closer to unity, increasing power to explore if GA modified the relationship between oil choice and skin integrity.Measurement methodsAfter obtaining informed consent from mothers for infant participation, a specialized field worker team collected data on days 1, 3, 7, 14, and 28 [14]. They used validated scoring scales for erythema, rash and dryness to assess skin condition at the chest, right arm, and left leg (Additional file 1: Table S1) [15, 16]. After four training days, field workers’ scores from photographs were compared to an expert (author MOV) with a kappa of 0.88. During implementation, their scores were periodically compared to an investigator (author AS) with an agreement of 95%. Transepidermal water loss (TEWL, g/m2/h), relative humidity and temperature were measured using a closed chamber device (VapoMeter, Delfin Technologies, Kuopio, Finland) [17]. Three chest skin pH measurements (Skincheck, Hanna Instruments, Bedfordshire, UK) were averaged. Chest SC cohesion was determined as protein concentration from 380 mm2 D-Squame discs (CuDerm, Dallas, TX, USA). Protein concentration was quantified as optical density (SquameScan 850A (Heiland electronic, Wetzlar, Germany) [18].Statistical analysisWe aimed to enroll 1000 infants equally stratified by preterm (< 37 weeks) and full term to detect differences in skin scores, skin pH, TEWL, and protein concentrations of 0.5 with 71–100% power for standard deviations of 1.0–2.5. Analyses were conducted using Stata v15 (College Station, TX). Biologically implausible outliers (TEWL > 100 g/m2/hr. and skin pH > 8 and < 3) were removed as being due to a confounding biological process (e.g. perspiration rather than TEWL) [14].Maternal, paternal, and newborn characteristics (sex, GA, birthweight, small for gestational age status, time to breastfeeding initiation, time between the first visit and the most recent massage, and the number of massages per day during the first week) were examined by group to assess randomization balance. Visit-specific ambient temperature and relative humidity were converted to heat index [19, 20]. Means and standard deviations of all skin measures per visit were compared between oil groups using bivariate random-effects models, accounting for clustering and repeated measures. Locally weighted scatterplot smoothing curves were created to show the changes of skin barrier integrity measures over time for each oil group. We conducted sub-group analyses stratified by GA (full-term ≥37 weeks, late preterm 34–36 weeks, early preterm < 34 weeks). Analyses followed an intention-to-treat approach for participating infants, regardless of the actual allocation to, provision of, or compliance with study-provided oils. Infants who missed visits were not included in the analyses for that visit, but were included in analyses if met on future visits.Ethical approvalThe Ethical Review Committee of the Institute of Medicine, Tribhuvan University (Kathmandu, Nepal) and the Institutional Review Board of the Johns Hopkins Bloomberg School of Public Health (Baltimore, MD) approved the study. Mothers provided verbal consent for their infant’s participation.ResultsBetween July 23rd 2012 and May 18th, 2014, 702 (a 20% random sub-sample of 3511) full term and 551 preterm live born infants were potentially eligible (Fig. 1). Of these, 253 (20.2%) were not visited before age 48 h and 5 (0.4%) died prior to the field worker’s arrival. Among the 1000 thus recruited, 5 (0.4%) mothers declined their infant’s participation, leaving 995 participating infants (500 and 495 in the MO and SSO groups, respectively). Three hundred ninety-four (78.8%) and 395 (79.8%) infants (MO and SSO groups, respectively) completed the 28-day follow-up. For SSO and MO, 11 (2.2%) and 10 (2.0%) infants died and 67 (13.5%) and 74 (14.8%) moved out of the study area prior to age 28 days, respectively.
+Fig. 1Participant Flowsheet. For SSO and MO, 11 (2.2%) and 10 (2.0%) infants died and 67 (13.5%) and 74 (14.8%) moved out of the study area prior to age 28 days, respectivelyFull size imageHousehold, maternal and newborn characteristics were well-balanced (Table 1) between oil groups, with similar proportions of males and females, preterm and term babies, low birthweight, and small-for-gestational age (SGA) in each group. The prevalence of low birthweight and SGA infants was 36.4 and 45.6%, respectively, and comparable to the general Nepali population [21]. The proportion of preterm infants was slightly higher for MO (40.9%) versus SSO (39.7%). Massage frequencies during week one were similar (4.6 and 4.2 per day for MO and SSO, respectively). Compliance with oil application and massage was 100%. Compliance was measured if the infant had been massaged with the correct oil for the intervention group they were assigned. Relative humidity was over 80% (mean 75.1% ± 13.2%, range 10% (n = 3) to 100% (n = 5)) for 45.6% of 2301 home visits. Mean temperature and heat index were 30.0 °C (±4.5) and 33.6 °C (±9.0), respectively. There were no differences in skin infections by oil group.
+Table 1 Baseline household, maternal, and newborn characteristics of neonates by oil groups, Sarlahi, NepalFull size tableSkin condition scoresAt the initial visit, skin erythema, rash, and dryness scores did not differ between by group (Table 2) and followed a similar dynamic for both MO and SSO over the first 28 days). For both oils, scores increased (worsened) over days 1–14 followed by some improvement by day 28 (Fig. 2, chest). Rash was not present at birth, increased rapidly to day 14, then decreased. Erythema was seen at birth (day 1), increased to day 14 then decreased. Very little dryness was observed. Scores were comparable for chest, arm and leg sites and trends were similar by gestational age.
+Table 2 Skin barrier integrity measures of neonates at five time points during the neonatal period, Sarlahi, NepalFull size table
+Fig. 2Lowess curves of change in chest skin condition throughout the neonatal period by oil group, Sarlahi, NepalFull size imageSkin pH, SC cohesion, and TEWLAt day 1, skin pH (6.1, 95% CI 6.05–6.14 [MO]; 6.2, 95% CI 6.15–6.28 [SSO]) and protein concentration (16.6 μg/cm2, 95% CI 15.9–17.3 [MO]; 17.8 μg/cm2, 95% CI 17.1–18.6 [SSO]) were significantly higher in the SSO group (Table 2); TEWL did not differ by group at baseline. The baseline differences in pH and protein concentration may be attributable to variances in environmental conditions on that day, time from birth, or dissimilarities in GA distribution. Treatment assignment could not practically include baseline values for stratification.Mean pH decreased faster (i.e., maturation), 0.02 (95% CI 0.002–0.04) units per day more quickly, for SSO versus MO during the first week of life; there was not a significant difference in rate of decrease of pH in weeks 2–4 (Fig. 3). SC protein was higher for SSO at day 28 (i.e. versus day 14) and was significantly higher than MO [13.5 μg/cm2, 95% CI 12.8–14.1 (MO); 14.8 μg/cm2 95% CI 14.1–15.4 (SSO)] (Table 2). TEWL increased significantly over time for both oils but did not differ between them (Fig. 3).
+Fig. 3Lowess curves of the changes in TEWL, Skin pH, and SC protein concentration throughout the neonatal period, Sarlahi, NepalFull size imageEffect of oil treatment by gestational age group (Table 3)Infants 34–36 weeks receiving SSO had a 0.14 (95% CI 0.024–0.25) higher average skin pH over 28 days than those with MO, but the rate of decrease in pH (i.e. maturation), which was higher in SSO infants overall, was not modified by gestational age. Infants 34–36 weeks and term infants receiving SSO had higher SC protein compared with MO; mean difference (i.e. increase in SSO group) was 1.27 μg/cm2 [95% CI: 0.33–2.21]) and 0.83 μg/cm2 (0.16–1.50) higher for SSO versus MO, respectively. Skin erythema, rash and TEWL did not differ by gestational age.
+Table 3 Bivariate random-effects model comparing skin integrity measures throughout the entire study period by oil group, Sarlahi, NepalFull size tableDiscussionWe compared the effects of emollient therapy with MO and SSO on neonatal skin barrier integrity in community settings of rural Nepal. Unlike prior work in this domain, we included both preterm and full-term infants, enrolled infants from birth and followed them prospectively through 28 days, and observed the impact of these emollients on skin barrier function and integrity at home in high relative humidity and temperature conditions. The emollient therapy involved consistent repetitive, daily, high frequency oil exposure with 4.2 (SSO) and 4.6 (MO) vigorous massages each day. This is in contrast to the hospital studies where SSO was applied 3 times daily for 14 days then twice daily until day 28 [9, 22].Relative to traditional MO, use of SSO increased the rate of skin pH reduction during week one of life, suggesting a faster acid mantle development. The more rapid pH decrease for SSO may be protective for neonates in lower resource settings. An acidic environment is required for lipid metabolism, bilayer structure formation, desquamation, bacterial homeostasis, skin colonization, and inhibition of pathogenic bacteria [23,24,25,26,27]. The more rapid pH decrease with SSO, suggests that the pH decrease may favorably impact barrier normalization [28]. The influence of exogenous materials on adaptive mechanisms has been reported; treatment with peroxisome proliferator-activated receptor alpha (PPARα) activators increased the rate of skin pH lowering in neonatal animals [29]. Topical acidic treatments has been proposed for treating inflammation and normalizing SC structure [30].For both groups, TEWL was higher (mean, 33.2–43.0 g/m2/hr) than in prior studies, with increasing water losses through the first three weeks. TEWL has largely been examined in controlled settings [31,32,33,34] with substantially lower humidity and temperature than our setting. Our higher, increasing TEWL may reflect eccrine gland maturation and/or water loss due to sweating. The increases may be due to skin compromise, i.e., rash, erythema. Determination of the effects of the oils alone, total daily oil exposure, the massage process or the combination of oil with massage would require a different experimental design than we used here. In preterm infants (n = 22) receiving sunflower oil massage at high daily frequency (every 3–4 h) from birth, TEWL increased significantly over 11 days but decreased when application was discontinued [35]. In our community, where daily massage with oil is nearly universal and the focus on comparing SSO with MO, we cannot determine whether TEWL values might have been lower or decreased upon discontinuing massage in a group of babies unexposed to either oil. TEWL decreased following three times weekly SSO application in full-term neonates (n = 24) over 5 weeks [36] but exposures were substantially lower than in our study.Regardless of oil exposure, skin condition (especially rash) worsened through the first two weeks before decreasing in severity. However, we rarely observed any skin dryness or scaling, even in infants < 34 weeks, unlike the Bangladesh hospital-based emollient trial where skin dryness occurred in 59% of infants < 33 weeks gestational age [37]. Our contrasting finding may result from the high relative humidity, consistently between 80 and 95%, an optimal range for filaggrin proteolysis to natural moisturizing factor that can increase skin hydration [38]. In contrast with the Bangladesh trial, where preterm infants (GA: 31.2 wks) received topical SSO experienced improved skin condition versus no massage, we did not detect improvements, even among our youngest category. Our generally better skin condition, compared to the Bangladesh study where 59% of the subjects (premature infants only) had skin dryness or erythema [37] may account our lack of measurable improvements with SSO. In addition, as the worsening of skin condition during the first two weeks occurred in both oil groups and as we were unable to include a control group in this study for comparison, it is possible this could have been due to the use of oil or massage itself.We hypothesized that the impact of SSO on skin barrier function might be modified by gestational age; specifically, we considered the possibility that any beneficial effects, such as those we observed overall on rate of skin pH decline, might be limited to or realized to a greater degree among preterm infants, given that younger preterm infants are most vulnerable to the consequences of an under-developed barrier, e.g., infection. Further, we previously reported that in this setting among babies exposed to traditional MO massage, skin pH was significantly higher for those < 34 weeks relative to older infants. There was no clear evidence, however, of consistently stronger effects of SSO by gestational age; in general, TEWL, skin pH, and skin condition in the SSO group relative to MO group did not differ by gestational age. The faster (i.e. unit decrease per day) decrease in pH among SSO infants was modest, and we did not find any evidence that this observed effect varied by gestational age. While the mean SC protein amounts were higher in the older preterm and full term SSO infants, suggesting possible increased desquamation among this group, the difference between the groups was small. For both oils and all gestational ages protein measures decreased over time, and the rate of decrease differed neither overall or within gestational age category. Further studies are needed to discern the specific mechanisms of barrier development in the youngest infants over time.While a large sample size, oversampling of preterm infants, and repeated measures of skin integrity and function over the neonatal period were strengths, our study has a number of limitations. We did not have a group of babies not exposed to oil and/or massage, a group which might have provided further insights into potential advantages or disadvantages of oil massage. While such information may have provided additional insight into the mechanism of the oils, the parent study was examining if substituting sunflower seed oil for the traditionally-utilized mustard seed oil could lead to health benefits without introducing a major behavioral change to an important cultural practice [11]. Our population included premature infants. However, there were a small number (n = 14) of extremely premature infants (< 29 weeks) and preterms < 32 weeks GA (n = 54), thereby limiting the ability to discern emollient differences in the most underdeveloped skin. Strategies to facilitate barrier development in very premature babies are relevant in intensive care settings, and additional research is warranted. TEWL, one of our skin barrier integrity measures, is recommended for use in controlled conditions with low humidity [39, 40]. Any true benefit of SSO on TEWL might have been obscured in our high humidity conditions, through concomitant effects of sweating. Finally, given the constraints of the setting, we used reported date of last menstrual period, rather than ultrasound dating, resulting in some possible misclassification of gestational age [41].ConclusionsThe application of topical emollients for preterm and full-term infants continues to be investigated worldwide. These data provide information about how different oils may facilitate skin barrier development and, thereby, protect infants in low resource, high humidity settings. These data and those from other studies further examining these mechanisms in a variety of settings and with different emollient regimens can help guide the development and/or section of more effective treatments. Emollients have been used to facilitate skin maturation in premature infants in hospital and rural settings, potentially lowering risk of life-threatening infections. Most recently, they have demonstrated potential to reduce the incidence of atopic dermatitis when administered right after birth [42, 43]. The present study adds knowledge by examining the mechanistic basis for the effect of emollient therapy on skin barrier function, and highlighting the role of environmental conditions such as relative humidity and temperature and cultural practices such as multiple daily emollient application with vigorous massage. The specific emollient composition likely impact the outcomes, suggesting the importance of identifying the characteristics of optimum topical treatments across conditions, such as atopic dermatitis where specific skin barrier anomalies are implicated in the disease process [44]. Overall, research on how topical emollients influence the infant skin barrier remains inconclusive, and future studies, e.g., on specific biomarkers of innate immunity, could clarify some inconsistencies. Investigations on blockage of eccrine glands by topical oils and influence skin microflora in these settings are warranted. Finally, the effects of the repetitive vigorous massage itself, regardless of oil might be used remains an under-studied aspect of emollient therapy research, particularly among younger premature infants for whom skin barrier maturation is incomplete.
+Availability of data and materials
+The datasets used and analyzed for this study are available from the corresponding author upon request.
+AbbreviationsCI:
+Confidence Interval
+GA:
+Gestational age
+MO:
+Mustard seed oil
+PPARα:
+Peroxisome proliferator activated receptor alpha
+SC:
+Stratum corneum
+SGA:
+Small for gestational age
+SSO:
+Sunflower seed oil
+TEWL:
+Trans-epidermal water loss
+VDC:
+Village development committee
+ReferencesDarmstadt GL, Dinulos JG. Neonatal skin care. Pediatr Clin N Am. 2000;47(4):757–82.Article 
+    CAS 
+    
+                    Google Scholar 
+                Visscher MO, Adam R, Brink S, Odio M. Newborn infant skin: physiology, development, and care. Clin Dermatol. 2015;33(3):271–80.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Evans NJ, Rutter N. Development of the epidermis in the newborn. Biol Neonate. 1986;49(2):74–80.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Cartlidge P. The epidermal barrier. Semin Neonatol. 2000;5(4):273–80.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Lawn JE, Cousens S, Zupan J. 4 million neonatal deaths: when? Where? Why? Lancet. 2005;365(9462):891–900.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Belizan JM, McClure EM, Goudar SS, Pasha O, Esamai F, Patel A, Chomba E, Garces A, Wright LL, Koso-Thomas M, et al. Neonatal death in low- to middle-income countries: a global network study. Am J Perinatol. 2012;29(8):649–56.Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Darmstadt GL, Mao-Qiang M, Chi E, Saha SK, Ziboh VA, Black RE, Santosham M, Elias PM. Impact of topical oils on the skin barrier: possible implications for neonatal health in developing countries. Acta Paediatr. 2002;91(5):546–54.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Darmstadt GL, Saha SK, Ahmed AS, Ahmed S, Chowdhury MA, Law PA, Rosenberg RE, Black RE, Santosham M. Effect of skin barrier therapy on neonatal mortality rates in preterm infants in Bangladesh: a randomized, controlled, clinical trial. Pediatrics. 2008;121(3):522–9.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Darmstadt GL, Saha SK, Ahmed AS, Chowdhury MA, Law PA, Ahmed S, Alam MA, Black RE, Santosham M. Effect of topical treatment with skin barrier-enhancing emollients on nosocomial infections in preterm infants in Bangladesh: a randomised controlled trial. Lancet. 2005;365(9464):1039–45.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Ministry of Health N, ERA N, ICF. Nepal Demographic and Health Survey 2016. In: Kathmandu, Nepal: Ministry of Health , Nepal; 2017.
+                    Google Scholar 
+                Mullany LC, Darmstadt GL, Khatry SK, Tielsch JM. Traditional massage of newborns in Nepal: implications for trials of improved practice. J Trop Pediatr. 2005;51(2):82–6.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Eichenfield LF, Hardaway CA. Neonatal dermatology. Curr Opin Pediatr. 1999;11(5):471–4.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Darmstadt GL. The skin and nutritional disorders in the newborn. Eur J Pediatr Dermatol. 1998;4:221–8.
+                    Google Scholar 
+                Summers A, Visscher MO, Khatry SK, Sherchand JB, LeClerq SC, Katz J, Tielsch JM, Mullany LC. Indicators of skin barrier integrity among newborns massaged with mustard oil in rural Nepal. J Perinatol. 2018;38(1):64–70.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Lukacovic M, Dunlap RE, Visscher MO, Watson DD. Forearm wash test to evaluate the clinical mildness of cleansing products. J Soc Cosmet Chem. 1988;39:355–66.
+                    Google Scholar 
+                Odio MR, O'Connor RJ, Sarbaugh F, Baldwin S. Continuous topical administration of a petrolatum formulation by a novel disposable diaper. 2. Effect on skin condition. Dermatology. 2000;200:238–43.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                De Paepe K, Houben E, Adam R, Wiesemann F, Rogiers V. Validation of the VapoMeter, a closed unventilated chamber system to assess transepidermal water loss vs. the open chamber Tewameter. Skin Res Technol. 2005;11(1):61–9.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Voegeli R, Rawlings AV, Doppler S, Heiland J, Schreier T. Profiling of serine protease activities in human stratum corneum and detection of a stratum corneum tryptase-like enzyme. Int J Cosmet Sci. 2007;29(3):191–200.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Rothfusz LP. The Heat Index “Equation” (or, More Than You Ever Wanted to Know About Heat Index). In: Fort Worth, TX:National Oceanic and Atmospheric Administration: National Weather Service, Office of Meteorology; 1990.
+                    Google Scholar 
+                Steadman RG. The assessment of sultriness. Part I: a temperature-humidity index based on human physiology and clothing science. J Appl Meteorol. 1979;18(7):861–73.Article 
+    
+                    Google Scholar 
+                Katz J, Wu LA, Mullany LC, Coles CL, Lee AC, Kozuki N, Tielsch JM. Prevalence of small-for-gestational-age and its mortality risk varies by choice of birth-weight-for-gestation reference population. PLoS One. 2014;9(3):e92074.Article 
+    PubMed 
+    PubMed Central 
+    CAS 
+    
+                    Google Scholar 
+                Darmstadt GL, Badrawi N, Law PA, Ahmed S, Bashir M, Iskander I, Al Said D, El Kholy A, Husein MH, Alam A, et al. Topically applied sunflower seed oil prevents invasive bacterial infections in preterm infants in Egypt: a randomized, controlled clinical trial. Pediatr Infect Dis J. 2004;23(8):719–25.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Aly R, Shirley C, Cunico B, Maibach HI. Effect of prolonged occlusion on the microbial flora, pH, carbon dioxide and transepidermal water loss on human skin. J Invest Dermatol. 1978;71(6):378–81.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Fluhr JW, Kao J, Jain M, Ahn SK, Feingold KR, Elias PM. Generation of free fatty acids from phospholipids regulates stratum corneum acidification and integrity. J Invest Dermatol. 2001;117(1):44–51.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Puhvel SM, Reisner RM, Amirian DA. Quantification of bacteria in isolated pilosebaceous follicles in normal skin. J Invest Dermatol. 1975;65(6):525–31.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Rippke F, Schreiner V, Schwanitz HJ. The acidic milieu of the horny layer: new findings on the physiology and pathophysiology of skin pH. Am J Clin Dermatol. 2002;3(4):261–72.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Schmid-Wendtner MH, Korting HC. The pH of the skin surface and its impact on the barrier function. Skin Pharmacol Physiol. 2006;19:296–302.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Elias PM. The how, why and clinical importance of stratum corneum acidification. Exp Dermatol. 2017;26(11):999–1003.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Fluhr JW, Man MQ, Hachem JP, Crumrine D, Mauro TM, Elias PM, Feingold KR. Topical peroxisome proliferator activated receptor activators accelerate postnatal stratum corneum acidification. J Invest Dermatol. 2009;129(2):365–74.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Hachem JP, Roelandt T, Schurer N, Pu X, Fluhr J, Giddelo C, Man MQ, Crumrine D, Roseeuw D, Feingold KR, et al. Acute acidification of stratum corneum membrane domains using polyhydroxyl acids improves lipid processing and inhibits degradation of corneodesmosomes. J Invest Dermatol. 2010;130(2):500–10.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Garcia Bartels N, Mleczko A, Schink T, Proquitte H, Wauer RR, Blume-Peytavi U. Influence of bathing or washing on skin barrier function in newborns during the first four weeks of life. Skin Pharmacol Physiol. 2009;22(5):248–57.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Garcia Bartels N, Scheufele R, Prosch F, Schink T, Proquitte H, Wauer RR, Blume-Peytavi U. Effect of standardized skin care regimens on neonatal skin barrier function in different body areas. Pediatr Dermatol. 2010;27(1):1–8.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Minami-Hori M, Honma M, Fujii M, Nomura W, Kanno K, Hayashi T, Nakamura E, Nagaya K, Miyauchi Y, Fujimura T, et al. Developmental alterations of physical properties and components of neonatal-infantile stratum corneum of upper thighs and diaper-covered buttocks during the 1st year of life. J Dermatol Sci. 2014;73(1):67–73.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Visscher M, Odio M, Taylor T, White T, Sargent S, Sluder L, Smith L, Flower T, Mason B, Rider M, et al. Skin care in the NICU patient: effects of wipes versus cloth and water on stratum corneum integrity. Neonatology. 2009;96(4):226–34.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Kanti V, Grande C, Stroux A, Buhrer C, Blume-Peytavi U, Garcia Bartels N. Influence of sunflower seed oil on the skin barrier function of preterm infants: a randomized controlled trial. Dermatology. 2014;229(3):230–9.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Kanti V, Günther M, Stroux A, Sawatzky S, Henrich W, Abou-Dakn M, Blume-Peytavi U, Garcia Bartels N. Influence of sunflower seed oil or baby lotion on the skin barrier function of newborns: A pilot study. J Cosmet Dermatol. 2017;16(4):500–507. https://doi.org/10.1111/jocd.12302.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Darmstadt GL, Ahmed S, Ahmed AS, Saha SK. Mechanism for prevention of infection in preterm neonates by topical emollients: a randomized, controlled clinical trial. Pediatr Infect Dis J. 2014;33(11):1124–7.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Scott IR, Harding CR. Filaggrin breakdown to water binding compounds during development of the rat stratum corneum is controlled by the water activity of the environment. Dev Biol. 1986;115(1):84–92.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                du Plessis J, Stefaniak A, Eloff F, John S, Agner T, Chou TC, Nixon R, Steiner M, Franken A, Kudla I, et al. International guidelines for the in vivo assessment of skin properties in non-clinical settings: part 2. Transepidermal water loss and skin hydration. Skin Res Technol. 2013;19(3):265–78.Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Pinnagoda J, Tupker RA, Agner T, Serup J. Guidelines for transepidermal water loss (TEWL) measurement. A report from the standardization Group of the European Society of contact dermatitis. Contact Dermatitis. 1990;22(3):164–78.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Rosenberg RE, Ahmed AS, Ahmed S, Saha SK, Chowdhury MA, Black RE, Santosham M, Darmstadt GL. Determining gestational age in a low-resource setting: validity of last menstrual period. J Health Popul Nutr. 2009;27(3):332–8.PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Horimukai K, Morita K, Narita M, Kondo M, Kitazawa H, Nozaki M, Shigematsu Y, Yoshida K, Niizeki H, Motomura K, et al. Application of moisturizer to neonates prevents development of atopic dermatitis. J Allergy Clin Immunol. 2014;134(4):824–30 e826.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Simpson EL, Chalmers JR, Hanifin JM, Thomas KS, Cork MJ, McLean WH, Brown SJ, Chen Z, Chen Y, Williams HC. Emollient enhancement of the skin barrier from birth offers effective atopic dermatitis prevention. J Allergy Clin Immunol. 2014;134(4):818–23.Article 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Glatz M, Jo JH, Kennedy EA, Polley EC, Segre JA, Simpson EL, Kong HH. Emollient use alters skin barrier and microbes in infants at risk for developing atopic dermatitis. PLoS One. 2018;13(2):e0192443.Article 
+    PubMed 
+    PubMed Central 
+    CAS 
+    
+                    Google Scholar 
+                Download referencesAcknowledgmentsNot applicable.FundingNational Institute of Child Health and Development (HD060712) and the Bill & Melinda Gates Foundation (OPP1084399). The funders played no role in the design or implementation of the study, or the analysis, interpretation and/or decision to publish.Author informationAuthors and AffiliationsDepartment of International Health, Johns Hopkins Bloomberg School of Public Health, 615 N. Wolfe Street, W5009, Baltimore, MD, 21205, USAAimee Summers, Subarna K. Khatry, Steven C. LeClerq, Joanne Katz & Luke C. MullanySkin Sciences Program, Cincinnati Children’s Hospital Medical Center, 3333 Burnet Avenue, Cincinnati, OH, 45229, USAMarty O. VisscherNepal Nutrition Intervention Project-Sarlahi (NNIPS), Kathmandu, NepalSubarna K. KhatryDepartment of Microbiology, Institute of Medicine, Tribhuvan University Teaching Hospital, Maharajgunj Rd, Kathmandu, 44600, NepalJeevan B. SherchandDepartment of Global Health, Milken Institute School of Public Health, George Washington University, 950 New Hampshire Avenue, Washington, DC, USAJames M. TielschAuthorsAimee SummersView author publicationsYou can also search for this author in
+                        PubMed Google ScholarMarty O. VisscherView author publicationsYou can also search for this author in
+                        PubMed Google ScholarSubarna K. KhatryView author publicationsYou can also search for this author in
+                        PubMed Google ScholarJeevan B. SherchandView author publicationsYou can also search for this author in
+                        PubMed Google ScholarSteven C. LeClerqView author publicationsYou can also search for this author in
+                        PubMed Google ScholarJoanne KatzView author publicationsYou can also search for this author in
+                        PubMed Google ScholarJames M. TielschView author publicationsYou can also search for this author in
+                        PubMed Google ScholarLuke C. MullanyView author publicationsYou can also search for this author in
+                        PubMed Google ScholarContributionsAS made substantial contributions to conception and design, acquisition of data, analysis and interpretation of data; drafting the article with critical revision for important intellectual content; final approval of version to be published. MOV made substantial contributions to design, analysis and interpretation of data; drafting the article with critical revision for important intellectual content; final approval of version to be published. SKK, JS, JK, JMT, and SCL made substantial contributions to conception and design, acquisition of data; interpretation of data; final approval of version to be published. LCM made substantial contribution to conception and design, acquisition of data, analysis and interpretation of data; drafting the article with critical revision for important intellectual content; final approval of version to be published. All authors have read and approved the manuscript.Corresponding authorCorrespondence to
+                Luke C. Mullany.Ethics declarations
+Ethics approval and consent to participate
+Ethical permission was obtained from Ethical Review Committee of the Institute of Medicine, Tribhuvan University (Kathmandu, Nepal) and the Institutional Review Board of the Johns Hopkins Bloomberg School of Public Health (Baltimore, MD) approved the study. Both Boards provided a waiver of documentation of consent as appropriate for the context. Field staff read the oral consent script to mothers, who provided verbal consent for their infant’s participation; this process was documented for each participant. For all subjects, the study procedures were explained thoroughly as was the voluntary nature of their participation. All of their questions were answered. Confidentiality of the information was maintained by using unique numerical identifiers.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interest.
+Additional informationPublisher’s NoteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Supplementary informationAdditional file 1: Table S1. Skin Condition Scale.Rights and permissions
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Reprints and PermissionsAbout this articleCite this articleSummers, A., Visscher, M.O., Khatry, S.K. et al. Impact of sunflower seed oil versus mustard seed oil on skin barrier function in newborns: a community-based, cluster-randomized trial.
+                    BMC Pediatr 19, 512 (2019). https://doi.org/10.1186/s12887-019-1871-2Download citationReceived: 21 May 2019Accepted: 03 December 2019Published: 23 December 2019DOI: https://doi.org/10.1186/s12887-019-1871-2Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        KeywordsSkinSkin barrierStratum corneumNeonateEmollient therapyMustard oilSunflower oilMassageTEWLpHSkin condition
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BMC Pediatrics
+
+ISSN: 1471-2431
+
+
+Contact us
+
+Submission enquiries: bmcpediatrics@biomedcentral.com
+General enquiries: ORSupport@springernature.com
+
+
+
+
+
+
+
+
+
+
+
+
+Read more on our blogs
+
+
+Receive BMC newsletters
+
+
+Manage article alerts
+
+
+Language editing for authors
+
+
+Scientific editing for authors
+
+
+
+
+Policies
+
+
+Accessibility
+
+
+Press center
+
+
+
+
+Support and Contact
+
+
+Leave feedback
+
+
+Careers
+
+
+
+
+Follow BMC
+
+
+
+BMC Twitter page
+
+
+
+
+
+
+
+BMC Facebook page
+
+
+
+
+
+
+
+BMC Weibo page
+
+
+
+
+
+
+
+
+
+            By using this website, you agree to our
+            Terms and Conditions,
+            California Privacy Statement,
+            Privacy
+                statement and
+            Cookies policy.
+            
+                Manage cookies/Do not sell my data we use in the preference centre.
+            
+        
+
+
+
+
+
+ © 2023 BioMed Central Ltd unless otherwise stated. Part of
+            Springer Nature.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

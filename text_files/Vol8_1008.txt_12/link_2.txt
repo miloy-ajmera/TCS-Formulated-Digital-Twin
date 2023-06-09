@@ -1,0 +1,714 @@
+Document Name: role of Carborner(3)/Thickener in Barrier Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3551143/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hydrocolloids as thickening and gelling agents in food: a critical review - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+J Food Sci Technol
+
+
+v.47(6); 2010 Dec
+
+
+                    PMC3551143
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (242K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+J Food Sci Technol
+
+
+v.47(6); 2010 Dec
+
+
+                    PMC3551143
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+J Food Sci Technol. 2010 Dec; 47(6): 587–597. Published online 2010 Nov 6.  doi: 10.1007/s13197-010-0162-6PMCID: PMC3551143PMID: 23572691Hydrocolloids as thickening and gelling agents in food: a critical reviewDipjyoti Saha and  Suvendu BhattacharyaDipjyoti SahaFood Engineering Department, Central Food Technological Research Institute (Council of Scientific and Industrial Research), Mysore, 570020 India Find articles by Dipjyoti SahaSuvendu BhattacharyaFood Engineering Department, Central Food Technological Research Institute (Council of Scientific and Industrial Research), Mysore, 570020 India Find articles by Suvendu BhattacharyaAuthor information Article notes Copyright and License information DisclaimerFood Engineering Department, Central Food Technological Research Institute (Council of Scientific and Industrial Research), Mysore, 570020 India Suvendu Bhattacharya, Email: ni.ser.irtfc@udnevus.Corresponding author.Revised 2010 Jan 27; Accepted 2010 Feb 2.Copyright © Association of Food Scientists & Technologists (India) 2010AbstractHydrocolloids are widely used in many food formulations to improve quality attributes and shelf-life. The two main uses are as thickening and gelling agents. As thickening agents, they find uses in soups, gravies, salad dressings, sauces and toppings while as gelling agents, they are extensively used in products like jam, jelly, marmalade, restructured foods and low sugar/calorie gels. The role of specific hydrocolloids for thickening and for gel formation is reviewed pinpointing specific applications in food formulations and for product development.Keywords: Hydrocolloids, Thickening, Gelling, RheologyIntroductionHydrocolloids are a heterogeneous group of long chain polymers (polysaccharides and proteins) characterised by their property of forming viscous dispersions and/or gels when dispersed in water. Presence of a large number of hydroxyl (-OH) groups markedly increases their affinity for binding water molecules rendering them hydrophilic compounds. Further, they produce a dispersion, which is intermediate between a true solution and a suspension, and exhibits the properties of a colloid. Considering these two properties, they are aptly termed as ‘hydrophilic colloids’ or ‘hydrocolloids’.The foremost reason behind the ample use of hydrocolloids in foods is their ability to modify the rheology of food system. This includes two basic properties of food system namely, flow behaviour (viscosity) and mechanical solid property (texture). The modification of texture and/or viscosity of food system helps to modify its sensory properties, and hence, hydrocolloids are used as important food additives to perform specific purposes. It is obvious that several hydrocolloids belong to the category of permitted food additive in many countries throughout the world. Various food formulations like soups, gravies, salad dressings, sauces and toppings use hydrocolloids as additives to attain the desired viscosity and mouth feel. They are also used in many food products like ice-cremes, jams, jellies, gelled desserts, cakes and candies, to create the desired texture. Considering their role in the adjustment of viscosity and texture of food formulations, several studies have been conducted in various food systems employing different hydrocolloids either singly or in combination.Hydrocolloids have a wide array of functional properties in foods. These include thickening, gelling, emulsifying, stabilisation, and controlling the crystal growth of ice and sugar though the basic properties for which hydrocolloids find extensive use are thickening and gelling. Hydrocolloids disperse in water to give a thickening or viscosity producing effect. This water-thickening property is common to all hydrocolloids and is the prime reason for their overall use. The extent of thickening varies with the type and nature of hydrocolloids, with a few giving low viscosities at a fairly high concentration but most of them giving high viscosities at concentration, below 1% (Glicksman 1982).While all hydrocolloids thicken and impart stickiness to aqueous dispersions, a few biopolymers also have another major property of being able to form gels. Gel formation is the phenomenon involving the association or cross-linking of the polymer chains to form a three dimensional network that traps or immobilises the water within it to form a rigid structure that is resistant to flow. In other words, it becomes viscoelastic exhibiting both characteristics of a liquid and a solid. The textural properties (e.g., elastic or brittle, long or spreadable, chewy or creamy) of a gel vary widely with the type of hydrocolloid used. The other sensory properties such as opacity, mouth feel and taste also depend on the hydrocolloid employed. Hydrocolloids that are commonly used as thickening are starch, xanthan, guar gum, locust bean gum, gum karaya, gum tragacanth, gum Arabic and cellulose derivatives. The gelling type hydrocolloids are alginate, pectin, carrageenan, gelatin, gellan and agar.Thickening agentsHydrocolloids are frequently used in several foods for thickening. The process of thickening involves the non-specific entanglement of conformationally disordered polymer chains; it is essentially a polymer-solvent interaction (Philips et al. 1986). Thickening occurs above a critical concentration known as overlap concentration (C*). Below this, the polymer dispersions exhibit Newtonian behaviour but show a non-Newtonian behaviour above this concentration (Philips and Williams 2000). Hydrocolloids that have been used as thickening agents (Table 1) in various food systems include starch, modified starch, xanthan, galactomannans like guar gum and locust bean gum (LBG), gum Arabic or acacia gum, gum karaya, gum tragacanth and carboxymethyl cellulose (CMC). The thickening effect produced by the hydrocolloids depends on the type of hydrocolloid used, its concentration, the food system in which it is used and also the pH of the food system and temperature.
+Table 1Important hydrocolloid thickeners used in foodsHydrocolloid as a thickenerPropertiesApplication in food productsReferenceXanthanHighly shear thinning; maintains viscosity in the presence of electrolytes, high temperature and wide pH rangesSoups and gravies, ketcups, instant beverages, desserts, toppings and fillingsUrlacher and Dalbe (1992), Sahin and Ozdemir (2004)Carboxymethyl cellulose (CMC)High viscosity but is reduced by adding electrolytes and at low pHSalad dressings, gravies, fruit pie fillings, ketchupKoocheki et al. (2009)Methyl cellulose (MC) and hydroxypropylmethyl cellulose (HPMC)Viscosity increases with temperature but independent of pH and electrolytesSalad dressings, cake batters, beverages, whipped toppingsMurray (2000)Gum ArabicLow viscosity gum; shear thinning at low shear rates (<10/sec); near Newtonian behaviour above 100/sec of shear rateFruit juice based beverage, soft drinksRavi and Bhattacharya (2004), Sopade et al (2008), Mothe and Rao (1999)Galactomannans (Guar gum, Locust bean gum and tara gum)Very high low-shear viscosity; highly shear thinning; independent of electrolytes but degrade and lose viscosity at high and low pHs and at high temperaturesDairy products including ice cream, ketchup, fruit juices, pudding powder, cake batterWielinga and Maehall (2000), Turabi et al. (2008), Koocheki et al. (2009)Konjac maananForms highly viscous dispersions which are not influenced by addition of salts; forms thermally irreversible gels with alkaliNoodles and jelly dessertsWilliams (2006)Gum TragacanthSwells rapidly in cold or hot water to form highly viscous dispersions, up to 4000 mPas at 1% solidsSalad dressings, bakery emulsions, fruit beverages, saucesAlexander (1999a), Weiping (2000)Open in a separate windowStarch is the most commonly used hydrocolloid thickener, the reason being it is relatively cheap, abundant and possibly it does not impart any noticeable taste if used at a low concentration of 2 to 5%. Further, as starch is a common ingredient of many foods we encounter, addition of starch does not offer any foreign taste which may be true for different gums. It is mainly the hydrocolloid providing a base texture in soups and sauces. Thickening of sweet and sour sauces with various polysaccharide combinations like potato starch-xanthan gum and oat starch-xanthan gum has been studied. The evaluation of the thickener performance is considered on the basis of its effect upon sensory properties and rheology. Oat starch-xanthan gum combination has better thickening property compared to potato starch-xanthan gum combination as evaluated from their energy of thixotropy. Both potato starch and xanthan are anionic polysaccharides and hence are thermodynamically incompatible for efficient intermolecular interaction required for thickening (Gibinski et al. 2006). In dessert sauces like strawberry sauce, starch-xanthan combination is found to be suitable as a thickener. It provides stable sensory and textural properties of the sauces for at least three months. While starch thickener used sauces are most stable on storage; potato starch with 0.12% xanthan gum is a superior thickener (Sikora et al. 2007).Besides starch and xanthan, other hydrocolloids used for thickening various food systems are summarized in Table 2. Guar and locust bean gums are galactomannans having different water solubilities due to the difference in the degree of galactose substitution (Kok et al. 1999). While guar gum having higher galactose content swells and disperses almost completely in both cold and hot water, locust bean gum (LBG) needs to be heated for complete solubility (Wang et al. 2000; Dunstan et al. 2001). Viscosity usually ranges from 6000 to 7500 mPas for guar and 3000–3500 for LBG dispersions at 1% solids (Alexander 1999a). The reason for higher viscosity of guar compared to LBG is the higher molecular weight of guar gum (Casas et al. 2000).
+Table 2Major hydrocolloid gelling agents and their characteristicsHydrocolloid as a gelling agentCharacteristicsApplication in foodReferenceModified starchThermally irreversible opaque gels formed on coolingDairy dessertsVerbeken et al. (2006)AgarThermoreversible gels on coolingBakery products, jelliesUzuhashi and Nishinari (2003), Stanley (2006)κ-Carrageenan and ί- carrageenanThermoreversible gels on coolingPuddings, milk shakes, tofuMichel et al. (1997), Puvanenthiran et al. (2003)Low methoxy pectinThermoreversible gels on cooling at acidic pHJams, jellies, glazes, milk based dessertsCapel et al. (2006), Wilats et al. (2006)High methoxy pectinThermoirreversible gels on cooling at high acidic pHJams, jelliesMay (2000), Wilats et al. (2006)Gellan gumThermoreversible highly transparent gels formed on coolingWater-based fruit flavoured jellies, lemon jellyMoritaka et al. (1999), Nickerson et al. (2007)AlginateThermoirreversible gels do not melt on heatingRestructured foods, cold prepared bakery creamsRoopa and Bhattacharya (2008, 2009)Methyl and hydroxypropylmethyl celluloseThermoreversible gels which melt on heatingSalad dressings, cake batters, beverages, whipped toppingsWilliams (2006)Open in a separate windowCarboxymethyl cellulose (CMC), like guar gum, is soluble in either cold or hot water. The concentration, molecular weight and degree of substitution (ds) are important factors for flow behaviour of CMC in aqueous dispersions. Commercial products usually have ds values from 0.7 to 1.5. Dispersions of the gum show shear thinning properties, but products of lower ds are thixotropic and viscosity decreases with increase in temperature (Kulicke et al. 1996; Alexander 1999b). Other cellulosics include methyl cellulose (MC) and hydroxypropylmethyl cellulose (HPMC). Unlike CMC, they form weak gels on heating when the temperature rises above 52 °C for MC and 63–80 °C for HPMC. These are mostly used for binding and shape retention in reformed vegetable products like onion rings, potato croquettes and shaped soya protein (Murray 2000). Another hydrocolloid used as a thickener is gum targacanth. This gum swells rapidly, in either cold or hot water to form highly viscous dispersions, up to 4000 mPas at 1% solids, depending on the grade. The dispersions are shear thinning and possess good yield value (Alexander 1999a).Ketchup is one of the most common food items where the hydrocolloid thickeners are used to influence its viscosity. Sahin and Ozdemir (2004) found that addition of LBG, tragacanth gum, guar gum and xanthan gum to ketchup resulted in greater shear thinning properties while CMC showed marginal effect. Consistency index and apparent viscosity increase with the addition of all hydrocolloids, but the increase is highest with the addition of guar and LBG, followed by xanthan and tragacanth and the least with CMC. Koocheki et al. (2009) found that though guar gum produced higher apparent viscosity in tomato ketchup as compared to xanthan and CMC, the yield stress is higher for ketchups with xanthan and CMC but lower after addition of guar gum.The rheological properties and quality of rice cakes formulated with different gums have also been studied (Turabi et al. 2008). HPMC containing rice cake batters produced lowest apparent viscosity while xanthan and xanthan-guar gum blend containing batters produced highest apparent viscosity. Casson yield stress was lowest for HPMC containing batters. Except HPMC, other gums like xanthan, guar gum and LBG increased the emulsion stability of the cake batter.Gum arabic (Acacia gum) is widely used in the food industry mainly to impart desirable qualities because of its influence over viscosity, body and texture. Mainly it is used as an emulsifier in beverage emulsions (Buffo et al. 2001). It is a low viscosity gum and has been found to produce low viscosity at 30% concentration compared to 1% xanthan or CMC at low shear rates (Williams and Philips 2000). Mothe and Rao (1999) in their study on the rheological behaviour of aqueous dispersions of gum arabic have found that dispersions of the gum (4–50%, w/v) exhibit shear-thinning characteristics at low shear rates (<10 s−1) and Newtonian plateaus at shear rate above 100 s−1. The infinite shear rate viscosity (ηα) however, is found to increase with increasing concentration of gum.Process of thickeningThe application of a hydrocolloid depends on the knowledge and understanding of the process of thickening—an important role of any hydrocolloid. The functional roles of food hydrocolloids are (a) thickening, which involves non-specific entanglement of conformationally disordered chains, and (b) structuring/gelling, which involves specific inter-chain association in conformationally-ordered junction zones (Philips et al. 1986).The question that arises is how hydrocolloids thicken solutions. The viscosity of polysaccharide dispersions arises predominantly from physical entanglement of conformationally disordered ‘random coils’. In dilute dispersion, the individual molecules of hydrocolloids can move freely and do not exhibit thickening. In concentrated system, these molecules begin to come into contact with one another; thus, the movement of molecules becomes restricted. The transition from free moving molecules to an entangled network is the process of thickening. Thus, hydrocolloid thickeners can be considered as entanglement of network producers. In cases where no enthalpic polymer-polymer interactions are observed, thickening properties are associated with molecular weight and concentration of the hydrocolloid (Sworn 2004).Intrinsic viscosity is an important parameter used to compare the viscosities of dispersions of hydrocolloids. The intrinsic viscosity (η) is directly related to the molecular weight of the hydrocolloid and is given by the well known Mark-Houwink equation (Eq. 1).
+1where, M is the molecular weight and K and α are the parameters of Mark-Houwink equation. Hence, higher the molecular weight of a polymer, greater will be the intrinsic viscosity produced by it in aqueous medium. The polysaccharide concentration at which the sharp change in viscosity occurs is referred to as the critical overlap concentration and is denoted by C*. The onset of entanglement for a wide range of neutral and charged polysaccharides is found to occur when C[η] ≈ 4 (i.e., C* ≈ 4/[η] ). In other words, the higher the molecular weight of the polysaccharide, the lower the concentration at which C* is exceeded. Polysaccharide dispersions below C* will typically exhibit near Newtonian steady shear flow and the increase in the viscosity of the dispersion is roughly proportional to the number of molecules present. Above C* entanglement dispersion networks will exhibit shear thinning meaning that apparent viscosity decreases with increasing shear rate (Philips and Williams 2000). At low shear rates, the rate of disruption of entanglements is slower than or equal to the formation of new entanglements and thus exhibits Newtonian flow. The viscosity during this time is known as the zero-shear viscosity. As shear rate is increased, the rate of disruption also increases and exceeds that of formation. At this point, viscosity begins to decrease sharply as a function of shear rate. Again at very high shear rates, no further disruption can take place and the system once again exhibits Newtonian flow; this is called infinite-shear viscosity (Sworn 2004). The viscosity of hydrocolloid dispersions is also influenced by the polymer hydrodynamic volume. It increases with molecular mass, chain rigidity and electrostatic charge density, and is greater for linear compared to branched polysaccharides. Thus, amylose will have a higher intrinsic viscosity than amylopectin.Starch is the most commonly used hydrocolloid thickener, and is used both in the native and modified forms (Babic et al. 2009). Cold water does not dissolve starch but as the water is heated, it gradually penetrates the granules causing them to swell up. Thus, a marginal thickening occurs at this stage, and finally near the boiling point, the starch granules burst and release the inner components into the liquid and marked thickening occurs. Other gums are often added to starch to improve the texture and mouthfeel.Gels and gelling agentsGels may also be defined as a form of matter intermediate between solid and liquid and show mechanical rigidity (Aguilera 1992). They consist of polymer molecules cross-linked to form tangled and interconnected molecular network immersed in a liquid medium, which in food system is water (Oakenfull 1987). Food technologists use the word ‘gel’ for high moisture foods that more or less retain their shape when released from their container. However, the most commonly used definition of gel is a rheological one, obtained from dynamic viscometry. According to this definition, a gel is a viscoelastic system with a ‘storage modulus’ (G′) larger than the ‘loss modulus’ (G″) (de Vries 2004). Hydrocolloids form gels by physical association of their polymer chains through hydrogen bonding, hydrophobic association and cation mediated cross-linking and differ from synthetic polymer gels, which normally consist of covalently cross-linked polymer chains. Hence, hydrocolloid gels are often referred to as “physical gels” (Philips and Williams 2000).Though all hydrocolloids thicken aqueous dispersions, only a comparatively few gums form gels. Also the gels thus formed vary widely in gel character and texture. Hence, knowledge of the conditions required for gelling of particular hydrocolloid dispersion, the characteristics of the gel produced and the texture it confers are very important aspects to design a specific food formulation. The important gums that find application in food as gelling agents include alginate, pectin, carrageenan, gellan, gelatin, agar, modified starch, methyl cellulose and hydroxypropylmethyl cellulose. The gel characteristics of some of the important gelling agents are summarized in Table 2 (Williams 2006).Process of gellingThe formation of gel involves the association of randomly dispersed polymer segments in dispersion in such a way so as to form a three-dimensional network that contains solvent in the interstices. The associated regions known as ‘junction zones’ may be formed by two or more polymer chains. The gelation process is essentially the formation of these junction zones (Oakenfull 1987). Hydrocolloid gelation can involve a hierarchy of structures, the most common of which is the aggregation of primary inter-chain linkages into “junction zones”, which form the basis for the three dimensional network characteristic of a gel. The physical arrangement of these junction zones within the network can be affected by various parameters like temperature, presence of ions and inherent structure of hydrocolloid. For the gelation of hydrocolloids, the three main mechanisms proposed are ionotropic gelation, cold-set gelation and heat-set gelation (Burey et al. 2008).Ionotropic gelation occurs via cross-linking of hydrocolloid chains with ions, typically a cation mediated gelation process of negatively charged polysaccharides. Examples of such systems are alginate, carrageenan and pectin (Draget 2000; Imeson 2000; May 2000). Ionotropic gelation is carried out by either diffusion setting or internal gelation. In cold-set gelation, hydrocolloid powders are dissolved in warm/boiling water to form a dispersion which on cooling results in enthalpically-stabilized inter-chain helix to form segments of individual chains leading to a three dimensional network. Agar and gelatin form gel by this mechanism (Glicksman 1982). Heat set gels require the application of heat to gel (eg, curdlan, konjac glucomannan, methyl cellulose, starch and globular proteins). It is usually only where heat setting is required in foods (eg, the use of starch in sauces). Heat setting mechanism occurs by unfolding/expansion of native starch/protein and their subsequent rearrangement into a network (Nishinari and Zhang 2004).Role of junction zones in gellingJunction zones play a very important role in the gelling process of hydrocolloids (de Vries 2004). They also markedly influence the characteristics and functional behaviour of a particular gel. The number of molecules that form a junction zone is an important gel property determinant. During gelatin, junction zones are formed by three molecules through hydrogen bonding. In κ-carrageenan, six to ten molecules form a junction zone, whereas in ί-carrageenan only two molecules are involved. More the number of molecules in the junction zone, more rigid will be the gel. Hence, the multi-molecule junction zones of κ-carrageenan are more rigid and less easily rebuilt when disturbed by shearing force whereas ί-carrageenan gels have much more flexible textures and are less sensitive to shearing. The number of junction zones and number of molecules in the junction zones and the flexibility of the interrupting segments are important for the characteristics of a set gel. The junction zones of ί-carrageenan and alginate consist of two molecules, but ί-carrageenan gels can sustain more deformation before they break compared to alginate gels of almost the same strength. The thermal behaviour of gels also differs because of the junction zones. Gelatin melts at much lower temperature because the junction zones are only bound by weak hydrogen bonds. On the other hand, it is possible to make alginate gels that do not melt on boiling because of the strength of calcium bridges in the junction zones. One of the major factors influencing the strength of junction zones is their length. Calcium bridging is cooperative, i.e., the bond strength increases more than proportionally with junction zone length. Solvent quality is also another important factor. Hydrogen bonds in high methoxy pectin gels can only be formed if the water activity is sufficiently reduced by addition of sugar.There are various types of junction zones in polymer gels like stacked double helix junctions in carrageenans, partly stacked triple helices in gelatin and ‘egg-box’ junction in alginate. In most polymer gels, the junction zones contain a substantial proportion 30% of the polymer material, (Walstra 2003). Various factors affect gel formation by hydrocolloids which include concentration of the gelling agent, pH of the medium, molar mass/degree of polymerization, temperature, ionic composition and solvent quality (Walstra 2003). Typically used gelling concentrations of different hydrocolloid gelling agents in food are summarized in Table 3.
+Table 3Concentrations of gelling agent used in different food formulationsHydrocolloidConcentration of gelling agent, % w/wReferenceAgar1–2Stanley (2006)Alginate1–2Liu et al. (2003)Carrageenan0.5–3Nussinovitch (1997)High methoxy pectin2–4May (2000)Low methoxy pectin0.1–4May (2000)Gelatin1–5Tosh et al. (2003)Gellan0.5–1.5Sworn (1996)Open in a separate windowIn addition to having knowledge of the factors that affect gel formation by hydrocolloids, it is also necessary to characterize the gels formed by them. Microstructural and rheological characterizations are generally done and are often followed by sensory evaluation. Rheological characterization of gels involves characterizing a gel on the basis of various parameters like modulus of elasticity, yield stress, shear modulus, storage and loss modulus, complex viscosity, gel strength and compliance. These parameters are usually determined by conducting tests like compression test, dynamic oscillatory rheometry, creep and texture profile analysis, etc. by employing instruments like universal texture measuring system, controlled stress rheometer. Not only the measurement but also studying the influence of gel forming conditions on the attributes and characteristics forms an indispensable part of the study on gels. These studies, in turn, help in the formulation of food products, wherein hydrocolloids are incorporated as gelling agents. For example, the effect of addition of sucrose and aspartame on the compression resistance of hydrocolloid gels namely, κ-carrageenan gel, gellan gel and κ-carrageenan/locust bean gum gel has been studied (Bayarri et al. 2006). Addition of sucrose results in an increase of true rupture stress in all these gels. However, addition of aspartame at low concentration does not affect the textural compression parameters. In addition, the main factors determining the gel sweetness are related with mechanical properties of gel like gel strength, rupture stress, rupture strain and particularly with the amount of deformation required to break the network and with its resistance to deformation (Bayarri et al. 2003). Besides, co-solutes like sucrose, concentration of hydrocolloid, shear rate and temperature are also important variables that influence the rheological status of hydrocolloid gels (Marcotte et al. 2001).The non-gelling agents (eg, xanthan and guar gum), and gelling agents (carrageenan and locust bean gum) are commonly combined to achieve increased viscosity or superior properties of food gels, such as higher elasticity (Nussinovitch 1997). The blending of different polysaccharides offers an alternative route to the development of new textures. The major interest lies in the development of synergistic mixtures with improved or induced gelation.Both xanthan and galactomannans do not form gels when used singly. But together, they form gels because of synergistic interactions. The mixture of xanthan and galactomannan is one of the oldest and most extensively studied synergistic gelling systems. Xanthan shows quite spectacular synergistic interactions with other non-gelling polysaccharides of galactomannan family leading to increase in viscosity (Casas and Garcia-Ochoa 1999) and gel formation (Rodriguez-Hernandez and Tecante 1999). The distinction between increased viscosity and gelation lies on the mannose-galactose ratio of the galactomannan (Morris 1998). Xanthan-guar mixtures exhibit synergistic increase in viscosity as do low concentration mixtures with locust bean gum (<0.03%). At higher concentrations, soft and elastic gels are formed with locust bean gum (LBG). Xanthan gum-LBG gel is thermally reversible and it melts between 55 and 60 °C while dispersions of xanthan-guar mixtures can be gelled at room temperature. Mixtures of xanthan and LBG require heating to 90–95 °C. The interaction of xanthan gum with galactomannan is dependent on the ratio of the mixture, pH and ionic environment. Optimum gum ratios are 80:20 for guar gum: xanthan gum and 50:50 for LBG: xanthan gum. Generally, the synergistic interaction with galactomannans is at its maximum in deionised water at neutral pH and it gets reduced at high salt concentrations and low pH (Sworn 2000).Xanthan possesses a synergistic interaction with konjac glucomannan (KGM) during gel formation. Their synergism produces thermoreversible physical gels at neutral pH. Best synergism is obtained when konjac to xanthan ratio is 70:30 (w/w) (Toba et al. 1987). Mixtures of xanthan and KGM are reported to produce ‘melt-in-the-mouth’ gels having texture similar to that of gelatin. Hence, they provide a useful replacement in applications where ‘melt-in-the-mouth’ characteristics are important for product quality and where moderate acidity is acceptable or necessary (e.g., fruit jellies) (Agoub et al. 2007).Kappa-carrageenan is a gelling agent, the synergistic interactions of which, with other hydrocolloids have been exploited in several food formulations. Hot dispersions of κ-carrageenan-locust bean gum form strong elastic gels with low syneresis when cooled below 50 °C. The maximum interaction, and hence, peak rupture gel strength occurs at ratios between 60:40 and 40:60 of κ-carrageenan to locust bean gum. These polymer combinations are used in large quantities in cooked meats and in gelled pet foods. κ-Carrageenan and clarified locust bean gum mixtures can also be used for glazing of cake or they can be formulated to give clear water dessert gels with an elastic cohesive gel texture like gelatin. A combination of κ- and ί-carrageenan is also able to offer an elastic cohesive gel, which is similar to gelatin in texture. In addition, konjac flour also interacts strongly with κ-carrageenan forming strong elastic gels having rupture strength four times higher than that of κ-carrageenan gel alone (Imeson 2000).However, the most important synergistic interactions of κ-carrageenan as a gelling agent is observed in milk gels where it interacts with milk proteins particularly casein (Puvanenthiran et al. 2003; Shchipunov and Chesnokov 2003). Also interactions between κ-carrageenan, milk proteins and modified starch in sterilised dairy desserts have been studied, wherein modified starch imparts a large influence on the complex modulus of the gel (Verbeken et al. 2006).Applications of hydrocolloids as gelling agentsThe selection of a particular hydrocolloid to be used in a specific food product depends on the characteristics of gelling agent. For example, alginate can form gels without prior heating because sodium alginate is cold water soluble and these cold-formed gels are heat stable. This makes alginate a preferred gelling agent for re-structured foods and for cold-prepared instant bakery custard that are bake-stable (de Vries 2004). The rapid setting behaviour of alginate gels is also important in restructured foods that are diffusion-set (Draget 2000). Alginates as gel forming agents find applications in restructured fruits and vegetables, restructured fish and meat, puddings and desserts, cold prepared bakery creams, fruit preparations and bakery jam (Onsoyen 1992). In icings and toppings, fruit pie fillings and table jellies alginates are used but they are incompatible with milk, except in the presence of calcium sequestrants.Carrageenan is a hydrocolloid that finds maximum application in dairy desserts like puddings, milk shakes, ice cream and chocolate milk because of its ability to form gels in milk at much lower concentrations compared to any other gelling agent (Puvanenthiran et al. 2003; de Vries 2004; Verbeken et al 2004). Kappa carageenans form gels in milk at much lower concentrations because of the electrostatic interaction between positively charged region of κ-casein and negatively charged sulphate group of κ-carrageenan that results in increased milk reactivity (Snoeren et al. 1975). Use of carrageenan in tofu (soybean curd) significantly decreases the hardness of tofu when calcium sulphate and calcium acetate are used. At low concentration (2 g/l), carrageenan increases the water holding capacity of soybean protein gels (Abd Karim et al. 1999). The other important application of carrageenan is in injected meat, in which only carrageenans can be dispersed in brine without too high viscosity and simultaneous gel formation when the ham has been cooked (de Vries 2004). Because of the clarity of carrageenan gel and high gelling temperature, it is valued in the preparation of cake glazes and water dessert gels. In addition, the firm and quick setting behaviour of carrageenan gels is made use of in processed cheese systems (Thomas 1992). Synergistic carrageenan-locust bean gum combinations are being used in table jellies and low sugar, low-acid fruit gels, in which carrageenan has the advantage over pectin that it dissolves well in sugar solutions, whereas pectin has to be pre-dissolved in water. However, under acidic conditions (pH < 4), carrageenans require high temperatures for degradation while pectins are acid-stable (de Vries 2004).Commercial pectin finds maximum applications in jams and jellies. This is because pectins, especially high methoxyl pectins require >55% sugar solids for gelling. Pectins are the most preferred gelling agents for acidic fruit gels because of being acid stable. To overcome the limitation of high methoxyl pectin, low methoxyl pectins (both commercial and amidated types) are used in the preparation of reduced sugar jams and jellies. Low methoxyl pectins are also used for the production of glazes in bakery industries. Other applications of pectin include desserts, both water gels and milk based gels. Milk and milk products can easily be gelled with low methoxyl pectin because they contain calcium; milk desserts and gelled or thickened milk products like yoghurts can be prepared.Gelatin exhibits a wide range of functional properties. It can be used as a gelling agent in jellied confectionery (Jones 1977). Gelatin gels melt at relatively low temperature (melt-in mouth), and they are slow-setting; all these features make gelatin the preferred gelling agent in yoghurt products, low-fat spreads and sugar confectionery. Marshmallow, an aerated gelled confectionery, uses gelatin as gelling agent for its elasticity and clarity; clarity of gelatin is also the main reason for its use in table jellies (de Vries 2004). Gelatin has also been used in flavoured gelled milk desserts, either alone or in combination with carrageenan, and also in dessert creams. In dessert creams, it is used to achieve a smooth gel texture (Poppe 1992).The food applications of agar are in the areas like bakery products, confectionery, Japanese desserts and confections, meat, fish and poultry products, dairy products, ice cream, peanut butter and beverages. The high melting point of agar gels is improved by the addition of salts. Agar is used in baked goods where it is superior to carrageenans and far superior to gelatin. Agar is also widely used as a gelling agent in jelly confections including traditional Japanese food items and confections like Yokan, Mitsumame, Tokoroten etc (Uzuhashi and Nishinari 2003). Agar is also used at levels of 0.5–2% to gel canned meat, fish and poultry products (Stanley 2006).Gellan gum is unique in the spectrum of gelling agents used in food applications. Rapid setting behaviour, low use level, sparkling clarity of the gel and good flavour release are some of the attributes that make gellan as a preferred gelling agent for food products (Valli and Miskiel 2001). It is also used in bakery fillings as partial starch replacement to increase flavour release, in water based dessert gels because of its good clarity and adequate thermal stability. It can also be combined with xanthan or LBG to produce ready-to-eat (RTE) dessert gels. Deacylated gellan gum is used to improve moisture retention, flavour release and storage stability in puddings and to reduce syneresis (Sworn 2000). The fluid like behaviour of gellan gum at low concentrations (Sworn et al. 1995) may be utilized for the preparation of ‘fluid-gels’ which are useful in various beverage dispersions. Gellan gum also acts as a very good stabiliser in reconstituted vegetable juice (Liang et al. 2006).Rheology of thickeners and gelsCharacterisation of gels forms an essential part in the study of thickened dispersions and gels formed by various hydrocolloid gelling agents. Characterisation may involve rheological characterization, structural characterization, microscopic characterization and molecular characterization employing different instruments like viscometers, rheometers, texture measuring systems, differential scanning calorimeters, scanning electron microscope, atomic force microscope, NMR and NIR. Among these, rheological characterisation of sample is most important and generally performed practice since it correlates to the textural attributes of the product, which, in turn, determines its sensory characteristics and consumer acceptability.In rheological terms, thickened dispersions and gels are viscoelastic materials. They simultaneously exhibit some of the elastic properties of an ideal solid and some of the flow properties of an ideal liquid. Various parameters like apparent viscosity, shear stress, modulus of elasticity, yield stress, shear modulus, storage and loss modulus, complex viscosity and loss angle are used to describe the characteristic rheological behaviour of these food systems.The rheological behaviour of food products involving hydrocolloids has been studied extensively in both time and frequency domains, using small stress and strain regimes. However, during processing, manufacture and consumption of foods, these systems are subjected to large deformations. Hence, rheological measurement of thickened dispersion/gel has been broadly categorized into small deformation and large deformation testing. These two types of tests give complementary information that does not necessarily correlate. Small deformation testing generally investigates viscoelastic parameters. The most commonly used parameter to describe the rheological behaviour of gels is shear or Young’s moduli determined in the so-called linear region (ie, the strain region where the stress required to deform a material is proportional to the strain). These moduli values are independent of the geometry of both the measuring system and the gel sample; consequently these are invaluable for comparing the elasticity of gelling systems. Large deformation tests, on the other hand, are used to measure shear stress, yield stress, apparent viscosity, strain and failure properties of the product.In general, the rheological test methods for the assessment of gel characteristics can be grouped into three types namely, fundamental, imitative and empirical. Each has certain advantages and a few limitations.Fundamental methodsFundamental small deformation tests involve dynamic oscillatory rheometry, creep test and stress relaxation test. In dynamic oscillatory rheometry, the sample is subjected to an oscillatory stress-strain of frequency. The parameters of gel that are measured are storage modulus (G′), loss modulus (G″) and loss/phase angle (δ). Storage modulus (G′) is a measure of the energy that is stored elastically in the gel structure during a periodic application of stress and the loss modulus (G″) is a measure of the energy dissipated or the viscous response. Their ratio tan δ (equal to G″/ G′) gives a measure of how much the stress and strain are out of phase with each other. Gels, being viscoelastic in nature, tan δ <1 i.e., δ <90°. These parameters are very important for the rheological characterization of gels. Essentially, solid characteristics are denoted by G′ while G″ indicates liquid characteristics. For weak gel, G′>G″, and thus junction zones can be readily destroyed even at very low shear rate and the network structure is destroyed. For strong gel, G′ >>G″, and both are independent of frequency; lower tan δ values (<0.1) are observed in this case. Another parameter that gives the overall response is the complex modulus (G*). Its value is given by the formula .Another important test is the creep test. In a creep experiment, a constant stress is applied and the corresponding strain γt is measured as a function of time. Gel, being a viscoelastic material, responds to the creep test with a nonlinear strain. The important property measured during creep test is the ratio of strain to stress as a function of time, and is referred to as the creep compliance. It describes how compliant a material is; the greater the compliance, the easier it is to deform the material.Stress relaxation is another important study in the rheology of food. If a gel sample is deformed by a fixed strain and held there over a long time interval, the stress required to maintain this constant strain will gradually decrease due to relaxation of the sample. The sample under testing will only partially recover its original geometry. The relaxation modulus is an important rheological property measured during stress relaxation. It is the ratio of the measured stress to the applied initial strain. Fundamental rheological properties determined at large deformations include fracture, failure and rupture stress/strain. These parameters are usually determined by constant speed experiments such as uniaxial compression and uniaxial tension performed on texture measuring systems. Compression test and tensile tests are generally performed in this study.Empirical methodsCompression (or penetration) tests constitute the basis of many small-deformation empirical tests used to measure gel strength. The most common parameter used to measure gel quality is gel strength. The choice of instrument for gel measurement will depend on whether a single-point or multi-parameter analysis. It is governed by factors like high-speed data acquisition, precision and accuracy of results. Large-deformation empirical tests are used to measure another parameter of gels known as rupture strength i.e., the force required to break the sample.Imitative methodsThe single point measurements, often based on rupture tests, are not representative of the overall mechanical behaviour of gels. A much more comprehensive understanding of gel texture is obtained by analysis of the force-deformation curve generated by compressing a gel sample using a texture measuring system. This instrumental technique is known as texture profile analysis. It is a technique based on compression of free-standing gels twice in succession and is capable of providing both fundamental and empirical data on the mechanical properties of gels. It has the advantage of providing data at both low and high strains allowing gels to be characterised by multiple parameters. These include modulus, hardness, brittleness, adhesiveness, elasticity/springiness, and cohesiveness.The flowable materials like thin and thick dispersions are conventionally examined employing a viscometer or rheometer. Generally, the shear rate-stress data are collected over a wide range along with the measurement of apparent viscosity, yield stress, zero-shear and high-shear viscosities. A number of available rheological models are used to calculate model parameters like consistency index and flow behaviour index and these parameters help in the characterisation of the samples.ConclusionsAs an important food additive, hydrocolloids are finding increasing applications in several food products as thickening and gelling agents. The thickening effects are mainly provided by carboxymethyl cellulose, methyl cellulose and hydroxypropylmethyl cellulose, guar gum, locust bean gum, tara gum, konjac maanan, gum tragacanth, gum ghatti and gum Arabic. The frequently used gelling agents include modified starch, agar, carrageenans, pectins, gellan gum, alginates and methyl and hydroxypropylmethyl celluloses. The role of each hydrocolloid in food formulations and product development has been discussed along with examples and methods of characterisation to indicate the increasing use of hydrocolloids as an important food additive.ReferencesAbd Karim A, Sulebele GA, Azhar ME, Ping CY. Effect of carrageenan on yield and properties of tofu. Food Chem. 1999;66:159–165. doi: 10.1016/S0308-8146(98)00258-1. [CrossRef] [Google Scholar]Agoub AA, Smith AM, Giannouli P, Richardson RK, Morris ER. Melt-in-the-mouth gels from mixtures of xanthan and konjac glucomannan under acidic conditions—a rheological and calorimetric study of the mechanism of synergistic gelation. Carbohydr Polym. 2007;69:713–724. doi: 10.1016/j.carbpol.2007.02.014. [CrossRef] [Google Scholar]Aguilera JM.  Generation of engineered structures in gels. In: Schwartzberg HG, Hartel RW, editors. Physical chemistry of foods. New York: Marcel Dekker; 1992. pp. 387–421. [Google Scholar]Alexander RJ. Hydrocolloid gums. Part I: Natural products. Cereal Foods World. 1999;44:684–687. [Google Scholar]Alexander RJ. Hydrocolloid gums. Part II: Synthetic products. Cereal Foods World. 1999;44:722–725. [Google Scholar]Babic J, Subaric D, Ackar D, Kopjar M, Tiban NN. Acetylation and characterisation of corn starch. J Food Sci Technol. 2009;46:423–426. [Google Scholar]Bayarri S, Duran L, Costell E. Compression resistance, sweetener’s diffusion and sweetness of hydrocolloid gels. Int Dairy J. 2003;13:643–653. doi: 10.1016/S0958-6946(03)00096-7. [CrossRef] [Google Scholar]Bayarri S, Izquierdo L, Duran L, Costell E. Effect of addition of sucrose and aspartame on the compression resistance of hydrocolloid gels. Int J Food Sci Technol. 2006;41:980–986. doi: 10.1111/j.1365-2621.2005.01156.x. [CrossRef] [Google Scholar]Buffo RA, Reineccius GA, Oehlert GW. Factors affecting the emulsifying and rheological properties of gum acacia in beverage emulsions. Food Hydrocolloids. 2001;15:53–66. doi: 10.1016/S0268-005X(00)00050-3. [CrossRef] [Google Scholar]Burey P, Bhandari BR, Howes T, Gidley M. Hydrocolloid gel particles: formation, characterization and application. Crit Rev Food Sci Nutr. 2008;48:361–377. doi: 10.1080/10408390701347801. [PubMed] [CrossRef] [Google Scholar]Capel F, Nicolai T, Durand D, Boulenguer P, Langendorff V. Calcium and acid induced gelation of (amidated) low methoxyl pectin. Food Hydrocolloids. 2006;20:901–907. doi: 10.1016/j.foodhyd.2005.09.004. [CrossRef] [Google Scholar]Casas JA, Garcia-Ochoa F. Viscosity of solutions of xanthan/locust bean gum. J Sci Food Agric. 1999;79:25–32. doi: 10.1002/(SICI)1097-0010(199901)79:1<25::AID-JSFA164>3.0.CO;2-D. [CrossRef] [Google Scholar]Casas JA, Mohedano AF, Garcia-Ochoa FJ. Viscosity of guar gum and xanthan/guar gum mixture solutions. J Sci Food Agric. 2000;80:1722–1727. doi: 10.1002/1097-0010(20000915)80:12<1722::AID-JSFA708>3.0.CO;2-X. [CrossRef] [Google Scholar]de Vries J.  Hydrocolloid gelling agents and their applications. In: Philips GO, Williams PA, editors. Gums and stabilizers for the food industry, vol 12. Oxford: RSC Publ; 2004. pp. 22–30. [Google Scholar]Draget KI.  Alginates. In: Philips GO, Williams PA, editors. Handbook of hydrocolloids. New York: Woodhead Publ Ltd; 2000. pp. 379–393. [Google Scholar]Dunstan DE, Chen Y, Liao ML, Salvatore R, Boger DV, Prica M. Structure and rheology of κ-carrageenan/locust bean gum gels. Food Hydrocolloids. 2001;15:475–484. doi: 10.1016/S0268-005X(01)00054-6. [CrossRef] [Google Scholar]Gibinski M, Kowaski S, Sady M, Krawontka J, Tonasik P, Sikora M. Thickening of sweet and sour sauces with various polysaccharide combinations. J Food Eng. 2006;75:407–414. doi: 10.1016/j.jfoodeng.2005.04.054. [CrossRef] [Google Scholar]Glicksman M (ed) (1982) Food hydrocolloids, Vol 1. CRC Publ, Boca Raton, Florida, pp 4–21Imeson A.  Carrageenan. In: Philips GO, Williams PA, editors. Handbook of hydrocolloids. New York: Woodhead Publ Ltd; 2000. pp. 87–101. [Google Scholar]Jones NR.  Uses of gelatin in edible products. In: Ward AG, Courts A, editors. The science and technology of gelatin. London: Academic; 1977. pp. 366–392. [Google Scholar]Kok MS, Hill SE, Mitchell JR. Viscosity of galactomannans during high temperature processing: influence of degradation and solubilization. Food Hydrocolloids. 1999;13:535–542. doi: 10.1016/S0268-005X(99)00040-5. [CrossRef] [Google Scholar]Koocheki A, Ghandi A, Razavi MAS, Mortazavi SA, Vasiljevic T. The rheological properties of ketchup as a function of different hydrocolloids and temperature. Int J Food Sci Technol. 2009;44:596–602. doi: 10.1111/j.1365-2621.2008.01868.x. [CrossRef] [Google Scholar]Kulicke WM, Kull AH, Kull W, Thielking H. Characterization of aqueous carboxymethyl cellulose solutions in terms of their molecular structure and its influence on rheological behaviour. Polymer. 1996;37:2723–2731. doi: 10.1016/0032-3861(96)87634-8. [CrossRef] [Google Scholar]Liang C, Hu X, Ni Y, Wu J, Chen F, Liao X. Effect of hydrocolloids on pulp sediment, white sediment, turbidity and viscosity of reconstituted carrot juice. Food Hydrocolloids. 2006;20:1190–1197. doi: 10.1016/j.foodhyd.2006.01.010. [CrossRef] [Google Scholar]Liu XD, Bao DC, Xue WM, Xiong Y, Yu WT, Yu XJ, Ma XJ, Yuan Q. Preparation of uniform calcium alginate gel beads by membrane emulsification coupled with internal gelation. J Appl Polym Sci. 2003;87:848–852. doi: 10.1002/app.11537. [CrossRef] [Google Scholar]Marcotte M, Hoshahili ART, Ramaswamy HS. Rheological properties of selected hydrocolloids as a function of concentration and temperature. Food Res Int. 2001;34:695–703. doi: 10.1016/S0963-9969(01)00091-6. [CrossRef] [Google Scholar]May CD.  Pectins. In: Philips GO, Williams PA, editors. Handbook of hydrocolloids. New York: Woodhead Publ Ltd; 2000. pp. 169–188. [Google Scholar]Michel AS, Mestdagh MM, Axelos MAV. Physicochemical properties of carrageenan gels in presence of various cations. Int J Biol Macromol. 1997;21:195–200. doi: 10.1016/S0141-8130(97)00061-5. [PubMed] [CrossRef] [Google Scholar]Moritaka H, Naito S, Nishinari K, Ishihara M, Fukuba H. Effects of gellan gum, citric acid and sweetener on the texture of lemon jelly. J Texture Stud. 1999;30:29–41. doi: 10.1111/j.1745-4603.1999.tb00200.x. [CrossRef] [Google Scholar]Morris VJ.  Gelation of polysaccharides. In: Hill SE, Ledward DE, Mitchell JR, editors. Functional properties of food macromolecules. Gaithersburg: Aspen Publ; 1998. pp. 143–226. [Google Scholar]Mothe CG, Rao MA. Rheological behavior of aqueous dispersions of cashew gum and gum Arabic: effect of concentration and blending. Food Hydrocolloids. 1999;13:501–506. doi: 10.1016/S0268-005X(99)00035-1. [CrossRef] [Google Scholar]Murray JCF.  Cellulosics. In: Philips GO, Williams PA, editors. Handbook of hydrocolloids. New York: Woodhead Publ Ltd; 2000. pp. 219–229. [Google Scholar]Nickerson MT, Paulson AT, Speers RA. Time-temperature studies of gellan polysaccharide-high sugar mixtures: effect of sodium ions on structure formation. J Food Sci. 2007;72:E315–E319. doi: 10.1111/j.1750-3841.2007.00388.x. [PubMed] [CrossRef] [Google Scholar]Nishinari K, Zhang H. Recent advances in the understanding of heat set gelling polysaccharides. Trends Food Sci Technol. 2004;15:305–312. doi: 10.1016/j.tifs.2003.05.001. [CrossRef] [Google Scholar]Nussinovitch A.  Hydrocolloid applications—gum technology in the food and other industries. London: Blackie Academic and Professional; 1997. pp. 765–778. [Google Scholar]Oakenfull D. Gelling agents. CRC Crit Rev Food Sci Nutr. 1987;26:1–31. doi: 10.1080/10408398709527460. [PubMed] [CrossRef] [Google Scholar]Onsoyen E.  Alginates. In: Imeson A, editor. Thickening and gelling agents for food. London: Blackie Academic and Professional; 1992. pp. 14–22. [Google Scholar]Philips GO, Williams PA (eds) (2000). Introduction to food hydrocolloids. In: Handbook of hydrocolloids, Woodhead Publ Ltd, New York, pp 1–19Philips GO, Wedlock DJ, Williams PA.  Molecular origin of hydrocolloid functionality. In: Philips GO, Williams PA, Wedlock DJ, editors. Gums and stabilizers for the food industry, vol 3. Oxford: IRL Press; 1986. pp. 3–5. [Google Scholar]Poppe J.  Gelatin. In: Imeson A, editor. Thickening and gelling agents for food. London: Blackie Academic and Professional; 1992. pp. 111–121. [Google Scholar]Puvanenthiran A, Goddard SJ, Mekinnon IR, Augustin MA. Milk-based gels made with κ-carrageenan. J Food Sci. 2003;68:137–141. doi: 10.1111/j.1365-2621.2003.tb14129.x. [CrossRef] [Google Scholar]Ravi R, Bhattacharya S. Flow behaviour of chickpea (Cicer arietinum L.): effect of additives. J Food Eng. 2004;65:619–624. doi: 10.1016/j.jfoodeng.2004.02.030. [CrossRef] [Google Scholar]Rodriguez-Hernandez AI, Tecante A. Dynamic viscoelastic behaviour of gellan-ι-carrageenan and gellan-xanthan gels. Food Hydrocolloids. 1999;13:59–64. doi: 10.1016/S0268-005X(98)00070-8. [CrossRef] [Google Scholar]Roopa BS, Bhattacharya S. Alginate gels: I. Characterization of textural attributes. J Food Eng. 2008;85:123–131. doi: 10.1016/j.jfoodeng.2007.07.012. [CrossRef] [Google Scholar]Roopa BS, Bhattacharya S. Alginate gels: rupture characteristics as a function of the conditions of gel formation. J Food Eng. 2009;91:448–454. doi: 10.1016/j.jfoodeng.2008.09.023. [CrossRef] [Google Scholar]Sahin H, Ozdemir F. Effect of some hydrocolloids on the rheological properties of different formulated ketchups. Food Hydrocolloids. 2004;18:1015–1022. doi: 10.1016/j.foodhyd.2004.04.006. [CrossRef] [Google Scholar]Shchipunov YA, Chesnokov AV. Carrageenan gels in skim milk: formation and rheological properties. Colloid J. 2003;65:105–113. doi: 10.1023/A:1022335428512. [CrossRef] [Google Scholar]Sikora M, Kowalski S, Tomasik P, Sady M. Rheological and sensory properties of dessert sauces thickened by starch-xanthan gum combination. J Food Eng. 2007;79:1144–1151. doi: 10.1016/j.jfoodeng.2006.04.003. [CrossRef] [Google Scholar]Snoeren THM, Payens TAJ, Jeunink J, Both P. Electrostatic interaction between κ-carrageenan and κ-casein. Milchwissenschaft. 1975;30:393–396. [Google Scholar]Sopade PA, Halley PJ, Cichero JAY, Ward LC, Liu J, Varliveli S. Rheological characterization of food thickeners marketed in Australia in various media for the management of dysphagia. III. Fruit juice as a dispersing medium. J Food Eng. 2008;86:604–615. doi: 10.1016/j.jfoodeng.2007.11.013. [CrossRef] [Google Scholar]Stanley NF.  Agar. In: Stephen AM, Philips GO, Williams PA, editors. Food polysaccharides and their applications. Boca Raton, Florida: CRC Press; 2006. pp. 225–228. [Google Scholar]Sworn G.  The gelation of gellan gum in confectionery systems. In: Philips GO, Williams PA, Wedlock DJ, editors. Gums and stabilizers for the food industry, vol 8. Oxford: IRL Press; 1996. pp. 341–349. [Google Scholar]Sworn G.  Gellan gum. In: Philips GO, Williams PA, editors. Handbook of hydrocolloids. New York: Woodhead Publ Ltd; 2000. pp. 117–134. [Google Scholar]Sworn G.  Hydrocolloid thickeners and their applications. In: Philips GO, Williams PA, editors. Gums and Stabilizers for the Food Industry, vol12. Oxford: RSC Publishing; 2004. pp. 13–22. [Google Scholar]Sworn G, Sanderson GR, Gibson W. Gellan gum fluid gels. Food Hydrocolloids. 1995;9:265–271. doi: 10.1016/S0268-005X(09)80257-9. [CrossRef] [Google Scholar]Thomas WR.  Carrageenans. In: Imeson A, editor. Thickening and gelling agents for food. London: Blackie Academic and Professional; 1992. pp. 36–39. [Google Scholar]Toba S, Yoshida H, Tokita T. Konjac mannan containing reversible gel. US Patent. 1987;4(676):976. [Google Scholar]Tosh S, Marangoni A, Hallet F, Britt I. Aging dynamics in gelatin gel microstructure. Food Hydrocolloids. 2003;17:503–513. doi: 10.1016/S0268-005X(03)00018-3. [CrossRef] [Google Scholar]Turabi E, Summu G, Sahin S. Rheological properties and quality of rice cakes formulated with different gums and emulsifier blend. Food Hydrocolloids. 2008;22:305–312. doi: 10.1016/j.foodhyd.2006.11.016. [CrossRef] [Google Scholar]Urlacher B, Dalbe B.  Xanthan. In: Imeson A, editor. Thickening and gelling agents for food. London: Blackie Academic and Professional; 1992. pp. 202–226. [Google Scholar]Uzuhashi Y, Nishinari K. Physicochemical properties of agar and its utilization in food and related industry. Foods Food Ingredients J Jpn. 2003;208:791–798. [Google Scholar]Valli CR, Miskiel FJ.  Gellan gum. In: Cho S, Dreher ML, editors. Handbook of dietary fiber. Boca Raton: CRC Publ; 2001. pp. 695–720. [Google Scholar]Verbeken D, Thas O, Dewettinck K. Textural properties of gelled dairy desserts containing κ-carrageenan and starch. Food Hydrocolloids. 2004;18:817–833. doi: 10.1016/j.foodhyd.2003.12.007. [CrossRef] [Google Scholar]Verbeken D, Bael K, Thas O, Dewettinck K. Interaction between κ-carrageenan, milk proteins and modified starch in gelled dairy desserts. Int Dairy J. 2006;16:482–488. doi: 10.1016/j.idairyj.2005.06.006. [CrossRef] [Google Scholar]Walstra P (ed) (2003) Soft solids. In: Physical chemistry of foods. Marcel Dekker, New York, pp 714–768Wang Q, Ellis PR, Ross-Murphy SB. The stability of guar gum in aqueous system under acidic conditions. Food Hydrocolloids. 2000;14:129–134. doi: 10.1016/S0268-005X(99)00058-2. [CrossRef] [Google Scholar]Weiping W.  Tragacanth and Karaya. In: Philips GO, Williams PA, editors. Handbook of hydrocolloids. New York: Woodhead Publ Ltd; 2000. pp. 231–245. [Google Scholar]Wielinga WC, Maehall AG.  Galactomannans. In: Philips GO, Williams PA, editors. Handbook of hydrocolloids. New York: Woodhead Publ Ltd; 2000. pp. 137–153. [Google Scholar]Wilats WJT, Knox JP, Mikkelsen JD. Pectin: New insights into an old polymer are starting to gel. Food Sci Technol. 2006;17:97–104. [Google Scholar]Williams PA.  An overview of the structure-function relationship of hydrocolloids. In: Philips GO, Williams PA, editors. Gums and stabilizers for the food industry, vol 13. Oxford: RSC Publ; 2006. pp. 15–29. [Google Scholar]Williams PA, Philips GO.  Gum Arabic. In: Philips GO, Williams PA, editors. Handbook of hydrocolloids. New York: Woodhead Publishing Limited; 2000. pp. 155–168. [Google Scholar]Articles from Journal of Food Science and Technology are provided here courtesy of Springer
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (242K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

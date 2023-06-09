@@ -1,0 +1,704 @@
+Document Name: role of Arnica LS in Eye Cream0
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8537440/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clinical Trials, Potential Mechanisms, and Adverse Effects of Arnica as an Adjunct Medication for Pain Management - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Medicines (Basel)
+
+
+                    PMC8537440
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (306K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Medicines (Basel)
+
+
+                    PMC8537440
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Medicines (Basel). 2021 Oct; 8(10): 58. Published online 2021 Oct 9.  doi: 10.3390/medicines8100058PMCID: PMC8537440PMID: 34677487Clinical Trials, Potential Mechanisms, and Adverse Effects of Arnica as an Adjunct Medication for Pain ManagementAmanda G. Smith,1 Victoria N. Miles,1 Deltrice T. Holmes,2 Xin Chen,3 and  Wei Lei1,*Amanda G. Smith1Department of Pharmaceutical and Administrative Sciences, Presbyterian College School of Pharmacy, Clinton, SC 29325, USA; ude.ybserp@htimsga (A.G.S.); ude.ybserp@selimnv (V.N.M.)Find articles by Amanda G. SmithVictoria N. Miles1Department of Pharmaceutical and Administrative Sciences, Presbyterian College School of Pharmacy, Clinton, SC 29325, USA; ude.ybserp@htimsga (A.G.S.); ude.ybserp@selimnv (V.N.M.)Find articles by Victoria N. MilesDeltrice T. Holmes2Department of Biology, College of Art and Sciences, Presbyterian College, Clinton, SC 29325, USA; ude.ybserp@semlohtdFind articles by Deltrice T. HolmesXin Chen3Department of Pharmaceutical Sciences, College of Pharmacy and Health Sciences, Campbell University, Buies Creek, NC 27506, USA; ude.llebpmac@nehcxFind articles by Xin ChenWei Lei1Department of Pharmaceutical and Administrative Sciences, Presbyterian College School of Pharmacy, Clinton, SC 29325, USA; ude.ybserp@htimsga (A.G.S.); ude.ybserp@selimnv (V.N.M.)Find articles by Wei LeiWilliam Cho, Academic EditorAuthor information Article notes Copyright and License information Disclaimer1Department of Pharmaceutical and Administrative Sciences, Presbyterian College School of Pharmacy, Clinton, SC 29325, USA; ude.ybserp@htimsga (A.G.S.); ude.ybserp@selimnv (V.N.M.)2Department of Biology, College of Art and Sciences, Presbyterian College, Clinton, SC 29325, USA; ude.ybserp@semlohtd3Department of Pharmaceutical Sciences, College of Pharmacy and Health Sciences, Campbell University, Buies Creek, NC 27506, USA; ude.llebpmac@nehcx*Correspondence: ude.ybserp@ielw; Tel.: +1-(864)-938-3836Received 2021 Aug 23; Accepted 2021 Oct 2.Copyright © 2021 by the authors.Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).Associated DataData Availability StatementAll the data are available within the article.AbstractArnica has traditionally been used in treating numerous medical conditions, including inflammation and pain. This review aims to summarize the results of studies testing Arnica products for pain management under different conditions, including post-operation, arthritis, low back pain, and other types of musculoskeletal pain. Based on data from clinical trials, Arnica extract or gel/cream containing Arnica extract shows promising effects for pain relief. These medical benefits of Arnica may be attributed to its chemical components, with demonstrated anti-inflammatory, antioxidant, anti-microbial, and other biological activities. In conclusion, Arnica could be an adjunct therapeutical approach for acute and chronic pain management.Keywords: Arnica, pain, herbal medication, alternative therapy, inflammation1. IntroductionPain is a serious health concern and affects more than 100 million people in the United States [1]. Pain reduces the quality of life of patients, and treatment of pain is costly [2]. There are various underlying pathologies associated with pain, such as comorbid conditions, injury, medical treatment, inflammation, neuropathy, and idiopathic pain [2]. It is widely accepted that chronic pain results from a complex interaction of physiological, psychological, and social influences [3]. The multi-faceted nature of pain complicates strategies for management [3]. Further still, the most widely utilized treatment options, such as non-steroidal anti-inflammatory drugs and opioid analgesics, show clinical efficacy in relieving pain; however, the adverse effects associated with those medications limit their use for pain management [4]. Therefore, discovering alternative therapies for pain management is in high demanded.Arnica belongs to the Asteraceae family, a group of flowering plants containing several well-known members, such as marigold, daisy, and chamomile [5]. Arnica has been used in traditional and homeopathic medicine for centuries in Europe and North America [6]. Multiple species within this genus have been documented and studied for medical potential. A. montana and A. chamissons are native to Europe, while A. acaulis, A. cordifolia, A. fulgens, and A. sororia are native to North America [7]. Many species are used in homeopathic and traditional medicine practices, although A. montana is the most commonly used species in commercially produced products [8].Arnica has been used in homeopathic medicine for centuries for dozens of pathological conditions, including joint and muscle pain, inflammation, and arthritis [8]. Arnica has various pharmacologic activities, including anti-inflammatory, analgesic, anti-microbial, antirheumatic, antiarthritic, and antineoplastic activities [9]. Although Arnica is still used for these alternate indications, ingestible formulations are not utilized in modern therapies due to their cytotoxic properties [8]. Some homeopathic treatments may use highly diluted Arnica preparations for internal uses, although topical administration is most common [10].Treatment is available in the form of several homeopathic commercial products, including gels, creams, roll-ons, teas, pellets, liquids, and tablets [11]. These products are widely available in retail pharmacies ranging in strengths from 1 X to 30 X. Homeopathic medicine is dosed based on ten-fold dilutions, so a 30 X product has been diluted in a 1:10 ratio thirty times [12]. Topical preparations are more widely available, but there are ingestible products on the market. Marketing for these products is targeted at various patients, including those with chronic back pain, surgical wounds, bruising, cough, and arthritis [13].The German Commission E approved the use of Arnica flower products to treat hematomas, dislocations, contusions, edema, rheumatic joint and muscle pain, inflammation of the mouth and throat, insect bites, and superficial phlebitis [8]. The European Union has authorized the use of several Arnica-containing preparations—notably tinctures and liquid flower extracts—for external use only, and Arnica products are most often composed of A. montana due to the cultivation of this species [8]. In the United States, Arnica is available in natural products, although varying concentrations can occur in these formulations due to less strenuous labeling and testing requirements [14]. In addition to pharmaceutic preparations, it is also used in cosmetic products, hair tonics, anti-dandruff products, and as natural flavorings in foods and beverages [11].This paper aims to collect evidence for using Arnica as an alternative approach for pain management. We will summarize the findings from clinical trials testing Arnica on pain relief. We will also discuss the potential mechanisms of action, safety, and adverse effects of Arnica for pain management.2. Arnica for Pain ManagementAs mentioned above, Arnica has a long history of being used for pain relief. In the last few decades, clinical studies have been conducted to investigate the activity of Arnica on pain under different conditions, such as post-operation and with arthritis. The commonly used forms of Arnica are a diluted hydroalcoholic extract of flower heads or fresh plants, creams, ointments, and gels containing Arnica extract or Arnica oil [11].2.1. Post-Operative PAINPost-operative pain is one of the most common types of acute pain to occur after an operation, and effective management of pain is essential following a surgical procedure [15].Arnica has mainly been studied on patients suffering from post-operative pain. Pain after different surgical processes affects patients’ quality of life and recovery, along with increasing the cost [16]. Arnica has shown mixed effects on post-operative pain. Treatment with either Arnica tablets or herbal Arnica ointment for two weeks significantly reduced pain after hand surgery compared to placebos [17]. In another study, after varicose vein surgery, patients who were treated with Arnica showed a trend toward reducing pain [18]. Brinkhaus et al. investigated the effectiveness of Arnica on post-operative pain after arthroscopy, artificial knee joint implantation, or cruciate ligament reconstruction [19]. They found that Arnica only showed significant beneficial improvement in patients after cruciate ligament reconstruction. Dental surgical procedures cause pain and other postsurgical sequels [20], and trials have been conducted to investigate the activity of Arnica on those symptoms. Mawardi et al. reported that the systemic use of Arnica significantly reduced pain scores after dental extraction compared to the placebo group [21]. Similar results were found in another trial conducted on patients following tonsillectomy [22]. Patients treated with two tablets six times during the first post-operative day, and then two tablets twice a day for the next seven days, displayed a significant decrease in pain scores after their tonsillectomy [22]. However, Kaziro and colleagues reported the opposite effect after using Arnica as a treatment for patients undergoing the removal of impacted wisdom teeth [23]. They found that patients who received the Arnica treatment suffered greater pain compared to patients treated with a placebo [23]. Several other trials reported that therapy with Arnica had no evidence of effects on pain relief after surgical procedures, even though it showed improvement on other symptoms related to the operation [16,24,25,26]. Patients undergoing elective surgery for carpal tunnel syndrome were treated with Arnica or a placebo for seven days before surgery and fourteen days after surgery [24]. Compared to the placebo group, the results showed no improvement for Arnica in reducing patients’ post-operative pain [24,27]. Cornu et al. also found that Arnica combined with Bryonia did not relieve pain after the cardiac surgery [25]. Barlow et al. reported that Arnica showed no evidence of an effect on pain after knee surgery [16]. In addition, Arnica ointment 10% did not improve any outcomes, including pain, after undergoing upper blepharoplasty [26].In another clinical trial, Karow et al. compared the effect of Arnica to that of diclofenac on patients who received hallux valgus surgery. They found that Arnica showed a modest impact on pain relief but was less toxic compared to diclofenac [28]. Procedural neonatal pain is a type of pain associated with the examination, investigation, and treatment of neonates and infants, and uncontrolled neonatal pain could affect long-term development [29,30]. There is one trial that investigated the effect of Arnica on neonatal pain. Treatment with Arnica exhibited the most efficacy on pain relief at 30 s and 5 min after the procedure compared to the control and Sol.Glucosae 25% (an analgesic for neonatal pain) [31]. In addition, treatment with Arnica reduced seroma formation and opioid intake in patients who underwent mastectomy and reconstruction [32].In summary, Arnica showed different effects in different trials. However, it was better tolerated compared to the commonly used medications for post-operative pain, such as diclofenac [28]. It also could reduce opioid intake for pain management after surgery [32]. However, more studies are needed to confirm the impact of Arnica on post-operative pain and its treatment.2.2. Pain in Patients with ArthritisChronic inflammatory and noninflammatory joint diseases, such as osteoarthritis, are major causes of pain in adults [33]. A few clinical trials have tested the effect of Arnica on pain in patients with arthritis. Patients with hand osteoarthritis that was treated with Arnica extract gel for three weeks exhibited a moderate reduction in their pain score [34]. The Arnica fresh plant gel showed similar activity to the gel extract in patients with knee osteoarthritis. Pain scores were significantly reduced through treatment with the Arnica fresh plant gel for three and six weeks [35]. Another trial conducted with patients with calcific periarthritis of the shoulder found that an ointment mixture of Arnica, Acidum, and Hekla resulted in a more potent reduction in pain compared to Arnica alone, which may indicate a synergistic effect when Arnica is used with other herbs [36]. Knuesel et al. compared the effect of ibuprofen and Arnica on patients with hand osteoarthritis and found that Arnica showed comparable pain management activity to that of ibuprofen [37]. In addition, Tsintzas et al. reported that Arnica showed promising improvement in joint pain for two patients [38].2.3. Low Back PainLow back pain is a growing health issue and has been the most common cause of work-related disability [39]. Approaches for the management of low back pain are sorely needed. Treatment with a homeopathic complex, including Arnica, Bryonia, Causticum, Kalmia, Rhus, and Calcarea, was found to significantly improve pain symptoms in patients with chronic low back pain, even though it did not change the need for conventional pain medication [40]. da Silva et al. tested a fluid extract of Solidago chilensis, a Brazilian Arnica, in patients with lumbago and found that two daily skin applications of a gel containing a 5% of such extract for 15 days significantly reduced the perception of pain [41]. However, the results from the trial that tested this Brazilian Arnica in low back pain patients need to be further investigated [42].2.4. Other Musculoskeletal PainA trial tested the effect of homeopathic therapy containing Arnica 200 CH, with and without a combination of two creams containing Arnica, on pain resulting from sports post-trauma ankle sprains in amateur sport practitioners [43]. Treatment with Arnica alone or in combination with Arnica creams, for 6 and 12 days, reduced pain more efficiently compared to the control group [43]. The application of a gel cream containing 5% Solidago chilensis (a Brazilian Arnica extract) to the skin for 21 days reduced arm pain in patients suffering from tendinitis of the flexor and extensor tendons [44].The effect of Arnica on exercise-induced muscle pain has been tested in healthy individuals. Topical Arnica, applied to the skin every four waking hours, reduced pain three days after a downhill run [45]. Unfortunately, leg pain 24 h after eccentric calf raises was increased through treatment with a cream containing Arnica [46].3. Mechanisms of Action for Pain ManagementThe beneficial impact of Arnica on pain relief may be the result of its anti-inflammatory, anti-microbial, antioxidant, and immunomodulatory activities [10,47,48]. The anti-inflammatory properties of Arnica have been widely investigated in cell and animal models. The Lychnophora passerina (a Brazilian Arnica) crude ethanolic extract, and its ethyl acetate and methanolic fractions, reversed the lipopolysaccharides/interferon gamma-induced nitric oxide (NO) and tumor necrosis factor-alpha (TNF-α) production in J774.A1 macrophages [49]. The crude extract and fractions also increased the production of the anti-inflammatory cytokine, interleukin (IL)-10 [49]. Further, an ointment containing either 10% of the crude ethanolic extract or 20% of the fractions showed a similar effect to that of diclofenac in the carrageenan-induced paw edema mice model [49]. The anti-inflammatory activities of Arnica were also determined in human umbilical vein endothelial cells stimulated with TNF-α [50]. Treatment with Arnica diminished the expression of the intracellular cell adhesion molecule (ICAM-1) induced by TNF-α in the endothelial cells [50] and increased the anti-inflammatory macrophage population compared to pro-inflammatory macrophages in mice with injured skeletal muscles. Alfredo et al. demonstrated that a massage with Arnica gel for three days reduced the density of polymorphonuclear cells in rats with Tibialis Anterior muscle lesions, thus indicating an inflammatory response [51]. Using a rat paw edema model induced by carrageenin, Kawakami et al. found that Arnica attenuated edema and the degranulation of mast cells, and increased the lymphatic vessel diameter [52]. The methanol extract of the Arnica flower exhibited inhibitory activity on the expression of TNF-α, IL-1β, IL-6, and IL-12 in rats with collagen-induced arthritis [53].There has been a wide variety of claims regarding the anti-microbial properties of Arnica components [54]. In traditional medicine, Arnica was routinely used for infection, especially dental and oral infections [54]. The mechanism is not understood, and there is little data on its clinical use in humans for anti-microbial activity; however, in animal models, anti-microbial properties are observed [55].A study of cutaneous leishmaniasis in Golden hamsters found that an Arnica tincture caused slightly better resolution and wound-healing than meglumine antimonate, a standard treatment drug for leishmaniasis [55]. The synergistic anti-inflammatory properties of Arnica may also contribute to the improvement of lesion healing [6]. Another study found improvements in pododermatitis infection and edema in captive penguins treated with oral Arnica and Calcarea, without notable adverse effects [56].The ethanol/water extract of Arnica flowers, rich in flavonoids and phenolic acids, demonstrated high, Trolox-equivalent antioxidant capacity, oxygen radical absorbance capacity, and free radical-scavenging activity [57]. This extract also prevented hydrogen peroxide-induced oxidative damage and morphological changes in fibroblast cells [57]. The radical scavenging activity was also determined in crude methanol extracts of Arnica [48].Over 150 bioactive components have been identified in the stem and leaves, flowers, seeds, and roots of Arnica [6]. These include sesquiterpene lactones, flavonoids, volatile oils, coumarins, helenalin, carotenoids, diterpene alcohols, arnidiol, pyrrolizidine alkaloids, phenolic acids, essential oils, oligosaccharides, and lignans [6,58]. The anti-inflammatory, anti-microbial, antioxidant, and immunomodulatory activities of the chemical compounds in Arnica have been investigated in different models [59,60,61,62,63].One source indicates that the polysaccharides, arabino-3,6-galactan-protein, and fucogalactoxyloglucan, in the Arnica flowers significantly promote phagocytosis and the production of TNF-α in immune cells [59]. Helenalin, one of the primary active components of Arnica, also expresses anti-inflammatory and immunosuppressive effects [60]. Helenalin can induce apoptosis and inhibit CD-4+ T cell proliferation through stabilizing p53, increasing reactive oxygen species (ROS), and suppressing nuclear translocation of the nuclear factor of activated T cells, cytoplasmic 2 (NFATc2), in activated CD-4+ T cells [60]. Helenalin also inhibits the activation of nuclear factor-kappa B (NF-κB) in T cells, B cells, and epithelial cells, via diminishing the phosphorylation of IκB, which promotes the dissociation of NF-κB/IκB, leading to the activation of NF-κB [61,62]. A high concentration of sesquiterpene lactones (SL)—secondary plant metabolites from Arnica suppressed IL-12 production and NF-κB activation in dendritic cells [63]. In contrast, a low concentration of SL exhibited immunostimulatory effects [63].4. Safety and ToxicityArnica is generally used via oral administration and in a topical form [10]. The medicinal formulations used in homeopathic and commercially produced products contain diluted concentrations tolerated in oral and topical products [34]. However, dosing is not standardized across different products, resulting in variation in concentration levels between different manufacturers; this is a concern, as safety risks may be associated with higher doses [34].Preclinical studies demonstrated the oral LD50 of the extract in mice and rats [64,65]. Paula-Freire et al. tested a range of doses of a hydroalcoholic extract (30–100 mg/kg) and found that the LD50 was 512.5 mg/kg body weight in mice [64]. Another study demonstrated that the LD50 for Arnica was 54.7 mg/kg body weight in rats [65].In clinical trials, adverse dermatologic effects were commonly reported with topical therapies. Contact dermatitis can develop, resulting in a rash, itching, and dry skin [66]. Allergic reactions are common with topical products and are cross-reactive with plants in the Compositae and Asteraceae families [67].As indicated previously, oral formulations pose a greater risk of toxicity and cause more adverse effects than topical formulations [10]. Oral products are more sensitive to inconsistencies in product concentrations, particularly in higher concentrations. In clinical trials, patients reported gastrointestinal effects, dry mouth, headache, drowsiness, and lethargy [24]. High concentrations are associated with gastroenteritis, vomiting, diarrhea, shortness of breath, and tachycardia [28]. Dyspnea and cardiac arrest may result [25]. Arnica also has anticoagulant and antiplatelet effects due to its coumarin content. Many clinical trials contraindicated the use of Arnica while on anticoagulant or antiplatelet drug therapies due to an increased risk of developing a bleed [11]. Arnica therapy may also lower the efficacy of antihypertensive drug therapies [11].Due to a lack of data, combined with its toxic components, Arnica is typically considered unsafe to use during pregnancy [68]. Data from some studies suggest that topical products may be safe for use during breastfeeding [68]. One study documented hemolytic anemia and increased bilirubin in a nine-year-old breastfed infant that was likely caused by maternal ingestion of Arnica [69].5. ConclusionsIn conclusion, Arnica presents comparable activity to standard medications, such as ibuprofen and diclofenac, for pain management under different medical conditions. It also shows fewer adverse effects along with lower costs. Arnica could be an adjunct approach for acute and chronic pain management.Author ContributionsLiterature search and writing—original draft preparation, A.G.S., V.N.M. and W.L.; writing—review and editing, D.T.H., X.C. and W.L.; supervision, W.L. All authors have read and agreed to the published version of the manuscript.FundingThis research received no external funding.Data Availability StatementAll the data are available within the article.Conflicts of InterestThe authors declare no conflict of interest.FootnotesPublisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.References1. Dinakar P., Stillman A.M. Pathogenesis of pain. Semin. Pediatr. Neurol. 2016;23:201–208. doi: 10.1016/j.spen.2016.10.003. [PubMed] [CrossRef] [Google Scholar]2. Pizzo P.  Relieving Pain in America: A blueprint for Transforming Prevention, Care, Education, and Research. National Academies Press; Washington, DC, USA: 2011.  [CrossRef] [Google Scholar]3. Gatchel R.J., Peng Y.B., Peters M.L., Fuchs P.N., Turk D.C. The biopsychosocial approach to chronic pain: Scientific advances and future directions. Psychol. Bull. 2007;133:581–624. doi: 10.1037/0033-2909.133.4.581. [PubMed] [CrossRef] [Google Scholar]4. Perez de Vega M.J., Ferrer-Montiel A., Gonzalez-Muniz R. Recent progress in non-opioid analgesic peptides. Arch. Biochem. Biophys. 2018;660:36–52. doi: 10.1016/j.abb.2018.10.011. [PubMed] [CrossRef] [Google Scholar]5. Nowicka P., Wojdyło A. Anti-Hyperglycemic and Anticholinergic Effects of Natural Antioxidant Contents in Edible Flowers. Antioxidants. 2019;8:308.  doi: 10.3390/antiox8080308. [PMC free article] [PubMed] [CrossRef] [Google Scholar]6. Kriplani P., Guarve K., Baghael U.S. Arnica montana L.—A plant of healing: Review. J. Pharm. Pharm. 2017;69:925–945. doi: 10.1111/jphp.12724. [PubMed] [CrossRef] [Google Scholar]7. Shahid M., Rao N. First record of the two Asteraceae species from the United Arab Emirates. J. New Biol. Rep. 2015;4:215–218. [Google Scholar]8. Simon L.S. Relieving pain in America: A blueprint for transforming prevention, care, education, and research. J. Pain Palliat. Care Pharmacother. 2012;26:197–198. doi: 10.3109/15360288.2012.678473. [CrossRef] [Google Scholar]9. Garcia-Oliveira P., Barral M., Carpena M., Gullón P., Fraga-Corral M., Otero P., Prieto M.A., Simal-Gandara J. Traditional plants from Asteraceae family as potential candidates for functional food industry. Food Funct. 2021;12:2850–2873. doi: 10.1039/D0FO03433A. [PubMed] [CrossRef] [Google Scholar]10. Iannitti T., Morales-Medina J.C., Bellavite P., Rottigni V., Palmieri B. Effectiveness and Safety of Arnica montana in Post-Surgical Setting, Pain and Inflammation. Am. J. Ther. 2016;23:e184–e197. doi: 10.1097/MJT.0000000000000036. [PubMed] [CrossRef] [Google Scholar]11. Kouzi S.A., Nuzum D.S. Arnica for bruising and swelling. Am. J. Health Syst. Pharm. 2007;64:2434–2443. doi: 10.2146/ajhp070155. [PubMed] [CrossRef] [Google Scholar]12. Belsito D.V., Klaassen C.D., Liebler D.C., Hill R.A. Safety assessment of Chamomilla Recutita-derived ingredients as used in cosmetics; Proceedings of the 2013 Cosmetic Ingredient Review Expert Panel; Washington, DC, USA. 9–10 September 2013. [Google Scholar]13. Arnica  . Drugs and Lactation Database (LactMed) National Library of Medicine; Bethesda, MD, USA: 2006.  [Google Scholar]14. Balch P.A.  Prescription for Herbal Healing. Penguin; London, UK: 2002.  [Google Scholar]15. Doleman B., Leonardi-Bee J., Heinink T.P., Bhattacharjee D., Lund J.N., Williams J.P. Pre-emptive and preventive opioids for postoperative pain in adults undergoing all types of surgery. Cochrane Database Syst. Rev. 2018;12:CD012624. doi: 10.1002/14651858.CD012624.pub2. [PMC free article] [PubMed] [CrossRef] [Google Scholar]16. Barlow T., Downham C., Barlow D. The effect of complementary therapies on post-operative pain control in ambulatory knee surgery: A systematic review. Complement. Ther. Med. 2013;21:529–534. doi: 10.1016/j.ctim.2013.06.008. [PubMed] [CrossRef] [Google Scholar]17. Jeffrey S.L., Belcher H.J. Use of Arnica to relieve pain after carpal-tunnel release surgery. Altern. Ther. Health Med. 2002;8:66–68. [PubMed] [Google Scholar]18. Wolf M., Tamaschke C., Mayer W., Heger M. Efficacy of Arnica in varicose vein surgery: Results of a randomized, double-blind, placebo-controlled pilot study. Forsch. Komplementarmed. Klass. Naturheilkd. 2003;10:242–247. [PubMed] [Google Scholar]19. Brinkhaus B., Wilkens J.M., Lüdtke R., Hunger J., Witt C.M., Willich S.N. Homeopathic Arnica therapy in patients receiving knee surgery: Results of three randomised double-blind trials. Complement. Ther. Med. 2006;14:237–246. doi: 10.1016/j.ctim.2006.04.004. [PubMed] [CrossRef] [Google Scholar]20. Renton T. Minimising and managing nerve injuries in dental surgical procedures. Fac. Dent. J. 2011;2:164–171. doi: 10.1308/204268511X13154691747058. [CrossRef] [Google Scholar]21. Mawardi H., Ghazalh S., Shehatah A., Abdelwahid A., Aljohani A., Felemban O., Almazrooa S., Elbadawi L., Shawky H. Systemic Use of Arnica Montana for the Reduction of Postsurgical Sequels following Extraction of Impacted Mandibular 3rd Molars: A Pilot Study. Evid.-Based Complementary Altern. Med. 2020;2020:1–9. doi: 10.1155/2020/6725175. [PMC free article] [PubMed] [CrossRef] [Google Scholar]22. Robertson A., Suryanarayanan R., Banerjee A. Homeopathic Arnica montana for post-tonsillectomy analgesia: A randomised placebo control trial. Homeopathy. 2007;96:17–21. doi: 10.1016/j.homp.2006.10.005. [PubMed] [CrossRef] [Google Scholar]23. Kaziro G.S. Metronidazole (Flagyl) and Arnica Montana in the prevention of post-surgical complications, a comparative placebo controlled clinical trial. Br. J. Oral. Maxillofac. Surg. 1984;22:42–49. doi: 10.1016/0266-4356(84)90007-X. [PubMed] [CrossRef] [Google Scholar]24. Stevinson C., Devaraj V.S., Fountain-Barber A., Hawkins S., Ernst E. Homeopathic arnica for prevention of pain and bruising: Randomized placebo-controlled trial in hand surgery. J. R. Soc. Med. 2003;96:60–65. doi: 10.1177/014107680309600203. [PMC free article] [PubMed] [CrossRef] [Google Scholar]25. Cornu C., Joseph P., Gaillard S., Bauer C., Vedrinne C., Bissery A., Melot G., Bossard N., Belon P., Lehot J.J. No effect of a homoeopathic combination of Arnica montana and Bryonia alba on bleeding, inflammation, and ischaemia after aortic valve surgery. Br. J. Clin. Pharmacol. 2010;69:136–142. doi: 10.1111/j.1365-2125.2009.03574.x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]26. Van Exsel D.C., Pool S.M., van Uchelen J.H., Edens M.A., van der Lei B., Melenhorst W.B. Arnica Ointment 10% Does Not Improve Upper Blepharoplasty Outcome: A Randomized, Placebo-Controlled Trial. Plast. Reconstr. Surg. 2016;138:66–73. doi: 10.1097/PRS.0000000000002249. [PubMed] [CrossRef] [Google Scholar]27. Mayor S. Trial shows that homoeopathic arnica is no better than placebo. Br. Med. J. 2003;326:303. doi: 10.1136/bmj.326.7384.303/c. [CrossRef] [Google Scholar]28. Karow J.H., Abt H.P., Fröhling M., Ackermann H. Efficacy of Arnica montana D4 for healing of wounds after Hallux valgus surgery compared to diclofenac. J. Altern. Complement. Med. 2008;14:17–25. doi: 10.1089/acm.2007.0560. [PubMed] [CrossRef] [Google Scholar]29. McPherson C., Ortinau C.M., Vesoulis Z. Practical approaches to sedation and analgesia in the newborn. J. Perinatology. 2021;41:383–395. doi: 10.1038/s41372-020-00878-7. [PMC free article] [PubMed] [CrossRef] [Google Scholar]30. Wilson-Smith E.M. Procedural Pain Management in Neonates, Infants and Children. Rev. Pain. 2011;5:4–12. doi: 10.1177/204946371100500303. [PMC free article] [PubMed] [CrossRef] [Google Scholar]31. Ivanov V., Petleshkova P., Krasteva M., Karaslavova E., Semerdjieva M. Non-pharmacological treatment of procedural pain in long-term neonates. J. Perinat. Med. 2017;45:221. [Google Scholar]32. Lotan A.M., Gronovich Y., Lysy I., Binenboym R., Eizenman N., Stuchiner B., Goldstein O., Babai P., Oberbaum M. Arnica montana and Bellis perennis for seroma reduction following mastectomy and immediate breast reconstruction: Randomized, double-blind, placebo-controlled trial. Eur. J. Plast. Surg. 2020;43:285–294. doi: 10.1007/s00238-019-01618-7. [CrossRef] [Google Scholar]33. Chen D.I., Shen J., Zhao W., Wang T., Han L., Hamilton J.L., Im H.J. Osteoarthritis: Toward a comprehensive understanding of pathological mechanism. Bone. Res. 2017;5:16044. doi: 10.1038/boneres.2016.44. [PMC free article] [PubMed] [CrossRef] [Google Scholar]34. Cameron M., Chrubasik S. Topical herbal therapies for treating osteoarthritis. Cochrane Database Syst. Rev. 2013;5:Cd010538. doi: 10.1002/14651858.CD010538. [PMC free article] [PubMed] [CrossRef] [Google Scholar]35. Knuesel O., Weber M., Suter A. Arnica montana gel in osteoarthritis of the knee: An open, multicenter clinical trial. Adv. Ther. 2002;19:209–218. doi: 10.1007/BF02850361. [PubMed] [CrossRef] [Google Scholar]36. Zanella S., Buccelletti F., Franceschi F., Ramponi C., Spagnolli F., Sacchetti G., Oliva G., Lumachi F. Arnica compositum, Hekla lava and Acidum Nitricum Together are Superior to Arnica compositum Alone in the Local Treatment of Symptomatic Calcific Periarthritis of the Shoulder: A Pilot Study. Rev. Recent Clin. Trials. 2018;13:150–155. doi: 10.2174/1574887113666180319165700. [PubMed] [CrossRef] [Google Scholar]37. Widrig R., Suter A., Saller R., Melzer J. Choosing between NSAID and arnica for topical treatment of hand osteoarthritis in a randomised, double-blind study. Rheumatol. Int. 2007;27:585–591. doi: 10.1007/s00296-007-0304-y. [PubMed] [CrossRef] [Google Scholar]38. Tsintzas D., Mahesh S., Vithoulkas G. Individualized Treatment of Bone Marrow Edema of the Knee with the Aid of Classical Homeopathy: A Report of 2 Cases. Clin. Med. Insights. Case Rep. 2020;13:1–5. doi: 10.1177/1179547620904896. [PMC free article] [PubMed] [CrossRef] [Google Scholar]39. Merlino L.A., Rosecrance J.C., Anton D., Cook T.M. Symptoms of musculoskeletal disorders among apprentice construction workers. Appl. Occup. Environ. Hyg. 2003;18:57–64. doi: 10.1080/10473220301391. [PubMed] [CrossRef] [Google Scholar]40. Morris M., Pellow J., Solomon E.M., Tsele-Tebakang T. Physiotherapy and a Homeopathic Complex for Chronic Low-back Pain Due to Osteoarthritis: A Randomized, Controlled Pilot Study. Altern. Ther. Health Med. 2016;22:48–56. [PubMed] [Google Scholar]41. Da Silva A.G., de Sousa C.P., Koehler J., Fontana J., Christo A.G., Guedes-Bruni R.R. Evaluation of an extract of Brazilian arnica (Solidago chilensis Meyen, Asteraceae) in treating lumbago. Phytother. Res. 2010;24:283–287. doi: 10.1002/ptr.2934. [PubMed] [CrossRef] [Google Scholar]42. Oltean H., Robbins C., van Tulder M.W., Berman B.M., Bombardier C., Gagnier J.J. Herbal medicine for low-back pain. Cochrane Database Syst. Rev. 2014;2014:Cd004504. doi: 10.1002/14651858.CD004504.pub4. [PMC free article] [PubMed] [CrossRef] [Google Scholar]43. Jurcău R., Jurcău I. The effectiveness of Arnica Montana treatment, in sports post-trauma ankle sprains. Eficienţa tratamentului cu Arnica Montana, în entorse de gleznă post-traumatism sportive. Palestrica Third Millenn. Civiliz. Sport. 2013;14:33–39. [Google Scholar]44. Da Silva A.G., Machado E.R., de Almeida L.M., Menezes Nunes R.M., Giesbrecht P.C.P., Costa R.M., Costa H.B., Romão W., Kuster R.M. A Clinical Trial with Brazilian Arnica (Solidago chilensis Meyen) Glycolic Extract in the Treatment of Tendonitis of Flexor and Extensor Tendons of Wrist and Hand. Phytother. Res. 2015;29:864–869. doi: 10.1002/ptr.5323. [PubMed] [CrossRef] [Google Scholar]45. Pumpa K.L., Fallon K.E., Bensoussan A., Papalia S. The effects of topical Arnica on performance, pain and muscle damage after intense eccentric exercise. Eur. J. Sport Sci. 2014;14:294–300. doi: 10.1080/17461391.2013.829126. [PubMed] [CrossRef] [Google Scholar]46. Adkison J.D., Bauer D.W., Chang T. The effect of topical arnica on muscle pain. Ann. Pharmacother. 2010;44:1579–1584. doi: 10.1345/aph.1P071. [PubMed] [CrossRef] [Google Scholar]47. Bellavite P., Ortolani R., Conforti A. Immunology and homeopathy. 3. Experimental studies on animal models. Evid. Based Complement. Alternat. Med. 2006;3:171–186. doi: 10.1093/ecam/nel016. [PMC free article] [PubMed] [CrossRef] [Google Scholar]48. Nikolova M., Petrova M., Zayova E., Vitkova A., Evstatieva L. Comparative study of in vitro, ex vitro and in vivo grown plants of Arnica montana-polyphenols and free radical scavenging activity. Acta Bot. Croat. 2013;72:13–22. doi: 10.2478/v10184-012-0013-9. [CrossRef] [Google Scholar]49. Capelari-Oliveira P., Paula C.A.D., Rezende S.A., Campos F.T., Grabe-Guimarães A., Lombardi J.A., Saúde-Guimarães D.A. Anti-inflammatory activity of Lychnophora passerina, Asteraceae (Brazilian “Arnica”) J. Ethnopharmacol. 2011;135:393–398. doi: 10.1016/j.jep.2011.03.034. [PubMed] [CrossRef] [Google Scholar]50. Naoual B., Stéphane C., Terzan L. Assessment of anti-inflammatory activity of homeopathic Arnica montana. Int. J. High Dilution Res. 2013;12:121–122. [Google Scholar]51. Alfredo P.P., Anaruma C.A., Pião A.C., João S.M., Casarotto R.A. Effects of phonophoresis with Arnica montana onto acute inflammatory process in rat skeletal muscles: An experimental study. Ultrasonics. 2009;49:466–471. doi: 10.1016/j.ultras.2008.12.002. [PubMed] [CrossRef] [Google Scholar]52. Kawakami A.P., Sato C., Cardoso T.N., Bonamin L.V. Inflammatory Process Modulation by Homeopathic Arnica montana 6CH: The Role of Individual Variation. Evid. Based Complement. Alternat. Med. 2011;2011:917541. doi: 10.1155/2011/917541. [PMC free article] [PubMed] [CrossRef] [Google Scholar]53. Sharma S., Arif M., Nirala R.K., Gupta R., Thakur S.C. Cumulative therapeutic effects of phytochemicals in Arnica montana flower extract alleviated collagen-induced arthritis: Inhibition of both pro-inflammatory mediators and oxidative stress. J. Sci. Food Agric. 2016;96:1500–1510. doi: 10.1002/jsfa.7252. [PubMed] [CrossRef] [Google Scholar]54. Koo H., Gomes B.P.F.A., Rosalen P.L., Ambrosano G.M.B., Park Y.K., Cury J.A. In vitro antimicrobial activity of propolis and Arnica montana against oral pathogens. Arch. Oral Biol. 2000;45:141–148. doi: 10.1016/S0003-9969(99)00117-X. [PubMed] [CrossRef] [Google Scholar]55. Robledo S.M., Vélez I.D., Schmidt T.J. Arnica Tincture Cures Cutaneous Leishmaniasis in Golden Hamsters. Molecules. 2018;23:150.  doi: 10.3390/molecules23010150. [PMC free article] [PubMed] [CrossRef] [Google Scholar]56. Narita F.B., Scardoeli B., Neto H.G., de Paula Coelho C. Homeopathic Treatment of Pododermatitis in Magellanic Penguins (Spheniscus magellanicus) Homeopathy. 2021;110:62–66. [PubMed] [Google Scholar]57. Craciunescu O., Constantin D., Gaspar A., Toma L., Utoiu E., Moldovan L. Evaluation of antioxidant and cytoprotective activities of Arnica montana L. and Artemisia absinthium L. ethanolic extracts. Chem. Cent. J. 2012;6:97. doi: 10.1186/1752-153X-6-97. [PMC free article] [PubMed] [CrossRef] [Google Scholar]58. Craciunescu O., Constantin D., Gaspar A., Toma L., Utoiu E., Moldovan L. Morphological and chemical characterization of Arnica montana L. under different cultivation models. Ind. Crop. Prod. 2014;52:233–244. [Google Scholar]59. Puhlmann J., Zenk M., Wagnert H. Immunologically active polysaccharides of Arnica montana cell cultures. Phytochemistry. 1991;30:1141–1145. doi: 10.1016/S0031-9422(00)95191-4. [PubMed] [CrossRef] [Google Scholar]60. Berges C., Fuchs D., Opelz G., Daniel V., Naujokat C. Helenalin suppresses essential immune functions of activated CD4+ T cells by multiple mechanisms. Mol. Immunol. 2009;46:2892–2901. doi: 10.1016/j.molimm.2009.07.004. [PubMed] [CrossRef] [Google Scholar]61. Lyss G., Schmidt T.J., Merfort I., Pahl H.L. Helenalin, an anti-inflammatory sesquiterpene lactone from Arnica, selectively inhibits transcription factor NF-KB. Biol. Chem. 1997;378:951–961. doi: 10.1515/bchm.1997.378.9.951. [PubMed] [CrossRef] [Google Scholar]62. Lyß G., Knorre A., Schmidt T.J., Pahl H.L., Merfort I. The anti-inflammatory sesquiterpene lactone helenalin inhibits the transcription factor NF-KB by directly targeting p65. J. Biol. Chem. 1998;273:33508–33516. doi: 10.1074/jbc.273.50.33508. [PubMed] [CrossRef] [Google Scholar]63. Lass C., Vocanson M., Wagner S., Schempp C.M., Nicolas J.F., Merfort I., Martin S.F. Anti-inflammatory and immune-regulatory mechanisms prevent contact hypersensitivity to Arnica montana L. Exp. Dermatol. 2008;17:849–857. doi: 10.1111/j.1600-0625.2008.00717.x. [PubMed] [CrossRef] [Google Scholar]64. Paula-Freire L.I., Malpezzi-Marinho E.L., Molska G.R., Kohn D.O., Correa L., Marinho E.A. Evaluation of the acute toxicity of the hydroalcoholic extract of solidago chilensis meyen (Arnica Do campo) in mice. Am. J. Phytomed. Clin. Ther. 2014;2:217–228. [Google Scholar]65. Neto M.A.F., Fagundes D.J., Beletti M.E., Novo N.F., Juliano Y., Penha-Silva N. Systemic use of Solidago microglossa DC in the cicatrization of open cutaneous wounds in rats. J. Morphol. Sci. 2017;21:207–210. [Google Scholar]66. Reider N., Komericki P., Hausen B.M., Fritsch P., Aberer W. The seamy side of natural medicines: Contact sensitization to arnica (Arnica montana L.) and marigold (Calendula officinalis L.) Contact Dermat. 2001;45:269–272. doi: 10.1034/j.1600-0536.2001.450503.x. [PubMed] [CrossRef] [Google Scholar]67. Denisow-Pietrzyk M., Pietrzyk L., Denisow B. Asteraceae species as potential environmental factors of allergy. Environ. Sci. Pollut. Res. 2019;26:6290–6300. doi: 10.1007/s11356-019-04146-w. [PMC free article] [PubMed] [CrossRef] [Google Scholar]68. Allaire A.D., Moos M.K., Wells S.R. Complementary and alternative medicine in pregnancy: A survey of North Carolina certified nurse-midwives. Obstet. Gynecol. 2000;95:19–23. doi: 10.1097/00006250-200001000-00004. [PubMed] [CrossRef] [Google Scholar]69. Miller A., Ly B., Clark R. Neonatal hemolysis associated with nursing mother ingestion of arnica tea; Proceedings of the 2009 North American Congress of Clinical Toxicology Annual Meeting; San Antonio, TX, USA. 21–26 September 2009. [Google Scholar]Articles from Medicines are provided here courtesy of Multidisciplinary Digital Publishing Institute  (MDPI)
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (306K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

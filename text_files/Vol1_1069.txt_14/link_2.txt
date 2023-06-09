@@ -1,0 +1,1132 @@
+Document Name: role of MIGLYOL 840 in Eye Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7356360/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recent Advances in the Design of Topical Ophthalmic Delivery Systems in the Treatment of Ocular Surface Inflammation and Their Biopharmaceutical Evaluation - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Pharmaceutics
+
+
+                    PMC7356360
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.7M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Pharmaceutics
+
+
+                    PMC7356360
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Pharmaceutics. 2020 Jun; 12(6): 570. Published online 2020 Jun 19.  doi: 10.3390/pharmaceutics12060570PMCID: PMC7356360PMID: 32575411Recent Advances in the Design of Topical Ophthalmic Delivery Systems in the Treatment of Ocular Surface Inflammation and Their Biopharmaceutical EvaluationRoseline Mazet,1,2 Josias B. G. Yaméogo,3 Denis Wouessidjewe,1 Luc Choisnard,1 and  Annabelle Gèze1,*Roseline Mazet1DPM, UMR CNRS 5063, ICMG FR 2607, Faculty of Pharmacy, University of Grenoble Alpes, 38400 St Martin d’Hères, France; rf.elbonerg-uhc@tezamr (R.M.); rf.sepla-elbonerg-vinu@isseuow.sined (D.W.); rf.sepla-elbonerg-vinu@dransiohc.cul (L.C.)2Grenoble University Hospital, 38043 Grenoble, FranceFind articles by Roseline MazetJosias B. G. Yaméogo3UFR/SDS, University Joseph Ki-Zerbo, Ouagadougou 03 BP 7021, Burkina Faso; rf.oohay@gybsaisojFind articles by Josias B. G. YaméogoDenis Wouessidjewe1DPM, UMR CNRS 5063, ICMG FR 2607, Faculty of Pharmacy, University of Grenoble Alpes, 38400 St Martin d’Hères, France; rf.elbonerg-uhc@tezamr (R.M.); rf.sepla-elbonerg-vinu@isseuow.sined (D.W.); rf.sepla-elbonerg-vinu@dransiohc.cul (L.C.)Find articles by Denis WouessidjeweLuc Choisnard1DPM, UMR CNRS 5063, ICMG FR 2607, Faculty of Pharmacy, University of Grenoble Alpes, 38400 St Martin d’Hères, France; rf.elbonerg-uhc@tezamr (R.M.); rf.sepla-elbonerg-vinu@isseuow.sined (D.W.); rf.sepla-elbonerg-vinu@dransiohc.cul (L.C.)Find articles by Luc ChoisnardAnnabelle Gèze1DPM, UMR CNRS 5063, ICMG FR 2607, Faculty of Pharmacy, University of Grenoble Alpes, 38400 St Martin d’Hères, France; rf.elbonerg-uhc@tezamr (R.M.); rf.sepla-elbonerg-vinu@isseuow.sined (D.W.); rf.sepla-elbonerg-vinu@dransiohc.cul (L.C.)Find articles by Annabelle GèzeAuthor information Article notes Copyright and License information Disclaimer1DPM, UMR CNRS 5063, ICMG FR 2607, Faculty of Pharmacy, University of Grenoble Alpes, 38400 St Martin d’Hères, France; rf.elbonerg-uhc@tezamr (R.M.); rf.sepla-elbonerg-vinu@isseuow.sined (D.W.); rf.sepla-elbonerg-vinu@dransiohc.cul (L.C.)2Grenoble University Hospital, 38043 Grenoble, France3UFR/SDS, University Joseph Ki-Zerbo, Ouagadougou 03 BP 7021, Burkina Faso; rf.oohay@gybsaisoj*Correspondence: rf.sepla-elbonerg-vinu@ezeg.ellebanna; Tel.: +33-476-63-53-01Received 2020 May 19; Accepted 2020 Jun 9.Copyright © 2020 by the authors.Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).AbstractOcular inflammation is one of the most common symptom of eye disorders and diseases. The therapeutic management of this inflammation must be rapid and effective in order to avoid deleterious effects for the eye and the vision. Steroidal (SAID) and non-steroidal (NSAID) anti-inflammatory drugs and immunosuppressive agents have been shown to be effective in treating inflammation of the ocular surface of the eye by topical administration. However, it is well established that the anatomical and physiological ocular barriers are limiting factors for drug penetration. In addition, such drugs are generally characterized by a very low aqueous solubility, resulting in low bioavailability as only 1% to 5% of the applied drug permeates the cornea. The present review gives an updated insight on the conventional formulations used in the treatment of ocular inflammation, i.e., ointments, eye drops, solutions, suspensions, gels, and emulsions, based on the commercial products available on the US, European, and French markets. Additionally, sophisticated formulations and innovative ocular drug delivery systems will be discussed. Promising results are presented with micro- and nanoparticulated systems, or combined strategies with polymers and colloidal systems, which offer a synergy in bioavailability and sustained release. Finally, different tools allowing the physical characterization of all these delivery systems, as well as in vitro, ex vivo, and in vivo evaluations, will be considered with regards to the safety, the tolerance, and the efficiency of the drug products.Keywords: SAID, NSAID, immunosuppressant drugs, topical ophthalmic formulation, recent advances, biopharmaceutical evaluation1. IntroductionOcular inflammation is considered as a major eye disorder and many reports demonstrated that topical administration of anti-inflammatory drugs, non-steroidal (NSAIDs) [1] and steroidal (SAIDs) [2], are effective in treating ocular surface and anterior segment inflammation, including pain and post-operative inflammation, seasonal allergic conjunctivitis [3,4], and age-related macular degeneration [5]. Furthermore, some immunosuppressive agents, such as ciclosporin A (CsA), demonstrated their efficiency in the treatment of keratitis associated with dry eye disease (DED) [6,7]. The major challenge in the therapeutic management of ocular inflammation is rapid treatment in order to reduce the risk of visual impairment while limiting side effects. Topical administration is the most preferred route for the management of ocular inflammations as it is (i) easy to handle, (ii) non-invasive, (iii) rather well-tolerated [1], and (iv) it provides sufficient ocular drug concentrations, while avoiding the systemic side effects associated with oral administration.Nevertheless, the ocular drug bioavailability in conventional topical formulations is notoriously poor, as only 1–5% of drug applied to the surface penetrates the cornea. This is the consequence of various protective mechanisms and multiple barriers to drug entry, such as fast nasolacrymal drainage due to high tear fluid turnover and lid blinking, the corneal structure with a hydrophilic stroma sandwiched between the lipophilic epithelium and endothelium, epithelial drug transport barriers, the efflux pump, and the clearance from the vasculature in the conjunctiva [8,9]. Besides these ocular anatomical and physiological constraints, another limiting factor encountered with anti-inflammatory drugs or immunosuppressive agents is their poor water solubility [10,11,12]. Thus, they require complex formula adapted to regulatory specifications, due to the eye fragility, their low ocular bioavailability, and their poor water solubility. As a consequence, a limited number of drugs are marketed as well as a few drug associations with anti-infective molecules [13,14].Despite these drawbacks, many strategies have been investigated in order to improve their ocular topical bioavailability, such as physicochemical modifications of the active pharmaceutical ingredient (API) in order to favor their absorption or the development of formulations ensuring a prolonged corneal residence time of the drug product. Concerning the physicochemical modifications of drug molecules, one approach is based on the synthesis of new APIs from the chemical structures of well-known available anti-inflammatory drugs. For instance, new drug molecules were synthesized from propionic acid derivatives of NSAIDs, such as pranoprofen, pyranoprofen, and suprofen [1]. Other molecules were derived from SAIDs, such as clobetasone butyrate, difluprednate, and loteprednol. Unfortunately, these new synthesized molecules did not lead to expected enhanced ocular penetration [1], are more irritating in nature, or have an increased higher risk of side effects [15]. The prodrug approach is another chemical way to enhance drug permeability. Indeed the synthesized inactive prodrug exhibits a better corneal penetration and once in situ, is either chemically and/or enzymatically metabolized to become active [16]. As an example, nepafenac, an amide prodrug of amfenac, belongs to the pharmacological NSAID class of arylacetic derivatives and is commercially available. In vitro nepafenac demonstrated a nearly six-fold greater permeation coefficient than diclofenac [17]. In vivo, nepafenac easily crosses corneal and retinal tissues following topical ocular administration. Thereafter, nepanefac is hydrolyzed to amfenac, which shows high anti-inflammatory properties when used to treat pain and inflammation associated with cataract surgery [18]. Several lipophilic esters of dexamethasone were developed and evaluated for permeability and bioreversion across the rabbit cornea and bovine conjunctival epithelial cells (BCECs). The permeability of phosphate and metasulfobenzoate esters of dexamethasone were restricted across BCECs due to their hydrophilic and ionic character. On the contrary, prodrugs, including acetate, propionate, and butyrate esters, demonstrated better permeability, which increased with the ester lipophilicity. The valerate ester conjugate, being highly lipophilic, easily crosses the corneal epithelium while the hydrophilic stroma acts as a barrier and allows a depot of lipophilic prodrug until hydrolysis to the parent dexamethasone. The hydrolysis of valerate ester is very slow in the cornea, suggesting, for this prodrug, possible use as a sustained drug release system. Lallemand et al. [19,20] developed a series of amphiphilic acidic prodrug molecules having an approximately 25,000 times higher solubility than ciclosporin (CsA) in isotonic phosphate buffer solution at pH 7. These prodrugs are quantitatively hydrolyzed in artificial tears to release CsA within 1 min. Prodrug conversion into the parent molecules was significantly faster in tear fluid than in a buffer at physiological pH, indicating that the hydrolysis is enzyme mediated. Aqueous formulations of these esterified CsA prodrugs were well tolerated and have shown a significant improvement in basal tear production in dry eye disease (DED) [12,21]. Aqueous prodrug solutions have also been evaluated for their efficacy in the treatment of corneal graft rejection and it was found that prodrug eye drops applied five times a day were therapeutically equivalent to a 10 mg/kg/day intramuscular injection in rats [22]. Recent studies have shown that 2% prodrug solutions have a 200- to 500-fold higher conjunctival permeability than the conventional 2% CsA in oil formulation. An accumulation of CsA prodrug formulations in the cornea to form large tissue deposits that provide a sustained release effect over prolonged periods of time was also observed. However, prodrug formulations did not show much improvement in the permeability across the cornea and into the aqueous humor compared with the conventional CsA emulsion, probably because of the rapid conversion of the prodrug into CsA at the corneal surface. This depot formation could have the added advantage of overall poor systemic absorption of prodrug formulations, reducing the incidence of systemic complications and immunosuppression. Prodrug formulations with CsA concentrations higher than 2% are currently under investigation for safety and toxicity [23,24,25].The prodrug approach is tailor-made to improve solubility, stability, or permeability characteristics to lead molecules without causing any damage to the biological barriers involved. Despite increased research work, there are only a few prodrug products due to their poor stability in the aqueous environment [26]. Ocular retention of the drug product combined or not with corneal penetration enhancers can also improve drug bioavailability. These approaches are carried out through conventional formulations, i.e., eye drop solution or suspension, ointments, and hydrogels, for example, by using mucoadhesive agents in these formulations. Furthermore, other sophisticated drug delivery systems have been achieved, such as liposomes, micro-polymer systems, or solid inserts. Iontophoresis is a non-invasive technique, applied with ionized active ingredient for anterior and posterior ocular disorders. It can achieve higher bioavailability and reduce clearance as compared to topical eye drops [27]. In parallel with these novel drug delivery systems, researchers have focused on the development of new functional materials as well as innovative formulations based on the use of combined strategies. Finally, the ideal drug delivery system should administer accurate and therapeutic concentrations of the drug over a specified time, correlated with the ophthalmic affection disorder. It should also be easy to handle and manufacture, and should remain stable over the whole ocular surface, be biocompatible, preferably be biodegradable, and be free of toxic side effects. Various reviews have been published in this area, covering the administration of anti-inflammatory drugs based on NSAIDs [1] and SAIDs [28] to the anterior and posterior segments of the eye, respectively. The reviews of Janagam et al. [29], Lalu et al. [30], and Cholkar et al. [31] focused on the development of novel nanosystems for drugs from various pharmacological classes. The present review gives an updated insight into topical ophthalmic administration of SAIDs, NSAIDs, and immunosuppressive agents in order to control ocular inflammation. Indeed, immunosuppressive agents are specifically used in the treatment of inflammation associated with dry eye syndrome. Additionally, the review provides exhaustive information concerning the marketed specialties of the French, European, and US markets, brands, and generics, specifying their indications and their complete formulation. In addition, conventional formulations and innovative ocular drug delivery systems are discussed. The different characterization tools for biopharmaceutical evaluations of the systems are also considered.2. NSAIDs, SAIDs, and Immunosuppressive Agents2.1. Chemical FamilyCorticosteroids have a C21 structure, presenting a steroid nucleus derived from cholesterol [32]. From this backbone, numerous drugs vary from differing functional groups and oxidation states [33]. Topical corticosteroids used in ophthalmology can be classified as ketone or ester steroids. Loteprednol is the only ester steroid drug presenting an ester instead of a ketone group at the C20-position, responsible for the cataractogenic side effect [34,35].Unlike corticoids, NSAIDs do not include a steroid nucleus and are a heterogeneous group of compounds of different chemical classes.As shown in Table 1, the ophthalmic topical route is largely under-endowed in anti-inflammatory drug specialties compared to other routes of administration. Table 1 summarizes the anti-inflammatory drug molecules commercially available for oral, parenteral, and topical ophthalmic administrations in France, the EU, and the USA, as well as their chemical class [1,36,37,38,39,40]. On February 26, 2019, a total of 40 NSAIDs or SAIDs were marketed for oral, parenteral, or topical ocular administrations, only 14 (35%) of which concerned the topical ocular route. Among these 14 drugs, 5 of them (12.5%) are actually available only for the topical ophthalmic route. Those are bromfenac, difluprednate, fluorometholone, loteprednol etabonate, and nepafenac.Table 1Non-steroidal (NSAIDs) and steroidal anti-inflammatory drugs (SAIDS) marketed for oral, parenteral, and topical ophthalmic administrations as of 26th February, 2019, in France, the EU, and the USA, and their chemical classes.DCINSAID/SAIDChemical ClassesRoutes of AdministrationAceclofenacNSAIDAryl-acetic acid derivativesPer osAlminoprofenNSAIDPropionic acid derivativesPer osBetamethasoneSAID
+Per os, inj and topical ophthalmicBromfenacNSAIDAryl-acetic acid derivativesTopical ophthalmicCelecoxibNSAIDSelective cylooxygenase -2 inhibitorsPer osDeflazacortSAID
+Per osDexamethasone(base and phosphate sodium)SAID
+Per os, inj and topical ophthalmicDexketoprofenNSAIDPropionic acid derivativesInjDiclofenacNSAIDAryl-acetic acid derivativesPer os and topical ophthalmicDifluprednateSAID
+Topical ophthalmicEtodolacNSAIDIndole and indene derivativesPer osEtoricoxibNSAIDSelective cylooxygenase -2 inhibitorsPer osFluorometholone(base and acetate)SAID
+Topical ophthalmicFlurbiprofenNSAIDPropionic acid derivativesTopical ophthalmicHydrocortisoneSAID
+Per os, inj and topical ophthalmicIbuprofenNSAIDPropionic acid derivativesPer os and inj IndomethacinNSAIDIndole and indene derivativesPer os, inj and topical ophthalmicKetoprofenNSAIDPropionic acid derivativesPer os and injKetorolac tromethamineNSAIDAryl-acetic acid derivativesPer os, inj and topical ophthalmicLoteprednoletobonateSAID
+Topical ophthalmicMeclofenamate sodiumNSAIDFenamic acid derivativesPer os MefenamicacidNSAIDFenamic acid derivativesPer osMeloxicamNSAIDEnolic acid derivativesPer os and injMethylprednisoloneSAID
+Per os and injNabumetoneNSAIDNon acidic derivativesPer osNaproxenNSAIDPropionic acid derivativesPer osNepafenacNSAIDAryl-acetic acid derivativesTopical ophthalmicNiflumic acidNSAIDFenamic acid derivativesPer osOxaprozinNSAIDPropionic acid derivativesPer osParecoxibNSAIDSelective cylooxygenase -2 inhibitorsInjPiroxicamNSAIDEnolic acid derivativesPer os and injPrednisolone (Acetate and Sodium Phosphate)SAID
+ Per os, inj and topical ophthalmicPrednisoneSAID
+Per osSalicylic AcidNSAIDSalicylic acid derivativesPer os and topical ophthalmicSulindacNSAIDIndole and indene derivativesPer osTenoxicamNSAIDEnolic acid derivativesPer osTiaprofenNSAIDPropionic acid derivativesPer osTolmetinNSAIDAryl-acetic acid derivativesPer osTriamcinoloneSAID
+Inj and topical ophthalmicOpen in a separate windowPer os: NSAIDs or SAIDs actually available for oral administration; inj: NSAIDs or SAIDs actually available for parenteral administration; topical ophthalmic: NSAIDs or SAIDs actually available for topical ophthalmic administration.Immunosuppressant agent cannot be classified according to their chemical family. In the present review, they are further classified according to their mechanism of action. The only immunosuppressive agent marketed in Europe, the USA, and France for topical ocular administration is ciclosporin. Note that a specialty based on tacrolimus 1 mg/mL TALYMUS® is available in France as compassionate use, and a French specificity called ‘ATUn’ with nominative temporary use authorization and is marketed only in Japan.Table 2 includes all the brand name products of NSAIDs, SAIDs, or CsA marketed for the ophthalmic topical route and used in the USA, the EU, and France as of February 26, 2019, except the generic specialties. The combinations of anti-inflammatory drugs with other pharmacological classes of molecules are also listed.Table 2The USA-, European- and French-marketed NSAID, SAID, and CsA medicines listed as of 26th February, 2019 for topical use in ophthalmology.DCINSAID/SAIDProduct Names in USA, EU and France
+Bromfenac
+NSAIDBROMSITE EQ®, PROLENSA EQ®, YELLOX®
+Ciclosporin A
+CsACEQUA®, IKERVIS®, RESTASIS®,RESTASIS® MULTIDOSE, VERKAZIA®
+Dexamethasone
+
+(Base or Sodium Phosphate)
+SAIDCHIBRO CADRON®, DEXAFREE®, DEXASPORIN®, DEXTENZA®, FRAKIDEX®, MAXIDEX®, MAXIDROL®, MAXITROL®, STERDEX®, TOBRADEX®
+Diclofenac
+NSAIDVOLTAREN®, VOLTAREN®OPHTA, VOLTAREN®OPHTABAK
+Difluprednate
+SAIDDUREZOL®
+Fluorometholone
+
+(Acetate or Base)
+SAIDFLUCON®, FML®, FML FORTE® FLAREX®
+Flurbiprofen
+NSAIDOCUFEN®
+Hydrocortisone
+
+SOFTACORT®
+Indomethacin
+NSAIDINDOCOLLYRE®, INDOBIOTIC®
+Ketorolac tromethamine
+NSAIDACULAR®, ACULAR LS®, ACUVAIL®,
+Loteprednol etabonate
+SAIDALREX®, INVELTYS®, LOTEMAX®,LOTEMAX SM®, ZYLET®
+Nepafenac
+NSAIDILEVRO®, NEVANAC®
+Prednisolone
+
+(Acetate or Sodium Phosphate)
+SAIDBLEPHAMIDE®, BLEPHAMIDE S.O.P®,OMNIPRED®, PRED FORTE®, PRED MILD
+Salicylicacid
+NSAIDANTALYRE®, CIELLA®
+Triamcinolone
+SAIDCIDERMEX®Open in a separate window2.2. Mechanism of ActionInflammation corresponds to a set of mechanisms of defense, physiological and pathological, by which the organism recognizes, destroys, and eliminates all the substances foreign to it. It is a dynamic process with several successive steps in which the membrane phospholipids will be degraded in arachidonic acid by phospholipase A2, resulting in the release of pro-inflammatory mediators, including prostaglandins, thromboxanes, leukotrienes, and eicosanoids. The corticosteroids and NSAIDs both inhibit prostaglandin formation, but their pharmacological properties differ by their place of action in the inflammatory cascade (Figure 1).Open in a separate windowFigure 1NSAIDs’ and SAIDs’ mechanisms of action in the inflammatory cascade.The corticosteroid agents inhibit the arachidonic acid pathway indirectly through the induction of lipocortin synthesis, which inhibits the phospholipase A2 enzyme, therefore preventing the production of all proinflammatory mediators, including the arachidonic acid cited above [1,35,41]. Despite their chemical heterogeneity, NSAIDs share similar therapeutic properties. They act solely on the action of cyclooxygenase (COX), inhibiting among others the formation of prostaglandins [1,42,43]. Conventional NSAID agents inhibit both COX-1 and COX-2 in a nonselective way.Concerning the immunosuppressive agents, their design is based on the control of the exacerbated immune response. The pathophysiological means of this concept is to modulate the action of mononuclear cells, with T cells being the main targets. Immunosuppressive agents have different molecular targets, and an important drawback in their use is that they also inhibit the normal immune system response. Depending on their mode of action, immunosuppressive drugs can be classified in three different groups: Inhibitors of the calcineurin pathway, cytototoxic or antiproliferative drugs, and specific antibodies [44]. Actually, CsA is the only immunosuppressive agent used for the ophthalmic route of administration in France, the EU, and the USA. CsA is an inhibitor of the calcineurin pathway and mainly acts by inhibition of T cells by blocking cytokines’ transcription genes, like Interleukine 2 and Interleukine 4 [45], and stimulates the autoinhibitory action of calcineurin A, which results in a reduction of phosphatase activity, thus causing inflammation [46,47]. Furthermore ciclosporin blocks both the p38 and c-Jun N-terminal kinase (JNK) pathways in addition to calcineurin-blocking activity [48]. JNK and p38 work in the stress response like inflammation and apoptosis [49,50,51].2.3. Sites of Action/Therapeutic UsesTopical SAIDs are widely prescribed as anti-allergic or anti-inflammatory drugs for the anterior segment of the eye (Figure 2), combined or not with anti-infectious drugs (Table 3). In order to treat conjunctival diseases, SAIDs can be used to treat allergic conjunctivitis, blepharoconjunctivitis, and corneo-conjunctival burns. Regarding corneal diseases, the indications are the treatment of immune and bacterial keratitis, in any case herpetic or mycotic. The anti-inflammatory effect is highly used in post-operative inflammation, such as cataract or glaucoma surgery, or in the prevention of corneal graft rejection, as an immunosuppressive agent [52,53].Open in a separate windowFigure 2Anatomy of the eye.Table 3Sites of action in the anterior segment of the eye and therapeutic use of the widely prescribed anti-inflammatory and immunosuppressive drugs.IndicationsCommonly Used Drugs
+Management of post-operative inflammation
+Diclofenac, ketorolac, SAIDs [1,53]
+Prevention of intra-operative miosis
+Flurbiprofen, ketorolac [54]
+Anterior segment
+
+Conjunctiva
+Treatment of allergic conjunctivitisKetorolac, SAIDs [1,53]Treatment of blepharoconjunctivitisSAIDs [53]Treatment of corneo-conjunctival burnSAIDs [53]Increase tear production in patients with keratoconjunctivitis sicca associated with dry eye syndromeCiclosporin [55]
+Cornea
+Prevention of corneal graft rejectionDexamethasone [52,53]Control of pain after refractive surgeryDiclofenac, ketorolac [1]Treatment of immune keratitisSAIDs [53]Treatment of bacterial keratitisSAIDs [53]Open in a separate windowTopical ophthalmic NSAIDs are sometimes indicated but are less prescribed to treat post-operative inflammation, e.g., following cataract surgery. They have also shown benefits by preventing intraoperative miosis, improving treatment of seasonal allergic conjunctivitis, and reducing post-operative pain [1,3].2.4. Side EffectsThere are many important ocular side effects of NSAIDS, SAIDS, and immunosuppressive agents. Topical administration of NSAIDs is common, but this treatment has clinically significant side effects, including ulceration and corneal perforation [56]. The adverse effects associated with the use of corticosteroid eye drops are different. These include elevated intraocular pressure and induced glaucoma, cataract formation, delayed wound healing, and increased susceptibility to infection [57]. Furthermore, the most common reported side effect of CsA is ocular burning, reported in 17% of patients, and approximately 3% of patients stop the medication as a result of this side effect [7].3. Formulation for Topical Ophthalmic Drug Delivery Systems3.1. Conventional FormulationMost conventional ophthalmic dosage forms include ointment, solutions, emulsions, and suspensions, which together account for nearly 90% of the currently available formulations in the United States and Europe. It is usual that water-soluble drugs are delivered through topical instillation in an aqueous solution and water-insoluble drugs are administered topically as ointments or aqueous suspensions [58]. Among the topical dosage forms for ophthalmic drug delivery, eye drop solutions are quite popular since they are relatively well tolerated by patients, and simple to prepare, filter, and sterilize. On February 26, 2019, we identified 93 commercial drugs, brands, and generics, on the USA, European, and French markets. Among these specialties, 35 contain an NSAID as the API, 23 contain SAID, 30 correspond to an anti-inflammatory API associated with anti-infective drugs (1 association with NSAID and 29 associations with SAID), and 5 contain CsA (Figure 3). The marketed medicines are reported in Table 4, Table 5, Table 6 and Table 7. It should be noted that the first line of inactive ingredients corresponds to the preservatives present in the formulation. The composition of some marketed formulations is unfortunately not currently available.Open in a separate windowFigure 3Repartition of NSAID, SAID, CsA, NSAID + anti-infective drugs, and SAID + anti-infective drugs on the USA, European, and French markets. CsA: ciclosporin A.Table 4Topical ocular pharmaceutical forms and compositions of SAID-containing medicines in the US, European, or French markets listed as of 26th February, 2019.Trade Name and PresentationActive SubstanceExcipientsPharmaceutical FormMarketed InYear of Authorization
+Alrex 0.2%
+Loteprednol etabonateBenzalkonium chloride, suspension/dropsUSA1998Multidose bottle 2.5, 5 and 10 mL Edetate disodium, glycerin, povidone, purified water, tyloxapol, hydrochloric acid and/or sodium hydroxide to adjust the pH
+Dexafree 0.1%
+Dexamethasone phosphate
+solution/dropsFr2006Single use vial 0.4 mLEdetate disodium, sodium phosphate dibasic, sodium chloride, water for injection
+Dexamethasone Sodium Phosphate EQ 0.1% Phosphate
+Dexamethasone phosphateSodium bisulfite, phenylethyl alcohol, benzalkonium chloride, solution/dropsUSA1996Multidose bottle 5 mLSodium citrate, sodium borate, creatinine, polysorbate 80, edetate disodium dihydrate, purified water, hydrochloric acid 
+Dextenza 0.4MG
+Dexamethasone 
+intracanalicular insertUSA2018Single dose4-arm polyethylene glycol (PEG) N-hydroxysuccinimidyl glutarate (20 K), trilysine acetate, N-hydroxysuccinimide-fluorescein, sodium phosphate dibasic, sodium phosphate monobasic, water for injection
+DUREZOL 0.05%
+DifluprednateSorbic acid, emulsionUSA20082.5 mL in 5 mL multidose bottle5 mL in 5 mL multidose bottleBoric acid, castor oil, glycerin, polysorbate 80, purified water, sodium acetate, sodium EDTA, sodium hydroxide to adjust the pH
+FLAREX 0.1%
+Fluorometholone acetateBenzalkonium chloride, suspension/dropsUSA19865 mL in 8 mL multidose bottle10 mL in 10 mL multidose bottle15 mL in 15 mL multidose bottleSodium chloride, monobasic sodium phosphate, edetate disodium, hydroxyethyl cellulose, tyloxapol, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified water
+FLUCON 0.1%
+FluorometholoneBenzalkonium chloride, suspension/dropsFr1980Multidose bottle 3 mLMonobasic sodium phosphate, dibasic sodium phosphate, polysorbate 80, sodium chloride, edetate disodium, polyvinyl alcohol, hydroxypropylmethylcellulose, hydrochloric acid and/or sodium hydroxide to adjust the pH
+FML 0.1%
+FluorometholonePhenylmercuric acetate, ointmentUSA19853.5 g tubeMineral oil, petrolatum alcohol, lanolin alcohol, white petrolatum
+FML 0.1%
+FluorometholoneBenzalkonium chloride, suspension/dropsUSA19725 mL in 10 mL multidose bottle10 mL in 15 mL multidose bottle15 mL in 15 mL multidose bottleEdetate disodium, polysorbate 80, polyvinyl alcohol, purified water, sodium chloride, sodium phosphate dibasic, sodium phosphate monobasic, sodium hydroxide
+FML FORTE 0.25%
+FluorometholoneBenzalkonium chloride, suspension/dropsUSA19865 mL in 10 mL multidose bottle10 mL in 15 mL multidose bottle15 mL in 15 mL multidose bottleEdetate disodium, polysorbate 80, polyvinyl alcohol, purified water, sodium chloride, sodium phosphate dibasic, sodium phosphate monobasic, sodium hydroxide
+Inveltys 1%
+Loteprednol etabonate
+suspension/dropsUSA20182.8 mL in 5 mL multidose bottleGlycerin, sodium citrate dihydrate, poloxamer 407, sodium chloride, edetate disodium dihydrate, citric acid
+Lotemax 0.5%
+Loteprednol etabonate
+gelUSA20125 g in 10 mL multidose bottleBoric acid, edetate disodium, glycerin, polycarbophil, propylene glycol, sodium chloride, tyloxapol, water for injection, sodium hydroxide to adjust to the pH
+Lotemax 0.5%
+Loteprednol etabonateBenzalkonium chloride,suspension/dropsUSA1998Multidose bottle 2.5, 5, 10 and 15 mLEdetate disodium, glycerin, povidone, purified water, tyloxapol, hydrochloric acid and/or sodium hydroxide to adjust the pH
+Lotemax 0.5%
+Loteprednol etabonate
+ointmentUSA20113.5 g tubeMineral oil, white petrolatum,
+Lotemax 0.5%
+Loteprednol etabonate
+gelUSA20125 g in 10 mL multidose bottle
+Boric acid, edetate disodium, glycerin, polycarbophil, propylene glycol, sodium chloride, tyloxapol, water for injection, sodium hydroxide to adjust to the pH
+
+
+
+Lotemax Sm 0.38%
+Loteprednol etabonateBenzalkonium chloride,gelUSA20195 g in 10 mL multidose bottleBoric acid, edetate disodium dihydrate, glycerin, hypromellose, poloxamer, polycarbophil, propylene glycol, sodium chloride, water for injection,
+Loteprednol Etabonate 0.5%
+Loteprednol etabonateBenzalkonium chloride,suspension/dropsUSA2019Multidose bottle 5, 10 and 15 mLEdetate disodium, glycerin, povidone, purified water, hydrochloric acid and/or sodium hydroxide to adjust the pH, tyloxapol
+Maxidex 0.1%
+DexamethasoneBenzalkonium chloride,suspension/dropsFr1992Multidose bottle 3 mLSodium phosphate monobasic, polysorbate 80, edetate disodium, sodium chloride, methylhydroxypropylcellulose, citric acid, purified water
+Maxidex 0.1%
+DexamethasoneBenzalkonium chloride,suspension/dropsUSA1962Multidose bottle 5 mLHypromellose, sodium chloride, dibasic sodium phosphate, polysorbate 80, edetate disodium, citric acid and/or sodium hydroxide to adjust the pH, purified water
+Omnipred 1%
+Prednisolone acetateBenzalkonium chloride,suspension/dropsUSA1973Multidose bottle 5 and 10 mLHypromellose, dibasic sodium phosphate, polysorbate 80, edetate disodium, glycerin, citric acid and/or sodium hydroxide to adjust the pH, purified water
+Pred Forte 1%
+Prednisolone acetateBenzalkonium chloride,suspension/dropsUSA19735 mL in 10 mL multidose bottle10 mL in 15 mL multidose bottle15 mL in 15 mL multidose bottleBoric acid, edetate disodium, hypromellose, polysorbate 80, purified water, sodium bisulfite, sodium chloride, sodium citrate
+PRED MILD 0.12%
+Prednisolone acetateBenzalkonium chloride,suspension/dropsUSA19725 mL in 10 mL multidose bottle10 mL in 15 mL multidose bottleBoric acid, edetate disodium, hypromellose, polysorbate 80, purified water, sodium bisulfite, sodium chloride, sodium citrate
+Prednisolone Sodium Phosphate EQ 0.9%
+Prednisolone sodium phosphateBenzalkonium chloride,solution/dropsUSA19945 mL in 10 mL multidose bottle10 mL in 15 mL multidose bottle15 mL in 15 mL multidose bottleHypromellose, monobasic sodium phosphate, dibasic sodium phosphate, sodium chloride, edetate disodium dihydrate, purified water, hydrochloric acid and/or sodium hydroxide to adjust the pH
+Softacort 0.335%
+Hydrocortisone
+solution/dropsFr2017Single use vial 0.4 mLSodium phosphate dibasic, monobasic sodium phosphate, edetate disodium, hydrochloric acid to adjust the pH, water for injection, Open in a separate windowTable 5Topical ocular pharmaceutical forms and compositions containing NSAID medicines in the US, European, or French markets listed as of 26th February 2019.Trade Name and PresentationActive SubstanceExcipientsPharmaceutical FormMarketed InYear of Authorization
+Acular 0.5%
+Ketorolac trometamolBenzalkonium chloride,solution/dropsFr1991Multidose bottle 5 mLSodium chloride, edetate disodium, octoxynol 40, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified water
+Acular 0.5%
+Ketorolac tromethamineBenzalkonium chloride,solution/dropsUSA1992Multidose bottle 5 and 10 mLEdetate disodium, octoxynol 40, purified water, sodium chloride, hydrochloric acid and/or sodium hydroxide to adjust the pH
+Acular LS 0.4%
+Ketorolac tromethamineBenzalkonium chloride,solution/dropsUSA2003Multidose bottle 5 and 10 mLEdetate disodium, octoxynol 40, purified water, sodium chloride, hydrochloric acid and/or sodium hydroxide to adjust the pH
+Acuvail 0.45%
+Ketorolac tromethamine
+solution/dropsUSA2009Single use vial 0.4 mLCarboxymethylcellulose, sodium chloride, sodium citrate, purified water, hydrochloric acid and/or sodium hydroxide to adjust the pH
+Antalyre 0.1%
+Salicylic acid
+solution/dropsFr2004Single use vial 0.4 mLBorax, boric acid, sodium chloride, purified water
+Bromfenac Sodium EQ 0.09% Acid
+Bromfenac sodiumBenzalkonium chloride,solution/dropsUSA20141.7 mL in 6 mL multidose bottleBoric acid, edetate disodium, polysorbate 80, povidone (K30), purified water, sodium borate, sodium sulfite anhydrous, sodium hydroxide to adjust the pH
+Bromsite EQ 0.075% Acid
+Bromfenac sodiumBenzalkonium chloride,solution/dropsUSA20165 mL in 7.5 mL multidose bottleBoric acid, sodium borate, citric acid anhydrous, sodium citrate dihydrate, poloxamer 407, polycarbophil, sodium chloride, edetate disodium, sodium hydroxide, water for injection
+Ciella 0.1%
+Salicylic acid
+solutionFr2004Multidose bottle 5 mLBorax, sodium chloride, boric acid, rose-flavored water, purified water
+Diclofenac Sodium 0.1%
+Diclofenac sodium
+solution/dropsUSA2008Multidose bottle 2.5 and 5 mLPolyoxyl 35 castor oil, boric acid, tromethamine, sorbic acid, edetate disodium, purified water
+Diclofenac Sodium 0.1%
+Diclofenac sodium
+solution/dropsUSA2015Multidose bottle 5 mLPolyoxyl 35 castor oil, boric acid, tromethamine, sorbic acid, edetate disodium, purified water
+Diclofenac Sodium 0.1%
+Diclofenac sodium
+solution/dropsUSA2007Multidose bottle 5 mLPolyoxyl 35 castor oil, boric acid, tromethamine, sorbic acid, edetate disodium, purified water
+Diclofenac Sodium 0.1%
+Diclofenac sodium
+solution/dropsUSA2008Multidose bottle 5 mLPolyoxyl 35 castor oil, boric acid, tromethamine, sorbic acid, edetate disodium, purified water
+Diclofenac Sodium 0.1%
+Diclofenac sodium
+solution/dropsUSA2008Multidose bottle 5 mLPolyoxyl 35 castor oil, boric acid, tromethamine, sorbic acid, edetate disodium, purified water
+Flurbiprofen Sodium 0.03%
+Flurbiprofen sodiumThimerosal,solution/dropsUSA1995Multidose bottle 2.5 mL
+Citric acid, edetate disodium, polyvinyl alcohol, potassium chloride, purified water, sodium chloride, sodium citrate, hydrochloric acid and/or sodium hydroxide to adjust the pH
+
+
+
+Ilevro 0.3%
+NepafenacBenzalkonium chloride,suspension/dropsUSA20121.7 mL in 4 mL multidose bottle
+Boric acid, propylene glycol, carbomer 974P, sodium chloride, guar gum, carboxymethylcellulose sodium, edetate disodium, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified water
+
+
+
+Indocollyre 0.1%
+IndomethacinThimerosal,solution/dropsFr1996Multidose bottle 5 mL
+Arginine, hydroxypropylbetadex, hydrochloric acid, purified water
+
+
+
+Indocollyre 0.1%
+Indomethacin
+solution/dropsFr1997Single use vial 0.35 mL
+Arginine, hydroxypropylbetadex, hydrochloric acid, purified water
+
+
+
+Ketorolac Tromethamine 0.4%
+Ketorolac tromethamine
+solution/dropsUSA2009NA
+
+
+
+
+
+Ketorolac Tromethamine 0.4%
+Ketorolac tromethamine
+solution/dropsUSA2009NA
+
+
+
+
+
+Ketorolac Tromethamine 0.4%
+Ketorolac tromethamine
+solution/dropsUSA2009NA
+
+
+
+
+
+Ketorolac Tromethamine 0.4%
+Ketorolac tromethamine
+solution/dropsUSA2018NA
+
+
+
+
+
+Ketorolac Tromethamine 0.5%
+
+Benzalkonium chloride,solution/dropsUSA20095 mL in 11 mL multidose bottle10 mL in 11 mL multidose bottleNepafenacKetorolac tromethamineEdetate disodium, octoxynol 40, sodium chloride, hydrochloric acid and/or sodium hydroxide to adjust the pH, water for injectionsuspension/dropssolution/dropsUSAUSA20122009
+KETOROLAC TROMETHAMINE 0.5%
+Benzalkonium chloride,Multidose bottle 5 and 10 mLIndomethacinKetorolac tromethamineEdetate disodium, octoxynol 40, purified water, sodium chloride, hydrochloric acid and/or sodium hydroxide to adjust the pHsolution/dropssolution/dropsFrUSA19962009
+Ketorolac Tromethamine 0.5%
+Benzalkonium chloride,Multidose bottle 3, 5 and 10 mLIndomethacinKetorolac tromethamineEdetate disodium, octoxynol 40, sodium chloride, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified watersolution/dropssolution/dropsFrUSA19972009
+Ketorolac Tromethamine 0.5%
+Benzalkonium chloride,3 mL in 5 mL multidose bottle5 mL in 5 mL multidose bottle10 mL in 10 mL multidose bottleKetorolac tromethamineNepafenacEdetate disodium, octoxynol 40, water for injection, sodium chloride, hydrochloric acid and/or sodium hydroxide to adjust the pHsolution/dropssuspension/dropsUSAEU20092007
+Nevanac 0.1%
+Benzalkonium chloride,Multidose bottle 3 mLKetorolac tromethamineNepafenacBoric acid, propylene glycol, carbomer 974P, sodium chloride, guar gum, carboxymethylcellulose sodium, edetate disodium, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified watersolution/dropssuspension/dropsUSAUSA20092005
+Nevanac 0.1%
+Benzalkonium chloride,3 mL in 4 mL multidose bottleKetorolac tromethamineFlurbiprofen sodiumBoric acid, propylene glycol, carbomer 974P, sodium chloride, tyloxapol, edetate disodium, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified watersolution/dropssolution/dropsUSAFr20091991
+Ocufen 0.03%
+
+Single use vial 0.4 mLKetorolac tromethamineFlurbiprofen sodiumPolyvinyl alcohol, sodium chloride, sodium citrate, potassium chloride, citric acid, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified watersolution/dropssolution/dropsUSAUSA20181986
+Ocufen 0.03%
+Thimerosal,2.5 mL in 5 mL multidose bottleKetorolac tromethamineBromfenac sodiumCitric acid, edetate disodium, polyvinyl alcohol, potassium chloride, purified water, sodium chloride, sodium citrate, hydrochloric acid and/or sodium hydroxide to adjust the pHsolution/dropssolution/dropsUSAUSA20092013
+Prolensa EQ 0.07% Acid
+Benzalkonium chloride,1.6 mL in 7.5 mL multidose bottle13 mL in 7.5 mL multidose bottleKetorolac tromethamineDiclofenac sodiumBoric acid, edetate disodium, povidone, sodium borate, sodium sulfite, tyloxapol, sodium hydroxide, water for injectionsolution/dropssolution/dropsUSAUSA20091991
+Voltaren 0.1%
+
+Multidose bottle 5 mLKetorolac tromethamineDiclofenac sodiumPolyoxyl 35 castor oil, boric acid, tromethamine, sorbic acid, edetate disodium, purified watersolution/dropssolution/dropsUSAFr20091995
+Voltarenophta 0.1%
+
+Single use vial 0.3 mLKetorolac tromethamineDiclofenac sodiumCremophor EL, tromethamine, boric acid, water for injectionsolution/dropssolution/dropsUSAFr20092005
+Voltarenophtabak 0.1%
+
+Multidose bottle 10 mLNepafenacBromfenacCremophor EL, tromethamine, boric acid, water for injectionsuspension/dropssolution/dropsEUEU20072011
+Yellox 0.09%
+Benzalkonium chloride,Multidose bottle 5 mLNepafenacBromfenac sodiumBoric acid, borax, sodium sulphite anhydrous (E221), tyloxapol, povidone, edetate disodium, water for injections, sodium hydroxide to adjust the pHsuspension/dropssolution/dropsUSAFr20052011
+Yellox 0.09%
+Benzalkonium chloride,Multidose bottle 5 mLFlurbiprofen sodiumBoric acid, borax, sodium sulphite anhydrous (E221), tyloxapol, povidone, edetate disodium, water for injections, sodium hydroxide to adjust the pHsolution/dropsFr1991Open in a separate windowTable 6Topical ocular pharmaceutical forms and compositions of NSAIDs or SAIDs associated with anti-infective drugs in the US, European, or French markets listed as of 26th February, 2019.Trade Name AND PresentationActive SubstanceSAID/NSAIDExcipientsPharmaceutical FormMarketed InYear of Authorization
+Bacitracin-Neomycin-Polymyxin W/ Hydrocortisone Acetate 400 UNITS/GM;1%;EQ 3.5MG BASE/Gm;10,000 Units/GM
+Hydrocortisone acetate, Bacitracin zinc, Neomycin sulfate, Polymyxin B sulfateSAID
+ointmentUSA1981
+-
+
+
+Blephamide 0.2%; 10%
+Prednisolone acetate, Sulfacetamide sodiumSAIDBenzalkonium chloride,suspension/ dropsUSA19615 mL in 10 mL multidose bottle10 mL in 15 mL multidose bottleEdetate disodium, polysorbate 80, polyvinyl alcohol, potassium phosphate monobasic, purified water, sodium phosphate dibasic, sodium thiosulfate, hydrochloric acid and/or sodium hydroxide to adjust the pH
+Blephamide S.O.P. 0.2%; 10%
+Prednisolone acetate, Sulfacetamide sodiumSAIDPhenylmercuric acetate,ointmentUSA19863.5 g multidose tubeMineral oil, petrolatum alcohol, lanolin alcohol, white petrolatum
+Chibro Cadron 0.1%; 3 500 UNITS/ML
+Dexamethasone sodium phosphate, Neomycin sulfateSAIDBenzododecinium bromide,solution/dropsFr1992Multidose bottle 5 mLSodium citrate, polysorbate 80, hydroxyethylcellulose, sodium hydroxide, sodium chloride, purified water, sodium citrate dihydrate
+Cidermex 0.1%; 3 500 UNITS/GM
+Triamcinolone, Neomycin sulfateSAID
+ointmentFr19913 g multidose tubeMineral oil, white petrolatum
+Dexasporin 0.1%; EQ 3.5MG BASE/ML; 10 000 UNITS/ML
+Dexamethasone, Neomycin sulfate, Polymyxin B sulfateSAID
+suspension/ dropsUSA1995-
+
+Frakidex 0.1%; 6 300 UNITS/ML
+Dexamethasone sodium phosphate, Framycetine sulfateSAIDBenzalkonium chloride,solution/dropsFr1997Multidose bottle 5 mLsodium citrate, polysorbate 80, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified water
+Frakidex 0.1%; 3 150 UNITS/GM
+Dexamethasone sodium phosphate, Framycetine sulfateSAID
+ointmentFr19985 g multidose tubeMineral oil, white petrolatum
+Indobiotic 0.1%; 3 000 UNITS/ML
+Indomethacin, Gentamicin sulfateNSAID
+solution/dropsFr2000Single use vial 0.35 mLHydroxypropylbetadex, arginine, hydrochloric acid, purified water
+Maxidrol 0.1%; 3500 UNITS/ML; 6 000 UNITS/ML
+Dexamethasone, Neomycin sulfate, Polymyxin B sulfateSAIDBenzalkonium chloride,suspension/dropsFr1991Multidose bottle 3 mLMethylhydroxypropylcellulose, sodium chloride, polysorbate 20, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified water
+Maxidrol 0.1%; 3500 UNITS/GM; 6 000 UNITS/GM
+Dexamethasone, Neomycin sulfate, Polymyxin B sulfateSAIDMethylparaben, propylparaben,ointmentFr19973.5 g multidose tubeLanolin, white petrolatum
+Maxitrol 0.1%; EQ 3.5MG BASE/ML; 10 000 UNITS/ML
+Dexamethasone, Neomycin sulfate, Polymyxin B sulfateSAIDBenzalkonium chloride,suspension/ dropsUSA19635 mL in 8 mL multidose bottleHypromellose, sodium chloride, polysorbate 80, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified water
+Maxitrol 0.1%; EQ 3.5MG BASE/GM; 10 000 UNITS/GM
+Dexamethasone, Neomycin sulfate, Polymyxin B sulfateSAIDMethylparaben, propylparaben,ointmentUSA19633.5 g multidose tubeWhite petrolatum, anhydrous liquid lanolin
+Maxitrol 0.1%; EQ 3.5MG BASE/ML; 10 000 UNITS/ML
+Dexamethasone, Neomycin sulfate, Polymyxin B sulfateSAID
+suspension/ dropsUSA1984-
+
+Neomycin AND Polymyxin B Sulfates AND Dexamethasone 0.1%; EQ 3.5MG BASE/GM; 10 000 UNITS/GM
+Dexamethasone, Neomycin sulfate, Polymyxin B sulfateSAIDMethylparaben, propylparaben,ointmentUSA19943.5 g multidose tubeWhite petrolatum, lanolin, mineral oil
+Neomycin AND Polymyxin B Sulfates AND Dexamethasone 0.1%; EQ 3.5MG Base/GM; 10 000 UNITS/GM
+Dexamethasone, Neomycin sulfate, Polymyxin B sulfateSAID
+ointmentUSA1989-
+
+Neomycin AND Polymyxin B Sulfates AND Hydrocortisone 1%; EQ 3.5MG BASE/ML; 10 000 UNITS/ML
+Hydrocortisone, Neomycin sulfate, Polymyxin B sulfateSAIDPotassium metabisulfite,suspension/ dropsUSA1988Multidose bottle 10 mLGlycerin, propylene glycol, hydrochloric acid, water for injection
+Neomycin AND Polymyxin B Sulfates, Bacitracin ZINC AND Hydrocortisone 400 UNITS/GM; 1%; EQ 3.5MG BASE/GM; 10 000 UNITS/GM
+Hydrocortisone acetate, Bacitracin zinc, Neomycin sulfate, Polymyxin B sulfateSAID
+ointmentUSA19953.5 g multidose tubeMineral oil, white petrolatum
+Neomycin AND Polymyxin B Sulfates, Bacitracin Zinc AND Hydrocortisone 400 UNITS/GM; 1%; EQ 3.5MG BASE/GM; 10 000 UNITS/GM
+Hydrocortisone acetate, Bacitracin zinc, Polymyxin B sulfate Neomycin sulfate,SAID
+ointmentUSA20123.5 g multidose tube
+
+Pred-G EQ 0.3%; 0.6%
+Prednisolone acetate, Gentamicin sulfateSAIDChlorobutanol,ointmentUSA19893.5 g multidose tubeMineral oil, petrolatum, lanolin alcohol, white petrolatum
+Pred-G EQ 0.3%; 1%
+Prednisolone acetate, Gentamicin sulfateSAIDBenzalkonium chloride,suspension/ dropsUSA19885 ml in 10 mL multidose bottle10 ml in 15 mL multidose bottleEdetate disodium, hypromellose, polyvinyl alcohol, polysorbate 80, purified water, sodium chloride, sodium citrate dihydrate, hydrochloric acid and/or sodium hydroxide to adjust the pH
+Sterdex
+Dexamethasone, AxytetracyclineSAID
+ointmentFr1997Single dose vialMineral oil, white petrolatum
+Tobradex 0.1%; 0.3%
+Dexamethasone, TobramycinSAIDBenzalkonium chloride,suspension/ dropsUSA198810 ml in 15 mL multidose bottleTyloxapol, edetate disodium, sodium chloride, hydroxyethyl cellulose, sodium sulfate, sulfuric acid and/or sodium hydroxide to adjust the pH, purified water
+Tobradex 0.1%; 0.3%
+Dexamethasone, TobramycinSAIDChlorobutanol,ointmentUSA19883.5 g multidose tubeMineral oil, white petrolatum
+Tobradex ST 0.05%; 0.3%
+Dexamethasone, TobramycinSAIDBenzalkonium chloride,suspension/ dropsUSA2009Multidose bottle 2.5, 5 and 10 mLXanthan gum, tyloxapol, edetate disodium, sodium chloride, propylene glycol, sodium sulfate, hydrochloric acid and/or sodium hydroxide to adjust the pH, purified water
+Tobradex 0.1%; 0.3%
+Dexamethasone, TobramycinSAIDBenzalkonium chloride,suspension/ dropsFr1997Multidose bottle 5 mLEdetate disodium, sodium chloride, sodium sulfate, tyloxapol, hydroxyethylcellulose, sulfuric acid and/or sodium hydroxide to adjust the pH, purified water
+Tobramycin AND Dexamethasone 0.1%; 0.3%
+Dexamethasone, TobramycinSAIDBenzalkonium chloride,suspension/ dropsUSA1991Multidose bottle 2.5 and 5 mLSodium sulfate, sodium chloride, hydroxyethylcellulose, tyloxapol, edetate disodium, purified water, sulfuric acid and/or sodium hydroxide to adjust the pH
+Zylet 0.5%; 0.3%
+Loteprednol etabonate, TobramycinSAIDBenzalkonium chloride,suspension/ dropsUSA20045 mL in 7.5 mL multidose bottle10 mL in 10 mL bottleEdetate disodium, glycerin, povidone, purified water, tyloxapol, sulfuric acid and/or sodium hydroxide to adjust the pH
+Prednisolone Sodium Phosphate EQ 0.23%; Sulfacetamide Sodium 10%
+Prednisolone sodium phosphate, Sulfacetamide sodiumSAID
+solution/dropsUSA1993-
+
+Prednisolone Sodium Phosphate EQ 0.23%; Sulfacetamide Sodium 10%
+Prednisolone sodium phosphate, Sulfacetamide sodiumSAIDThimerosal,solution/dropsUSA1995Multidose bottle 5 and 10 mL Poloxamer 407, boric acid, edetate disodium, purified water, hydrochloric acid and/or sodium hydroxide to adjust the pHOpen in a separate windowTable 7Topical ocular pharmaceutical forms and compositions of ciclosporin in the US, European, or French markets listed as of 26th February, 2019.Trade Name AND PresentationExcipientsPharmaceutical FormMarketed InYear of Authorization
+Cequa 0.09%
+
+solution/dropsUSA2018Single use vial 0.25 mLPolyoxyl-35 castor oil, octoxynol 40, polyvinylpyrrolidone, sodium phosphate monobasic, sodium phosphate dibasic, hydrochloric acid and/or sodium hydroxide to adjust the pH, water for injection
+Ikervis 1 mg/mL
+
+emulsionEU, Fr2015Single use vial 0.3 mLMedium-chain triglycerides, cetalkonium chloride, glycerol, tyloxapol, poloxamer 407, sodium hydroxide to adjust the pH, water for injection
+Restasis 0.05%
+
+emulsionUSA2002Single use vial 0.4 mLGlycerin, castor oil, polysorbate 80, carbomer 1342, sodium hydroxide to adjust the pH, purified water
+Restasis 0.05%
+
+emulsionUSA20165.5 mL in 10 mL multidose bottleGlycerin, castor oil, polysorbate 80, carbomer copolymer A, sodium hydroxide to adjust the pH, purified water
+Verkazia 1mg/mL
+
+emulsionEU2018Single use vial 0.3 mLMedium-chain triglycerides, cetalkonium chloride, glycerol, tyloxapol, poloxamer 407, sodium hydroxide to adjust the pH, water for injectionOpen in a separate windowAmong these 93 topical ocular specialties, 42 are formulated as solutions, 28 as suspensions, 15 as ointments, 5 as emulsions, 2 as gels, and one as an intracanalicular insert (Figure 4).Open in a separate windowFigure 4Distribution of the different formulations of NSAID, SAID, CsA NSAID + anti-infective drugs, and SAID + anti-infective drugs on the USA, European, and French markets.3.1.1. Ointments The ophthalmic ointment base is generally made of mineral oil and petrolatum. Due to their composition, they present the great advantage of increasing the contact time of the drug (two to four times longer). The ointment bases are generally either monophasic bases in which the vehicle forms one continuous phase, or biphasic systems, in which an emulsion of oil and water is created. The ointments may cause discomfort to patients. They blur the vision due to the refractive index difference between the tears and the non-aqueous nature of the ointment and inaccurate dosing [59,60]. Consequently, they are less marketed, with only 15 specialties being counted among the 93 products listed in the Table 4, Table 5, Table 6 and Table 7.3.1.2. Eye Drops Solutions Most of the topical ophthalmic preparations available today are in the form of aqueous solutions. A homogeneous solution dosage form offers many advantages, including the simplicity of large-scale manufacturing, easy handling, and good tolerability. The factors that must be taken into account while formulating aqueous solution include the selection of the appropriate salt of the drug substance to achieve the therapeutic concentration required. The compatibility of other formulation components, such as the preservative or buffer salts, should be considered as well as the inertia of the primary packaging. Some typical physical parameters, including the pH, osmolality, viscosity, color, and appearance of the product, must be suitable for ocular administration. Usually, aqueous solutions are easily manufactured by the dissolution of active and inactive compounds before sterilization by filtration or autoclaving. Nevertheless, most of the recently developed drugs are hydrophobic and have limited solubility in water [60]. in total, 41 anti-inflammatory specialties and one immunosuppressive specialty among the 93 listed in Table 4, Table 5, Table 6 and Table 7 are formulated as ophthalmic solutions.Suspensions Ophthalmic suspensions may be defined as a fine dispersion of insoluble API in water, which is considered as the most suitable solvent for ocular administration. Eye drop suspensions appear to be an unavoidable alternative to formulate some interesting API, which are hydrophobic and then have limited solution in water. What is expected with administered suspensions is that solid drug particles will be retained in the conjunctival cul-de-sac and will then improve the dug contact time compared to an eye drop solution. Solid drug particles dissolve progressively, leading to improved bioavailability [61]. However, it must be emphasized that the formulation of eye drop suspensions is a real challenge. One of the main parameters to take into account is the size of the solid API suspended. For reasons of patient comfort, the average particle size in most eye drop suspensions is below 10 µm [62]. Likewise, the morphology of solid particles, i.e., irregular shape and crystallinity, must be considered with regards to irritation of the ocular mucosa. Regarding the tolerated particle size, due to the larger surface area deployed, smaller-sized drug particles dissolve more or less quickly in the precorneal pocket liquid and the drug is absorbed into ocular tissues while the larger particles dissolve more slowly, prolonging the contact time and the availability of the drug.Another concern of the formulations is the addition of adequate inactive ingredients for many beneficial reasons, i.e., preservative to prevent microbiological contamination, suspending agents to limit rapid particle settling or caking, and surfactants used as wetting or stabilizing agents. In some formulations, hydrophilic cyclodextrins (CDs) have been added as complexing agents for solubilizing hydrophobic drug molecules. The CD may also act as absorption promoters [62]. Finally, the redispersibility of drug particles by shaking the container must be effective to ensure the mean dose and the uniformity of amounts administered under therapeutic conditions. In addition to the complexity of the formulations, the technological aspects of the manufacture of suspensions are also to be considered. Indeed, the fabrication of these dosage forms is unconventional and requires specific equipment, such as suspension aseptic ball milling. The sterile product is subsequently filled into sterile containers, which are hermetically sealed under an aseptic environment, i.e., class A grade.Despite all the difficulties encountered in the formulation and manufacture of eye drop suspensions, some very interesting pharmaceutical products have already reached the market. To our knowledge, almost 27 suspensions are marketed in Europe and in the USA. Most of these specialties are from the 20th century, but some of them are relatively recent, showing the interest in these ophthalmic dosage forms (Table 3, Table 4 and Table 5). One representative example is NEVANAC®, which was launched in the USA market in 2007 for the treatment of post-operative inflammation after cataract surgery. NEVANAC® is a 0.1% suspension of a nepafenac, which is described chemically as 2-amino-3-benzoylbenzeneacetamide. This API is an amide lipophilic prodrug, which is expected to be deaminated by hydrolytic enzymes in aqueous humor to amfenac (2-amino-3-benzoylbenzeneacetic acid), known as an NSAID, which has unique time-dependent inhibitory properties for COX-1 and COX-2. The prodrug nepafenac is less polar or nonionized and offers better corneal penetration [63]. Note that a new suspension formulation of nepafenac 0.3% has already been developed by Novartis in the USA (ILEVRO®) but is not commercialized in the European Union (Table 4).Another example is the eye drop suspension TOBRADEX®, which is a combination product of two APIs, an antibiotic, tobramycin (0.3%), and a steroid, dexamethasone (0.1%). This commercial product represents one of the widely used steroids, indicated when superficial bacterial ocular infection or a risk of bacterial ocular infection exist. It is interesting to note that TOBRADEX®, which came to the market in 1997, has continued to be improved recently. Indeed, a new formulation was developed and launched as TOBRADEX®ST by Alcon Laboratories, Inc., with the scope to increase the pharmacokinetic characteristics as well as patient compliance compared to TOBRADEX®. The combination of the API in the TOBRADEX®ST was tobramycin 0.3% and dexamethasone 0.05%, which is half of the TOBRADEX® content. Concerning the formulation, the main change was the replacement of the suspending agent Hyetellose (hydroxyethylcellulose) present in TOBRADEX® by xanthan gum in TOBRADEX®ST. The consequences of these modifications were that the anti-inflammatory and anti-infective activities were improved by the new suspension formulation. The explanations could be that xanthan gum, which is an anionic polysaccharide with a repeating unit of two d-glucose, two d-mannose, and one d-glucuronic acid residues, forms an ionic interaction with tobramycin to decrease the viscosity of the suspension. This interaction reduces the sedimentation of dexamethasone and improves the suspension characteristics. After the eye drop is instilled, the pH 7 and ionic content of tears disrupts the interactions between xanthan gum and tobramycin, leading to an enhanced viscosity of the eye drop, which increase its ocular retention and then improves the bioavailability of the drugs. Despite these substantial differences, TOBRADEX®ST appears to be clinically equivalent to the older formulation [64]. Through these two examples, it is possible to say that an eye drop suspension may be of particular interest for the ocular formulation of some APIs.3.1.3. Gels Gels are intended to be introduced into the conjunctival cul-de-sac or to be applied to the conjunctiva. These semi-solid pharmaceutical presentations are made of polymers, presenting the ability to swell in aqueous solvents, which makes it possible to increase the contact time of the preparation, reduce the elimination rate, and obtain a prolonged release of the active ingredient [65]. They reduce the frequency of administration and side effects and consequently improve compliance. They have formed a popular strategy in the early research stages of ocular drug delivery. Hydrophilic gels (hydrogels) mainly have the advantage of being transparent and therefore less disturbing to the vision than ointments. However, the drying of the preparation over time and especially at night leads to the formation of deposits that are often not well accepted by the patient. For this reason, it is preferable to use gels during the day rather than at night.The main inactive ingredients (excipients) used are viscosity modifiers, which slightly increase the viscosity of the product. As previously described, the latter can also be used to stabilize suspensions or as a substitute for tears (artificial tears). These polymers form transparent gels, are sterilizable and water miscible, and have rheological properties that are adapted to be easily spread on the surface of the eye [65]. A distinction is made between preformed gels (already in the form of gels at the time of application) and in situ gels, applied as a solution, whose gelling mechanism takes place after instillation, due to physicochemical change inherent to the ocular environment (variation in the pH, temperature, or ions). Among the most common polymers used to obtain preformed gels are cellulosic derivatives (hydroxypropylmethylcellulose (hypromellose), methylcellulose, hydroxyethylcellulose, carboxymethycellulose), polyvinylalcohol (PVA), carbomers, and hyaluronic acid. Sometimes, a combination of polymers is possible. In situ gels are instilled in liquid form, like a simple eye drop, allowing accurate and precise administration. They provide good sustained release properties. Once- or twice-a-day dosing is the typical expectation of these gel systems. For example, polymers, such as gellan gum and sodium alginate, are able to form gels in the presence of mono or divalent cations while poloxamer rare temperature-responsive polymers [66].The anti-inflammatory eye gels on the market fall into the category of preformed gels, with the example of LOTEMAX® (loteprednol etabonate) containing polycarbophil (cross-linked polyacrylic acid) as the viscosifying agent (Table 4). One can note that some pharmaceutical compositions contain hydrophilic polymer agents (polyvinyl alcohol, carboxymethylcellulose, hydroxypropylmethylcellulose) so that they are less fluid, without being classified as gels in the summary of product characteristics. OCUFEN® 0.03% flurbiprofen sodium), ACUVAIL® 0.45% (ketorolac tromethamine), and PREDNISOLONE SODIUM PHOSPHATE EQ 0.9% are some examples listed in Table 4 and Table 5, and are classified as eye drops and aqueous solutions. The effect of viscosity enhancers on drug bioavailability is minimal in humans and their clinical significance is modest [59]. Today, they continue to be used in the formulations of ophthalmic products, but their function is more for patient comfort and/or reasons of bioadhesion rather than viscosity enhancement [58]. Marketed SAID/NSAID-based ocular gels are either presented in preservative-containing multi-dose or single dose packaging. An effort is being made to develop multi-dose packaging free of preservatives.3.1.4. Emulsions Emulsions are systems composed of liquid droplets of a liquid A dispersed in another liquid B along with surfactants. Two types of emulsion are described: Water-in-oil and oil-in-water emulsion. These systems are useful, particularly oil-in-water emulsion, in the delivery of poor water-soluble drugs. By keeping the drug in solution, the issue of potential absorption because of the slow dissolution of solid drug particles is avoided. In addition, the blurred vision caused by oils is minimized by the water in the external phase. Furthermore, the concentration of the drug in the oil phase can be adjusted to maximize the thermodynamic activity, thus enhancing drug penetration and bioavailability [67].DUREZOL® is a topical corticosteroid that is indicated for the treatment of inflammation and pain associated with ocular surgery. The product, approved by the US FDA in June 2008, is a sterile preserved ophthalmic oil-in-water emulsion. It contains a nonionic emulsifying surfactant polysorbate 80 (4%, w/v), sorbic acid as the preservative and castor oil (5%, w/v) as the oily vehicle. Emulsion eye drops offer advantages over suspensions of solubilizing hydrophobic drug in the oily emulsion vehicle, providing uniform doses without the need for shaking before use. William Stringer and Roy Bryant studied the dose uniformity of DUREZOL® emulsion 0.05% versus branded prednisolone acetate ophthalmic suspension 1% (PRED FORTE®) and it generic under different simulated patient usage conditions. All the results of their study showed that the dose uniformity of DUREZOL® emulsion was predictable, within 15% of the declared concentration, whereas the drop concentration of PRED FORTE® and generic prednisolone acetate ophthalmic suspensions were highly variable throughout the study depending on whether the bottle of eye suspension was stored upright or inverted as well as the shaking or not of the bottle before use [68]. Furthermore, regarding the in vivo corneal penetration of difluprednate, Yamaguchi et al. found that within 30 min of instillation, the emulsion achieves a concentration 7.4 times higher compared to the suspension. Adfditionally, after 1 hour of instillation, the emulsion led to a higher difluprednate concentration (5.7-fold) in aqueous humor compared to the suspension [69].RESTASIS® is a 0.05% cyclosporine ophthalmic emulsion approved by the US FDA in 2003. The inactive ingredients are glycerin (2.2%), castor oil (1.25%), polysorbate 80 (1%), carbomer copolymer type A (0.05%), purified water (to 100%), and sodium hydroxide for pH adjustment [70]. Recently, in 2016, the US FDA again approved a new presentation of ciclosporin emulsion as RESTASIS® MULTIDOSE, which has the same composition as RESTASIS® but benefits from the new packaging of a multi-dose bottle with a patented unidirectional valve and air filter technology that eliminates the need to use a preservative. As previously discussed by Ding et al., oil-in-water emulsions are particularly useful in the delivery of water-insoluble drugs that are solubilized in the internal oil phase [58]. By choosing appropriate inactive ingredients, i.e., a new type of emulsifiers or polymeric emulsifiers that are safe and non-irritating, novel ophthalmic emulsion formulations could be achieved with good stability and improved drug bioavailability.However, castor oil is the inactive ingredient commonly used as the lipophilic phase of the emulsions, although some cytotoxicity towards conjunctival cells has been observed. Indeed, Said et al. showed in an in vitro study that incubating human conjunctival cells with a castor oil vehicle during a 15 min-period of time induced significant cell death. The authors think that this in vitro cytotoxicity could explain the side effects observed in some patients and suggest choosing other lipophilic vector to replace castor oil in emulsion-based ophthalmic formulations [71].Two other emulsion eye drops contain ciclosporin. IKERVIS® and VERKAZIA® were approved throughout the EU in 2015 and 2018, respectively. They contain ciclosporin at a concentration of 1 mg/mL (0.1%) and are presented as a 0.3-mL single dose. The inactive ingredients are as follows. Medium-chain triglyceride (TCM), a fully saturated triglyceride, was chosen as the oily vehicle instead of castor oil or soybean oil. TCM easily solubilizes ciclosporin, it has a very low viscosity, and is expected to easily spread on the surface of the eye. Tyloxapol (hydrophilic–lipophilic balance (HLB) 12.5) and poloxamer 188 (HLB 29) are two complementary surfactants that ensure the physical stability of the dispersed oil phase within the aqueous phase represented by water for injections. Glycerol could act as a tonicity agent, and sodium hydroxide as the pH adjuster. A cationic surfactant, cetalkonium chloride, is used in the product, thus leading to a cationic emulsion [72]. As reported in the literature, the oil-in-water emulsion has the advantages of optimizing spreading and increasing the residence time on the surface of the eye after instillation of the product. Indeed, electrostatic interactions are created between the positive charges of the emulsion and with the negatively charged mucins present at the ocular surface [73,74]. It therefore appears that IKERVIS® will present a formulation for effective delivery of ciclosporin to the cornea [75].3.1.5. Use of Penetration Enhancers The use of an absorption enhancer transiently increases the drug permeability across ocular membranes by decreasing barrier resistance. The surfactants alter the physical properties of cell membranes, by disrupting the tear film and mucin layer as well as the epithelia by loosening tight junctions or by modifying the cell membrane. The benzalkonium chloride (BAK), which is commonly used in formulations for ocular drugs as a preservative, is a cationic surfactant. BAK is known as an irritant even when used at low concentrations (<0.01%). It destabilizes the tear film, thus removing its protection properties. Additionally, it acts on the phospholipid bilayer of cell membranes, inducing morphological changes in the epithelium. Concerning EDTA, also found in ocular formulations as a chelating agent, it is able to disrupt the tight junctions via the extraction of Ca2+ [76,77]. Therefore, formulations have changed over the past decade by removing preservatives, such as BAK, and adapting multi-dose primary packaging, for example: COMOD® or ABAK®, or by developing single-dose forms. As well, the cyclodextrins (α, β, and γ), which are cyclic oligosaccharides, are able to extract cholesterol and lipids from ocular membranes [77,78]. Finally, crown ethers, bile acids, bile salts (deoxycholate, glycocholate, taurodeoxycholate), and cell-penetrating peptides (TAT, penetration, poly(arginine), poly(serine)) have been the subject of research that shows their role as penetration enhancers. Nevertheless, none of these are currently used in ocular medicines [77]. However, the safety of these enhancers has to be proven before clinical trials and particularly considering the long-term exposure of the ocular tissues to enhancers.3.2. Original FormulationsFrom conventional formulations, new formulations have been developed to increase the residence time, decrease the frequency of instillation, and finally increase the bioavailability of ophthalmic dosage forms [79]. These formulations innovate by the materials used, by the use of micro or nanaoparticles, or by the use of combined strategies.3.2.1. Contact Lens Contact lenses are curve-shaped discs prepared from polymeric materials originally designed for vision correction. They can be subdivided in several groups according to their consistency (rigid, semi-rigid, soft) and the polymers used (e.g., poly methyl methacrylic acid, copolymer of hydroxyl ethyl methacrylic acid: poly (vinyl pyrrolidone)). The drugs can be added to contact lens, allowing an innovative and relevant approach for the treatment of ocular pathologies. Generally, the drug molecules are bound to contact lenses by presoaking them in drug solutions [80]. The drug-loaded contact lenses offer advantages of increasing the drug residence time on the ocular surface and providing sustained drug release. Due to the close proximity of contact lens with the cornea, the drug molecules are available for absorption. Finally, contact lens soaked with drug could offer the highest bioavailability compared to other noninvasive ophthalmic medications, such as eye drop solutions [27]. Addo et al. reported that post lens tear film allows drug release from the lens and enhances their precorneal residence time of at least 30 min. The bioavailability increases to about 50% with contact lens [81].3.2.2. Ophthalmic Insert Ophthalmic inserts are solid or semi-solid sterile devices whose size and shape are specially designed to be placed into the cul-de-sac or conjunctival sac of the eye to deliver active ingredients. They offer many advantages among which the increased ocular residence and the extension of the drug release into the eye are the most relevant. They also improve patient compliance due to the reduction of the dosing frequency. The inserts can be classified according to their solubility behavior in two main categories: Soluble and insoluble inserts. Insoluble inserts can be a matrix or reservoir form. After the release of the active ingredient at a predetermined rate, the empty insert must be removed from the eye. Bioerodible inserts do not need removal as these devices are made of polymers that undergo gradual hydrolysis of the chemical bonds and dissolution.While releasing the drug, inserts can be considered as technical advances for the ocular delivery of drugs. To our knowledge and particularly concerning the ocular anterior segment, only one anti-inflammatory product has reached the market. This is DEXTANZA®, a preservative-free resorbable hydrogel insert containing 0.4 mg of dexamethasone (Table 4). DEXTANZA® was the first FDA-approved intracanalicular insert, a novel route of administration that delivers drug to the surface of the eye. The product originally received FDA approval in November 2018 for the treatment of ocular pain following ophthalmic surgery. Recently, DEXTANZA® received a FDA supplemental new drug application for the therapeutic management of ocular inflammation [27,80,82].3.2.3. Micro and Nanocarriers for Ocular Drug Delivery Despite many efforts made by galenic scientists and pharmaceutical companies, effective commercially available drugs to manage affections of the anterior segment of the eye remain a challenge. In this context, nano- and microparticle-based ocular formulations could offer several improvements, such as a substantial increase in the residence time and bioavailability, which are the main limitations of the conventional ocular dosage forms. Therefore, the literature now reports extensive research on several types of micro- and nanoparticle carriers developed for topical ophthalmic administration in order to enhance drug release and improve the bioavailability through the biological membranes of the anterior segment of the eye [83]. Particularly concerning nanosystems, the use of different biocompatible materials (phospholipids, polymers, dendrimers, cyclodextrins, lipids, proteins) made it possible to propose liposomes, nanoparticles, nanosuspensions, nanowafers, nanosponges, nanoemulsions, and nanomicelles as tools with auspicious outcomes for topical ocular delivery of drugs [84]. Table 8, Table 9, and Table 10 group several micro- and nano-formulations of SAIDs, NSAIDs, and immunosuppressive agents described in the literature. Interesting research and review articles have been published, highlighting the benefits of nanosystems in optimizing ocular administration of active ingredients [27,85,86,87]. In some of these publications, the nanocarriers have been studied from several points of view: Composition, physicochemical characteristics, association and release of active ingredients, and potential interests in ocular use. Many potential benefits are therefore expected from ophthalmic topical nanocarriers.Table 8NSAIDs formulated in micro or nanocarriers for topical ophthalmic administration and their main components from the literature.DrugSystemMain ComponentsKey ResultsRef.
+Aceclofenac
+NanoparticlesEUDRAGIT®RS 100, Polysorbate 80, mannitol, waterHigh entrapment efficiency (>90%)Sustained drug release in vitro2-fold higher transcorneal permeation ex vivo as compared with aceclofenac solutionHigher anti-inflammatory activity in vivo than marketed formulation[100]EUDRAGIT®RL 100, Polysorbate 80, mannitol, waterHigh entrapment efficiency (>95%)2-fold higher transcorneal permeation ex vivo as compared with aceclofenac solutionHigher anti-inflammatory activity in vivo than marketed formulation[101]
+Amfenac
+NanoparticlesCatechin, HAuCl4, tris acetate buffer, waterNo irritation effect in vivo and no cytotoxic effect in vitroHigher efficiency in DED treatment in vivo than marketed formulation of ciclosporin A[102]
+Bromfenac Sodium
+LiposomesL-α-distearoylphosphatidylcholine, dicetylphosphate, cholesterol, acetate salt solution, Hank’s balanced salt solution, 2-morpholinoethanesulfonic acid monohydrate, chitosan, waterGood entrapment efficiency (>75%)Sustained drug release without burst effect in vitro[103]
+Celecoxib
+NanoparticlesPoly-ε-caprolactone, poloxamer 188, Sorenson’s phosphate buffer, waterHigh entrapment efficiency (>89%)Sustained drug release without burst effect in vitro≈ 2-fold higher corneal permeation ex vivoHigher anti-inflammatory activity in vivo than marketed formulation[104]Solid lipid nanoparticlesLipid glyceryl monostearate, PVA, polysorbate 80, poloxamer 188, Sorenson’sphosphate buffer, waterEntrapment efficiency (65 < X < 94%)Sustained drug release with burst effect in vitro≈ 2-fold higher corneal permeation ex vivoHigher anti-inflammatory activity in vivo than marketed formulation[104]
+Dexibuprofen
+NanoparticlesPLGA-PEG 5%, PVA, waterNo irritant effect in vitro and in vivoHigh entrapment efficiency (>85%)Sustained drug release up to 12 h in vitro and ex vivoSustained anti-inflammatory activity in vivo[105]
+Diclofenac
+NanoparticlesMethoxy poly(ethylene glycol)-poly(ε-caprolactone)-chitosan copolymer, sodium chloride, waterNo cytotoxic effect in vitro no irritation effect in vivoHigh entrapment efficiency (>95%)Sustained drug release up to 8 h in vitro≈1.4-fold higher corneal penetration ex vivo than marketed formulation2.3-fold higher concentration in aqueous humor in vivo than marketed formulation[106]NaOH, Zn(NO3)2 6H2O, Al(NO3)3 9H2O, PVP K30, trichlorobutanol, waterNo irritation effect in vivoHigh corneal penetration ex vivoHigh apparent permeability coefficient and prolonged precorneal retention time in vivo[107]
+Diclofenac Sodium
+LiposomesPhosphatidylcholine, cholesterol, phosphatidylserine low molecular weight chitosan and sodium chloride, waterNo irritation effect in vivoHigh entrapment efficiency (>95%)≈2-fold higher corneal penetration at 6 h ex vivo than diclofenac solution[108]MicellesMethoxypoly(ethylene glycol)-poly(ε-caprolactone), waterNo irritation effect in vivoGood entrapment efficiency (>70%)Sustained drug release in vitro up to 24 h17-fold higher corneal penetration ex vivo3-fold higher concentration in aqueous humor in vivo2-fold higher bioavailability in vivo[109]
+Diclofenac Sodium
+NanoparticlesN-trimethyl chitosan, phosphate buffer, polysorbate 80, sodium tripolyphosphate, waterNo irritating effect in vitro and in vivoEntrapment efficiency >70%Sustained drug release in vitro≈2-fold higher concentration in aqueous humor in vivo at 1 h[95]NanoparticlesPLGA, poly[Lac(Glc-Leu)], polysorbate 80, benzalkonium chloride, mannitol, waterNo irritants effect in vivoSustained drug release in vitro up to 14 h[110]Solid lipid nanoparticlesPHOSPHOLIPON 90G®, goat fat, polysorbate 80, sorbitol, thimerosal, waterHigh entrapment efficiency (≈90%)Sustained drug release in vitroHigher corneal permeation flux[111]
+Flurbiprofen
+CubosomesGlyceryl monooleate, poloxamer 407, glycerol, waterNo irritation effect in vivoHigh entrapment efficiency (>98%)Sustained drug release without burst effect in vitro2.5- and 2-fold higher apparent permeability ex vivo2-fold higher aqueous humor concentration in vivo at 3 h[112]LiposomesChitosan, egg phosphatidylcholine, cholesterol, SOLUTOL®HS-15, HCl, waterNo irritation effect in vivoHigh encapsulation efficiency (>90%)4.59-, 3.56- and 2.36-fold higher apparent permeability ex vivo4.11- and 2.19-fold higher prolonged retention time in vivo[113]NanoemulsionPLGA, poloxamer 188, waterHigh entrapment efficiency (>85%)Sustained drug release in vitro≈1.7-fold increase corneal permeation ex vivo than marketed formulation[114]NanoparticlesEUDRAGIT®RS 100 and RL 100, polysorbate 80, phosphate buffer, benzalkonium chloride, waterNo irritation effect in vivoHigh entrapment efficiency (>85%)Sustained drug release without burst effectHigher concentration in aqueous humor than with marketed formulation[115]PLGA, poloxamer 188, PVA, waterNo irritation effect in vivoGood entrapment efficiency (>75%)Sustained drug release in vitroHigher anti-inflammatory activity in vivo than marketed formulation[116]Poly-ε-caprolactone, poloxamer 188, waterEntrapment capacity (>75%)Sustained drug release in vitro[117,118]PLGA or poly-ε-caprolactone, waterGood entrapment efficiency (>85%)≈ 3.9- and 7.6-fold increase corneal permeation ex vivo[119]PLGA, poloxamer 188, waterNo irritation effect in vitroHigh entrapment efficiency (>90%)Sustained drug release in vitro[120]Poly-ε-caprolactone, poloxamer 188, trehalose or PEG3350, waterNo irritating effect in vitro and in vivoGood entrapment efficiency (>85%)Sustained drug release in vitroEnhance corneal permeation ex vivoHigher anti-inflammatory activity in vivo[121]Solid lipid nanoparticlesStearic acid, MIGLYOL® 812, castor oil, polysorbate 80, waterNo irritation effect in vivoGood entrapment efficiency (>75%)Sustained drug release without burst effect in vitro[122]
+Flurbiprofen Axetil
+NanoemulsionCastor oil, polysorbate 80, glycerin, carbomer 974P, sodium acetate, boric acid, sorbic acid, waterHigh entrapment efficiency (>98%)Better ocular biocompatibility than marketed formulationHigher anti-inflammatory activity in vivo than marketed formulation[123]
+Ibuprofen
+LiposomesSoybean phospholipids, cholesterol, octadecylamine, water72.9 % entrapment efficiency1.64-fold higher corneal permeation ex vivo at 6 h1.53-fold higher aqueous humor concentration in vivo[124]LiposomesCotton-like silk fibroin, phosphate buffer, purified soybean lecithin, cholesterol, stearylamine, waterNo cytotoxic effect in vitroEntrapment efficacy (59 < X < 86%)Sustained release in vitro and sustained corneal permeation ex vivo[125]Solid lipid nanoparticlesPolyoxyl-35 castor oil, COMPRITOL® 888 ATO, Gelucire 44/14 or TRANSCUTOL® P or stearylamine, MIGLYOL® 812, waterHigh entrapment efficiency (>90%)4.19-fold higher corneal apparent permeability ex vivo3.99-fold increase of aqueous humor drug concentration in vivo[126]
+Ibuprofen Sodium Salt
+NanoparticlesEUDRAGIT®RS 100, polysorbate 80, waterHigher anti-inflammatory activity in vivo than marketed formulation≈ 1,5-fold higher aqueous humor concentration in vivo than with ibuprofen solution[127]NanoparticlesEUDRAGIT® RS 100, polysorbate 80, benzalkonium chloride, waterGood ocular tolerabilityHigh entrapment efficiency (>90%)Sustained drug releaseHigher aqueous humor concentration in vivo[128]
+Indomethacin
+Microparticles/ NanoparticlesZirconia beads and Bead Smash 12, benzalkonium chloride, mannitol or methylcellulose, HPβCD, sodium chloride, waterBetter ocular tolerance than marketed formulation in vitro≈ 6-fold higher corneal penetration in vitro≈ 10-fold higher corneal penetration in vivo[129]Nanoemulsion/ NanoparticlesNC: Poly-ε-caprolactone, lecithin, MIGLYOL® 840, poloxamer 188, waterNE: Lecithin, MIGLYOL® 840, poloxamer 188, waterNP: Poloxamer 188, waterGood tolerance in vivoHigh entrapment efficiency (>89%)Sustained drug release4–5-fold higher corneal penetration ex vivo than marketed formulation[130]Nanoemulsion/NanoparticlesNP: Chitosan with tripolyphosphate, acid acetic, waterNE: Chitosan, lecithin soya, MIGLYOL® 840 and Poloxamer 188 or PVA or polysorbate 80, sorbitol, benzalkonium chloride, waterGood entrapment efficiency (>75%)Sustained release in vitro30-fold higher corneal concentration in vivo at 1 h with NE than with solution13-fold higher aqueous humor in vivo at 6 h post instillation with NE than with solution[97]NanoparticlesPoly-ε-caprolactone, lecithin, MIGLYOL® 840, poloxamer 188, poly-l-lysin or chitosan, waterGood tolerance in vivoHigh entrapment efficiency (>90%)Rapid release in vitro4-6 and 4-7-fold higher corneal and aqueous humor concentrations in vivo after 30 and 60 minS post-instillation than marketed formulation[131]Solid lipid nanoparticlesCOMPRITOL® 888 ATO, poloxamer 188 and/or polysorbate 80, glycerin, NaOH or HCl, waterEntrapment efficiency (>70%)3 – 4.5-fold higher corneal permeability ex vivo than marketed formulation[132]
+Ketorolac Tromethamine
+MicellesCopolymer of N-isopropylacrylamide, vinyl pyrrolidone and acrylic acid crosslinked with N,N′-methylene bis-acrylamide, water30% entrapment efficiencySustained release in vitro2-fold higher corneal permeation ex vivoHigher anti-inflammatory activity up to 3 h and PMN migration in vivo[94]NanoparticlesChitosan, acetic acid, NaOH, tripolyphosphate, waterEntrapment efficiency (34 < X < 41%)Sustained drug release[133]Chitosan, acetic acid, tripolyphosphate, NaOH, waterEntrapment efficiency (5 < X < 75%)Sustained release in vitro up to 6 h3.77-fold lower permeation parameters lower than solution ex vivo[134]
+Naproxen
+MicroparticlesSodium alginate, carbomer 974P, hydroxypropyl methylcellulose, paraffin, calcium chloride, waterGood entrapment efficiency (63 < X < 76%)Sustained release in vitro without burst effect[135]NanoparticlesPLGA, PVA, waterHigh entrapment efficiency (>80%)Sustained drug release in vivo without burst effect in vitro[136]
+Nepanefac
+NanoaggregatesPVP, PVA, carboxymethylcellulose, hydroxypropylmethylcellulose, methyl cellulose, tyloxapol, γCD, HPβCD, EDTA, benzalkonium chloride, sodium chloride, waterGood entrapment efficiency (>60%)[137]
+Phospho-Sulindac
+NanoparticlesMethoxy poly(ethylene glycol)-poly(lactide), sodium cholate, water, phosphate bufferEntrapment efficacy 46.4%Sustained drug release in vitro up to 24 h[138]
+Piroxicam
+MicroparticlesAlbumin, sodium chloride or sorbitol, waterHigh entrapment efficiency (>99%)Sustained release in vitro1.8-fold higher bioavailability in vivo than marketed formulation[139]NanoparticlesEUDRAGIT®RS 100, hydroxypropyl methylcellulose, PVA, sodium chloride, waterSustained release in vitroGreat anti-inflammatory activity in vivo up to 12 h but no difference compared with microsuspension[140]Open in a separate windowα-CD: α-cyclodextrin, βCD: β-cyclodextrin, γCD: γ-cyclodextrin, HPβCD: hydroxypropyl-β-cyclodextrin, HPγCD: hydroxypropyl- γ-cyclodextrin, RMβCD: randomly methylated-β-cyclodextrin, PEG: polyethylene glycol, PLGA: poly(lactic-co-glycolic acid), Poly[Lac(Glc-Leu)]: poly(lactide-co-glycolide-leucine), PVA: polyvinyl alcohol, PVP: polyvinylpyrrolidone, EDTA: ethylenediaminetetraacetic acid, HCl: hydrochloric acid, NaOH: sodium hydroxide.Table 9SAIDs and SAIDs associated with anti-infective formulated in micro or nanocarriers for topical ophthalmic administration.DrugSystemMain ComponentsKey ResultsRef.
+Dexamethasone
+CubosomesMonoolein, poloxamer 407, glycerol, waterGood tolerance in vitroHigh entrapment efficiency (>95%)4.5 - 3.5-fold higher apparent permeability in vitro1.8 fold increase the concentration in aqueous humor in vivo[141]MicroemulsionIsopropyl myristate, polysorbate 80, propylene glycol, chitosan, acetate buffer, waterNo irritation effect in vivoHigh entrapment efficiency (>95%)Sustained drug release with burst effect in vitroHigher anti-inflammatory activity in vivo than marketed formulation[142]Microparticles/NanoparticlesZirconia beads and Bead Smash 12,methylcellulose, propyl p-hydroxybenzoate, methyl p-hydroxybenzoate, waterNo cytotoxic effect in vitro≈ 5.1-fold higher corneal penetration of nanoparticles than marketed formulation in vivo[143]Nanogels suspensionHPγCD, γCD nanogels, EDTA, benzalkonium chloride, hydroxypropylmethylcellulose, sodium chloride, pH adjuster, waterNo irritation effect in vitro and in vivoSustained drug release without burst effect≈ 80-fold increase concentration in tear fluid at 6 h in vivo3-fold increase concentration in aqueous humor in vivo, 2 h after instillation[144]N-tert-butylacrylamide, methylcellulose, nitric acid, cerium ammonium nitrate, waterNo cytotoxic effect in vitroHigh entrapment encapsulation efficiency (>95%)Sustained drug release without burst effect[145]NanomicellesPolyoxyl-40-stearate, polysorbate 80, waterNo irritation effect in vivoSustained drug release in vitro[146]NanoparticlesEthyl cellulose or EUDRAGIT® RS or ethyl cellulose/EUDRAGIT® RS, PVA, waterNo toxicity, except for ethylcellulose particlesEntrapment efficiency (12 < X < 87%)Sustained drug release without burst release[147]Propylene glycol, phosphate buffer, EDTA, poloxamer 188, hydroxyethylcellulose, benzalkonium chloride, waterHigher intensity of drug actionHigher extent of drug absorption[148]γCD, HPγCD, poloxamer 407, benzalkonium chloride, EDTA, sodium chloride, water15-fold higher concentration than marketed formulation[88]NanospongesβCD nanosponge, waterNo irritation or toxic effect ex vivoEntrapment efficiency (3 < X < 10%)Sustained drug release without burst effect≈2-fold higher corneal permeability ex vivo[149]Solid lipid nanoparticlesSoy lecithin, soybean oil, glycerol, poloxamer 188+/-chitosan, waterNo irritation effect in vivoEntrapment efficiency (30 < X < 70%)Sustained drug release in vitro4.69-fold higher concentration in aqueous humor from L/NPs with chitosan than aqueous solution in vivo[150]
+Dexamethasone Sodium Phosphate
+MicroparticlesRMβCD or γCD, benzalkonium chloride, EDTA, sodium chloride, hydroxypropylmethylcellulose, waterNo irritation effect in vivo3-8-fold higher concentration in aqueous humor 2 h after instillation in vivo than marketed formulation[151]NanoparticlesChitosan, sodium tripolyphosphate, acid acetic, phosphate buffer, hyaluronic acid, waterNo irritation effect in vivoEntrapment efficiency (58 < X < 73%)Sustained drug release in vitroProlonged precorneal retention in vivo≈ 8-fold increase the aqueous concentration at 6 h in vivo[152,153]Quaternary ammonium-chitosan conjugate or its thiolated derivative, acid hyaluronic, phosphate buffer, waterNo irritation effect in vivoEntrapment efficiency (18 < X < 35%)Sustained drug release in vitroSustained residence time in tear fluid in vivo[154]
+Fluocinolone Acetonide
+Liposomesα-, β and HPβCD, water, dextrose, glucose, phosphatidyl choline, triolein, cholesterol, L-lysine, phosphate buffer, waterEntrapment efficiency (7 < X < 52%)Sustained release in vitro up to 180h for FA-HPβCD complex[155]NanoparticlesPLGA P 5002 or 7502, poloxamer 407, phosphate buffer, chitosan HCl, waterNo irritation effect in vivoEntrapment efficiency (> 50%)Sustained drug release in vitro≈ 2.5-fold higher concentration in tear sample in vivo at 1h[156]
+Fluoro-Metholone
+NanoparticlesPLGA, poloxamer188, waterNo irritation effect in vitro and in vivoHigh entrapment efficiency (>99%)Sustained drug release in vitro≈2.2-fold higher increase corneal permeation ex vivo than marketed formulationHigher anti-inflammatory activity in vivo at 30 mins than marketed formulation[91]
+Hydrocortisone
+Micelles/NanoparticlesAlbumin, glutaraldehyde, sodium metabisulfite, glucose, polysorbate 80, phosphate buffer, waterEntrapment efficiency (16 < X < 70%)Sustained corneal permeation ex vivoNeither higher AUC values nor prolonged release in vivo[157]Nanoparticles Propylene glycol, isotonic phosphate buffer, EDTA, hydroxyethylcellulose, benzalkonium chloride, poloxamer 188, waterHigher intensity of drug actionHigher extent of drug absorption[148]Gelatin A or B, water, HCl or NaOH, sodium metabisulfite, HPβCD, glutaraldehyde, waterEntrapment efficiency (35 < X < 45%)Sustained drug release in vitro closed to zero order, 30% in 200 min[158]
+Loteprednol Etabonate
+Nanogels suspensionN-boc ethylenediamine, polysorbate 60, chitosan, succinic anhydride, 1-ethyl-3-(3-dimethylaminopropyl) carbodiimide, N-hydroxysuccinimide, phosphate buffer, waterNo cytotoxic effect in vitroGood entrapment efficiency (67 < X < 70%)Sustained release in vitro[159]NanoparticlesPLGA, PVA, waterGood entrapment efficiency (>70%)Improve ex vivo transcorneal penetration[160]
+Methyl-Prednisolone Acetate
+NanoparticlesEUDRAGIT®RS 100, PVA, sodium chloride, hydroxypropylmethylcellulose, waterNo irritation effect in vivoSustained release in vitroHigher anti-inflammatory activity up to 36 h in vivo[161]
+Pirfenidone
+NanoparticlesMonoolein, poloxamer P 407, oleic acid, NaOH, glycerin, waterNo irritation effect in vitroEntrapment efficiency (6 < X < 36%)Sustained release in vitroReduction in ocular lesions associated with a reduction of inflammatory cells in vivo[162]
+Prednisolone
+MicellesQuaternary ammonium palmitoyl gycol chitosan, poloxamer 407, water45% entrapment efficiency10-fold aqueous humor concentration in vivo[163]NanoparticlesPoly-ε-caprolactone or EUDRAGIT® RS100, castor oil and mineral oil, sorbitan monostrearate, polysorbate 80, waterNo irritation effect in vitro, no cytotoxic effect in vitroEntrapment efficiency (45 < X < 52%)Sustained release in vitro[164]Propylene glycol, phosphate buffer, EDTA, hydroxyethylcellulose, benzalkonium chloride, poloxamer 188, waterHigher intensity of drug actionHigher extent of drug absorption[148]
+Prednisolone Acetate
+Liposomes1,2-dipalmitoyl-sn-glycerol-3-phosphocholine, cholesterol, stearylamine, waterHigh entrapment efficiency (78 < X < 90%)Sustained release in vitro1.2 – 2.8-fold lower apparent corneal permeability ex vivo than solution≈ 3 – 5-fold higher aqueous humor concentration at 3 h in vivo than solutionHigher anti-inflammatory activity in vivo with positively charged unilamelar liposome[165]
+Prednisolone Acetate or Phosphate
+EthoniosomesSPAN® 60, cholesterol, phosphate buffer, waterNo irritation effect in vivoEntrapment efficiency >85% for prednisolone acetate and 25 < X < 46% for Prednisolone phosphateSustained release in vitroHigher corneal permeation than marketed formulationLower bioavailability than marketed formulationQuicker anti-inflammatory activity than marketed formulation[166]
+Prednisolone Gatifloxacine
+NanoparticlesEUDRAGIT®RS 100, RL 100, hyaluronic acid, benzalkonium chloride, EDTA, waterGood entrapment efficiency (>60%)Sustained release in vitro5.23-fold higher and sustained concentration in aqueous humor in vivo than marketed formulation[167]
+Triamcinolone Acetonide
+NanoparticlesMethoxypoly(ethylene glycol)-poly(dl-lactic-co-glycolic acid),PVA, waterNo cytotoxic effect in vitro77% entrapment efficiencySustained release maintained for 45 days in vitroanti-inflammatory activity in vivo[168]Poly-ε-caprolactone, poloxamer 188, waterNo cytotoxic effect in vitro60% encapsulation efficiencySustained release in vitroanti-inflammatory activity in vivo[169]PLGA, PVA, waterPoor entrapment efficiency (12 < X < 32%)Sustained release in vitroSimilar anti-inflammatory activity in vivo than intravitreal injection[170]Open in a separate windowα-CD: α-cyclodextrin, βCD: β-cyclodextrin, γCD: γ-cyclodextrin, HPβCD: hydroxypropyl-β-cyclodextrin, HPγCD: hydroxypropyl- γ-cyclodextrin, RMβCD: randomly methylated-β-cyclodextrin, PLGA: poly(lactic-co-glycolic acid), PVA: polyvinyl alcohol, EDTA: ethylenediaminetetraacetic acid, HCl: hydrochloric acid, NaOH: sodium hydroxide.Table 10NSAIDs formulated in combined strategies for topical ophthalmic administration.DrugSystemMain ComponentsKey ResultsRef.
+Celecoxib
+Nanoparticles in gelLecithin, poloxamer 188, PVA, poly-ε-caprolactone or PLA or PLGA, trehalose, hydroxypropylmethylcellulose or methylcellulose, phosphate buffer, benzalkonium chloride, waterNo cytotoxic effect in vitroGood entrapment efficiency (>79%)Sustained drug release without burst effect in vitro[176]
+Celecoxib
+Nanoparticles in gelChitosan or sodium alginate, poly-ε-caprolactone or PLA or PLGA, lecithin, PVA, poloxamer 188, trehalose, hydroxypropylmethylcellulose or methylcellulose, phosphate buffer, benzalkonium chloride, water≈ 5-fold higher concentration in aqueous humor in vivo4.8–29.7-fold higher bioavailability in vivo than marketed formulation[174]
+Celecoxib
+Nanoparticles in gelChitosan or poly-ε-caprolactone, sodium alginate, lecithin, PVA or poloxamer 188, acetic solution, trehalose, hydroxypropylmethylcellulose or methylcellulose, benzalkonium chloride, waterNo cytotoxic effects in vitroEntrapment efficiency (>75%)Sustained drug release without burst effect in vitro[177]
+Diclofenac
+Micelles in gelMethoxypoly(ethylene glycol)-poly-ε-caprolactone copolymer,αCD, waterLow cytotoxic effects in vitro No irritant effects in vivoSustained drug release in vitro up to 216 h, 2.37-fold higher concentration in aqueous humor in vivo 1h after instillation compared to micelles[178]
+Flurbiprofen
+Solid lipid nanoparticles in gelCOMPRITOL® 888 ATO, saturated fatty acid of C18, Gelificante PFC carbomer, MIGLYOL® 812, castor oil, Polysorbate 80, glycerol, NaOH, waterNo irritation effects in vivoGood entrapment efficiency (>70%)Sustained release without burst effect in vitro, Higher corneal permeation ex vivo[179]
+Ibuprofen
+Solid lipid nanoparticles in-situ forming gelCOMPRITOL® 888 ATO, MIGLYOL® 812, cetyltrimethylammonium bromide, Polysorbate 80, poloxamer 407, waterNo cytotoxic in vitroHigh entrapment efficiency (>90%)Sustained release in vitro[180]
+Ketorolac Tromethamine
+Nanoparticles in-situ forming gelEUDRAGIT®RL 100, poloxamer 407, hydroxypropylmethylcellulose, citrate-phosphate buffer, PVA, waterNo irritation effect in vivoEntrapment efficiency (51 < X < 92%)≈ 3-fold higher corneal permeation ex vivo≈ 4-fold higher concentration in aqueous humor in vivo at 4 h[181]
+Meloxicam
+Nanoaggregates in contact lensBovine serum albumin, polysorbate 80, NaOH, HCl, 2-HEMA monomer, tetraethylene glycol dimethacrylate, ethylene glycol, sodium metabisulfite, ammonium persulfate, waterNo irritation effect in vivoSustained drug release without burst effect in vitroReduce corneal penetration ex vivo[182]
+Nepanefac
+Nanoparticles in-situ forming gelTetraethyl orthosilicate, cetyltrimethyl ammonium bromide, ammonia, polysorbate 80, poloxamer 407, Pluronic F67 or chitosan, waterNo cytotoxic effect in vitroHigh entrapment capacity (>98%)Sustained drug release in vitro3.68-fold higher corneal permeation ex vivo[183]
+Piroxicam
+Microparticles /Microparticles in gelPectine, polyacrylate gel, waterEntrapment efficiency (41 < X < 46%)≈ 5–6-fold higher residence time in vivo≈ fold increase bioavailability in aqueous humor in vivo than marketed formulation[184]
+Pranoprofen
+Nanoparticles in gelPLGA, PVA, carbomer 934P, glycerol, glycerin or azone, waterNo irritation effects in vitro and in vivoHigh entrapment efficiency (>80%)Sustained release in vitroGreater anti-inflammatory effect in the cornea in vivo than marketed formulation[185]Open in a separate windowα-CD: α-cyclodextrin, PLA: polylactic acid), PLGA: poly(lactic-co-glycolic acid), PVA: polyvinyl alcohol, 2-HEMA monomer: 2-Hydroxyethyl methacrylate monomer, HCl: hydrochloric acid, NaOH: sodium hydroxideFirst of all, they may enhance the solubility of hydrophobic drugs. As an example, Jansook et al. formulated dexamethasone with γCD and HPγCD-poloxamer under the form of nanoaggregates, which further exhibit a 15-fold higher concentration than the marketed formulation [88]. As well, Shen et al. and Yu et al. investigated methoxypoly(ethylene glycol)-poly(lactide) polymer (mPEG-PLA) micelles as alternative vehicles for the solubilization and delivery of CsA to the eye [89,90].Their second advantage is their ability to improve precorneal retention through adhesive properties and active uptake by the corneal and conjunctival epithelia, leading to enhanced ocular permeation [86] in order to produce a rapid effect. Gonzalez-Pizzaro et al. investigated the benefits of a nanoparticulate formulation of fluorometholone based on PLGA and Pluronic 188 in pigs. The nano-formulation was administered 30 min after the induction of ocular inflammation and was found to produce a greater anti-inflammatory effect up to 120 min compared to ISOPTOFLUCON®, an eye drop suspension of fluorometholone 1mg/mL (Alcon, Barcelona, Spain), as measured by the ocular inflammation score according to a Draize-modified scoring system. This could be attributed to greater and faster transcorneal permeation [91]. Furthermore, Baba et al. suggested a 50-fold greater ocular penetration of fluorescein diacetate for nanoparticles of hydrolysable dye compared to microparticles [92]. Moreover, Liu et al. described prolonged ocular retention, enhanced corneal permeation, and improved tear production when CsA was loaded in cationized hyaluronic acid-coated spanlastics elastic vesicles made of nonionic surfactants [93]. Indeed, the presence of positive charges in the nanosystems promotes the residence time and the ocular bioavailability of CsA as already described [6] in the case of cationic nanoemulsion (NOVASORB® formulation), licensed in France as IKERVIS® (Santen, Tampere, Finland) and in Europe as VERKAZIA® (Santen, Tampere, Finland). These phenomena are due to the electrostatic interactions between the positively charged droplets and negatively charged mucus protein of the corneal epithelium [74]. This mechanism of action would work in conjunction with the hypothesized reservoir effect of the tear film lipid layer. The combination of these effects, as well as the higher dosage strength, could very likely explain the difference in the dosing regimen between once-a-day IKERVIS® versus twice-a-day RESTASIS® [6].The third attribute of nanoparticles is their capacity to enhance drug bioavailability by increasing their residence time at the desired sites [94] in order to prolong the effect. Therefore, N-trimethyl chitosan nanoparticles encapsulating diclofenac sodium showed a 2.5-fold increase in AUC and a sustained residence time, and the therapeutic concentration was detected up to 12 h in the aqueous humor of rabbit as compared with the marketed formulation [95].Moreover, coating nanoparticles with positively charged bioadhesive polymers is a strategy designed to enhance the interaction between nanoparticles and the negative charges on the corneal surface and to increase the precorneal residence time and absorption of drug. Chitosan is the most widely used cationic polymer because of its unique properties, such as acceptable biocompatibility, biodegradability, and the ability to enhance the paracellular transport of drugs [96]. Badawi et al. demonstrated in vivo that indomethacin chitosan-coated nanoparticles were able to contact intimately with the cornea, providing slow and gradual indomethacin release with long-term drug levels, thereby increasing delivery to both the external and internal ocular tissues [97].Note that the use of tacrolimus and ciclosporin-loaded micro or nanoparticles mainly concerns their immunosuppressive activity to prevent immunologic graft rejection [98,99].In Table 8 and Table 9, data from selected studies are described quickly in terms of the biocompatibility, entrapment efficiency, transcorneal permeation of drug, aqueous humor’s drug concentration, and anti-inflammatory effect in vitro and/or in vivo in the scope of the management of anterior segment inflammation.Despite the fact that nanocarriers for ocular drug delivery appear very promising for the treatment of the anterior segment of the eye, only two clinical trials are reported on ClinicalTrials.gov. In addition to the technological effort that needs to be overcome for the large-scale manufacture of these nanosystems, the complexity of the dossiers to be submitted to the authorities for placing the products on the market is a limiting factor, in particular concerning the toxicological aspects.3.2.4. Combined Strategies The last decades were extremely fructiferous regarding therapeutic developments for ocular disease treatments. Particularly, the incorporation of drug’s nanocarrier into a polymer matrix creates a system that combines the advantages of a micro or nanocarrier and gel:-Convenient administration with good tolerance;-Protection of the drug from the enzymatic metabolism present in the tear film [91,147,171];-Longer retention time on the ocular surface [172];-Sustained release [173];-Bioavailability improvement [174]; and-An increase in the drug’s penetration in the anterior and posterior segments of the eye.The most used polymers are alginates, chitosan, cellulose derivatives, poloxamer, hyaluronic acid, and carbomer. They are mainly used in order to prolong the retention time on the ocular surface as observed with the gamma scintigraphy study of Gupta et al. The authors demonstrated that PLGA nanoparticles of levofloxacin incorporated in chitosan have good spreading, better retention on the eye, and finally present better bioavailability than the marketed formulation [175].As seen previously, positively charged bioadhesive polymers can be used to enhance interaction with the negative charges on the corneal surface and to increase the precorneal residence time and drug absorption. Overall, these systems constitute a suitable strategy for the delivery of drugs in order to enhance the drug’s bioavailability. As an example, Ibrahim et al. demonstrated that their nanoparticles included in gels, made of chitosan or poly-ε-caprolactone, showed a 4.8- to 29.7-fold increase in the celecoxib bioavailability compared to celecoxib suspension in rats. The improved bioavailability was indicated in extent and in duration compared with the marketed formulation. On the one hand, this may be due to the high viscosity and bioadhesive properties of chitosan, which prevent the rapid drainage of the formulations and so increased their contact time with the ocular surface. On the other hand, celecoxib-loaded nanoparticles act as drug reservoirs for sustained drug release. Furthermore, these combined formulations increased the celecoxib concentration in both the anterior and posterior segments of the eye. This penetration-enhancing property might be due to chitosan and this ability to open the tight junctions and to increase the permeability of the cell membrane [174].As previously described, we identified published reports on the micro or nano-delivery systems of NSAIDs and SAIDs combined with polymers for topical ophthalmic administration through a systemic search of PubMed from inception until September 2019. We examined the retrieved reports and included in this review those that presented preclinical research on micro or nanocarriers combined with polymer. In Table 10 and Table 11, selected formulations are described quickly in terms of the biocompatibility, entrapment efficiency, transcorneal permeation of the drug, aqueous humor’s drug concentration, and anti-inflammatory effects.Table 11SAIDs formulated in combined strategies for topical ophthalmic administration.DrugSystemMain ComponentsKey ResultsRef.DexamethasoneNanoparticles in-situ forming gelPoloxamer 188, poloxamer 407, waterNo irritation effects in vivoSustained drug release in vitro2.56-fold higher corneal permeation ex vivo≈3-fold higher concentration in aqueous humor in vivo[186]DexamethasoneSolid lipid nanoparticles in gelSoybean oil, glycerol, poloxamer 188, poloxamer 407, waterNo irritation effects in vivoEntrapment efficiency >50%Sustained drug release 2.56-fold increase corneal permeability ex vitro≈3-fold higher concentration in aqueous humor in vivo at 6h after instillation than marketed formulation[187]Dexamethasone AcetateNanoparticles in film hydrogelKaolin, hydroxypropyl methylcellulose 5 and 15000cps, triethanolamine, waterPoor entrapment efficiency (8.89–9.8%)Controlled drug releases in vitro up to 6h without burst effectKaolin extends the corneal permeation up to 6h ex vivoSustained anti-inflammatory activity in vivo[188]FluorometholoneNanoparticles in-situ forming gelPLGA, poloxamer 407, sodium alginate, sodium carboxymethylcellulose, benzalkonium chloride, waterNo irritation effect in vitro and in vivoSustained drug release in vitroHigher corneal residence time than marketed formulation in vivo2–3-fold higher concentration in aqueous humor than marketed formulation in vivoGreater capacity in decreasing OII than marketed formulation in vivo[189]Loteprednol EtabonateNanoemulsion in-situ forming gelPropylene glycol monocaprylate, poloxamer 407, poloxamer 188, benzalkonium chloride, artificial tear fluid, acetate buffer, cetalkonium chloride, glycerin, waterZero-order drug release kineticsNo irritation in vitroHigh entrapment efficiency (>95%)2.54-fold higher bioavailability compared to marketed formulation in vivo[190]Prednisolone AcetateNanoparticles in gelAcetic acid, PVA, sodium deoxycholate, methylparaben, propylparaben, hydroxypropylmethylcellulose, waterEntrapment efficiency (35 < X < 60%)Sustained drug release in vitroGreater anti-inflammatory effects in vivo than marketed formulation[191]Open in a separate windowPLGA: poly (lactic-co-glycolic acid), PVA: polyvinyl alcohol.4. Current Biopharmaceutical Attributes of Topical Ophthalmic Formulations Regulatory specifications of topical ophthalmic preparation are very restrictive concerning the tolerance, stability, and sterility, with regard to the fragility of the eye. Ophthalmic formulations are also complex, adapted to the specific requirements, and must be well characterized. The examinations that must be performed to determine the properties of each formulation can be divided into two main categories: Sterility testing and physicochemical characterization and biological evaluations. 4.1. Sterility Tests and Physicochemical Attributes4.1.1. Sterility Tests Sterility is one of the essential requirements for drug dosage forms applied on the eyeball. The sterility assay is well described in the 2.6.1 monograph of European Pharmacopoeia and USP <71> sterility tests. It involves inoculation in aseptic conditions of the sample examined on two microbiological media:-Fluid thioglycolate medium with resazurin, used for the growth of aerobic and anaerobic bacteria incubated at 30–35 °C; and-Soy-bean casein digest medium, used for the growth of aerobic bacteria and fungi incubated at 20–25 °C.The samples are incubated for a time not shorter than 14 days. Two methods are described: Direct inoculation or membrane filtration. The number of containers to be tested is fixed by the Pharmacopoeia: 5% of the batch, and a minimum of 2 and maximum of 10 containers per media. The minimum quantity of each container to be tested is also fixed, as an example for liquids: Half of the contents of each container but not less than 1 mL per media.Finally, the sterility assay is compliant if no growth of microorganisms occurs at 14 days. The procedure for the sterility assay must be performed previously by a suitability test method. The aim of this test is to prove that the drug does not exhibit microorganism growth. As described below, the product must be examined using exactly the same methods. After transferring the content to be tested, an inoculum of a small number of viable microorganisms is added to the media. The inoculums must be < 100 CFU of Pseudomonas aeruginosa, Clostridium sporogenes, Staphylococcus aerus, Baccilus subtilis, Candida albicans, and Aspergillus brasiliensis per media. The incubation for this test is no more than 5 days.4.1.2. Clarity Examinations Clarity examination involves the visual assessment of the formulation in suitable lighting on a white and black background. It is well described in Pharmacopoeia and is performed for liquid forms, with the exception of suspensions. This examination applies to eye drops and in situ gels before and after gelling [192].4.1.3. Osmolality and PH Osmolality can be measured by the freezing-point depression method. The pH is most often determined using a potentiometric method. pH and osmolality acceptance are 3–8 and 250–450 mOsm/kg for topical ophthalmic administration [193].4.1.4. Rheological Characterization The rheological characteristics of ophthalmic formulations are examined at high shear rates using continuous shear techniques and in the viscoelastic region using oscillation techniques. These experiments are currently performed with controlled stress using a cone and plate geometry and the temperature is controlled by a Peltier plate.The steady-state flow experiments are performed in the range of 0.11 to 100 s−1. The frequency sweep method is usually performed between 0.1 and 10 Hz, with shear strain, while the table of shear rate method is performed by increasing the shear rate from 0.1 to 100 s−1 or more. The shear stress is measured by this method and the apparent viscosity is calculated by dividing the shear stress by the shear rate. If the relationship between the shear stress and the strain rate is linear, the fluid is Newtonian. If it is non-linear, the fluid is non-Newtonian.Oscillation frequency tests can be realized over a frequency range of 0.1–10 Hz at a constant stress amplitude under the linear viscoelastic region (5 Pa), which was previously determined by the oscillation stress sweep tests. From the results of the oscillation frequency, the G’ and G” modulus are obtained. If the G’ modulus is greater than G”, the gel exhibits viscous-like mechanism spectra; a contrario, if the G” modulus is greater than G’, the gel exhibits fluid-like mechanism spectra.The rheological parameter can influence the bioavailability of drugs and the comfort after instillation. The fluids or solutes are eliminated from tears in a few minutes, which results in a short contact time with the eye and high drainage rates and bioavailability for the drugs. To increase the residence time, the viscosity can be increased from 10 to 100 mPa.s, but it may cause discomfort due to blurred vision, foreign body sensation, and damage to the ocular epithelia due to an increase in the shear stress during blinking, resulting in faster elimination due to reflex tears and blinks [194].4.1.5. Mucoadhesion Tests There are many methods that have been developed for mucoadhesion measurements. Some are similar to the in vivo situation and are useful when comparing different materials and formulations to find out which may give the longest residence time. Others have been employed to study the mechanisms of mucoadhesion. The usefulness of the different methods depends on the characteristics of the dosage form and what kind of information is being sought.Some in vivo methods assess the residence time at the application site using gamma scintigraphy, positron emission tomography, or fluorescence, while others involve measurement of the transit time using radioisotopes or fluorescence. The successful use of tracers added to the formulation relies upon the properties of the vehicle remaining unchanged and, therefore, behaving in a manner that is identical to that in the absence of the tracer. So, the results obtained are a genuine reflection of the residence time of the dosage form. The low use of in vivo methods may be explained by the fact that they do not distinguish between mucosal adhesion and other factors affecting the residence time; they are also expensive and they are often accompanied by large standard deviations [79].The mucoadhesion can be evaluated in vitro by viscosity, rheology, and zeta potential measurements [195]. When using these in vitro methods, not only the method must be chosen but also the mucus substrate. It could be either an excised tissue or a mucus preparation.Mucoadhesiveness can be determined ex vivo using corneal buttons cut out from freshly isolated porcine eye and fluorescence. A fluorophore is added to formulations, dropped on the corneal surface, and then exposed to a continuous stream of normal saline solution at a rate of 10 mL/min for 5 min to 4 h. This continuous irrigation is followed in order to mimic the blink-induced shear stress on the ocular surface. At the end of the pre-determined exposure time, cryostat sections of the cornea are prepared by embedding the corneal button in optimum cutting temperature compound and are frozen at −20 °C for at least 24 h. The corneal buttons are then sectioned at 5 µm using a cryostat, placed on slides, and imaged for visualization by fluorescence microscopy [196].4.1.6. Characterization of the Particle Size and Morphology Multiple methods are used for particle size measurements depending on the size range of particles: Optical microscopy (microscopic particle count test), light obscuration particle count test, dynamic imaging analysis, laser diffraction particle analyzers, electron microscopy (scanning electron microscopy, transmission electron microscopy and atomic force microscopy), DLS (dynamic light scattering), Coulter Counter test, and nanoparticle tracking analysis [192].Suspensions (micro) or colloidal suspensions require a homogenous and monodispersed population of particles in a specific size range, in order to ensure their suitability for in vitro and in vivo applications and their physical stability. With respect to particle size distribution characterization, a parameter used to define the size distribution is called the “polydispersity index” (PDI). According to the European Pharmacopeia 10th (EP) or the US Pharmacopeia (USP), the ophthalmic preparation meets the requirements if the average number of particles present in the units tested does not exceed the appropriate value listed in the Table 12.Table 12Requirements of the particle size in ophthalmic preparations according to <798> US Pharmacopeia (USP) and 10th European Pharmacopeia (EP).Maximal Number of ParticlesDiameter≥10 µm≥25 µm≥50 µm≥90 µmAccording to <798> USP50 per mL5 per mL2 per mL
+According to EP 10th
+20 per 10 µg of solid active substance2 per 10 µg of solid active substanceNone per 10 µg of solid active substanceOpen in a separate windowThe morphology of particles can be examined by transmission electron microscopy (TEM) or scanning electron microscopy with negative staining. Briefly, the samples are prepared by wetting a carbon-coated copper grid with a small drop of diluted formulation (5–10 μL). Upon drying, they are stained with 1% uranyl acetate and 2% phosphotungstic acid, air-dried at room temperature, and viewed by TEM. Imaging viewer software is used to perform the image capture and analysis [197]. CryoTEM is also used [198].4.1.7. Zeta Potential Measurement The electrophorectic mobility of nanoparticles is determined by using a Zetasizer and transformed into the zeta potential by using the Smoluchowski equation [199].4.1.8. Drug and Preservative Contents The drug and preservative contents must be determined by an analytical drug quantification methodology and validated according to International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) Q2 (R1) guidelines in order to evaluate the specificity, linearity, repeatability, intermediate fidelity, limit of detection (LOD), and limit of quantification (LOQ) [200]. The most frequently used method is HPLC [192].If it is a nanoparticulate formulation, the entrapment efficiency (EE%) must be determined. The EE% is found by subtracting the free drug from the total concentration found in the nanosuspension [192].4.1.9. Stability Study ICH Q1A (R2) defines the stability data package for a new drug substance or drug product that is sufficient for a registration application within the three regions of the EC, Japan, and the United States.The purpose of stability testing is to provide evidence on how the quality of a drug substance or drug product varies with time under the influence of a variety of environmental factors, such as the temperature, humidity, and light, and to establish the test period for the drug substance or a shelf life for the drug product and recommended storage conditions. The stability studies should include testing of those attributes of the drug product that are susceptible to change during storage and are likely to influence the quality, safety, and/or efficacy.The testing should cover, as appropriate, the physical, chemical, biological, and microbiological attributes; and the preservative content (e.g., antioxidant, antimicrobial preservative). A stability study consists of following these parameters at different pre-determined times (e.g., T0 and 3, 6, 9, and 12 months) and stored in one or more controlled temperatures and humidity. An approach for analyzing the data on a quantitative attribute that is expected to change with time is to determine the time at which the 95% one-sided confidence limit for the mean curve intersects the acceptance criterion [201].4.1.10. In Vitro Drug Release Study In vitro release characteristics can be investigated using the dialysis membrane, whose molecular weight cut-off is between 1000 and 14,000, in the Franz cell [124] or modified rotating paddle apparatus [192]. The release medium is generally made of phosphate-buffered solution (PBS, pH 7.4), and sometimes, PBS contains polysorbate 80 in order to facilitate the drug’s solubilization by increasing its wettability in PBS and to maintain sink conditions. The dialysis membrane and cell are maintained at 35–37 °C. At predetermined times, a volume of release medium is withdrawn and samples are measured [202].Finally, other specific tests may be useful, according to the pharmaceutical form. For example, the gelification ability to form the gel in contact with the eye must be assess for an in situ gelling system or the swelling index for inserts [192].4.2. Biological Evaluations4.2.1. Toxicity and Biocompatibility Tests Corneal damage results from irritation and inflammation, causing mild discomfort to tissue corrosion, and resulting in irreversible blindness. During drug evaluation, the eye irritation potential and eye toxicity of eye drops must be tested to ensure the safety of the drug product before clinical trials in humans.In Vitro Tests In vitro testing models using cultured cells area present numerous advantages compared to in vivo or ex vivo testing as they are relatively inexpensive, simple, and quick to implement.Most in vitro ocular toxicity assays consist of a monolayer of cultured cells and a cytotoxicity assessment in response to a test material. Among the methods of assessing cytotoxicity are the MTT assay, LDH assay, fluorescein leakage tryptan blue exclusion, fluorescent staining with propidium iodide, and neutral red uptake/release tests or ALAMAR® BLUE assay [203]. Each of these methods has their advantages and limitations. In general, a combination of two or more of these methods is normally used to assess cytotoxicity.For example, the MTT assay in a short time exposure (STE) according to the Organization for Economic Cooperation and Development (OECD) guideline is performed after a 24-h stabilization of the cells, then fresh medium containing either different concentrations (5% and 0.05%) of the formulation, blank, or formulation without drug are added. Cells are incubated for 5 min at 37 °C in order to compare the cytotoxicity of different concentrations and incubation times on cells. After incubation, media is removed and fresh medium and MTT solution are added to each well. Incubation is allowed for another 4 h in darkness at 37 °C. Since living cells metabolize the MTT and form blue formazan crystals, DMSO is added to dissolve the formazan crystals. Absorbance may be read with any filter in the wavelength range of 550–600 nm, and the percentage of viability can be calculated. The viability of the treated cell cultures is expressed as a percentage of the control untreated cell cultures assumed to be 100%. According to OECD, Table 13 summarizes the prediction model of STE [204]. Note that the United Nations Globally Harmonized System of Classification and Labelling of Chemicals (UN GHS) is a system proposing the classification of chemicals (substances and mixtures) according to standardized types and levels of physical, health, and environmental hazards. This system addresses corresponding communication elements, such as pictograms, signal words, hazard statements, precautionary statements, and safety data sheets. UN GHS Category 1corresponds to “Serious eye damage”, UN GHS Category 2 corresponds to “Eye irritation”, and finally, UN GHS No Category corresponds to chemicals that are not classified as UN GHS Category 1 or 2 (2A or 2B).Table 13Model of the STE method inspired from OECD guidelines [204].Cell ViabilityUN GHS ClassificationApplicabilityAt 5%At 0.05%>70%>70%No categoryNo serious damage nor eye irritation effect≤70%>70%No prediction can be madeNo prediction can be made, eventual eye irritation≤70%≤70%Category ISerious eye damageOpen in a separate windowIt is an ethical alternative to in vivo studies but do not represent the variability observed in animal and human trials. Generally, in vitro cell culture models can be classified into three different groups, namely primary cell cultures, immortalized cell lines, and reconstructed tissue cultures. According to Rökkö et al., Table 14 summarizes the advantages and disadvantages of each type of cell. The most frequently used cells are Y79 [180], HEK 293 [177], SIRC [204], or HCEC [205].Table 14Advantages and disadvantages of each type of cell.ItemsPrimary Cell CulturesImmortalized Cell LineReconstructed Tissue Culture
+Obtention
+From rabbit’s corneal tissue or human corneal epithelial cells by excising the tissue and allowing it to adhereBy maintaining the harvested cells in suitable growth medium and transfecting them with a viral vector to induce cell divisionFrom bovine or human corneal tissue construct
+Advantages
+Relatively cheap and easyGood correlation with excised rabbit corneaMorphology similar to excised corneaMore accurate way to mimic the cornea
+Disadvantages
+Are not a true representation of the whole corneaExhibit abnormal gene expression and/or biological function
+Open in a separate windowIn vitro assays and models provide useful data that complement in vivo studies, allowing for significant reductions in the numbers of animals used.Numerous in vitro methods are used to predict the biocompatibility or irritation effects of formulations for topical administration, according or not to OECD guidelines: Reconstructed human cornea-like epithelium eye irritation test, fluorescein leakage test method, VITRIGEL® EIT method, EPIOCULAR® time to toxicity, OCUL® IRRITECTION, and the neutral red release or red blood cell test [206].Ex Vivo Tests Several ex vivo models have been developed as excised rabbit, porcine, or bovine corneas, since human corneas are generally reserved for transplant purpose only. They exhibit interspecies variations due to differences in their anatomy and morphology; however, with some caution, they can be used to establish good qualitative comparisons of different drug transport pathways.Rabbit eyes, although smaller than human eyes, are the most preferred for ex vivo models as they can also conveniently be used for in vivo studies, facilitating ex vivo–in vivo correlations. As rabbit eyes lack Bowman’s layer, thus penetration is generally much higher and cannot be correlated well to humans.Pig eyes are structurally the most similar to human eyes in terms of the globe size, corneal thickness, globe diameter to corneal length ratio, and the presence of the Bowman’s layer.Bovine eyes, on the other hand, are significantly larger than human eyes, and the corneal epithelium is almost twice as thick. Furthermore, it is important to keep in mind that human and animal corneas may significantly differ in the metabolic enzymes and transporters present on their surface, thus affecting the bioavailability [207].To date, neither an in vitro nor an ex vivo test is capable of classifying chemicals as the Draize test. Currently, only a limited number of ocular toxicity assays have resulted in validation and regulatory acceptance: Bovine corneal opacity and permeability (BCOP), isolated chicken eye (ICE), fluorescein leakage (FL), and short time exposure (STE) tests have been accepted by ICCVAM and OECD.In Vivo Tests Live animals have been used to assess and evaluate potentially harmful products to eyes since the 18th century. The international standard assay for acute toxicity is the rabbit in vivo Draize eye test, which was developed in the 1940s by the Food and Drug Administration (FDA). New Zealand white (NZW) rabbits are the most commonly used. The procedure involves the application of 0.1 mL (or 0.1 g solid) of the test substance onto the cornea and cul-de-sac conjunctival of one eye of a conscious rabbit for up to 72 h while the other eye serves as the untreated control [208]. The original Draize protocol used at least six rabbits per test, but this was reduced to three animals or a single when serious ocular damage is expected, those with severe lesions being “humanely” euthanized. The latest Draize test guidelines, including the application and delivery of analgesics and anesthetics, was introduced in 2012 [209] to reduce animal pain and suffering. The rabbits are observed at selected intervals for up to 21 days for signs of irritation, including redness, swelling, cloudiness, edema, hemorrhage, discharge, and blindness [203]. In fact, the Draize testing is the only test formally accepted and validated to assess the full range of irritation severity. Both reversible and irreversible ocular effects can be identified using this test [210].The observed degree of irritancy allows classification of the substances, based on the subjective scoring of the effect on the cornea, conjunctiva, and iris, ranging from non-irritating to severely irritating.Despite its “gold standard” status, it is often criticized due to its subjective and time-consuming nature, lack of repeatability, variable estimates, insufficient relevance of test chemical application, high dosages, and over-prediction of human responses primarily due to interspecies differences [211,212]. For many years, the legislation of many countries is the European directive 2010/63/EU, which tries to reduce, refine, and replace animal testing in biological experiments and promote alternatives. However, the reduction of animal use is primarily concentrated on toxicology studies since no government agency to date has eliminated animal use in basic pharmaceutical development.One of the alternative in vivo tests is the low-volume eye-irritation test (LVET). It was developed in response to a recommendation from the national research council [213]. It is a refinement of the Draize test with a lower volume: 0.01 mL/0.01 g applied on the corneal surface of the right eye of the animal without forced eyelid closure employed and not on the conjunctival sac. It is less stressful for the animal. However, the LVET is still criticized for the use of an animal and the risk of false negative results and it is not considered to be a valid replacement nor recommended for prospective ocular safety testing [211].In Silico Tests In silico models are computer-generated models that can play a useful role in predicting the ocular toxicity of a substance, using quantitative structure–activity relationships (QSARs) [211].4.2.2. Pharmacokinetic Studies For ocular drug products, there is no requirement for pharmacokinetics studies in human subjects. This is because the relevant target or surrogate tissues cannot be sampled serially. For the same reasons, during development, pharmacokinetics data rely on the use of animal’s models, such as the rabbit, monkey, dog, and pig.Ex Vivo Transcorneal Permeation Studies Transcorneal permeation studies are carried out by putting the eye drops (0.4 to 1 mL) on a freshly excised cornea. The cornea is freshly excised and fixed between the clamped donor and receptor compartments of an all-glass modified Franz diffusion cell in such a way that its epithelial surface faces the donor compartment. The receptor compartment is filled with freshly prepared simulated tear fluid (pH 7.4). The permeation study is carried out for 4 h, and samples are withdrawn from the receptor and analyzed. At the end of the experiment, the corneal hydration of each cornea must be evaluated. Different excised cornea can be used, such as bovine, porcine, rabbit, goat, sheep, or buffalo [214].In Vivo Tests The most used in vivo pharmacokinetics tests are tear fluid or aqueous humor sampling [141]. Some protocol evaluate the pharmacokinetics of the drug in eye tissues but animals need to be euthanized [174]. The pharmacokinetics study is also conducted using a single-dose-response design. Rats are used to evaluate uveitis while rabbits are used to evaluate conjunctivitis. The animals are divided in two groups: Verum and control. The animals are lightly sedated. Each formulation is instilled into the inferior conjunctival sac of the right eyes of the animals, whereas the left eyes serve as the control by application of the plain dosage form. The eyes are held open for at least 20 s to allow for adequate ocular surface contact of the formulations and to prevent excessive blinking during application of the dosage form, and then the eyelids are held together for an additional 10 s to avoid rapid loss of the formulations. Part of the animals are euthanized at a predetermined time and then scarified by thoracic opening. Blood samples are collected.Both eyes are enucleated and dissected while fresh to separate different eye tissues of the cornea, conjunctiva, anterior sclera, aqueous humor, lens, iris, vitreous body, and posterior eye cup. The amount of drug retained from the different parts of the eye must be further quantified [174].Some in vivo methods assess transcorneal permeation by radiolabelling and imaging by gamma scintigraphy [124] or positron emission tomography [215]. The successful use of tracers added to the formulation relies upon the properties of the vehicle remaining unchanged and, therefore, behaving in a manner that is identical to that in the absence of the tracer so that the results obtained are a genuine reflection of the residence time of the dosage form. The low use of in vivo methods may be explained by the cost and the large standard deviations of the method [79].Another alternative approach includes microdialysis. The microdialysis probe is generally placed in the liquid compartments of the eye, such as the aqueous humor and vitreous humor, and thus allows continuous sampling, making it possible to access pharmacokinetic parameters.4.2.3. Efficacy Testing The anti-inflammatory efficacy test for topical ophthalmic formulations consists in administering a proinflammatory substance to animals, i.e., carrageenan [188] or arachidonic acid, and a more specific induced inflammation model exists, such as autoimmune uveitis [216] or ethanol burn [162].Usually, rabbits are used for conjunctivitis and rats for uveitis [100,105]. Inflammation is induced to a marked extent one hour after carrageenan injection and 30 min after sodium arachidonate instillation.For example, a usual protocol consists in comparing the formulation to a commercial drug and control group (NaCl 0.9% or BSS). The assay is carried out using New Zealand albino male rabbits (n = 6 /group). The study is conducted with the application of 50 µL of 0.5% sodium arachidonate dissolved in PBS in the right eye, using the left eye as a control. After 30 minutes of exposure, 50 µL of each formulation are instilled. In order to evaluate the prevention of inflammation, the evaluation of inflammation is performed from the application of formulation up to 150 min according to the Draize-modified scoring system. It includes histopathological examination, such as inhibition of polymorphonuclear leukocytes’ migration and lid closure scores and the alterations of interleukin IL-17 and IL-10 at mRNA and protein levels in either aqueous humor or serum [168].5. ConclusionsStill today, the ocular administration of drugs remains a huge challenge for ophthalmologists and galenic scientists. This review, mainly devoted to the management of inflammation of the anterior segment of the eye, offers a complete view on the conventional anti-inflammatory products marketed in France, Europe, and the USA. Furthermore, the review highlights the progress of therapeutic efficacy expected with the implementation of new delivery systems. In addition, the main in vitro, ex vivo, and in vivo study methods for the development of ophthalmic anti-inflammatory products were considered. Finally, through the literature cited in this review, scientists have an up-to-date background information to improve the efficacy and tolerability of future topical anti-inflammatory products for the anterior segment of the eye.AcknowledgmentsThis work was supported by Labex ARCANE (ANR-11-LABX-0003-01) and Institut de Chimie Moléculaire de Grenoble (FR 2607) and the Glyco@Alps program (ANR-15-IDEX-02).Author ContributionsR.M., J.B.G.Y., D.W., L.C. and A.G. contributed to draft the manuscript and intellectually to the development of the project. All authors have read and agree to the published version of the manuscript.FundingThis research received no external private funding.Conflicts of InterestThe authors declare no conflict of interest.References1. Ahuja M., Dhake A.S., Sharma S.K., Majumdar D.K. Topical ocular delivery of NSAIDs. AAPS J. 2008;10:229–241. doi: 10.1208/s12248-008-9024-9. [PMC free article] [PubMed] [CrossRef] [Google Scholar]2. Behar-Cohen F. Towards an Optimized Use of Ocular Corticosteroids: EURETINA Award Lecture 2017. Ophthalmologica. 2018;240:111–119. doi: 10.1159/000489673. [PubMed] [CrossRef] [Google Scholar]3. Schalnus R. Topical nonsteroidal anti-inflammatory therapy in ophthalmology. Ophthalmologica. 2003;217:89–98. doi: 10.1159/000068563. [PubMed] [CrossRef] [Google Scholar]4. Wilson D.J., Schutte S.M., Abel S.R. Comparing the Efficacy of Ophthalmic NSAIDs in Common Indications: A Literature Review to Support Cost-effective Prescribing. Ann. Pharm. 2015;49:727–734. doi: 10.1177/1060028015574593. [PubMed] [CrossRef] [Google Scholar]5. Suresh P.K., Sah A.K. Patent perspectives for corticosteroids based ophthalmic therapeutics. Recent Pat. Drug Deliv. 2014;8:206–223. doi: 10.2174/1872211308666140713171702. [PubMed] [CrossRef] [Google Scholar]6. Lallemand F., Schmitt M., Bourges J.-L., Gurny R., Benita S., Garrigue J.-S. Cyclosporine A delivery to the eye: A comprehensive review of academic and industrial efforts. Eur. J. Pharm. Biopharm. 2017;117:14–28. doi: 10.1016/j.ejpb.2017.03.006. [PubMed] [CrossRef] [Google Scholar]7. Deveney T., Asbell P.A. Patient and physician perspectives on the use of cyclosporine ophthalmic emulsion 0.05% for the management of chronic dry eye. Clin. Ophthalmol. 2018;12:569–576. doi: 10.2147/OPTH.S115098. [PMC free article] [PubMed] [CrossRef] [Google Scholar]8. Kompella U.B., Kadam R.S., Lee V.H.L. Recent advances in ophthalmic drug delivery. Delivery. 2010;1:435–456. doi: 10.4155/tde.10.40. [PMC free article] [PubMed] [CrossRef] [Google Scholar]9. Gause S., Hsu K.-H., Shafor C., Dixon P., Powell K.C., Chauhan A. Mechanistic modeling of ophthalmic drug delivery to the anterior chamber by eye drops and contact lenses. Adv. Colloid Interface Sci. 2016;233:139–154. doi: 10.1016/j.cis.2015.08.002. [PubMed] [CrossRef] [Google Scholar]10. Koç F.E., Senel M. Solubility enhancement of Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) using polypolypropylene oxide core PAMAM dendrimers. Int. J. Pharm. 2013;451:18–22. doi: 10.1016/j.ijpharm.2013.04.062. [PubMed] [CrossRef] [Google Scholar]11. Moya-Ortega M.D., Messner M., Jansook P., Nielsen T.T., Wintgens V., Larsen K.L., Amiel C., Sigurdsson H.H., Loftsson T. Drug loading in cyclodextrin polymers: Dexamethasone model drug. J. Incl. Phenom. Macrocycl. Chem. 2011;69:377–382. doi: 10.1007/s10847-010-9758-8. [CrossRef] [Google Scholar]12. Lallemand F., Perottet P., Felt-Baeyens O., Kloeti W., Philippoz F., Marfurt J., Besseghir K., Gurny R. A water-soluble prodrug of cyclosporine A for ocular application: A stability study. Eur. J. Pharm. Sci. 2005;26:124–129. doi: 10.1016/j.ejps.2005.05.003. [PubMed] [CrossRef] [Google Scholar]13. Hoffman R.S., Braga-Mele R., Donaldson K., Emerick G., Henderson B., Kahook M., Mamalis N., Miller K.M., Realini T., Shorstein N.H., et al. Cataract surgery and nonsteroidal antiinflammatory drugs. J. Cataract Refract. Surg. 2016;42:1368–1379. doi: 10.1016/j.jcrs.2016.06.006. [PMC free article] [PubMed] [CrossRef] [Google Scholar]14. Thomas R.K., Melton R. Unleash the power of corticosteroids. Rev. Optom. 2016:26–32. [Google Scholar]15. Sheppard J.D., Comstock T.L., Cavet M.E. Impact of the Topical Ophthalmic Corticosteroid Loteprednol Etabonate on Intraocular Pressure. Adv. Ther. 2016;33:532–552. doi: 10.1007/s12325-016-0315-8. [PMC free article] [PubMed] [CrossRef] [Google Scholar]16. Davis J.L., Gilger B.C., Robinson M.R. Novel approaches to ocular drug delivery. Curr. Opin. Mol. 2004;6:195–205. [PubMed] [Google Scholar]17. Ke T.L., Graff G., Spellman J.M., Yanni J.M. Nepafenac, a unique nonsteroidal prodrug with potential utility in the treatment of trauma-induced ocular inflammation: II. In vitro bioactivation and permeation of external ocular barriers. Inflammation. 2000;24:371–384. doi: 10.1023/A:1007001131987. [PubMed] [CrossRef] [Google Scholar]18. Lindstrom R., Kim T. Ocular permeation and inhibition of retinal inflammation: An examination of data and expert opinion on the clinical utility of nepafenac. Curr. Med. Res. Opin. 2006;22:397–404. doi: 10.1185/030079906X89775. [PubMed] [CrossRef] [Google Scholar]19. Lallemand F., Felt-Baeyens O., Rudaz S., Hamel A.R., Hubler F., Wenger R., Mutter M., Besseghir K., Gurny R. Conversion of cyclosporine A prodrugs in human tears vs rabbits tears. Eur. J. Pharm. Biopharm. 2005;59:51–56. doi: 10.1016/j.ejpb.2004.07.002. [PubMed] [CrossRef] [Google Scholar]20. Lallemand F., Varesio E., Felt-Baeyens O., Bossy L., Hopfgartner G., Gurny R. Biological conversion of a water-soluble prodrug of cyclosporine A. Eur. J. Pharm. Biopharm. 2007;67:555–561. doi: 10.1016/j.ejpb.2007.03.011. [PubMed] [CrossRef] [Google Scholar]21. Lallemand F., Furrer P., Felt-Baeyens O., Gex-Fabry M., Dumont J.-M., Besseghir K., Gurny R. A novel water-soluble cyclosporine A prodrug: Ocular tolerance and in vivo kinetics. Int. J. Pharm. 2005;295:7–14. doi: 10.1016/j.ijpharm.2004.12.015. [PubMed] [CrossRef] [Google Scholar]22. Bourges J.L., Lallemand F., Agla E., Besseghir K., Dumont J.M., BenEzra D., Gurny R., Behar-Cohen F. Evaluation of a topical cyclosporine A prodrug on corneal graft rejection in rats. Mol. Vis. 2006;12:1461–1466. [PubMed] [Google Scholar]23. Rodriguez-Aller M., Kaufmann B., Guillarme D., Stella C., Furrer P., Rudaz S., El Zaoui I., Valamanesh F., Di Tommaso C., Behar-Cohen F., et al. In vivo characterisation of a novel water-soluble Cyclosporine A prodrug for the treatment of dry eye disease. Eur. J. Pharm. Biopharm. 2012;80:544–552. doi: 10.1016/j.ejpb.2011.11.017. [PubMed] [CrossRef] [Google Scholar]24. Rodriguez-Aller M., Guillarme D., El Sanharawi M., Behar-Cohen F., Veuthey J.-L., Gurny R. In vivo distribution and ex vivo permeation of cyclosporine A prodrug aqueous formulations for ocular application. J. Control Rel. 2013;170:153–159. doi: 10.1016/j.jconrel.2013.04.019. [PubMed] [CrossRef] [Google Scholar]25. Agarwal P., Rupenthal I.D. Modern approaches to the ocular delivery of cyclosporine A. Drug Discov. Today. 2016;21:977–988. doi: 10.1016/j.drudis.2016.04.002. [PubMed] [CrossRef] [Google Scholar]26. Taskar P., Tatke A., Majumdar S. Advances in the use of prodrugs for drug delivery to the eye. Exp. Opin. Drug Deliv. 2017;14:49–63. doi: 10.1080/17425247.2016.1208649. [PMC free article] [PubMed] [CrossRef] [Google Scholar]27. Gote V., Sikder S., Sicotte J., Pal D. Ocular Drug Delivery: Present Innovations and Future Challenges. J. Pharm. Exp. 2019;370:602–624. doi: 10.1124/jpet.119.256933. [PubMed] [CrossRef] [Google Scholar]28. Lobo A.-M., Sobrin L., Papaliodis G.N. Drug Delivery Options for the Treatment of Ocular Inflammation. Semin. Ophthalmol. 2010;25:283–288. doi: 10.3109/08820538.2010.518522. [PubMed] [CrossRef] [Google Scholar]29. Janagam D.R., Wu L., Lowe T.L. Nanoparticles for drug delivery to the anterior segment of the eye. Adv. Drug Deliv. Rev. 2017;122:31–64. doi: 10.1016/j.addr.2017.04.001. [PMC free article] [PubMed] [CrossRef] [Google Scholar]30. Lalu L., Tambe V., Pradhan D., Nayak K., Bagchi S., Maheshwari R., Kalia K., Tekade R.K. Novel nanosystems for the treatment of ocular inflammation: Current paradigms and future research directions. J. Control Release. 2017;268:19–39. doi: 10.1016/j.jconrel.2017.07.035. [PubMed] [CrossRef] [Google Scholar]31. Cholkar K., Patel S.P., Vadlapudi A.D., Mitra A.K. Novel strategies for anterior segment ocular drug delivery. J. Ocul. Pharmacol. Ther. Off. J. Assoc. Ocul. Pharmacol. Ther. 2013;29:106–123. doi: 10.1089/jop.2012.0200. [PMC free article] [PubMed] [CrossRef] [Google Scholar]32. Kwatra G., Mukhopadhyay S.  Topical Corticosteroids: Pharmacology. In: Lahiri K., editor. A Treatise on Topical Corticosteroids in Dermatology. Springer Singapore; Singapore: 2018. pp. 11–22. [Google Scholar]33. Einhorn M. Similarities between Corticosteroids. Sci. J. Lander Coll. Arts Sci. 2014;7:38–45. [Google Scholar]34. Comstock T.L., Decory H.H. Advances in corticosteroid therapy for ocular inflammation: Loteprednol etabonate. Int. J. Inflam. 2012;2012:789623. doi: 10.1155/2012/789623. [PMC free article] [PubMed] [CrossRef] [Google Scholar]35. Koay P. The emerging roles of topical non-steroidal anti-inflammatory agents in ophthalmology. Br. J. Ophthalmol. 1996;80:480–485. doi: 10.1136/bjo.80.5.480. [PMC free article] [PubMed] [CrossRef] [Google Scholar]36. Davies N.M. Clinical pharmacokinetics of tiaprofenic acid and its enantiomers. Clin. Pharm. 1996;31:331–347. doi: 10.2165/00003088-199631050-00002. [PubMed] [CrossRef] [Google Scholar]37. Roth S.H. Rationale for using nabumetone and clinical experience. Drugs. 2000;59:35–41. doi: 10.2165/00003495-200059991-00005. [PubMed] [CrossRef] [Google Scholar]38. Cremonesi G., Cavalieri L. Efficacy and safety of morniflumate for the treatment of symptoms associated with soft tissue inflammation. J. Int. Med. Res. 2015;43:290–302. doi: 10.1177/0300060514567212. [PubMed] [CrossRef] [Google Scholar]39. Raguenes-Nicol C., Russo-Marie F., Domage G., Diab N., Solito E., Dray F., Mace J.L., Streichenberger G. Anti-inflammatory mechanism of alminoprofen: Action on the phospholipid metabolism pathway. Biochem. Pharm. 1999;57:433–443. doi: 10.1016/S0006-2952(98)00312-8. [PubMed] [CrossRef] [Google Scholar]40. Kowalski M.L., Makowska J.S. Seven Steps to the Diagnosis of NSAIDs Hypersensitivity: How to Apply a New Classification in Real Practice? Allergy Asthma Immunol. Res. 2015;7:312. doi: 10.4168/aair.2015.7.4.312. [PMC free article] [PubMed] [CrossRef] [Google Scholar]41. Rhen T., Cidlowski J.A. Antiinflammatory Action of Glucocorticoids—New Mechanisms for Old Drugs. N. Eng. J. Med. 2005:1611–1723. doi: 10.1056/NEJMra050541. [PubMed] [CrossRef] [Google Scholar]42. Campbell W., Haluska P.  Lipid Derived Autocoids. In: Hardman J.G., Limbird L.E., editors. Goodman and Gilman’s the Pharmacological Basisi of Therapeutics. 9th ed. Mc Graw-Hill; New York, NY, USA: 1990.  Chapter 26. [Google Scholar]43. Gaynes B.I., Fiscella R. Topical nonsteroidal anti-inflammatory drugs for ophthalmic use: A safety review. Drug Saf. 2002;25:233–250. doi: 10.2165/00002018-200225040-00002. [PubMed] [CrossRef] [Google Scholar]44. Hulin A. Today in molecular mechanisms of immunosuppressive drugs actions: Roles of pharmacist. Ann. Pharm. Fr. 2008;66:102–114. doi: 10.1016/j.pharma.2008.03.005. [PubMed] [CrossRef] [Google Scholar]45. Kronke M., Leonard W.J., Depper J.M., Arya S.K., Wong-Staal F., Gallo R.C., Waldmann T.A., Greene W.C. Cyclosporin A inhibits T-cell growth factor gene expression at the level of mRNA transcription. Proc. Natl. Acad. Sci. USA. 1984;81:5214–5218. doi: 10.1073/pnas.81.16.5214. [PMC free article] [PubMed] [CrossRef] [Google Scholar]46. Klahr S., Ishidoya S., Morrissey J. Role of angiotensin II in the tubulointerstitial fibrosis of obstructive nephropathy. Am. J. Kidney Dis. 1995;26:141–146. doi: 10.1016/0272-6386(95)90167-1. [PubMed] [CrossRef] [Google Scholar]47. Kiefer F., Tibbles L.A., Anafi M., Janssen A., Zanke B.W., Lassam N., Pawson T., Woodgett J.R., Iscove N.N. HPK1, a hematopoietic protein kinase activating the SAPK/JNK pathway. EMBO J. 1996;15:7013–7025. doi: 10.1002/j.1460-2075.1996.tb01093.x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]48. Granelli-Piperno A. In situ hybridization for interleukin 2 and interleukin 2 receptor mRNA in T cells activated in the presence or absence of cyclosporin A. J. Exp. Med. 1988;168:1649–1658. doi: 10.1084/jem.168.5.1649. [PMC free article] [PubMed] [CrossRef] [Google Scholar]49. Timmerman L.A., Clipstone N.A., Ho S.N., Northrop J.P., Crabtree G.R. Rapid shuttling of NF-AT in discrimination of Ca2+ signals and immunosuppression. Nature. 1996;383:837–840. doi: 10.1038/383837a0. [PubMed] [CrossRef] [Google Scholar]50. Molkentin J.D., Lu J.-R., Antos C.L., Markham B., Richardson J., Robbins J., Grant S.R., Olson E.N. A Calcineurin-Dependent Transcriptional Pathway for Cardiac Hypertrophy. Cell. 1998;93:215–228. doi: 10.1016/S0092-8674(00)81573-1. [PMC free article] [PubMed] [CrossRef] [Google Scholar]51. Patel D., Wairkar S. Recent advances in cyclosporine drug delivery: Challenges and opportunities. Drug Deliv. Transl. Res. 2019;9:1067–1081. doi: 10.1007/s13346-019-00650-1. [PubMed] [CrossRef] [Google Scholar]52. Rodríguez Villanueva J., Rodríguez Villanueva L., Guzmán Navarro M. Pharmaceutical technology can turn a traditional drug, dexamethasone into a first-line ocular medicine. A global perspective and future trends. Int. J. Pharm. 2017;516:342–351. doi: 10.1016/j.ijpharm.2016.11.053. [PubMed] [CrossRef] [Google Scholar]53. Fel A., Aslangul E., Le Jeunne C. Eye and corticosteroid’s use. Presse Med. 2012;41:414–421. doi: 10.1016/j.lpm.2012.02.001. [PubMed] [CrossRef] [Google Scholar]54. Rodrigues E.B., Farah M.E., Bottós J.M., Bom Aggio F. Nonsteroidal Anti-Inflammatory Drugs in the Treatment of Retinal Diseases. Dev. Ophthalmol. 2016;55:212–220. doi: 10.1159/000431197. [PubMed] [CrossRef] [Google Scholar]55. Sall K., Stevenson O.D., Mundorf T.K., Reis B.L. Two multicenter, randomized studies of the efficacy and safety of cyclosporine ophthalmic emulsion in moderate to severe dry eye disease11Reprint requests to: Linda Lewis, 575 Anton Blvd, Suite 900, Costa Mesa, CA 92626. Ophthalmology. 2000;107:631–639. doi: 10.1016/S0161-6420(99)00176-1. [PubMed] [CrossRef] [Google Scholar]56. Iwamoto S., Koga T., Ohba M., Okuno T., Koike M., Murakami A., Matsuda A., Yokomizo T. Non-steroidal anti-inflammatory drug delays corneal wound healing by reducing production of 12-hydroxyheptadecatrienoic acid, a ligand for leukotriene B4 receptor 2. Sci. Rep. 2017;7:13267. doi: 10.1038/s41598-017-13122-8. [PMC free article] [PubMed] [CrossRef] [Google Scholar]57. Nebbioso M., Alisi L., Giovannetti F., Armentano M., Lambiase A. Eye drop emulsion containing 0.1% cyclosporin (1 mg/mL) for the treatment of severe vernal keratoconjunctivitis: An evidence-based review and place in therapy. OPTH. 2019;13:1147–1155. doi: 10.2147/OPTH.S181811. [PMC free article] [PubMed] [CrossRef] [Google Scholar]58. Ding S. Recent developments in ophthalmic drug delivery. PSTT. 1998;1:328–335. doi: 10.1016/S1461-5347(98)00087-X. [CrossRef] [Google Scholar]59. Sasaki H., Yamamura K., Nishida K., Nakamura J., Ichikawa M. Delivery of drugs to the eye by topical application. Prog. Retin. Eye Res. 1996;15:583–620. doi: 10.1016/1350-9462(96)00014-6. [CrossRef] [Google Scholar]60. Ali Y., Lehmussaari K. Industrial perspective in ocular drug delivery. Adv. Drug Deliv. Rev. 2006;58:1258–1268. doi: 10.1016/j.addr.2006.07.022. [PubMed] [CrossRef] [Google Scholar]61. Hui H.W., Robinson J.R. Effect of particle dissolution rate on ocular drug bioavailability. J. Pharm. Sci. 1986;75:280–287. doi: 10.1002/jps.2600750316. [PubMed] [CrossRef] [Google Scholar]62. Yellepeddi V.K., Palakurthi S. Recent Advances in Topical Ocular Drug Delivery. J. Ocul. Pharm. 2016;32:67–82. doi: 10.1089/jop.2015.0047. [PubMed] [CrossRef] [Google Scholar]63. Gaynes B.I., Onyekwuluje A. Topical ophthalmic NSAIDs: A discussion with focus on nepafenac ophthalmic suspension. Clin. Ophthalmol. 2008;2:355–368. doi: 10.2147/OPTH.S1067. [PMC free article] [PubMed] [CrossRef] [Google Scholar]64. Scoper S.V., Kabat A.G., Owen G.R., Stroman D.W., Kabra B.P., Faulkner R., Kulshreshtha A.K., Rusk C., Bell B., Jamison T., et al. Ocular distribution, bactericidal activity and settling characteristics of TobraDex ST ophthalmic suspension compared with TobraDex ophthalmic suspension. Advance. 2008;25:77–88. doi: 10.1007/s12325-008-0019-9. [PubMed] [CrossRef] [Google Scholar]65. Nanjundswami N.G., Dasankoppa F.S., Sholapur H.N. A Review on Hydrogels and Its Use in In Situ Ocular Drug Delivery. Indian J. Nov. Drug Deliv. 2009;1:11–17. [Google Scholar]66. Kirchhof S., Gregoritza M., Messmann V., Hammer N., Goepferich A.M., Brandl F.P. Diels-Alder hydrogels with enhanced stability: First step toward controlled release of bevacizumab. Eur. J. Pharm. Biopharm. 2015;96:217–225. doi: 10.1016/j.ejpb.2015.07.024. [PubMed] [CrossRef] [Google Scholar]67. Gan L., Wang J., Jiang M., Bartlett H., Ouyang D., Eperjesi F., Liu J., Gan Y. Recent advances in topical ophthalmic drug delivery with lipid-based nanocarriers. Drug Discov. Today. 2013;18:290–297. doi: 10.1016/j.drudis.2012.10.005. [PubMed] [CrossRef] [Google Scholar]68. Stringer W., Bryant R. Dose uniformity of topical corticosteroid preparations: Difluprednate ophthalmic emulsion 0.05% versus branded and generic prednisolone acetate ophthalmic suspension 1% Clin. Ophthalmol. 2010;4:1119–1124. doi: 10.2147/OPTH.S12441. [PMC free article] [PubMed] [CrossRef] [Google Scholar]69. Yamaguchi M., Yasueda S., Isowaki A., Yamamoto M., Kimura M., Inada K., Ohtori A. Formulation of an ophthalmic lipid emulsion containing an anti-inflammatory steroidal drug, difluprednate. Int. J. Pharm. 2005;301:121–128. doi: 10.1016/j.ijpharm.2005.05.036. [PubMed] [CrossRef] [Google Scholar]70. Ames P., Galor A. Cyclosporine ophthalmic emulsions for the treatment of dry eye: A review of the clinical evidence. Clin. Investig. (Lond.) 2015;5:267–285. doi: 10.4155/cli.14.135. [PMC free article] [PubMed] [CrossRef] [Google Scholar]71. Said T., Dutot M., Christon R., Beaudeux J.-L., Martin C., Warnet J.-M., Rat P. Benefits and side effects of different vegetable oil vectors on apoptosis, oxidative stress, and P2X7 cell death receptor activation. Investig. Ophthalmol. Vis. Sci. 2007;48:5000–5006. doi: 10.1167/iovs.07-0229. [PubMed] [CrossRef] [Google Scholar]72. European Medicines Agency  . Human Medicine European Public Assessment Report: IKERVIS. European Medicines Agency; Amsterdam, The Netherlands: 2015.  [Google Scholar]73. Lallemand B., Ouedraogo M., Wauthoz N., Lamkami T., Mathieu V., Jabin I., Amighi K., Kiss R., Dubois J., Goole J. Synthesis and plasma pharmacokinetics in CD-1 mice of a 18β-glycyrrhetinic acid derivative displaying anti-cancer activity: Pharmacokinetics of a GA derivative. J. Pharm. Pharmacol. 2013;65:402–410. doi: 10.1111/j.2042-7158.2012.01603.x. [PubMed] [CrossRef] [Google Scholar]74. Lallemand F., Daull P., Benita S., Buggage R., Garrigue J.-S. Successfully Improving Ocular Drug Delivery Using the Cationic Nanoemulsion, Novasorb. J. Drug Deliv. 2012;2012:1–16. doi: 10.1155/2012/604204. [PMC free article] [PubMed] [CrossRef] [Google Scholar]75. Eroglu Y.I. A comparative review of Haute Autorité de Santé and National Institute for Health and Care Excellence health technology assessments of Ikervis® to treat severe keratitis in adult patients with dry eye disease which has not improved despite treatment with tear substitutes. J. Mark. Access Health Policy. 2017;5:1336043. doi: 10.1080/20016689.2017.1336043. [PMC free article] [PubMed] [CrossRef] [Google Scholar]76. Morrison P.W.J., Khutoryanskiy V.V. Enhancement in corneal permeability of riboflavin using calcium sequestering compounds. Int. J. Pharm. 2014;472:56–64. doi: 10.1016/j.ijpharm.2014.06.007. [PMC free article] [PubMed] [CrossRef] [Google Scholar]77. Moiseev R.V., Morrison P.W.J., Steele F., Khutoryanskiy V.V. Penetration Enhancers in Ocular Drug Delivery. Pharmaceutics. 2019;11:321.  doi: 10.3390/pharmaceutics11070321. [PMC free article] [PubMed] [CrossRef] [Google Scholar]78. Morrison P.W.J., Connon C.J., Khutoryanskiy V.V. Cyclodextrin-mediated enhancement of riboflavin solubility and corneal permeability. Mol. Pharm. 2013;10:756–762. doi: 10.1021/mp3005963. [PubMed] [CrossRef] [Google Scholar]79. Edsman K., Hägerström H. Pharmaceutical applications of mucoadhesion for the non-oral routes. J. Pharm. Pharm. 2005;57:3–22. doi: 10.1211/0022357055227. [PubMed] [CrossRef] [Google Scholar]80. Sampath Kumar K., Bhowmik D., Harish G., Duraivel S., Pragathi Kumar B. Ocular Inserts: A Novel Controlled Drug Delivery System. Pharma Innov. J. 2012;1:1–16. [Google Scholar]81. Addo R.T.  Ocular Drug Delivery: Advances, Challenges and Applications. Springer; Berlin, Germany: 2016.  [Google Scholar]82. Jervis L.P. A Summary of Recent Advances in Ocular Inserts and Implants. J. Bioequivalence Bioavailab. 2017;9:320–323. doi: 10.4172/jbb.1000318. [CrossRef] [Google Scholar]83. Souto E.B., Dias-Ferreira J., López-Machado A., Ettcheto M., Cano A., Camins Espuny A., Espina M., Garcia M.L., Sánchez-López E. Advanced Formulation Approaches for Ocular Drug Delivery: State-Of-The-Art and Recent Patents. Pharmaceutics. 2019;11:460.  doi: 10.3390/pharmaceutics11090460. [PMC free article] [PubMed] [CrossRef] [Google Scholar]84. Nagarwal R.C., Kant S., Singh P.N., Maiti P., Pandit J.K. Polymeric nanoparticulate system: A potential approach for ocular drug delivery. J. Control Release. 2009;136:2–13. doi: 10.1016/j.jconrel.2008.12.018. [PubMed] [CrossRef] [Google Scholar]85. Araújo J., Gonzalez E., Egea M.A., Garcia M.L., Souto E.B. Nanomedicines for ocular NSAIDs: Safety on drug delivery. Nanomedicine. 2009;5:394–401. doi: 10.1016/j.nano.2009.02.003. [PubMed] [CrossRef] [Google Scholar]86. Lakhani P., Patil A., Majumdar S. Recent advances in topical nano drug-delivery systems for the anterior ocular segment. Delivery. 2018;9:137–153. doi: 10.4155/tde-2017-0088. [PMC free article] [PubMed] [CrossRef] [Google Scholar]87. Mandal A., Bisht R., Rupenthal I.D., Mitra A.K. Polymeric micelles for ocular drug delivery: From structural frameworks to recent preclinical studies. J. Control Release. 2017;248:96–116. doi: 10.1016/j.jconrel.2017.01.012. [PMC free article] [PubMed] [CrossRef] [Google Scholar]88. Jansook P., Pichayakorn W., Muankaew C., Loftsson T. Cyclodextrin–poloxamer aggregates as nanocarriers in eye drop formulations: Dexamethasone and amphotericin B. Drug Dev. Ind. Pharm. 2016;42:1446–1454. doi: 10.3109/03639045.2016.1141932. [PubMed] [CrossRef] [Google Scholar]89. Shen Y., Yu Y., Chaurasiya B., Li X., Xu Y., Webster T., Tu J., Sun R. Stability, safety, and transcorneal mechanistic studies of ophthalmic lyophilized cyclosporine-loaded polymeric micelles. Int. J. Nanomed. 2018;13:8281–8296. doi: 10.2147/IJN.S173691. [PMC free article] [PubMed] [CrossRef] [Google Scholar]90. Yu Y., Chen D., Li Y., Yang W., Tu J., Shen Y. Improving the topical ocular pharmacokinetics of lyophilized cyclosporine A-loaded micelles: Formulation, in vitro and in vivo studies. Drug Deliv. 2018;25:888–899. doi: 10.1080/10717544.2018.1458923. [PMC free article] [PubMed] [CrossRef] [Google Scholar]91. Gonzalez-Pizarro R., Silva-Abreu M., Calpena A.C., Egea M.A., Espina M., García M.L. Development of fluorometholone-loaded PLGA nanoparticles for treatment of inflammatory disorders of anterior and posterior segments of the eye. Int. J. Pharm. 2018;547:338–346. doi: 10.1016/j.ijpharm.2018.05.050. [PubMed] [CrossRef] [Google Scholar]92. Baba K., Tanaka Y., Kubota A., Kasai H., Yokokura S., Nakanishi H., Nishida K. A method for enhancing the ocular penetration of eye drops using nanoparticles of hydrolyzable dye. J. Control Release. 2011;153:278–287. doi: 10.1016/j.jconrel.2011.04.019. [PubMed] [CrossRef] [Google Scholar]93. Liu Y., Wang Y., Yang J., Zhang H., Gan L. Cationized hyaluronic acid coated spanlastics for cyclosporine A ocular delivery: Prolonged ocular retention, enhanced corneal permeation and improved tear production. Int. J. Pharm. 2019;565:133–142. doi: 10.1016/j.ijpharm.2019.05.018. [PubMed] [CrossRef] [Google Scholar]94. Gupta A.K., Madan S., Majumdar D.K., Maitra A. Ketorolac entrapped in polymeric micelles: Preparation, characterisation and ocular anti-inflammatory studies. Int. J. Pharm. 2000;209:1–14. doi: 10.1016/S0378-5173(00)00508-1. [PubMed] [CrossRef] [Google Scholar]95. Asasutjarit R., Theerachayanan T., Kewsuwan P., Veeranodha S., Fuongfuchat A., Ritthidej G.C. Development and Evaluation of Diclofenac Sodium Loaded-N-Trimethyl Chitosan Nanoparticles for Ophthalmic Use. AAPS Pharmscitech. 2015;16:1013–1024. doi: 10.1208/s12249-015-0290-4. [PMC free article] [PubMed] [CrossRef] [Google Scholar]96. De la Fuente M., Raviña M., Paolicelli P., Sanchez A., Seijo B., Alonso M.J. Chitosan-based nanostructures: A delivery platform for ocular therapeutics. Adv. Drug Deliv. Rev. 2010;62:100–117. doi: 10.1016/j.addr.2009.11.026. [PubMed] [CrossRef] [Google Scholar]97. Badawi A.A., El-Laithy H.M., El Qidra R.K., El Mofty H., El dally M. Chitosan based nanocarriers for indomethacin ocular delivery. Arch. Pharm. Res. 2008;31:1040–1049. doi: 10.1007/s12272-001-1266-6. [PubMed] [CrossRef] [Google Scholar]98. Akhter S., Anwar M., Siddiqui M.A., Ahmad I., Ahmad J., Ahmad M.Z., Bhatnagar A., Ahmad F.J. Improving the topical ocular pharmacokinetics of an immunosuppressant agent with mucoadhesive nanoemulsions: Formulation development, in-vitro and in-vivo studies. Colloids Surf. B Biointerfaces. 2016;148:19–29. doi: 10.1016/j.colsurfb.2016.08.048. [PubMed] [CrossRef] [Google Scholar]99. Price M.O., Price F.W. Efficacy of topical cyclosporine 0.05% for prevention of cornea transplant rejection episodes. Ophthalmology. 2006;113:1785–1790. doi: 10.1016/j.ophtha.2006.05.022. [PubMed] [CrossRef] [Google Scholar]100. Katara R., Sachdeva S., Majumdar D.K. Design, characterization, and evaluation of aceclofenac-loaded Eudragit RS 100 nanoparticulate system for ocular delivery. Pharm. Dev. Technol. 2019;24:368–379. doi: 10.1080/10837450.2018.1486424. [PubMed] [CrossRef] [Google Scholar]101. Katara R., Majumdar D.K. Eudragit RL 100-based nanoparticulate system of aceclofenac for ocular delivery. Colloids Surf. B Biointerfaces. 2013;103:455–462. doi: 10.1016/j.colsurfb.2012.10.056. [PubMed] [CrossRef] [Google Scholar]102. Li Y.-J., Luo L.-J., Harroun S.G., Wei S.-C., Unnikrishnan B., Chang H.-T., Huang Y.-F., Lai J.-Y., Huang C.-C. Synergistically dual-functional nano eye-drops for simultaneous anti-inflammatory and anti-oxidative treatment of dry eye disease. Nanoscale. 2019;11:5580–5594. doi: 10.1039/C9NR00376B. [PubMed] [CrossRef] [Google Scholar]103. Tsukamoto T., Hironaka K., Fujisawa T., Yamaguchi D., Tahara K., Tozuka Y., Takeuchi H. Preparation of bromfenac-loaded liposomes modified with chitosan for ophthalmic drug delivery and evaluation of physicochemical properties and drug release profile. Asian J. Pharm. Sci. 2013;8:104–109. doi: 10.1016/j.ajps.2013.07.013. [CrossRef] [Google Scholar]104. Sharma A.K., Sahoo P.K., Majumdar D.K., Panda A.K. Topical ocular delivery of a COX-II inhibitor via biodegradable nanoparticles. Nanotechnol. Rev. 2016;5 doi: 10.1515/ntrev-2016-0004. [CrossRef] [Google Scholar]105. Sánchez-López E., Egea M.A., Cano A., Espina M., Calpena A.C., Ettcheto M., Camins A., Souto E.B., Silva A.M., García M.L. PEGylated PLGA nanospheres optimized by design of experiments for ocular administration of dexibuprofen-in vitro, ex vivo and in vivo characterization. Colloids Surf. B Biointerfaces. 2016;145:241–250. doi: 10.1016/j.colsurfb.2016.04.054. [PubMed] [CrossRef] [Google Scholar]106. Shi S., Zhang Z., Luo Z., Yu J., Liang R., Li X., Chen H. Chitosan grafted methoxy poly(ethylene glycol)-poly(ε-caprolactone) nanosuspension for ocular delivery of hydrophobic diclofenac. Sci. Rep. 2015;5:11337. doi: 10.1038/srep11337. [PMC free article] [PubMed] [CrossRef] [Google Scholar]107. Cao F., Wang Y., Ping Q., Liao Z. Zn-Al-NO(3)-layered double hydroxides with intercalated diclofenac for ocular delivery. Int. J. Pharm. 2011;404:250–256. doi: 10.1016/j.ijpharm.2010.11.013. [PubMed] [CrossRef] [Google Scholar]108. Li N., Zhuang C., Wang M., Sun X., Nie S., Pan W. Liposome coated with low molecular weight chitosan and its potential use in ocular drug delivery. Int. J. Pharm. 2009;379:131–138. doi: 10.1016/j.ijpharm.2009.06.020. [PubMed] [CrossRef] [Google Scholar]109. Li X., Zhang Z., Li J., Sun S., Weng Y., Chen H. Diclofenac/biodegradable polymer micelles for ocular applications. Nanoscale. 2012;4:4667–4673. doi: 10.1039/c2nr30924f. [PubMed] [CrossRef] [Google Scholar]110. Agnihotri S.M., Vavia P.R. Diclofenac-loaded biopolymeric nanosuspensions for ophthalmic application. Nanomedicine. 2009;5:90–95. doi: 10.1016/j.nano.2008.07.003. [PubMed] [CrossRef] [Google Scholar]111. Attama A.A., Reichl S., Müller-Goymann C.C. Diclofenac sodium delivery to the eye: In Vitro evaluation of novel solid lipid nanoparticle formulation using human cornea construct. Int. J. Pharm. 2008;355:307–313. doi: 10.1016/j.ijpharm.2007.12.007. [PubMed] [CrossRef] [Google Scholar]112. Han S., Shen J., Gan Y., Geng H., Zhang X., Zhu C., Gan L. Novel vehicle based on cubosomes for ophthalmic delivery of flurbiprofen with low irritancy and high bioavailability. Acta Pharm. Sin. 2010;31:990–998. doi: 10.1038/aps.2010.98. [PMC free article] [PubMed] [CrossRef] [Google Scholar]113. Chen H., Pan H., Li P., Wang H., Wang X., Pan W., Yuan Y. The potential use of novel chitosan-coated deformable liposomes in an ocular drug delivery system. Colloids Surf. B Biointerfaces. 2016;143:455–462. doi: 10.1016/j.colsurfb.2016.03.061. [PubMed] [CrossRef] [Google Scholar]114. Vega E., Gamisans F., García M.L., Chauvet A., Lacoulonche F., Egea M.A. PLGA nanospheres for the ocular delivery of flurbiprofen: Drug release and interactions. J. Pharm. Sci. 2008;97:5306–5317. doi: 10.1002/jps.21383. [PubMed] [CrossRef] [Google Scholar]115. Pignatello R., Bucolo C., Spedalieri G., Maltese A., Puglisi G. Flurbiprofen-loaded acrylate polymer nanosuspensions for ophthalmic application. Biomaterials. 2002;23:3247–3255. doi: 10.1016/S0142-9612(02)00080-7. [PubMed] [CrossRef] [Google Scholar]116. Vega E., Egea M.A., Valls O., Espina M., García M.L. Flurbiprofen loaded biodegradable nanoparticles for ophtalmic administration. J. Pharm. Sci. 2006;95:2393–2405. doi: 10.1002/jps.20685. [PubMed] [CrossRef] [Google Scholar]117. Gamisans F., Lacoulonche F., Chauvet A., Espina M., García M.L., Egea M.A. Flurbiprofen-loaded nanospheres: Analysis of the matrix structure by thermal methods. Int. J. Pharm. 1999;179:37–48. doi: 10.1016/S0378-5173(98)00381-0. [PubMed] [CrossRef] [Google Scholar]118. Lacoulonche F., Gamisans F., Chauvet A., García M.L., Espina M., Egea M.A. Stability and in vitro drug release of flurbiprofen-loaded poly-epsilon-caprolactone nanospheres. Drug Dev. Ind. Pharm. 1999;25:983–993. doi: 10.1081/DDC-100102261. [PubMed] [CrossRef] [Google Scholar]119. Valls R., Vega E., Garcia M.L., Egea M.A., Valls J.O. Transcorneal permeation in a corneal device of non-steroidal anti-inflammatory drugs in drug delivery systems. Open Med. Chem. J. 2008;2:66–71. doi: 10.2174/1874104500802010066. [PMC free article] [PubMed] [CrossRef] [Google Scholar]120. Araújo J., Vega E., Lopes C., Egea M.A., Garcia M.L., Souto E.B. Effect of polymer viscosity on physicochemical properties and ocular tolerance of FB-loaded PLGA nanospheres. Colloids Surf. B Biointerfaces. 2009;72:48–56. doi: 10.1016/j.colsurfb.2009.03.028. [PubMed] [CrossRef] [Google Scholar]121. Ramos Yacasi G.R., García López M.L., Espina García M., Parra Coca A., Calpena Campmany A.C. Influence of freeze-drying and γ-irradiation in preclinical studies of flurbiprofen polymeric nanoparticles for ocular delivery using d-(+)-trehalose and polyethylene glycol. Int. J. Nanomed. 2016;11:4093–4106. doi: 10.2147/IJN.S105606. [PMC free article] [PubMed] [CrossRef] [Google Scholar]122. Gonzalez-Mira E., Egea M.A., Souto E.B., Calpena A.C., García M.L. Optimizing flurbiprofen-loaded NLC by central composite factorial design for ocular delivery. Nanotechnology. 2011;22:045101. doi: 10.1088/0957-4484/22/4/045101. [PubMed] [CrossRef] [Google Scholar]123. Shen J., Gan L., Zhu C., Zhang X., Dong Y., Jiang M., Zhu J., Gan Y. Novel NSAIDs ophthalmic formulation: Flurbiprofen axetil emulsion with low irritancy and improved anti-inflammation effect. Int. J. Pharm. 2011;412:115–122. doi: 10.1016/j.ijpharm.2011.03.041. [PubMed] [CrossRef] [Google Scholar]124. Gai X., Cheng L., Li T., Liu D., Wang Y., Wang T., Pan W., Yang X. In vitro and In vivo Studies on a Novel Bioadhesive Colloidal System: Cationic Liposomes of Ibuprofen. AAPS Pharmscitech. 2018;19:700–709. doi: 10.1208/s12249-017-0872-4. [PubMed] [CrossRef] [Google Scholar]125. Dong Y., Dong P., Huang D., Mei L., Xia Y., Wang Z., Pan X., Li G., Wu C. Fabrication and characterization of silk fibroin-coated liposomes for ocular drug delivery. Eur. J. Pharm. Biopharm. 2015;91:82–90. doi: 10.1016/j.ejpb.2015.01.018. [PubMed] [CrossRef] [Google Scholar]126. Li X., Nie S., Kong J., Li N., Ju C., Pan W. A controlled-release ocular delivery system for ibuprofen based on nanostructured lipid carriers. Int. J. Pharm. 2008;363:177–182. doi: 10.1016/j.ijpharm.2008.07.017. [PubMed] [CrossRef] [Google Scholar]127. Bucolo C., Maltese A., Puglisi G., Pignatello R. Enhanced ocular anti-inflammatory activity of ibuprofen carried by an Eudragit RS100 nanoparticle suspension. Ophthalmic. Res. 2002;34:319–323. doi: 10.1159/000065608. [PubMed] [CrossRef] [Google Scholar]128. Pignatello R., Bucolo C., Ferrara P., Maltese A., Puleo A., Puglisi G. Eudragit RS100 nanosuspensions for the ophthalmic controlled delivery of ibuprofen. Eur. J. Pharm. Sci. 2002;16:53–61. doi: 10.1016/S0928-0987(02)00057-X. [PubMed] [CrossRef] [Google Scholar]129. Nagai N., Ito Y., Okamoto N., Shimomura Y. A nanoparticle formulation reduces the corneal toxicity of indomethacin eye drops and enhances its corneal permeability. Toxicology. 2014;319:53–62. doi: 10.1016/j.tox.2014.02.012. [PubMed] [CrossRef] [Google Scholar]130. Calvo P., Alonso M.J., Vila-Jato J.L., Robinson J.R. Improved ocular bioavailability of indomethacin by novel ocular drug carriers. J. Pharm. Pharm. 1996;48:1147–1152. doi: 10.1111/j.2042-7158.1996.tb03911.x. [PubMed] [CrossRef] [Google Scholar]131. Calvo P., Vila-Jato J.L., Alonso M.J. Evaluation of cationic polymer-coated nanocapsules as ocular drug carriers. Int. J. Pharm. 1997;153:41–50. doi: 10.1016/S0378-5173(97)00083-5. [CrossRef] [Google Scholar]132. Hippalgaonkar K., Adelli G.R., Hippalgaonkar K., Repka M.A., Majumdar S. Indomethacin-loaded solid lipid nanoparticles for ocular delivery: Development, characterization, and in vitro evaluation. J. Ocul. Pharm. 2013;29:216–228. doi: 10.1089/jop.2012.0069. [PMC free article] [PubMed] [CrossRef] [Google Scholar]133. Aşık M.D., Uğurlu N., Yülek F., Tuncer S., Türk M., Denkbaş E.B. Ketorolac Tromethamine Loaded Chitosan Nanoparticles as a Nanotherapeutic System for Ocular Diseases. Hacet. J. Biol. Chem. 2013;41:81–86. [Google Scholar]134. Fathalla Z.M.A., Khaled K.A., Hussein A.K., Alany R.G., Vangala A. Formulation and corneal permeation of ketorolac tromethamine-loaded chitosan nanoparticles. Drug Dev. Ind. Pharm. 2016;42:514–524. doi: 10.3109/03639045.2015.1081236. [PubMed] [CrossRef] [Google Scholar]135. Kumar S., Reddy J., Sekhar C. Formulation development and characterization of naproxen sodium-loaded mucoadhesive microspheres. J. Pharm. Sci. Res. 2012;4:1709–1715. [Google Scholar]136. Javadzadeh Y., Ahadi F., Davaran S., Mohammadi G., Sabzevari A., Adibkia K. Preparation and physicochemical characterization of naproxen-PLGA nanoparticles. Colloids Surf. B Biointerfaces. 2010;81:498–502. doi: 10.1016/j.colsurfb.2010.07.047. [PubMed] [CrossRef] [Google Scholar]137. Lorenzo-Veiga B., Sigurdsson H.H., Loftsson T. Nepafenac-Loaded Cyclodextrin/Polymer Nanoaggregates: A New Approach to Eye Drop Formulation. Materals. 2019;12:229.  doi: 10.3390/ma12020229. [PMC free article] [PubMed] [CrossRef] [Google Scholar]138. Wen Z., Muratomi N., Huang W., Huang L., Ren J., Yang J., Persaud Y., Loloi J., Mallangada N., Kung P., et al. The ocular pharmacokinetics and biodistribution of phospho-sulindac (OXT-328) formulated in nanoparticles: Enhanced and targeted tissue drug delivery. Int. J. Pharm. 2019;557:273–279. doi: 10.1016/j.ijpharm.2018.12.057. [PubMed] [CrossRef] [Google Scholar]139. Giunchedi P., Chetoni P., Conte U., Saettone M.F. Albumin Microspheres for Ocular Delivery of Piroxicam. Pharm. Pharmacol. Commun. 2000;6:149–153. doi: 10.1211/146080800128735809. [CrossRef] [Google Scholar]140. Adibkia K., Siahi Shadbad M.R., Nokhodchi A., Javadzedeh A., Barzegar-Jalali M., Barar J., Mohammadi G., Omidi Y. Piroxicam nanoparticles for ocular delivery: Physicochemical characterization and implementation in endotoxin-induced uveitis. J. Drug Target. 2007;15:407–416. doi: 10.1080/10611860701453125. [PubMed] [CrossRef] [Google Scholar]141. Gan L., Han S., Shen J., Zhu J., Zhu C., Zhang X., Gan Y. Self-assembled liquid crystalline nanoparticles as a novel ophthalmic delivery system for dexamethasone: Improving preocular retention and ocular bioavailability. Int. J. Pharm. 2010;396:179–187. doi: 10.1016/j.ijpharm.2010.06.015. [PubMed] [CrossRef] [Google Scholar]142. Kesavan K., Kant S., Singh P.N., Pandit J.K. Mucoadhesive chitosan-coated cationic microemulsion of dexamethasone for ocular delivery: In Vitro and In Vivo evaluation. Curr. Eye Res. 2013;38:342–352. doi: 10.3109/02713683.2012.745879. [PubMed] [CrossRef] [Google Scholar]143. Nagai N., Nakazawa Y., Ito Y., Kanai K., Okamoto N., Shimomura Y. A Nanoparticle-Based Ophthalmic Formulation of Dexamethasone Enhances Corneal Permeability of the Drug and Prolongs Its Corneal Residence Time. Biol. Pharm. Bull. 2017;40:1055–1062. doi: 10.1248/bpb.b17-00137. [PubMed] [CrossRef] [Google Scholar]144. Moya-Ortega M.D., Alves T.F.G., Alvarez-Lorenzo C., Concheiro A., Stefánsson E., Thorsteinsdóttir M., Loftsson T. Dexamethasone eye drops containing γ-cyclodextrin-based nanogels. Int. J. Pharm. 2013;441:507–515. doi: 10.1016/j.ijpharm.2012.11.002. [PubMed] [CrossRef] [Google Scholar]145. Jamard M., Hoare T., Sheardown H. Nanogels of methylcellulose hydrophobized with N-tert-butylacrylamide for ocular drug delivery. Drug Deliv. Transl. Res. 2016;6:648–659. doi: 10.1007/s13346-016-0337-4. [PubMed] [CrossRef] [Google Scholar]146. Patel S., Garapati C., Chowdhury P., Gupta H., Nesamony J., Nauli S., Boddu S.H.S. Development and evaluation of dexamethasone nanomicelles with potential for treating posterior uveitis after topical application. J. Ocul. Pharm. 2015;31:215–227. doi: 10.1089/jop.2014.0152. [PubMed] [CrossRef] [Google Scholar]147. Balzus B., Sahle F.F., Hönzke S., Gerecke C., Schumacher F., Hedtrich S., Kleuser B., Bodmeier R. Formulation and ex vivo evaluation of polymeric nanoparticles for controlled delivery of corticosteroids to the skin and the corneal epithelium. Eur. J. Pharm. Biopharm. 2017;115:122–130. doi: 10.1016/j.ejpb.2017.02.001. [PubMed] [CrossRef] [Google Scholar]148. Kassem M.A., Abdel Rahman A.A., Ghorab M.M., Ahmed M.B., Khalil R.M. Nanosuspension as an ophthalmic delivery system for certain glucocorticoid drugs. Int. J. Pharm. 2007;340:126–133. doi: 10.1016/j.ijpharm.2007.03.011. [PubMed] [CrossRef] [Google Scholar]149. Swaminathan S., Vavia P.R., Trotta F., Cavalli R. Nanosponges encapsulating dexamethasone for ocular delivery: Formulation design, physicochemical characterization, safety and corneal permeability assessment. J. Biomed. Nanotechnol. 2013;9:998–1007. doi: 10.1166/jbn.2013.1594. [PubMed] [CrossRef] [Google Scholar]150. Ban J., Zhang Y., Huang X., Deng G., Hou D., Chen Y., Lu Z. Corneal permeation properties of a charged lipid nanoparticle carrier containing dexamethasone. Int. J. Nanomed. 2017;12:1329–1339. doi: 10.2147/IJN.S126199. [PMC free article] [PubMed] [CrossRef] [Google Scholar]151. Loftsson T., Hreinsdóttir D., Stefánsson E. Cyclodextrin microparticles for drug delivery to the posterior segment of the eye: Aqueous dexamethasone eye drops. J. Pharm. Pharm. 2007;59:629–635. doi: 10.1211/jpp.59.5.0002. [PubMed] [CrossRef] [Google Scholar]152. Kalam M.A. The potential application of hyaluronic acid coated chitosan nanoparticles in ocular delivery of dexamethasone. Int. J. Biol. Macromol. 2016;89:559–568. doi: 10.1016/j.ijbiomac.2016.05.016. [PubMed] [CrossRef] [Google Scholar]153. Kalam M.A. Development of chitosan nanoparticles coated with hyaluronic acid for topical ocular delivery of dexamethasone. Int. J. Biol. Macromol. 2016;89:127–136. doi: 10.1016/j.ijbiomac.2016.04.070. [PubMed] [CrossRef] [Google Scholar]154. Fabiano A., Chetoni P., Zambito Y. Mucoadhesive nano-sized supramolecular assemblies for improved pre-corneal drug residence time. Drug Dev. Ind. Pharm. 2015;41:2069–2076. doi: 10.3109/03639045.2015.1066798. [PubMed] [CrossRef] [Google Scholar]155. Vafaei S.Y., Dinarvand R., Esmaeili M., Mahjub R., Toliyat T. Controlled-release drug delivery system based on fluocinolone acetonide-cyclodextrin inclusion complex incorporated in multivesicular liposomes. Pharm. Dev. Technol. 2015;20:775–781. doi: 10.3109/10837450.2014.920358. [PubMed] [CrossRef] [Google Scholar]156. Salama A.H., Mahmoud A.A., Kamel R. A Novel Method for Preparing Surface-Modified Fluocinolone Acetonide Loaded PLGA Nanoparticles for Ocular Use: In Vitro and In Vivo Evaluations. AAPS Pharmscitech. 2016;17:1159–1172. doi: 10.1208/s12249-015-0448-0. [PubMed] [CrossRef] [Google Scholar]157. Zimmer A.K., Maincent P., Thouvenot P., Kreuter J. Hydrocortisone delivery to healthy and inflamed eyes using a micellar polysorbate 80 solution or albumin nanoparticles. Int. J. Pharm. 1994;110:211–222. doi: 10.1016/0378-5173(94)90243-7. [CrossRef] [Google Scholar]158. Vandervoort J., Ludwig A. Preparation and evaluation of drug-loaded gelatin nanoparticles for topical ophthalmic use. Eur J. Pharm. Biopharm. 2004;57:251–261. doi: 10.1016/S0939-6411(03)00187-5. [PubMed] [CrossRef] [Google Scholar]159. Nasr F.H., Khoee S. Design, characterization and in vitro evaluation of novel shell crosslinked poly(butylene adipate)-co-N-succinyl chitosan nanogels containing loteprednol etabonate: A new system for therapeutic effect enhancement via controlled drug delivery. Eur. J. Med. Chem. 2015;102:132–142. doi: 10.1016/j.ejmech.2015.07.045. [PubMed] [CrossRef] [Google Scholar]160. Sah A.K., Suresh P.K., Verma V.K. PLGA nanoparticles for ocular delivery of loteprednol etabonate: A corneal penetration study. Artif. Cells Nanomed. Biotechnol. 2017;45:1–9. doi: 10.1080/21691401.2016.1203794. [PubMed] [CrossRef] [Google Scholar]161. Adibkia K., Omidi Y., Siahi M.R., Javadzadeh A.R., Barzegar-Jalali M., Barar J., Maleki N., Mohammadi G., Nokhodchi A. Inhibition of endotoxin-induced uveitis by methylprednisolone acetate nanosuspension in rabbits. J. Ocul. Pharm. 2007;23:421–432. doi: 10.1089/jop.2007.0039. [PubMed] [CrossRef] [Google Scholar]162. Silva R.O., da Costa B.L., da Silva F.R., da Silva C.N., de Paiva M.B., Dourado L.F.N., Malachias Â., de Souza Araújo A.A., Nunes P.S., Silva-Cunha A. Treatment for chemical burning using liquid crystalline nanoparticles as an ophthalmic delivery system for pirfenidone. Int. J. Pharm. 2019;568:118466. doi: 10.1016/j.ijpharm.2019.118466. [PubMed] [CrossRef] [Google Scholar]163. Qu X., Khutoryanskiy V.V., Stewart A., Rahman S., Papahadjopoulos-Sternberg B., Dufes C., McCarthy D., Wilson C.G., Lyons R., Carter K.C., et al. Carbohydrate-based micelle clusters which enhance hydrophobic drug bioavailability by up to 1 order of magnitude. Biomacromolecules. 2006;7:3452–3459. doi: 10.1021/bm0604000. [PubMed] [CrossRef] [Google Scholar]164. Katzer T., Chaves P., Bernardi A., Pohlmann A., Guterres S.S., Ruver Beck R.C. Prednisolone-loaded nanocapsules as ocular drug delivery system: Development, in vitro drug release and eye toxicity. J. Microencapsul. 2014;31:519–528. doi: 10.3109/02652048.2013.879930. [PubMed] [CrossRef] [Google Scholar]165. Elbialy N.S., Abdol-Azim B.M., Shafaa M.W., El Shazly L.H., El Shazly A.H., Khalil W.A. Enhancement of the ocular therapeutic effect of prednisolone acetate by liposomal entrapment. J. Biomed. Nanotechnol. 2013;9:2105–2116. doi: 10.1166/jbn.2013.1711. [PubMed] [CrossRef] [Google Scholar]166. Gaafar P.M.E., Abdallah O.Y., Farid R.M., Abdelkader H. Preparation, characterization and evaluation of novel elastic nano-sized niosomes (ethoniosomes) for ocular delivery of prednisolone. J. Liposome Res. 2014:1–12. doi: 10.3109/08982104.2014.881850. [PubMed] [CrossRef] [Google Scholar]167. Ibrahim H.K., El-Leithy I.S., Makky A.A. Mucoadhesive nanoparticles as carrier systems for prolonged ocular delivery of gatifloxacin/prednisolone bitherapy. Mol. Pharm. 2010;7:576–585. doi: 10.1021/mp900279c. [PubMed] [CrossRef] [Google Scholar]168. Guo D., Li Q., Sun Y., Guo J., Zhao Q., Yin X., Wei H., Wu S., Bi H. Evaluation of controlled-release triamcinolone acetonide-loaded mPEG-PLGA nanoparticles in treating experimental autoimmune uveitis. Nanotechnology. 2019;30:165702. doi: 10.1088/1361-6528/aafe36. [PubMed] [CrossRef] [Google Scholar]169. Mahaling B., Srinivasarao D.A., Raghu G., Kasam R.K., Bhanuprakash Reddy G., Katti D.S. A non-invasive nanoparticle mediated delivery of triamcinolone acetonide ameliorates diabetic retinopathy in rats. Nanoscale. 2018;10:16485–16498. doi: 10.1039/C8NR00058A. [PubMed] [CrossRef] [Google Scholar]170. Sabzevari A., Adibkia K., Hashemi H., Hedayatfar A., Mohsenzadeh N., Atyabi F., Ghahremani M.H., Dinarvand R. Polymeric triamcinolone acetonide nanoparticles as a new alternative in the treatment of uveitis: In Vitro and In Vivo studies. Eur. J. Pharm. Biopharm. 2013;84:63–71. doi: 10.1016/j.ejpb.2012.12.010. [PubMed] [CrossRef] [Google Scholar]171. Guengerich F.P. Intersection of the Roles of Cytochrome P450 Enzymes with Xenobiotic and Endogenous Substrates: Relevance to Toxicity and Drug Interactions. Chem. Res. Toxicol. 2017;30:2–12. doi: 10.1021/acs.chemrestox.6b00226. [PMC free article] [PubMed] [CrossRef] [Google Scholar]172. Gupta H., Jain S., Mathur R., Mishra P., Mishra A.K., Velpandian T. Sustained ocular drug delivery from a temperature and pH triggered novel in situ gel system. Drug Deliv. 2007;14:507–515. doi: 10.1080/10717540701606426. [PubMed] [CrossRef] [Google Scholar]173. Patravale V.B., Date A.A., Kulkarni R.M. Nanosuspensions: A promising drug delivery strategy. J. Pharm. Pharm. 2004;56:827–840. doi: 10.1211/0022357023691. [PubMed] [CrossRef] [Google Scholar]174. Ibrahim M.M., Abd-Elgawad A.-E.H., Soliman O.A.-E., Jablonski M.M. Stability and Ocular Pharmacokinetics of Celecoxib-Loaded Nanoparticles Topical Ophthalmic Formulations. J. Pharm. Sci. 2016;105:3691–3701. doi: 10.1016/j.xphs.2016.09.019. [PubMed] [CrossRef] [Google Scholar]175. Gupta H., Aqil M., Khar R.K., Ali A., Bhatnagar A., Mittal G. Nanoparticles laden in situ gel for sustained ocular drug delivery. J. Pharm. Bioallied. Sci. 2013;5:162–165. doi: 10.4103/0975-7406.111824. [PMC free article] [PubMed] [CrossRef] [Google Scholar]176. Ibrahim M.M., Abd-Elgawad A.-E.H., Soliman O.A.-E., Jablonski M.M. Nanoparticle-based topical ophthalmic formulations for sustained celecoxib release. J. Pharm. Sci. 2013;102:1036–1053. doi: 10.1002/jps.23417. [PubMed] [CrossRef] [Google Scholar]177. Ibrahim M.M., Abd-Elgawad A.-E.H., Soliman O.A.-E., Jablonski M.M. Natural bioadhesive biodegradable nanoparticles-based topical ophthalmic formulations for sustained celecoxib release: In Vitro study. J. Pharm. Technol. Drug Res. 2013;2:7. doi: 10.7243/2050-120X-2-7. [CrossRef] [Google Scholar]178. Zhang Z., He Z., Liang R., Ma Y., Huang W., Jiang R., Shi S., Chen H., Li X. Fabrication of a Micellar Supramolecular Hydrogel for Ocular Drug Delivery. Biomacromolecules. 2016;17:798–807. doi: 10.1021/acs.biomac.5b01526. [PubMed] [CrossRef] [Google Scholar]179. Gonzalez-Mira E., Nikolić S., Calpena A.C., Egea M.A., Souto E.B., García M.L. Improved and safe transcorneal delivery of flurbiprofen by NLC and NLC-based hydrogels. J. Pharm. Sci. 2012;101:707–725. doi: 10.1002/jps.22784. [PubMed] [CrossRef] [Google Scholar]180. Almeida H., Lobão P., Frigerio C., Fonseca J., Silva R., Sousa Lobo J.M., Amaral M.H. Preparation, characterization and biocompatibility studies of thermoresponsive eyedrops based on the combination of nanostructured lipid carriers (NLC) and the polymer Pluronic F-127 for controlled delivery of ibuprofen. Pharm. Dev. Technol. 2017;22:336–349. doi: 10.3109/10837450.2015.1125922. [PubMed] [CrossRef] [Google Scholar]181. Morsi N., Ghorab D., Refai H., Teba H. Ketoroloac tromethamine loaded nanodispersion incorporated into thermosensitive in situ gel for prolonged ocular delivery. Int. J. Pharm. 2016;506:57–67. doi: 10.1016/j.ijpharm.2016.04.021. [PubMed] [CrossRef] [Google Scholar]182. Zhang W., Zu D., Chen J., Peng J., Liu Y., Zhang H., Li S., Pan W. Bovine serum albumin–meloxicam nanoaggregates laden contact lenses for ophthalmic drug delivery in treatment of postcataract endophthalmitis. Int. J. Pharm. 2014;475:25–34. doi: 10.1016/j.ijpharm.2014.08.043. [PubMed] [CrossRef] [Google Scholar]183. Paulsamy M., Ponnusamy C., Palanisami M., Nackeeran G., Paramasivam S., Sugumaran A., Kandasamy R., Natesan S., Palanichamy R. Nepafenac loaded silica nanoparticles dispersed in-situ gel systems: Development and characterization. Int. J. Biol. Macromol. 2018;110:336–345. doi: 10.1016/j.ijbiomac.2018.01.123. [PubMed] [CrossRef] [Google Scholar]184. Giunchedi P., Conte U., Chetoni P., Saettone M.F. Pectin microspheres as ophthalmic carriers for piroxicam: Evaluation in vitro and in vivo in albino rabbits. Eur. J. Pharm. Sci. 1999;9:1–7. doi: 10.1016/S0928-0987(99)00023-8. [PubMed] [CrossRef] [Google Scholar]185. Abrego G., Alvarado H., Souto E.B., Guevara B., Bellowa L.H., Parra A., Calpena A., Garcia M.L. Biopharmaceutical profile of pranoprofen-loaded PLGA nanoparticles containing hydrogels for ocular administration. Eur. J. Pharm. Biopharm. 2015;95:261–270. doi: 10.1016/j.ejpb.2015.01.026. [PubMed] [CrossRef] [Google Scholar]186. Wen Y., Ban J., Mo Z., Zhang Y., An P., Liu L., Xie Q., Du Y., Xie B., Zhan X., et al. A potential nanoparticle-loaded in situ gel for enhanced and sustained ophthalmic delivery of dexamethasone. Nanotechnology. 2018;29:425101. doi: 10.1088/1361-6528/aad7da. [PubMed] [CrossRef] [Google Scholar]187. Mo Z., Ban J., Zhang Y., Du Y., Wen Y., Huang X., Xie Q., Shen L., Zhang S., Deng H., et al. Nanostructured lipid carriers-based thermosensitive eye drops for enhanced, sustained delivery of dexamethasone. Nanomedicine. 2018;13:1239–1253. doi: 10.2217/nnm-2017-0318. [PubMed] [CrossRef] [Google Scholar]188. Pramanik A., Sahoo R.N., Nanda A., Mohapatra R., Singh R., Mallick S. Ocular Permeation and Sustained Anti-inflammatory Activity of Dexamethasone from Kaolin Nanodispersion Hydrogel System. Curr. Eye Res. 2018;43:828–838. doi: 10.1080/02713683.2018.1446534. [PubMed] [CrossRef] [Google Scholar]189. Gonzalez-Pizarro R., Carvajal-Vidal P., Halbault Bellowa L., Calpena A.C., Espina M., García M.L. In-situ forming gels containing fluorometholone-loaded polymeric nanoparticles for ocular inflammatory conditions. Colloids Surf. B Biointerfaces. 2019;175:365–374. doi: 10.1016/j.colsurfb.2018.11.065. [PubMed] [CrossRef] [Google Scholar]190. Patel N., Nakrani H., Raval M., Sheth N. Development of loteprednol etabonate-loaded cationic nanoemulsified in-situ ophthalmic gel for sustained delivery and enhanced ocular bioavailability. Drug Deliv. 2016;23:3712–3723. doi: 10.1080/10717544.2016.1223225. [PubMed] [CrossRef] [Google Scholar]191. Hanafy A.F., Abdalla A.M., Guda T.K., Gabr K.E., Royall P.G., Alqurshi A. Ocular anti-inflammatory activity of prednisolone acetate loaded chitosan-deoxycholate self-assembled nanoparticles. Int J. Nanomed. 2019;14:3679–3689. doi: 10.2147/IJN.S195892. [PMC free article] [PubMed] [CrossRef] [Google Scholar]192. Baranowski P., Karolewicz B., Gajda M., Pluta J. Ophthalmic Drug Dosage Forms: Characterisation and Research Methods. Sci. World J. 2014;2014 doi: 10.1155/2014/861904. [PMC free article] [PubMed] [CrossRef] [Google Scholar]193. Chédru-Legros V., Fines-Guyon M., Chérel A., Perdriel A., Albessard F., Debruyne D., Mouriaux F. [Fortified antibiotic (vancomycin, amikacin and ceftazidime) eye drop stability assessment at -20 degrees C] J. Fr. Ophtalmol. 2007;30:807–813. doi: 10.1016/S0181-5512(07)92614-5. [PubMed] [CrossRef] [Google Scholar]194. Zhu H., Chauhan A. Effect of viscosity on tear drainage and ocular residence time. Optom. Vis. Sci. 2008;85:715–725. doi: 10.1097/OPX.0b013e3181824dc4. [PubMed] [CrossRef] [Google Scholar]195. Graça A., Gonçalves L.M., Raposo S., Ribeiro H.M., Marto J. Useful In Vitro Techniques to Evaluate the Mucoadhesive Properties of Hyaluronic Acid-Based Ocular Delivery Systems. Pharmaceutics. 2018;10:110.  doi: 10.3390/pharmaceutics10030110. [PMC free article] [PubMed] [CrossRef] [Google Scholar]196. Chaiyasan W., Praputbut S., Kompella U.B., Srinivas S.P., Tiyaboonchai W. Penetration of mucoadhesive chitosan-dextran sulfate nanoparticles into the porcine cornea. Colloids Surf. B Biointerfaces. 2017;149:288–296. doi: 10.1016/j.colsurfb.2016.10.032. [PubMed] [CrossRef] [Google Scholar]197. Gèze A., Choisnard L., Putaux J.-L., Wouessidjewe D. Colloidal systems made of biotransesterified α, β and γ cyclodextrins grafted with C10 alkyl chains. Mater. Sci. Eng. C. 2009;29:458–462. doi: 10.1016/j.msec.2008.08.027. [CrossRef] [Google Scholar]198. Gèze A., Putaux J.-L., Choisnard L., Jéhan P., Wouessidjewe D. Long-term shelf stability of amphiphilic β-cyclodextrin nanosphere suspensions monitored by dynamic light scattering and cryo-transmission electron microscopy. J. Microencapsul. 2004;21:607–613. doi: 10.1080/02652040400008457. [PubMed] [CrossRef] [Google Scholar]199. Cho D., Lee S., Frey M.W. Characterizing zeta potential of functional nanofibers in a microfluidic device. J. Colloid Interface Sci. 2012;372:252–260. doi: 10.1016/j.jcis.2012.01.007. [PubMed] [CrossRef] [Google Scholar]200. International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use  . International Conference on Harmonisation—Validation of Analytical Procedures: Text and Methodology Q2(R1) ICH; Brussels, Belgium: 2005.  [Google Scholar]201. International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use  . International Conference on Harmonisation—Stability Testing of NEW Drug Substances and Products Q1A (R2) ICH; Brussels, Belgium: 2003.  [Google Scholar]202. Duan Y., Cai X., Du H., Zhai G. Novel in situ gel systems based on P123/TPGS mixed micelles and gellan gum for ophthalmic delivery of curcumin. Colloids Surf. B Biointerfaces. 2015;128:322–330. doi: 10.1016/j.colsurfb.2015.02.007. [PubMed] [CrossRef] [Google Scholar]203. Huhtala A., Pohjonen T., Salminen L., Salminen A., Kaarniranta K., Uusitalo H. In vitro biocompatibility of degradable biopolymers in cell line cultures from various ocular tissues: Extraction studies. J. Mater. Sci. Mater. Med. 2008;19:645–649. doi: 10.1007/s10856-007-3192-5. [PubMed] [CrossRef] [Google Scholar]204. OECD  . Guideline for the Testing of Chemicals—Short Time Exposure In VITRO Test Method. Organisation for Economic Co-operation and Development; Paris, France: 2018. p. 19. [Google Scholar]205. Grimaudo M.A., Pescina S., Padula C., Santi P., Concheiro A., Alvarez-Lorenzo C., Nicoli S. Topical application of polymeric nanomicelles in ophthalmology: A review on research efforts for the noninvasive delivery of ocular therapeutics. Expert Opin. Drug Deliv. 2019;16:397–413. doi: 10.1080/17425247.2019.1597848. [PubMed] [CrossRef] [Google Scholar]206. OECD  . Guidance Documenton an Integrated Approach on Testing and Assessment (IATA) for Serious Eye Damage and Eye Irritation. Organisation for Economic Co-operation and Development; Paris, France: 2017. p. 90. [Google Scholar]207. Agarwal P., Rupenthal I.D. In vitro and ex vivo corneal penetration and absorption models. Drug Deliv. Transl. Res. 2016;6:634–647. doi: 10.1007/s13346-015-0275-6. [PubMed] [CrossRef] [Google Scholar]208. Draize J., Woodard G., Calvery H. Metods for the study of irritation and toxicity of substances applied topically to the skin and mucous membranes. J. Pharm. Exp. Ther. 1944;82:377–390. [Google Scholar]209. OECD  . Guideline for the Testing of Chemicals—Acute Eye Irritation/Corrosion. Organisation for Economic Co-operation and Development; Paris, France: 2012. p. 19. [Google Scholar]210. Barile F.A. Validating and troubleshooting ocular in vitro toxicology tests. J. Pharm. Toxicol. Methods. 2010;61:136–145. doi: 10.1016/j.vascn.2010.01.001. [PMC free article] [PubMed] [CrossRef] [Google Scholar]211. Wilson S.L., Ahearne M., Hopkinson A. An overview of current techniques for ocular toxicity testing. Toxicology. 2015;327:32–46. doi: 10.1016/j.tox.2014.11.003. [PubMed] [CrossRef] [Google Scholar]212. Jester J.V., Li L., Molai A., Maurer J.K. Extent of initial corneal injury as a basis for alternative eye irritation tests. Toxicol. Vitr. 2001;15:115–130. doi: 10.1016/S0887-2333(00)00065-5. [PubMed] [CrossRef] [Google Scholar]213. NRC  . Principles and Procedures for Evaluating the Toxicity of Household Substances. National Academy of Sciences Publication; Washington, DC, USA: 1977.  [Google Scholar]214. Dave V., Paliwal S., Yadav S., Sharma S. Effect of in vitro Transcorneal Approach of Aceclofenac Eye Drops through Excised Goat, Sheep, and Buffalo Corneas. Sci. World J. 2015;2015:1–7. doi: 10.1155/2015/432376. [PMC free article] [PubMed] [CrossRef] [Google Scholar]215. Luaces-Rodríguez A., Touriño-Peralba R., Alonso-Rodríguez I., García-Otero X., González-Barcia M., Rodríguez-Ares M.T., Martínez-Pérez L., Aguiar P., Gómez-Lado N., Silva-Rodríguez J., et al. Preclinical characterization and clinical evaluation of tacrolimus eye drops. Eur. J. Pharm. Sci. 2018;120:152–161. doi: 10.1016/j.ejps.2018.04.038. [PubMed] [CrossRef] [Google Scholar]216. Salazar-Méndez R., Yilmaz T., Cordero-Coma M. Moving forward in uveitis therapy: Preclinical to phase II clinical trial drug development. Expert. Opin. Investig. Drugs. 2016;25:195–214. doi: 10.1517/13543784.2016.1128893. [PubMed] [CrossRef] [Google Scholar]Articles from Pharmaceutics are provided here courtesy of Multidisciplinary Digital Publishing Institute  (MDPI)
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.7M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

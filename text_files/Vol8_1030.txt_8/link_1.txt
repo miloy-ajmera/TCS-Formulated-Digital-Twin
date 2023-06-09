@@ -1,0 +1,734 @@
+Document Name: role of Phenonip in Anti Ozone Cream1
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4934903/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Artificial Neural Network Based Analysis of Factors Controlling Particle Size in a Virgin Coconut Oil-Based Nanoemulsion System Containing Copper Peptide - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+PLoS One
+
+
+                    PMC4934903
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.7M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+PLoS One
+
+
+                    PMC4934903
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+PLoS One. 2016; 11(7): e0157737. Published online 2016 Jul 6.  doi: 10.1371/journal.pone.0157737PMCID: PMC4934903PMID: 27383135An Artificial Neural Network Based Analysis of Factors Controlling Particle Size in a Virgin Coconut Oil-Based Nanoemulsion System Containing Copper PeptideShazwani Samson,* Mahiran Basri,* Hamid Reza Fard Masoumi, Emilia Abdul Malek, and  Roghayeh Abedi KarjibanShazwani SamsonDepartment of Chemistry, Faculty of Science, Universiti Putra Malaysia, UPM Serdang, Selangor, MalaysiaFind articles by Shazwani SamsonMahiran BasriDepartment of Chemistry, Faculty of Science, Universiti Putra Malaysia, UPM Serdang, Selangor, MalaysiaFind articles by Mahiran BasriHamid Reza Fard MasoumiDepartment of Chemistry, Faculty of Science, Universiti Putra Malaysia, UPM Serdang, Selangor, MalaysiaFind articles by Hamid Reza Fard MasoumiEmilia Abdul MalekDepartment of Chemistry, Faculty of Science, Universiti Putra Malaysia, UPM Serdang, Selangor, MalaysiaFind articles by Emilia Abdul MalekRoghayeh Abedi KarjibanDepartment of Chemistry, Faculty of Science, Universiti Putra Malaysia, UPM Serdang, Selangor, MalaysiaFind articles by Roghayeh Abedi KarjibanAmitava Mukherjee, EditorAuthor information Article notes Copyright and License information DisclaimerDepartment of Chemistry, Faculty of Science, Universiti Putra Malaysia, UPM Serdang, Selangor, MalaysiaVIT University, INDIACompeting Interests: The authors have declared that no competing interests exist.Conceived and designed the experiments: SS MB HRFM EAM RAK. Performed the experiments: SS HRFM. Analyzed the data: SS MB HRFM EAM RAK. Contributed reagents/materials/analysis tools: MB HRFM EAM RAK. Wrote the paper: SS.* E-mail: moc.oohay@98_einawarod (SS); ym.ude.mpu.ecneics@nariham (MB)Received 2016 Feb 2; Accepted 2016 Jun 4.Copyright © 2016 Samson et alThis is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.Associated DataData Availability StatementAll relevant data are within the paper and its Supporting Information files.AbstractA predictive model of a virgin coconut oil (VCO) nanoemulsion system for the topical delivery of copper peptide (an anti-aging compound) was developed using an artificial neural network (ANN) to investigate the factors that influence particle size. Four independent variables including the amount of VCO, Tween 80: Pluronic F68 (T80:PF68), xanthan gum and water were the inputs whereas particle size was taken as the response for the trained network. Genetic algorithms (GA) were used to model the data which were divided into training sets, testing sets and validation sets. The model obtained indicated the high quality performance of the neural network and its capability to identify the critical composition factors for the VCO nanoemulsion. The main factor controlling the particle size was found out to be xanthan gum (28.56%) followed by T80:PF68 (26.9%), VCO (22.8%) and water (21.74%). The formulation containing copper peptide was then successfully prepared using optimum conditions and particle sizes of 120.7 nm were obtained. The final formulation exhibited a zeta potential lower than -25 mV and showed good physical stability towards centrifugation test, freeze-thaw cycle test and storage at temperature 25°C and 45°C.1. IntroductionAging is a process defined as a progressive deterioration of the physiological functions of skin [1]. This process occurs in all living tissues especially skin and this causes wrinkles, sagging, pigmented spots and dryness. Two types of aging; intrinsic (genetic factors) and extrinsic (environmental factors) occur due to passage of time [2] and exposure to ultraviolet radiation, respectively. The first type causes irreversible degeneration of skin tissue, loss of skin thickness and elastic tissue and reduction in the number of dermal fibroblasts, whereas the latter leads to the formation of coarse and rough skin with deep lines, wrinkles and hyperpigmentation in the skin. In order to reduce the skin problems caused by aging, compounds having specific properties such as antioxidant or rejuvenating abilities could be used.Antioxidants are believed to play a role in preventing cells from oxidative stress caused by the overproduction and accumulation of reactive oxygen species (ROS) [3]. These compounds neutralize free radicals by pairing with oxygen in the destabilization process [4]. On the other hand, cosmeceutical peptides are important in many natural processes involving skin care. The peptide chain is capable of regulating the production of extracellular matrix components such as fibroblast cells [5]. One of the more well-known cosmeceutical peptides is the copper peptide (copper complex of human tripeptide, glycyl-l-histidyl-l-lysine-Cu) which possesses not only anti-aging and reparative properties but also can function as an antioxidant [6,7]. It works by scavenging toxic free radicals and thereby reduces oxidative damage, modulates copper level in skin cells and facilitates cellular interaction with the extracellular matrix giving it the ability to exhibit excellent reparative, protective and rejuvenating properties on skin [6].The amount of peptides [8] that can be delivered into the skin through oral supplementation is limited due to the physiological processes related to active absorption, stability and solubility. Therefore, topical application has the added advantage of targeting the antioxidants and peptides to the specific area of skin which requires protection. Nanoemulsions have been used to enhance the penetration and permeability of active ingredients through the stratum corneum [9] due to the small size of the particles in the nanoemulsion (20–200 nm). Nanoemulsions have also become attractive for applications in both pharmaceutical and cosmetic industries due to their high kinetic stability [10, 11], non-toxic and non-irritant properties and also their suitability for efficient delivery of active compounds through the skin [11]. For topical use, the small size of droplets in nanoemulsions allows them to be deposited uniformly on the skin thus enhancing their penetration [12].Virgin coconut oil that was used in this study is oil obtained from the fresh and mature kernel of coconuts without undergoing any chemical refining. It is a saturated fat consisting mainly of medium chain fatty acids with several functions including medical, pharmaceutical, and cosmetic and in dietary oils [13]. In terms of cosmetic usage, virgin coconut oil has been reported to have skin moisturizing properties and was found to be useful for skin applications [14]. The medium chain triglyceride and the monoglyceride content of the oil contribute to its antibacterial properties [15]. The oil also demonstrated excellent antioxidant activity due to its phenolic content [16].In order to prepare a suitable nanoemulsion for the topical delivery of copper peptide, optimization of the composition needs to be carried out first. The optimization of the mixture composition to obtain a product with the required characteristics is one of the common issues in the pre-formulation of cosmetic products. There are several statistical techniques used for the optimization of mixture compositions and processing parameters to obtain desirable properties including the response surface methodology [17–20], Box Behnken, D-optimal mixture design [21–23] and artificial neural network (ANN) [24–30]. In this study, ANN was utilized to optimize the composition of the VCO nanoemulsion by considering particle size as the response parameter. ANN is able to correlate the complex relationship between system parameters without fully understanding the system’s mechanism and has been applied in the modeling of various complex system parameters [31]. To the best of our knowledge, there are no reported studies on the optimization of VCO based nanoemulsions using ANN and only a few reports are available on the optimization of cosmetic products using this type of mathematical tool.Hence, in this work, we report the use of ANN to model the relationship between nanoemulsion composition (oil, emulsifier, xanthan gum and water) and particle size and the successful formulation of a VCO nanoemulsion containing an active (copper peptide) using the optimum conditions as predicted by the model.2. Materials and Methods2.1. MaterialsCopper peptide was obtained from GL Biochem Ltd Shanghai, China. Virgin coconut oil, xanthan gum, Tween 80 (Polyoxyethylenesorbitan monostearate) and Pluronic F68 (PF68) were purchased from Sigma-Aldrich, St Louis, USA. Phenonip was procured from Bramble Berry Bellingham, USA. Water was deionized using a Milli-Q filtration system.2.2. Formation of VCO based nanoemulsionThe preparation of oil phase was carried out by mixing T80:PF68 (40:1) and VCO while for the aqueous phase, xanthan gum was added into deionized water. The oil and aqueous phase were initially heated separately until all the ingredients dissolved. Using a homogenizer, the aqueous phase was added drop wise into the oil phase until complete. The final mixture was homogenized for 3 hours using an overhead stirrer. The emulsion obtained was further subjected to a high shear homogenizer for 10 minutes at 15000 rpm. Phenonip (0.7% w/w) was added as an anti-microbial agent.2.3. Preliminary study on the different process parametersThis experiment was carried out following the method described in Section 2.2. The amount of mixed surfactant, VCO and xanthan gum used were 15%, 10%, and 0.5% w/w respectively. The final mixture was homogenized for 3 hours using an overhead stirrer. The emulsion obtained was further subjected to a high shear homogenizer at different shear time (5, 10, 15, 20 min) at 10000 rpm and different shear speed (5000, 10000, 15000 rpm) at 10 min mixing time. Phenonip (0.7% w/w) was added as an anti-microbial agent.2.4. Formation of VCO based nanoemulsion containing copper peptideThe nanoemulsion was prepared following the method described in Section 2.2. After the addition of active matter (copper peptide 0.003% w/w) into the pre-mixed emulsion, the final mixture was homogenized for 3 hours using an overhead stirrer. The emulsion obtained was further subjected to a high shear homogenizer for 10 minutes at 15000 rpm. Phenonip (0.7% w/w) was added as an anti-microbial agent.2.5. Particle size measurementsParticle size was determined by a dynamic light scattering technique, scattered at an angle of 173° at 25°C. The measurements were carried out using a Zetasizer (Nano ZS, Malvern Instrument Ltd., UK). Intensity distribution was used for the measurement of mean average (z-average) droplet size. The samples were diluted with deionized water in order to avoid multiple scattering effects. Measurements were taken three times.2.6. Artificial neural network (ANN) software tool and data setsThe modeling and optimization of the VCO nanoemulsion were performed using the NeuralPower software version 2.5. This software operates via a graphical user interface (GUI) which helps the user to load the training and testing sets, design the network architecture, select the training algorithm and generate the individual models for each output variable, all in one single operation [24]. In order to design the experiments, the level of effective input variables were considered which included VCO (10–20%, w/w), T80:PF68 (10–15%, w/w), xanthan gum (0.5–1.0%, w/w) and water (64.008–79.291%, w/w) while particle size was taken as the response. Table 1 depicts the experimental data with actual and predicted values of particle size used for ANN design. A total of 26 experiment points were randomly divided into 3 data sets; training set (16 points), testing set (6 points) and validation set (4 points). Training data was used to train neural network weights while testing data was to confirm the robustness of the network parameters besides avoiding the over fitting by controlling errors [32]. The validation set was used to check the adequacy of the final model obtained using the softwareTable 1The experimental design consists of training, testing and validation data sets; each row indicates an experiment while the columns present the composition of the VCO nanoemulsions.Run No.VCOT80:PF68Xanthan GumWaterActual Particle size (nm)Predicted Particle size (nm)Training set110.00310.0000.70679.291138.95142.62210.08915.0000.50374.408137.25123.79320.00010.4350.61068.954617.50622.63420.00010.4350.61068.954628.73622.63515.16813.2020.75770.873161.23171.65619.90210.7291.00068.369427.22430.09717.69614.0640.50067.740167.40160.14819.99415.0000.99864.008299.57296.63910.08915.0000.50374.408126.60123.791017.74310.1210.97771.160453.52450.431112.82210.0000.50276.676148.00149.371213.15612.5320.50073.812135.40132.641319.99415.0000.99864.008295.23296.631412.77314.9961.00071.231136.00132.031510.00310.0000.70679.291145.27142.621620.00014.9940.50264.505139.37145.07Testing set113.50012.5320.70672.762155.32155.22214.00014.5000.57070.430130.68131.78314.50014.5000.57069.930134.87134.20415.50014.5000.57068.930140.65140.47511.00012.5320.70675.762139.90139.73610.00015.0000.50074.500122.90123.50Validation set111.00012.5320.70675.262140.50136.90210.00015.0000.574.500124.60122.30310.00015.0000.574.500121.70122.30Open in a separate window2.7. ANN architectureANN is an information-processing paradigm which is based on biological nervous systems such as the human brain [33]. It is a computing system made up of units which are a highly interconnected set of simple information processing elements similar to neurons. These neurons gather inputs from single and multiple sources and provide output in accordance with a predetermined non-linear function [30]. Artificial neural network is a useful tool for the optimization of nanoemulsions as the preparation of nanoemulsions depends on the combination of several parameters affecting the properties, especially those that involve complex and highly nonlinear relationships [28]. In this work, the ANN model used for the problem-fitting purpose was a multilayer feed-forward neural network containing three layers. The architecture of ANN consists of an input layer, a hidden layer and an output layer. The artificial neurons or nodes are the basic processing elements of neural networks. These neurons are connected to each other to transmit signals from the input layer passing through the hidden layer to the output layer [27]. In order to select the optimum number of neurons in the hidden layer, a trial and error approach was utilized. This was done by starting from a minimum number of neurons and then was gradually increased depending on the nature of the problem. It is very important to determine the number of neurons in the hidden layer as it will affect the performance of the network [34]. Each neuron in the hidden or output layer, acting as a summing junction, combines and modifies the inputs from the previous layer [35–36, 24]. This is done using the following equation:
+yi=∑j=1ixiwij+bj(1)
+where yi is the net input to node j in the hidden or output layer, xi as the inputs to node j while wij are the weights which represents the strength of connection between ith node and jth node, i is the number of nodes and bj is the bias related to node j. Each neuron consists of a transfer function which is responsible for the transformation of an input into an output [24]. There are several types of transfer functions used in literature such as the Tanh transfer function [28,33] and sigmoid transfer function [24,34]. In this work, the sigmoidal transfer function was used for both hidden and output layers. The sigmoid (logistic) function (Eq 2) was applied on the weighted summed of neuron’s input in the hidden layer before transferring to output layer.
+f(x)=11+ exp(−x)(2)
+where, f(x) is the activation function.Several types of learning algorithms were used in this work since it is difficult to determine which learning algorithm will be more efficient for a given problem [24]. These include incremental backpropagation (IBP), batch backpropagation (BBP), quick propagation (QP), genetic algorithm (GA) and Levenberg-Marquardt backpropagation (LM).2.8. Evaluation of model predictabilityThe mean squared error (MSE) or root mean squared error (RMSE) as in Eq 3 was used in this study to perform a supervised training. This measurement was performed in order to evaluate the ANN output error between the actual and predicted outputs.
+RMSE=(1n ∑i=1n(yi−ydi)2)1/2(3)
+where n, yi and ydi are the number of points, predicted values and actual values respectively. The learning process, in which the aim was to find the weights for minimizing RMSE, was carried out with an algorithm until the minimum RMSE (topology) was obtained. The topology was repeated several times to prevent random correlation caused by the random initialization of weights. The obtained topology with the lowest RMSE was selected and compared with other nodes’ topologies. Finally, the topologies of different algorithms were compared and the optimum model was selected based on maximum R2 (Eq 4), minimum RMSE and AAD (Eq 5).
+R2=1−∑i=1n(yi− ydi)2∑i=1n(ydi− ym)2(4)
+AAD=1n ∑i=1n|yi− ydi|ydi(5)
+where the number of points are represented by n,and yi and ydi are predicted and actual values respectively and ym is the average of the actual values.2.9. Zeta potential analysisZeta potential analysis was carried out using a Zetasizer (Nano ZS, Malvern Instrument Ltd., UK) at room temperature. Samples were diluted with deionized water prior to measurement. The calculation of zeta potential was done based on the measurement of the electrophoretic mobility of dispersed particles in a charged field.2.10. Stability studyThis test was carried out to predict the long term physical stability of the nanoemulsions. For storage stability, VCO nanoemulsions were kept at two storage temperatures (25°C and 45°C). The physical appearances of the formulations (no sedimentation, creaming, coalescence and phase separation) were observed within 3 months. Samples were also subjected to centrifugal force at 4500 rpm for 15 min. The freeze-thaw cycle test was conducted by alternately keeping the formulations at 4°C and 25°C for 24 h for 6 days. Observation of phase changes was recorded for each day.3. Results and Discussion3.1. Preliminary studyThe preliminary study on the different process parameters was carried out to find out the optimum shear time and shear speed that could produce nanoemulsion with minimum particle size. The effect of shear time on particle size is as depicted in Table 2. The homogenization time indicates the time spend by the emulsion in the homogenizer during the mixing process for the oil and aqueous phases. The results obtained showed that higher particle size was produced at low level of homogenization speed (5 min) due to the insufficient residence time of the surfactant molecules to allow their adsorption onto the entire droplet surface available during the homogenization process. Smaller particle size was observed at shear time of 10 min and became nearly constant at time greater than 10 min. On the other hand, increased in homogenization speed gave lower particle size (Table 3). The mixing force involved in the breakup of larger droplets into smaller one was the mechanical impact against the wall influenced by the high fluid acceleration as well as the shear stress in the gap between the rotor and the stator caused by rapid rotation of the stator. At lower shear speed, the mixing energy was insufficient giving larger particle size.Table 2Particle size (nm) of nanoemulsion at different shear time (min).Shear time (min)Particle size (nm)5131.07 ± 2.5710125.50 ± 1.0515125.80 ± 0.9920125.53 ± 1.05Open in a separate windowTable 3Particle size (nm) of nanoemulsion at different shear speed (rpm).Shear speed (rpm)Particle size (nm)5000138.90 ± 0.7010000125.50 ± 1.0515000114.13 ± 0.58Open in a separate window3.2. The topologies of the algorithmOptimization of ANN topology is the main step in the development of an ANN model. In this work, the examined neural network included four nodes in the input layer (VCO, T80:PF68, xanthan gum and water) and one node in the output layer (particle size, nm). The number of nodes in the hidden layer was determined by performing a series of topologies with varied node numbers from 1 to 15 for each algorithm involved. Model learning for testing data set was carried out to find the minimum value of RMSE which acts as the error function. The learning process was repeated 10 times for each node to prevent random correlation caused by random initialization of the weight [32]. This step was performed similarly for QP, IBP, BBP, GA, and LM algorithms to determine the optimum topology for each algorithm. The node with minimum value of RMSE was selected and plotted against the nodes of the algorithms’ hidden layer as shown in Fig 1.Open in a separate windowFig 1The selected RMSE vs. node number of the VCO nanoemulsions network’s hidden layer for IBP, BBP, QP, GA and LM.The lowest RMSE belongs to node number 5 (IBP), 5 (BBP), 8 (QP), 11 (GA), and 7 (LM).One node with the lowest RMSE among 15 topologies from each algorithm involved was selected as the best topology and compared. The selected topologies were 4-5-1 for both IBP and BBP, 4-8-1 for QP, 4-11-1 for GA and 4-7-1 for LM. As can be seen from Fig 2, the lowest RMSE amongst other topologies was shown by GA-4-11-1. However, further comparison between the performance data of the topologies was carried out to select the best model for the ANN.Open in a separate windowFig 2Scatter plot of predicted particle size (nm) values versus actual conversion (%) values by using five algorithms for the testing data set.3.3. Model SelectionThe values of RMSE, R2 and AAD were evaluated for the topologies IBP-4-5-1, BBP-4-5-1, QP-4-8-1, GA-4-11-1 and LM-4-7-1. A graph of predicted versus actual values of particle size was plotted for both testing set and training set data to determine the R2 value. Fig 2 showed that the highest R2 for the testing data set (0.9973) was presented by topology GA-4-11-1 with R2 value for training data set (Fig 3) equal to 0.9989. The AAD of the testing and training data sets for the topologies are tabulated in Table 4. From this table, the lowest AAD was also shown by topology GA-4-11-1. Therefore, GA-4-11-1 was selected as the final optimum model for the optimization of VCO nanoemulsions since it showed minimum RMSE and AAD as well as maximum R2 when compared to other topologies. Fig 4 shows the final model (network GA-4-11-1) which consists of input, hidden and output layers.Open in a separate windowFig 3Scatter plot of predicted particle size (nm) values versus actual particle size (nm) values by using five algorithms for the training data set.Open in a separate windowFig 4Schematic representation of a multilayer perception feedforward network of ANN based on GA consisting of four inputs, one hidden layer with 11 nodes and one output.Table 4The performance data of the optimized topologies, IBP-4-5-1, BBP-4-5-1, QP-4-8-1, GA-4-11-1, and LM-4-17-1 of the VCO nanoemulsions.Learning algorithmArchitectureTraining dataTesting dataValidation dataRMSER2AADRMSER2AADRMSER2AADLM4-7-13.05320.99970.98735.56780.98303.32527.17740.97954.8400IBP4-5-13.82220.99951.70844.12930.89402.79505.80200.97954.3586BBP4-5-15.28960.9992.46013.73330.91582.25995.48930.97953.6836QP4-8-17.27970.99823.29241.96880.96321.29921.92210.97951.1897GA4-11-15.70360.99892.61720.59020.99730.35682.49070.97951.6337Open in a separate window3.4. Model validationValidation of the selected model was performed to check the adequacy of the final model. The coefficient of determination, R2 between the observed and predicted particle size for 4 individual sets of the validation data was quite high with a value of 0.9795 (graph not shown), showing that the model obtained was quite significant.3.5. Importance of the effective variablesFig 5 depicts the importance in percentage of input variables on the particle size of VCO nanoemulsions. All selected variables were strongly influential on the particle size which indicated that any of the variables in this study could not be neglected for the composition analysis. As demonstrated in Fig 5, the most important factor was the xanthan gum content (28.56%). This was followed by T80:PF68 (26.9%), VCO (22.8%) and water (21.74%).Open in a separate windowFig 5The relative importance of of input variables VCO, T80:PF68, xanthan gum, and water in the VCO nanoemulsion.3.6. Optimum VCO nanoemulsionsA desirable formulation attained by preparing the VCO nanoemulsions with specific conditions is referred to as the optimum formulation. The optimized formulation labeled as Opt-VCO in this work has the composition of VCO, T80:PF68, xanthan gum and water at 10% w/w, 15% w/w, 0.867% w/w and 74.133% w/w, respectively as tabulated in Table 5. The predicted particle size for the optimum formulation was 124.16 nm. There was no significant difference between the actual and predicted values of particle size for the optimum formulation with an RSE value of 1.18%.Table 5The predicted and actual response values for the optimized formulation.(VCO) %(T80:PF68) %(Xanthan Gum) %(Water) %Actual Particle Size (nm)Predicted Particle Size (nm)RSE %10150.86774.133122.70124.161.18Open in a separate window3.7. Formulation of VCO nanoemulsions containing copper peptideFor the preparation of VCO nanoemulsions containing the active, copper peptide was incorporated into the Opt-VCO formulation. Table 6 shows the particle size of the VCO nanoemulsion containing 0.003% (w/w) copper peptide (VCOCP). There was no significant difference observed between the particle size of the optimum formulation and formulation containing the active where the difference was around 2.00 nm. The resulting VCOCP which has small particle size could hence be used as cosmeceutical for anti-aging purpose since the nano-sized emulsion can enhance the delivery or penetration of copper peptide through the skin.Table 6Response value for Opt-VCO and VCOCP.ResponseOpt-VCOVCOCPParticle size (nm)122.70120.70Open in a separate window3.8. Zeta potential of the final formulationsMeasurement of zeta potential is important to predict the long term stability of formulations as well as to understand the state of the surface of the nanoparticles [37]. This parameter is not only responsible for the stability of colloidal dispersions but it provides an indication of the degree of repulsion between particles with identical charge in the dispersion [38]. Nanoemulsions with a high degree of stability are characterized as having zeta potential values higher than +25 mV or lower than -25 mV. Table 7 shows the zeta potential values of Opt-VCO and VCOCP. A low zeta potential (less than -25mV) is indicative of a good stability for all formulations.Table 7Zeta potential (mV) of the optimum VCO nanoemulsion and VCO nanoemulsion containing active compound.Nanoemulsion systemsZeta potential (mV)Opt-VCO-32.63 ± 1.27VCOCP-32.70 ± 2.16Open in a separate window3.9. Stability studyThis test was carried out to predict the stability of cosmetic products when exposed to different situations that may occur under market conditions [38]. Therefore, Opt-VCO and VCOCP were subjected to various extreme storage conditions to evaluate the ability of samples to withstand the conditions over a period of time. Under centrifugation, the rate of creaming or sedimentation (phase separation) can be accelerated. Centrifugation test is used to predict the shelf life under normal storage conditions by observing the creaming or coalescence of the dispersed phase [39]. Table 8 shows that both the formulations exhibited no phase separation after centrifugation at 4500 rpm for 15 min. This was a positive indication of the stability of the formulations, if phase separation occurs; all the physical and chemical properties of the formulations will be affected.Table 8Centrifugation test.Nanoemulsion systemsObservationOpt-VCOStableVCOCPStableOpen in a separate windowFor the freeze-thaw cycling test; Opt-VCO and VCOCP were found to be stable (homogenous) after 6 days as depicted in Table 9. When the samples freeze, the oil droplets can be segregated from the emulsion by the crystallized ice particles and this leads to the disruption of the lipid film surrounding the droplets. These droplets can be melted and coalesced between approaching droplets when subjected to thaw leading to phase separation. All the formulations were observed to be in one phase even when temperatures were drastically changed. The stability of the formulations was probably due to the incorporation of xanthan gum. Xanthan gum is expected to be able to reduce both the re-association of oil droplets and formation of ice crystals.Table 9Freeze-thaw cycle.Duration (Days) Nanoemulsions1 (5°C)2 (RT)3 (5°C)4 (RT)5 (5°C)6 (RT)Opt-VCOStableStableStableStableStableStableVCOCPStableStableStableStableStableStableOpen in a separate windowRT = Room Temperature.The changes in particle size at temperature 25°C and 45°C for the VCO nanoemulsion containing copper peptide (VCOCP) were investigated over 90 days of storage time and the results are as depicted in Fig 6. Particle size of VCOCP remained almost constant at 25°C but showed slight changes at higher temperature (45°C) after 90 days storage time. Ribeiro et al. (2015) [38] observed significant changes in the particle size of cosmetic nanoemulsion at temperature 45°C. According to Ngan et al., (2014) [39], sample storage at high temperature (45°C) led to a higher kinetic energy in the Brownian motion of the oil droplets which could speed up their movement and collision. Despite the changes in particle size at temperature 45°C, VCOCP remained homogenous after 90 days storage period. Sample storage at elevated temperatures will increase the movement and collision between the oil droplets thus leading to droplets coalescence. The physical stability of Opt-VCO and VCOCP at storage temperatures of 25°C and 45°C for a period of 90 days is depicted in Table 10. All samples were able to maintain the homogeneity up to 90 days even at 45°C. The incorporation of xanthan gum enhances the viscosity of the bulk phase and reduces the probability of droplets collision, hence protecting the emulsion against coalescence [40].Open in a separate windowFig 6Particle size changes (90 days) of VCOCP which was stable at 25°C and 45°C.Table 10Storage stability.Day (s)1306090Temperature (°C)2545254525452545Opt-VCO√√√√√√√√VCOCP√√√√√√√√Open in a separate window4. ConclusionsA three layers genetic algorithm neural network was applied for the modeling and processing of experimental data obtained from the preparation of VCO nanoemulsions for the prediction of particle size. The developed model was evaluated statistically and found out to have good prediction ability. The RMSE, R2 and ADD for the training and testing set were 5.7036, 0.9989, 2.6171 and 0.5902, 0.9973, 0.356 respectively. Xanthan gum content was the most dominant factor controlling the particle size followed by T80:PF68, VCO and water. The actual and predicted particle size values for the optimum formulations were 122.70 and 124.16 nm respectively. Most importantly, the particle size values of the optimum formulation showed no significant difference when compared to the particle size in the formulation containing the copper peptide. Zeta potential analysis and stability results indicated excellent physical stability of the final formulations and the products may find use in the cosmeceutical industry.Funding StatementThese authors have no support or funding to report.Data AvailabilityAll relevant data are within the paper and its Supporting Information files.References1. Leelapornpisid P, Chansakaow S, Na-boonlong S, Jantrawut P. Development of cream containing nanostructured lipid carriers loaded marigold (tagetes erecta linn) flowers extract for anti-wrinkles application. Int J Pharm Pharm Sci. 2014; 6(5): 313–314. [Google Scholar]2. Mukherjee P K, Maity N, Nema NK, Sarkar BK. Bioactive compounds from natural resources against skin aging. Phytomedicine. 2011; 19: 64–73. 10.1016/j.phymed.2011.10.003
+ [PubMed] [CrossRef] [Google Scholar]3. Badhani B, Sharma N, Kakkar R. RSC Advances therapeutic and industrial applications. RSC Adv. 2015; 5: 27540–27557. [Google Scholar]4. Cheng Loong N, Basri M, Fui Fang L, Fard Masoumi HR, Tripathy M, Abedi Karjiban R, et al. 
+Comparison of Box—Behnken and central composite designs in optimization of fullerene loaded palm-based nano-emulsions for cosmeceutical application. Ind Crops Prod. 2014; 59: 309–317. [Google Scholar]5. Lupo MP. Cosmeceutical peptides. Dermatol Surg. 2005; 31(7 Pt 2): 832–836.  [PubMed] [Google Scholar]6. Pickart L, Margolina A. GHK-Copper Peptide in Skin Remodeling and Anti-Aging. SÖFW-Journal. 2010; 136(2): 1–9. [Google Scholar]7. Pickart L, Margolina A. Anti-aging activity of the GHK peptide-the skin and beyond. J Aging Res Clin Pract. 2012; 1(1): 13–15. [Google Scholar]8. Hamman JH, Enslin GM, Kotz AF. Oral delivery of peptide drugs barriers and developments. Drug Deliv. 2005; 19(3): 165–177. [PubMed] [Google Scholar]9. Tsai M, Fu Y, Lin Y, Huang Y, Wu P. The effect of nanoemulsion as a carrier of hydrophilic compound for transdermal delivery. PloS One. 2014; 9(7): e102850
+ 10.1371/journal.pone.0102850
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]10. Setya S, Talegaonkar S, Razdan BK. Nanoemulsions: formulation methods and stability aspects. World Journal of Pharmacy and Pharmaceutical Sciences. 2014; 3(2): 2214–2228. [Google Scholar]11. Tadros T, Izquierdo P, Esquena J, Solans C. Formation and stability of nano-emulsions. Adv Colloid Interface Sci. 2004; 108–109: 303–318.  [PubMed] [Google Scholar]12. Mahdi ES, Mohd Noor A, Sakeena MH, Abdullah GZ, Abdulkarim MF, Abdul Sattar M. Formulation and in vitro release evaluation of newly synthesized palm kernel oil esters-based nanoemulsion delivery system for 30% ethanolic dried extract derived from local Phyllanthus urinaria for skin antiaging. Int J Nanomedicine. 2011; 6: 2499–512. 10.2147/IJN.S22337
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]13. Arenillo SA. Yield and quality of virgin coconut oil using varieties of oconut. Journal of Higher Education Research. 2008; 5(2): 190–198. [Google Scholar]14. Mansor TST, Che Man YB, Shuhaimi M, Abdul Afiq MJ, Ku Nurul FKM. Physicochemical properties of virgin coconut oil extracted from different processing methods. Int Food Res J. 2012; 19(3): 837–845. [Google Scholar]15. Kamariah L, Azmi A, Rosmawati A, Wai Ching MG, Azlina MD, Sivapragasam A, et al. 
+Physico-chemical and quality characteristics of virgin coconut oil-a Malaysian survey. J. Trop. Agric.Food Sci. 2008; 36(2): 1–10. [Google Scholar]16. Marina AM, Che Man YB, Amin I. Virgin coconut oil: emerging functional food oil. Trends Food Sci Technol. 2009; 20(10): 481–487. [Google Scholar]17. Choudhury AR, Bhattacharjee P, Prasad GS. Development of suitable solvent system for downstream processing of biopolymer Pullulan using response surface methodology. PloS One. 2013; 8(10): e77071
+ 10.1371/journal.pone.0077071
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]18. De Carvalho SM, Noronha CM, Floriani CL, Lino RC, Rocha G, Bellettini IC, et al. 
+Optimization of? -tocopherol loaded solid lipid nanoparticles by central composite design. Ind Crops Prod. 2013; 49: 278–285. [Google Scholar]19. Fard Masoumi HR, Basri M, Kassim A, Abdullah DK, Abdollahi Y, Abd Gani SS, et al. 
+Statistical optimization of process parameters for lipase-catalyzed synthesis of triethanolamine-based esterquats using response surface methodology in 2-liter bioreactor. ScientificWorldJournal. 2013; 2013:962083
+ 10.1155/2013/962083. 10.1155/2013/962083
+ [PMC free article] [PubMed] [CrossRef] [CrossRef] [Google Scholar]20. Rebolleda S, Sanz MT, Benito JM, Beltrán S, Escudero I, San-José MLG. Formulation and characterisation of wheat bran oil-in-water nanoemulsions. Food Chem. 2015; 167: 16–23. 10.1016/j.foodchem.2014.06.097
+ [PubMed] [CrossRef] [Google Scholar]21. Ba-Abbad MM, Kadhum AAH, Mohamad AB, Takriff MS, Sopian K. Optimization of process parameters using D-optimal design for synthesis of ZnO nanoparticles via sol-gel technique. J Ind Eng Chem. 2013; 19(1): 99–105. [Google Scholar]22. Kamble MS, Borwandkar VG, Bodade SS, Aute PP, Chaudhari PD, Bhosale AV.Optimization of self-nanoemulsifying drug delivery system (snedds) of repaglinide using d-optimal mixture experimental design. Journal of Biomedical and Pharmaceutical Research. 2013; 2(3): 100–108. [Google Scholar]23. Kumar N, Shishu. D-optimal experimental approach for designing topical microemulsion of itraconazole: characterization and evaluation of antifungal efficacy against a standardized Tinea pedis infection model in Wistar rats. Eur J Pharm Sci. 2015; 67: 97–112. 10.1016/j.ejps.2014.10.014
+ [PubMed] [CrossRef] [Google Scholar]24. Moghaddam MG, Ahmad FBH. Artificial neural network modeling studies to predict the yield of enzymatic synthesis of betulinic acid ester. J Biotechnol. 2010; 13(3): 10.2225/vol13-issue3-fulltext-9 [CrossRef] [Google Scholar]25. Musharavati F, Hamouda ASM. Application of artificial neural networks for modelling correlations in age hardenable aluminium alloys. Journal of Achievement in Materials and Manufacturing Engineering. 2010; 41(1–2): 140–146. [Google Scholar]26. Catalogna M, Cohen E, Fishman S, Halpern Z, Nevo U, Ben-Jacob E. Artificial neural networks based controller for glucose monitoring during clamp test. PloS One. 2012; 7(8): e44587
+ 10.1371/journal.pone.0044587
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]27. Kumar P, Nigam SP, Kumar N. Vehicular traffic noise modeling using artificial neural network approach. Transp Res Part C. 2014; 40: 111–122. [Google Scholar]28. Rezaee M, Basri M, Raja Abdul Rahman RNZ, Salleh AB, Chaibakhsh N, Fard Masoumi HR. A multivariate modeling for analysis of factors controlling the particle size and viscosity in palm kernel oil esters-based nanoemulsions. Ind Crops Prod. 2014; 52: 506–511. [Google Scholar]29. Kiransan M, Khataee A, Karaca S, Sheydaei M. Artificial neural network modeling of photocatalytic removal of a disperse dye using synthesized of ZNO nanoparticles on montmorillonite. Spectrochim Acta A Mol Biomol Spectrosc. 2015; 140: 465–473. 10.1016/j.saa.2014.12.100
+ [PubMed] [CrossRef] [Google Scholar]30. Sarkar A, Pandey P. River Water Quality Modelling using Artificial Neural Network Technique. Aquat Procedia. 2015; 4: 1070–1077. [Google Scholar]31. Fadare DA, Babayemi OJ. Modelling the association between in vitro gas production and chemical composition of some lesser known tropical browse forages using artificial neural network. Afr J Biotechnol. 2007; 6(18): 2184–2192. [Google Scholar]32. Abdollahi Y, Asrina N, Aroua MK, Fard Masoumi HR, Jahangirian H, Alias Y. Fabrication modeling of industrial CO2 ionic liquids absorber by artificial neural networks. J Ind Eng Chem. 2015; 25: 168–175. [Google Scholar]33. Chen SM, Wang YM, Tsou I. Using artificial neural network approach for modelling rainfall—runoff due to typhoon. J Earth Syst Sci. 2013; 122(2): 399–405. [Google Scholar]34. Aghaeinejad-meybodi A, Ebadi A, Shafiei S, Khataee AR, Rostampour M. Modeling and optimization of antidepressant drug Fluoxetine removal in aqueous media by ozone / H2O2 process?: Comparison of central composite design and artificial neural network approaches. J Taiwan Inst Chem Eng. 2015; 48:40–48. [Google Scholar]35. Gibbs M, Morgan N, Maier H (2003) Use of artificial neural networks for modelling chlorine residuals in water distribution systems. In MODSIM 2003: Proceedings of the 2003 International Congress on Modelling and Simulation, Townsville, Australia:  (pp. 789–794) [Google Scholar]36. Marinkovski M, Kuvendziev S, Lisichkov K. The Journal of Supercritical Fluids Artificial neural network modelling of supercritical fluid CO2 extraction of polyunsaturated fatty acids from common carp (Cyprinus carpio L.) viscera. J Supercrit Fluids. 2014; 92: 242–248. [Google Scholar]37. Shilin M, Fen C, Xiaohui Y, Yingjie D, Yingna X, Heming X, et al. 
+Intravenous microemulsion of docetaxel containing an anti-tumor synergistic ingredient (Brucea javanica oil): formulation and pharmacokinetics. Int J Nanomedicine. 2013; 8: 4045–4052. 10.2147/IJN.S47956
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]38. Ribeiro RCDA, Barreto SMDAG, Ostrosky EA, da Rocha-Filho PA, Veríssimo LM, Ferrari M. Production and characterization of cosmetic nanoemulsions containing Opuntia ficus-indica (L.) mill extract as moisturizing agent. Molecules. 2015; 20(2): 2492–2509. 10.3390/molecules20022492
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]39. Ngan CL, Basri M, Tripathy M, Karjiban RA, Abdul-malek E. Physicochemical Characterization and Thermodynamic Studies of Nanoemulsion-Based Transdermal Delivery System for Fullerene. The Scientific World Journal. 2014. [PMC free article] [PubMed] [Google Scholar]40. Mat Hadzir N, Basri M, Abdul Rahman MB, Salleh AB, Raja Abdul Rahman RNZ, Basri H. Phase behaviour and formation of fatty acid esters nanoemulsions containing piroxicam. AAPS PharmSciTech. 2013; 14(1): 456–463. 10.1208/s12249-013-9929-1
+ [PMC free article] [PubMed] [CrossRef] [Google Scholar]Articles from PLOS ONE are provided here courtesy of PLOS
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.7M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

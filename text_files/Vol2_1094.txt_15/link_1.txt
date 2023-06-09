@@ -1,0 +1,711 @@
+Document Name: role of DYNASAN II0 in Foundation Cream1
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8401194/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Omega-3- and Resveratrol-Loaded Lipid Nanosystems for Potential Use as Topical Formulations in Autoimmune, Inflammatory, and Cancerous Skin Diseases - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Pharmaceutics
+
+
+                    PMC8401194
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (16M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Pharmaceutics
+
+
+                    PMC8401194
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Pharmaceutics. 2021 Aug; 13(8): 1202. Published online 2021 Aug 4.  doi: 10.3390/pharmaceutics13081202PMCID: PMC8401194PMID: 34452163Omega-3- and Resveratrol-Loaded Lipid Nanosystems for Potential Use as Topical Formulations in Autoimmune, Inflammatory, and Cancerous Skin DiseasesAna R. Caldas,1 José Catita,2,3 Raul Machado,4,5 Artur Ribeiro,6 Fátima Cerqueira,2,7,8 Bruno Horta,8,9,10 Rui Medeiros,2,8,10 Marlene Lúcio,1,4,* and  Carla M. Lopes2,*Ana R. Caldas1CF-UM-UP, Centro de Física das Universidades do Minho e Porto, Departamento de Física da Universidade do Minho, 4710-057 Braga, Portugal; moc.liamg@1cpatiranaFind articles by Ana R. CaldasJosé Catita2FP-I3ID, Fernando Pessoa Energy, Environment, and Health Research Unit/Biomedical Research Center (FP-ENAS/CEBIMED), Portugal and Faculty of Health Sciences, Fernando Pessoa University, 4200-150 Porto, Portugal; tp.ude.pfu@atitacj (J.C.); tp.ude.pfu@famitaf (F.C.); tp.eduas-nim.otropopi@iedemiur (R.M.)3Paralab, SA, 4420-392 Valbom, PortugalFind articles by José CatitaRaul Machado4CBMA, Centro de Biologia Molecular e Ambiental, Departamento de Biologia, Universidade do Minho, 4710-057 Braga, Portugal; tp.ohnimu.oib@odahcamluar5IB-S (Institute of Science and Innovation for Bio-Sustainability), University of Minho, Campus de Gualtar, 4710-057 Braga, PortugalFind articles by Raul MachadoArtur Ribeiro6CEB, Centro de Engenharia Biológica, Universidade do Minho, 4710-057 Braga, Portugal; tp.ohnimu.bec@oriebirutraFind articles by Artur RibeiroFátima Cerqueira2FP-I3ID, Fernando Pessoa Energy, Environment, and Health Research Unit/Biomedical Research Center (FP-ENAS/CEBIMED), Portugal and Faculty of Health Sciences, Fernando Pessoa University, 4200-150 Porto, Portugal; tp.ude.pfu@atitacj (J.C.); tp.ude.pfu@famitaf (F.C.); tp.eduas-nim.otropopi@iedemiur (R.M.)7CIIMAR/CIMAR, Interdisciplinary Centre of Marine and Environmental Research, 4450-208 Matosinhos, Portugal8Molecular Oncology and Viral Pathology Group, Research Center of IPO Porto (CI-IPOP)/RISE@CI-IPOP (Health Research Network), Portuguese Oncology Institute of Porto (IPO Porto)/Porto Comprehensive Cancer Center (Porto.CCC), 4200-072 Porto, Portugal; tp.pcu.otrop@atrohbFind articles by Fátima CerqueiraBruno Horta8Molecular Oncology and Viral Pathology Group, Research Center of IPO Porto (CI-IPOP)/RISE@CI-IPOP (Health Research Network), Portuguese Oncology Institute of Porto (IPO Porto)/Porto Comprehensive Cancer Center (Porto.CCC), 4200-072 Porto, Portugal; tp.pcu.otrop@atrohb9CBQF—Centre for Biotechnology and Fine Chemistry, Associated Laboratory, Higher School of Biotechnology, Portuguese Catholic University, 4169-005 Porto, Portugal10ICBAS—Instituto de Ciências Biomédicas Abel Salazar, Universidade do Porto, 4050-313 Porto, PortugalFind articles by Bruno HortaRui Medeiros2FP-I3ID, Fernando Pessoa Energy, Environment, and Health Research Unit/Biomedical Research Center (FP-ENAS/CEBIMED), Portugal and Faculty of Health Sciences, Fernando Pessoa University, 4200-150 Porto, Portugal; tp.ude.pfu@atitacj (J.C.); tp.ude.pfu@famitaf (F.C.); tp.eduas-nim.otropopi@iedemiur (R.M.)8Molecular Oncology and Viral Pathology Group, Research Center of IPO Porto (CI-IPOP)/RISE@CI-IPOP (Health Research Network), Portuguese Oncology Institute of Porto (IPO Porto)/Porto Comprehensive Cancer Center (Porto.CCC), 4200-072 Porto, Portugal; tp.pcu.otrop@atrohb10ICBAS—Instituto de Ciências Biomédicas Abel Salazar, Universidade do Porto, 4050-313 Porto, PortugalFind articles by Rui MedeirosMarlene Lúcio1CF-UM-UP, Centro de Física das Universidades do Minho e Porto, Departamento de Física da Universidade do Minho, 4710-057 Braga, Portugal; moc.liamg@1cpatirana4CBMA, Centro de Biologia Molecular e Ambiental, Departamento de Biologia, Universidade do Minho, 4710-057 Braga, Portugal; tp.ohnimu.oib@odahcamluarFind articles by Marlene LúcioCarla M. Lopes2FP-I3ID, Fernando Pessoa Energy, Environment, and Health Research Unit/Biomedical Research Center (FP-ENAS/CEBIMED), Portugal and Faculty of Health Sciences, Fernando Pessoa University, 4200-150 Porto, Portugal; tp.ude.pfu@atitacj (J.C.); tp.ude.pfu@famitaf (F.C.); tp.eduas-nim.otropopi@iedemiur (R.M.)Find articles by Carla M. LopesYogeshvar N. Kalia, Academic EditorAuthor information Article notes Copyright and License information Disclaimer1CF-UM-UP, Centro de Física das Universidades do Minho e Porto, Departamento de Física da Universidade do Minho, 4710-057 Braga, Portugal; moc.liamg@1cpatirana2FP-I3ID, Fernando Pessoa Energy, Environment, and Health Research Unit/Biomedical Research Center (FP-ENAS/CEBIMED), Portugal and Faculty of Health Sciences, Fernando Pessoa University, 4200-150 Porto, Portugal; tp.ude.pfu@atitacj (J.C.); tp.ude.pfu@famitaf (F.C.); tp.eduas-nim.otropopi@iedemiur (R.M.)3Paralab, SA, 4420-392 Valbom, Portugal4CBMA, Centro de Biologia Molecular e Ambiental, Departamento de Biologia, Universidade do Minho, 4710-057 Braga, Portugal; tp.ohnimu.oib@odahcamluar5IB-S (Institute of Science and Innovation for Bio-Sustainability), University of Minho, Campus de Gualtar, 4710-057 Braga, Portugal6CEB, Centro de Engenharia Biológica, Universidade do Minho, 4710-057 Braga, Portugal; tp.ohnimu.bec@oriebirutra7CIIMAR/CIMAR, Interdisciplinary Centre of Marine and Environmental Research, 4450-208 Matosinhos, Portugal8Molecular Oncology and Viral Pathology Group, Research Center of IPO Porto (CI-IPOP)/RISE@CI-IPOP (Health Research Network), Portuguese Oncology Institute of Porto (IPO Porto)/Porto Comprehensive Cancer Center (Porto.CCC), 4200-072 Porto, Portugal; tp.pcu.otrop@atrohb9CBQF—Centre for Biotechnology and Fine Chemistry, Associated Laboratory, Higher School of Biotechnology, Portuguese Catholic University, 4169-005 Porto, Portugal10ICBAS—Instituto de Ciências Biomédicas Abel Salazar, Universidade do Porto, 4050-313 Porto, Portugal*Correspondence: tp.ohnimu.acisif@oiculm (M.L.); tp.ude.pfu@sepolmc (C.M.L.); Tel.: +351-225074630 (C.M.L.)Received 2021 Jul 4; Accepted 2021 Jul 30.Copyright © 2021 by the authors.Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).Associated DataSupplementary Materialspharmaceutics-13-01202-s001.zip (306K)GUID: F8E4DD33-64EF-4CC7-B59A-C20CCA1B5480Data Availability StatementData sharing not applicable.AbstractResveratrol (RSV) and omega 3 (ω3), because of their biological favorable properties, have become subjects of interest for researchers in dermocosmetic and pharmaceutical industries; however, these bioactives present technological limitations that hinder their effective delivery to the target skin layer. To overcome the stability and skin permeation limitations of free bioactives, this work proposes a combined strategy involving two different lipid nanosystems (liposomes and lipid nanoparticles) that include ω3 in their lipid matrix. Additionaly, RSV is only encapsulated in liposomes that provid an adequate amphiphilic environment. Each formulation is thoroughly characterized regarding their physical–chemical properties. Subsequently, the therapeutic performance of the lipid nanosystems is evaluated based on their protective roles against lipid peroxidation, as well as inhibition of cicloxygenase (COX) and nitric oxid (NO) production in the RWA264.7 cell line. Finally, the lipid nanosystems are incorporated in hydrogel to allow their topical administration, then rheology, occlusion, and RSV release–diffusion assays are performed. Lipid nanoparticles provide occlusive effects at the skin surface. Liposomes provide sustained RSV release and their flexibility conferred by edge activator components enhances RSV diffusion, which is required to reach NO production cells and COX cell membrane enzymes. Overall, the inclusion of both lipid nanosystems in the same semisolid base constitutes a promising strategy for autoimmune, inflammatory, and cancerous skin diseases.Keywords: resveratrol, omega 3, topical skin administration, lipid nanosystems, COX inhibitors, NO inhibitory effect, antioxidant1. IntroductionDermatological autoimmune diseases (e.g., psoriasis) [1] are characterized by unbalanced immune responses that contribute to the pathogenesis [2,3]. Both the precise sequence of events and the molecular mediators are yet to be defined, although reported evidence of inflammatory processes involved in these pathogenesis point to the important roles of nitric oxide (NO), a reactive nitrogen species produced by macrophages [4], and cicloxygenase (COX), an enzyme recognized as a mediator of active inflammation at early stages [5,6]. In nonlesional skin conditions, NO is produced in small amounts with an anti-inflammatory effect [7]; however, in patological conditions, large amounts of NO may be produced, leading to the destruction of skin tissues due to the inflammatory response of the immune cells [8]. In general, this type of disease has a major negative impact on patient quality of life due to the characteristics of the symptoms associated with it.Since there is no effective cure for the different types of chronic inflammatory and autoimmune skin conditions, the main purpose of the available therapeutic options is to improve the quality of life of patients by relieving symptoms and slowing the progression of inflammatory conditions. This highlights the potential use of inhibitors of NO synthesis and COX activity as an effective modality of treatment in autoimmune and inflammatory skin diseases [5,6,8].Chronic inflammation is also correlated with the development of several cancers, including melanoma [9]. COX-2 is overexpressed in different cancers and is implicated in cancer development and resistance to chemotherapy and radiotherapy treatments [9,10]. COX-2 inhibitors can be used in cancer to reduce the cells’ ability for metastasis development and to sensitize the cancer cells to radio- and chemotherapy [9,10]. The role of NO in melanoma is not yet fully understood and is still controversial [11,12]. Increased NO may be associated with a worse prognosis of the disease [12,13] and inhibitors of NO production are seen by some authors as promising alternatives for melanoma treatment [13].Several studies have shown that natural bioactives such as resveratrol (RSV–trans-3,4′,5-trihydroxystilbene) and omega 3 (ω3) have anti-inflammatory and immunomodulatory effects [14,15,16,17,18,19,20,21]. Indeed, some studies suggest that there are benefits to the use of ω3 as complements in the topical treatment of inflammatory and autoimmune skin lesions [19,22], since immunoregulatory actions generally help to reduce the hyperproliferation of keratinocytes [23,24,25]. Aldridge et al. [26] demonstrated that in addition to other anti-inflammatory effects, the ω3 lipid emulsion was able to significantly lower NO production involved in many biological functions, such as in the regulation of immune and inflammatory cells [27,28,29].The anti-inflammatory properties of RSV have been attributed to several mechanisms [20,21,30], including inhibition of COX and inhibition of the NF kB transcription factor, which may reduce the expression of inflammatory genes and the reduction of the intracellular formation of peroxide and superoxide radicals in human skin fibroblasts in vitro. In addition, RSV inhibits tyrosine kinase protein (PTK), which modulates cell proliferation and differentiation, signaling processes in immune system cells, and biological processes involved in inflammatory response and diseases, such as cancer, arteriosclerosis, and psoriasis [31,32,33]. RSV also plays a critical role in regulating the expression of the SIRT1 gene responsible for the activation of Th17 cells, which are important in the modulation of the epidermal keratinocyte proliferation that occurs in some inflammatory skin processes, such as psoriasis [34,35].There are some problems associated with the use of natural bioactives for the treatment of inflammatory and autoimmune skin diseases; for example, in the case of ω3, high susceptibility to lipid peroxidation occurs due to the unsaturated bonds of these fatty acids [36], while for RSV, the cutaneous penetration is limited [37]. A potential approach to overcome low skin permeation is the development of lipid nanosystems, such as liposomes and lipid nanoparticles, which have a lipid composition that is compatible with the fluid lipid matrix of the intercellular route [38,39]. The use of these nanosystems as a local and non-invasive therapeutic strategy is considered a safe and efficient method of treatment for inflammatory and autoimmune skin conditions [1] due to their unique and tunable properties, which promote specific release and absorption characteristics across the stratum corneum, without impairing the functions of the skin barrier, and which improve epidermal, dermal, and transdermal permeation [40]. Various studies have reported the development of liposomes [41,42], as well as nanostructured lipid carriers (NLC) and solid lipid nanoparticles (SLN) [43,44,45], which carry ω3 and RSV in order to improve their stability, bioavailability, skin permeation, and biologic activities, such as anti-inflammatory and antioxidant activities, in addition to sustaining the bioactive release and masking unwanted odors and tastes.In light of our current knowledge, there is no onging study developing formulations for the simultaneous topical administration of these two bioactives. The aim of this study is the rational development and characterization of lipid nanosystems (NLC and large unilamelar liposomes (LUV)) containing fish oils (rich in ω3) and RSV for potential use as a topical strategy for autoimmune, inflammatory, and cancerous skin conditions. The uniqueness of this study is also due to the use of two different nanosystems in the same topical formulation, taking advantage of the characteristics of each nanosystem in terms of bioactive delivery. LUV are used to deliver RSV and ω3 across the stratum corneum to provide NO and COX inhibitory effects, as well as protective effects against lipid peroxidation. NLC have an occlusive role on the skin surface in order to release ω3 at this level, promoting additional cicatrizing effects.2. Materials and Methods2.1. MaterialsOmega 3 (ω3) capsules were acquired to Myprotein® (England). Resveratrol (RSV), chloroform, and ethanol were purchased from Sigma-Aldrich Química, S.L. (Sintra, Portugal). Precirol® ATO 5 (glyceryl palmitostearate, PREC), Compritol® 808 ATO (glyceryl behenate), Gelucire® 43/01 (glycerol esters of saturated fatty acids esters), Suppocire® D (triglycerides of fatty acid), LabrafacTM Lipophile WL 1349 (medium chain triglycerides), LabrafacTM Lipophile WL (medium chain triglycerides), Maisine® (glyceryl monolinoleate), Peceol® (glyceryl monoleate), and Lauroglycol™ FCC (propylene glycol monolaurate type I) were donated by Gattefossé (Paris, France). Imwitor® 900K (glyceryl monostearate) was supplied by Oxi-Med express, S.A. (Barcelona, Spain), while Dynasan® 114 (trimyristin) and Witepsol® E85 (consisting mostly of triglycerides) were supplied by Sasol GmbH (Hamburg, Germany). 1,2-Dipalmitoyl-sn-glycero-3-phosphocholine (DPPC), 1,2-distearoyl-sn-glycero-3-phosphocholinephosphatidylcholine (DSPC), and dioleoylphosphatidylethanolamine (DOPE) were purchased from NOF Corporation (Tokyo, Japan). Triethanolamine and Tween® 80 were purchased from Acofarma® (Barcelona, Spain). Gelling PFC® (Carbopol 2001) and glycerin were purchased from Guinama (Valencia, Spain). COX Fluorescent Inhibitor Screening Kit of Cayman Chemical was bought from Bertin Bioreagent (Lisbon, Portugal). Fetal bovine serum (FBS) was purchased from GE Health Care Life Sciences (Logan, UT, USA). Dulbecco’s modified Eagle’s medium/F-12 nutrient mixture (Ham) (DMEM/F-12; 1:1) was purchased from Gibco (Paisley, UK). Dimethyl sulfoxide (DMSO) and phosphoric acid were purchased from Merk (Darmstadt, Germany). Thiazolyl blue tetrazolium bromide (MTT), lipopolysaccharide (LPS), sulfanilamide, naphtylethylenediamide, and gentamicin were purchased from Sigma-Aldrich (St. Louis, MO, USA). All other reagents were acquired from Merck KGaA (Darmstadt, Germany) with p.a. quality and used without further purification.2.2. Methods2.2.1. Pre-Formulation Studies In order to evaluate some of the physical and chemical characteristics of the bioactives and lipids under study, pre-formulation studies were carried out for the rational development of formulations, ensuring their stability, effectiveness, and safety. In an initial phase, it is necessary to consider certain factors related to the bioactives and excipients, such as their physicochemical properties and compatibility.Physicochemical Properties of RSV Studied In Silico and In Vitro To select the most appropriate formulation for topical delivery, different physiochemical and biopharmaceutical properties of RSV were analyzed using SMILES (Simplified Molecular Input Line Entry System) notation and the Chemaxon® software (ChemAxon, Hungary) integrated with the MarvinSketch® module (ChemAxon, Hungary). Several chemical descriptors, such as the ionization, lipophilicity, size, shape, geometry, electrical characteristics, and surface topology, were calculated in silico.Drug lipophilicity, expressed as logD, was also evaluated in vitro by derivative spectrophotometry using DSPC/DOPE/ω3 (6:3:1) large unilamellar liposomes (LUV) prepared using the lipid film hydration method, followed by extrusion [46,47]. For logD determination, samples were prepared containing a fixed concentration of RSV (50 μM) and increasing concentrations of LUV (47–6907 µM). References were identically prepared without the addition of RSV. The control contained only RSV at a concentration of 50 µM, without the addition of liposomes. All preparations were incubated in a thermostatic bath at 37 °C for 30 min. The absorption spectra of samples and the reference were plotted in the 200–400 nm range on a Shimadzu UV/Vis-NIR 3101 PC (Japan) spectrophotometer equipped with a thermostated cell holder at 37.0 ± 0.1 °C. After subtrating the absorption of the reference, derivative spectra were calculated from absorption spectra using a previously published Excel®-based routine [48].Screening of Lipidic Excipients The selection of lipids for the development of lipid nanosystems is a crucial parameter for both stability and performance; therefore, different liquid and solid lipids were selected to evaluate the solubility of RSV in different proportions (1%, 2%, 3%). The solubility was analyzed every 15 min over a total of 60 min at 90°C, checking the presence of crystals of RSV in the molten lipid. The solid lipids tested were PREC, Dynasan® 114, Gelucire® 43/01, Witepsol® E85, Imwitor® 900K, Compritol® 808 ATO, and Suppocire® D. The liquid lipids analyzed were Labrafac® lipophile WL, Labrafac® lipophile WL 1349, Maisine®, Peceol®, Lauroglycol™ FCC, and Myprotein® fish oil rich in ω3.2.2.2. Formulation Studies Preparation of Lipid Nanosystems LUV of DSPC/DOPE (6:4) and DSPC/DOPE/ω3 (6:3:1); were prepared by classical lipid film hydration method followed by extrusion, as already described [49]. RSV (50 μM) was included in the formulations by direct mixing in the ethanolic solvents prior to lipid film formation. Placebo LUV were prepared in a similar manner by omitting the addition of RSV. Since RSV did not solubilize in any of the lipids tested (either liquid or solid), we chose to prepare NLC containing ω3 with a double function, i.e., as a constituent of the lipid matrix of NLC and bioactive. In order to avoid the formation of supercooled melts, lipids used to produce lipid nanoparticles should have a melting point higher than 40 °C to remain in solid state at room and body temperatures [50]. The solid lipid selected to develop NLC met this requirement. NLC of PREC/ω3 (7:3) were developed by ultrasound technique, as applied by Mendes et al. [51]. The lipid phase was heated at a temperature above the lipid solid melting point on a water bath. The aqueous phase containing surfactant (Tween® 80 2.5% and benzalkonium chloride 0.5%) maintained at the same temperature was added to the lipid phase and homogenized under high-speed stirring, using an Ultra-Turrax® T25 (IKA®, Janke & Kunkel GmbH, Staufen im Breisgau, Germany) at 9000 rpm for 5 min, followed by sonication (Bandelin Eletronic UW 2200, Berlin, Germany) at 40% of amplitude for 15 min. The obtained O/W nanoemulsion was immediately transferred to glass vials and cooled down to room temperature in an ice bath in order to originate the NLC.Measurement of Particle Size, Polydispersity Index and Zeta Potential LUV and NLC were characterized in terms of the mean particle size, polydispersity index (PDI), and zeta potential by dynamic and electrophoretic light scattering (DLS, ELS) using a Zetasizer Nano ZS (Malvern® Instruments Ltd., Grovewood Road, Malvern, Worcestershire, UK).LUV and NLC were diluted with purified water (v:v) (1:10 and 1:2, respectively) in order to avoid the multiple scattering effect caused by a high concentration of particles, obtaining the suitable scattering intensity. All experiments were performed under controlled temperature conditions at 25 ± 1 °C on the preparation day (day 0). Size and PDI results were obtained from the correlogram using Zetasizer Nano ZS software (Malvern®, Grovewood Road, UK) after cumulant analysis according to ISO 22412:2008 [52]. Zeta potential results were obtained via the conversion of electrophoretic mobility according to the method used by Helmholtz–von Smoluchowski [53].Chemical Composition Analysis To prove the success of RSV encapsulation, the chemical compositions of LUV with and without RSV were evaluated. The infrared absorption spectra were measured using a Fourier transform infrared spectrophotometer (Spectrum Two™ FT-IR Perkin-Elmer, Waltham, MA, USA) equipped with an attenuated total reflection unit (ATR-FTIR).Samples were prepared by adding 200 μL of LUV into aluminum crucibles and evaporated to form a lipid film. Measurements were made by pressing the film against the crystal of the ATR accessory in the range of 400–4000 cm−1, with a resolution of 4 cm−1 and accumulating 64 scans per spectrum. The antioxidant effect of ω3 was also evaluated by calculating the ratio of IR bands at 1740 cm−1/2960 cm−1 from the second derivative FTIR spectra [54].Biophysical Properties Analysis The microviscosity of LUV was evaluated through determination of the main phase transition temperature (Tm) and the cooperativity (B) by dynamic light scattering (DLS) in a Zetasizer Nano ZS (Malvern Instruments, UK) according to the method described by Michel et al. [55]. LUV with and without RSV (1.5 × 10−4 M) were incubated at 37 °C for 30 min. The experiments consisted of measuring the hydrodynamic radius and mean count rate (MC, number of detected photons per min) of LUV at several temperatures (5–55 °C). The results were collected as the MCR versus temperature, T (in °C), and the data were fitted using the following modified Boltzmann Equation: MCR=b1+m1T+b2−b1+m2T−m1T1+10B⋅1T−1Tm(1)
+where m1 and m2 are the slopes of the linear fits applied to the data before and after the phase transition region, respectively, and b1 and b2 are the corresponding y-axis intercepts. Fitting Equation (1) to the experimental data allows one to obtain B and Tm of the lipid bilayer from the gel phase to the fluid phase.In the case of NLC, the phase transition temperature was analyzed by differential scanning calorimetry (DSC) using a DSC 200 F3 Maia® instrument (NETZCH, Bobingen, Germany). Bulk materials (NLC) weighing between 10 and 13 mg were put into sealed aluminum crucibles with perforated caps. As the reference, an equivalent empty crucible and cap were used. The thermal analysis profiles were obtained under a dynamic atmosphere of nitrogen (20 mL/min). For bulk materials, the thermal program involved cooling down to 5 °C (at a rate of 10 °C/min), followed by an isotherm of 8 min and subsequent heating from 5 to 200 °C (at a rate of 5 °C/min). NLC were subjected to the same cooling and isothermal regime as the starting materials, and the heating was carried out from 5 to 90 °C at a rate of 5 °C/min. Data were analyzed using Proteus® 5.2.1. software (NETZCH, Bobingen, Germany).Encapsulating Efficiency Previously, LUV were diluted with purified water to prevent measurement of erroneous encapsulation efficiency (EE) and drug loading content (DL) values generated by overestimation due to the possibility of drug crystal entrapment between filtered nanosystems. EE and DL were determined indirectly by calculating the amount of non-encapsulated RSV present in the aqueous phase of dispersions and by applying the following Equations:EE(%)=[RSV]Total−[RSV]Free[RSV]Total×100(2)
+DL(%)=[RSV]Total−[RSV]Free[Lipid]Total×100(3)Here, 500 μL of RSV-loaded LUV formulations were transferred to Ultracel 50K centrifugal filter devices (Amicon® Ultra, Millipore Corporation, USA) with a 50,000 nominal molecular weight limit pore size. These filter devices were centrifuged (Hettich® Universal 320 centrifuge, Tuttlingen, Germany) at 3000 rpm for 15 min. The amount of encapsulated RSV was determined using a validated UV/Vis spectrophotometry method, using a Shimadzu UV/Vis-NIR 3101 PC (Kyoto, Japan) spectrophotometer, according to International Conference on Harmonization (ICH) Q2(R2) guidelines at the maximum absorption wavelength of the drug (λmax = 305 nm).Incorporation of Lipid Nanosystems in a Hydrogel Considering the characteristic low viscosity of lipid nanosystems, their incorporation in semisolid forms, such as hydrogels, seems to be an effective strategy for their topical application. The hydrogel was prepared by direct incorporation of lipid nanosystems. Firstly, glycerin was mixed with NLC or LUV. Afterwards, the gelling PFC® (Carbopol-2001, 0.5% (m/m)) was dispersed in this aqueous preparation, which was immediately neutralized with triethanolamine until forming the hydrogel (≈ pH 6.5). The formed hydrogel was left to equilibrate over 24 h at room temperature.Stability Studies To assess physical stability under storage conditions, lipid nanosystems maintained at refrigerator temperature (4 °C) were analyzed regarding their macroscopic aspect, size, PDI, and ZP at predetermined periods. Analyses were performed in the production day and eight weeks after production. To evaluate the accelerated stability, LUV were subjected to 2 centrifugation cycles at a speed of 3000 rpm for 30 min, then kept at room temperature for 8 weeks, after which the same properties were analyzed.2.2.3. Evaluation of Pharmaceutic and Therapeutic Performance In Vitro Drug Release Studies The in vitro RSV release profile from LUV was assessed using the dialysis membrane (Float-A-Lyzer®, 3.5 kD, VWR) diffusion technique for 32 h. The release medium was a micellar dispersion (hexadecilphosphocholine) at pH of 5.5 (prepared from a basic solution of sodium decahydrate 0.1 M and an acid solution composed of boric acid 0.02 M and citric acid 0.05 M) to mimic not only the pH of the skin [56], but also the cellular-derived components of skin surface lipids, which consist of phospholipids derived from the corneocyte plasma membrane [38,57]. Lipids are found in the interlamellar regions of the stratum corneum and act as a significant barrier to drug permeation [38]. Briefly, 1.0 mL of LUV was transferred to dialysis membranes and immersed in a container with 6.0 mL of micellar-buffered medium (pH 5.5). The system was kept in a thermostatically controlled water bath mimicking the temperature of the skin (32 ± 2 °C) and under magnetic stirring (200 rpm). At pre-determined time intervals, 1.0 mL of the receptor medium was removed and replaced with the same volume of fresh medium. All experiments were conducted under sink conditions.The amount of RSV released was measured using a validated UV/Vis spectrophotometer method as previously described. The cumulative RSV released was calculated and expressed as a percentage of the theoretical maximum drug content value.In Vitro Diffusion Studies The in vitro diffusion of RSV from LUV incorporated into hydrogel bases was evaluated using Franz diffusion cells (V-Series Stirrers for Franz Cells; PermeGear, USA). Polysulfone membranes (Tuffryn® membrane filter with 0.45 µm pore size, PALL Life Sciences, USA) with a diffusion area of 0.64 cm2 were fixed between the donor and the receptor compartment and 5 mL of micellar-buffered medium (pH 5.5) was added to the receptor compartment. The membrane was acclimatized at 32 ± 2 °C for 0.5 h prior to the addition of samples to the donor compartment. The receptor liquid was maintained at a constant temperature of 32 ± 2 °C using a circulating water bath and was continually stirred for 24 h. The donor compartment was filled with 400 µL of formulation and aliquots were collected at predetermined time intervals. Each volume removed was and replaced with the same amount of fresh medium. The RSV concentration in the receptor compartment was determined using a validated UV/Vis spectrophotometer method, as previously described.Diffusion parameters were interpreted from the cumulative amount of release drug per unit membrane area (QR/A) versus time (t) plot. The steady-state flux (Jss) and lag time (tL) correspond to the gradient and x intercept of the linear portion of the plot. Jss (μg/cm2/h) was calculated using the following Equation [58]:JSS=QRAt(4)
+where t (h) is the diffusion time, A (cm2) is the diffusion area, and QR (μg) is the diffusion amount of the drug.The drug permeability coefficient (Kp, in cm/h) was determined using Equation (5):Kp=JSSCd(5)
+where Cd is the initial concentration in the donor chamber (μg/cm3).Occlusive Effect Assessment Prevention of water loss by lipid nanosystems incorporated into hydrogels was studied by in vitro occlusive test [59]. Here, 50 g of deionized water was added to a beaker, which was covered with a Whatman® cellulose microfibre filter (pore sizes ranged from 0.6 to 0.8 μm) and sealed with Teflon. The tested formulation was evenly spread on the filter surface. The samples were kept at 37 ± 0.5 °C in an incubator for a period of 48 h. The system was weighed at several timepoints to measure the weight loss of water, which is related to the occlusive effect of the formulations.The occlusive factor (F) was calculated according to the following Equation:F=R−SR×100(6)
+where R is the water loss in the control and S is the water loss in the system with the sample; that is, F = 0 indicates that no occlusive effect occurred and F = 100 indicates that the occlusive effect was maximal.The water vapor transmission rate (WVTR) expressed in g/m2/day was also calculated following the standard gravimetric method [60]:WVTR=R−St×A(7)
+where t represents the 24 h time point and A is the sample testing area (m2). Finally, the occlusive effect (%) was calculated by comparison of the WVTR of each lipid nanosystem and the control mimicking the normal transepidermal WVTR of human skin (for healthy human skin, the WVTR is about 5–10 g/m2 day) [61,62]:Occlusive effect (%)=WVTRCONTROL−WVTRFORMULATIONWVTRCONTROL×100(8)Rheology Study After mechanical and thermal equilibration, the rheology analysis was carried out at room temperature using an ST-2001 rotational viscosimeter from J.P. Selecta® (I.C.T, S.L., Abrera, Spain) at a shear rate adequate for the spindle used to obtain the flow properties. Analysis of variance of the shear stress (Pa) versus shear rate (rpm) was performed on the production day (T0) and after two months to evaluate the effects of storage on the stability of the hydrogel formulations.Evaluation of the inhibitory COX and lipid peroxidation effects The anti-inflammatory effects of lipid nanosystems were evaluated based on their ability to inhibit the cyclooxygenase (COX) activity using a commercial COX Fluorescent Inhibitor Screening Kit (Cayman Chemical Company, Ann Arbor, Michigan in accordance with the manufacturer’s protocol. The reaction between prostaglandin endoperoxide PGG2 (resultant from COX activity) and ADHP (10-acetyl-3,7-dihydroxyphenoxazine) produces a highly fluorescent compound named resorufin. The fluorescence of this compound was analyzed with an excitation wavelength of 535 nm and an emission wavelength of 585 nm.The anti-oxidant activity was evaluated using ATR-FTIR as previously described in Section 2.2.2. The changes in stretching vibration of C=O groups indicate the formation of primary oxidation products such as lipid peroxides. The use of FTIR spectroscopy allows for the direct observation of the appearance or disappearance of bands corresponding to distinct vibrations of functional lipid groups, the changes in which indicate the formation of these primary oxidation products [54]; therefore, the ratio of IR bands at 1740 cm−1 (C=O)/2960 cm−1 (CH3) from the second derivative of the ATR-FTIR spectra was found to be related to the degree of lipid peroxidation (higher ratios indicate higher peroxidation) [54]. Furthermore, to present the results in a quantitative manner, the ratio values were expressed in comparison to the formulation that did not contain any bioactive (DSPC/DOPE) according to the following Equation:Lipid peroxidation inhibitory effect (%)=IRratioDSPC:DOPE−IRratiolipid_nanosystemIRratioDSPC:DOPE×100(9)Evaluation of the effect on NO production Liposome formulations with and without the bioactives (i.e., ω3 and RSV) were evaluated by assessment of their effect on NO production by the murine RAW 264.7 macrophage cell line kindly provided by Maria São José Nascimento from the Laboratory of Microbiology, Biological Sciences Department, Faculty of Pharmacy, University of Porto, Portugal. RAW 264.7 cell culture medium was prepared using DMEM/F12 (1:1) supplemented with fetal bovine serum (10%) and gentamicin (1 μg/mL). Cell cultures were incubated in a 5% CO2 humidified atmosphere at 37 °C,. For each assay, cells were seeded at a concentration of 2 × 105 cell/well (96-well culture plate) and incubated for 2 h with the aim of allowing cell adherence. After removal of supernatants, cells were stimulated with lipopolysaccharides (LPS) (1.5 µg/mL) and treated with the desired LUV suspension (1% v/v) for 24 h [63]. A blank of the compound (compound without cells), a 100% production control (untreated stimulated cells), and a 0% production control (culture media) were added. Supernatants were collected (100 µL), placed in a new 96-well flat-bottom plate, mixed with Griess reagent (100 µL), and prepared by adding equal volumes of 1% w/v sulfanilamide solution in phosphoric acid (5% v/v) and naphtylethylenediamide (0.1%) in deionized water. After a 10 min incubation period in the dark at room temperature, the optical density values of the wells were measured (545/630 nm; STAT FAX 3200) and the inhibition of NO production was quantified using the following formula:NO production inhibition (%)=100−abslipid_nanosystem−absblankabscontrol−absnegative_control×100(10)The MTT viability assay was performed to evaluate a possible toxic effect of the liposome formulations against the RAW264.7 murine macrophage cell line. In short, after the removal of supernatants for the Griess assay, the culture medium was discarded and cells were incubated for 4 h with a MTT solution (0.2 mg/mL). After the incubation period, the supernatants were discharged and the MTT formazan product was solubilized with DMSO. Cell viability, determined in relation to the control, was calculated using the following formula:Cell viability (%)=abslipid_nanosystemabscontrol×100(11)2.2.4. Statistical Analysis Statistical analysis was performed on Windows using IBM SPSS Statistics 26. The Kolmogorov–Smirnov was used to validate the normal distribution of the data. One-way ANOVA was performed to test statistical significance in the viability and nitric oxide production experimental assays. Student’s t test was applied to explore comparisons. Statistical significance was considered for p < 0.05.3. Results, Discussion3.1. Pre-Formulation StudiesFor the rational development of pharmaceutical preparations, pre-formulation studies were performed by analyzing the relevant physicochemical characteristics of RSV based on its chemical structure. For this, in silico calculations (Table S1, Supplementary Materials) were used together with several descriptors to understand the most important physiological barriers and the challenges in the development of an effective drug delivery nanocarrier [64].The most relevant properties in skin permeation are the ionization, solubility, molecular mass, and partition coefficient, as these are the properties that will influence the passage through the stratum corneum [65]. In terms of the RSV ionization profile, the calculated pKa values (Table S1, Supplementary Materials) were close to the experimental values previously reported (i.e., 8.99; 9.63 and 10.64) [66]. At pH values below pKa1, RSV is mostly in its neutral form, while at pH values above pKa1, it is negatively charged (Figure 1); thus, at the physiological pH level of skin (≈ 4–5.5), RSV is in its non-ionized form, which limits its skin permeation.Open in a separate windowFigure 1RSV microspecies distribution (neutral and negative) according to pH. The pKa values of RSV are also represented. The chemical structure of RSV was drawn using Marvin Sketch software from Chemaxon®.The aqueous solubility of RSV is extremely low (Figure S1A, Supplementary Materials), with its low concentration at the stratum corneum also compromising its skin permeation [37]. Generally, some properties such as molecular weight < 400–500 Da and 1< logP <3 favor skin permeation [39]. RSV has the required molecular weight (Table S1, Supplementary Materials). At cutaneous pH, the predicted logD and logP values equal 3.4. (Figure S1B, Supplementary Materials), which are close to the reported ones in the literature (logP ~ 3.1) [67], but exceed those required for optimal permeation, which occurs mainly through the interlamellar spaces of the stratum corneum or through the pores of the skin. The logP value also indicates that RSV has moderate to high lipophilicity [68,69], making it appropriate for incorporation into lipid nanosystems (e.g., nanoemulsions, lipid nanoparticles, and liposomes) which have been widely exploited for topical administration of RSV for skin diseases [42,44,70,71,72,73,74,75]. Despite the lipophilicity of RSV, its high PSA value (60.69 Å2) indicates that RSV is amphiphilic; therefore, among the lipid nanosystems, liposomes, which have an amphiphilic character and greater fluidity, may be more suitable nanocarriers for RSV encapsulation. SLN and NLC are mostly lipophilic and are less efficient for encapsulating amphiphilic compounds. To confirm that liposomes are appropriate as nanocarriers for RSV, a test was performed using LUV of DSPC/DOPE/ω3 (6:3:1) to determine the distribution coefficient (logD) of RSV in the biphasic liposome/water system (Figure S2, Supplementary Materials). The logDliposome/water value of (2.88 ± 0.097) indicates that RSV has a moderate distribution in the LUV but that they are still suitable for RSV encapsulation. The predicted chemical suitability of LUV for RSV encapsulation is consistent with previous reports of lipid-based nanosystems for cutaneous RSV delivery [31,37,76,77,78,79,80].Additionally, to confirm that NLC may not be suitable for RSV encapsulation, a study was carried out to test its solubility in different solid and liquid lipids, as described in Section 2.2.1. In all tested mixtures, the presence of RSV crystals after 60 min was observed, indicating that RSV is not soluble in the solid and liquid lipids analyzed here; thus, it was not possible to select any of the lipids for the preparation of NLC containing encapsulated RSV and the preparation of NLC was reserved for the inclusion of the other bioactive compound (ω3).In conclusion, the in silico results suggested that encapsulating RSV in lipid nanosystems, particularly liposomes, can improve RSV’s skin permeability. As a result, RSV was only encapsulated in liposomal formulations capable of providing an adequate amphiphilic environment for RSV encapsulation, while ω3 was used as both a component of the lipid matrix and a bioactive compound. NLC were ineffective for RSV encapsulation, although they did provide an adequate environment for ω3, which was used as a component of the lipid matrix and as a bioactive.3.2. Formulation StudiesThe physical properties of lipid nanosystems (e.g., size and surface charge) might affect their penetration properties in topical applications. The data in terms of mean size and zeta potential values of LUV prepared with and without RSV; and NLC are presented in Figure 2.Open in a separate windowFigure 2Stability characterization of lipid nanosystems during storage at 4 °C. The data represent the means ± SD of the size (A) and surface charge (zeta potential (mV) (B) values over 8 weeks.The average size of DSPC/DOPE/ω3 (6:3:1) (156 ± 17 nm) was not significantly different from that obtained by Skibinski et al. (137 ± 12 nm) [41], which also included a fish oil rich in DHA encapsulated in LUV composed of archaelipids. When compared with the LUV obtained by Alaarg et al. (99 ± 16 nm), which constituted ω3, 1,2-dipalmitoyl-sn-glycero-3-phosphocholine, cholesterol, and PEG2000, our lipid nanosystem was significantly larger [81]. On the other hand, DSPC/DOPE/ω3 (6:3:1) containing RSV (152 ± 17 nm) was significantly smaller (p < 0.05) than LUV produced by Jøraholmen et al. containing egg-phosphatidylcholine and RSV (206 ± 10 nm) but without fish oil [42]. Despite the differences in the LUV compositions, we also used the extrusion technique, which has been proven to be effective in obtaining sizes close to those reported in the literature.The average size of PREC/ω3 (7:3) (129 ± 1 nm) was significantly larger (p < 0.001) than the one NLC obtained by Shreedar et al. (87 ± 7 nm), which contained ω3 and stearic acid, as well as the one obtained by Khan et al. (60 ± 9 nm), which was composed of Compritol® 888 ATO and Capmul MCMC8 [82]. This can be explained by the different components of the lipid matrix as well as the different preparation method (high-pressure homogenization) used by Khan et al. [82].Despite LUV and NLC having similar sizes, their PDI values are significantly different (p < 0.001), which suggests a different ω3 distribution within the lipid matrix. In NLC, ω3 is located in reservoirs surrounded by the solid lipid (Figure 3), resulting in lower PDI values (0.198 ± 0.004) than LUV with and without RSV (0.583 ± 0.101 and 0.513 ± 0.011 respectively), where ω3 is part of the lipid bilayer, perturbing the lipid packing of the highly ordered lipid DSPC. For comparison purposes, we produced LUV of DSPC/DOPE (6:4) (without ω3), which had similar sizes (138 ± 4 nm) but significantly lower PDI values (0.222 ± 0.004, p < 0.001).Open in a separate windowFigure 3Schematic representation of lipid nanosystems with or without RSV and ω3.In summary, the size of both NLC and LUV makes them suitable for topical applications, which require an optimum size range of 100 to 200 nm [83]. Furthermore, small sizes are important when a topical application is intended, because the penetration of a nanocarrier through the stratum corneum decreases as size increases [84]; however, size is a more limiting factor for inorganic nanocarriers due to their structural rigidity. Liposomes are more flexible and moldable, and as a result they penetrate the stratum corneum more effectively [85]. Additionally, the presence of components that disturb lipid packing of LUV (such as ω3 and DOPE, known as “edge activators”) enables the formation of nanocarriers with greater flexibility and greater skin penetration [86].In addition to their size, the surface charge of LUV and NLC was also characterized by measurement of their zeta potential values (Figure 2B). In liposomes without RSV (−17.70 ± 2.46 mV) and with RSV (−26.40 ± 0.90 mV), the presence of a negative surface charge was expected, since ω3 acids are fatty acids, whose carboxylic acid group is ionized at pH > 4.5. The significative decrease (p < 0.05) of the zeta potential values can be explained by the fact that ω3 carboxylic anionic groups are more exposed in the polar headgroup region due to changes in the lipid packing when RSV is encapsulated. NLC contain a cationic surfactant, benzalkonium chloride, at the lipid–water interface, which explains the positive zeta potential (+25.13 ± 0.61 mV).Over the 8 weeks, there were no significant changes in the average size of the lipid nanosystems (Figure 2A), indicating no aggregation. There were no significant changes in the DSPC/DOPE/ω3 (6:3:1) surface charge in terms of the zeta potential (Figure 2B); however, when RSV is present, its effect on the surface charge is notorious, as indicated by the significant changes of zeta potential values (p < 0.0001). This is also related to the abovementioned changes in the polar headgroup region due to RSV distribution in the lipid nanosystem. PREC/ω3 (7:3) also suffered a significant decrease in the surface charge (p < 0.0001), most likely due to ω3 relocation in the lipid matrix at the interfacial region, which reduced the overall positive charge conferred by the cationic surfactant. Oil relocation in the interfacial region was also observed for NLC in the literature [87]. Despite the decrease in zeta potential, PREC/ω3 (7:3) retains its stability due to the surface coverage by a non-ionic surfactant, which confers steric hindrance and prevents aggregation [88].The chemical characterization of lipid nanosystems was evaluated using ATR-FTIR (Figure 4).Open in a separate windowFigure 4ATR-FTIR spectra of lipid nanosystems with and without ω3 and RSV (A). The typical vibrations of the chemical groups νs(CH2) at 2850 cm−1 and νas(CH2) at 2916 cm−1 are present in all lipid nanosystems. Regions B (vibrations of the phosphate group of liposomes headgroups), C (band ν(N–H) at 3370 cm−1 attributed to the choline phospholipids), and D (band δas(N–CH3) at 1630 cm−1 attributed to the choline phospholipids) are assigned to the regions where NLC and liposomes differ. (B) Maximization of phosphate vibrations (Band B).All spectra show the typical lipidic backbone bands: ρ(CH2) at 886 cm−1; δs(CH2) at 1471 cm−1; νs(CH2) at 2850 cm−1; νas(CH2) at 2916 cm−1. Additionally, other distinct bands are characteristic of LUV but do not appear in the NLC spectra, such as the δas(N–CH3) (band D at 1630 cm−1) and ν(N–H) (band C at 3370 cm−1) of the choline phospholipids. Also present in the headgroup region of the LUV phospholipids are the double simetric (1075–1090 cm−1) and assimetric (1221 cm−1 and 1200 cm−1) vibrations of the phosphate groups, which do not appear in the headgroup regions of NLC lipid components (band B and inset Figure 4B). Comparing the ATR-FTIR spectrum of DSPC/DOPE (6:4) with the spectra of LUV containing ω3 or ω3 and RSV, it is possible to see that the presence of these bioactives affect the ratio between the assimetric and simetric phosphate bands, confirming their interaction in the headgroup region (Figure 4B). Indeed, the ratio of the asymmetrical stretching band areas (a1221/a1201) in phosphate can be used to assess the degree of hydration of the headgroup region. An increase of this ratio indicates dehydration around the phosphate groups and possibly the establishment of electrostatic interaction [89]. This was observed in the DSPC/DOPE LUV when ω3 was added (the ratio band area value increased from 1.39 to 1.52), most likely because of a stronger interaction between the choline and ethanolamine groups, while the phosphate groups were required to accommodate a fatty acid with a negatively charged polar group. When RSV is added to DSPC/DOPE/ω3, the ratio between band areas decreases slightly to 1.50, indicating the formation of hydrogen bridges between the RSV and the polar heads of the LUV phospholipids.The biophysical and thermodynamic properties of the lipid nanosystems were also characterized (Figure S3, Supplementary Materials). The DSPC/DOPE/ω3 (6:3:1) showed two transition temperatures Tm1=30.14 ± 0.14 °C and Tm2=41.72 ± 0.56 °C, indicating the coexistence of two lipid phases, one more fluid and less cooperative phase (B = 223.77 ± 21.73) rich in DOPE and ω3, and another ordered and cooperative phase (B = 1170.62 ± 42.73) corresponding to DSPC-enriched domains (Figure S3A). When RSV was encapsulated in the formulations, the integrity of LUV was maintained, although both lipid phases were more ordered, as proven by the increases of the transition temperatures to Tm1=33.73 ± 0.14 °C and Tm2=53.24 ± 3.95 °C (Figure S3A). This ws in agreement with the reported biophysical effect of RSV in lipid membranes [90]. After RSV introduction, the cooperativity levels of the two lipid phases were similar (B = 595.13 ± 108.44 and 452.00 ± 72.11), indicating a homogeneous distribution of RSV in both phases. The PREC/ω3 (7:3) has a melting temperature Tm = 60 °C, which is slightly lower than the Tm of PREC (62 °C) and still ensures that NLC are solid at room and body temperature (Figure S3B).The RSV entrapment efficiency for DSPC/DOPE/ω3 (6:3:1) was 71.76 ± 9.23%, which was not statistically different from the results obtained by Jøraholmen et al. [42](80 ± 4%) and Caddeo et al. [75] (73.1 ± 3.3% and 79.7 ± 3.8%); however, if the DL is considered, RSV loading in our formulation was significantly higher (14.35 ± 1.85 %, p < 0.0001) than the values obtained by Caddeo et al. (3.68 ± 0.17% and 2.72 ± 0.13%).3.3. Potential Pharmaceutic and Therapeutic PerformanceSeveral parameters can be used to predict the pharmaceutic and therapeutic potential of topical cutaneous formulations in vitro. Firstly, the release profile of RSV from DSPC/DOPE/ω3 (6:3:1) was evaluated (Figure 5).Open in a separate windowFigure 5Release and diffusion profile of RSV from DSPC/DOPE/ω3 (6:3:1) in free form and included in the hydrogel (HG). The data represent the means ± SD.LUV released RSV in a sustained way following a first-order kinetic profile, where a maximum of 75.96 ± 1.90% was released over 30 h and with a kinetic constant of 𝑘 = 0.09276 ± 0.004556 h−1. A similar RSV release after 8 h (≈ 40%) was reported by Jøraholmen et al. [42]. The nonlinear fitting with other mathematical models (zero-order, Higuchi, and Korsmeyer–Peppas) was also tested and is presented in Table S2 (Supplementary Materials).Besides analysing the release of RSV from the lipid formulation, it is important to assess whether the planned final semisolid formulation maintains the RSV diffusion capacity. For this purpose, Franz cell models using artificial membranes have been described as important characterisation tools for the evaluation of the performance of semi-solid pharmaceutical products for topical administration [91]. Regardless of the importance of these assays, any interpretation should be cautious because the membranes used are artificial and do not completely mimic the complex diffusion phenomena observed in vivo; however, the stiffness, mechanical resistance, thermal stability, and oxidation resistance of polysulfone membrane filters mean they are widely used in diffusion studies [88] and their use to assess the topical drug delivery is recognized by regulatory entities such as the FDA [89]. As such, RSV release from LUV included in a hydrogel, HG(DSPC/DOPE/ω3), was assessed by quantification of the RSV diffused through the polysulfone membranes in Franz cells (Figure 5).The diffusion flux (Jss) of RSV across the membrane barrier was 22.21 ± 0.35 µg/cm2/h and the permeability (Kp) of the RSV through the diffusion membrane was 0.0254 ± 0.0004 cm/h. Using the logDliposome/water calculated (Figure S2, Supplementary Materials) using the algorithm created by Potts and Guy [92], and knowing the saturation concentration of RSV (3 mg/100 cm3), the theoretical value of the RSV permeability coefficient was calculated as 0.0269 cm/h, which was very close to the experimental values achieved (0.0254 ± 0.0004 cm/h).In addition to drug release from lipid nanocarriers and diffusion from the lipid nanocarriers incorporated in the semisolid base, it is also important to understand whether the formulations can prevent water loss from the skin, i.e., can have an occlusive effect that can interfere with the normal transepidermal water loss (WVTR) of human skin [61,62]. This occlusive effect could be beneficial in increasing the hydration of the stratum corneum, and consequently could influence the percutaneous absorption and the efficacy of bioactives [93]. For this, the occlusive effects of LUV, NLC, LUV+NLC, and their HG incorporated counterparts were compared (Figure 6).Open in a separate windowFigure 6Occlusive effects (%) of free lipid nanosystems and of those included in the hydrogel (HG). The occlusive effects were calculated according to Equation (8). The data represent the means ± SD.There was no occlusive effect of LUV, whether free or incorporated into the HG base. This lack of occlusive effect does not favor skin permeation [94], which is not a positive result. Indeed, some permeation is required because the pathogenesis of inflammatory processes in some skin lesions involves not only epidermal skin structures, but also deeper and more vascularized dermal regions; however, this result, which would not be so favorable for topical application in healthy skin, is not discouraging for the intended application, i.e., for damaged skin (such as psoriasis), which is more permeable [95]. Furthermore, because of their flexible structures, liposomes may permeate the skin via other mechanisms than occlusion [96]. The NLC produced the highest occlusive effect (59.31 ± 1.79% decrease of WVTR, Figure 6), which points out the ability of these lipid nanosystems to reside on the skin surface, which can be beneficial in increasing the hydration of the stratum corneum, producing an emollient effect on the skin surface and consequently influencing the percutaneous absorption of liposomes [93].Hydrogels incorporating the two lipid nanosystems presented significantly smaller (p < 0.0001) occlusive effects, which were mostly due to the high water content of the HG base; however, the presence of NLC in the HG still counteracts the lack of occlusive effects observed for LUV. These data seem to underline the interest in using a semisolid base containing both lipid nanosystems.After incorporation of the lipid nanosystems in the HG, rheological analyses were performed (Figure 7).Open in a separate windowFigure 7Rheograms of lipid nanosystems included in the hydrogel (HG). The data represent the means ± SD.The rheograms demonstrated that all HG exhibited a typical flow curve of non-Newtonian pseudoplastic behavior, which was visible from the viscosity decrease with the increasing shear rate, which caused the breakdown of the hydrogel network structure (reduced by the gradual decrease of viscosity). These semisolid bases do not present thixotropy; that is, there is no decrease in viscosity with time, since the ascending and descending curves of the rheograms are practically overlaped and without the characteristic hysteresis of thixotropic behavior [97]. This means that after cessation of high shear stress, HGs can rapidly recover their consistency and elastic properties, promoting their retention. For the topical administration of semisolid bases, the pseudoplastic behavior is interesting, favoring the application of the base while the patient makes movements to spread the product, since during these movements its viscosity decreases, then when the movements stop, the viscosity returns to its initial values [97,98]. When both lipid nanosystems were incorporated into the HG base, the viscosity increased when compared to the HG that only contained LUV. This is consistent with the role of NLCs in compensating for the lack of occlusive effects of LUVs when both lipid nanosystems were incorporated into the HG.The potential therapeutic activity of the lipid nanosystems was initially screened regarding their inhibitory COX effects and the effects against lipid peroxidation (Table 1).Table 1Inhibitory effects of Cox and lipid peroxidation of the lipid nanosystems. The data represent the means ± SD.Lipid NanosystemCOXInhibition (%) 1
+Lipid Peroxidation Inhibition (%) 2DSPC/DOPE (6:4)13.98 ± 0.080DSPC/DOPE (6:4) + RSV 95.42 ± 0.5285.61 ± 4.28DSPC/DOPE/ω3 (6:3:1)46.24 ± 0.2584.83 ± 4.24DSPC/DOPE/ω3 (6:3:1) + RSV94.61 ± 0.5282.34 ± 4.12PREC/ω3 (7:3)75.99 ± 0.4272.50 ± 3.62Open in a separate windowNote: 1 values were obtained using a commercial COX inhibitor fluorescence screening kit using COX as a positive control; 2 values were obtained using Equation (9); values represent the means ± SD (n = 3).DSPC/DOPE/ω3 (6:3:1)+RSV and DSPC/DOPE (6:4)+RSV demonstrated similar COX inhibition effects, although these effects were significantly higher than all other lipid nanosystems (Table 1, p < 0.0001), free RSV (91.84 ± 0.50%, p < 0.0001; data not included in Table 1) or free ω3 (92.90 ± 0.51%, p < 0.001; data not included in Table 1), or the COX inhibitor, DuP-697 (supplied by Cayman Chemical Company) (83.19 ± 0.46%, p < 0.0001; data not included in Table 1). Lipid nanosystems without RSV presented significantly lower COX inhibition effects (p < 0.01), which were not influenced by the presence of ω3 (Table 1); therefore, the presence of RSV in the lipid nanosystems seems to be required to achieve higher anti-inflammatory effects via COX inhibition. In the NLC, the COX inhibitory effect was about 75.99 ± 0.42%, which was lower than free ω3 (92.90 ± 0.51%, p < 0.001; data not included in Table 1), probably because in NLC ω3 is an integral part of the lipid matrix, being inside the nanoparticle structure and not fully exposed to the surfaces of nanoparticles, as is the case for free ω3. The same can be concluded when comparing DSPC/DOPE/ω3 (6:3:1) to free ω3. It should be emphasized, however, that the differences in COX inhibitory effects of ω3 between NLC and LUV could simply be attributable to the larger concentration of ω3 in NLC. Although free RSV and free ω3 had strong COX inhibitory effects, their incorporation in lipid nanosystems is required for in vivo activity, because COX is bound to to the membranes of fibroblasts and its inhibition requires bioactives to pass through the skin layers to the dermis.LUV have significantly higher lipid peroxidation inhibitory effects (p < 0.05) than NLC, except in the case of LUV containing both RSV and ω3, which present similar effects to NLC (Table 1). These results seem to indicate that each bioactive has an anti-oxidant effect, although the presence of both bioactives is not synergic.Since LUV containing the bioactives demonstrated higher COX inhibitory effects, their potential anti-inflammatory effects by NO production using LPS-stimulated RAW264.7 murine macrophages were evaluated (p > 0.05) (Table 2).Table 2Effects of liposome formulations on nitric oxide (NO) production by RAW264.7 macrophages stimulated with lipopolysaccharide (LPS).Lipid NanosystemNO ProductionInhibition(% of Control)CellViability(% of Control)DSPC/DOPE (6:4)21.60 ± 4.61102.53 ± 6.22DSPC/DOPE (6:4) + RSV 31.37 ± 4.7297.50 ± 3.08DSPC/DOPE/ω3 (6:3:1)39.77 ± 4.8095.52 ± 1.98DSPC/DOPE/ω3 (6:3:1) + RSV30.47 ± 1.6998.48 ± 2.24Open in a separate windowValues represent the means ± SEM (n = 4).All formulations inhibited NO production, although no statistical significance was observed between them. Although the NO inhibition effect observed for LUV without bioactives (i.e., ω3 or RSV) was not statistically significant (ANOVA analysis), the p-value was nearly significant (p = 0.063). With this in mind, and merely for comparison purposes, Student’s t test was performed to explore differences between independent DSPC/DOPE/ω3 (6:3:1) and DSPC/DOPE (6:4) samples. A statistical difference was observed (p < 0.05). The effect of the LUV formulation on NO detection was not due to a toxic effect against RAW264.7 macrophages, as inferred by the viability of stimulated macrophages treated with the different formulations in relation to the control. The observation that a higher inhibitory effect of NO production occurs only when ω3 is included in LUV without RSV suggests a higher contribution of ω3 at this level and a lack of synergic effects between the two bioactives. Since the anti-inflammatory effect of RSV is well documented in the literature [99], our results point to an anti-inflammatory mechanism via COX inhibition rather than interference with NO production.4. ConclusionsIn conclusion, since the success of topical administration is highly dependent on the type of carrier, the proposed use of LUV and NLC provides a combined strategy in order to overcome the skin delivery limitations of the bioctives. On one hand, it is expected that NLC remain at the skin surface, promoting an increase of the occlusive effect, blocking the diffusional water loss, and increasing the hydration of the stratum corneum. This occlusive mechanism has positive effects in terms of bioactive permeation and in reduction of the typical exfoliative skin lesions. On the other hand, LUV containing edge activator components are more flexible and are expected to reach deeper skin layers. LUV are expected to provide permeation enhancement of RSV, similar to other lipid-based nanosystems reported for cutaneous RSV delivery, which facilitate skin permeation and provide controlled RSV release at the desired sites of action [31,37,76,77,78,79,80] (which in this case were the dermis sites where inflammation mediators are overexpressed). Although expected, the different skin locations of NLC and LUV should be confirmed through microscopic observations using in vitro or ex vivo split-thickness skin models.While in vivo studies are still needed to confirm the in vitro studies results, the above discussed effects of lipid nanosystems carrying ω3 and RSV bioactives on inhibition of COX activity, lipid peroxidation, and NO production give us an indication of their anti-inflammatory and anti-oxidant effects, making their topical application a promising strategy for autoimmune, inflammatory, and cancerous skin diseases.AcknowledgmentsThe authors acknowledge Maria São José Nascimento from the Laboratory of Microbiology, Biological Sciences Department, Faculty of Pharmacy, University of Porto, Portugal, who kindly supplied the RAW 264.7 murine macrophage cell line.Supplementary MaterialsThe following are available online at https://www.mdpi.com/article/10.3390/pharmaceutics13081202/s1: Table S1: In silico prediction of several physicochemical descriptors of RSV. Figure S1: In silico prediction of: (A) aqueous solubility of RSV as a function of pH; (B) logD of RSV as a function of pH. Figure S2: Schematic representation of the distribution coefficient of RSV (logD) in the biphasic liposome–water system determined by derivative spectrophotometry. Figure S3: Main phase transition temperature (Tm1, Tm2 or Tm) in LUV (determined by dynamic light scattering) and in NLC (determined by differential scanning calorimetry). Reference [49] is cted in Figure S2.Click here for additional data file.(306K, zip)Author ContributionsConceptualization, C.M.L. and M.L.; methodology, C.M.L., M.L. and F.C.; validation, C.M.L., M.L., J.C., B.H., R.M. (Rui Medeiros) and F.C.; formal analysis, C.M.L., M.L., B.H. and Rui M.; investigation, A.R.C., A.R., R.M. (Raul Machado), B.H. and J.C.; resources, C.M.L., M.L., R.M. (Rui Medeiros), F.C., R.M. (Raul Machado), A.R. and J.C.; writing—original draft preparation, C.M.L. and M.L.; writing—review and editing, C.M.L. and M.L.; visualization, M.L.; supervision, C.M.L., M.L. R.M. (Rui Medeiros) and F.C.; project administration, C.M.L. and M.L.; funding acquisition, C.M.L., M.L. and R.M. (Rui Medeiros). All authors have read and agreed to the published version of the manuscript.FundingThis research was funded by FCT/MCTES—Foundation for Science and Technology I.P. from the Minister of Science, Technology, and Higher Education (PIDDAC) and European Regional Development Fund (ERDF) by the COMPETE—Programa Operacional Factores de Competitividade (POFC) through the project CONCERT (POCI-01-0145-FEDER-032651 and PTDC/NAN-MAT/326512017) and the Strategic Funding UID/Multi/04546/2019, UIDP/04423/2020 (Group of Natural Products and Medicinal Chemistry CIIMAR), and “Contrato-Programa” UIDB/04469/2020 (CF-UM-UP) and UIDB/04050/2020 (CBMA), and UIDB/ 04469/2020 (CEB), as well as the Research Center of the Portuguese Oncology Institute of Porto (project no. PI86-CI-IPOP-66-2019), and BioTecNorte operation (NORTE-01-0145-FEDER- 000004) funded by the European Regional Development Fund under the scope of Norte 2020 - Programa Operacional Regional do Norte. Marlene Lúcio thanks FCT and ERDF for her doctoral position (CTTI-150/18-CF (1) within the scope of the CONCERT project. Raul Machado acknowledges FCT I.P. for funding within the Scientific Employment Stimulus project (CEECIND/00526/2018).Informed Consent StatementNot applicable.Data Availability StatementData sharing not applicable.Conflicts of InterestThe authors declare no conflict of interest. The funders had no role in the design of the study; in the collection, analyses, or interpretation of data; in the writing of the manuscript, or in the decision to publish the results.FootnotesPublisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.References1. Gharagozloo M., Majewski S., Foldvari M. Therapeutic applications of nanomedicine in autoimmune diseases: From immunosuppression to tolerance induction. Nanomed. Nanotechnol. Biol. Med. 2015;11:1003–1018. doi: 10.1016/j.nano.2014.12.003. [PubMed] [CrossRef] [Google Scholar]2. Schlaak J.F., Buslau M., Jochum W., Hermann E., Girndt M., Gallati H., zum Büschenfelde K.-H.M., Fleischer B. T cells involved in psoriasis vulgaris belong to the Th1 subset. J. Investig. Dermatol. 1994;102:145–149. doi: 10.1111/1523-1747.ep12371752. [PubMed] [CrossRef] [Google Scholar]3. Bruch-Gerharz D., Ruzicka T., Kolb-Bachofen V. Nitric oxide in human skin: Current status and future prospects. J. Investig. Dermatol. 1998;110:1–7. doi: 10.1046/j.1523-1747.1998.00084.x. [PubMed] [CrossRef] [Google Scholar]4. Fang F.C., Vazquez-Torres A. Nitric oxide production by human macrophages: There’s NO doubt about it. Am. J. Physiol. Lung Cell. Mol. Physiol. 2002;282:L941–L943. doi: 10.1152/ajplung.00017.2002. [PubMed] [CrossRef] [Google Scholar]5. Arasa J., Terencio M.C., Andrés R.M., Marín-Castejón A., Valcuende-Cavero F., Payá M., Montesinos M.C. Defective Induction of COX-2 Expression by Psoriatic Fibroblasts Promotes Pro-inflammatory Activation of Macrophages. Front. Immunol. 2019;10:536.  doi: 10.3389/fimmu.2019.00536. [PMC free article] [PubMed] [CrossRef] [Google Scholar]6. Tekin N.S., Ilter N., Sancak B., Ozden M.G., Gurer M.A. Nitric oxide levels in patients with psoriasis treated with methotrexate. Mediat. Inflamm. 2006;2006:016043.  doi: 10.1155/MI/2006/16043. [PMC free article] [PubMed] [CrossRef] [Google Scholar]7. Davies M.G., Fulton G.J., Hagen P.O. Clinical biology of nitric oxide. Br. J. Surg. 1995;82:1598–1610. doi: 10.1002/bjs.1800821206. [PubMed] [CrossRef] [Google Scholar]8. Clancy R.M., Amin A.R., Abramson S.B. The role of nitric oxide in inflammation and immunity. Arthritis Rheum. 1998;41:1141–1151. doi: 10.1002/1529-0131(199807)41:7<1141::AID-ART2>3.0.CO;2-S. [PubMed] [CrossRef] [Google Scholar]9. Tudor D.V., Bâldea I., Lupu M., Kacso T., Kutasi E., Hopârtean A., Stretea R., Filip A.G. COX-2 as a potential biomarker and therapeutic target in melanoma. Cancer Biol. Med. 2020;17:20–31. doi: 10.20892/j.issn.2095-3941.2019.0339. [PMC free article] [PubMed] [CrossRef] [Google Scholar]10. Goradel N.H., Najafi M., Salehi E., Farhood B., Mortezaee K. Cyclooxygenase-2 in cancer: A review. J. Cell. Physiol. 2019;234:5683–5699. doi: 10.1002/jcp.27411. [PubMed] [CrossRef] [Google Scholar]11. Postovit L.-M., Adams M.A., Lash G.E., Heaton J.P.W., Graham C.H. Nitric oxide-mediated regulation of hypoxia-induced B16F10 melanoma metastasis. Int. J. Cancer. 2004;108:47–53. doi: 10.1002/ijc.11556. [PubMed] [CrossRef] [Google Scholar]12. Yarlagadda K., Hassani J., Foote I.P., Markowitz J. The role of nitric oxide in melanoma. Biochim. Et Biophys. Acta Rev. Cancer. 2017;1868:500–509. doi: 10.1016/j.bbcan.2017.09.005. [PMC free article] [PubMed] [CrossRef] [Google Scholar]13. Tanese K., Grimm E.A., Ekmekcioglu S. The role of melanoma tumor-derived nitric oxide in the tumor inflammatory microenvironment: Its impact on the chemokine expression profile, including suppression of CXCL10. Int. J. Cancer. 2012;131:891–901. doi: 10.1002/ijc.26451. [PMC free article] [PubMed] [CrossRef] [Google Scholar]14. Simopoulos A.P. Omega-3 fatty acids in inflammation and autoimmune diseases. J. Am. Coll. Nutr. 2002;21:495–505. doi: 10.1080/07315724.2002.10719248. [PubMed] [CrossRef] [Google Scholar]15. Siriwardhana N., Kalupahana N.S., Moustaid-Moussa N. Health benefits of n-3 polyunsaturated fatty acids: Eicosapentaenoic acid and docosahexaenoic acid. Adv. Food Nutr. Res. 2012;65:211–222. doi: 10.1016/B978-0-12-416003-3.00013-5. [PubMed] [CrossRef] [Google Scholar]16. Fetterman J.W., Jr., Zdanowicz M.M. Therapeutic potential of n-3 polyunsaturated fatty acids in disease. AJHP Off. J. Am. Soc. Health Syst. Pharm. 2009;66:1169–1179. doi: 10.2146/ajhp080411. [PubMed] [CrossRef] [Google Scholar]17. Calder P.C. Mechanisms of action of (n-3) fatty acids. J. Nutr. 2012;142:592S–599S. doi: 10.3945/jn.111.155259. [PubMed] [CrossRef] [Google Scholar]18. Calder P.C. Omega 3 polyunsaturated fatty acids, inflammation and immunity. World Rev. Nutr. Diet. 2001;88:109–116. doi: 10.1159/000059774. [PubMed] [CrossRef] [Google Scholar]19. Balbás G.M., Regaña M.S., Millet P.U. Study on the use of omega-3 fatty acids as a therapeutic supplement in treatment of psoriasis. Clin. Cosmet. Investig. Dermatol. 2011;4:73–77. doi: 10.2147/CCID.S17220. [PMC free article] [PubMed] [CrossRef] [Google Scholar]20. De Brito Oliveira A.L., Monteiro V.V.S., Navegantes-Lima K.C., Reis J.F., De Souza Gomes R., Rodrigues D.V.S., de França Gaspar S.L., Monteiro M.C. Resveratrol Role in Autoimmune Disease-A Mini-Review. Nutrients. 2017;9:1036.  doi: 10.3390/nu9121306. [PMC free article] [PubMed] [CrossRef] [Google Scholar]21. Udenigwe C.C., Ramprasath V.R., Aluko R.E., Jones P.J. Potential of resveratrol in anticancer and anti-inflammatory therapy. Nutr. Rev. 2008;66:445–454. doi: 10.1111/j.1753-4887.2008.00076.x. [PubMed] [CrossRef] [Google Scholar]22. Rahman M., Beg S., Ahmad M.Z., Kazmi I., Ahmed A., Rahman Z., Ahmad F.J., Akhter S. Omega-3 fatty acids as pharmacotherapeutics in psoriasis: Current status and scope of nanomedicine in its effective delivery. Curr. Drug Targets. 2013;14:708–722. doi: 10.2174/1389450111314060011. [PubMed] [CrossRef] [Google Scholar]23. Serhan C.N., Chiang N., Van Dyke T.E. Resolving inflammation: Dual anti-inflammatory and pro-resolution lipid mediators. Nat. Rev. Immunol. 2008;8:349–361. doi: 10.1038/nri2294. [PMC free article] [PubMed] [CrossRef] [Google Scholar]24. Serhan C.N., Clish C.B., Brannon J., Colgan S.P., Chiang N., Gronert K. Novel functional sets of lipid-derived mediators with antiinflammatory actions generated from omega-3 fatty acids via cyclooxygenase 2-nonsteroidal antiinflammatory drugs and transcellular processing. J. Exp. Med. 2000;192:1197–1204. doi: 10.1084/jem.192.8.1197. [PMC free article] [PubMed] [CrossRef] [Google Scholar]25. Schwab J.M., Chiang N., Arita M., Serhan C.N. Resolvin E1 and protectin D1 activate inflammation-resolution programmes. Nature. 2007;447:869–874. doi: 10.1038/nature05877. [PMC free article] [PubMed] [CrossRef] [Google Scholar]26. Aldridge C., Razzak A., Babcock T.A., Helton W.S., Espat N.J. Lipopolysaccharide-stimulated RAW 264.7 macrophage inducible nitric oxide synthase and nitric oxide production is decreased by an omega-3 fatty acid lipid emulsion. J. Surg. Res. 2008;149:296–302. doi: 10.1016/j.jss.2007.12.758. [PMC free article] [PubMed] [CrossRef] [Google Scholar]27. Coleman J.W. Nitric oxide in immunity and inflammation. Int. Immunopharmacol. 2001;1:1397–1406. doi: 10.1016/S1567-5769(01)00086-8. [PubMed] [CrossRef] [Google Scholar]28. MacMicking J., Xie Q., Nathan C. Nitric oxide and macrophage function. Annu. Rev. Immunol. 1997;15:323–350. doi: 10.1146/annurev.immunol.15.1.323. [PubMed] [CrossRef] [Google Scholar]29. Tripathi P., Tripathi P., Kashyap L., Singh V. The role of nitric oxide in inflammatory reactions. FEMS Immunol. Med. Microbiol. 2007;51:443–452. doi: 10.1111/j.1574-695X.2007.00329.x. [PubMed] [CrossRef] [Google Scholar]30. Stojanović S., Sprinz H., Brede O. Efficiency and Mechanism of the Antioxidant Action of trans-Resveratrol and Its Analogues in the Radical Liposome Oxidation. Arch. Biochem. Biophys. 2001;391:79–89. doi: 10.1006/abbi.2001.2388. [PubMed] [CrossRef] [Google Scholar]31. Gugleva V., Zasheva S., Hristova M., Andonova V. Topical use of resveratrol: Technological aspects. Pharmacia. 2020;67:89–94. doi: 10.3897/pharmacia.67.e48472. [CrossRef] [Google Scholar]32. Malaguarnera L. Influence of Resveratrol on the Immune Response. Nutrients. 2019;11:946.  doi: 10.3390/nu11050946. [PMC free article] [PubMed] [CrossRef] [Google Scholar]33. Wen S., Zhang J., Yang B., Elias P.M., Man M.-Q. Role of Resveratrol in Regulating Cutaneous Functions. Evid. Based Complementary Altern. Med. 2020;2020:2416837.  doi: 10.1155/2020/2416837. [PMC free article] [PubMed] [CrossRef] [Google Scholar]34. Lee J.H., Kim J.S., Park S.Y., Lee Y.J. Resveratrol induces human keratinocyte damage via the activation of class III histone deacetylase, Sirt1. Oncol. Rep. 2016;35:524–529. doi: 10.3892/or.2015.4332. [PubMed] [CrossRef] [Google Scholar]35. Wu Z., Uchi H., Morino-Koga S., Shi W., Furue M. Resveratrol inhibition of human keratinocyte proliferation via SIRT1/ARNT/ERK dependent downregulation of aquaporin 3. J. Dermatol. Sci. 2014;75:16–23. doi: 10.1016/j.jdermsci.2014.03.004. [PubMed] [CrossRef] [Google Scholar]36. Shahid M.Z., Imran M., Khan M.K., Ahmad M.H., Nadeem M., Muhammad N., Yasmin A. OMEGA-3 Fatty Acids Retention, Oxidative Quality, and Sensoric Acceptability of Spray-Dried Flaxseed Oil. J. Food Qual. 2020;2020:7286034.  doi: 10.1155/2020/7286034. [CrossRef] [Google Scholar]37. Hu C., Wang Q., Ma C., Xia Q. Non-aqueous self-double-emulsifying drug delivery system: A new approach to enhance resveratrol solubility for effective transdermal delivery. Colloids Surf. A Physicochem. Eng. Asp. 2016;489:360–369. doi: 10.1016/j.colsurfa.2015.11.017. [CrossRef] [Google Scholar]38. Lopes C.M., Silva J., Real Oliveira M.E.C.D., Lúcio M.  Chapter 14—Lipid-based colloidal carriers for topical application of antiviral drugs. In: Grumezescu A.M., editor. Design of Nanostructures for Versatile Therapeutic Applications. William Andrew Publishing; Oxford, UK: 2018.  [CrossRef] [Google Scholar]39. Uchechi O., Ogbonna J., Attama A.  Nanoparticles for dermal and transdermal delivery. In: INTECH, editor. Application of Nanotechnology in Drug Delivery. IntechOpen; Rijeka, Croatia: 2014.  [Google Scholar]40. Zeichner J.A., Lebwohl M.G., Menter A., Bagel J., Del Rosso J.Q., Elewski B.E., Feldman S.R., Kircik L.H., Koo J., Gold L.S., et al. Optimizing topical therapies for treating psoriasis: A consensus conference. Cutis. 2010;86:5–31. [PubMed] [Google Scholar]41. Skibinski C.G., Das A., Chen K.M., Liao J., Manni A., Kester M., El-Bayoumy K. A novel biologically active acid stable liposomal formulation of docosahexaenoic acid in human breast cancer cell lines. Chem. Biol. Interact. 2016;252:1–8. doi: 10.1016/j.cbi.2016.03.035. [PubMed] [CrossRef] [Google Scholar]42. Joraholmen M.W., Skalko-Basnet N., Acharya G., Basnet P. Resveratrol-loaded liposomes for topical treatment of the vaginal inflammation and infections. Off. J. of Eur. Fed. Pharm. Sci. 2015;79:112–121. doi: 10.1016/j.ejps.2015.09.007. [PubMed] [CrossRef] [Google Scholar]43. Averina E.S., Muller R.H., Popov D.V., Radnaeva L.D. Physical and chemical stability of nanostructured lipid drug carriers (NLC) based on natural lipids from Baikal region (Siberia, Russia) Die Pharm. 2011;66:348–356. [PubMed] [Google Scholar]44. Gokce E.H., Korkmaz E., Dellera E., Sandri G., Bonferoni M.C., Ozer O. Resveratrol-loaded solid lipid nanoparticles versus nanostructured lipid carriers: Evaluation of antioxidant potential for dermal applications. Int. J. Nanomed. 2012;7:1841–1850. doi: 10.2147/IJN.S29710. [PMC free article] [PubMed] [CrossRef] [Google Scholar]45. Neves A.R., Lucio M., Martins S., Lima J.L., Reis S. Novel resveratrol nanodelivery systems based on lipid nanoparticles to enhance its oral bioavailability. Int. J. Nanomed. 2013;8:177–187. doi: 10.2147/IJN.S37840. [PMC free article] [PubMed] [CrossRef] [Google Scholar]46. Nunes C., Brezesinski G., Pereira-Leite C., Lima J.L.F.C., Reis S., Lúcio M. NSAIDs Interactions with Membranes: A Biophysical Approach. Langmuir. 2011;27:10847–10858. doi: 10.1021/la201600y. [PubMed] [CrossRef] [Google Scholar]47. Pereira-Leite C., Nunes C., Lima J.L.F.C., Reis S., Lúcio M. Interaction of Celecoxib with Membranes: The Role of Membrane Biophysics on its Therapeutic and Toxic Effects. J. Phys. Chem. B. 2012;116:13608–13617. doi: 10.1021/jp304037v. [PubMed] [CrossRef] [Google Scholar]48. Magalhães L.M., Nunes C., Lúcio M., Segundo M.A., Reis S., Lima J.L.F.C. High-throughput microplate assay for the determination of drug partition coefficients. Nat. Protoc. 2010;5:1823–1830. doi: 10.1038/nprot.2010.137. [PubMed] [CrossRef] [Google Scholar]49. Fernandes E., Soares T.B., Gonçalves H., Lúcio M. Spectroscopic Studies as a Toolbox for Biophysical and Chemical Characterization of Lipid-Based Nanotherapeutics. Front. Chem. 2018;6 doi: 10.3389/fchem.2018.00323. [PMC free article] [PubMed] [CrossRef] [Google Scholar]50. Kasongo W.A., Pardeike J., Müller R.H., Walker R.B. Selection and Characterization of Suitable Lipid Excipients for use in the Manufacture of Didanosine-Loaded Solid Lipid Nanoparticles and Nanostructured Lipid Carriers. J. Pharm. Sci. 2011;100:5185–5196. doi: 10.1002/jps.22711. [PubMed] [CrossRef] [Google Scholar]51. Mendes A.I., Silva A.C., Catita J.A.M., Cerqueira F., Gabriel C., Lopes C.M. Miconazole-loaded nanostructured lipid carriers (NLC) for local delivery to the oral mucosa: Improving antifungal activity. Colloids Surf. B Biointerfaces. 2013;111:755–763. doi: 10.1016/j.colsurfb.2013.05.041. [PubMed] [CrossRef] [Google Scholar]52. ISO  . ISO 22412:2008, Particle Size Analysis-Dynamic Light Scattering (DLS) ISO; Genevsa, Switzerland: 2008.  [Google Scholar]53. Hiemenz P.C., Rajagopalan R., editors. Principles of Colloid and Surface Chemistry, Revised and Expanded. 3rd ed. CRC Press; Boca Raton, FL, USA: 1997.  [Google Scholar]54. Barraza-Garza G., Castillo-Michel H., de la Rosa L.A., Martinez-Martinez A., Pérez-León J.A., Cotte M., Alvarez-Parrilla E. Infrared Spectroscopy as a Tool to Study the Antioxidant Activity of Polyphenolic Compounds in Isolated Rat Enterocytes. Oxidative Med. Cell. Longev. 2016;2016:9245150.  doi: 10.1155/2016/9245150. [PMC free article] [PubMed] [CrossRef] [Google Scholar]55. Michel N., Fabiano A.-S., Polidori A., Jack R., Pucci B. Determination of phase transition temperatures of lipids by light scattering. Chem. Phys. Lipids. 2006;139:11–19. doi: 10.1016/j.chemphyslip.2005.09.003. [PubMed] [CrossRef] [Google Scholar]56. Fluhr J.W., Elias P.M. Stratum corneum pH: Formation and Function of the ‘Acid Mantle’ Exog. Dermatol. 2002;1:163–175. doi: 10.1159/000066140. [CrossRef] [Google Scholar]57. Costa T., Ribeiro A., Machado R., Ribeiro C., Lanceros-Mendez S., Cavaco-Paulo A., Almeida A., das Neves J., Lúcio M., Viseu T. Polymeric Electrospun Fibrous Dressings for Topical Co-delivery of Acyclovir and Omega-3 Fatty Acids. Front. Bioeng. Biotechnol. 2019;7:390.  doi: 10.3389/fbioe.2019.00390. [PMC free article] [PubMed] [CrossRef] [Google Scholar]58. Mei Z., Chen H., Weng T., Yang Y., Yang X. Solid lipid nanoparticle and microemulsion for topical delivery of triptolide. Eur. J. Pharm. Biopharm. 2003;56:189–196. doi: 10.1016/S0939-6411(03)00067-5. [PubMed] [CrossRef] [Google Scholar]59. Wissing S., Lippacher A., Müller R. Investigations on the occlusive properties of solid lipid nanoparticles (SLN) J. Cosmet. Sci. 2001;52:313–324. [PubMed] [Google Scholar]60. Etxabide A., Vairo C., Santos-Vizcaino E., Guerrero P., Pedraz J.L., Igartua M., de la Caba K., Hernandez R.M. Ultra thin hydro-films based on lactose-crosslinked fish gelatin for wound healing applications. Int. J. Pharm. 2017;530:455–467. doi: 10.1016/j.ijpharm.2017.08.001. [PubMed] [CrossRef] [Google Scholar]61. Kalia Y.N., Alberti I., Sekkat N., Curdy C., Naik A., Guy R.H. Normalization of stratum corneum barrier function and transepidermal water loss in vivo. Pharm. Res. 2000;17:1148–1150. doi: 10.1023/A:1026474200575. [PubMed] [CrossRef] [Google Scholar]62. Kalia Y.N., Pirot F., Guy R.H. Homogeneous transport in a heterogeneous membrane: Water diffusion across human stratum corneum in vivo. Biophys. J. 1996;71:2692–2700. doi: 10.1016/S0006-3495(96)79460-2. [PMC free article] [PubMed] [CrossRef] [Google Scholar]63. Teixeira M., Cerqueira F., Barbosa C.M., Nascimento M.S.J., Pinto M. Improvement of the inhibitory effect of xanthones on NO production by encapsulation in PLGA nanocapsules. J. Drug Target. 2005;13:129–135. doi: 10.1080/10611860400027717. [PubMed] [CrossRef] [Google Scholar]64. Simoes A., Veiga F., Vitorino C., Figueiras A. A Tutorial for Developing a Topical Cream Formulation Based on the Quality by Design Approach. J. Pharm. Sci. 2018;107:2653–2662. doi: 10.1016/j.xphs.2018.06.010. [PubMed] [CrossRef] [Google Scholar]65. Hadgraft J. Skin deep. Eur. J. Pharm. Biopharm. 2004;58:291–299. doi: 10.1016/j.ejpb.2004.03.002. [PubMed] [CrossRef] [Google Scholar]66. López-Nicolás J.M., García-Carmona F. Aggregation State and pKa Values of (E)-Resveratrol As Determined by Fluorescence Spectroscopy and UV−Visible Absorption. J. Agric. Food Chem. 2008;56:7600–7605. doi: 10.1021/jf800843e. [PubMed] [CrossRef] [Google Scholar]67. Spogli R., Bastianini M., Ragonese F., Iannitti R.G., Monarca L., Bastioli F., Nakashidze I., Brecchia G., Menchetti L., Codini M., et al. Solid Dispersion of Resveratrol Supported on Magnesium DiHydroxide (Resv@MDH) Microparticles Improves Oral Bioavailability. Nutrients. 2018;10:1925.  doi: 10.3390/nu10121925. [PMC free article] [PubMed] [CrossRef] [Google Scholar]68. Avdeef A. Physicochemical profiling (solubility, permeability and charge state) Curr. Top. Med. Chem. 2001;1:277–351. doi: 10.2174/1568026013395100. [PubMed] [CrossRef] [Google Scholar]69. Kerns E.H. High throughput physicochemical profiling for drug discovery. J. Pharm. Sci. 2001;90:1838–1858. doi: 10.1002/jps.1134. [PubMed] [CrossRef] [Google Scholar]70. Rigon R.B., Fachinetti N., Severino P., Santana M.H.A., Chorilli M. Skin Delivery and in Vitro Biological Evaluation of Trans-Resveratrol-Loaded Solid Lipid Nanoparticles for Skin Disorder Therapies. Molecules. 2016;21:116.  doi: 10.3390/molecules21010116. [PMC free article] [PubMed] [CrossRef] [Google Scholar]71. Montenegro L., Parenti C., Turnaturi R., Pasquinucci L. Resveratrol-Loaded Lipid Nanocarriers: Correlation between In Vitro Occlusion Factor and In Vivo Skin Hydrating Effect. Pharmaceutics. 2017;9:58.  doi: 10.3390/pharmaceutics9040058. [PMC free article] [PubMed] [CrossRef] [Google Scholar]72. Shrotriya S.N., Ranpise N.S., Vidhate B.V. Skin targeting of resveratrol utilizing solid lipid nanoparticle-engrossed gel for chemically induced irritant contact dermatitis. Drug Deliv. Transl. Res. 2017;7:37–52. doi: 10.1007/s13346-016-0350-7. [PubMed] [CrossRef] [Google Scholar]73. Abbas H., Kamel R., El-Sayed N. Dermal anti-oxidant, anti-inflammatory and anti-aging effects of Compritol ATO-based Resveratrol colloidal carriers prepared using mixed surfactants. Int. J. Pharm. 2018;541:37–47. doi: 10.1016/j.ijpharm.2018.01.054. [PubMed] [CrossRef] [Google Scholar]74. Cosco D., Paolino D., Maiuolo J., Marzio L.D., Carafa M., Ventura C.A., Fresta M. Ultradeformable liposomes as multidrug carrier of resveratrol and 5-fluorouracil for their topical delivery. Int. J. Pharm. 2015;489:1–10. doi: 10.1016/j.ijpharm.2015.04.056. [PubMed] [CrossRef] [Google Scholar]75. Caddeo C., Teskač K., Sinico C., Kristl J. Effect of resveratrol incorporated in liposomes on proliferation and UV-B protection of cells. Int. J. Pharm. 2008;363:183–191. doi: 10.1016/j.ijpharm.2008.07.024. [PubMed] [CrossRef] [Google Scholar]76. Wu P.-S., Li Y.-S., Kuo Y.-C., Tsai S.-J.J., Lin C.-C. Preparation and Evaluation of Novel Transfersomes Combined with the Natural Antioxidant Resveratrol. Molecules. 2019;24:600.  doi: 10.3390/molecules24030600. [PMC free article] [PubMed] [CrossRef] [Google Scholar]77. Marta C., Vieri P., Bilia A.R., Bergonzi M.C. Evaluation of Skin Permeability of Resveratrol Loaded Liposomes and Nanostructured Lipid Carriers using a Skin Mimic Artificial Membrane (skin-PAMPA) Drug Deliv. Lett. 2019;9:134–145. doi: 10.2174/2210303109666190207152927. [CrossRef] [Google Scholar]78. Tsai M.-J., Lu I.J., Fu Y.-S., Fang Y.-P., Huang Y.-B., Wu P.-C. Nanocarriers enhance the transdermal bioavailability of resveratrol: In-vitro and in-vivo study. Colloids Surf. B Biointerfaces. 2016;148:650–656. doi: 10.1016/j.colsurfb.2016.09.045. [PubMed] [CrossRef] [Google Scholar]79. Lv X., Cong Z., Liu Z., Ma X., Xu M., Tian Y., Zhang X., Xu B., Zhang J., Tang Z. Improvement of the solubility, photostability, antioxidant activity and UVB photoprotection of trans-resveratrol by essential oil based microemulsions for topical application. J. Drug Deliv. Sci. Technol. 2018;48:346–354. doi: 10.1016/j.jddst.2018.10.017. [CrossRef] [Google Scholar]80. Scognamiglio I., De Stefano D., Campani V., Mayol L., Carnuccio R., Fabbrocini G., Ayala F., La Rotonda M.I., De Rosa G. Nanocarriers for topical administration of resveratrol: A comparative study. Int. J. Pharm. 2013;440:179–187. doi: 10.1016/j.ijpharm.2012.08.009. [PubMed] [CrossRef] [Google Scholar]81. Alaarg A., Jordan N.Y., Verhoef J.J., Metselaar J.M., Storm G., Kok R.J. Docosahexaenoic acid liposomes for targeting chronic inflammatory diseases and cancer: An in vitro assessment. Int. J. Nanomed. 2016;11:5027–5040. doi: 10.2147/IJN.S115995. [PMC free article] [PubMed] [CrossRef] [Google Scholar]82. Khan S., Ganguli M., Aditya A., Khan S., Baboota S., Ali J. Improved in vivo performance and immunomodulatory effect of novel Omega-3 fatty acid based Tacrolimus nanostructured lipid carrier. J. Drug Deliv. Sci. Technol. 2019;52:138–149. doi: 10.1016/j.jddst.2019.04.019. [CrossRef] [Google Scholar]83. Kobayashi H., Watanabe R., Choyke P.L. Improving conventional enhanced permeability and retention (EPR) effects; what is the appropriate target? Theranostics. 2013;4:81–89. doi: 10.7150/thno.7193. [PMC free article] [PubMed] [CrossRef] [Google Scholar]84. De Leeuw J., De Vijlder H.C., Bjerring P., Neumann H. Liposomes in dermatology today. J. Eur. Acad. Dermatol. Venereol. 2009;23:505–516. doi: 10.1111/j.1468-3083.2009.03100.x. [PubMed] [CrossRef] [Google Scholar]85. Benson H.A.E., Mohammed Y., Grice J.E., Roberts M.S.  Chapter 9—Formulation Effects on Topical Nanoparticle Penetration. In: Hamblin M.R., Avci P., Prow T.W., editors. Nanoscience in Dermatology. Academic Press; Boston, MA, USA: 2016.  [CrossRef] [Google Scholar]86. El Maghraby G.M.M., Williams A.C., Barry B.W. Interactions of surfactants (edge activators) and skin penetration enhancers with liposomes. Int. J. Pharm. 2004;276:143–161. doi: 10.1016/j.ijpharm.2004.02.024. [PubMed] [CrossRef] [Google Scholar]87. Jores K., Haberland A., Wartewig S., Mäder K., Mehnert W. Solid Lipid Nanoparticles (SLN) and Oil-Loaded SLN Studied by Spectrofluorometry and Raman Spectroscopy. Pharm. Res. 2005;22:1887–1897. doi: 10.1007/s11095-005-7148-5. [PubMed] [CrossRef] [Google Scholar]88. Dhiman N., Awasthi R., Sharma B., Kharkwal H., Kulkarni G.T. Lipid Nanoparticles as Carriers for Bioactive Delivery. Front. Chem. 2021;9:580118.  doi: 10.3389/fchem.2021.580118. [PMC free article] [PubMed] [CrossRef] [Google Scholar]89. Schmid M., Wölk C., Giselbrecht J., Chan K.L.A., Harvey R.D. A combined FTIR and DSC study on the bilayer-stabilising effect of electrostatic interactions in ion paired lipids. Colloids Surf. B Biointerfaces. 2018;169:298–304. doi: 10.1016/j.colsurfb.2018.05.031. [PubMed] [CrossRef] [Google Scholar]90. Neves A.R., Nunes C., Reis S. Resveratrol induces ordered domains formation in biomembranes: Implication for its pleiotropic action. Biochim. Et Biophys. Acta (BBA) Biomembr. 2016;1858:12–18. doi: 10.1016/j.bbamem.2015.10.005. [PubMed] [CrossRef] [Google Scholar]91. Salamanca C.H., Barrera-Ocampo A., Lasso J.C., Camacho N., Yarce C.J. Franz Diffusion Cell Approach for Pre-Formulation Characterisation of Ketoprofen Semi-Solid Dosage Forms. Pharmaceutics. 2018;10:148.  doi: 10.3390/pharmaceutics10030148. [PMC free article] [PubMed] [CrossRef] [Google Scholar]92. Potts R.O., Guy R.H. Predicting Skin Permeability. Pharm. Res. 1992;9:663–669. doi: 10.1023/A:1015810312465. [PubMed] [CrossRef] [Google Scholar]93. Zhai H., Maibach H.I. Effects of Skin Occlusion on Percutaneous Absorption: An Overview. Ski. Pharm. Physiol. 2001;14:1–10. doi: 10.1159/000056328. [PubMed] [CrossRef] [Google Scholar]94. Hafeez F., Maibach H. Occlusion effect on in vivo percutaneous penetration of chemicals in man and monkey: Partition coefficient effects. Ski. Pharm. Physiol. 2013;26:85–91. doi: 10.1159/000346273. [PubMed] [CrossRef] [Google Scholar]95. Wan T., Pan W., Long Y., Yu K., Liu S., Ruan W., Pan J., Qin M., Wu C., Xu Y. Effects of nanoparticles with hydrotropic nicotinamide on tacrolimus: Permeability through psoriatic skin and antipsoriatic and antiproliferative activities. Int. J. Nanomed. 2017;12:1485–1497. doi: 10.2147/IJN.S126210. [PMC free article] [PubMed] [CrossRef] [Google Scholar]96. Ogunsola O.A., Kraeling M.E., Zhong S., Pochan D.J., Bronaugh R.L., Raghavan S.R. Structural analysis of “flexible” liposome formulations: New insights into the skin-penetrating ability of soft nanostructures. Soft Matter. 2012;8:10226–10232. doi: 10.1039/c2sm26614h. [CrossRef] [Google Scholar]97. Lee C.H., Moturi V., Lee Y. Thixotropic property in pharmaceutical formulations. J. Control. Release. 2009;136:88–98. doi: 10.1016/j.jconrel.2009.02.013. [PubMed] [CrossRef] [Google Scholar]98. Ghica M.V., Hîrjău M., Lupuleasa D., Dinu-Pîrvu C.-E. Flow and Thixotropic Parameters for Rheological Characterization of Hydrogels. Molecules. 2016;21:786.  doi: 10.3390/molecules21060786. [PMC free article] [PubMed] [CrossRef] [Google Scholar]99. Neves A.R., Lucio M., Lima J.L.C., Reis S. Resveratrol in medicinal chemistry: A critical review of its pharmacokinetics, drug-delivery, and membrane interactions. Curr. Med. Chem. 2012;19:1663–1681. doi: 10.2174/092986712799945085. [PubMed] [CrossRef] [Google Scholar]Articles from Pharmaceutics are provided here courtesy of Multidisciplinary Digital Publishing Institute  (MDPI)
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (16M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

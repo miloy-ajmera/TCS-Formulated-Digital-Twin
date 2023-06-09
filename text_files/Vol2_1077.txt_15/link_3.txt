@@ -1,0 +1,714 @@
+Document Name: role of Generol 122E-10 in Eye Cream3
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7730924/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bergenia Genus: Traditional Uses, Phytochemistry and Pharmacology - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Molecules
+
+
+                    PMC7730924
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (3.6M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Molecules
+
+
+                    PMC7730924
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Molecules. 2020 Dec; 25(23): 5555. Published online 2020 Nov 26.  doi: 10.3390/molecules25235555PMCID: PMC7730924PMID: 33256153Bergenia Genus: Traditional Uses, Phytochemistry and PharmacologyBhupendra Koul,1,* Arvind Kumar,2 Dhananjay Yadav,3,* and  Jun-O. Jin3,4,*Bhupendra Koul1School of Bioengineering and Biosciences, Lovely Professional University, Phagwara 144411, IndiaFind articles by Bhupendra KoulArvind Kumar2Research Center for Chromatography and Mass Spectrometry, CROM-MASS, CIBIMOL-CENIVAM, Industrial University of Santander, Carrera 27, Calle 9, Edificio 45, Bucaramanga 680002, Colombia; moc.liamg@18remotdnivraFind articles by Arvind KumarDhananjay Yadav3Department of Medical Biotechnology, Yeungnam University, Gyeongsan 38541, KoreaFind articles by Dhananjay YadavJun-O. Jin3Department of Medical Biotechnology, Yeungnam University, Gyeongsan 38541, Korea4Research Institute of Cell Culture, Yeungnam University, Gyeongsan 38541, KoreaFind articles by Jun-O. JinRaffaele Pezzani, Academic Editor and  Sara Vitalini, Academic EditorAuthor information Article notes Copyright and License information Disclaimer1School of Bioengineering and Biosciences, Lovely Professional University, Phagwara 144411, India2Research Center for Chromatography and Mass Spectrometry, CROM-MASS, CIBIMOL-CENIVAM, Industrial University of Santander, Carrera 27, Calle 9, Edificio 45, Bucaramanga 680002, Colombia; moc.liamg@18remotdnivra3Department of Medical Biotechnology, Yeungnam University, Gyeongsan 38541, Korea4Research Institute of Cell Culture, Yeungnam University, Gyeongsan 38541, Korea*Correspondence: ni.oc.upl@37681.ardnepuhb (B.K.); moc.liamg@18461vadaynahd (D.Y.); rk.ca.uy@ojnij (J.-O.J.); Tel.: +91-9454320518 (B.K.); +82-1022021191 (D.Y.); +82-53-810-3033 (J.-O.J.); Fax: +82-53-810-4769 (J.-O.J.)Received 2020 Oct 23; Accepted 2020 Nov 14.Copyright © 2020 by the authors.Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).Associated DataSupplementary Materialsmolecules-25-05555-s001.pdf (1.4M)GUID: EFEF65CA-1C0A-4948-BF24-AC677E9BE16AAbstractBergenia (Saxifragaceae) genus is native to central Asia and encompasses 32 known species. Among these, nine are of pharmacological relevance. In the Indian system of traditional medicine (Ayurveda), “Pashanabheda” (stone breaker) is an elite drug formulation obtained from the rhizomes of B. ligulata. Bergenia species also possess several other biological activities like diuretic, antidiabetic, antitussive, insecticidal, anti-inflammatory, antipyretic, anti-bradykinin, antiviral, antibacterial, antimalarial, hepatoprotective, antiulcer, anticancer, antioxidant, antiobesity, and adaptogenic. This review provides explicit information on the traditional uses, phytochemistry, and pharmacological significance of the genus Bergenia. The extant literature concerned was systematically collected from various databases, weblinks, blogs, books, and theses to select 174 references for detailed analysis. To date, 152 chemical constituents have been identified and characterized from the genus Bergenia that belong to the chemical classes of polyphenols, phenolic-glycosides, lactones, quinones, sterols, tannins, terpenes, and others. B. crassifolia alone possesses 104 bioactive compounds. Meticulous pharmacological and phytochemical studies on Bergenia species and its conservation could yield more reliable compounds and products of pharmacological significance for better healthcare.Keywords: Bergenia species, botanical description, traditional uses, phytochemistry, pharmacology, anti-urolithiatic activity, bergenin1. IntroductionThe use of herbs for healing diseases and disorders can be dated back to at least 1500 BC [1]. The traditional system of medicine (TCM) is a source of >60% of the commercialized drugs and is still used by the population in lower income countries for the cure of chronic diseases [2]. As far as primary healthcare is concerned, approximately 75% of Indians rely on Ayurvedic formulations [3,4]. Many medicinal plants containing various phytochemicals have been successfully used to cure diabetes, cancers, gastrointestinal disorders, cardiovascular, and urological disorders [1].Among the urological disorders, “urolithiasis” is the third most common disorder with a high relapse rate [5,6,7,8]. The invasive treatments of urolithiasis are costly and precarious, so the search for natural anti-urolithiatic drugs is of immense importance [9,10].The Ayurvedic preparations have used Bergenia species down the centuries to dissolve bladder and kidney stones and to treat piles, abnormal leucorrhea, and pulmonary infections [11,12,13]. These pharmacological properties can be attributed to a wide-range polyphenols, flavonoids, and quinones present in Bergenia species. The polyphenols constitute a major share of the active ingredients, and the elite among them are ”arbutin” and “bergenin” [14,15,16,17,18,19]. Bergenin alone possesses burn-wound healing, antiulcer, anti-arrhythmic, antihepatotoxic, neuroprotective, antifungal, antidiabetic, antilithiatic, anti-inflammatory, anti-nociceptive, anti-HIV, and immunomodulatory properties [20,21,22]. Bergenia ligulata Wall. Engl. [synonym of B. pacumbis] is an essential ingredient of an Ayurvedic formulation, “Pashanbheda” (Paashan = rockstone, bheda = piercing), which is used as a kidney stone dissolver in the indigenous system of medicine [23,24]. This drug has been listed in ancient Indian chronicles of medicine including “Charak Samhita”, “Sushruta Samhita” and “Ashtang-Hridaya”. B. ligulata is reputedly known by other names such as “Pashana”, “Ashmabhid”, “Ashmabhed”, “Asmaribheda”, “Nagabhid”, “Parwatbhed”, “Upalbhedak”, and “Shilabhed” [25].The unavailability of a compendious review on bioactive molecules present in Bergenia genus prompted us to compile the same. The present review provides explicit knowledge on the traditional and medicinal importance and phytochemistry of the Bergenia species.2. Review MethodologyThe extant literature (abstracts, blogs, full-text articles, PhD theses, and books) on the Bergenia species was reviewed systematically to generate concise and resourceful information regarding their distribution, phytochemistry, traditional medicinal uses, and pharmacological activities. For this purpose, different bibliographic search engines and online databases (Google Scholar, WoS, PubMed, CAB abstracts, INMEDPLAN, Scopus, NATTS, EMBASE, SciFinder, MEDLINE) and websites (www.sciencedirect.com; eflora.org; jstor.org; pfaf.org) were referred, to select 174 references for detailed analysis. Each botanical name has been validated through www.theplantlist.org and https://www.catalogueoflife.org/ online repositories. ChemDraw software (version 12.0) was used to draw the structures of the chemical compounds.3. DistributionThe plant family Saxifragaceae encompasses 48 genera and 775 species, which are mostly distributed in South East Asia. The name “Bergenia” was coined by Conrad Moench in 1794, in the memory of Karl August von Bergen (German botanist and physician). Genus Bergenia harbors 32 species of flowering plants, including highly valued ornamental, rhizomatous, and temperate medicinal herbs [16]. Central Asia is the native place for genus Bergenia [26,27]. The geographical distribution of 32 species of genus Bergenia are detailed in Figure 1, which depicts the worldwide distribution through the map. In China, seven species are reported from three provinces and two autonomous regions: Shanxi, Sichuan, and Sanxi and Tibet and Xinjiang, respectively. Among the seven species, four (B. yunnanensis, B. scopulosa, B. emeiensis, and B. tianquanensis) are endemic to China [28,29,30].Open in a separate windowFigure 1A world map showing the geographical distribution of Bergenia species (in green).4. Botanical DescriptionBergenia(s) are evergreen, perennial, drought-resistant, herbaceous plants that bear pink flowers produced in a cyme. Due to the leaf shape and leathery texture, Bergenia(s) have earned some interesting nicknames such as “pigsqueak”, “elephant-ear”, “heartleaf”, “leather cabbage”, or “picnic plates”. The plants should be planted about two feet apart as they spread horizontally up to 45–60 cm. The botanical description of Bergenia species [31,32,33,34] is described in Supplementary Table S1.5. Traditional Medicinal UsesBergenia species have been used in the traditional medicines for a long time. In Unani and Ayurvedic systems of medicine, Bergenia spp. rhizomes and roots have been used for curing kidney and, bladder diseases, dysuria, heart diseases, lung and liver diseases, spleen enlargement, tumors, ulcers, piles, dysentery, menorrhagia, hydrophobia, biliousness, eyesores, cough, and fever [35,36,37]. The burns or wounds may be treated with rhizome paste for three to four days [38,39,40]. The paste can be applied on dislocated bones after setting, or consumed to treat diarrhea or along with honey in fevers [41,42].The leaf extract of B. ciliata possesses antimalarial property [43]. Its leaves are revered to as “Pashanabheda”, which designates the litholytic property [44]. In Nepal, 1:1 mixture (one teaspoon) of the dried B. ciliata rhizome-juice and honey is administered to post-partum women 2–3 times a day as a tonic and remedy for digestive disorders (carminative) [38]. The rhizome-decoction may also be consumed orally as antipyretic and antihelmintic [45].Since ancient times, consumption of water-extract of B. ligulata has cured urogenital and kidney-stone complaints [23,35,46,47]. In Nepal, the rhizome paste of B. ligulata is consumed for treating many diseases including diarrhea, ulcer, dysuria, spleen enlargement, pulmonary infusion, cold, cough, and fever [45]. The intestinal worms can also be removed by consuming rhizomes along with molasses (two times/day, 3–4 days) [38]. The Indians use the dried roots of B. ligulata for treating burns, boils, wounds, and ophthalmia [46,48]. The dried leaf powder of B. pacumbis may be inhaled to bring relief from heavy sneezing [49]. In Lahul (Punjab), the locals use B. stratecheyi plants to prepare a poultice, which is applied to heal the joint-stiffness [50]. Bergenia species are also used for the treatment of boils and even blisters [19].In Russian tradition, B. crassifolia leaves are commonly used to prepare a health drink. Buryats and Mongols used B. crassifolia-young leaves of to prepare tea. Interestingly, in Altai, tea is prepared from old blackened leaves (chagirsky tea having lesser amounts of tannins) [51]. The rhizome infusions can treat fevers, cold, headache, gastritis, dysentery, and enterocolitis [52]. They are also used to treat oral diseases (bleeding gums, periodontitis, gingivitis, and stomatitis) and also possess adaptogenic properties [51,53,54,55]. Mongols used the extracts for treating typhoid, gastro-intestinal ailments, diarrhoea, and lung inflammation. The rhizome extract is also used to strengthen capillary walls to stop bleeding after abortions, alleviate excessive menstruation, and cervical erosion. Therefore, the roots and rhizomes of B. crassifolia are claimed as antimicrobial, anti-inflammatory, haemostatic, and as astringent in the officinal medicine of Mongolia [54].Tibetans apply fresh leaf-paste on their skin to protect them from harmful ultraviolet radiations [56]. The chewing of leaf helps in relieving constipation and the leaf-juice can treat earaches [11,38,42]. The bullocks and cows are fed on a mixture of Bergenia inflorescence and barley-flour to treat hematuria [38]. Bergenia roots are also effective in preventing venereal diseases [57]. Thick leaves of Bergenias are used in Chinese Medicine to stop bleeding, treat cough, dizziness, hemoptysis, and asthma, and to strengthen immunity [27,58].6. PhytochemistryNowadays, HPLC and HPTLC have become routine analytical techniques due to their reliability in quantitation of analytes at the micro or even nanogram levels plus the cost effectiveness. Phytochemical investigation of nine Bergenia species (B. ciliata, B. crassifolia, B. emeiensis, B. ligulata, B. scopulosa, B. stracheyi, B. hissarica, B. purpurascens, and B. tianquanesis) led to the characterization of several chemical constituents [16,59,60,61,62,63]. The review of the extant literature reveals the presence of 152 chemical compounds (volatile: 47 and non-volatile: 105) (Table 1) as shown in Supplementary Figure S1. The constituents have been categorized into polyphenols, flavonoids, quinones, sterols, terpenes, tannins, lactones, and others [16,26,64,65,66,67]. The major bioactive compounds are bergenin (1), (+)-catechin (2), gallic acid (3), β-sitosterol (4), catechin-7-O-β-d-glucoside (5), (+)-afzelechin (6), arbutin (10), 4-O-galloylbergenin (12), 11-O-galloylbergenin (13), caffeoylquinic acid (21), pashaanolactone (26), 3,11-di-O-galloylbergenin (64), bergapten (66), kaempferol-3-O-rutinoside (70), quercetin-3-O-rutinoside (79), (+)-catechin-3-O-gallate (83), 2-O-caffeoylarbutin (86), leucocyanidin (124), methyl gallate (gallicin) (125), sitoinoside I (126), β-sitosterol-d-glucoside (127), avicularin (128), reynoutrin (129), procyanidin B1 (135), afzelin (140), and aloe-emodin (146).Table 1Bioactive compounds and medicinal properties of different Bergenia species.Bergenia SpeciesDistributionMedicinal PropertyPart UsedChemical Constituents(Structure Number)Reference(s)Bergenia ciliata (Haw.) Sternb.Open in a separate windowCentral Asia, Afghanistan to China, Himalayan region.Altitude range (1800–3000 m)Analgesic, Antiarrhythmic, Antiwrinkle, Antiasthma, Antibacterial, Anticancer, Antidiabetic, Antidiarrheal, Antidotary, Antiepileptic, Antiflatulent, Antifungal, Anti-haemorrhoidal, Antiviral, Anti-inflammatory, Antilithiatic, Antimalaria; Antimenorrhagic, Antiobesity, Antiophthalmia, Antioxidant, Antipyretic, Antispasmodic, Antiulcer, Burn wound healing, Deobstruent, Cerebroprotective, Diuretic, Ecbolic, Emmenagogue, Expectorant, Hepatoprotective, Immunomodulatory, Pulmonary affectionWhole plantBergenin (1) aCatechin (2) aGallic acid (3) aβ-Sitosterol (4) dCatechin-7-O-glucoside (5) aAfzelechin (6) aQuercetin-3-O-β-d-xylopyranoside (7) aQuercetin-3-O-α-l-arbinofuranoxide (8) aEryodictiol-7-O-β-d-glucopyranoside (9) aArbutin (10) c6-O-p-Hydroxybenzoyl arbutin (11) a4-O-Galloylbergenin (12) a11-O-Galloylbergenin (13) ap-Hydroxybenzoic acid (14) fProtocatechuic acid (15) a6-O-Protocatechuoyl arbutin (16) a11-O-p-Hydroxybenzoyl bergenin (17) a11-O-Protocatechuoyl bergenin (18) a6-O-p-Hydroxybenzoyl parasorboside (19) a[11,16,31,43,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91]Bergenia crassifolia (L.) Fritsch [Synonym: Bergenia cordifolia (Haw.) Sternb.]Open in a separate windowNorth Eastern Asia. Altitude range (200–2000 m)Antihypertensive, Anti-inflammatory, Antilithiatic, Antiobesity, Antioxidant, Antipyretic, Cerebroprotective, Diuretic, Hepatoprotective, ImmunomodulatoryWhole plantEllagitannins (20) aGallic acid (3) aArbutin (10) cBergenin (1) aCaffeoylquinic acid (21) cMonogalloylquinic acid (22) c2,4,6-Tri-O-galloyl-β-d-glucose (23) aPedunculagin (24) aTellimagrandin I (25) aCatechin-7-O-β-d-glucoside (5) aPaashanolactone (26) bCatechin (2) aβ-Sitosterol (4) b2,4-Heptadienal (27) fBenzaldehyde (28) fBenzeneacetaldehyde (29) fDecadienal (30) fDecanal (31) fDimethylcyclohexene acetaldehyde (32) f(E)-2-Decenal (33) f(E)-2-Nonenal (34) fNonanal (35) fp-Menthenal (36) f(E)-β-Damascenone (37) e(E)-β-Damascone (38) e3-Thujen-2-one (39) eCaryophyllene (40) eCedranol (41) e(E)-2-Decenol (42) eFarnesol (43) eFarnesyl acetone (44) eGeraniol (45) eGeranyl acetone (46) eHexahydrofarnesyl acetone (47) eIonone (48) eLinalool (49) em-Mymene (50) eNerolidol (51) ePhytol (52) ep-Menth-1-en-4-ol (53) ePrenol (54) eThymol (55) eα-Bisabolol (56) eα-Bisabololoxide B (57) eα-Cadinol (58) eα-Terpineol (59) eβ-Elemene (60) eβ-Eudesmol (61) eδ-Cadinene (62) e11-O-(p-Hydroxybezoyl)bergenin (63) a3,11-Di-O-galloylbergenin (64) a4,11-Di-O-galloylbergenin (65) aBergapten (66) aKaempferol-3-O-xylosylgalactoside (67) aKaempferol-3-O-xylosylglucoside (68) aKaempferol-3-O-arabinoside (69) aKaempferol-3-O-rutinoside (70) aNorathyriol (71) aNorbergenin (72) aQuercetin-3-O-xylosylgalactoside (73) aQuercetin-3-O-xylosylglucoside (74) aQuercetin-3-O-arabinoside (75) aQuercetin-3-O-galactoside (76) aQuercetin-3-O-glucoside (77) aQuercetin-3-O-rhamnoside (78) aQuercetin-3-O-rutinoside (79) aQuercetin-3-O-xyloside (80) aTrihydroxycoumarin (81) a(+)-Catechin-3,5-di-O-gallate (82) a(+)-Catechin-3-O-gallate (83) a1,2,4,6-Tetra-O-galloy-β-d-glucopyranose (84) a1-O-Galloylglucose (85) a2-O-Caffeoylarbutin (86) a6-O-Galloylarbutin (87) aEllagic acid (88) aHydroquinone (89) ap-Galloyloxyphenyl-β-d-glucoside (90) aPyrogallol (91) aAcetylsalicylic acid (92) fFumaric acid (93) fFurancarboxylic acid (94) fProtocatechuic acid (15) fMalic acid (95) fQuinic acid (96) f4-Methoxystyrene (97) f9,12-Octadecadienoic acid (98) f9-Octadecenoic acid (99) fDecanoic acid (100) fDodecanoic acid (101) fHexadecanoic acid (102) fn-Cetyl alcohol (103) fn-Eicosanol (104) fn-Hentriacontane (105) fn-Heptacosane (106) fn-Nonacosane (107) fNonanoic acid (108) fn-pentacosane (109) fPentadecanoic acid (110) fRhododendrin (111) fStearic acid (112) fTetradecanoic acid (113) fTetramethyl hexadecenol (114) fTrimethyl dihydronaphthalene (115) fTrimethyl-3-methylene hexadecatetraene (116) f[14,28,31,64,79,85,92,93,94,95,96,97,98,99,100,101,102,103,104]Bergenia emeiensis C.Y. Wu ex J.T. Pan.Open in a separate windowChina. Altitude range (1600–4200 m)Antiwrinkle, Anti-inflammatory, Antiobesity, AntioxidantWhole plantBergenin (1) aTannic acid (117) aArbutin (10) c[31,65,85,105]Bergenia ligulata Wall. Engl. [Accepted name: Bergenia pacumbis (Buch.-Ham. Ex D. Don.) C.Y. Wu & J.T. Pan]Open in a separate windowTemperate Himalayas. Altitude range (2134–3048 m)Analgesic, Antiarrhythmic, Anticancer, Antidiabetic, Antifungal, Anti-haemorrhoidal, Antiviral, Anti-inflammatory, Antilithiatic, Antiprotozoal, Antipyretic, Antiscorbutic, Antispasmodic, Antitumor, Antiulcer, Astringent, burn wound healing, Cerebroprotective, Diuretic, Expectorant, Hepatoprotective, ImmunomodulatoryRoot, RhizomeBergenin (1) aGallic acid (3) aTannic acid (117) aArbutin (10) cCatechin (2) aβ-Sitosterol (4) bStigmasterol (118) dAfzelechin (6) a1,8-Cineole (119) e
+Isovaleric acid (120) f(+)-(6S)-Parasorbic acid (121) bTerpinen-4-ol (122) e(Z)-asarone (123) fLeucocyanidin (124) a
+Methyl gallate (125) a
+Sitoinoside I (126) d
+β-Sitosterol-d-glucoside (127) dAvicularin (128) aEriodictyol-7-O-β-d-glucopyranoside (9) aReynoutrin (129) a
+11-O-Galloylbergenin (13) aPashaanolactone (26) bCatechin-7-O-glucoside (5) aCoumarin (130) b11-O-p-Hydroxybenzoyl bergenin (17) a11-O-Protocatechuoyl bergenin (18) a4-O-Galloylbergenin (12) a6-O-p-Hydroxybenzoyl arbutin (11) aHexan-5-olide (131) bQuercetin (132) aβ-Sitosterol-d-glucoside (127) d[3,16,23,24,26,37,61,73,78,83,85,86,87,88,90,95,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127]Bergenia purpurascens (Hook.f. & Thomson) Engl.Open in a separate windowEastern Himalayas. Altitude range (2800–4800 m)Antibacterial, Anti-inflammatory, Antilithiatic, AntipyreticRhizomeCatechin (2) aGallic acid (3) aBergenin (1) a
+Arbutin (10) c1,2,3,4,6-Penta-O-galloyl-β-d-glucose (133) a4,6-Di-O-galloyl-β-d-glucose (134) a6-O-Galloylarbutin (87) a
+11-O-Galloylbergenin (13) a4-O-Galloylbergenin (12) a2,3,4,6-Tetra-O-galloyl-β-d-glucose (84) aProcyanidin B1 (135) a2,4,6-Tri-O-galloyl-β-d-glucose (23) a
+Procyanidin B3 (136) a[31,44,56,62,85,95,100,128,129,130,131,132,133]Bergenia scopulosa (T.P. Wang)Open in a separate windowChina. Altitude range (2400–3600 m)Anti-hypertensive, Anti-inflammatory, Antiobesity, Antioxidant, Antitussive, Cerebroprotective, Diuretic, Hepatoprotective, ImmunomodulatoryLeaf, Root, RhizomeBergenin (1) aArbutin (10) cCatechin (2) aβ-Sitosterol (4) d6-O-Galloylarbutin (87) aCatechin-7-O-β-d-glucopyranoside (5) aPhenylalanine (137) fSuccinic acid (138) fProtocatechuic acid (15) aGallic acid (3) aMethyl gallate (125) aQuercetin (133) aHyperoside (139) aQuercetin-3-O-rutinoside (79) a
+Afzelin (140) aChrysophanol-8-O-β-d-glucopyranoside (141) c11-O-Galloylbergenin (13) a[31,59,66,67,85,134,135,136,137,138] Bergenia stracheyi (Hook. f. & Thomas) Engl.Open in a separate windowAfghanistan,Pakistan, Nepal. Altitude range (3000–4600 m)Antifungal, Anti-haemorrhoidal, Anti-inflammatory, Antilithiatic, Antiobesity, Antioxidant, Poultice to treat the stiff jointsRhizomeBergenin (1) a(+)-Catechin-3-O-gallate (83) aGallic acid (3) aTannic acid (117) aPhytol (142) eCaryophyllene (40) eDamascenone (143) fβ-Eudesmol (144) e3-Methyl-2-buten-1-ol (145) e[13,83,85,86,88,90,116,139,140,141]Bergenia hissarica (A. Boriss.)Open in a separate windowCentral Asia, Uzbekistan, Hissar.Altitude range (1200–1600 m)Stimulantlaxative, Neuroprotective, AntioxidantRoot, RhizomeAloe emodin (146) cAloeemodin-8-O-β-d-glucoside (147) cChrysophanein (148) c
+Emodin-1-O-β-d-glucoside (149) cPhyseion (150) d[142,143]Bergenia tianquanesis (J.T. Pan)Open in a separate windowChina.Altitude range (2200–3400 m)Not reported[29,32]Open in a separate windowa Polyphenols; b Lactones; c Quinones; d Sterols; e Terpenes; f Others. Number beside each bioactive compound represents the structure number as shown in Supplementary Figure S1.Arbutin (10) inhibits tyrosinase, prevents the formation of melanin and thus prevents skin darkening [68]. Bergenin (1) is a pharmaceutically important molecule that has hepatoprotective and immunomodulatory potential [69]. It is used clinically for eliminating phlegm, relieving cough, inflammation, etc. [20,70,71]. (+)-catechin (2) possesses antioxidant, glucosidase, renoprotective, matrix-metalloproteinase inhibitory, and cancer preventive activity. Gallicin (125) exhibits antioxidant, anti-tumor, antimicrobial, anti-inflammatory, and cyclooxygenase-2/5-lipoxygenase inhibitory activity [72]. Gallic acid (3) possesses anti-inflammatory, antioxidant, cytotoxic, bactericidal, gastroprotective, and antiangiogenic activity. β-sitosterol (4) is well-known for its antioxidant, anti-inflammatory, analgesic, and anti-helminthic effects. It is also efficient in the curing prostate enlargement [73].Recently, bergenicin (151) and bergelin (152) have been isolated from leaves of B. himalaica Boriss [71]. The chemistry of B. tianquanesis plant has not been reported to date. Although several bioactive compounds have been isolated and characterized from Bergenia species, there is still scope for extended research on their efficacy and versatility.7. Pharmacological ActivitiesThe pharmaceutical importance of Bergenia species has been known since ancient times. Therefore, numerous biopharmaceutical products encompassing leaf or stem extracts are available in the markets and are being used to cure specific ailments (Figure 2).Open in a separate windowFigure 2Pharmacological significance of Bergenia species.7.1. Antilithiatic ActivityThe major contribution of B. ligulata towards pharmaceutical applications is that of an antilithiatic agent. Lower dose (0.5 mg/kg) of the EtOH extract of B. ligulata rhizome encourages diuresis in rats and is effective in dissolving preformed stones [144]. The MeOH extracts of the rhizome also possess an antilitihiatic property that has been tested both in vitro and in vivo. In male Wistar rats, 5–10 mg/kg of the extract inhibited calcium oxalate crystal (CaC2O4•x) aggregation in the renal tubes. There are several other reports that state that Bergenia extracts exerts its antilithiactic effect by diuresis, inhibition of CaC2O4•x crystal formation and aggregation, and hypermagnesemic and antioxidant activity [106,145,146].7.2. Diuretic ActivityBergenia species are also known to possess diuretic properties. The EtOH extracts of B. ligulata roots were tested for their diuretic activity in rats. The Na+, K+, and Cl− ion concentrations and the volume of urine excreted was measured after an interval of 5 h. It was observed that the EtOH extract showed significant diuretic activity [107]. Bergenia crassifolia (L.) Fritsch. leaf extract contains 15–20% arbutin, which has the potential to treat genitourinary diseases. In a 14 day experiment, the rats were injected with arbutin (10) and hydroquinone (89), 5 mg/kg (seven days) and 15 mg/kg (seven days). During the experiment, the arbutin (10) treatment increased the urine output (diuresis) along with creatinine and potassium, while hydroquinone (89) did not [147].7.3. Antidiabetic ActivityAfter rigorus researches on animal models, it has now been proved that B. ciliata, B. ligulata, and B. himalaica possess an antidiabetic property [71]. The EtOH extracts of B. ligulata roots exhibit a remarkable hypoglycaemic effect in diabetic rats [108]. Saijyo et al., (2008) isolated the antidiabetic principle (α-glucosidase inhibitor) from B. ligulata rhizome extract by column chromatography, which was characterized as (+)-afzelechin (6), by NMR technique [61]. The antidiabetic property of B. ligulata can be useful in developing nutraceuticals (value-added food products) for diabetics [61,71,108].7.4. Antitussive ActivityBergenia species possesses the potential antitussive property. Different concentrations of arbutin (10) were administered to cough-induced mice, and it was observed that a dose of 200 mg/kg had the similar effect as that of 30 mg/kg antitussive drug codeine phosphate [138].7.5. Insecticidal ActivityIt has been recently discovered that B. ligulata exhibit an insecticidal property. The volatile oil from roots of B. ligulata containing 1,8-cineole (119) [4.24%], (+)-(6S)-isovaleric acid (120) [6.25%], (+)-(6S)-parasorbic acid (121) [47.45%], terpinen-4-ol (122) [2.96%], and (Z)-asarone (123) [3.50%] was tested for its insecticidal activity against Drosophila melanogaster, which was found to be significant [109]. Thus, volatile oil from Bergenia species or its specific component could be deployed as a natural insecticidal agent [24,109].7.6. Anti-Inflammatory ActivityBergenia species do have anti-inflammatory potential. The aqueous and EtOH (50%) extract of the rhizomes were introduced to animal model (rats) to demonstrate the anti-inflammatory activity. The succinate dehydrogenase (SDH) activity level (represented higher in inflammation) reduced in the rats that received the therapy. The attenuation of inflammatory response was confirmed through pharmacological and biochemical measurements [148]. Different concentrations of the MeOH extract of B. ciliata rhizomes have also been tested on a rat model with 100 mg/kg phenylbutazone (an anti-inflammatory agent) as a standard. Maximum inhibition of the inflammatory response was recorded at a dose of 300 mg/kg [74]. In a study by Churin et al. (2005), the dry extract of B. crassifolia leaves was administered to DBA/2 mice to study the effect on immune response. The extract declined the inflammatory process by preventing T-lymphocyte accumulation and cytokine production in the inflammatory region [149].In another study, the delayed type hypersensitivity reaction was significantly elevated in mice administered with 100 μg/mL of bergenan BC (pectic polysaccharide) extracted from B. crassifolia leaves. It enhanced the uptake volume of neutrophils and mediated oxygen radicals’ production by mouse peritoneal macrophages [150]. In mice model (balb/c mice), the increasing dose of bergenin (1) extracted from the rhizomes of B. stracheyi exhibited anti-arthritic property in a dose-dependent manner up to a dose of 40 mg/kg, while a higher dose of 80 mg/kg caused a reduction in the same [151]. These studies along with several others explain the anti-inflammatory activity of Bergenia species [92,110,151].7.7. Antipyretic ActivityB. ligulata possess a significant antipyretic property. In a study by Singh et al. (2009b), the EtOH (95%) and aqueous extract of B. ligulata prepared in 2% gum acacia was administered to Wistar rats (300 and 500 mg/kg body weight) having pyrexia [107]. The antipyretic activity was observed using 200 mg/kg paracetamol (standard antipyretic drug) as positive control. The rectal temperature of the rats was documented after the 1 h time interval. A significant lowering in the body temperature was observed with EtOH extract (500 mg/kg). This study along with others justify that B. ligulata possesses significant antipyretic potential [111].7.8. Anti-Bradykinin ActivityThe anti-bradykinin activity of B. crassifolia leaf extract (per oral dose/treatment: 50 mg/kg for 14 days) has been studied in spontaneously hypertensive (SHR) rats. The reduction in the systolic blood pressure was observed after 3–6 h (by 20–25 mmHg), while a lowering of diastolic blood pressure with similar values was observed after 1 h of treatment [112,152]. The angiotensin-I-converting enzyme converts the hormone angiotensin I to the active form (vasoconstrictor: angiotensin II) and thus indirectly elevates the blood pressure by causing the blood vessels to constrict. The EtOH (70%) extract of B. crassifolia rhizomes significantly inhibits the angiotensin-I-converting enzyme (IC50 = 0.128 mg/mL), in vitro, and thus exhibits anti-bradykinin activity [153].7.9. Antiviral ActivityThe MeOH-water extract from rhizomes of B. ligulata have been reported to impede the in vitro replication of influenza A virus. Pre-treatment of cells with B. ligulata extract was effective in the preventing virus-mediated cell-destruction by repressing viral RNA and protein synthesis. The aqueous extract of B. crassifolia leaf supplemented with lectins reduced the virus-induced (HSV strain L2) cytopathogenic effect up to 95% [55]. The bioactive compound 1,2,3,4,6-penta-O-galloyl-β-d-glucose (133) present in the EtOH extract of Saxifraga melanocentra Franch. has been tested for its antiviral activity against HCV NS3 serine protease, through ELISA. The IC50 values of penta- (133), tetra- (84) and 2,4,6-tri-galloyl-β-d-glucose (23), were estimated to be 0.68–1.01 μM and exhibited 98.7–94.7% inhibition [113,128]. 1,2,3,4,6-penta-O-galloyl-β-d-glucose and its derivatives are also reported in Bergenia species. Thus, the aforementioned results support the antiviral potential in Bergenia species also.7.10. Antibacterial ActivityAlmost all of the aforementioned nine Bergenia species possess antibacterial activity. In a study by Sajad et al. (2010), the antibacterial activity of B. ligulata whole plant extract was analyzed based on the diffusion method. Different concentrations (10, 25, or 50 mg/mL) of the aqueous, EtOH and MeOH extracts of B. ligulata rhizomes exhibited antibacterial activity against E. coli, B. subtilis, and S. Aureus [110]. The extract concentration of 50 mg/mL was found to be most effective and was similar to that of the ciprofloxacin-antibiotic (25 µg/mL). These results show that B. ligulata possess significant antibacterial activity [110]. It is reported for B. ciliata that compared to leaf extracts, the root and rhizome extracts exhibit much higher antibacterial activity. The MeOH rhizome extracts of B. scopulosa were tested on eight different bacteria(s) using the agar-well diffusion assay method. It was concluded from the bacterial susceptibility test that both Gram-ve and +ve bacteria are susceptible as evident from the zone of inhibition that ranged from 13 to 15 mm. However, E. coli, P. aeruginosa, K. pneumoniae, and S. aureus were found to be vulnerable, as they were considerably inhibited at a concentration of 12.5 mg/mL [129]. In a similar study, the B. scopulosa MeOH extract was tested for its inhibitory effect on S. aureus, P. aeruginosa, and E. coli, through zone-inhibition assay. It was interesting to note that the inhibitory impact on S. aureus was stronger than that on P. aeruginosa and E. coli [134].7.11. Antimalarial ActivityMalaria is a notorious disease and one of the main causes of high morbidity and mortality in many tropical and subtropical areas. The ethnopharmacological relevance of the Bergenia species for treating fever has been time-tested. EtOH leaf extracts B. ciliata (ELEBC) has been tested for its antiplasmodial (Plasmodium berghei) activity using a rodent-malaria model, along with chloroquine (10 μM) as a positive control. The IC50 of ELEBC was found to be less than 10 μg/mL. Thus, both the in vitro and in vivo experiments have confirmed the antimalarial activity of ELEBC [43].7.12. Hepatoprotective ActivityBergenia species do possess hepatoprotective potential. In a study, the EtOH root-extract of B. ligulata was evaluated for its hepatoprotective activity in CCl4 treated (toxicant) albino rats. The estimation of hepatoprotective activity was confirmed by measuring the decline in the elevated levels of serum marker-enzymes such as SGPT, SGOT, ALP, and total bilirubin levels [107]. In another study conducted by Mansoor et al. (2015), the B. ligulata leaf extract (dose of 500 mg/kg) fully restored the carbon tetrachloride (potent hepatotoxicant)-induced variations in carbon tetrachloride intoxicated rats [154]. Moreover, the histopathological examination of the liver tissue further confirmed the hepatoprotective effect [154]. B. crassifolia dry extract has also been reported to exhibit hepatoprotective property in rats intoxicated with 4-pentenoic acid, thus confirming its hepatoprotective potential [155].7.13. Antiulcer ActivityIn some areas of South East Asia, B. ciliata has been used in the treatment of stomach disorders as a folkloric medicine. An experiment was performed to assess the gastro-protective activity of B. ciliata extracts on stomach ulcer-induced rats. Different doses (15, 30, and 60 mg/kg) of the aqueous and MeOH rhizome extracts were administered 1 h after the ulcerogenic treatment. Among the two treatments, the aqueous extract reduced the stomach-ulcer lesions to a better degree. It was concluded that the rhizome extract exhibited its cytoprotective effect (anti-ulcer activity) by facilitating the improvement of gastric mucosal barrier [75].7.14. Anticancer ActivityBergenia ciliata rhizome extracts (MeOH and aqueous) were tested for their cytotoxicity on human breast, liver, and prostate cancer cell-lines by XTT assay, respectively. Both the extracts exhibited concentration-dependent toxicity in each of three cell lines [156]. The IC50 value of both extracts fell within the acceptable range in all cell-lines (except Hep 3B cell-lines). Thus, Bergenias possess potential antineoplastic activity that may have probable clinical use as preventive medicine [76,77].7.15. Antioxidant ActivityUndoubtedly, Bergenia species are an excellent source of antioxidants. B. ciliata MeOH leaf extract has been reported to be a potent free-radical scavenger (EC50 of 36.24 μg/mL), as confirmed through DPPH assay [78,157]. B. ligulata also possess considerable antioxidant activity, as confirmed by DPPH assay (IC50 value: 50 µg/mL) [93]. Ivanov et al. (2011) reported that the antioxidant properties of B. crassifolia is due to the presence of two compounds, (+)-catechin-3,5-di-O-gallate (82) and (+)-catechin-3-O-gallate (83). They were isolated from its aqueous EtOH leaf extract and exhibited strong antioxidant properties, as determined by DPPH assay, with SC50 = 1.04 and 1.33 g/mL, respectively [72].Shilova et al. (2006) performed a study using green and black leaves EtOH extracts of B. crassifolia and examined the oxygen uptake rate in a gasometric system with 2,2′-azobisisobutyronitrile-initiated oxidation of isopropylbenzene. The green leaves showed the most pronounced antioxidant effect [158]. In another study, the separation of main phenolic compounds of B. crassifolia followed by their DPPH assay with the post-chromatographic derivatization of TLC plates. The increasing order of the free-radical scavenging activity was found to be gallic acid > arbutin > ellagic acid > hydroquinone > ascorbic acid [94]. A comparative assessment of the antioxidant activity, free radical scavenging activity, and inhibition of lipid-peroxidation using MeOH and aqueous extracts of B. ciliata rhizomes was performed. The MeOH extract exhibited a better antioxidant activity [76].7.16. Antiobesity ActivityIt was reported by Ivanov et al. (2011) that crude extracts of B. crassifolia rhizomes can efficiently suppress the human pancreatic lipase activity (IC50 = 3.4 g/mL) in vitro [72]. The B. crassifolia leaf extracts are known to suppress the appetite as well as energy intake in rats suffering from high-calorie diet-induced obesity. Compared to controls, a 40% reduction in the daily dietary consumption of the rats tested with 50 mg/kg Bergenia aqueous leaf extract (seven days of oral treatment) was observed. Moreover, a reasonable reduction (45%) in the triglyceride level was also observed after seven-day therapy [159]. 3,11-Di-O-galloylbergenin (64), a galloylbergenin from B. crassifolia roots has been reported (using MC3T3-G2/PA6 murine preadipocytes) to exhibit a moderate anti-lipid accumulation activity [160].7.17. Adaptogenic ActivityAn adaptogen increases the resistance power against various stresses such as physical, chemical, or biological stress and has a stabilizing effect on the body functions [161]. B. crassifolia can also be considered as a promising phytoadaptogen [53,55]. In a treadmill test, the running-time of rats fed (for 10 days) on 300 mg/kg Bergenia black leaves extract was elevated by 30% more than the control group. The running-time was similar to that of rats administered with 5 mL/kg of extract of Eleutherococcus senticosus [162]. Similarly, the swimming capacity of the mice treated with infusions prepared from B. crassifolia fermented leaves was observed to significantly increase by 2.2-fold, compared to the control. The swimming capacity was increased with a simultaneous increase in glucose utilization and without changing the body weight [163]. A similar study revealed that the endurance capability of rats exposed to a very low temperature of −15 °C (3 h, for 21 days) was significantly ameliorated after treatment with extracts of Bergenia black-leaves. Moreover, the floating-time of the rats supplemented with 100 mg/kg extract was considerably augmented after 21 days of treatment, whereas in the other group treated with liposome-encapsulated-extract the swimming-time was increased after seven days of treatment, under extreme circumstances (e.g., hypoxia) [164], because, under hypoxic conditions, the adaptive response of an organism activates mitoKATP channel and increases the ATP-dependent potassium transport in mitochondria. Mironova et al. explored the the activation ability of mitoKATP channel through water-soluble flavonoid-containing plant preparations of Bergenia (Bergenia crassifolia) in a rat model [165].8. Other Benefits of Bergenia SpeciesBergenias are a reservoir of nutrients and are therefore used in culinary preparations [63]. Furthermore, the arbutin (10) content of Bergenias inhibits the degradation of insulin and is useful for diuresis and can work as a urinary disinfectant [56]. Bergenias are also being used in the field of cosmetics, owing to the presence of arbutin [166]. The arbutin can make skin whiten because it can prevent tyrosinase activity and can reduce the skin’s melanin (pigment) production [14,167]. B. ligulata is used for manufacturing cosmetic brightening agents and under-eye creams [23]. B. emeinensis extracts have also been used to treat skin wrinkles [168].9. Conclusions and Future PerspectivesIt is quite evident from this review that the Bergenia species contains a wide range of bioactive compounds of therapeutic value. The safety and efficacy of Bergenia leaves and rhizomes has been time-tested and documented during the long-period of traditional use. However, there is still a scope of research on the mechanism of action of several other aforementioned therapeutic activities. Moreover, among the 32 species, only nine species have been experimentally reported to possess the pharmacological properties. There is a scope for phytochemical analysis and clinical efficacy trials with the rest of the 23 species. To date, 152 compounds have been isolated and characterized from the genus Bergenia.The studies done so far on Bergenias have focused on investigation and assessment of germplasm resources, functional credentials of extracts and isolation of bioactive components, but the reports on cytological and molecular researches and standardization of plant-extracted drugs for product-development are still fragmentary. B. hissarica and B. tianquanensis are extremely rare species with very few reports on their biological activities. Therefore, the conservation of the Bergenia species is of immense concern from a biodiversity, ethnobotanical, and pharmacological perspective. Although the research is progressing on Bergenia species, their robust tissue culture protocols are yet to be discovered, as the publications [97,169,170,171,172,173,174] on tissue culture and germplasm maintenance activities are fragmentary (Supplementary Table S2). The present study proposes a wide scope for multiple benefits of Bergenia in the field of floriculture, health foods, pharmaceuticals, cosmetics, and many other industrial and economic ventures. To conclude, Bergenia species have huge potential to act as a panacea to numerous health-related maladies, and therefore their conservation is necessary.AcknowledgmentsThe authors are thankful to Lovely Professional University (LPU), Punjab, India for the infrastructural support. Authors are also thankful to the CROM-MASS, CIBIMOL-CENIVAM, Industrial University of Santander, Colombia, for awarding the postdoctoral fellowship (Apoyo a estancias postdoctorales-UIS) to Arvind Kumar.Supplementary MaterialsThe following are available online: Figure S1: Chemical structures of isolated and characterized phytochemicals from Bergenia species, Table S1: Botanical description of Bergenia species, Table S2: Tissue culture reports of Bergenia species.Click here for additional data file.(1.4M, pdf)Author ContributionsConceptualization, B.K. and D.Y.; methodology, B.K.; software, A.K.; writing—original draft preparation, B.K., D.Y.; writing—review and editing, B.K.; D.Y., J.-O.J. All authors have read and agreed to the published version of the manuscript.FundingThis work was supported by the National Research Foundation of Korea (NRF) funded by the Ministry of Education (NRF2019R1G1A1008566) and (NRF-2020R1A6A1A03044512).Conflicts of InterestThe authors declare that there is no conflict of interest regarding publication.FootnotesPublisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.References1. Koul B.  Herbs for Cancer Treatment. 1st ed. Springer; New York, NY, USA: 2020.  [Google Scholar]2. Cragg G.M., Newman D.J. Natural products: A continuing source of novel drug leads. Biochim. Biophys. Acta Gen. Subj. 2013;1830:3670–3695. doi: 10.1016/j.bbagen.2013.02.008. [PMC free article] [PubMed] [CrossRef] [Google Scholar]3. Pandey M., Rastogi S., Rawat A. Indian traditional ayurvedic system of medicine and nutritional supplementation. Evid. Based Complement. Alternat. Med. 2013;2013:1–12. doi: 10.1155/2013/376327. [PMC free article] [PubMed] [CrossRef] [Google Scholar]4. Sen S., Chakraborty R. Toward the integration and advancement of herbal medicine: A focus on traditional Indian medicine. Bot. Target Ther. 2015;5:33–44. doi: 10.2147/BTAT.S66308. [CrossRef] [Google Scholar]5. Kasote D.M., Jagtap S.D., Thapa D., Khyade M.S., Russell W.R. Herbal remedies for urinary stones used in India and China: A review. J. Ethnopharmacol. 2017;203:55–68. doi: 10.1016/j.jep.2017.03.038. [PubMed] [CrossRef] [Google Scholar]6. Liu Y., Chen Y., Liao B., Luo D., Wang K., Li H., Zeng G. Epidemiology of urolithiasis in Asia. Asian J. Urol. 2018;5:205–214. doi: 10.1016/j.ajur.2018.08.007. [PMC free article] [PubMed] [CrossRef] [Google Scholar]7. Vitale C., Croppi E., Marangella M. Biochemical evaluation in renal stone disease. Clin. Cases Miner. Bone Metab. 2008;5:127. [PMC free article] [PubMed] [Google Scholar]8. Ramello A., Vitale C., Marangella M. Epidemiology of nephrolithiasis. J. Nephrol. 2000;13(Suppl. S3):S45–S50. [PubMed] [Google Scholar]9. Sharma I., Khan W., Parveen R., Alam M., Ahmad I., Ansari M.H.R., Ahmad S. Antiurolithiasis activity of bioactivity guided fraction of Bergenia ligulata against ethylene glycol induced renal calculi in rat. Biomed. Res. Int. 2017;2017:1–11. [PMC free article] [PubMed] [Google Scholar]10. Wadkar K.A., Kondawar M.S., Lokapure S.G. Standardization of marketed cystone tablet: A herbal formulation. J. Pharmacogn. Phytochem. 2017;6:10–16. [Google Scholar]11. Ahmad M., Butt M.A., Zhang G., Sultana S., Tariq A., Zafar M. Bergenia ciliata: A comprehensive review of its traditional uses, phytochemistry, pharmacology and safety. Biomed. Pharmacother. 2018;97:708–721. doi: 10.1016/j.biopha.2017.10.141. [PubMed] [CrossRef] [Google Scholar]12. Ruby K., Chauhan R., Dwivedi J. Himalayan bergenia a comprehensive review. Int. J. Pharm. Sci. 2012;14:139–141. [Google Scholar]13. Srivastava S., Rawat A.K.S. Botanical and phytochemical comparison of three bergenia species. J. Sci. Ind. Res. 2008;67:65–72. [Google Scholar]14. Árok R., Végh K., Alberti Á., Kéry Á. Phytochemical comparison and analysis of Bergenia crassifolia l.(fritsch.) and Bergenia cordifolia sternb. Eur. Chem. Bull. 2012;1:31–34. [Google Scholar]15. de Oliveira C.M., Nonato F.R., de Lima F.O., Couto R.D., David J.P., David J.M., Soares M.B.P., Villarreal C.F. Antinociceptive properties of bergenin. J. Nat. Prod. 2011;74:2062–2068. doi: 10.1021/np200232s. [PubMed] [CrossRef] [Google Scholar]16. Dhalwal K., Shinde V., Biradar Y., Mahadik K. Simultaneous quantification of bergenin, catechin, and gallic acid from Bergenia ciliata and Bergenia ligulata by using thin-layer chromatography. J. Food Compos. Anal. 2008;21:496–500. doi: 10.1016/j.jfca.2008.02.008. [CrossRef] [Google Scholar]17. Li F., Zhou D., Qin X., Zhang Z.-R., Huang Y. Studies on the physicochemical properties of bergenin. Chin. Pharm. J. 2009;44:92–95. [Google Scholar]18. Rastogi S., Rawat A. A comprehensive review on bergenin, a potential hepatoprotective and antioxidative phytoconstituent. Herba Polonica. 2008;54:66–79. [Google Scholar]19. Singh D.P., Srivastava S.K., Govindarajan R., Rawat A.K.S. High-performance liquid chromatographic determination of bergenin in different bergenia species. Acta Chromatogr. 2007;19:246–252. [Google Scholar]20. Nazir N., Koul S., Qurishi M.A., Najar M.H., Zargar M.I. Evaluation of antioxidant and antimicrobial activities of bergenin and its derivatives obtained by chemoenzymatic synthesis. Eur. J. Med. Chem. 2011;46:2415–2420. doi: 10.1016/j.ejmech.2011.03.025. [PubMed] [CrossRef] [Google Scholar]21. Rousseau C., Martin O.R. Synthesis of bergenin-related natural products by way of an intramolecular c-glycosylation reaction. Tetrahedron: Asymmetry. 2000;11:409–412. doi: 10.1016/S0957-4166(99)00484-X. [CrossRef] [Google Scholar]22. Suh K.S., Chon S., Jung W.W., Choi E.M. Effect of bergenin on rankl-induced osteoclast differentiation in the presence of methylglyoxal. Toxicol. In Vitro. 2019;61:104613. doi: 10.1016/j.tiv.2019.104613. [PubMed] [CrossRef] [Google Scholar]23. Gurav S., Gurav N. A comprehensive review: Bergenia ligulata wall-a controversial clinical candidate. Int. J. Pharm. Sci. Rev. Res. 2014;5:1630–1642. [Google Scholar]24. Singh N., Gupta A., Juyal V. A review on Bergenia ligulata wall. IJCAS. 2010;1:71–73. [Google Scholar]25. Chitme H.R., Alok S., Jain S., Sabharwal M. Herbal treatment for urinary stones. Int. J. Pharm. Sci. Res. 2010;1:24–31. [Google Scholar]26. Chandrareddy U.D., Chawla A.S., Mundkinajeddu D., Maurya R., Handa S.S. Paashaanolactone from Bergenia ligulata. Phytochemistry. 1998;47:907–909. doi: 10.1016/S0031-9422(97)00628-6. [CrossRef] [Google Scholar]27. Khan M.Y., Vimal K.V. Phytopharmacological and chemical profile of Bergenia ciliate. Int. J. Phytopharm. 2016;6:90–98. [Google Scholar]28. Hendrychová H., Tůmová L. Bergenia genus-content matters and biological activity. Ceska a Slovenska farmacie Casopis Ceske farmaceuticke spolecnosti a Slovenske farmaceuticke spolecnosti. 2012;61:203–209. [PubMed] [Google Scholar]29. Liu S.J., Yu B., Hu C.H.  Advanced Materials Research. Trans Tech Publications Ltd.; Stafa-Zurich, Switzerland: 2011. In The variation of pod activities in Bergenla tianquanensis in tissue culture progress; pp. 196–200. [Google Scholar]30. Wu Z.-Y., Raven P.H.  Flora of China. Volume 8 Science Press (Beijing) & Missouri Botanical Garden Press; St. Louis, MO, USA: 2001.  [Google Scholar]31. Zhang Y., Liao C., Liu X., Li J., Fang S., Li Y., He D. Biological advances in bergenia genus plant. Afr. J. Biotechnol. 2011;10:8166–8169. [Google Scholar]32. Jin-tang P. New taxa of the genus bergenia from Hengduan mountains. Acta Phytotax. Sin. 1994;32:571–573. [Google Scholar]33. Jin-tang P., Soltis D.E. Flora China. Bergenia. 2001;8:278–280. [Google Scholar]34. Zhou G.Y., Li W.C., Guo F.G. Resource investigation and observation of biological characteristics of Bergenia purpurascens (Hook. f. et. Thoms.). Engl. Chin. Agric. Sci. Bull. 2007;23:390–392. [Google Scholar]35. Alok S., Jain S.K., Verma A., Kumar M., Sabharwal M. Pathophysiology of kidney, gallbladder and urinary stones treatment with herbal and allopathic medicine: A review. Asian Pac. J. Trop. Dis. 2013;3:496–504. doi: 10.1016/S2222-1808(13)60107-3. [CrossRef] [Google Scholar]36. Chowdhary S., Verma D., Kumar H. Biodiversity and traditional knowledge of Bergenia spp. in kumaun himalaya. Sci. J. 2009;2:105–108. [Google Scholar]37. Rajbhandari M., Mentel R., Jha P., Chaudhary R., Bhattarai S., Gewali M., Karmacharya N., Hipper M., Lindequist U. Antiviral activity of some plants used in nepalese traditional medicine. Evid. Based Complement. Alternat. Med. 2009;6:517–522. doi: 10.1093/ecam/nem156. [PMC free article] [PubMed] [CrossRef] [Google Scholar]38. Kumar V., Tyagi D. Review on phytochemical, ethnomedical and biological studies of medically useful genus bergenia. Int. J. Curr. Microbiol. App. Sci. 2013;2:328–334. [Google Scholar]39. Patel A.M., Kurbetti S., Savadi R., Thorat V., Takale V., Horkeri S. Preparation and evaluation of wound healing activity of new polyherbal formulations in rats. Am. J. Phytomed. Clin. Ther. 2013;1:498–506. [Google Scholar]40. Raina R., Prawez S., Verma P., Pankaj N. Medicinal plants and their role in wound healing. Vet. Scan. 2008;3:1–7. [Google Scholar]41. Shakya A.K. Medicinal plants: Future source of new drugs. Int. J. Herb. Med. 2016;4:59–64. [Google Scholar]42. Singh K.J., Thakur A.K. Medicinal plants of the shimla hills, himachal pradesh: A survey. Int. J. Herbal Med. 2014;2:118–127. [Google Scholar]43. Walter N.S., Bagai U., Kalia S. Antimalarial activity of Bergenia ciliata (haw.) sternb. against Plasmodium berghei. Parasitol. Res. 2013;112:3123–3128. doi: 10.1007/s00436-013-3487-z. [PubMed] [CrossRef] [Google Scholar]44. Bahu C.P., Seshadri R.T.  In: Advances in Research in “Indian Medicine. Udupa K.N., editor. Banaras Hindu University; Varanasi, India: 1970. pp. 77–98. “Pashanbedi” Drugs for Urinary Calculus. [Google Scholar]45. Manandhar N.P. A survey of medicinal plants of jajarkot district, Nepal. J. Ethnopharmacol. 1995;48:1–6. doi: 10.1016/0378-8741(95)01269-J. [PubMed] [CrossRef] [Google Scholar]46. Kapur S. Ethno-medico plants of kangra valley (Himachal Pradesh) J. Econ. Taxon. Bot. 1993;17:395–408. [Google Scholar]47. Mukerjee T., Bhalla N., Singh A., Jain H. Herbal drugs for urinary stones. Indian Drugs. 1984;21:224–228. [Google Scholar]48. Shah N., Jain S. Ethnomedico-botany of the kumaon himalaya, india. Soc. Pharmacol. 1988;2:359–380. [Google Scholar]49. Rani S., Rana J.C. Ethnobotanical uses of some plants of bhattiyat block in district chamba, Himachal Pradesh (Western Himalaya) Ethnobot. Res. Appl. 2014;12:407–414. doi: 10.17348/era.12.0.407-414. [CrossRef] [Google Scholar]50. Koelz W.N. Notes on the ethnobotany of lahul, a province of the Punjab. Q. J. Crude Drug Res. 1979;17:1–56. doi: 10.3109/13880207909083272. [CrossRef] [Google Scholar]51. Vereschagin V., Sobolevskaya K., Yakubova A.  Useful Plants of West Siberia. Publishing of Academy of Science of USSR; Moscow-Leningrad, Russia: 1959.  [Google Scholar]52. Gammerman A., Kadaev G., Yacenko-Khmelevsky A.  Medicinal Plants (Herbs-Healers) High School; Moscow, Russia: 1984.  [Google Scholar]53. Panossian A.G. Adaptogens: Tonic herbs for fatigue and stress. Altern. Complement. Ther. 2003;9:327–331. doi: 10.1089/107628003322658610. [CrossRef] [Google Scholar]54. Sokolov S.Y.  Phytotherapy and Phytopharmacology: The Manual for Doctors. Medical News Agency; Moscow, Russia: 2000. pp. 197–199. [Google Scholar]55. Suslov N., Churin A., Skurikhin E., Provalova N., Stal’bovskiĭ A., Litvinenko V., Dygaĭ A. Effect of natural nootropic and adaptogen preparations on the cortex bioelectrical activity in rats. Eksp. Klin. Farmakol. 2002;65:7–10. [PubMed] [Google Scholar]56. Li W.-C., Gou F.-G., Zhang L.-M., Yu H.-M., Li X., Lin C. The situation and prospect of research on Bergenia purpurascens. J. -Yunnan Agric. Univ. 2006;21:845. [Google Scholar]57. Pokhrel P., Parajuli R.R., Tiwari A.K., Banerjee J. A short glimpse on promising pharmacological effects of Begenia ciliata. J. Appl. Pharm. Res. 2014;2:1–6. [Google Scholar]58. Xie G., Zhou J., Yan X.  Encyclopedia of Traditional Chinese Medicines: Molecular Structures, Pharmacological Activities, Natural Sources and Applications. Volume 2 Springer; Berlin/Heidelberg, Germany: 2011.  [Google Scholar]59. Chen Y., Jia X., Zhang Y. Studies on chemical compositions of Bergenia scopulosa T. P. Wang. J. Chin. Med. Mater. 2008;31:1006–1007. [Google Scholar]60. Hasan A., Husain A., Khan M.A. Flavonol glycosides from leaves of Bergenia himalaica. Asian J. Chem. 2005;17:822. [Google Scholar]61. Saijyo J., Suzuki Y., Okuno Y., Yamaki H., Suzuki T., Miyazawa M. A-glucosidase inhibitor from Bergenia ligulata. J. Oleo Sci. 2008;57:431–435. doi: 10.5650/jos.57.431. [PubMed] [CrossRef] [Google Scholar]62. Xin-Min C., Yoshida T., Hatano T., Fukushima M., Okuda T. Galloylarbutin and other polyphenols from Bergenia purpurascens. Phytochemistry. 1987;26:515–517. doi: 10.1016/S0031-9422(00)81446-6. [CrossRef] [Google Scholar]63. Yang X., Wang Z., Wang Z., Li R. Analysis of nutritive components and mineral element of Bergenae pacumbis intibet. J. Chang. Veg. 2009;22:57–58. [Google Scholar]64. Carmen P., Vlase L., Tamas M. Natural resources containing arbutin. Determination of arbutin in the leaves of Bergenia crassifolia (L.) fritsch. Acclimated in romania. Not. Bot. Horti Agrobot. Cluj-Napoca. 2009;37:129–132. [Google Scholar]65. Chen J., Li Y., Cai L. Determination of total flavonoids in Bergenia emeiensis leaf and rhizome by spectrophotometry. J. China West Norm. Univ. (Nat. Sci.) 2008;29:141–143. [Google Scholar]66. Lu X. Studies on chemical compositions of Bergenia scopulosa TP Wang. Zhong Yao Cai. 2003;26:791–792. [Google Scholar]67. Wang J., Lu X. Studies on chemical compositions of Bergenia scopulosa T. P. Wang. J. Chin. Med. Mater. 2005;28:23–24. doi: 10.1007/s10856-016-5837-8. [CrossRef] [Google Scholar]68. Lim Y.-J., Lee E.H., Kang T.H., Ha S.K., Oh M.S., Kim S.M., Yoon T.-J., Kang C., Park J.-H., Kim S.Y. Inhibitory effects of arbutin on melanin biosynthesis of α-melanocyte stimulating hormone-induced hyperpigmentation in cultured brownish guinea pig skin tissues. Arch. Pharm. Res. 2009;32:367–373. doi: 10.1007/s12272-009-1309-8. [PubMed] [CrossRef] [Google Scholar]69. Samant S., Pant S. Diversity, distribution pattern and conservation status of the plants used in liver diseases/ailments in Indian himalayan region. J. Mt. Sci. 2006;3:28–47. doi: 10.1007/s11629-006-0028-6. [CrossRef] [Google Scholar]70. Jiang H., Guo F., Zhang L., Chen Y., Yang S. Comparison of bergenin contents of Bergenia purpurascens among different regions in yunnan province. J. Yunnan Agric. Univ. 2010;25:895–898. [Google Scholar]71. Siddiqui B.S., Hasan M., Mairaj F., Mehmood I., Hafizur R.M., Hameed A., Shinwari Z.K. Two new compounds from the aerial parts of Bergenia himalaica boriss and their anti-hyperglycemic effect in streptozotocin-nicotinamide induced diabetic rats. J. Ethnopharmacol. 2014;152:561–567. doi: 10.1016/j.jep.2014.02.002. [PubMed] [CrossRef] [Google Scholar]72. Ivanov S.A., Nomura K., Malfanov I.L., Sklyar I.V., Ptitsyn L.R. Isolation of a novel catechin from bergenia rhizomes that has pronounced lipase-inhibiting and antioxidative properties. Fitoterapia. 2011;82:212–218. doi: 10.1016/j.fitote.2010.09.013. [PubMed] [CrossRef] [Google Scholar]73. Dharmender R., Madhavi T., Reena A., Sheetal A. Simultaneous quantification of bergenin,(+)-catechin, gallicin and gallic acid; and quantification of β-sitosterol using hptlc from Bergenia ciliata (haw.) sternb. Forma ligulata yeo (pasanbheda) Pharm. Anal. Acta. 2010;1:104. doi: 10.4172/2153-2435.1000104. [CrossRef] [Google Scholar]74. Sinha S., Murugesan T., Maiti K., Gayen J.R., Pal M., Saha B. Evaluation of anti-inflammatory potential of Bergenia ciliata sternb. Rhizome extract in rats. J. Pharm. Pharmacol. 2001;53:193–196. doi: 10.1211/0022357011775398. [PubMed] [CrossRef] [Google Scholar]75. Kakub G., Gulfraz M. Cytoprotective effects of Bergenia ciliata sternb, extract on gastric ulcer in rats. Phytother. Res. 2007;21:1217–1220. doi: 10.1002/ptr.2242. [PubMed] [CrossRef] [Google Scholar]76. Bhandari M.R., Jong-Anurakkun N., Hong G., Kawabata J. α-glucosidase and α-amylase inhibitory activities of nepalese medicinal herb pakhanbhed (Bergenia ciliata, haw.) Food Chem. 2008;106:247–252. doi: 10.1016/j.foodchem.2007.05.077. [CrossRef] [Google Scholar]77. Mazhar-Ul-Islam I.A., Mazhar F., Usmanghani K., Gill M.A. Evaluation of antibacterial activity of Bergenia ciliata. Pak. J. Pharm. Sci. 2002;15:21–27. [PubMed] [Google Scholar]78. Bagul M.S., Ravishankara M., Padh H., Rajani M. Phytochemical evaluation and free radical scavenging properties of rhizome of Bergenia ciliata (haw.) sternb. Forma ligulata yeo. J. Nat. Remedies. 2003;3:83–89. [Google Scholar]79. Sticher O., Soldati F., Lehmann D. High-performance liquid chromatographic separation and quantitative determination of arbutin, methylarbutin, hydroquinone and hydroquinone-monomethylether in arctostaphylos, bergenia, calluna and vaccinium species [blueberry] Planta Med. 1979;35:253–261. doi: 10.1055/s-0028-1097213. [PubMed] [CrossRef] [Google Scholar]80. Fujii M., Miyaichi Y., Tomimori T. Studies on nepalese crude drugs. XXII: On the phenolic constituents of the rhizome of Bergenia ciliata (haw.) sternb. Nat. Med. 1996;50:404–407. [Google Scholar]81. Sinha S., Murugesan T., Maiti K., Gayen J., Pal B., Pal M., Saha B. Antibacterial activity of Bergenia ciliata rhizome. Fitoterapia. 2001;72:550–552. doi: 10.1016/S0367-326X(00)00322-1. [PubMed] [CrossRef] [Google Scholar]82. Mazhar-Ul-Islam I.A., Usmanghani K., Shahab-ud-Din A. Antifungal activity evaluation of Bergenia ciliata. Pak. J. Pharmacol. 2002;19:1–6. [Google Scholar]83. Chowdhary S., Verma K. Some peculiar structures in bergenia species growing in western himalaya. Nat. Sci. 2010;8:1–4. [Google Scholar]84. Rajkumar V., Guha G., Kumar R.A., Mathew L. Evaluation of antioxidant activities of Bergenia ciliata rhizome. Rec. Nat. Prod. 2010;4:38–48. [Google Scholar]85. Zhang Y., Liao C., Li J., Liu X. A review on resource status, bioactive ingredients, clinical applications and biological progress in bergenia. J. Med. Plant Res. 2011;5:4396–4399. [Google Scholar]86. Chauhan R., Ruby K., Dwivedi J. Bergenia ciliata mine of medicinal properties: A review. Int. J. Pharm. Sci. Rev. Res. 2012;15:20–23. [Google Scholar]87. Chauhan R., Ruby K., Dwivedi J. Golden herbs used in piles treatment: A concise report. Int. J. Drug Dev. Res. 2012;4:50–68. [Google Scholar]88. Ruby K., Chauhan R., Sharma S., Dwivedi J. Polypharmacological activities of bergenia species. Int. J. Pharm. Sci. Rev. Res. 2012;13:100–110. [Google Scholar]89. Patel A.M., Savadi R.V. Pharmacognostic and phytochemical evaluation of Bergenia ciliata rhizome. Int. J. Pharm. Rev. Res. 2014;4:52–55. [Google Scholar]90. Ruby K., Sharma S., Chauhan R., Dwivedi J. In-vitro antioxidant and hemorrhoidal potential of hydroethanolic leaf extracts of Bergenia ciliata, Bergenia ligulata and Bergenia stracheyi. Asian J. Plant Sci. Res. 2015;5:34–46. [Google Scholar]91. Srivastava N., Srivastava A., Srivastava S., Rawat A.K.S., Khan A.R. Simultaneous quantification of syringic acid and kaempferol in extracts of bergenia species using validated high-performance thin-layer chromatographic-densitometric method. J. Chromatogr. Sci. 2015;54:460–465. [PubMed] [Google Scholar]92. Shikov A.N., Pozharitskaya O.N., Makarova M.N., Makarov V.G., Wagner H. Bergenia crassifolia (l.) Fritsch-pharmacology and phytochemistry. Phytomedicine. 2014;21:1534–1542. doi: 10.1016/j.phymed.2014.06.009. [PubMed] [CrossRef] [Google Scholar]93. Vaishali A.S., Vikas M.D., Krishnapriya M., Sanjeevani G. Identification of potential antioxidants by in-vitro activity guided fractionation of Bergenia ligulata. Pharmacogn. Mag. 2008;4:79–84. [Google Scholar]94. Pozharitskaya O.N., Ivanova S.A., Shikov A.N., Makarov V.G. Separation and evaluation of free radical-scavenging activity of phenol components of Emblica officinalis extract by using an HPTLC–DPPH method. J. Sep. Sci. 2007;30:1250–1254. doi: 10.1002/jssc.200600532. [PubMed] [CrossRef] [Google Scholar]95. Vasi I., Kalintha V. Chemical analysis of Bergenia lingulata roots. Comp. Physiol. Ecol. 1981;6:127–128. [Google Scholar]96. Ostrowska B., Gorecki P., Wolska D. Investigation on possibility of utilization of bergenia leaves to therapeutics in place of arbutin and tannin raw materials deficiency. Pt. 2. Isolation of bergenin and a method of its quantitative determination [Bergenia crassifolia, Bergenia cordifolia] Herba Polonica (Poland) 1989;35:117–122. [Google Scholar]97. Furmanowa M., Rapczewska L.  Medicinal and Aromatic Plants IV. Springer; Berlin/Heidelberg, Germany: 1993. Bergenia crassifolia (l.) fritsch (bergenia): Micropropagation and arbutin contents; pp. 18–33. [Google Scholar]98. Golovchenko V., Bushneva O., Ovodova R., Shashkov A., Chizhov A., Ovodov Y.S. Structural study of bergenan, a pectin from Bergenia crassifolia. Russ. J. Bioorg. Chem. 2007;33:47–56. doi: 10.1134/S1068162007010050. [PubMed] [CrossRef] [Google Scholar]99. Roselli M., Lentini G., Habtemariam S. Phytochemical, antioxidant and anti-α-glucosidase activity evaluations of Bergenia cordifolia. Phytother. Res. 2012;26:908–914. doi: 10.1002/ptr.3655. [PubMed] [CrossRef] [Google Scholar]100. Sun X., Huang W., Ma M., Guo B., Wang G. Comparative studies on content of arbutin, bergenin and catechin in different part of Bergenia purpurascens and B. crassifolia. China J. Chin. Mater. Med. 2010;35:2079–2082. [PubMed] [Google Scholar]101. Chernetsova E.S., Crawford E.A., Shikov A.N., Pozharitskaya O.N., Makarov V.G., Morlock G.E. ID-CUBE direct analysis in real time high-resolution mass spectrometry and its capabilities in the identification of phenolic components from the green leaves of Bergenia crassifolia L. Rapid Commun. Mass Spectrom. 2012;26:1329–1337. doi: 10.1002/rcm.6226. [PubMed] [CrossRef] [Google Scholar]102. Habtemariam S. The hidden treasure in europe’s garden plants: Case examples; Berberis darwinni and Bergenia cordifolia. Med. Aromat. Plants. 2013;2:1–5. [Google Scholar]103. Chernetsova E.S., Shikov A.N., Crawford E.A., Grashorn S., Laakso I., Pozharitskaya O.N., Makarov V.G., Hiltunen R., Galambosi B., Morlock G.E. Characterization of volatile and semi-volatile compounds in green and fermented leaves of Bergenia crassifolia L. By gas chromatography-mass spectrometry and id-cube direct analysis in real time-high resolution mass spectrometry. Eur. J. Mass Spectrom. 2014;20:199–205. doi: 10.1255/ejms.1252. [PubMed] [CrossRef] [Google Scholar]104. Salminen J.-P., Shikov A.N., Karonen M., Pozharitskaya O.N., Kim J., Makarov V.G., Hiltunen R., Galambosi B. Rapid profiling of phenolic compounds of green and fermented Bergenia crassifolia l. Leaves by UPLC-DAD-QqQ-MS AND HPLC-DAD-ESI-QTOF-MS. Nat. Prod. Res. 2014;28:1530–1533. doi: 10.1080/14786419.2014.923999. [PubMed] [CrossRef] [Google Scholar]105. Ogisu M., Rix M. 572. Bergenia emeiensis: Saxifragaceae. Curtis’s Bot. Mag. 2007;24:2–6. doi: 10.1111/j.1467-8748.2007.00551.x. [CrossRef] [Google Scholar]106. Bashir S., Gilani A.H. Antiurolithic effect of Bergenia ligulata rhizome: An explanation of the underlying mechanisms. J. Ethnopharmacol. 2009;122:106–116. doi: 10.1016/j.jep.2008.12.004. [PubMed] [CrossRef] [Google Scholar]107. Singh N., Juyal V., Gupta A.K., Gahlot M. Evaluation of ethanolic extract of root of Bergenia ligulata for hepatoprotective, diuretic and antipyretic activities. J. Pharm. Res. 2009;2:958–960. [Google Scholar]108. Singh N., Juyal V., Gupta A., Gahlot M., Prashant U. Antidiabetic activity of ethanolic extract of root of Bergenia ligulata in alloxan diabetic rats. Indian Drugs. 2009;46:247–249. [Google Scholar]109. Kashima Y., Yamaki H., Suzuki T., Miyazawa M. Insecticidal effect and chemical composition of the volatile oil from Bergenia ligulata. J. Agric. Food Chem. 2011;59:7114–7119. doi: 10.1021/jf201401j. [PubMed] [CrossRef] [Google Scholar]110. Sajad T., Zargar A., Ahmad T., Bader G., Naime M., Ali S. Antibacterial and anti-inflammatory potential Bergenia ligulata. Am. J. Biomed. Sci. 2010;2:313–321. doi: 10.5099/aj100400313. [CrossRef] [Google Scholar]111. Nardev S., Gupta A., Vijay J., Renu C. Study on antipyretic activity of extracts of Bergenia ligulata wall. Int. J. Pharma Bio Sci. 2010;1:1–5. [Google Scholar]112. Chauhan R., Saini R., Dwivedi J. Secondary metabolites found in bergenia species: A compendious review. Int. J. Pharm. Pharm. Sci. 2013;5:9–16. [Google Scholar]113. Rajbhandari M., Wegner U., Schoepke T., Lindequist U., Mentel R. Inhibitory effect of Bergenia ligulata on influenza virus A. Pharmazie. 2003;58:268–271. [PubMed] [Google Scholar]114. Jain M., Gupta K. Isolation of bergenin from Saxifraga ligulata wall. J. Ind. J. Chem. Soc. 1962;39:559–560. [Google Scholar]115. Tucci A.P., Delle F.M., Marini-Bettolo G.B. The occurrence of (+) afzelechin in Saxifraga ligulata wall. Ann. Ist Super Sanita. 1969;5:555–556. [PubMed] [Google Scholar]116. Bahl C., Murari R., Parthasarathy M., Seshadri T. Components of Bergenia strecheyi & Bergenia ligulata. Indian J. Chem. 1974;12:1038–1039. [Google Scholar]117. Gehlot N., Sharma V., Vyas D. Some pharmacological studies on ethanolic extract of Bergenia ligulata. Indian J. Pharmacol. 1976;8:92–94. [Google Scholar]118. Dix B., Srivastava S. Tannin constituents of Bergenia ligulata roots. Ind. J. Nat. Prod. 1989;5:24–25. [Google Scholar]119. Reddy U.D.C., Chawla A.S., Deepak M., Singh D., Handa S.S. High pressure liquid chromatographic determination of bergenin and (+)-afzelechin from different parts of paashaanbhed (Bergenia ligulata yeo) Phytochem. Anal. 1999;10:44–47. doi: 10.1002/(SICI)1099-1565(199901/02)10:1<44::AID-PCA424>3.0.CO;2-4. [CrossRef] [Google Scholar]120. Chauhan S.K., Singh B., Agrawal S. Simultaneous determination of bergenin and gallic acid in Bergenia ligulata wall by high-performance thin-layer chromatography. J. AOAC Int. 2000;83:1480–1483. doi: 10.1093/jaoac/83.6.1480. [PubMed] [CrossRef] [Google Scholar]121. Joshi V.S., Parekh B.B., Joshi M.J., Vaidya A.D. Inhibition of the growth of urinary calcium hydrogen phosphate dihydrate crystals with aqueous extracts of tribulus terrestris and Bergenia ligulata. Urol. Res. 2005;33:80–86. doi: 10.1007/s00240-004-0450-6. [PubMed] [CrossRef] [Google Scholar]122. Kumar S. Herbaceous flora of Jaunsar-Bawar (Uttarkhand), India: Enumerations. Phytotaxonomy. 2012;12:33–56. [Google Scholar]123. Goswami P.K., Samant M., Srivastava R.S. Multi faceted Saxifraga ligulata. Int. J. Res. Ayurveda Pharm. 2013;4:608–611. doi: 10.7897/2277-4343.04432. [CrossRef] [Google Scholar]124. Jani S., Shukla V.J., Harisha C. Comparative pharmacognostical and phytochemical study on Bergenia ligulata wall. and Ammania buccifera linn. Ayu. 2013;34:406–410. doi: 10.4103/0974-8520.127724. [PMC free article] [PubMed] [CrossRef] [Google Scholar]125. Agnihotri V., Sati P., Jantwal A., Pandey A. Antimicrobial and antioxidant phytochemicals in leaf extracts of Bergenia ligulata: A himalayan herb of medicinal value. Nat. Prod. Res. 2015;29:1074–1077. doi: 10.1080/14786419.2014.980244. [PubMed] [CrossRef] [Google Scholar]126. Messaoudi D., Bouriche H., Demirtas I., Senator A. Phytochemical analysis and hepatoprotective activity of Algerian Santolina chamaecyparissus. Extracts. Annu. Res. Rev. Biol. 2018;25:1–12. doi: 10.9734/ARRB/2018/40346. [CrossRef] [Google Scholar]127. Pushpalatha H.B., Pramod K., Devanathan R., Sundaram R. Use of bergenin as an analytical marker for standardization of the polyherbal formulation containing Saxifraga ligulata. Pharmacogn. Mag. 2015;11:S60. doi: 10.4103/0973-1296.157690. [PMC free article] [PubMed] [CrossRef] [Google Scholar]128. Zuo G.-Y., Li Z.-Q., Chen L.-R., Xu X.-J. In vitro anti-hcv activities of Saxifraga melanocentra and its related polyphenolic compounds. Antivir. Chem. Chemother. 2005;16:393–398. doi: 10.1177/095632020501600606. [PubMed] [CrossRef] [Google Scholar]129. Bajracharya G.B., Maharjan R., Maharjan B.L. Potential antibacterial activity of Bergenia purpurascens. Nepal J. Sci. Technol. 2011;12:157–162. doi: 10.3126/njst.v12i0.6494. [CrossRef] [Google Scholar]130. Chen W., Nie M. HPLC determination of bergenin in Astilbe chinensis (maxim.) franch. Et sav. And Bergenia purpurascens (hook. F. Et thoms.) engl. Acta Pharm. Sin. 1988;23:606–609. [PubMed] [Google Scholar]131. Li B.-H., Wu J.-D., Li X.-L. LC–MS/MS determination and pharmacokinetic study of bergenin, the main bioactive component of Bergenia purpurascens after oral administration in rats. J. Pharm. Anal. 2013;3:229–234. doi: 10.1016/j.jpha.2013.01.005. [PMC free article] [PubMed] [CrossRef] [Google Scholar]132. Ren Y., Cao L., Chang L., Zhi X., Yuan L., Sheng N., Zhang L.-T. Simultaneous determination of nine compounds in Bergenia purpurascens by HPLC-MS. Chin. Pharm. J. 2013;6:477–481. [Google Scholar]133. Shi X., Li X., He J., Han Y., Li S., Zou M. Study on the antibacterialactivity of Bergenia purpurascens extract. Afr. J. Tradit. Complement. Altern. Med. 2014;11:464–468. doi: 10.4314/ajtcam.v11i2.34. [PMC free article] [PubMed] [CrossRef] [Google Scholar]134. Ma L. The antibacterial activity and antibacterial mechanism of Bergenia scopulosa TP Wang extract. Adv. J. Food Sci. Technol. 2014;6:994–997. doi: 10.19026/ajfst.6.146. [CrossRef] [Google Scholar]135. Cui Y. Chemical constituents from rhizomes of Bergenia scopulosa (ⅱ) Chin. Tradi. Herb. Drugs. 2012;43:1704–1707. [Google Scholar]136. Yao-yuan W. Chemical constituents from Bergenia scopulosa (I) Chin. J. Exp. Tradit. Med Formulae. 2012;9:154–156. [Google Scholar]137. Wei L., Si M., Long M., Zhu L., Li C., Shen X., Wang Y., Zhao L., Zhang L. Rhizobacter bergeniae sp. Nov., isolated from the root of Bergenia scopulosa. Int. J. Syst. Evol. Microbiol. 2015;65:479–484. doi: 10.1099/ijs.0.070318-0. [PubMed] [CrossRef] [Google Scholar]138. Li S., Liu G., Zhang Y., Xu J. Experimental study on antitussive effect or arbutin. Yaoxue Tongbao. 1982;17:720–722. [Google Scholar]139. Kumar V., Tyagi D. Antifungal activity evaluation of different extracts of Bergenia stracheyi. Int. J. Curr. Microbiol. App. Sci. 2013;2:69–78. [Google Scholar]140. Kumar V., Tyagi D. Phytochemical screening and free-radical scavenging activity of Bergenia stracheyi. J. Pharmacogn. Phytochem. 2013;2:175–180. [Google Scholar]141. Ali I., Bibi S., Hussain H., Bano F., Ali S., Khan S.W., Ahmad V.U., Al-Harrasi A. Biological activities of Suaeda heterophylla and Bergenia stracheyi. Asian Pac. J. Trop. Dis. 2014;4:S885–S889. doi: 10.1016/S2222-1808(14)60752-0. [CrossRef] [Google Scholar]142. Yuldashev M., Batirov È.K., Malikov V. Anthraquinones of Bergenia hissarica. Chem. Nat. Compd. 1993;29:543–544. doi: 10.1007/BF00630591. [CrossRef] [Google Scholar]143. Izhaki I. Emodin-a secondary metabolite with multiple ecological functions in higher plants. New Phytol. 2002;155:205–217. doi: 10.1046/j.1469-8137.2002.00459.x. [CrossRef] [Google Scholar]144. Garimella T., Jolly C., Narayanan S. In vitro studies on antilithiatic activity of seeds of Dolichos biflorus linn. and rhizomes of Bergenia ligulata wall. Phytother. Res. 2001;15:351–355. doi: 10.1002/ptr.833. [PubMed] [CrossRef] [Google Scholar]145. Nagal A., Singla R.K. Herbal resources with antiurolithiatic effects: A review. Indo Glob. J. Pharm. Sci. 2013;3:6–14. [Google Scholar]146. Satish H., Umashankar D. Comparative study of methanolic extract of Bergenia ligulata yeo., with isolated constituent bergenin in urolithiatic rats. Biomed. 2006;1:80–86. [Google Scholar]147. Voloboy N., Smirnov I., Bondarev A. Features of diuretic activity of arbutin and hydroquinone. Sib. Med. J. 2012;27:131–134. [Google Scholar]148. Naik S., Kalyanpur S., Sheth U. Effects of anti-inflammatory drugs on glutathione levels and liver succinic dehydrogenase activity in carrageenin edema and cotton pellet granuloma in rats. Biochem. Pharmacol. 1972;21:511–516. doi: 10.1016/0006-2952(72)90324-3. [PubMed] [CrossRef] [Google Scholar]149. Churin A., Masnaia N., Sherstoboev E.Y., Suslov N. Effect of Bergenia crassifolia extract on specific immune response parameters under extremal conditions. Eksp. Klin. Farmakol. 2005;68:51–54. [PubMed] [Google Scholar]150. Popov S., Popova G.Y., Nikolaeva S.Y., Golovchenko V., Ovodova R. Immunostimulating activity of pectic polysaccharide from Bergenia crassifolia (L.) fritsch. Phytother. Res. 2005;19:1052–1056. doi: 10.1002/ptr.1789. [PubMed] [CrossRef] [Google Scholar]151. Nazir N., Koul S., Qurishi M.A., Taneja S.C., Ahmad S.F., Bani S., Qazi G.N. Immunomodulatory effect of bergenin and norbergenin against adjuvant-induced arthritis-a flow cytometric study. J. Ethnopharmacol. 2007;112:401–405. doi: 10.1016/j.jep.2007.02.023. [PubMed] [CrossRef] [Google Scholar]152. Makarova M., Makarov V.  Molecular Biology of Flavonoids (Chemistry, Biochemistry, Pharmacology): Manual for Doctors. Lema Publishing; St-Petersburg, Russia: 2010. pp. 272–290. [Google Scholar]153. Ivanov S., Garbuz S., Malfanov I., Ptitsyn L. Screening of Russian medicinal and edible plant extracts for angiotensin I-converting enzyme (ACE I) inhibitory activity. Russ. J. Bioorganic Chem. 2013;39:743–749. doi: 10.1134/S1068162013070054. [CrossRef] [Google Scholar]154. Mansoor M., Bhagyarao D., Srinivasa Rao D. Photochemical analysis and hepatoprotective activity of Saxifraga ligulata leaves extract. J. Sci. Res. Pharm. 2015;4:93–97. [Google Scholar]155. Shutov D.V. Hepatoprotective effect of Bergenia crassifolia extract and silymarin at experimental inhibition of (3-oxidation of fatty acids caused by 4-pentenioc acid. Bull. Sib. Med. 2007;7:64–70. [Google Scholar]156. Rajkumar V., Guha G., Kumar R.A. Anti-neoplastic activities of Bergenia ciliata rhizome. J. Pharm. Res. 2011;4:443–445. [Google Scholar]157. Zafar R., Ullah H., Zahoor M., Sadiq A. Isolation of bioactive compounds from Bergenia ciliata (haw.) sternb rhizome and their antioxidant and anticholinesterase activities. BMC Complement. Altern. Med. 2019;19:296.  doi: 10.1186/s12906-019-2679-1. [PMC free article] [PubMed] [CrossRef] [Google Scholar]158. Shilova I., Pisareva S., Krasnov E., Bruzhes M., Pyak A. Antioxidant properties of Bergenia crassifolia extract. Pharm. Chem. J. 2006;40:620–623. doi: 10.1007/s11094-006-0206-4. [CrossRef] [Google Scholar]159. Shikov A.N., Pozharitskaya O.N., Makarova M.N., Kovaleva M.A., Laakso I., Dorman H.D., Hiltunen R., Makarov V.G., Galambosi B. Effect of Bergenia crassifolia L. Extracts on weight gain and feeding behavior of rats with high-caloric diet-induced obesity. Phytomedicine. 2012;19:1250–1255. doi: 10.1016/j.phymed.2012.09.019. [PubMed] [CrossRef] [Google Scholar]160. Janar J., Fang L., Wong C.P., Kaneda T., Hirasawa Y., Morita H., Shahmanovna B., Abduahitovich A. A new galloylbergenin from Bergenia crassifolia with anti-lipid droplet accumulation activity. Heterocycles. 2012;86:1591–1595. [Google Scholar]161. Panossian A., Wikman G., Wagner H. Plant adaptogens III. Earlier and more recent aspects and concepts on their mode of action. Phytomedicine. 1999;6:287–300. doi: 10.1016/S0944-7113(99)80023-3. [PubMed] [CrossRef] [Google Scholar]162. Tsyrenzhapova O.D., Lubsandorzhieva P.B., Bryzgalov G.Y.  In: Conservation of Biological Diversity in the Baikal Region: Problems, Approaches, Practice. Korsunov V.M., editor. Baikal Scientific Center SB RAS; Ulan-Ude, Russia: 1996. pp. 157–158. (In Russian) [Google Scholar]163. Shikov A.N., Pozharitskaya O.N., Makarova M.N., Dorman H.D., Makarov V.G., Hiltunen R., Galambosi B. Adaptogenic effect of black and fermented leaves of Bergenia crassifolia L. in mice. J. Funct. Foods. 2010;2:71–76. doi: 10.1016/j.jff.2009.11.003. [CrossRef] [Google Scholar]164. Bolshunova E., Lamazhapova G., Zhamsaranova S. Research of liposomal form of Bergenia crassifolia (L.) fritsch influence on formation of adaptation potencial of the body. ESSUTM Bull. 2010;4:83–88. [Google Scholar]165. Mironova G., Shigaeva M., Belosludtseva N., Gritsenko E., Belosludtsev K., Germanova E., Lukyanova L. Effect of several flavonoid-containing plant preparations on activity of mitochondrial ATP-dependent potassium channel. Bull. Exp. Biol. Med. 2008;146:229–233. doi: 10.1007/s10517-008-0255-7. [PubMed] [CrossRef] [Google Scholar]166. Yaginuma A., Murata K., Matsuda H. Beta-gulcan and Bergenia ligulata as cosmetics ingredient. Fragrance J. 2003;31:114–119. [Google Scholar]167. Guo H., Song K., Chen Q. The synthesis of two arbutin derivatives and inhibitory effect of them on tyrosinase. J. Xiamen Univ. (Nat. Sci.) 2004;43:1–4. [Google Scholar]168. Lee K.-T., Lee S.-y., Lee K.-S., Jeong J.-H. Cosmetic Composition for Remedying Skin Wrinkles Comprising Bergenia emeiensis Extract as Active Ingredient. US20040115286A1. Google Patents. 2004169. Shrestha U.K., Pant B. Production of bergenin, an active chemical constituent in the callus of Bergenia ciliate (Haw.) Sternb. Botanica Orientalis. J. Plant Sci. 2011;8:40–44. [Google Scholar]170. Verma R., Parkash V., Kumar D. Ethnomedicinal uses of some plants of Kanag Hill in Shimla, Himachal Pradesh, India. Int. J. Res. Ayurveda Pharm. 2012;3:319–322. [Google Scholar]171. Rafi S., Kamili A.N., Ganai B.A., Mir M.Y., Parray J.A. In vitro Culture and Biochemical Attributes of Bergenia ciliate (Haw.) Sternb. Proc. Natl. Acad. Sci. India Sect. B Biol. Sci. 2018;88:609–619. doi: 10.1007/s40011-016-0797-9. [CrossRef] [Google Scholar]172. Liu M., Hao X.Y., Xu Q., Bo L.T., Kang X.L., Wang X.J. Tissue culture of wild flower Bergenia crassifolia and establishment of its regeneration system. J. Anhui. Agric. Sci. 2009;37:3455–3456. [Google Scholar]173. Parveen S., Kamili A.N. In vitro shoot multiplication response from shoot tips of Bergenia ligulata Engl. on different nutrient media-A comparative study. Int. J. Innov. Res. Dev. 2013;2:65–67. [Google Scholar]174. Lu X.M., Wang J.X. Research advancement on Bergenia genus plants. Chin. Med. Mat. 2003;26:58–60. [Google Scholar]Articles from Molecules are provided here courtesy of Multidisciplinary Digital Publishing Institute  (MDPI)
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (3.6M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

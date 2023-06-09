@@ -1,0 +1,704 @@
+Document Name: role of Belsil CM 040 in Cover Cream1
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8840497/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Silsesquioxanes in the Cosmetics Industry—Applications and Perspectives  - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Materials (Basel)
+
+
+                    PMC8840497
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.6M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Materials (Basel)
+
+
+                    PMC8840497
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Materials (Basel). 2022 Feb; 15(3): 1126. Published online 2022 Jan 31.  doi: 10.3390/ma15031126PMCID: PMC8840497PMID: 35161068Silsesquioxanes in the Cosmetics Industry—Applications and Perspectives †Anna Olejnik,1,2,* Bogna Sztorch,2 Dariusz Brząkalski,1 and  Robert E. Przekop2Anna Olejnik1Faculty of Chemistry, Adam Mickiewicz University in Poznań, Uniwersytetu Poznańskiego 8, 61-614 Poznań, Poland; lp.ude.uma@ikslakazrb.zsuirad2Centre for Advanced Technologies, Adam Mickiewicz University in Poznań, Uniwersytetu Poznańskiego 10, 61-614 Poznań, Poland; lp.ude.uma@hcrotzs.angob (B.S.); lp.ude.uma@pokezrpr (R.E.P.)Find articles by Anna OlejnikBogna Sztorch2Centre for Advanced Technologies, Adam Mickiewicz University in Poznań, Uniwersytetu Poznańskiego 10, 61-614 Poznań, Poland; lp.ude.uma@hcrotzs.angob (B.S.); lp.ude.uma@pokezrpr (R.E.P.)Find articles by Bogna SztorchDariusz Brząkalski1Faculty of Chemistry, Adam Mickiewicz University in Poznań, Uniwersytetu Poznańskiego 8, 61-614 Poznań, Poland; lp.ude.uma@ikslakazrb.zsuiradFind articles by Dariusz BrząkalskiRobert E. Przekop2Centre for Advanced Technologies, Adam Mickiewicz University in Poznań, Uniwersytetu Poznańskiego 10, 61-614 Poznań, Poland; lp.ude.uma@hcrotzs.angob (B.S.); lp.ude.uma@pokezrpr (R.E.P.)Find articles by Robert E. PrzekopAlina Sionkowska, Academic EditorAuthor information Article notes Copyright and License information Disclaimer1Faculty of Chemistry, Adam Mickiewicz University in Poznań, Uniwersytetu Poznańskiego 8, 61-614 Poznań, Poland; lp.ude.uma@ikslakazrb.zsuirad2Centre for Advanced Technologies, Adam Mickiewicz University in Poznań, Uniwersytetu Poznańskiego 10, 61-614 Poznań, Poland; lp.ude.uma@hcrotzs.angob (B.S.); lp.ude.uma@pokezrpr (R.E.P.)*Correspondence: lp.ude.uma@ramanna†Article: Honor Professor Bogdan Marciniec on the Occasion of His 80th Birthday.Received 2021 Dec 24; Accepted 2022 Jan 25.Copyright © 2022 by the authors.Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/).AbstractThe rising demand for innovative and sophisticated personal care products is a driving factor for manufacturers to obtain new formulations that will fulfill the customers’ preferences. In recent years, silsesquioxanes have attracted the attention of the cosmetics industry. These compounds have been proposed to be used in novel cosmetic formulations as emollient, dispersant, and viscosity modifiers. Therefore, this publication aims to review the main important aspects of polyhedral oligosilsesquioxanes as ingredients of personal care formulations, taking into consideration different types of products. The methods of obtaining these compounds were also presented. Additionally, the detailed analysis of patents dedicated to the application of silsesquioxanes in cosmetic formulations was also performed.Keywords: silsesquioxanes, personal care, cosmetics, industry, POSS, polysilsesquioxanes1. IntroductionThe global cosmetics market is constantly growing each year, and it is expected to reach $429.8 billion in 2022 according to Allied Market Research [1]. The rising demand for innovative and sophisticated personal care products is a driving factor for manufacturers to obtain new formulations that will fulfill the customers’ preferences. Different aspects should be taken into consideration while developing novel cosmetic products such as appearance, rheology, consistency, ease of removal, and functionality (sun-screening, antioxidant, and moisturizing effects). In recent years, silicones have become more and more significant in modern cosmetic products. However, it should be mentioned that silicones were first applied in personal care formulations in the 1940s [2]. Since that time, the rapid increase in the production of cosmetics containing this class of compounds has been observed [3,4,5]. The term “silicone” that is often used in the cosmetic industry refers to a great diversity of ingredients that have different solubility and distinctive features. They are classified as follows: SilanesHydroxyl-containing compounds (silanols)Cyclic dimethyl siloxanes (cyclomethicones)Linear Polysiloxanes (trimethylsiloxy end-capped, non-trimethylsiloxy end-capped)Silicates (inorganic)Copolymers and silsesquioxanes (SSQs) [6].These ingredients have found applications in personal care products due to their unique properties. They exhibit the ability to reduce surface tension after their incorporation into cosmetic products. This property is especially important to facilitate the spreadability of formulations dedicated both to hair and skin. It was reported by Lardy et al. [7] and Budiasih et al. [8] that the lower the surface tension, the higher the spreadability of the formulation applied on the skin. The surface tension of silicones is ca. 20 dynes/cm2, which is significantly different from the surface tension of water (76 dynes/cm2) and oils (32 dynes/cm2) [6]. Many myths and misconceptions about silicones have appeared in the cosmetic world recently. It is believed that these compounds clog the pores and aggravate acne. However, based on scientific studies, silicones are resistant to oxidation and are not occlusive. Therefore, they are not able to clog the pores. Furthermore, they do not intensify acne caused by Propionibacterium acnes [9]. Adams et al. proved that silicone oil exhibited no effect on bacterial growth [10]. On the other hand, silicones can form a film on the surface of the skin that may influence the penetration of active compounds into the stratum corneum [11]. It is claimed that silicones are irritating. However, they are neutral to the skin. On the contrary, silicones reduce skin irritations [6]; therefore, they are used in soothing preparations. For many years, they have been applied in pharmaceutical forms. Dimethicone, silicone oil, is an ingredient of commonly known preparations against flatulence and colic [12]. It is stated that silicones accumulate on the skin. Some silicones (silicone resins and silicone acrylates) create a film on the skin surface, but due to the unique structure of their molecules, this film is fully permeable to water vapor and oxygen [13,14,15]. As a result, the ideal conditions for skin regeneration, wound healing, and reduction of scars are created [15,16]. It has been proven that this environment is appropriate for the synthesis of collagen [17].In recent years, polyhedral oligosilsesquioxanes (POSS/SSQs) have attracted the attention of the cosmetic industry. These compounds have been proposed to be used in novel cosmetic formulations as emollient, dispersant, and viscosity modifiers [18,19,20]. SSQs possess a structural resemblance to silicones, as their backbone is based on Si–O–Si bonds, due to which they are sometimes called cage siloxanes. It should be highlighted that the simplest form of POSS with hydrogen attached to the cage has limited applications in cosmetics due to its low stability and solubility in formulations [21]. The attachment of organic groups to the silica-like core makes POSS more soluble [22] and chemically stable and thus more appropriate as additives to skincare products. The introduction of either hydrophilic or hydrophobic groups can be responsible for changes in the lipophilic balance. The “R” groups used as substituents in the corners of the POSS cage include quaternary nitrogen, zwitterionic compounds, and different functional organic groups [23]. Thus, a large number of compounds with various properties can be obtained [24], which have the potential to be used in personal care formulations. The functions of POSS in cosmetics depend on the type of product. The presence of certain POSS in the formulation can provide advantages in terms of compatibility or even solubility. To the best of our knowledge, there is no paper describing the application of POSS derivatives in cosmetics. Furthermore, the detailed analysis of patents dedicated to the application of silsesquioxanes in cosmetic formulations has not been performed before. Therefore, this publication aims to review the main important aspects of polyhedral oligosilsesquioxanes as ingredients of personal care formulations, taking into consideration different types of products.2. Data Sources and Search Model for the StudyFor a literature search covering silsesquioxane chemistry, structure, and nomenclature, the Scopus database and Google Scholar were used, and “silsesquioxane”, “POSS”, “cosmetics”, and “personal care” keywords were used. For the Scopus database, special attention was paid to review type documents.For the patent search, “silsesquioxane”, “cosmetics”, and “personal care” keywords were used. The scope of the search was set to throughout all the years, but for clarity, only the results from 1990–2021 were presented in the form of a figure in Section 4 (Literature review on patent analysis regarding silsesquioxanes in cosmetics), as before that time, only single results were available, which would affect the readability of the graph.3. Structure of Molecular and Macromolecular POSS Derivatives and Their Polymeric HybridsPolyhedral oligosilsesquioxanes, also known as polyhedral oligomeric silsesquioxanes (POSS and SSQs), represent a group of compounds that are more frequently applied in cosmetic products. They belong to silicon-containing substances, in which each Si atom is connected with three oxygen atoms. The fourth position on the silicon atom is combined with either hydrogen or organic groups (R). In simple terms, POSS are organosilicon compounds that consist of a polyhedral siloxane core and R groups that could be the same or different on each of the corners [25]. POSS were first obtained in the late 1940s, but it took over twenty years for these molecules to obtain the attention of scientists from all over the world. They possess a 3D multi-armed structure and therefore exhibit unique properties compared to traditional silicones [26]. Moreover, POSS are environmentally friendly, recyclable, and biocompatible. Additionally, they can be easily modified by the introduction of different organic functional groups to the silica-like core, which makes POSS even more attractive for industrial applications. The derivatives of POSS are odorless and nonvolatile under normal conditions. Moreover, they are environmentally friendly. They were commercialized by Hybrid Plastics Inc. and found their first application as plastics modifiers. However, they were also studied in electronic and optical fields [25]. Moreover, POSS can be appropriate compounds for medical and cosmetic applications due to their non-toxicity and cytocompatibility [18,27].3.1. POSS Structure and NomenclatureSilsesquioxanes are, by definition, compounds following the general formula [RSiO3/2]n. However, this formula does not represent the high variety of structures that may be formed upon their synthesis under different reaction conditions. Silsesquioxanes may form random, polymeric networks, usually called polysilsesquioxanes, alternatively known under the name “T-resins” (Figure 1a) [19]. These are either resinous or solid materials, usually amorphous, and may be supplied or synthesized as (nano)particles of the desired size. In some cases, ordered ladder structures of different molar masses are obtained (Figure 1b). Under controlled conditions, well-defined molecular structures (cage structures) may be obtained (Figure 1c), usually denoted as Tn, where n is an even number in the range of 6–16 (e.g., T8, T10, and T12, the other structures being less likely to form, the reaction mixture showing a tendency towards polymeric products formation of smaller chain strains, either Figure 1a or Figure 1b). Silsesquioxanes are composed of T siloxane unit, and their empirical formula is as follows [RSiO3/2]n. Often, a simplified name is used for silsesquioxanes bearing the same organic group in all corners (e.g., phenylsilsesquixane when R is phenyl); however, the cage size (the number of T units) should always be also mentioned (e.g., octaphenylsilsesquioxane for Ph8Si8O12).Open in a separate windowFigure 1General scheme of different silsesquioxane categories: (a) random (T-resin, polysilsesquioxane); (b) ladder; (c) cage T series; (d) homosilsesquioxane; (e) double-decker; (f) disilanol; (g) trisilanol; (h) tetrasilanol.Furthermore, different molecular hybrids are also known, such as homosilsesquioxanes (enlarged cage, Figure 1d,e, of which 1e is known as double-decker silsesquioxane, DDSQ) or incompletely condensed cages (Figure 1f–h). There is, however, a common misconception in the understanding of these compounds’ structure and behavior. Polysilsesquioxanes are indeed high molecular weight polymeric structures, which, under proper conditions, may be processed into or formed as nanoparticles. On the other hand, it may be encountered in the literature reports where even the molecular POSS compounds are referred to as “nanoparticles”, despite having low, well-defined molecular mass and fully dissolving in organic solvents. This misinterpretation may come from two sources. One is calculations and measurements, which show that a single POSS molecule is, depending on the organic substituents, from 0.8 nm up to several nanometers in diameter. The second is the fact that many POSS compounds are crystalline and, upon mixing with some poorly compatible matrices (e.g., polymers and mineral fillers), they tend to self-segregate, forming crystalline or polycrystalline particulate agglomerates visible using scanning electron microscopy (SEM) or transmission electron microscopy (TEM) [28]. However, despite large molecule size, these compounds should not be considered nanoparticles, but rather the matrix they are introduced into, together with processing methods applied, will decide on the level of components mixing obtained (either micro- or nanoagglomeration, or dispersion/dissolution on a molecular level, with the formation of liquid or solid solution).Additionally, hybrid structures of silsesquioxanes and poly(dimethylsiloxanes) (PDMS) have been obtained and applied as additives for cosmetic products. In this case, a silsesquioxane molecule serves as a chain extender or branching node, modifying the rheological or emulsifying properties of the obtained hybrid (Figure 2).Open in a separate windowFigure 2An exemplary structure of silsesquioxane–PDMS hybrid polymer.Silsesquioxanes are composed of T siloxane unit, and their empirical formula is as follows: RSiO3/2. When the R group is not methyl, the prefix should be added (e.g., phenylsilsesquixane when R is phenyl).3.2. Methods of Synthesis of Silsesquioxanes The synthesis of octosubstituted silsesquioxanes often proceeds in multi-stage reactions with a low yield of final products, resulting in a product mixture consisting of fully and incompletely condensed silsesquioxanes. The most common procedure for the preparation of silsesquioxanes containing the T8 cage structure is the hydrolysis of the appropriate trichloro- or trialkoxysilanes followed by condensation [29] and the corner capping method, i.e., obtaining bifunctional silsesquioxanes, mainly of R7R’Si8O12 type, by closing the corner of not fully condensed silsesquioxanes with chloro- or alkoxysilane [30]. Obtained derivatives can be functionalized in different catalytic or non-catalytic reactions (e.g., hydrosilylation, metathesis, silylative coupling, nucleophilic substitution, condensation) [31,32].3.2.1. Hydrolitic (olygo)condensation The hydrolytic condensation method (Figure 3) is used to obtain fully condensed derivatives containing reactive functional groups in their structure, e.g., H, halogen, vinyl, NH2. The first step of the reaction is the hydrolysis of the appropriate trialkoxy- or trichlorosilane (RSiX3 (where X is a reactive group, susceptible to hydrolysis, e.g., halogen, alkoxy, or acyloxy) in the presence of water to form silanols. This is catalyzed by acids, bases, or nucleophiles (HCl, KOH, fluoride anion) [33]. In the next stage, the condensation reaction of silanols formed in situ in an acidic or basic conditions [32]. The course of the process and the structure of the resulting silsesquioxane are impacted by many factors, such as the nature of the functional groups, the type of hydrolysis catalyst, the selection of an appropriate solvent, and process conditions (temperature, pH, silicon precursor concentration, silane addition rate, temperature, and reaction time) [31,34]. The method of hydrolysis and condensation usually runs with low yields of products due to non-selective synthesis conditions [35].Open in a separate windowFigure 3General procedure for the synthesis of cage silsesquioxanes via hydrolytic condensation of organosilanes.3.2.2. Corner Capping Another popular method used in the synthesis of cage silsesquioxanes is corner capping. This reaction undergoes the silsesquioxanes of the incompletely condensed structure T7-triol (eg., Trisilanol POSS, Figure 4), in which “cage closing” takes place by reaction with an appropriate alkoxy- or chlorosilane in the presence of a basic catalyst, e.g., NEt4OH. This method allows obtaining derivatives containing the desired functional groups at the corner, affecting the changes in the physicochemical properties of the new derivative [36]. Open in a separate windowFigure 4A procedure of corner capping of open-cage silsesquioxane trisilanol; (a)—a product of silanol groups capping with monochlorosilanes; (b)—a cage T8 product of actual corner capping with trichlorosilane.3.2.3. Synthesis of Silsesquioxane Resins/Polysilsesquioxanes This type of silsesquioxanes is of particular importance in chemistry and the production of cosmetics; they improve the dispersion of pigments and are used in hair care and styling preparations due to their high resistance to weather conditions [6]. Silsesquioxane resins can be obtained by strong acid or base-catalyzed hydrolysis and polycondensation of alkoxysilanes with the possibility of further cross-linking with an organic matrix (Figure 5) [37]. In general, the preparation methods for obtaining polysilsesquioxanes or silsesquioxane resins are straight-forward hydrolytic polycondensation reactions and typically do not require particularly precise control over the product structure regarding the molecular SSQs calling for long synthesis times, multistep procedures, various purification methods, or rigorous maintenance of reaction conditions, as discussed in detail by Cordes et al. [31]. Polysilsesquioxanes may be synthesized in water-based media and purified by water washing [38]. The work of Shimizu et al. [39] presents the synthesis of aerogels, for which the hydrolysis and condensation reactions were performed with ethyltrimethoxysilane (ETMS), vinyltrimethoxysilane (VTMS), methyltrimethoxysilane (MTMS), and tetramethoxysilane (TMOS) in the presence of nitric acid. They can be further functionalized by a hydrosilylation reaction with compounds having divinyl moieties [6].Open in a separate windowFigure 5Synthesis of silsesquioxanes with disordered structure.3.2.4. Post-Functionalization of POSS Cage The methods of modification of silsesquioxanes systems can be divided into two main groups: catalytic and non-catalytic reactions. The catalytic reactions include mainly hydrosilylation of alkene systems [28], which is commonly used in industry but also silylative coupling [40], and cross-metathesis [41], Heck coupling [42], Friedel–Crafts reaction [43], thiol-ene reaction [44], nucleophilic reactions [31], or even thermal dehydrative condensation [45]. The most common reactions for the post-functionalization of silsesquioxanes from the above mentioned are nucleophilic reactions and catalytic hydrosilylation. Nucleophilic reactions can be divided into nucleophilic substitution and nucleophilic addition. The first one is most commonly a substitution of chlorine or iodine atom with various organic groups [42,46,47,48]. Nucleophilic addition is commonly used in oxirane chemistry [49] and anhydride and amide chemistry [50]. Additionally, the alkyne–azide click reaction is a special kind of nucleophilic addition [51]. The hydrosilylation reaction is one of the most basic and most frequently used methods of catalytic modification of silsesquioxanes (Figure 6). The reaction is based on the addition of compounds with Si-H groups to carbon–carbon, carbon–heteroatom, and heteroatom–heteroatom multiple bonds. The most commonly used are catalysts from the group of transition metals such as platinum, rhodium, palladium, nickel, iridium, cobalt, and iron [52]. Open in a separate windowFigure 6General scheme of hydrosilylation reaction.4. Literature Review on Patent Analysis Regarding Silsesquioxanes in CosmeticsThe number of patents and cosmetic products containing POSS derivatives has grown intensively in recent years. The earliest reports in the field of patent protection concerning the use of silsesquioxanes in cosmetics date back to the late 1960s and early 1970s. In those years, the companies General Electric (GE) and Dow Corning (DOW) [53] were the leaders in the application of organosilicon compounds. At that time, the first applications of phenyl silsesquioxanes with a ladder structure in the preparation of emulsions were presented [54]. Until the end of the 1970s, references to the use of silsesquioxane compounds in the proprietary formulations may be considered marginal. The 1980s also showed that the use of SSQs in cosmetic products was associated with quality benefits. There are reports related to their use, for example, in non-liquid makeup cosmetics [55] but there was still no clear interest in these compounds in the cosmetics industry. In the early 1990s, a definite change in this trend was observed. The first patent applications of the French company L’Oréal appeared [56]. However, the DOW and Japanese inventors still played a leading role. In the 90s, protection was applied mainly to the use of polymethylsilsesquioxanes in emulsions [57] and systems containing minerals with the addition of polydimethylsilsesquioxanes [58]. The advantages of SSQs with perfluorinated groups in hair care products have also been noticed [59]. In the 90s, the dominant applications of SSQs were in hair preparations, varnishes, and makeup systems with mineral fillers. A noticeable increase in the interest in international patent protection for cosmetics with the use of silsesquioxanes occurred at the end of the 20th century. In the years 2000–2010, relatively many reports of the use of SSQs in microencapsulated formulations were found [60]. In recent years (2015–2020), there has been an increase in interests in sunscreen formulations [61]. Since the middle of the first decade of the 21st century, the areas of application of SSQs have significantly expanded: hair styling preparations [62], w/o (water in oil) emulsifiers [63], and UV protection systems [64]. When referring to the analysis of patent applications, it should be borne in mind that silsesquioxanes play the role of one of many ingredients in complex systems of cosmetic products. For this reason, many researchers convey a superficial impression of the multifunctionality and multitude of applications of POSS compounds. Based on detailed analyzes of the content of the applications, it seems that silsesquioxanes play a similar role to functional polysiloxanes; however, due to the higher equivalent of functional groups per mass unit and the condensed, non-linear nature of their structure, they differ from polysiloxane analogs. In a great number of applications, SSQs are present in parallel with polysiloxanes [65] or are applied as silisesquioxane/polysiloxane crosspolymers [66]. Therefore, it cannot be said that SSQs simply act as highly concentrated functional substitutes for silicone oils; rather, they complement and extend their functionality in cosmetic formulations, for instance, based on different physio-chemical characteristics. From the beginning of the second decade of the 21st century, an increasing patent activity has been observed in the People’s Republic of China [62,63,66,67,68]. The described applications of SSQs are becoming more and more advanced in terms of their functionality in cosmetic preparations. It was suggested to use SSQ in makeup systems for the treatment of mineral compounds (TiO2) in order to obtain specific optical properties related to light scattering [69]. It should be noted that the increase in the advancement and complexity of patent applications in the last decade does not result from the use of SSQs in cosmetics but the overall development of this industry. Due to low solubility, the loading of silsesquioxanes in cosmetic preparations ranges from 0.1% w/w to 2%. The silsesquioxanes play the role of a functional component, mainly operating in the interface, similarly to the organofunctional silanes in the polymer/filler systems. In many cases, their role is to create interactions between the polymer/copolymer systems and the water-containing emulsion systems [68].In summary, in the field of patent protection, the dominant structural forms are polysilisesquioxanes and polysilsesquioxane resins. These forms are much more common in cosmetic formulations than structurally pure polyhedral forms. Inventions subject to patent protection on leading international markets in the years 2000–2020 are dominated by the L’Oréal concern (nearly 30% of all patent applications), followed by Kose Corp. with approximately 8%, Henkel with 4%, and The Procter & Gamble Company with 3%. Other brands that used SSQ are Japanese concerns such as Shiseido Nippon Fine Chemical, Kao, and Sinopec. It is noticeable that the increase in the number of patent applications is rather linear, and in the years 2005–2020, it did not exceed 10–20% on an annual basis. The impact of the epidemic on the reduction in the number of reports in 2020–2021 is also clearly noticeable (Figure 7).Open in a separate windowFigure 7Several patent applications in the field of silsesquioxanes/cosmetics and silsesquioxanes/personal care (based on Google Patents database).5. Application of POSS Derivatives in Cosmetic ProductsCosmetic industries are continuously searching for new compositions that will provide comfort, long-lasting effect, and natural-looking color. POSS have found applications in different cosmetic products that will be the subject of the below-presented subsections. In Table 1 examples of various derivatives of silsesquioxanes that are dedicated to personal care are shown.Table 1POSS dedicated to cosmetic products.International Nomenclature of Cosmetic Ingredients (INCI)Commercial NameProducerCosmetic Product CategoryFunctionsRefs.PolymethylsilsesquioxaneSilForm*Flexible ResinMomentive Performance Materialscolor cosmetics, creams, lotions, sun careopacifying agent, film former, provide long-lasitng wearability[2,70]BELSIL® B 110Wacker Chemie AGskin care, sunscreenproviding softness, enhanced spreading[71]BRB PMS-2BRB International BVcolor cosmetics, skin care pigment stabilizer[72]BRB PMS-5BRB International BVcolor cosmetics, skin carepigment stabilizer[73]BELSIL® SPR 45 VPWacker Chemie AGcolor cosmetics, skin care, sunscreenproviding softness, water repellence, film former[74]Blend of cyclopentasiloxane and polypropylsilsesquioxaneDOWSIL 670 FluidDow color cosmetics, suncare, skin carefilm former, provide long-lasting color, shine enhancer [2,75]Polysilsesquioxane Steardimonium ChlorideSiQubeTM Q1850Paradigm Science Inc.skincare, haircarecleansing ability, skin barrier function improver [76]Blend of MQ (trimethylsiloxysilicate and T propyl (polypropylsilsesquioxane) silicone resinsMQ-1640 Flake ResinDow Corningcolor cosmetics, skin care,hair careprovide hair long lasting colour[77]Isobutyl PolysilsesquioxanePSS-Octaisobutyl substituted 97Boc Sciencesnail carenail conditioning agent[78]Acryloyloxypropyl PolysilsesquioxaneSLT-3R01Gelestnail carenail conditioning agent[79]Trimethylpentyl PolysilsesquioxaneIsooctyl POSSHybrid Plasticsnail carenail conditioning agent[79,80]Epoxycyclohexylethyl PolysilsesquioxaneEP0408Hybrid Plasticsnail carenail conditioning agent[81]Glycidoxypropyl Polysilsesquioxane EP0408Hybrid Plasticsnail carefilm forming ability[82,83]Methoxy PEG-10 Polysilsesquioxane PG1190Hybrid Plasticsskin careskin conditioning agent,cleansing agent,solubilizing agent [79,83,84]Open in a separate window5.1. Hair Care ProductsHair care compositions can be classified into two main categories:products that provide temporary effects such as shampoos, conditioners, and spraysproducts with long-lasting effects such as permanent waves and permanent colors [85].POSS derivatives can be incorporated into hair care products such as shampoos, conditioners, and styling gels. POSS molecules substituted with one or more cation-containing groups can be applied in conditioners and hair care products. Furthermore, they can be used as styling agents as ionic attractive forces towards charged sites on strands of hair [17]. Due to adhesive features, POSS molecules can be applied to increase the long-wear properties of hair coloration. Another study proved that, when organosiloxanes (such as trialkoxy aminosilanes) were added to conditioner formulations, the volume of hair was increased [86]. A similar effect was observed when polymethylsilsesquioxane resins were introduced to hair care products [3]. Another example of POSS derivative that can be applied in hair care products is amino-functionalized silsesquioxane. It was reported that a water-soluble, 3-(2-aminoethyl)aminopropyl derivative provided curl retention for hair [86]. Silsesquioxanes have also found application as set-holding agents in hair fixative products [87]. They provide outstanding hold, higher humidity resistance, and form stiffer film compared to typical organic resins. It should be highlighted that silicones do not accumulate on the hair surface. They are washable with surfactants and do not burden the hair. Unlike vegetable oils, which burden hair, they do not leave a feeling of greasiness. Modern silicone conditioners ensure hair regeneration and facilitate styling. The film formed on the hair is light, flexible, and leaves a feeling of dry and silky touch.5.2. Color CosmeticsToday, the segment of color cosmetics is increasing among the customers. To this group of cosmetics belong products dedicated to facial make-up, eye make-up, and lip care. Apart from the visual aspects that are provided by these cosmetics, customers are searching for formulations that remained on the skin intact for long periods of time. The color cosmetics include inter alia liquid makeup and loose and pressed powders. Typically, the color cosmetics consist of pigments and waxes suspended in carrier oils as well as film-formers [2]. When the product is applied on the skin, the volatile compounds evaporate, and the film containing pigments and oils remain on the skin surface. The long-lasting features of pigments are dependent on the ability of film to adhere to the skin, on its mechanical properties, and on the cohesive strength of the dried cosmetic product. Silicones have been applied in the development of long-wear formulations since the 1990s [88]. So far, different wear technologies have been developed such as formulations consisting of, among others, solid pigments, organosiloxanes and diorganopolysiloxanes. However, these types of cosmetic products are tacky during and after their application. Moreover, the film that is formed on the skin causes uncomfortable sensations of tautness. In response to this need, the cosmetic compositions that contain polyhedral oligomeric silsequioxanes (POSS)-grafted polyolefins have been developed [89]. L’Oréal used these compounds in cosmetic formulations to preserve long-wear, decreased tackiness, and enriched color, while Avon obtained composition containing graftable POSS that formed non-transferable, long-lasting film that left a comfortable feeling on the skin or lips [90]. However, in recent years, much attention has been also paid to other advanced silicones that bring long-lasting benefits for skincare products. Apart from trimethylsiloxysilicate (MQ resins), silsesquioxane resins were also proposed to be used in long-wear cosmetics [2]. A mixture of two silicone resins such as trimethylsiloxysilicate and polypropylsilsesquioxane (Dow Corning MQ-1650 Flake Resin) is applied in color cosmetics and skin care products. The resins create the hard and brittle film. The application of silicones blend enhances the intensity and shine of color. Another POSS derivative that can be applied as additive ingredient in color cosmetics such as lipsticks is polyphenylsilsesquioxane. Additionally, alkyl phenyl silsesquioxane resisns were incorporated into lipsticks providing high gloss [72]. Moreover, POSS trisilanols can be used as dispersants for pigments [91]. Additionally, POSS compounds, due to their unique structure, can be applied to compatibilized different ingredients in skincare formulations. Various molecules such as dyes can be surrounded by the cage-like structure of POSS or can exist partly in/outside the POSS cage. MQ copolymers are applied to obtain color cosmetics [92]. It was also proposed to apply polypropylsilsesquoxane in the eyeshadow compositions [78]. The conventional eyeshadows produce a dry texture that is difficult to apply. Therefore, it is important to develop cosmetic products that will have soft textures and long-lasting effect. It is possible when polypropylsilsesquioxane is mixed together with a volatile solvent, silica, and boron nitride [78]. Combinations of POSS and non-POSS silicone resins in formulations improve wearing, pliability, and texture compared to silicone-resin containing products. This combination can be used in mascaras, lip coatings, eyeliners, body make-up, and nail coatings [93]. Silsesquioxanes have also found applications in the grinding of pigment. They ensure better uniformity of grind and consequently enhance pigment dispersibility [6]. 5.3. Nail Care ProductsOn the market, there are different types of nail products available, such as nail polish (known as lacquers, varnish, and enamels), artificial nails (recognized as gels or acrylics), and nail polish remover [94]. The artificial nail formulations are applied not only to enhance the appearance of nails but also to strengthen their surfaces. As ingredients of nail polish products, SSQs can increase the strength and durability of the finished coating. SSQs substituted with epoxide or thiol groups can form a covalently bond film and, therefore, can have better adhesion to the nail than enamel. Examples of POSS derivatives that can be applied in nail care products:MercaptopropylIsooctyl-POSSEpoxyCyclohexylCyclopentyl-POSSEpoxyCyclohexylCyclohexyl-POSSEpoxyCyclohexylIsobutyl-POSSGlycidylIsooctyl-POSSOctaepoxy-POSS.Acryloyloxylpropyl polysilsesquioxane is used as a nail conditioning agent [79]. It is obtained by the hydrolysis and condensation of acryloyloxy propyltrimethoxysilane. It consists of the mixture of 3D siloxane polymers and oligomers with a partial cage structure. Ethyl polysilsesquioxane and isobutyl polysilsesquioxane are other examples of compounds that can be applied as a nail conditioning agent.Polyhedral oligomeric silsesquioxanes are also applied in formulations for nail coating. Typical nail coating consists of three different layers such as a base (increases adhesion between the nail and the other layers), a color, and a topcoat (ameliorates durability). However, it is of great interest to reduce the number of layers in order to accelerate and facilitate its applications process. The incorporation of POSS to the nail coating products solves this problem. The presence of POSS in the color layer ameliorates adhesion to the nail and, therefore, a base layer is not required. Furthermore, due to polyhedral oligomeric silsesquioxanes, the hardness and gloss of the cured nail coating is improved [95]. The examples of compounds that can be used in the nail coating are POSS derivatives where at least one R group are polyethylene glycol units and other groups are alkyl units. Depending on the type of personal care formulation, different amount of the POSS can be used. The amount of POSS applied in nail polish and other cosmetics ranges from about 0.005% to 40% by weight of the final product.5.4. Skincare ProductsThe main challenge for cosmetic formulators is to obtain stable and efficient skincare products such as emulsions. Generally, they can be classified into single emulsions (such as water-in-oil and oil-in-water) and multiple emulsions (such as oil-in-water-in-oil and water-in-oil-in-water). They consist of two or more immiscible liquid phases [96]. One phase is dispersed into droplets in another continuous phase. Typically, two liquid phases have various surface tensions; therefore, the emulsions are thermodynamically unstable. It should be added that there are also water-in-silicone (w/s) emulsions [97], in which water droplets are dispersed in silicone. They consist of the water phase, silicone oil, and w/s emulsifiers (silicone polyether) [98]. The main advantage of this system is that it can be obtained at room temperature, and it has a high-water resistance [99]. The most important factor is to obtain homogeneous formulations that do not undergo any destabilization processes such as creaming, flocculation, coagulation, coalescence, phase inversion, or Oswald ripening [100,101,102]. In order to reduce the surface tension between two liquid phases, it is required to apply emulsifiers that are used to improve emulsion’s stability by increasing the kinetic energy [103]. Recent studies have proven that amphiphilic POSS derivatives can be used as potential emulsifiers [104,105]. Imoto et al. [106] obtained tripodal amphiphilic POSS derivatives that contain hydrophilic poly(ethylene glycol) tails and hydrophobic centers. The synthesized compound was studied as a potential emulsifier during emulsion preparation and was also compared with mono-substituted amphiphilic POSS derivatives. In order to assess the potential of POSS derivatives as emulsifiers, their 1 wt% aqueous solutions were prepared. Afterwards, these solutions were homogenized with methyl myristate. Additionally, the same procedure was repeated in the absence of POSS derivatives, and no emulsion was obtained. These results indicated that functionalized polyhedral oligomeric silsesquioxanes affected the stability of the emulsion. The diameter of the emulsion droplets of the formulation with POSS derivative remained almost the same size after 1 month of storage. This proved that tripodal polyhedral oligomeric silsesquioxanes can serve as an effective emulsifier to obtain a highly stable emulsion. Recently highly concentrated emulsions have attracted attention due to their useful applications in different fields such as pharmaceutics, food products, and cosmetics. However, the main drawback of these systems is their instability during their processing and storage [107]. The instability results from uncontrolled coalescence that has an influence on the properties of the final formulation. Masalova et al. reported that POSS nanomolecules can be used to stabilize highly concentrated w/o emulsions (HCE) [108]. It was proven that 3-(2-aminoethyl)aminopropylheptaisobutyl POSS (Figure 8) exhibited the ability to decrease interfacial tension and had a high capacity to obtain HCE. These features were not observed when conventional surfactants were applied. Open in a separate windowFigure 8Aminoethylaminopropylheptaisobutyl POSS molecular structure [108].Furthermore, it should be added that silsesquioxanes also found application in anti-aging products. Moreover, this compound was proposed to hide and fill in the wrinkles [109]. It should be added that polymethylsilsesquioxane is composed of particles with a median size from 0.5 to 15 μm, and, therefore, it can be easily distributed in different formulations.The excessive exposure to sunlight can cause serious skin problems including melanoma [110]. Therefore, it is recommended to apply sunscreen cosmetics to protect the human body. There are two types of sunscreen ingredients—chemical and physical [111]. The first one absorbs UV radiation and the second one scatters ultraviolet rays [112]. Cinnamic acid, benzophenone, and salicylic acid are examples of chemical sunscreens, while titanium dioxide and zinc oxide belong to the group of physical filters [113,114]. The main drawback of chemical sunscreens is that some of them can be absorbed into the skin, causing irritation and allergic reactions. On the other hand, physical sunscreens leave a white film after application that is uncomfortable for users [115,116]. Therefore, it is important to develop new types of UV filters. Silsesquioxanes as hybridized organic–inorganic materials can be an appropriate candidate for a sunscreen agent. The functional groups capable of providing UV protection can be attached to the POSS structure. These substituents can be bound to the cage of POSS either directly or by using the following bridging molecules—azo, diazo, epoxy, olefin, or halogen-containing compounds, by appropriate reactions of addition or substitution.SSQs such as poly(p-methoxycinnamaminyl)propylsilsesquioxane and poly(p- ethoxycinnamamidyl)propylsilsesquioxane) that can be applied as UV-absorbing ingredients have been obtained by Kim et al. [117]. The synthesized compounds were then added to petrolatum, and the sun protection factor was assessed. The measured SPF values were notably higher than formulations containing other tested filters. Furthermore, no white spots were observed on the skin when the composition with POSS derivatives was applied. The results proved that both POSS compounds are promising UV-absorbing agents in cosmetic formulations. Another important advantage of silsesquioxanes is that they can form water-resistant films in sun care products [3].Another patent presents the fact that polysilsesquioxane spherical particles can be applied in sunscreen formulations [118]. First, the silsesquioxane precursors with ultraviolet absorbers were synthesized, and, next, polysilsesquioxane spherical particles were obtained. The as-prepared compound was introduced to the cosmetic composition, and its effectiveness was checked. The results proved that formulations containing polysilsesquioxane spherical particles provide UV protection and exhibit less whitening phenomenon compared to traditional sunscreen formulations. Nanoparticles of bridged polysilsesquioxane were also applied in sunscreens. The photodegradation level and leaching was found to be minimized. The formulations based on the bridged polysilsesquioxanes had broad-spectrum photoprotective ability [119]. It should be highlighted that, due to the addition of polymethylsilsesquioxane to sun protection products, their application is very soft and smooth. Furthermore, polymethylsilsesquioxane exhibits oil absorption properties that decrease the greasy skin-feeling derived from some of the sunscreen blockers. Hydrogels are classified as 3D polymeric networks that are able to absorb large amount of water [120]. The crosslinking nodes can be created by covalent bonds or by different physical interactions such host–guest complexation, hydrogen bonding, or ionic association. The hydrogels found applications in various fields including biomaterials, biotechnology, and pharmacy [121]. However, it should be stressed that they exhibit poor stability and mechanical properties [122]. In order to solve these problems, nanocomposites hydrogels can be used. Furthermore, polyhedral oligomeric silsesquioxanes can be introduced to hydrogels to improve both chemical and physical features [123]. The results proved that POSS-containing hydrogels exhibit better mechanical properties compared to conventional hydrogels. POSS molecules tend to self-aggregate in aqueous solution due to their hydrophobicity. Additionally, they can act as physical crosslinkers in polymer networks [124] and thus increase the mechanical strength of hydrogels. Octa-methacrylate POSS, octa-vinyl POSS, and octa(glycidoxypropyl) POSS can be also applied as crosslinker in hydrogels [125]. Mather et al. obtained silver-containing hydrogels using POSS diol, PEG, and lysine methyl-ester diisocyanate dedicated to wound healing. The formulation gave a prolonged antimicrobial effect that prevented from infections [126].6. Future OutlooksThe future in the cosmetic industry is to introduce new (macro)molecules for specific applications in order to fill the voids of present personal care formulations, based on the experience of the cosmetics manufacturers and the opinions of the end-users. The customers provide feedback on the performance of the products or the lack thereof, while the specialists in the field of designing and manufacturing of those products can link the reported issues or shortcomings of a given formula to the selection and balance of the chosen ingredients comprising the formulation. On the basis of this knowledge, the new compounds of appropriate physicochemical properties, such as rheology, temperature-dependent physical state, or emulsifying properties, may be tailored to provide solutions to flaws of present formulations. The new compounds should be economical in industrial manufacturing and easily formulated into cosmetic products designed for customers’ satisfaction, as well as avoid the concerns of the environmental burden caused by their release into the natural environment. While molecular silsesquioxanes may not become a preferable choice for cosmetic formulations anytime soon due to their high cost of production, polysilsesquioxanes and various hybrids thereof, such as polysilsesquioxane-siloxane copolymers or resins, may provide a satisfactory choice for both high-performing and cost-effective solutions, especially when comprising one of the special-purpose additives among multi-component ingredients used for manufacturing of the final product.7. ConclusionsThe earliest reports in the use of silsesquioxanes in cosmetics date back to the late 1960s and early 1970s. However, it was not until mid 1990s that a boom was observed in the industry. It was caused by both the development of the cosmetics industry itself and the growth of importance of this field in the global economy, as well as the intensive development of research on SSQs influence in complex systems containing polymers, water-based media, emulsions, etc., which resulted in the increase in the real value of their applications. The combination of the economic factor with the rapid development of research in this area led to the actual use of this group of compounds in cosmetic industry. It should be clearly emphasized that there is a significant advantage of polysilsesquioxanes structures in practical applications, as reported in several articles and patents providing data on several parameters such as color stability, film stability, coating strength, UV protection, and more. This is due to the large difference in production costs between disordered structures and molecular compounds. The challenges of the future in research on the use of silsesquioxanes in the cosmetics industry are modeling functional properties, reducing synthesis costs, and designing multifunctional polysilsesquioxanes.Author ContributionsConceptualization, A.O. and R.E.P.; investigation, A.O. and R.E.P.; writing—original draft preparation, A.O., B.S., D.B. and R.E.P.; writing—review and editing, A.O. and R.E.P.; visualization, B.S. and D.B.; supervision, A.O.; project administration, A.O.; funding acquisition, R.E.P. All authors have read and agreed to the published version of the manuscript.FundingThis research was funded by National Centre for Research and Development (Narodowe Centrum Badań i Rozwoju) grant number LIDER/5/0036/L-12/20/NCBR/2021. The work was supported by Centre for Advanced Technologies (CAT AMU) Adam Mickiewicz University in Poznan. Conflicts of InterestThere are no conflicts to declare.FootnotesPublisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.References1. Nitesh C., Himanshu V., Roshan D.  Cosmetics Market by Category (Skin and Sun Care Products, Hair Care Products, Deodorants & Fragrances, and Makeup & Color Cosmetics), Gender (Men, Women, and Unisex), and Distribution Channel (Hypermarkets/Supermarkets, Specialty Stores, Pharmacies, Online Sales Channels, and Others): Global Opportunity Analysis and Industry Forecast, 2021–2027. Allied Market Research; Portland, OR, USA: 2021.  [Google Scholar]2. Pawar A.B., Falk B.  Surface Science and Adhesion in Cosmetics. Wiley, Scrivener Publishing LLC; Beverly, MA, USA: 2021. Use of Advanced Silicone Materials in Long-Lasting Cosmetics; pp. 151–182. [Google Scholar]3. Goddard E.D., Gruber J.V.  Principles of Polymer Science and Technology in Cosmetics and Personal Care, Cosmetic Science and Technology. Volume 22. Marcel Dekker, Inc.; New York, NY, USA: 1999.  [Google Scholar]4. O’Lenick A.J., O’Lenick K.A. Silicone Polymers in Skin Care. MRS Bull. 2007;32:801–806. doi: 10.1557/mrs2007.167. [CrossRef] [Google Scholar]5. Mojsiewicz-Pieńkowska K., Jamrógiewicz M., Szymkowska K., Krenczkowska D. Direct Human Contact with Siloxanes (Silicones)–Safety or Risk Part 1. Characteristics of Siloxanes (Silicones) Front. Pharmacol. 2016;7:132. doi: 10.3389/fphar.2016.00132. [PMC free article] [PubMed] [CrossRef] [Google Scholar]6. O’Lenick A.J.  Silicones for Personal Care. Allured Pub.; Carol Stream, IL, USA: 2008.  [Google Scholar]7. Lardy F., Vennat B., Pouget M.P., Pourrat A. Functionalization of Hydrocolloids: Principal Component Analysis Applied to the Study of Correlations between Parameters Describing the Consistency of Hydrogels. Drug Dev. Ind. Pharm. 2000;26:715–721. doi: 10.1081/DDC-100101289. [PubMed] [CrossRef] [Google Scholar]8. Budiasih S., Masyitah I., Jiyauddin K., Kaleemullah M., Samer A.D., Fadli A.M., Eddy Y.  Proceedings of the BROMO Conference, Surabaya, Indonesia, 11–12 July 2018. SciTePress; Setubal, Portugal: 2018. Formulation and Characterization of Cosmetic Serum Containing Argan Oil as Moisturizing Agent; pp. 297–304. [Google Scholar]9. Fulton J.E. Comedogenicity and Irritancy of Commonly Used Ingredients in Skin Care Products. J. Soc. Cosmet. Chem. 1989;40:321–333. [Google Scholar]10. Adams F., Romero I.L., da Silva C.B., de Almeida Manzano R.P. Evaluation of Silicon Oil on Bacterial Growth. Arq. Bras. Oftalmol. 2012;75:89–91. doi: 10.1590/S0004-27492012000200003. [PubMed] [CrossRef] [Google Scholar]11. Kis N., Kovács A., Budai-Szűcs M., Gácsi A., Csányi E., Csóka I., Berkó S. Investigation of Silicone-Containing Semisolid in Situ Film-Forming Systems Using QbD Tools. Pharmaceutics. 2019;11:660.  doi: 10.3390/pharmaceutics11120660. [PMC free article] [PubMed] [CrossRef] [Google Scholar]12. Mojsiewicz-Pieńkowska K.  Handbook of Polymers for Pharmaceutical Technologies. Scrivener Publishing LLC; Beverly, MA, USA: 2015. Review of Current Pharmaceutical Applications of Polysiloxanes (Silicones) pp. 363–382. [Google Scholar]13. Barel A.O., Paye M., Maibach H.I.  Handbook of Cosmetic Science and Technology. CRC Press; Boca Raton, FL, USA: 2014.  [Google Scholar]14. Eeman M., van Reeth I.  Silicone Film-Formers: New Approaches for Measuring Film Barrier Properties. Poster at IFSCC Congress; Paris, France: 2014.  [Google Scholar]15. Bleasdale B., Finnegan S., Murray K., Kelly S., Percival S.L. The Use of Silicone Adhesives for Scar Reduction. Adv. Wound Care. 2015;4:422–430. doi: 10.1089/wound.2015.0625. [PMC free article] [PubMed] [CrossRef] [Google Scholar]16. Clugston P.A., Vistnes M.D., Perry L.C., Maxwell G.P., Fisher J. Evaluation of Silicone-Gel Sheeting on Early Wound Healing of Linear Incisions. Ann. Plast. Surg. 1995;34:12–15. doi: 10.1097/00000637-199501000-00003. [PubMed] [CrossRef] [Google Scholar]17. De Araújo L.A., Addor F., Campos P.M.B.G.M. Use of Silicon for Skin and Hair Care: An Approach of Chemical Forms Available and Efficacy. An. Bras. Dermatol. 2016;91:331–335. doi: 10.1590/abd1806-4841.20163986. [PMC free article] [PubMed] [CrossRef] [Google Scholar]18. Cui D., Tian F., Ozkan C.S., Wang M., Gao H. Effect of Single Wall Carbon Nanotubes on Human HEK293 Cells. Toxicol. Lett. 2005;155:73–85. doi: 10.1016/j.toxlet.2004.08.015. [PubMed] [CrossRef] [Google Scholar]19. Arkles B. Commercial Applications of Sol-Gel-Derived Hybrid Materials. MRS Bull. 2001;26:402–408. doi: 10.1557/mrs2001.94. [CrossRef] [Google Scholar]20. Lungu A., Cernencu A.I., Vlasceanu G.M., Florea N.M., Ionita M., Iovu H. 3D POSS Cages Decorated 2D Graphenic Sheets: A Versatile Platform for Silicon-Carbonaceous Nano-Additives Design. Compos. B Eng. 2021;207:108578. doi: 10.1016/j.compositesb.2020.108578. [CrossRef] [Google Scholar]21. DeArmitt C. Polyhedral Oligomericsilsequioxanes: Additives for Unique Cosmetic Properties. Cosmet. Toilet. 2008;123:51–56. [Google Scholar]22. Blanco I. The Rediscovery of POSS: A Molecule Rather than a Filler. Polymers. 2018;10:904.  doi: 10.3390/polym10080904. [PMC free article] [PubMed] [CrossRef] [Google Scholar]23. Quadir M. Poss and Eposs Containing Cosmetics and Personal Care Products. EP1603518A4. 2006 November 22;24. Loman-Cortes P., Binte Huq T., Vivero-Escoto J.L. Use of Polyhedral Oligomeric Silsesquioxane (POSS) in Drug Delivery, Photodynamic Therapy and Bioimaging. Molecules. 2021;26:6453.  doi: 10.3390/molecules26216453. [PMC free article] [PubMed] [CrossRef] [Google Scholar]25. Zhou H., Ye Q., Xu J. Polyhedral Oligomeric Silsesquioxane-Based Hybrid Materials and Their Applications. Mater. Chem. Front. 2017;1:212–230. doi: 10.1039/C6QM00062B. [CrossRef] [Google Scholar]26. DeArmitt C.  Applications of Polyhedral Oligomeric Silsesquioxanes. Springer; Berlin/Heidelberg, Germany: 2011. Polyhedral Oligomeric Silsesquioxanes in Plastics; pp. 209–228. [Google Scholar]27. Punshon G., Vara D.S., Sales K.M., Kidane A.G., Salacinski H.J., Seifalian A.M. Interactions between Endothelial Cells and a Poly (Carbonate-Silsesquioxane-Bridge-Urea) Urethane. Biomaterials. 2005;26:6271–6279. doi: 10.1016/j.biomaterials.2005.03.034. [PubMed] [CrossRef] [Google Scholar]28. Brząkalski D., Przekop R.E., Dobrosielska M., Sztorch B., Marciniak P., Marciniec B. Highly Bulky Spherosilicates as Functional Additives for Polyethylene Processing—Influence on Mechanical and Thermal Properties. Polym. Compos. 2020;41:3389–3402. doi: 10.1002/pc.25628. [CrossRef] [Google Scholar]29. Hartmann-Thompson C.  Applications of Polyhedral Oligomeric Silsesquioxanes. Volume 3. Springer Science & Business Media; Berlin, Germany: 2011.  [Google Scholar]30. Pescarmona P.P., Maschmeyer T. Oligomeric Silsesquioxanes: Synthesis, Characterization and Selected Applications. Aust. J. Chem. 2001;54:583–596. doi: 10.1071/CH02003. [CrossRef] [Google Scholar]31. Cordes D.B., Lickiss P.D., Rataboul F. Recent Developments in the Chemistry of Cubic Polyhedral Oligosilsesquioxanes. Chem. Rev. 2010;110:2081–2173. doi: 10.1021/cr900201r. [PubMed] [CrossRef] [Google Scholar]32. Marciniec B., Dutkiewicz M., Maciejewski H., Kubicki M. New, Effective Method of Synthesis and Structural Characterization of Octakis (3-Chloropropyl) Octasilsesquioxane. Organometallics. 2008;27:793–794. doi: 10.1021/om700962x. [CrossRef] [Google Scholar]33. Brefort J.L., Corriu R.J.P., Guerin C., Henner B.J.L., Wong Chi Man W.W.C. Pentacoordinated Silicon Anions: Synthesis and Reactivity. Organometallics. 1990;9:2080–2085. doi: 10.1021/om00157a016. [CrossRef] [Google Scholar]34. Voronkov M.G., Lavrent’yev V.I.  Inorganic Ring Systems. Springer; Berlin/Heidelberg, Germany: 1982. Polyhedral Oligosilsesquioxanes and Their Homo Derivatives; pp. 199–236. [Google Scholar]35. Hoque M.A., Kakihana Y., Shinke S., Kawakami Y. Polysiloxanes with Periodically Distributed Isomeric Double-Decker Silsesquioxane in the Main Chain. Macromolecules. 2009;42:3309–3315. doi: 10.1021/ma900124x. [CrossRef] [Google Scholar]36. Yoshida K., Hattori T., Ootake N., Tanaka R., Matsumoto H.  Silicon Based Polymers. Springer; Berlin/Heidelberg, Germany: 2008. Silsesquioxane-Based Polymers: Synthesis of Phenylsilsesquioxanes with Double-Decker Structure and Their Polymers; pp. 205–211. [Google Scholar]37. Shimizu T., Kanamori K., Nakanishi K. Transparent Polyvinylsilsesquioxane Aerogels: Investigations on Synthetic Parameters and Surface Modification. J. Solgel Sci. Technol. 2017;82:2–14. doi: 10.1007/s10971-017-4339-6. [CrossRef] [Google Scholar]38. Anoop V., Sankaraiah S., Jaisankar S.N., Chakraborty S., Mary N.L. Enhanced Mechanical, Thermal and Adhesion Properties of Polysilsesquioxane Spheres Reinforced Epoxy Nanocomposite Adhesives. J. Adhes. 2021;97:1–18. [Google Scholar]39. Shimizu T., Kanamori K., Maeno A., Kaji H., Doherty C.M., Falcaro P., Nakanishi K. Transparent, Highly Insulating Polyethyl-and Polyvinylsilsesquioxane Aerogels: Mechanical Improvements by Vulcanization for Ambient Pressure Drying. Chem. Mater. 2016;28:6860–6868. doi: 10.1021/acs.chemmater.6b01936. [CrossRef] [Google Scholar]40. Tsukada S., Wada K., Miura H., Hosokawa S., Abe R., Inoue M. Phosphine-Stabilized, Oxide-Supported Rhodium Catalysts for Highly Efficient Silylative Coupling Reactions. Res. Chem. Intermed. 2015;41:9575–9586. doi: 10.1007/s11164-015-1983-8. [CrossRef] [Google Scholar]41. Frydrych M., Sztorch B., Brząkalski D., Pakuła D., Frąckowiak D., Majchrzak M., Marciniec B. New Functionalized Borasilsesquioxanes Obtained via Metathetical Transformation of 4-Vinylphenylborasilsesquioxanes. Eur. J. Inorg. Chem. 2020;3597:3600. doi: 10.1002/ejic.202000499. [CrossRef] [Google Scholar]42. Chan K.L., Sonar P., Sellinger A. Cubic Silsesquioxanes for Use in Solution Processable Organic Light Emitting Diodes (OLED) J. Mater. Chem. 2009;19:9103–9120. doi: 10.1039/b909234j. [CrossRef] [Google Scholar]43. Shen R., Du Y., Yang X., Liu H. Silsesquioxanes-Based Porous Functional Polymers for Water Purification. J. Mater. Sci. 2020;55:7518–7529. doi: 10.1007/s10853-020-04541-6. [CrossRef] [Google Scholar]44. Hou K., Zeng Y., Zhou C., Chen J., Wen X., Xu S., Cheng J., Pi P. Facile Generation of Robust POSS-Based Superhydrophobic Fabrics via Thiol-Ene Click Chemistry. Chem. Eng. J. 2018;332:150–159. doi: 10.1016/j.cej.2017.09.074. [CrossRef] [Google Scholar]45. Brząkalski D., Przekop R.E., Sztorch B., Jakubowska P., Jałbrzykowski M., Marciniec B. Silsesquioxane Derivatives as Functional Additives for Preparation of Polyethylene-Based Composites: A Case of Trisilanol Melt-Condensation. Polymers. 2020;12:2269.  doi: 10.3390/polym12102269. [PMC free article] [PubMed] [CrossRef] [Google Scholar]46. Dutkiewicz M., Maciejewski H., Marciniec B. Functionalization of Polyhedral Oligomeric Silsesquioxane (POSS) via Nucleophilic Substitution. Synthesis. 2009;2009:2019–2024. [Google Scholar]47. Chen G., Zhou Y., Wang X., Li J., Xue S., Liu Y., Wang Q., Wang J. Construction of Porous Cationic Frameworks by Crosslinking Polyhedral Oligomeric Silsesquioxane Units with N-Heterocyclic Linkers. Sci. Rep. 2015;5:11236. doi: 10.1038/srep11236. [PMC free article] [PubMed] [CrossRef] [Google Scholar]48. Jaroentomeechai T., Yingsukkamol P., Phurat C., Somsook E., Osotchan T., Ervithayasuporn V. Synthesis and Reactivity of Nitrogen Nucleophiles-Induced Cage-Rearrangement Silsesquioxanes. Inorg. Chem. 2012;51:12266–12272. doi: 10.1021/ic3015145. [PubMed] [CrossRef] [Google Scholar]49. Misasi J.M., Jin Q., Knauer K.M., Morgan S.E., Wiggins J.S. Hybrid POSS-Hyperbranched Polymer Additives for Simultaneous Reinforcement and Toughness Improvements in Epoxy Networks. Polymer. 2017;117:54–63. doi: 10.1016/j.polymer.2017.04.007. [CrossRef] [Google Scholar]50. Hu M.-B., Hou Z.-Y., Hao W.-Q., Xiao Y., Yu W., Ma C., Ren L.-J., Zheng P., Wang W. POM–Organic–POSS Cocluster: Creating a Dumbbell-Shaped Hybrid Molecule for Programming Hierarchical Supramolecular Nanostructures. Langmuir. 2013;29:5714–5722. doi: 10.1021/la400802p. [PubMed] [CrossRef] [Google Scholar]51. Li Y., Dong X.-H., Zou Y., Wang Z., Yue K., Huang M., Liu H., Feng X., Lin Z., Zhang W. Polyhedral Oligomeric Silsesquioxane Meets “Click” Chemistry: Rational Design and Facile Preparation of Functional Hybrid Materials. Polymer. 2017;125:303–329. doi: 10.1016/j.polymer.2017.08.008. [CrossRef] [Google Scholar]52. Marciniec B.  Hydrosilylation: A Comprehensive Review on Recent Advances. Springer; Berlin/Heidelberg, Germany: 2008.  [Google Scholar]53. Cekada J., Weyenberg D.R. Verfahren zur Herstellung Kolloidaler Suspenionen von Silsesquioxannen. DE1595471A1. 1970 February 5;54. Krantz K.W. Organopolysiloxanes and Processes for Their Preparation. DE1520029A1. 1969 May 14;55. Yawat Y., Kumagaya S., Yokoyama H., Nakane T., Okunuki Y. Non-Liquid Makeup Cosmetics. JPH0723287B2. 1985 February 22;56. Defossez B., Gagnebien D. Cosmetic Composition in the Form of a Compacted Powder Containing Hollow Microspheres of a Thermoplastic Synthetic Material. AU636202B2. 1993 April 22;57. Takezawa Y. Emulsion Composition. JP2831877B2. 1998 December 2;58. Shimizu C. Complex Globular Powder and Cosmetic Containing the Same. JPH0725727A. 1995 January 27;59. Halloran J.D., Vincent M.J. Organosilicon Hair Care Products. US5225190A. 1993 June 7;60. Bekemeier T., Deklippel L., Dimitrova T., Elms R., Galeone F., Lenoble B., Marteaux L., Roidl J., Severance M., Ugazio S., et al. Process for Preparing Silicate Shell Microcapsules. US9192549B2. 2015 November 24;61. Iwami S., Watanabe Y., Watanabe T. Sunscreen Cosmetic. WO2021125211A1. 2021 June 24;62. Garrison M.S., Robinson F.E., Sandstrom G.A., Buckridge K.A., Yang S., Luo X. Methods and Compositions for Preventing or Reducing Frizzy Appearance of Hair. US9622945B2. 2017 April 18;63. Wagner R., Simon W., Kropfgans M., Nienstedt S., Schnering A., Streicher K., Sockel K.-H., Maass S. Hydrophilic/Lipophilic Modified Polysiloxanes as Emsulsifiers. CN102712757. 2015 January 7;64. Baldo F., Didier C. Make-Up Methods and Compositions for Controlling Browning of Skin Induced by Uv Radiation. 2018. JP2018048210A. 2018 March 29;65. Tamura S., Souda T., Iimura T., Sawayama S., Hori S., Furukawa H. Novel Liquid Organo Polysiloxane and Use Therefor. EP 2716685 A4. 2014 October 29;66. Tachon R., Shimizu M. Pore Hiding Cosmetic Composition Comprising a Plate Type Filler, a Silicon Elastomer and an Oil Absorbing Filler. WO2013190709 A1. 2013 December 27;67. Mendoza R. Cosmetic Composition. CN105250154B. 2020 August 21;68. Jansen J.H., Zukowski J.M., Tanner P.R. Cosmetic Composition. CN105916489B. 2020 December 11;69. Cohen I.D., Cummins P., Sojka M.F., Culhane D.W., Fthenakis C.G., Sobel J.L., Dreher J.D., Mikhaylova Y. Method and Compositions for Improving Appearance of Skin. US-9283154-B2. 2016 March 15;70. Nicholson J.R., Fieschi-Corso L.P. Transfer Resistant Cosmetic Composition with Improved Feel. WO2009002498. 2008 December 31;71. Kanji M., Orr C., Robert V. Cosmetic Compositions Comprising at Least One Polymethylsilsesquioxane Film Former. US6991782B2. 2006 January 31;72. Glenn Corp.  [(accessed on 30 September 2021)].  Available online:  Https://Glenncorp.Com/Wp-Content/Uploads/2016/11/BRB-PMS-2.Pdf73. Glenn Corp.  [(accessed on 30 September 2021)].  Available online:  Https://Glenncorp.Com/Wp-Content/Uploads/2016/11/BRB-PMS-5.Pdf74. Schlosser A. Cosmetic Formulation Comprising Alkyl Phenyl Silsesquioxane Resins. US20040180011A1. 2004 September 16;75. Dow Chemical  670 F. (Online) Dow Chemical.  [(accessed on 4 October 2021)].  Available online:  https://Dow.Com/En-Us/Document-Viewer.Html?RamdomVar=5246173742923931473&docPath=/Content/Dam/Dcc/Documents/En-Us/Productdatasheet/27/27-11/27-1158-0-1-Dowsil-670-Fluid.Pdf76. Kimble E., Arkles B., Zazyczny J., Dick D. Quaternary Functional Silsesquioxanes for Use in Personal Care: Polysilsesquioxane Steardimonium Chloride. SCC Technical Showcase, 6–7 December 2012.  [(accessed on 4 October 2021)].  Available online:  https://www.gelest.com/wp-content/uploads/pdf-04.pdf77. Cho H.J., Kim K.N., Choi K.H., Choi Y.J. Make-up Cosmetic Composition Containing MQ Silicone Resin and Propyl Silsesquioxane Resin. US9463152B2. 2016 October 11;78. Patel S., Amin A., Voorhees-Nordhaus L. Cosmetic Compositions Containing Polypropylsilsesquioxane, a Volatile Solvent, Boron Nitride, and Silica. 2014. US20110243867A1. 2014 November 18;79. Becker L.C.  Safety Assessment of Polysilsesquioxanes as Used in Cosmetics. Cosmetic Ingredient Review; Washington, DC, USA: 2017.  [Google Scholar]80. Hibrid Plastics.  [(accessed on 5 October 2021)].  Available online:  Https://Hybridplastics.Com/Wp-Content/Uploads/2018/10/MS0805_0702161.Pdf81. Hibrid Plastics.  [(accessed on 6 October 2021)].  Available online:  Https://Hybridplastics.Com/Product/Ep0408-2/82. Hibrid Plastics.  [(accessed on 6 October 2021)].  Available online:  Https://Hybridplastics.Com/Wp-Content/Uploads/2019/03/EP0409-TDS-1020161.Pdf83. European Commission.  [(accessed on 6 October 2021)].  Available online:  Https://Ec.Europa.Eu/Growth/Tools-Databases/Cosing/Pdf/COSING_Ingredients-Fragrance%20Inventory_v2.Pdf84. Hibrid Plastics.  [(accessed on 6 October 2021)].  Available online:  Https://Hybridplastics.Com/Wp-Content/Uploads/2016/07/PG1190_070216.Pdf85. Alessandrini A., Piraccini B.M. Essential of Hair Care Cosmetics. Cosmetics. 2016;3:34.  doi: 10.3390/cosmetics3040034. [CrossRef] [Google Scholar]86. Thomson B., Halloran D., Vincent J. Use of Aqueous Silsesquioxanes for Providing Body and Volume Effects from Hair Conditioners; Proceedings of the 17th IFSCC Congres; Yokohama, Japan. 13–16 October 1992; pp. 352–360. [Google Scholar]87. Halloran D.J., Vincent J.M. Hair Fixatives Comprising Nonpolar Silsesquioxanes. US5075103A. 1991 December 24;88. Castrogiovanni A., Barone S.J., Krog A., McCulley M.L., Callelo J.F. Cosmetic Compositions with Improved Transfer Resistance. US5505937A. 1996 April 9;89. Dimotakis E., Bui H.S., Kanji M. Long Wear Cosmetic Compositions Containing Poss Thermoplastic Elastomers. WO2012078751A3. 2012 September 20;90. Maitra P., Zheng T. Cosmetic Nanocomposites Based on In-Situ Cross-Linked POSS Materials. US8545823 B2. 2013 October 1;91. Tuteja A., Choi W., Ma M., Mabry J.M., Mazzella S.A., Rutledge G.C., McKinley G.H., Cohen R.E. Designing Superoleophobic Surfaces. Science. 2007;318:1618–1622. doi: 10.1126/science.1148326. [PubMed] [CrossRef] [Google Scholar]92. Flagg D.H., McCarthy T.J. Rediscovering Silicones: MQ Copolymers. Macromolecules. 2016;49:8581–8592. doi: 10.1021/acs.macromol.6b01852. [CrossRef] [Google Scholar]93. Yu W.H., Quadir M. Poss Containing Cosmetic Compositions Having Improved Wear And/Or Pliability And Methods Of Making Improved Cosmetic Compositions. EP1794233A1. 2007 June 13;94. Arora H., Tosti A. Safety and Efficacy of Nail Products. Cosmetics. 2017;4:24.  doi: 10.3390/cosmetics4030024. [CrossRef] [Google Scholar]95. Welton J., Dixon K., Lichtenhan J., Hait S., Schwab J. Silsesquioxanes and Use in Nail Coatings Thereof. WO2019126781. 2019 June 27;96. Kim K.-M., Oh H.M., Lee J.H. Controlling the Emulsion Stability of Cosmetics through Shear Mixing Process. Korea-Aust. Rheol. J. 2020;32:243–249. doi: 10.1007/s13367-020-0023-4. [CrossRef] [Google Scholar]97. Muenchow L., Lemmer K., Kruse U. Cosmetic W/S Emulsion. EP2319482A2. 2011 May 11;98. Yeon J.Y., Shin B.R., Kim T.G., Seo J.M., Lee C.H., Lee S.G., Pyo H.B. A Study on Emulsion Stability of O/W and W/S Emulsion According to HLB of Emulsifier. J. Soc. Cosmet. Sci. Korea. 2014;40:227–236. doi: 10.15230/SCSK.2014.40.3.227. [CrossRef] [Google Scholar]99. Montenegro L., Paolino D., Puglisi G. Effects of Silicone Emulsifiers on in Vitro Skin Permeation of Sunscreens from Cosmetic Emulsions. J. Cosmet. Sci. 2004;55:509–518. [PubMed] [Google Scholar]100. Tcholakova S., Denkov N.D., Ivanov I.B., Campbell B. Coalescence Stability of Emulsions Containing Globular Milk Proteins. Adv. Colloid Interface Sci. 2006;123:259–293. doi: 10.1016/j.cis.2006.05.021. [PubMed] [CrossRef] [Google Scholar]101. Olejnik A., Schroeder G., Nowak I. The Tetrapeptide N-Acetyl-Pro-Pro-Tyr-Leu in Skin Care Formulations-Physicochemical and Release Studies. Int. J. Pharm. 2015;492:161–168. doi: 10.1016/j.ijpharm.2015.06.050. [PubMed] [CrossRef] [Google Scholar]102. Dyab A.K.F. Destabilisation of Pickering Emulsions Using PH. Colloids Surf. A: Physicochem. Eng. Asp. 2012;402:2–12. doi: 10.1016/j.colsurfa.2012.02.041. [CrossRef] [Google Scholar]103. Prakash N.K.S., Mahendra C., Prashanth S.J., Manral K., Babu U.V., Gowda D.V.S. Emulsions and Emulsifiers. Asian J. Exp. Chem. 2013;8:30–45. [Google Scholar]104. Feng X., Zhu S., Yue K., Su H., Guo K., Wesdemiotis C., Zhang W.-B., Cheng S.Z.D., Li Y. T10 Polyhedral Oligomeric Silsesquioxane-Based Shape Amphiphiles with Diverse Head Functionalities via “Click” Chemistry. ACS Macro Lett. 2014;3:900–905. doi: 10.1021/mz500422g. [CrossRef] [Google Scholar]105. Yue K., Liu C., Guo K., Yu X., Huang M., Li Y., Wesdemiotis C., Cheng S.Z.D., Zhang W.-B. Sequential “Click” Approach to Polyhedral Oligomeric Silsesquioxane-Based Shape Amphiphiles. Macromolecules. 2012;45:8126–8134. doi: 10.1021/ma3013256. [CrossRef] [Google Scholar]106. Imoto H., Nakao Y., Nishizawa N., Fujii S., Nakamura Y., Naka K. Tripodal Polyhedral Oligomeric Silsesquioxanes as a Novel Class of Three-Dimensional Emulsifiers. Polym. J. 2015;47:609–615. doi: 10.1038/pj.2015.38. [CrossRef] [Google Scholar]107. Tadros T.F.  Applied Surfactants: Principles and Applications. John Wiley & Sons; Hoboken, NJ, USA: 2006.  [Google Scholar]108. Masalova I., Tshilumbu N.N., Mamedov E., Kharatyan E., Katende J.K. Stabilisation of Highly Concentrated Water-in-Oil Emulsions by Polyhedral Oligomeric Silsesquioxane Nanomolecules. J. Mol. Liq. 2019;279:351–360. doi: 10.1016/j.molliq.2019.01.104. [CrossRef] [Google Scholar]109. Sakamoto K., Lochhead H., Maibach H., Yamashita Y.  Cosmetic Science and Technology: Theoretical Principles and Applications. Elsevier; Amsterdam, The Netherlands: 2017.  [Google Scholar]110. Kockler J., Oelgemöller M., Robertson S., Glass B.D. Photostability of Sunscreens. J. Photochem. Photobiol. C Photochem. Rev. 2012;13:91–110. doi: 10.1016/j.jphotochemrev.2011.12.001. [CrossRef] [Google Scholar]111. Sambandan D.R., Ratner D. Sunscreens: An Overview and Update. J. Am. Acad. Dermatol. 2011;64:748–758. doi: 10.1016/j.jaad.2010.01.005. [PubMed] [CrossRef] [Google Scholar]112. Latha M.S., Martis J., Shobha V., Shinde R.S., Bangera S., Krishnankutty B., Bellary S., Varughese S., Rao P., Kumar B.R.N. Sunscreening Agents: A Review. J. Clin. Aesthet. Dermatol. 2013;6:16–26. [PMC free article] [PubMed] [Google Scholar]113. Sabzevari N., Qiblawi S., Norton S.A., Fivenson D. Sunscreens: UV Filters to Protect Us: Part 1: Changing Regulations and Choices for Optimal Sun Protection. Int. J. Women’s Dermatol. 2021;7:28–44. doi: 10.1016/j.ijwd.2020.05.017. [PMC free article] [PubMed] [CrossRef] [Google Scholar]114. Ngoc L.T.N., van Tran V., Moon J.-Y., Chae M., Park D., Lee Y.-C. Recent Trends of Sunscreen Cosmetic: An Update Review. Cosmetics. 2019;6:64.  doi: 10.3390/cosmetics6040064. [CrossRef] [Google Scholar]115. Tampucci S., Burgalassi S., Chetoni P., Monti D. Cutaneous Permeation and Penetration of Sunscreens: Formulation Strategies and in Vitro Methods. Cosmetics. 2018;5:1.  doi: 10.3390/cosmetics5010001. [CrossRef] [Google Scholar]116. Stiefel C., Schwack W. Photoprotection in Changing Times–UV Filter Efficacy and Safety, Sensitization Processes and Regulatory Aspects. Int. J. Cosmet. Sci. 2015;37:2–30. doi: 10.1111/ics.12165. [PubMed] [CrossRef] [Google Scholar]117. Kim Y.B., Yoon K.-S., Cosmetics S., Yeongdong C.S.K. Organic-Inorganic Hybrid UV Blocking Powders Based on Polysilsesquioxane. Proc. NSTI Nanotech 2007. 2007;4:254–256. [Google Scholar]118. Yoon K.-S., Jeong T.-G., Kim Y.-B., Lim M.S. Cosmetic Composition Containing UV-Screening Polysilsesquioxane Sphere. KR20060102225A. 2007 September 27;119. Loy D.A., Tolbert S.H. Photochemically Stable, Non-Leaching, Bridged Polysilsesquioxane Based Sunscreens. WO2017132655. 2018 August 3;120. Buwalda S.J., Boere K.W.M., Dijkstra P.J., Feijen J., Vermonden T., Hennink W.E. Hydrogels in a Historical Perspective: From Simple Networks to Smart Materials. J. Control. Release. 2014;190:254–273. doi: 10.1016/j.jconrel.2014.03.052. [PubMed] [CrossRef] [Google Scholar]121. Peppas N.A.  Biomedical Applications of Hydrogels Handbook. Springer Science & Business Media; Berlin/Heidelberg, Germany: 2010.  [Google Scholar]122. Zhang D., Chen L., Wang Z., Wei T. Recent Progress on the Research of High Strength Hydrogels; Proceedings of the 5th International Conference on Advanced Design and Manufacturing Engineering; Shenzhen, China. 19 September 2015; pp. 19–20. [Google Scholar]123. Ghanbari H., Cousins B.G., Seifalian A.M. A Nanocage for Nanomedicine: Polyhedral Oligomeric Silsesquioxane (POSS). Macromol. Rapid Commun. 2011;32:1032–1046. doi: 10.1002/marc.201100126. [PubMed] [CrossRef] [Google Scholar]124. Tanaka K., Chujo Y. Advanced Functional Materials Based on Polyhedral Oligomeric Silsesquioxane (POSS) J. Mater. Chem. 2012;22:1733–1746. doi: 10.1039/C1JM14231C. [CrossRef] [Google Scholar]125. Shi H., Yang J., You M., Li Z., He C. Polyhedral Oligomeric Silsesquioxanes (POSS)-Based Hybrid Soft Gels: Molecular Design, Material Advantages, and Emerging Applications. ACS Mater. Lett. 2020;2:296–316. doi: 10.1021/acsmaterialslett.9b00491. [CrossRef] [Google Scholar]126. Wu J., Hou S., Ren D., Mather P.T. Antimicrobial Properties of Nanostructured Hydrogel Webs Containing Silver. Biomacromolecules. 2009;10:2686–2693. doi: 10.1021/bm900620w. [PubMed] [CrossRef] [Google Scholar]Articles from Materials are provided here courtesy of Multidisciplinary Digital Publishing Institute  (MDPI)
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.6M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

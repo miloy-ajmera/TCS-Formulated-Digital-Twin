@@ -1,0 +1,725 @@
+Document Name: role of MIGLYOL 812 in Foundation Cream0
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284345/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nanocrystals for Improved Drug Delivery of Dexamethasone in Skin Investigated by EPR Spectroscopy - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Pharmaceutics
+
+
+                    PMC7284345
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.9M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Pharmaceutics
+
+
+                    PMC7284345
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Pharmaceutics. 2020 May; 12(5): 400. Published online 2020 Apr 27.  doi: 10.3390/pharmaceutics12050400PMCID: PMC7284345PMID: 32349460Nanocrystals for Improved Drug Delivery of Dexamethasone in Skin Investigated by EPR SpectroscopySilke B. Lohan,1,* Siavash Saeidpour,2 Miriam Colombo,3 Sven Staufenbiel,3 Michael Unbehauen,4 Amanuel Wolde-Kidan,2 Roland R. Netz,2 Roland Bodmeier,3 Rainer Haag,4 Christian Teutloff,2 Robert Bittl,2 and  Martina C. Meinke1Silke B. Lohan1Department of Dermatology, Venerology and Allergology, Center of Experimental and Applied Cutaneous Physiology, Charité—Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, 10117 Berlin, Germany; ed.etirahc@ekniem.anitramFind articles by Silke B. LohanSiavash Saeidpour2Fachbereich Physik, Freie Universität Berlin, 14195 Berlin, Germany; ed.kcotsor-inu@ruopdieas.hsavais (S.S.); ed.nilreb-uf.tadez@namaedlow (A.W.-K.); ed.nilreb-uf.kisyhp@ztenr (R.R.N.); ed.nilreb-uf@ffoltuet.naitsirhc (C.T.); ed.nilreb-uf@lttib.trebor (R.B.)Find articles by Siavash SaeidpourMiriam Colombo3Pharmazeutische Technologie, Institut für Pharmazie, Freie Universität Berlin, 14195 Berlin, Germany; moc.liamg@09mairim.oloc (M.C.); ed.nilreb-uf@leibnefuats.nevs (S.S.); ed.nilreb-uf.tadez@reiemdob (R.B.)Find articles by Miriam ColomboSven Staufenbiel3Pharmazeutische Technologie, Institut für Pharmazie, Freie Universität Berlin, 14195 Berlin, Germany; moc.liamg@09mairim.oloc (M.C.); ed.nilreb-uf@leibnefuats.nevs (S.S.); ed.nilreb-uf.tadez@reiemdob (R.B.)Find articles by Sven StaufenbielMichael Unbehauen4Institut für Chemie und Biochemie, Freie Universität Berlin, 14195 Berlin, Germany; ed.nilreb-uf.tadez@hcimuahebnu (M.U.); ed.nilreb-uf.eimehc@gaah (R.H.)Find articles by Michael UnbehauenAmanuel Wolde-Kidan2Fachbereich Physik, Freie Universität Berlin, 14195 Berlin, Germany; ed.kcotsor-inu@ruopdieas.hsavais (S.S.); ed.nilreb-uf.tadez@namaedlow (A.W.-K.); ed.nilreb-uf.kisyhp@ztenr (R.R.N.); ed.nilreb-uf@ffoltuet.naitsirhc (C.T.); ed.nilreb-uf@lttib.trebor (R.B.)Find articles by Amanuel Wolde-KidanRoland R. Netz2Fachbereich Physik, Freie Universität Berlin, 14195 Berlin, Germany; ed.kcotsor-inu@ruopdieas.hsavais (S.S.); ed.nilreb-uf.tadez@namaedlow (A.W.-K.); ed.nilreb-uf.kisyhp@ztenr (R.R.N.); ed.nilreb-uf@ffoltuet.naitsirhc (C.T.); ed.nilreb-uf@lttib.trebor (R.B.)Find articles by Roland R. NetzRoland Bodmeier3Pharmazeutische Technologie, Institut für Pharmazie, Freie Universität Berlin, 14195 Berlin, Germany; moc.liamg@09mairim.oloc (M.C.); ed.nilreb-uf@leibnefuats.nevs (S.S.); ed.nilreb-uf.tadez@reiemdob (R.B.)Find articles by Roland BodmeierRainer Haag4Institut für Chemie und Biochemie, Freie Universität Berlin, 14195 Berlin, Germany; ed.nilreb-uf.tadez@hcimuahebnu (M.U.); ed.nilreb-uf.eimehc@gaah (R.H.)Find articles by Rainer HaagChristian Teutloff2Fachbereich Physik, Freie Universität Berlin, 14195 Berlin, Germany; ed.kcotsor-inu@ruopdieas.hsavais (S.S.); ed.nilreb-uf.tadez@namaedlow (A.W.-K.); ed.nilreb-uf.kisyhp@ztenr (R.R.N.); ed.nilreb-uf@ffoltuet.naitsirhc (C.T.); ed.nilreb-uf@lttib.trebor (R.B.)Find articles by Christian TeutloffRobert Bittl2Fachbereich Physik, Freie Universität Berlin, 14195 Berlin, Germany; ed.kcotsor-inu@ruopdieas.hsavais (S.S.); ed.nilreb-uf.tadez@namaedlow (A.W.-K.); ed.nilreb-uf.kisyhp@ztenr (R.R.N.); ed.nilreb-uf@ffoltuet.naitsirhc (C.T.); ed.nilreb-uf@lttib.trebor (R.B.)Find articles by Robert BittlMartina C. Meinke1Department of Dermatology, Venerology and Allergology, Center of Experimental and Applied Cutaneous Physiology, Charité—Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, 10117 Berlin, Germany; ed.etirahc@ekniem.anitramFind articles by Martina C. MeinkeAuthor information Article notes Copyright and License information Disclaimer1Department of Dermatology, Venerology and Allergology, Center of Experimental and Applied Cutaneous Physiology, Charité—Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, 10117 Berlin, Germany; ed.etirahc@ekniem.anitram2Fachbereich Physik, Freie Universität Berlin, 14195 Berlin, Germany; ed.kcotsor-inu@ruopdieas.hsavais (S.S.); ed.nilreb-uf.tadez@namaedlow (A.W.-K.); ed.nilreb-uf.kisyhp@ztenr (R.R.N.); ed.nilreb-uf@ffoltuet.naitsirhc (C.T.); ed.nilreb-uf@lttib.trebor (R.B.)3Pharmazeutische Technologie, Institut für Pharmazie, Freie Universität Berlin, 14195 Berlin, Germany; moc.liamg@09mairim.oloc (M.C.); ed.nilreb-uf@leibnefuats.nevs (S.S.); ed.nilreb-uf.tadez@reiemdob (R.B.)4Institut für Chemie und Biochemie, Freie Universität Berlin, 14195 Berlin, Germany; ed.nilreb-uf.tadez@hcimuahebnu (M.U.); ed.nilreb-uf.eimehc@gaah (R.H.)*Correspondence: ed.etirahc@nahol.eklis; Tel.: +49-30450518244Received 2020 Apr 2; Accepted 2020 Apr 24.Copyright © 2020 by the authors.Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (http://creativecommons.org/licenses/by/4.0/).Associated DataSupplementary Materialspharmaceutics-12-00400-s001.pdf (447K)GUID: C7DACC39-6E3B-4FA0-A479-AE7757D6D35CAbstractNanocrystals represent an improvement over the traditional nanocarriers for dermal application, providing the advantages of 100% drug loading, a large surface area, increased adhesion, and the potential for hair follicle targeting. To investigate their advantage for drug delivery, compared to a base cream formulation, dexamethasone (Dx), a synthetic glucocorticoid frequently used for the treatment of inflammatory skin diseases, was covalently linked with the paramagnetic probe 3-(carboxy)-2,2,5,5-tetramethyl-1-pyrrolidinyloxy (PCA) to DxPCA. To investigate the penetration efficiency between these two vehicles, electron paramagnetic resonance (EPR) spectroscopy was used, which allows the quantification of a spin-labeled drug in different skin layers and the monitoring of the drug release. The penetration behavior in excised healthy and barrier-disrupted porcine skin was monitored by EPR, and subsequently analyzed using a numerical diffusion model. As a result, diffusion constants and free energy values in the different layers of the skin were identified for both formulations. Dx-nanocrystals showed a significantly increased drug amount that penetrated into viable epidermis and dermis of intact (factor 3) and barrier-disrupted skin (factor 2.1) compared to the base cream formulation. Furthermore, the observed fast delivery of the spin-labeled drug into the skin (80% DxPCA within 30 min) and a successive release from the aggregate unit into the viable tissue makes these nanocrystals very attractive for clinical applications.Keywords: skin penetration, nanocarriers, nanocrystals, penetration kinetics, 1D general diffusion equation, electron paramagnetic resonance (EPR) spectroscopy1. IntroductionThe stratum corneum (SC) represents the greatest challenge for the penetration of active substances into the viable skin. It is composed of 10 to 20 cell layers of coherent, coreless corneocytes, which are embedded in a lipid-enriched intercellular space, where ceramides, free fatty acids, and cholesterol constitute the main part, forming bilayer structures of 4 to 5 nm thickness. Located in the uppermost layer of the epidermis, the SC thus represents the primary barrier between the organism and the environment [1,2].The topical application of drugs incorporated into a cream formulation is the most frequently used form of therapy for the treatment of skin diseases [3]. Impairments in the integrity of the horny layer, which are characteristic for inflammatory skin diseases, facilitate epicutaneous treatments [4,5]; nevertheless, each skin disease has a different severity of integrity disorder, making a standard skin care approach difficult. Also, the efficiency of direct penetration of the lipid-rich SC is crucially determined by the exact properties of the diffusing drug, since it has been shown that the chemical structure affects solute interactions with lipid bilayers [6].The incorporation of medication into a vehicle, such as nano-sized carrier systems, is intended to improve the penetration of drugs into intact and also barrier-disrupted skin. A targeted dosage can be carried out, improving the effectiveness of the treatment of affected skin areas and thus minimizing side effects [7,8]. In recent years, various carrier systems, such as liposomes, nano-emulsions, or polymer-based particles, have been developed, depending on the chemical and physical properties of the drug of interest [9,10,11]. Often they have limited success, due to the insufficient drug load.Electron paramagnetic resonance (EPR) spectroscopy enables the localization of active substances and drug analogues in nanocarrier systems using a covalently bound spin label, which can report on microenvironment properties like polarity and viscosity [12,13,14]. Furthermore, the release of spin probes from nanocarriers and their skin penetration efficiency can be investigated, and an absolute quantification of them can be performed as well [15].Dexamethasone (Dx) is an artificial glucocorticoid, and one of the most important drugs to suppress the body’s immune system and to control inflammation processes. It inhibits the formation of inflammatory substances (prostaglandins), as well as the production of new immune cells, suppressing further immune reactions [16,17]. Dx has been covalently labeled with the spin probe 3-(carboxy)-2,2,5,5-tetramethyl-1-pyrrolidinyloxy (PCA) to form DxPXA, which has been well-established as a model drug for ex vivo penetration studies by EPR. First, the loading capacity with DxPCA and its localization in carrier system was characterized, followed by skin penetration investigations on ex vivo skin. During these investigations, Dx and DxPCA were found to be poorly soluble in aqueous solution [18,19,20].Our own EPR studies have shown that dendritic core–multi-shell (CMS) particles are efficient drug delivery systems for the topical application of hydrophilic substances to the skin. In direct comparison to lipid-based invasomes, CMS nanocarriers have shown increased penetration, especially in the upper layers of the SC [21]. In addition, improved cutaneous penetration of the model drug DxPCA loaded in CMS particles was demonstrated vs. DxPCA dissolved in aqueous solution [19]. A comparison between a base cream formulation and solid lipid nanoparticles (SLNs) exhibited a generally improved penetration efficiency of DxPCA into the SC for SLN. After 24 h, a more than two-fold higher penetration efficiency for SLNs was observed. Furthermore, a combination of different spectroscopic and microscopic methods exhibited a reservoir function within the SC and the hair follicles for SLNs [18].Nanocrystals are another promising carrier system. They are formulations that enable increased bioavailability of sparingly soluble active ingredients. In contrast to other carriers, they consist of pure active substance—i.e., they have 100% drug loading. Due to their “nano size”, they have a higher kinetic saturation solubility [22] and a higher dissolution rate compared to normal powders. After dermal application, an increased concentration gradient between formulation and skin, and thus an increased passive penetration is obtained [23]. Nanocrystals can be used to improve dermal penetration processes, as has been demonstrated with the model drug curcumin [24].Nanocrystals represent a promising alternative to the carrier systems, which have already been investigated extensively by EPR, as mentioned above. Their main advantage lies in their high loading capacity. Therefore, the aim of this study was to analyze this carrier system and to check whether the epicutaneous application of Dx to skin could be further improved.The penetration of the model drug DxPCA into intact and barrier-disrupted ex vivo porcine skin was examined using EPR spectroscopy. A DxPCA nanocrystal suspension and a base cream formulation with the same drug concentration were compared. The temporal profile of the DxPCA penetration, its release kinetics into the skin, as well as the results from the data-based model for intact and barrier-disrupted skin were investigated and critically compared, in order to finally assess the penetration efficiency of the nanocrystals.2. Materials and Methods2.1. ChemicalsFor the preparation of spin-labeled DxPCA, chemicals from Merck Chemicals GmbH (Darmstadt, Germany) were used, if not listed separately.All chemicals for the base cream production (except DxPCA) were received from Caesar and Loretz GmbH (Hilden, Germany).2.2. Preparation of Spin-Labeled Dexamethasone (DxPCA)To enable the analysis of the penetration kinetics of the glucocorticoid dexamethasone (Dx) by EPR spectroscopy, Dx was covalently labeled with the spin probe PCA. This spin probe is stable in the skin and not immediately reduced by the microenvironment [25,26]. DxPCA was synthesized by heating to reflux Dx with PCA, 4-(Dimethyl)-aminopyridine and 1-Ethyl-3-(3-dimethylaminopropyl) carbodiimide in dichloromethane solution for 3 h with subsequent column–chromatographic purification. Finally, DxPCA had a labeling efficiency of ~80%, measured by EPR [25]. This powder (Figure S1) was used for the preparation of the DxPCA nanocrystals and a DxPCA base cream formulation.2.3. Preparation of DxPCA NanocrystalsNanocrystals of PCA-labeled dexamethasone were prepared by wet bead milling. The drug was dispersed into 0.5% (w/v) poloxamer 407 solution (Kolliphor 407, BASF, Ludwigshafen, Germany) and homogenized by an Ultra Turrax (T25, IKA-Werke GmbH, Staufen, Germany) at 20,500 rpm for 30 s. Ultra-purified water, purified by a Milli-Q apparatus (Millipore GmbH, Darmstadt, Germany), was used. The suspension was afterwards added to a 100 mL Erlenmeyer flask containing 0.1–0.2 mm zirconium beads (ratio suspension/beads = 1:3) (SiLibeads, Sigmund Lindner GmbH, Warmensteinach, Germany) and milled for 3 h under magnetic stirring at ~800 rpm. The Erlenmeyer was kept in an ice bath to ensure low product temperatures during milling. The nanosuspension was separated from the beads by filtration through a filter paper with a pore size of ~45 µm (Sartorius AG, Goettingen, Germany). Finally, the nanosuspension was filtered through a 1.2 µm filter to exclude big particles (Whatman GE Healthcare Ltd., Buckinghamshire, United Kingdom).The real drug content was measured after filtration by UV spectroscopy (Agilent HP 8453, Agilent Technologies Inc., Santa Clara, CA, United States). Subsequently, the suspension was diluted with a 0.5% (w/v) poloxamer 407 solution to obtain the desired final drug concentration (0.05% (w/w)), which was confirmed by UV analysis. The nanosuspension particle size was measured by photon correlation spectroscopy (PCS) (Zetasizer Nano ZS, Malvern Instruments Ltd., Malvern, United Kingdom).2.4. Preparation of 0.05% (w/W) DxPCA in Base Cream (Cremor Basalis)The batch size was 25 g and was prepared with mortar and pestle. The composition of cremor basalis is (% m/m) 4.0 glycerol monostearate 60, 6.0 cetyl alcohol, 7.5 Miglyol 812, 25.5 white soft paraffin, 7.0 Tagat S2, 10.0 propylene glycol, and 40.0 ultrapurified Milli-Q water (Millipore GmbH, Darmstadt, Germany) (Table 1). The preparation of cremor basalis was as follows: the oil phase (glycerol monostearate 60, cetyl alcohol, Miglyol 812, white soft paraffin) and the water phase (Tagat S2, water) were homogenized separately at 70 °C in a water bath. Subsequently, the water phase was dispersed into the oil phase and stirred until room temperature was reached. Afterwards, propylene glycol and evaporated water were added homogenously. The incorporation of coarse DxPCA into cremor basalis was completed by dispersing DxPCA in an equivalent amount of Miglyol 812. An equivalent amount of cremor basalis (the final concentration of Miglyol 812 in cremor basalis was kept at 7.5% m/m) was homogenized with this mixture. This step was repeated until batch size was reached.Table 1Overview of the composition, with the respective concentration of each component of the cremor basilis (1) and the final drug-containing formulation (2); dexamethasone– 3-(carboxy)-2,2,5,5-tetramethyl-1-pyrrolidinyloxy (DxPCA).
+(1) Cremor Basalis DAC (German Pharmaceutics Codex)
+
+Component
+
+Concentration (% Weight/Weight)
+glycerol monostearate 604.0cetyl alcohol6.0medium-chain triglycerides (Miglyol 812)7.5white soft paraffin25.5Macrogol-20-glycerol-monostearate (Tagat S2)7.0propylene glycol10.0ultrapurified Milli-Q- water40.0
+(2) Final Drug-Containing Formulation
+
+Component
+
+Concentration (% Weight/Weight)
+DxPCA0.05Cremor basalis DAC99.95Open in a separate window2.5. EPR SpectroscopyThe EPR experiments were performed on a X-band EPR spectrometer (Bruker Elexsys E500, BioSpin GmbH, Karlsruhe, Germany) at room temperature. A SHQ resonator (E4122011SHQE-W1, Bruker BioSpin GmbH, Karlsruhe, Germany) was used for spin quantification with the following parameter settings: frequency = 9.8 GHz, central magnetic field = 350 mT, magnetic field sweep width = 20 mT, modulation frequency = 100 kHz, modulation amplitude = 0.2 mT, and attenuation = 22 dB. A TMHS resonator and a rapid scan unit (E2044500TMHS, Bruker BioSpin GmbH, Karlsruhe, Germany) were used for penetration studies with the following parameter settings: frequency = 9.5 GHz, central magnetic field = 350 mT, magnetic field sweep width = 20 mT, modulation frequency = 100 kHz, modulation amplitude = 0.3 mT, attenuation = 10 dB, and scans = 50,000. The analysis of all EPR data was performed using the Bruker device control software Xepr (Bruker Biospin, Karlsruhe, Germany).2.5.1. Spin Quantification of the Vehicles Loaded with DxPCA The amount of spin-labeled DxPCA within the used vehicles (base cream, nanocrystals) was determined as previously described [18]. Both the nanocrystal suspension and the base cream formulation were diluted at a ratio of 1:10 with DMSO (Sigma Aldrich, Darmstadt, Germany) before spin quantification was performed using glass capillaries (Hirschmann Laborgeräte GmbH & Co. KG, Eberstadt Germany) sized 1.2 mm/1.0 mm (outer diameter/inner diameter).The absolute spin concentrations and the spin amounts were measured and calculated in triplicate.2.5.2. Penetration Study of DxPCA into Intact and Barrier-Disrupted Skin For modeling the penetration kinetics of spin-labeled Dx into intact and barrier-disrupted skin, porcine skin, which is an accepted model for human skin, has been used [27], with the approval of the Veterinary Office Berlin Treptow-Köpenick. The skin was delivered by a local butcher on the day of slaughter and purified as previously described [28]. To simulate a barrier disorder of the skin, the procedure of “tape stripping” was applied [29,30,31]. In order to simulate barrier-disrupted skin, as it occurs in inflammatory skin diseases, 50 tapes (Tesa film No. 5529, Beiersdorf, Hamburg, Germany) were removed before the topical application of the vehicles. The tapes were removed from the skin as described previously [32,33]. With the removal of 50 tapes, the skin barrier is specifically disturbed, but 2–3 µm of the stratum corneum remain [31]. Afterwards, 20 μL/cm2 (12 µg/ cm2 ± 1 µg/ cm2) of the respective formulation was applied onto the skin (intact/ barrier-disrupted) and was evenly distributed by vibration massage for 2 min (Rehaforum Medical GmbH, Elmshorn, Germany), followed by an incubation at 32 °C in a chamber with 100% humidity to avoid dehydration of the skin. The penetration kinetics of DxPCA was analyzed by EPR 30 min, 1 h, and 4 h after topical application. After the respective penetration time, the uppermost layer of the skin (400 µm) was excised using a dermatome (Aesculap Acculan 3Ti Dermatom, Aesculap-Werke AG, Tuttlingen, Germany). Skin sections 0.5 × 1.5 cm in size were placed into a tissue cell (ER 162TC-Q, Bruker, Bruker Biospin GmbH Karlsruhe, Germany) and measured at ambient temperature (21 °C).For the evaluation of the amount of DxPCA within the different skin layers, the skin with supernatant (remaining DxPCA which is not completely uptaken by the skin) after the respective incubation period was used as initial value; therefore, the size and the thickness of the analyzed skin samples in combination with the double integration of the EPR spectrum was used for the absolute spin quantification.All measurements were performed in triplicate on different porcine ear skin samples.2.6. Numerical ModelingThe one-dimensional (1D) generalized diffusion equation is used to describe the time-dependent skin penetration of the drug. The inhomogeneous skin structure is modeled in terms of depth-dependent diffusivity D(z) and a free-energy landscapes F(z). The diffusivity describes the local mobility of the drug molecules, while the free energy describes the local affinity of the drug to the environment. The diffusion equation can be written compactly as
+∂c(z,t)∂t=∂∂z[D(z)e−βF(z)∂∂z(c(z,t)eβF(z))],(1)
+where c(z,t) is the concentration at depth z and time t. As introduced in previous studies [34,35], the numerical solution to Equation (1) was used to extract diffusivity profiles and local free energy values from the measured concentration data. In light of the reduced spatial resolution of the present data, it was assumed that the values for D(z) and F(z) have piecewise constant values within the formulation applied onto the skin, the stratum corneum and the epidermis. The integrated concentration in these three regions from the numerically calculated concentration profiles was then fitted to the experimentally measured values and used to determine the optimal D and F values. Good agreement between experimental data and numerically computed DxPCA concentrations was obtained with deviations in terms of the root mean squared relative error ranging from σ = 1.5%–4%.For the discretization of the diffusion equation, a total of 99 discretization sites were used, with 33 sites per region at variable discretization widths from Δz = 0.1–10 µm, depending on the sample size. The optimization of the parameters was performed using the non-linear trust region method implemented in Python’s scipy package [36]. Error bars were estimated from averaging over different numerical solutions that exhibited errors deviating less than 10% from the optimal numerical solution. Since only integrated concentration profiles are fitted to the experimental data, and the experimental measurements were already close to the stationary distribution, uncertainties for the extracted parameters are relatively large.In the case of experiments performed with DxPCA nanocrystal suspensions, one could in principle augment Equation (1) to also include the DxPCA release kinetics from the crystals and model the DxPCA fraction present in form of nanocrystals and the DxPCA fraction released into solution separately. Since the experimental data do not allow us to determine all necessary kinetic parameters uniquely, such an augmented diffusion equation could not be used. The obtained values for the diffusion constant and energy differences thus represent effective parameters that describe both the DxPCA bound in the nanocrystals and the free DxPCA in solution.2.7. Permeability CoefficientsA quantity commonly used to evaluate the efficiency of penetration is the so-called permeability coefficient P, which is defined in terms of the flux J that is produced by a difference in concentration at both sides of a barrier:P(z1,z2) =Jc(z1)−c(z2)(2)
+where c is the concentration at the left (z1) or right (z2) side of the barrier.Using the determined values for the diffusion constants and the free energy, the permeability of the skin samples can be computed as
+ 1Ptot=1PSC+1Pepi=LSCDSCKSC+LepiDepiKepi(3)
+where Di denotes the diffusion constant; Ki = exp(−Fi/kBT) is the partition coefficient, computed from the free energy in the respective regions relative to the outer medium; and Li is the length of the segments (SC: stratum corneum, epi: epidermis). This equation for the permeability coefficient is based on the assumption that the medium embedding the diffusional barrier (the skin sample in this case) is the same on both sides (at z1 and z2).2.8. StatisticsFor all statistical analyses, SPSS for Windows (SPSS Inc., Chicago, IL, United States) was used. Differences in mean values were analyzed using repeated measures (RM) analysis of variance (ANOVA) (one-way and two-way). A value of p ≤ 0.05 was considered as significant.3. Results3.1. Investigation of the Mobility of DxPCA in the Vehicles by EPRDxPCA was mixed into a base cream and used for a nanocrystal suspension, which had a particle size of 260–290 nm. Both vehicles exhibit a spin concentration of (7.3 ± 0.6) × 1014 mm3, which is equivalent to a concentration of 1 mM.The EPR spectra of both vehicles are visually similar (Figure 1A). These spectra are a superposition of an intense central line and a weak, typical three-line spectrum of a nitroxide in solution (DxPCA in water shown in Figure 1B for reference). The strong and approximately 10 G broad central line arises from spin–spin coupling between the densely packed DxPCA molecules within the nanocrystal formulation and the presence of DxPCA aggregates within the base cream. The weak three-line spectrum in Figure 1A originates from dissolved/free DxPCA. Only the low- and high-field lines of the three-line spectrum are visible in Figure 1A, while the middle line is obscured by the strong central line. Hence, Figure 1A shows that different states of DxPCA coexist in both formulations. For comparison, DxPCA in an aqueous solution (unbound) shows three narrow peaks, illustrating high mobility (Figure 1B) [19].Open in a separate windowFigure 1X-band electron paramagnetic resonance (EPR) spectra of dexamethasone–3-Carboxy-proxyl (DxPCA). (A) 1 mM of DxPCA dissolved in a base cream (grey line) and in a nanocrystal formulation (black line) at ambient temperature. Both spectra are normalized to the maximum height of the middle peak. (B) DxPCA (90 µM) dissolved in an aqueous solution [19].3.2. Penetration of DxPCA into Healthy and Barrier-Disrupted Excised Porcine Skin, as Analyzed by EPR SpectroscopyTo investigate the penetration efficiency and kinetics of DxPCA dissolved in a base cream formulation, as well as in a nanocrystal formulation into intact and barrier-disrupted porcine ear skin, EPR measurements at X-band were performed.The EPR investigations demonstrate that the penetration of the corticosteroid can be enhanced by three independent parameters, the formulation itself, the penetration time, and the skin condition (Figure 2 and Figure 3).Open in a separate windowFigure 2Relative amount of DxPCA within the viable epidermis for intact (painted bars) and barrier-disrupted (shaded bars) skin after 4 h of incubation time. The data are calculated relative to the total amount applied, realized by measuring the skin sample with supernatant (remaining DxPCA that is not completely taken up by the skin) by EPR spectroscopy immediately after the incubation time; Mean ± SEM, * p ≤ 0.05, ** p ≤ 0.01, *** p ≤ 0.001.Open in a separate windowFigure 3Distribution profile of DxPCA in the remaining intact (A) and barrier-disrupted (B) skin samples after the topical application of a base cream (monochrome, 1mM), a nanocrystal suspension (pattern design, 1mM), and various incubation times (0.5, 1 and 4h). To analyze the distribution of DxPCA in intact skin different amounts of the stratum corneum (SC) were removed by tape stripping and the remaining skin samples were analyzed. To analyze the amount of DxPCA within the viable epidermis of barrier-disrupted skin, an additional 50 tapes were removed after the respective incubation time; for the intact skin, 100 tapes were removed; Mean ± SEM, * p ≤ 0.05, ** p ≤ 0.01, *** p ≤ 0.001.The usage of nanocrystals increases the local concentration gradient for both intact and barrier-disrupted skin significantly, so that higher amounts of DxPCA reached the viable epidermis compared to the base cream formulation (Figure 2). For intact skin, nanocrystals increased the amount of the drug within the viable epidermis by a factor of 3 in comparison to the cream formulation (3.6% vs. 10.5%). An inclusion of the skin’s health status indicates that a disruption of the skin barrier enhanced the permeability for both vehicles (base cream, nanocrystals). An intra-individual comparison of the penetration shows an increase of almost 3.5 times, and for the nanocrystals 2.1 times, between intact and barrier-disrupted skin for the base cream. An inter-individual comparison demonstrates that nanocrystals promote the penetration of DxPCA into the viable epidermis to a greater extent. Already, in intact skin, a significant increase in the DxPCA-concentration can be detected. Thus, a barrier disruption is required to obtain comparable concentrations of DxPCA with the base cream formulation, as in intact skin, with the nanocrystals in the viable epidermis (Figure 2).However, not only the selection of the formulation itself, but also an extension of the penetration time showed positive effects on the penetration behavior of DxPCA into intact or barrier-disrupted skin. For both the base cream and nanocrystal formulation, an extension of the penetration time from 30 min up to 4 h increased the amount of drug that penetrated into the individual skin layers and the viable epidermis (Figure 3). For intact skin, it was shown that a major proportion of DxPCA is present in the viable epidermis after 30 min. An extension of the penetration time increased the already existing DxPCA levels, especially for the base cream formulation (factor of 1.8) (Figure 3A). For barrier-disturbed skin, an extension of the penetration time to 4 h increases the DxPCA content by a factor of 3 in the case of the base cream formulation, and for the nanocrystals a 4 h incubation improves the penetration by a smaller factor (1.26) (Figure 3B). It is clearly shown that nanocrystals have significantly reduced the required penetration time for DxPCA into the skin in comparison to the base cream formulation.The absolute spin quantification illustrates, for the nanocrystals, an increased penetration of DxPCA into the skin vs. base cream formulation (Table 2).Table 2Quantitative analysis of absolute spin concentration within the analyzed skin sample ([spins × 1014/cm2]) of DxPCA within the whole skin after the removal of the supernatant for the respective incubation time (corresponding to the applied DxPCA amount of 12 ± 1 µg/cm2).
+
+Incubation TimeApplied FormulationSkin Condition0.5 h1 h4 hBase creamintact skin10 ± 212 ± 218 ± 3
+barrier-disrupted skin11 ± 110 ± 2 13 ± 1Nanocrystalsintact skin53 ± 9 61 ± 1169 ± 6
+barrier-disrupted skin85 ± 390 ± 184 ± 1Open in a separate window3.3. Release of DxPCA from the Vehicle into Healthy and Barrier-Disrupted Excised Porcine Skin, as Shown by EPRFigure 4 shows the X-band EPR spectra of spin-labeled Dx within the viable epidermis after incubation times of 0.5, 1.0, and 4.0 h. All X-band EPR spectra were normalized to the same peak intensity of the central peak.Open in a separate windowFigure 4Normalized X-Band EPR spectra of spin-labeled Dx within the viable epidermis after the topical application of a base cream formulation (left column) and nanocrystals (right column) to intact and barrier-disrupted skin and penetration times of 0.5, 1.0, and 4.0 h.The spectral shape of DxPCA in skin (Figure 4) is significantly different from that seen in both formulations and in water (Figure 1). The central peak of all EPR spectra in the skin is much narrower than in the formulations (Figure 1A). In skin, the formation of a clear intensity left of the central peak is visible around 348 mT; it is best discernable in the nanocrystal spectra (Figure 4, right columns). This intensity can be assigned to dissolved but partially immobilized DxPCA in the absence of significant spin–spin interaction. For both formulations, this immobilized DxPCA fraction is the main species. Highly mobile DxPCA, giving rise to the sharp three-line spectral component, similar to PCA in water (Figure 1B), is the minority. The absence of spin–spin coupling in this majority species shows that the vast amount of DxPCA is present in the skin as dissolved species.Extension of the penetration time increases the amount of mobile DxPCA compared to the immobilized fraction in barrier-disrupted skin for both formulations. Application of DxPCA by the nanocrystal formulation on skin results in more and faster penetration of the drug into different skin layers, in comparison to the base cream formulation.For the assessment of the microenvironment of mobile DxPCA, the hyperfine coupling constant (hfc) was determined from the obtained EPR spectra. This parameter indicates whether the mobile drug molecules are in a more lipophilic or aqueous environment, and can be obtained by evaluating the splitting of the lines in the three-line part of the spectrum. This splitting gives an hfc value of 45.8 MHz for DxPCA in both vehicles before topical application on skin, which corresponds to DxPCA in an aqueous environment (45.1 MHz for DxPCA in water [18]). After topical application and 4 h penetration time, the hfc values changed to 41.9 MHz and 41.7 MHz for base cream and nanocrystals, respectively, within the viable epidermis. These hfc values are very close to the 40.6 MHz [18] reported for DxPCA dissolved in the amphiphilic DMSO. Thus, the mobile DxPCA fraction, after application by both vehicles within the viable epidermis, is very likely in an amphiphilic environment [37].3.4. Data-Based Modeling of the Penetration Kinetics of DxPCA into Healthy and Barrier-Disrupted SkinResults of the numerical analysis based on the one-dimensional general diffusion equation can give further insight into the experimental data. Here we analyze the diffusion constant and free energy in three different regions: the DxPCA formulation applied to the skin (termed applied substance), the SC, and the epidermis. Figure 5 shows the results for the two DxPCA formulations penetrating into healthy skin. As explained in the Methods section, the estimation of the diffusion constants in the three different regions is difficult, due to the relatively long incubation times before the measurement started. The upper panels of Figure 5 show that the penetration process is already almost completed after 30 min. It is thus hard to evaluate the significance of the slight increase of the DxPCA mobility in the SC compared to the applied substance, as observed for both the base cream and nanocrystal formulation (see lower panels of Figure 5). The values of the obtained diffusion constants lie, however, in the range of those expected based on previous analyses [34,35], even though the skin samples were treated differently. The free energy landscape looks similar for both DxPCA formulations; however, a significantly lower value of the free energy in the SC is observed in the case of the Dx nanocrystals. This effect of lowering the free energy level in the SC by the nanocrystals is even more pronounced in the case of the barrier-disrupted skin samples (see Figure S2). The energy barrier towards the lower skin layers consisting of the epidermis and the dermis is of the same magnitude for both, the base cream and the nanocrystal suspension and is in agreement with previous studies [34,35]. As the free energy landscape determines the partition coefficient K between the different regions and the applied substance as K = exp(−F/kBT), where kBT denotes the thermal energy, this indicates a preferred partitioning of DxPCA into the SC, for both formulations, with a stronger effect for the nanocrystal formulation.Open in a separate windowFigure 5Results of the numerical analysis for the penetration of DxPCA in the two formulations in the case of healthy skin. A root mean squared error of below 5% is obtained for all analyses. An increased partitioning of DxPCA into the SC is observed for the nanocrystal formulation, apparent in the lower energy value in the SC for the nanocrystal suspension (a partition coefficient of K(SC/sub) = 7.4 was obtained, compared to K(SC/sub) = 2.2 for the base cream formulation). Shaded areas indicated the estimated error for the diffusion constant and free energy.3.5. Permeability Coefficients for Intact and Barrier-Disrupted SkinUsing the previously determined values for the diffusion constants and the free energy, the permeability coefficients for intact and barrier-disrupted skin for both DxPCA formulations were determined based on Equation (3) in the Methods section (see Figure 6).Open in a separate windowFigure 6Computed permeability coefficients from the numerical data. The permeability in the SC is the highest, due to the free energy minimum here and the smaller length scale. All obtained permeabilities are higher for the case of the nanocrystal formulation compared to the base cream. Also, barrier-disrupted skin shows higher permeability compared to intact skin.Figure 6 shows the computed permeability coefficients in the SC and the epidermis, as well as the total permeability coefficients. It is apparent that the permeability in the SC is several magnitudes larger than in the epidermis for all measurements. This is due to the previously discussed minimum in the free energy in the SC and the resulting partitioning of the DxPCA, but also because of the much smaller thickness of the SC. The total permeability is, however, dominated by the smallest permeability in the inverse sum, which is obtained for the epidermis. For both, the barrier-disrupted and the intact skin samples, the obtained permeability coefficients are significantly higher in the case of the nanocrystal formulation. Additionally, barrier disrupted skin shows increased permeability over intact skin.4. DiscussionThe efficiency of topically applied drugs to penetrate into the skin depends on their chemical and physical properties [38], the vehicle used [39], and the skin condition [40]. Only the consideration of all these factors can achieve an efficient penetration and thus therapeutic effectiveness in the skin. Several skin models have been established for determining the penetration kinetics of drugs into the skin [40]. Due to intra- and inter-individual variability of the skin models, only limited standardized data are available [40,41]. In chronic inflammatory skin diseases, such as atopic dermatitis, the barrier function of the skin is disturbed and thus weakened [42]. In this study, the penetration kinetics of a common therapeutic agent for atopic eczema—spin-labeled dexamethasone, a synthetic glucocorticoid which is frequently used for the treatment of inflammatory skin diseases—was analyzed and loaded into two different transport vehicles: a base cream and a nanocrystal formulation. Its penetration efficiency and concentration levels in intact and barrier-disrupted porcine ear skin, which is a suitable model for human skin [43,44], were investigated by EPR spectroscopy. To induce an artificial barrier disruption, conventional tape stripping [30,45] was applied. To support the experimental research results, penetration models for DxPCA into skin were created (1D general diffusion equation) that took the kinetic penetration profile of intact and barrier-disturbed skin into account.Using spin-labeled DxPCA, it is possible to investigate the microenvironment of the drug, track its release from the base cream or nanocrystal dispersion, and follow its penetration into the skin in detail. For example, a pH-dependent release of DxPCA could already be shown in solution and in the skin by changes in the EPR spectra and related magnetic parameters [46]. Also, a slow release of the spin label from a carrier system in skin can be traced with the EPR spectra [15]. Investigations by Saeidpour et al. showed that the chemical properties of Dx do not change drastically when PCA is covalently bound (Dx logP: 1.83, DxPCA logP: 1.89) [47]. Moreover, comparable penetration results have been obtained from other groups using unlabeled Dx in their penetration studies [34,35]. Therefore, microenvironment investigations and penetration kinetics analysis into skin from DxPCA are assumed to be comparable to unlabeled Dx. Furthermore, the labelling of the drug Dx with the spin probe PCA enables the absolute quantification of its penetration into the individual skin layers [18], which allows the assessment of the efficiency of drug penetration into skin (Table 2 and Figure 3).DxPCA was mixed into a standard base cream formulation and a nanocrystal suspension. In both vehicles, the EPR spectra of the spin-labeled drug indicate a two-phase system. The EPR spectra show a strong broadening of the central peak due to spin–spin coupling of the densely packed model drug DxPCA in the nanocrystals and aggregates in the base cream (Figure 1). The low and high field peaks of the DxPCA spectra were only slightly present (minor free fraction). In aqueous solution, DxPCA displays three narrow lines, which reflects high mobility [19,47]. The EPR spectra allow the estimate that the vast majority (≥98%) of the spin-labeled Dx molecules are aggregated, and only a small percentage is dissolved, not only in the nanocrystals but in the base cream. The aggregation in the base cream could indicate the presence of microcrystals or amorphous structures. Interestingly, both formulations could not be clearly distinguished from each other by EPR spectra, and comparable penetration results would be assumed. After topical application of these two formulations onto skin, the DxPCA hfc value of the highly mobile fraction decreased from ~45.8 MHz (before topical application) to ~41.9 (base cream) and ~41.7 MHz (nanocrystals), comparable to the 40.6 MHz in DMSO, indicating an amphiphilic microenvironment for the mobile fraction of DxPCA [18,47] within the viable epidermis. However, the majority of DxPCA is found in dissolved form in the viable epidermis, in a microenvironment of low mobility.The penetration of spin-labeled Dx into intact and barrier-disrupted skin was investigated after three different penetration times (0.5, 1.0, and 4.0 h). A comparison between intact and barrier-disrupted skin shows an increased penetration of DxPCA into the disturbed skin for both vehicles. In the individual skin layers up to the viable epidermis, an increased drug distribution could be determined (Figure 2 and Figure 3). After 4 h, the amount of DxPCA was significantly increased by a factor of ~3 for the base cream; for nanocrystals, a significant enhancement of factor ~2 could be achieved (intact vs. barrier-disturbed skin) (Figure 2). Only a barrier disorder enables the base cream to deliver a comparable amount of DxPCA into the viable epidermis, as can be achieved with nanocrystals and intact skin (Figure 2). Nanocrystals appear to provide a better surface-to-volume ratio compared to the incorporation of Dx powder in a cream formulation, resulting in a better dissolution of this nanoparticle structure upon application onto skin, thus ensuring a higher local concentration gradient. Thus, nano-sized crystals display an effective vehicle for the transport of DxPCA into both intact and barrier-disturbed skin. Compared to previous EPR studies, in which nano-transport systems were also investigated, nanocrystals show a significant improvement for the DxPCA transport into the intact skin. Compared to other particles, nanocrystals show a higher loading of the active ingredient DxPCA (approaching the limit of 100% particle loading): nanocrystal formulation (~1mM) > pH sensitive Eudragit particles (530 µM) [46] > SLN (200 µM) [18] > CMS (90 µM) [19]. Because nanocrystals facilitate the release of DxPCA into the viable skin, the use of them in the treatment of inflammatory skin lesions should be preferable. Due to their higher loading, nanocrystals enhance the penetration of DXPCA into intact skin by a factor of 3.8 (after a penetration time of 4 h) compared to SLN [18]. However, not only the loading of a vehicle, but also its physical-chemical properties importantly influence the permeability of the active ingredient into the skin. Although the load of the pH-sensitive Eudragit nanoparticles is half of that of nanocrystals, they show a better penetration of DxPCA into both intact skin (factor 6) and barrier-disturbed skin (factor 2) compared to a base cream formulation. The possibility of a targeted release at an increased pH value (>5.5) in deeper skin layers, as well as in the hair follicle, enables increased drug delivery into the viable skin vs. base cream [46] and nanocrystals. Thus, ideally nanocrystals providing the highest concentration of active ingredient in the skin would be combined with a targeted release at the treatment site. This could be made possible by encapsulating these particles into, for example, pH sensitive particles. A successive increase in the drug concentration was measurable in the individual skin layers. In the first 30 min, most of DxPCA penetrated the skin, which was only slightly increased by a longer penetration time (Figure 3). The barrier function of the skin is mainly located in the middle of the SC, at approximately 8 µm, due to maximum values for trans-conformation and lateral packing order of the intercellular lipids [48]. The lateral packing of lipids is more disordered on the surface and in the deeper parts of the SC, which may be associated with a reduced skin barrier function. These areas could serve as a reservoir [49]. The cells of the SC, the corneocytes, are embedded in a structured, multilamellar lipid matrix consisting mainly of ceramides, cholesterol, and free fatty acids [50]. Our results confirm that the barrier function of the skin is decisive for the penetration kinetics of active substances [51,52]; the penetration time contributes only to a small part.The change in the spectral shape of DxPCA for base cream and nanocrystals demonstrates that an extended penetration time of 4 h promotes the amount of a minor, highly mobile DxPCA fraction in the viable epidermis (Figure 4). Both formulations show a main DxPCA fraction with restricted rotational motion in skin. From our investigations, it is impossible to conclude which form is more relevant for therapeutic applications. In general, steroid hormones can induce their effect by binding to intracellular receptors located in the cytosol (glucocorticoid receptor (GR)), but also to membrane-associated receptors, which are a specific isoform or a modification of the classical GRs [53].The increased penetration observed for the DxPCA nanocrystals compared to the base cream formulation is due to several effects. First, the nanocrystal formulation shows a decrease of the free energy in the SC compared to the base cream formulation, as indicated by the diffusion model (Figure 5). In terms of the partition coefficient between the DxPCA formulation applied to the skin and the SC, the base cream formulation leads to a value of K(SC/formulation) = 2.2, compared to K(SC/formulation) = 7.4 for the DxPCA nanocrystal suspension. Obviously, the nanocrystal suspension considerably enhances the efficiency of the SC´s reservoir capacity. However, also the computed permeability coefficients show a higher value for the nanocrystal formulation compared to the DxPCA base cream (Figure 6). The total permeability of the skin sample is dominated by the value of the epidermis, which is significantly increased in the case of the nanocrystal formulation. This effect might be caused by the dissolution kinetics of the DxPCA nanocrystals. The analysis of the barrier-disrupted skin samples shows a higher permeation of DxPCA for both applied substances compared to the intact skin samples (see Figure S2 in the Supplementary Materials and Figure 6). In a recent study, tape stripping has been shown to affect only the diffusive barrier function of the skin, and not the equilibrium partitioning [35]. The results obtained in this work, however, do show an influence on the partitioning between the DxPCA solutions and the SC, with increased preference of DxPCA for the SC in the case of barrier-disrupted skin. This could be rationalized by the different treatments of the skin samples. In the referenced study, the skin was treated with a Dx dispersion containing ethanol [35,54], which is known to reduce the barrier function of the SC [55]. In the current study, however, neither the base cream nor the nanocrystal solution contained ethanol.The topical treatment with, for instance, corticosteroids, represents the basis for inflammatory therapy approaches. Topical glucocorticoids act via nuclear receptors. After binding to such receptors, the gene expression of proteins that inhibit proinflammatory molecules in their activity and lead to vasoconstriction changes will be activated [56]. DxPCA dissolved in a cell lysate of secondary keratinocytes shows an hfc value of 42.1 MHz, and also restricted mobility like in skin (data not shown). In general, the penetration through the SC is necessary for drugs to execute a medical effect on the affected skin area. It can be assumed that DxPCA, after penetration into deeper skin layers, is stored in the intralipid matrix of the viable epidermis, or even absorbed by cells and localized in the cytoplasm, or bound to the glucocorticoid receptor itself [53,57,58]. Thus, not only the penetration into the viable epidermis, but also the mobility of the drug to reach the receptors is important for the medical effects. This study illustrates that both effects can be studied very effectively by EPR spectroscopy, because it allowsfor the analysis of the drug without destroying the skin.5. ConclusionsIn comparison to other drug carrier systems, nanocrystals represent an efficient vehicle for drugs with a low solubility in aqueous solutions. The dispersion of drug nanocrystals in liquid media leads to “nanosuspensions”, which consist of 0.05% (w/w) of the active DxPCA and enable an increased dissolution rate. This results in a fast and efficient release rate. The formulation itself, its active ingredient load, and the condition of the skin barrier have a strong influence on the penetration behavior of an active ingredient into the skin: a disturbed skin barrier in combination with nanoparticles as carrier system improves the penetration enormously vs. the base cream formulation. Nanocrystals promote the penetration of 80% DxPCA within the first 30 min. Additionally, the amount of a DxPCA fraction with higher mobility is more pronounced for nanocrystals than for the base cream formulation after a longer incubation time. AcknowledgmentsWe acknowledge support from the German Research Foundation (DFG) and the Open Access Publication Fund of Charité–Universitätsmedizin Berlin.Supplementary MaterialsThe following are available online at https://www.mdpi.com/1999-4923/12/5/400/s1. Figure S1. Structural formula of DxPCA. The spin label PCA is marked with a dotted circle. Figure S2. Numerical analysis of DxPCA penetration into barrier disrupted skin. Increased permeation compared to the healthy skin samples is observed and rationalized by an increased preference of DxPCA for the SC. The obtained partition coefficients K(SC/sub) = 7.2 for the base cream formulation and K(SC/sub) = 86.9 for the nanocrystals, display this increased affinity to the SC compared to the healthy skin samples. Additionally, the previously mentioned effect of the nanocrystals, leading to a stronger reservoir function of the SC is even more apparent for the disrupted skin samples. Shaded areas indicated the estimated error for the diffusion constant and free energy. Click here for additional data file.(447K, pdf)Author ContributionsM.C.M., R.B. (Robert Bittl), R.R.N., R.B. (Roland Bodmeier), and R.H. conceived and designed the study, M.U., M.C., and S.S. (Sven Staufenbiel) were responsible for the design and production of the spin-labeled drug, DxPCA nanocrystals, and base cream formulation loaded with DxPCA. S.B.L., and S.S. (Siavash Saeidpour) performed the experimental research, A.W.-K. and R.R.N. performed data-based modelling of the penetration, investigations of methodology, and data curation. Analysis and interpretation of the data was done by S.B.L., M.C.M, C.T., A.W.-K., and R.R.N. All authors contributed to the writing of the manuscript and approved its final submitted version. All authors have read and agreed to the published version of the manuscript.FundingThis research was funded by the German Research Foundation via the Collaborative Research Center 1112 (projects A01, A02, B01, and B04).Conflicts of InterestThe authors declare no conflict of interest.References1. Schurer N.Y., Plewig G., Elias P.M. Stratum corneum lipid function. Dermatologica. 1991;183:77–94. doi: 10.1159/000247644. [PubMed] [CrossRef] [Google Scholar]2. Plewig G., Jansen T., Schurer N.Y. Stratum corneum. Hautarzt. 1997;48:510–521. [PubMed] [Google Scholar]3. Walling H.W., Swick B.L. Update on the management of chronic eczema: New approaches and emerging treatment options. Clin. Cosmet. Investig. Dermatol. 2010;3:99–117. doi: 10.2147/CCID.S6496. [PMC free article] [PubMed] [CrossRef] [Google Scholar]4. Tagami H., Yoshikuni K. Interrelationship between Water-Barrier and Reservoir Functions of Pathologic Stratum-Corneum. Arch. Dermatol. 1985;121:642–645. doi: 10.1001/archderm.1985.01660050094022. [PubMed] [CrossRef] [Google Scholar]5. Boguniewicz M., Leung D.Y. Atopic dermatitis: A disease of altered skin barrier and immune dysregulation. Immunol. Rev. 2011;242:233–246. doi: 10.1111/j.1600-065X.2011.01027.x. [PMC free article] [PubMed] [CrossRef] [Google Scholar]6. Wolde-Kidan A., Pham Q.D., Schlaich A., Loche P., Sparr E., Netz R.R., Schneck E. Influence of polar co-solutes and salt on the hydration of lipid membranes. Phys. Chem. Chem. Phys. 2019;21:16989–17000. doi: 10.1039/C9CP01953G. [PubMed] [CrossRef] [Google Scholar]7. Guy R.H. Current status and future prospects of transdermal drug delivery. Pharm. Res. 1996;13:1765–1769. doi: 10.1023/A:1016060403438. [PubMed] [CrossRef] [Google Scholar]8. Mukherjee B. Nanosize drug delivery system. Curr. Pharm. Biotechnol. 2013;14:1221. doi: 10.2174/138920101415140804121008. [PubMed] [CrossRef] [Google Scholar]9. Korting H.C., Schafer-Korting M. Carriers in the topical treatment of skin disease. Handb. Exp. Pharmacol. 2010;197:435–468. [PubMed] [Google Scholar]10. Kuchler S., Abdel-Mottaleb M., Lamprecht A., Radowski M.R., Haag R., Schafer-Korting M. Influence of nanocarrier type and size on skin delivery of hydrophilic agents. Int. J. Pharm. 2009;377:169–172. doi: 10.1016/j.ijpharm.2009.04.046. [PubMed] [CrossRef] [Google Scholar]11. Radbruch M., Pischon H., Ostrowski A., Volz P., Brodwolf R., Neumann F., Unbehauen M., Kleuser B., Haag R., Ma N., et al. Dendritic core-multishell nanocarriers in murine models of healthy and atopic skin. Nanoscale Res. Lett. 2017;12:64. doi: 10.1186/s11671-017-1835-0. [PMC free article] [PubMed] [CrossRef] [Google Scholar]12. Owenius R., Engstrom M., Lindgren M., Huber M. Influence of solvent polarity and hydrogen bonding on the EPR parameters of a nitroxide spin label studied by 9-GHz and 95-GHz EPR spectroscopy and DFT calculations. J Phys. Chem. A. 2001;105:10967–10977. doi: 10.1021/jp0116914. [CrossRef] [Google Scholar]13. Klug C.S., Feix J.B. Methods and applications of site-directed spin labeling EPR spectroscopy. Methods Cell Biol. 2008;84:617–658. [PubMed] [Google Scholar]14. Bordignon E., Brutlach H., Urban L., Hideg K., Savitsky A., Schnegg A., Gast P., Engelhard M., Groenen E.J.J., Mobius K., et al. Heterogeneity in the nitroxide micro-environment: Polarity and proticity effects in spin-labeled proteins studied by multi-frequency EPR. Appl. Magn. Reson. 2010;37:391–403. doi: 10.1007/s00723-009-0072-9. [CrossRef] [Google Scholar]15. Haag S.F., Lademann J., Meinke M.C.  Application of EPR-Spin Probes to Evaluate Penetration Efficiency, Storage Capacity of Nanotransporters, and Drug Release, Book. Springer; Berlin/Heidelberg, Germany: 2017.  [Google Scholar]16. Law E.H., Leung M. Corticosteroids in Stevens-Johnson Syndrome/toxic epidermal necrolysis: Current evidence and implications for future research. Ann. Pharm. 2015;49:335–342. doi: 10.1177/1060028014560012. [PubMed] [CrossRef] [Google Scholar]17. Coutinho A.E., Chapman K.E. The anti-inflammatory and immunosuppressive effects of glucocorticoids, recent developments and mechanistic insights. Mol. Cell. Endocrinol. 2011;335:2–13. doi: 10.1016/j.mce.2010.04.005. [PMC free article] [PubMed] [CrossRef] [Google Scholar]18. Lohan S.B., Saeidpour S., Solik A., Schanzer S., Richter H., Dong P., Darvin M.E., Bodmeier R., Patzelt A., Zoubari G., et al. Investigation of the cutaneous penetration behavior of dexamethasone loaded to nano-sized lipid particles by EPR spectroscopy, and confocal Raman and laser scanning microscopy. Eur. J. Pharm. Biopharm. 2017;116:102–110. doi: 10.1016/j.ejpb.2016.12.018. [PubMed] [CrossRef] [Google Scholar]19. Saeidpour S., Lohan S.B., Anske M., Unbehauen M., Fleige E., Haag R., Meinke M.C., Bittl R., Teutloff C. Localization of dexamethasone within dendritic core-multishell (CMS) nanoparticles and skin penetration properties studied by multi-frequency electron paramagnetic resonance (EPR) spectroscopy. Eur. J. Pharm. Biopharm. 2017;116:94–101. doi: 10.1016/j.ejpb.2016.10.001. [PubMed] [CrossRef] [Google Scholar]20. Jager J., Obst K., Lohan S.B., Viktorov J., Staufenbiel S., Renz H., Unbehauen M., Haag R., Hedtrich S., Teutloff C., et al. Characterization of hyperbranched core-multishell nanocarriers as an innovative drug delivery system for the application at the oral mucosa. J. Periodontal Res. 2018;53:57–65. doi: 10.1111/jre.12487. [PubMed] [CrossRef] [Google Scholar]21. Haag S.F., Fleige E., Chen M., Fahr A., Teutloff C., Bittl R., Lademann J., Schafer-Korting M., Haag R., Meinke M.C. Skin penetration enhancement of core-multishell nanotransporters and invasomes measured by electron paramagnetic resonance spectroscopy. Int. J. Pharm. 2011;416:223–228. doi: 10.1016/j.ijpharm.2011.06.044. [PubMed] [CrossRef] [Google Scholar]22. Colombo M., Staufenbiel S., Ruhl E., Bodmeier R. In situ determination of the saturation solubility of nanocrystals of poorly soluble drugs for dermal application. Int. J. Pharm. 2017;521:156–166. doi: 10.1016/j.ijpharm.2017.02.030. [PubMed] [CrossRef] [Google Scholar]23. Junghanns J.U., Muller R.H. Nanocrystal technology, drug delivery and clinical applications. Int. J. Nanomed. 2008;3:295–309. [PMC free article] [PubMed] [Google Scholar]24. Vidiarova L., Romero G.B., Hanus J., Stepanek F., Muller R.H. Nanocrystals for dermal penetration enhancement—Effect of concentration and underlying mechanisms using curcumin as model. Eur. J. Pharm. Biopharm. 2016;104:216–225. doi: 10.1016/j.ejpb.2016.05.004. [PubMed] [CrossRef] [Google Scholar]25. Walker K.A., Unbehauen M.L., Lohan S.B., Saeidpour S., Meinke M.C., Zimmer R., Haag R. Spin-labeling of Dexamethasone: Radical Stability vs. Temporal Resolution of EPR-Spectroscopy on Biological Samples. Z. Fur Phys. Chem. Int. J. Res. Phys. Chem. Chem. Phys. 2018;232:883–891. doi: 10.1515/zpch-2017-1076. [CrossRef] [Google Scholar]26. Herrling T., Fuchs J., Rehberg J., Groth N. UV-induced free radicals in the skin detected by ESR spectroscopy and imaging using nitroxides. Free Radic. Bio. Med. 2003;35:59–67. doi: 10.1016/S0891-5849(03)00241-7. [PubMed] [CrossRef] [Google Scholar]27. Simon G.A., Maibach H.I. The pig as an experimental animal model of percutaneous permeation in man: Qualitative and quantitative observations—An overview. Skin Pharmacol. Appl. Skin Physiol. 2000;13:229–234. doi: 10.1159/000029928. [PubMed] [CrossRef] [Google Scholar]28. Lohan S.B., Icken N., Teutloff C., Saeidpour S., Bittl R., Lademann J., Fleige E., Haag R., Haag S.F., Meinke M.C. Investigation of cutaneous penetration properties of stearic acid loaded to dendritic core-multi-shell (CMS) nanocarriers. Int. J. Pharm. 2016;501:271–277. doi: 10.1016/j.ijpharm.2016.02.004. [PubMed] [CrossRef] [Google Scholar]29. Weigmann H.J., Lademann J., Meffert H., Schaefer H., Sterry W. Determination of the horny layer profile by tape stripping in combination with optical spectroscopy in the visible range as a prerequisite to quantify percutaneous absorption. Skin Pharmacol. Appl. 1999;12:34–45. doi: 10.1159/000029844. [PubMed] [CrossRef] [Google Scholar]30. Lademann J., Jacobi U., Surber C., Weigmann H.J., Fluhr J.W. The tape stripping procedure—Evaluation of some critical parameters. Eur. J. Pharm. Biopharm. 2009;72:317–323. doi: 10.1016/j.ejpb.2008.08.008. [PubMed] [CrossRef] [Google Scholar]31. Dong P., Nikolaev V., Kroger M., Zoschke C., Darvin M.E., Witzel C., Lademann J., Patzelt A., Schafer-Korting M., Meinke M.C. Barrier-disrupted skin: Quantitative analysis of tape and cyanoacrylate stripping efficiency by multiphoton tomography. Int. J. Pharm. 2020;574:118843. doi: 10.1016/j.ijpharm.2019.118843. [PubMed] [CrossRef] [Google Scholar]32. Jacobi U., Kaiser M., Richter H., Audring H., Sterry W., Lademann J. The number of stratum corneum cell layers correlates with the pseudo-absorption of the corneocytes. Skin Pharmacol. Physiol. 2005;18:175–179. doi: 10.1159/000085862. [PubMed] [CrossRef] [Google Scholar]33. Doge N., Avetisyan A., Hadam S., Pfannes E.K.B., Rancan F., Blume-Peytavi U., Vogt A. Assessment of skin barrier function and biochemical changes of ex vivo human skin in response to physical and chemical barrier disruption. Eur. J. Pharm. Biopharm. 2017;116:138–148. doi: 10.1016/j.ejpb.2016.12.012. [PubMed] [CrossRef] [Google Scholar]34. Schulz R., Yamamoto K., Klossek A., Flesch R., Honzke S., Rancan F., Vogt A., Blume-Peytavi U., Hedtrich S., Schafer-Korting M., et al. Data-based modeling of drug penetration relates human skin barrier function to the interplay of diffusivity and free-energy profiles. Proc. Natl. Acad. Sci. USA. 2017;114:3631–3636. doi: 10.1073/pnas.1620636114. [PMC free article] [PubMed] [CrossRef] [Google Scholar]35. Schulz R., Yamamoto K., Klossek A., Rancan F., Vogt A., Schutte C., Ruhl E., Netz R.R. Modeling of drug diffusion based on concentration profiles in healthy and damaged human skin. Biophys. J. 2019;117:998–1008. doi: 10.1016/j.bpj.2019.07.027. [PMC free article] [PubMed] [CrossRef] [Google Scholar]36. Branch M.A., Coleman T.F., Li Y.Y. A subspace, interior, and conjugate gradient method for large-scale bound-constrained minimization problems. Siam. J. Sci. Comput. 1999;21:1–23. doi: 10.1137/S1064827595289108. [CrossRef] [Google Scholar]37. Zoubari G., Staufenbiel S., Volz P., Alexiev U., Bodmeier R. Effect of drug solubility and lipid carrier on drug release from lipid nanoparticles for dermal delivery. Eur. J. Pharm. Biopharm. 2017;110:39–46. doi: 10.1016/j.ejpb.2016.10.021. [PubMed] [CrossRef] [Google Scholar]38. Bos J.D., Meinardi M.M. The 500 Dalton rule for the skin penetration of chemical compounds and drugs. Exp. Dermatol. 2000;9:165–169. doi: 10.1034/j.1600-0625.2000.009003165.x. [PubMed] [CrossRef] [Google Scholar]39. Desai P., Patlolla R.R., Singh M. Interaction of nanoparticles and cell-penetrating peptides with skin for transdermal drug delivery. Mol. Membr. Biol. 2010;27:247–259. doi: 10.3109/09687688.2010.522203. [PMC free article] [PubMed] [CrossRef] [Google Scholar]40. Abd E., Yousef S.A., Pastore M.N., Telaprolu K., Mohammed Y.H., Namjoshi S., Grice J.E., Roberts M.S. Skin models for the testing of transdermal drugs. Clin. Pharmacol. 2016;8:163–176. doi: 10.2147/CPAA.S64788. [PMC free article] [PubMed] [CrossRef] [Google Scholar]41. Jacquet E., Chambert J., Pauchot J., Sandoz P. Intra- and inter-individual variability in the mechanical properties of the human skin from in vivo measurements on 20 volunteers. Skin Res. Technol. 2017;23:491–499. doi: 10.1111/srt.12361. [PubMed] [CrossRef] [Google Scholar]42. Agrawal R., Woodfolk J.A. Skin barrier defects in atopic dermatitis. Curr. Allergy Asthma Rep. 2014;14:433. doi: 10.1007/s11882-014-0433-9. [PMC free article] [PubMed] [CrossRef] [Google Scholar]43. Jacobi U., Kaiser M., Toll R., Mangelsdorf S., Audring H., Otberg N., Sterry W., Lademann J. Porcine ear skin: An in vitro model for human skin. Skin Res. Technol. 2007;13:19–24. doi: 10.1111/j.1600-0846.2006.00179.x. [PubMed] [CrossRef] [Google Scholar]44. Schmook F.P., Meingassner J.G., Billich A. Comparison of human skin or epidermis models with human and animal skin in in-vitro percutaneous absorption. Int. J. Pharm. 2001;215:51–56. doi: 10.1016/S0378-5173(00)00665-7. [PubMed] [CrossRef] [Google Scholar]45. Simonsen L., Fullerton A. Development of an in vitro skin permeation model simulating atopic dermatitis skin for the evaluation of dermatological products. Skin Pharmacol. Physiol. 2007;20:230–236. doi: 10.1159/000104421. [PubMed] [CrossRef] [Google Scholar]46. Dong P., Sahle F.F., Lohan S.B., Saeidpour S., Albrecht S., Teutloff C., Bodmeier R., Unbehauen M., Wolff C., Haag R., et al. pH-sensitive Eudragit(R) L 100 nanoparticles promote cutaneous penetration and drug release on the skin. J. Control Release. 2019;295:214–222. doi: 10.1016/j.jconrel.2018.12.045. [PubMed] [CrossRef] [Google Scholar]47. Saeidpour S., Lohan S.B., Solik A., Paul V., Bodmeier R., Zoubari G., Unbehauen M., Haag R., Bittl R., Meinke M.C., et al. Drug distribution in nanostructured lipid particles. Eur. J. Pharm. Biopharm. 2017;110:19–23. doi: 10.1016/j.ejpb.2016.10.008. [PubMed] [CrossRef] [Google Scholar]48. Choe C., Lademann J., Darvin M.E. A depth-dependent profile of the lipid conformation and lateral packing order of the stratum corneum in vivo measured using Raman microscopy. Analyst. 2016;141:1981–1987. doi: 10.1039/C5AN02373D. [PubMed] [CrossRef] [Google Scholar]49. Schaefer H., Stuttgen G., Zesch A., Schalla W., Gazith J. Quantitative determination of percutaneous absorption of radiolabeled drugs in vitro and in vivo by human skin. Curr. Probl. Dermatol. 1978;7:80–94. [PubMed] [Google Scholar]50. Van Smeden J., Bouwstra J.A. Stratum corneum lipids: Their role for the skin barrier function in healthy subjects and atopic dermatitis patients. Curr. Probl. Dermatol. 2016;49:8–26. [PubMed] [Google Scholar]51. Yamamoto K., Klossek A., Flesch R., Rancan F., Weigand M., Bykova I., Bechtel M., Ahlberg S., Vogt A., Blume-Peytavi U., et al. Influence of the skin barrier on the penetration of topically-applied dexamethasone probed by soft X-ray spectromicroscopy. Eur. J. Pharm. Biopharm. 2017;118:30–37. doi: 10.1016/j.ejpb.2016.12.005. [PubMed] [CrossRef] [Google Scholar]52. Nielsen J.B., Benfeldt E., Holmgaard R. Penetration through the Skin Barrier. Curr. Probl. Dermatol. 2016;49:103–111. [PubMed] [Google Scholar]53. Schafer-Korting M., Kleuser B., Ahmed M., Holtje H.D., Korting H.C. Glucocorticoids for human skin: New aspects of the mechanism of action. Skin Pharmacol. Physiol. 2005;18:103–114. doi: 10.1159/000084907. [PubMed] [CrossRef] [Google Scholar]54. Yamamoto K., Flesch R., Ohigashi T., Hedtrich S., Klossek A., Patoka P., Ulrich G., Ahlberg S., Rancan F., Vogt A., et al. Selective probing of the penetration of dexamethasone into human skin by soft X-ray spectromicroscopy. Anal. Chem. 2015;87:6173–6179. doi: 10.1021/acs.analchem.5b00800. [PubMed] [CrossRef] [Google Scholar]55. Higuchi W.I., Rohr U.D., Burton S.A., Liu P., Fox J.L., Ghanem A.H., Mahmoud H., Borsadia S., Good W.R.  Effects of Ethanol on the Transport of Beta-Estradiol in Hairless Mouse Skin—Comparison of Experimental-Data with A New Theoretical-Model. Volume 348. ACS Publications; Washington, DC, USA: 1987. pp. 232–240. (ACS Symposium Series). [Google Scholar]56. Smoak K.A., Cidlowski J.A. Mechanisms of glucocorticoid receptor signaling during inflammation. Mech. Ageing Dev. 2004;125:697–706. doi: 10.1016/j.mad.2004.06.010. [PubMed] [CrossRef] [Google Scholar]57. Bigas J., Sevilla L.M., Carceller E., Boix J., Perez P. Epidermal glucocorticoid and mineralocorticoid receptors act cooperatively to regulate epidermal development and counteract skin inflammation. Cell Death Dis. 2018;9:588. doi: 10.1038/s41419-018-0673-z. [PMC free article] [PubMed] [CrossRef] [Google Scholar]58. Desmet S.J., Bougarne N., van Moortel L., de Cauwer L., Thommis J., Vuylsteke M., Ratman D., Houtman R., Tavernier J., de Bosscher K. Compound A influences gene regulation of the Dexamethasone-activated glucocorticoid receptor by alternative cofactor recruitment. Sci. Rep. 2017;7:8063. doi: 10.1038/s41598-017-07941-y. [PMC free article] [PubMed] [CrossRef] [Google Scholar]Articles from Pharmaceutics are provided here courtesy of Multidisciplinary Digital Publishing Institute  (MDPI)
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.9M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

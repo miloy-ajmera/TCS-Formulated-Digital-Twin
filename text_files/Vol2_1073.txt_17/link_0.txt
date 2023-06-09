@@ -1,0 +1,559 @@
+Document Name: role of Lecithin in Protective Cream0
+Document link: https://www.gavinpublishers.com/article/view/topical-application-of-yolk-lecithin-liposomes-reinforces-skin-barrier-function-against-chemical-agents-such-as-psoriasis-inducing-imq-and-alleviates-disease-phenotype
+
+
+
+
+
+Topical Application of Yolk Lecithin Liposomes Reinforces Skin Barrier Function Against Chemical Agents Such as Psoriasis-inducing IMQ and Alleviates Disease Phenotype
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Journals
+
+Articles
+Article Search
+
+Guidelines 
+
+Authors
+Manuscript Guidelines
+Editors
+Reviewers
+Open Access Policy
+Membership
+
+
+ Submit Manuscript
+
+
+
+
+
+
+
+
+
+
+
+
+                  Clinical & Experimental Dermatology and Therapies 
+
+
+
+
+
+
+
+
+
+
+  research article
+
+
+  About Journal
+
+
+Board Members
+
+
+   Article In Press
+
+
+Current Issues
+
+
+   Archive
+
+
+
+   PDF Download
+
+
+
+
+
+
+Topical Application of Yolk Lecithin Liposomes Reinforces Skin Barrier Function Against Chemical Agents Such as Psoriasis-inducing IMQ and Alleviates Disease Phenotype
+
+
+R.C. Lai1#, R.W.Y.
+Yeo2#, B. Zhang1#, M. Koh3, S.S. Tan4,
+W. K. Sim1, S. B. Ang5, Y.W.A Foong5,
+M. J. Ng6, K. H. Tan7 and S. K. Lim1,8*1Institute of
+Medical Biology, A*STAR, 8A Biomedical Grove, 138648, Singapore2Esco Regenerative
+Medicine Pte Ltd, Block 71 Ayer Rajah Crescent #07-26 s139951, Singapore3Dermatology Service,
+KK Women’s and Children’s Hospital, 100 Bukit Timah Road, 229899, Singapore4Vesiderm Pte Ltd,
+8A Biomedical Grove, 138648, Singapore5Family Medicine
+Service, KK Women’s and Children’s Hospital, 100 Bukit Timah Road, 229899,
+Singapore6Division of
+Obstetrics & Gynaecology, KK Women’s and Children’s Hospital, 100 Bukit
+Timah Road, 229899, Singapore7Department of
+Maternal Fetal Medicine, KK Women’s and Children’s Hospital, 100 Bukit Timah
+Road, 229899, Singapore8Department of
+Surgery, YLL School of Medicine, NUS, 5 Lower Kent Ridge Road, 119074,
+Singapore#Contributed
+equally*Corresponding
+author: Sai
+Kiang Lim, Institute of Medical Biology, 8A Biomedical Grove, #05-505 Immunos, 138648,
+Singapore. Tel: +6564070150; +6564070161; Fax: +6564642048; Email: saikiang.lim@imb.a-star.edu.sg
+Received Date: 23 May, 2018; Accepted
+Date: 31 May, 2018; Published Date: 08 June, 2018
+
+
+Citation: Lai RC, Yeo RWY, Zhang B, Koh M, Tan SS, et al. (2018) Topical Application of Yolk Lecithin Liposomes Reinforces Skin Barrier Function Against Chemical Agents Such as Psoriasis-inducing IMQ and Alleviates Disease Phenotype. Clin Exp Dermatol Ther: CEDT-146. DOI: 10.29011/2575-8268/100046 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.       Abstract1.1.  Background: Compromised skin
+barrier is a major driver of skin diseases such as psoriasis. We hypothesized
+that Yolk Lecithin Liposomes (YLLs) being water soluble bi-lipid membrane
+vesicles rich in skin barrier lipid and their precursors would be efficient in enhancing skin barrier. We tested
+this hypothesis by applying YLLs topically to
+Imiquimod (IMQ)-induced mouse model of psoriasis for evidence of skin
+barrier protection against IMQ and alleviation of the disease phenotype.1.2.  Materials and Methods: 100 nm
+YLLs were first tested for effects on human MSC proliferation, collagen
+production in human dermal fibroblasts and penetration into human skin. They were then tested for efficacy
+in enhancing skin barrier against IMQ infiltration in a psoriasis mouse model. After
+6 daily topical applications of IMQ and then a cream with YLLs or cream alone,
+barrier efficacy was assessed by the severity of psoriatic symptoms and
+cytokine induction in the skin lesion.1.3.  Results: YLLs are
+non-toxic, and can enhance cell proliferation and collagen production. They
+readily permeated the stratum corneum. They alleviated psoriatic skin pathology
+and reduced IL-23 and TNF-a in
+the skin lesion of an IMQ-induced psoriasis mouse model.1.4.  Conclusion: YLLs are effective
+in enhancing the skin barrier as evidenced by the alleviation of IMQ-induced
+psoriasis.
+2.       Keywords: Liposome;
+Psoriasis; Skin barrier; Yolk lecithin 
+
+ 
+
+Figures 1 (A-B): YLLs
+are nano-sized lipid vesicles(A) Size distribution of YLLs as measured by
+Nanoparticle Tracking Analysis on a Zetaview over a size range of 5 to 1000 nm at 25°C. (B) YLLs as observed under TEM.Figures 2(A-B):
+Cellular growth promotion and uptake of YLLs (A) (Left panel) Immortalized
+human mesenchymal stem cells (E1-MYC) were cultured in a Chemically Defined Medium (CDM)
+with increasing YLL concentration (mM PC) over 5 days. Cell proliferation was
+assessed by MTS assay. Data are presented as mean ±
+SD, * P<
+0.05 as compared to control (0 mM PC) by Student’s t-test. (Right panel) Phase contrast
+images of cells treated with 0.025 mM PC and without YLLs (vehicle). Scale bar
+= 100 µm. (B)
+E1-MYC cells
+were incubated with Alexa Fluor 488-labeled YLLs for 0.5, 1, 2, and 4 hours. The
+control was cells that were not incubated with the labeled YLLs. The cells were
+analysed by flow cytometry. Histogram represents a plot of fluorescence
+intensity against number of events
+(cells).Figures 3(A-C): YLLs
+increased collagen production in dermal fibroblasts(A) Phase contrast
+images of primary human dermal fibroblasts cultured in the presence of vehicle, 0.25 mM PC YLLs, 0.1% or 1% Matrixyl,
+fixed and stained with picro-sirius red solution to visualize collagen.
+Scale bar = 100 µm. (B) Collagen content per cell in each culture was normalized to
+that in untreated control. Collagen
+content per cell was determined by normalizing the amount of stain in each
+culture against cell numbers by MTS assay. Data are presented as mean ± SD(C) Cell
+numbers relative to untreated control, as estimated by MTS assay. Data are
+presented as mean ± SDFigures 4(A-B):
+Topical application of YLLs on skin organ culture. Human skin organ
+culture was topically treated with PBS (Control) or Alexa Fluor 488-labeled
+YLLs, washed, frozen in OCT medium and sectioned. (A) H&E staining with arrowheads indicating position of stratum
+corneum. Scale bar = 100 µm. (B) Fluorescence imaging of sections
+counterstained with DAPI (blue). White broken lines denote epidermal-dermal
+junction. Scale bar = 50 µm.Figures 5 (A-D): Topical
+application of YLLs on an IMQ-induced mouse model of psoriasis. IMQ was applied to the shaved backs and
+right ears of mice from day 0 to day 5. This was followed by the liposome
+cream, base cream (vehicle control), or 3 mg/Kg dexamethasone, i.p.
+(positive control). (A) Weight of
+mice over six days of study;(B) The
+spleen from each mouse was removed, weighed and the ratio of spleen to body
+weight for each mouse was calculated; (C)
+Erythema, scaling, and thickness in each mouse were determined daily on a scale
+from 0 to 4, and combined to generate the cumulative score; (D)The back skin of each mouse was
+harvested on day 6, homogenized and the homogenized solution was assayed for
+TNF-α, IL-17and IL-23 by ELISA. Data are
+presented as mean ± SE, * P< 0.05. 
+
+
+
+
+
+Ingredients
+
+
+Liposome 
+
+
+Base 
+
+
+
+
+(% v/v)
+
+
+
+
+Liposome solution in 10% (v/v) Ethanol (2.6 x 10E13 particles/mL)
+
+
+50.00
+
+
+0
+
+
+
+
+10% (v/v) Ethanol 
+
+
+0
+
+
+50
+
+
+
+
+Distilled Water
+
+
+33.25
+
+
+33.25
+
+
+
+
+Grape Seed Oil (Making Cosmetics, OIL-GRAP-01)
+
+
+10.00
+
+
+10.00
+
+
+
+
+GelMaker EMU (Making Cosmetics, EMF-GEMK-01)
+
+
+3.00
+
+
+3.00
+
+
+
+
+CreamMaker Wax (Making Cosmetics, EMF-EMWX-01)
+
+
+1.00
+
+
+1.00
+
+
+
+
+Glycerin (Making Cosmetics, HUM-GLYC-01)
+
+
+1.00
+
+
+1.00
+
+
+
+
+Dimethicone Satin (Making Cosmetics, ELL-DIMSAT-01)
+
+
+1.00
+
+
+1.00
+
+
+
+
+Benzylalcohol-DHA (Making Cosmetics, PRV-BADHA-01)
+
+
+0.50
+
+
+0.50
+
+
+
+
+Vitamin E (dl-alpha tocopherol) (Making Cosmetics, VIT-VITE-01, Activity 750 IU per 1 ml) 
+
+
+0.250
+
+
+0.250
+
+
+
+
+ 
+Supplementary Table 1: Composition of the liposome and base cream.
+
+
+1.       Feingold
+KR (2012) Lamellar Bodies: The Key to Cutaneous Barrier Function. Journal of
+Investigative Dermatology 132: 1951-1953.2.      
+Sahle FF,
+Gebre-Mariam T, Dobner B, Wohlrab J, Neubert RH (2015) Skin Diseases Associated
+with the Depletion of Stratum Corneum Lipids and Stratum Corneum Lipid
+Substitution Therapy. Skin Pharmacology and Physiology 28: 42-55.3.      
+Feingold KR (2007)
+Thematic review series: Skin Lipids. The role of epidermal lipids in cutaneous
+permeability barrier homeostasis. Journal of Lipid Research 48: 2531-2546.4.      
+Akbarzadeh A,
+Rezaei-Sadabady R, Davaran S, Joo SW, Zarghami N, et al. (2013) Liposome:
+classification, preparation, and applications. Nanoscale Research Letters 8: 102.5.      
+van Smeden J,
+Bouwstra JA (2016) Stratum Corneum Lipids: Their Role for the Skin Barrier
+Function in Healthy Subjects and Atopic Dermatitis Patients. Current problems
+in dermatology 49: 8-26.6.      
+Cerrato S,
+Ramió-Lluch L, Brazís P, Fondevila D, Segarra S, et al. (2016) Effects of
+sphingolipid extracts on the morphological structure and lipid profile in an in vitro
+model of canine skin. The Veterinary Journal 212: 58-64.7.      
+Panel
+TCIRE (2015) Safety Assessment of Lecithin and Other Phosphoglycerides as Used
+in Cosmetics. Final Report. Release Date April 7, 2015. 2015.8.      
+Budai L, Kaszás N, Gróf P, Lenti K, Maghami K, et al. (2013) Liposomes for Topical
+Use: A Physico-Chemical Comparison of Vesicles Prepared from Egg or Soy
+Lecithin. Scientia Pharmaceutica 81: 1151-1166.9.      
+Silverberg N,
+Silverberg J (2015) Inside out or outside in: Does atopic dermatitis disrupt
+barrier function or does disruption of barrier function trigger atopic
+dermatitis? Cutis 96: 359-361.10.    Bangham
+AD, Horne RW (1964) Negative staining of phospholipids and their structural
+modification by surface-active agents as observed in the electron microscope.
+Journal of Molecular Biology 8: 660-668.11.   
+van Hoogevest P,
+Wendel A (2014) The use of natural and synthetic phospholipids as
+pharmaceutical excipients. European Journal of Lipid Science and Technology 116:
+1088-1107.12.   
+Asserhøj LL, Mosbech H, Krøigaard M, Garvey LH (2016) No evidence for contraindications
+to the use of propofol in adults allergic to egg, soy or peanut †. British
+Journal of Anaesthesia 116: 77-82.13.   
+Chen
+TS, Arslan F, Yin Y, et al. (2011) Enabling a robust scalable manufacturing
+process for therapeutic exosomes through oncogenic immortalization of human
+ESC-derived MSCs. J Transl Med 9: 47.14.   
+Sze SK, de Kleijn DP, Lai RC, Khia Way Tan E, et al. (2007) Elucidating
+the secretion proteome of human embryonic stem cell-derived mesenchymal stem
+cells. Molecular & Cellular Proteomics 6: 1680-1689.15.   
+van der Fits L,
+Mourits S, Voerman JS, Kant M, Boon L, et al. (2009) Imiquimod-induced
+psoriasis-like skin inflammation in mice is mediated via the IL-23/IL-17 axis.
+Journal of immunology182: 5836-5845.16.   
+Maquart FX, Bellon G, Pasco S, Monboisse JC (2005) Matrikines
+in the regulation of extracellular matrix degradation. Biochimie 87: 353-360.17.   
+Ricard-Blum S, Salza R (2014) Matricryptins and matrikines:
+biologically active fragments of the extracellular matrix. Experimental
+Dermatology 23: 457-463.18.   
+DeLouise LA (2012)
+Applications of Nanotechnology in Dermatology. The Journal of investigative
+dermatology132: 964-975.19.   
+Brewer J, Bloksgaard M, Kubiak J, et al. (2013) Spatially
+Resolved Two-Color Diffusion Measurements in Human Skin Applied to Transdermal
+Liposome Penetration. Journal of Investigative Dermatology133: 1260-1268.20.   
+Elmore SA (2006)
+Enhanced Histopathology of the Spleen. Toxicologic Pathology 34: 648-655.21.   
+Baliwag J, Barnes DH,
+Johnston A (2015) Cytokines in psoriasis. Cytokine 73: 342-350.22.   
+Cameron DJ, Tong Z, Yang Z, Kaminoh J, Kamiyah S, et al.
+(2007) Essential role of Elovl4 in very long chain fatty acid synthesis, skin
+permeability barrier function, and neonatal survival. International Journal of
+Biological Sciences 3: 111-119.23.   
+Ansari MNA, Nicolaides N,
+Fu HC (1970) Fatty acid composition of the living layer and stratum corneum
+lipids of human sole skin epidermis. Lipids 5: 838-845.24.   
+Hara M, Ma T,
+Verkman AS (2002) Selectively Reduced Glycerol in Skin of Aquaporin-3-deficient
+Mice May Account for Impaired Skin Hydration, Elasticity, and Barrier Recovery.
+Journal of Biological Chemistry 277: 46616-46621.25.   
+Flutter B, Nestle FO (2013) TLRs to cytokines: Mechanistic
+insights from the imiquimod mouse model of psoriasis. European Journal of
+Immunology 43: 3138-3146.26.   
+Sano S (2015) Psoriasis as
+a barrier disease. Dermatologica Sinica 33: 64-69.27.   
+Boguniewicz M, Leung DY (2011) Atopic Dermatitis: A Disease
+of Altered Skin Barrier and Immune Dysregulation. Immunological Reviews 242: 233-246.28.   
+Lavrijsen APM, Bouwstra JA, Gooris GS, Weerheim A, Boddé HE, et al. (1995) Reduced
+Skin Barrier Function Parallels Abnormal Stratum Corneum Lipid Organization in
+Patients with Lamellar Ichthyosis. Journal of Investigative Dermatology105: 619-624.29.   
+Abe T, Mayuzumi J (1979) The
+Change and Recovery of Human Skin Barrier Functions after Ultraviolet Light
+Irradiation. Chemical & Pharmaceutical Bulletin 27: 458-462.
+30.   
+Lee DJ, Lee J, Ha
+J, Park KC, Ortonne JP, et al. (2012) Defective barrier function in melasma
+skin. Journal of the European Academy of Dermatology and Venereology 26: 1533-1537. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright and Licensing BY Authers: This is an Open Access Journal Article Published Under Attribution-Share Alike CC BY-SA: Creative Commons Attribution-Share Alike 4.0 International License. With this license readers can share, distribute, download, even commercially, as long as the original source is properly cited. Read More.
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTACT ADDRESS
+1/20 Saratoga Crescent, Keillor Downs, VIC 3038, Australia
+
+  (+61)383762664
+
+5911 Oak Ridge Way,Lisle, IL 60532, USA.
+
+  +1-630-397-0234
+  contact@gavinpublishers.org
+  www.gavinpublishers.com
+
+
+
+QUICK LINKS
+
+Home
+About us
+Contact us
+Editors
+
+
+
+Useful Links
+
+Journals
+Journal Finder
+Article Processing Charges
+Pubmed Articles
+Authors
+
+
+
+Follow us:
+
+Reviewers
+Membership
+Open Access Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+        © Copyright Gavin Publishers. All Rights Reserved
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

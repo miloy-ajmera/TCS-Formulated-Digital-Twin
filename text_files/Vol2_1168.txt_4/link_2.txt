@@ -1,0 +1,719 @@
+Document Name: role of MIGLYOL 840 in Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3675732/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nonaqueous Gel for the Transdermal Delivery of a DTPA Penta-ethyl Ester Prodrug - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+AAPS J
+
+
+v.15(2); 2013 Apr
+
+
+                    PMC3675732
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (261K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+AAPS J
+
+
+v.15(2); 2013 Apr
+
+
+                    PMC3675732
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+AAPS J. 2013 Apr; 15(2): 523–532. Published online 2013 Feb 7.  doi: 10.1208/s12248-013-9459-5PMCID: PMC3675732PMID: 23389812Nonaqueous Gel for the Transdermal Delivery of a DTPA Penta-ethyl Ester ProdrugYong Zhang, Matthew P. Sadgrove, Katsuhiko Sueda, Yu-Tsai Yang, Erik K. Pacyniak, John R. Kagel, Brenda A. Braun, William C. Zamboni, Russell J. Mumper, and  Michael JayYong ZhangDivision of Molecular Pharmaceutics, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, CB# 7362, 120 Mason Farm Rd, Chapel Hill, North Carolina 27599-7362 USA Find articles by Yong ZhangMatthew P. SadgroveDivision of Molecular Pharmaceutics, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, CB# 7362, 120 Mason Farm Rd, Chapel Hill, North Carolina 27599-7362 USA Find articles by Matthew P. SadgroveKatsuhiko SuedaDivision of Molecular Pharmaceutics, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, CB# 7362, 120 Mason Farm Rd, Chapel Hill, North Carolina 27599-7362 USA Find articles by Katsuhiko SuedaYu-Tsai YangDivision of Molecular Pharmaceutics, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, CB# 7362, 120 Mason Farm Rd, Chapel Hill, North Carolina 27599-7362 USA Find articles by Yu-Tsai YangErik K. PacyniakDivision of Molecular Pharmaceutics, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, CB# 7362, 120 Mason Farm Rd, Chapel Hill, North Carolina 27599-7362 USA Find articles by Erik K. PacyniakJohn R. KagelUNC Lineberger Comprehensive Cancer Center, Carolina Center for Cancer Nanotechnology Excellence, UNC Institute for Pharmacogenomics and Individualized Therapy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599-7295 USA Find articles by John R. KagelBrenda A. BraunUNC Lineberger Comprehensive Cancer Center, Carolina Center for Cancer Nanotechnology Excellence, UNC Institute for Pharmacogenomics and Individualized Therapy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599-7295 USA Find articles by Brenda A. BraunWilliam C. ZamboniUNC Lineberger Comprehensive Cancer Center, Carolina Center for Cancer Nanotechnology Excellence, UNC Institute for Pharmacogenomics and Individualized Therapy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599-7295 USA Division of Pharmacotherapy and Experimental Therapeutics, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599-7569 USA Find articles by William C. ZamboniRussell J. MumperDivision of Molecular Pharmaceutics, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, CB# 7362, 120 Mason Farm Rd, Chapel Hill, North Carolina 27599-7362 USA Find articles by Russell J. MumperMichael JayDivision of Molecular Pharmaceutics, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, CB# 7362, 120 Mason Farm Rd, Chapel Hill, North Carolina 27599-7362 USA Find articles by Michael JayAuthor information Article notes Copyright and License information DisclaimerDivision of Molecular Pharmaceutics, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, CB# 7362, 120 Mason Farm Rd, Chapel Hill, North Carolina 27599-7362 USA UNC Lineberger Comprehensive Cancer Center, Carolina Center for Cancer Nanotechnology Excellence, UNC Institute for Pharmacogenomics and Individualized Therapy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599-7295 USA Division of Pharmacotherapy and Experimental Therapeutics, UNC Eshelman School of Pharmacy, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599-7569 USA Michael Jay, Phone: +1-919-8433775, Email: ude.cnu@yajm.Corresponding author.Received 2012 Nov 6; Accepted 2013 Jan 17.Copyright © American Association of Pharmaceutical Scientists 2013AbstractDiethylenetriamine pentaacetic acid penta-ethyl ester, designated as C2E5, was successfully incorporated into a nonaqueous gel for transdermal delivery. The thermal and rheological properties of a formulation containing 40% C2E5, 20% ethyl cellulose, and 40% Miglyol 840® prepared using the solvent evaporation method demonstrated that the gel had acceptable content uniformity and flow properties. In vitro studies showed that C2E5 was steadily released from the gel at a rate suitable for transdermal delivery. Topical application of the gel at a 200 mg C2E5/kg dose level in rats achieved significantly higher plasma exposures of several active metabolites compared with neat C2E5 oil at the same dose level. The results suggest that transdermal delivery of a chelator prodrug is an effective radionuclide decorporation strategy by delivering chelators to the circulation with a pharmacokinetic profile that is more consistent with the biokinetic profile of transuranic elements in contaminated individuals.Keywords: nonaqueous gel, pharmacokinetics, radionuclide decorporation, transdermal drug deliveryINTRODUCTIONThe Fukushima Daiichi nuclear incident in March 2011 attracted world attention to currently available radiological countermeasures for such disasters. In addition, the threat of nuclear terrorism resulting from detonation of a radiological dispersion device (“dirty bomb”) calls for effective medical countermeasures designed for use in mass casualty scenarios. In both of these events, significant release of transuranic radionuclides into the environment could result in human exposure via inhalation, ingestion, or absorption at a wound site. The injuries and risks associated with internal deposition of the transuranic elements americium (Am), curium (Cm), and plutonium (Pu) can be mitigated by administration of radionuclide decorporation agents such as the calcium (Ca) and zinc (Zn) trisodium salts of diethylenetriamine pentaacetic acid (DTPA), which are the only agents approved by the US Food and Drug Administration to treat internal contamination by transuranics. DTPA is a synthetic polyamino carboxylic acid with eight coordinate bond forming sites that can sequester metal ions and form highly stable DTPA–metal ion complexes. DTPA has wide industrial and medical applications including control of water hardness, medical imaging, and decorporation of internally deposited radionuclides (1). Ca- and Zn-DTPA achieve therapeutic efficacy by exchanging the Ca and Zn cations with transuranic radionuclides in vivo to form higher-affinity complexes and promoting their elimination from contaminated individuals (2). The high aqueous solubility and low permeability of these compounds result in poor bioavailability after oral administration (3–5). Therefore, these compounds must be administered by slow intravenous (i.v.) push, i.v. infusion, or inhalation using a nebulizer (6). The administration of DTPA by i.v. or inhalation to those contaminated with transuranic isotopes requires skilled medical professionals, which imposes a logistical challenge in a mass casualty setting. As a consequence, there is an urgent need for new decorporation treatments that allow patients to self-administer in a timely manner after a nuclear disaster.Contamination by radioactive Am, Pu, and Cm can occur by inhalation, skin adsorption, or by entrance through a wound. The transfer of these radioactive elements from experimental deep puncture wounds to the systemic circulation is generally a slow, steady process and transfer rates ranging from 0.052% to 6.3% of the injected dose per day have been observed, depending on the radio-contaminants and the animal species (7). In contrast, the total body clearance of 14C-labeled DTPA from rats 24 h after i.v. administration has been reported to range from 94% to 100% with the half-life ranging from 18.5 to 31.8 min (8,9). Comparison of the short half-life and rapid elimination of DTPA after i.v. injection to the slow introduction of radioactive actinide species into the bloodstream reveals a mismatch between the pharmacokinetics of DTPA and the biokinetic profiles of the actinides, which may limit the effectiveness of the currently available DTPA treatments.Transdermal delivery of therapeutic agents provides many advantages over parenteral and oral routes such as more uniform plasma drug levels, a longer duration of action with a reduced dosing frequency, and improved patient compliance and comfort with ease of self-administration (10–13). It is highly desirable to deliver decorporation agents including DTPA to the circulation at a zero-order rate to better match actinide biokinetic profiles and thus achieve optimal radionuclide decorporation over an extended duration. Due to its low partition coefficient (log P = −4.90) and high melting point (219–220°C), DTPA is not a good candidate for transdermal delivery (12,14). However, the penta-ethyl ester of DTPA, designated as C2E5, was designed and synthesized as a new radionuclide decorporation prodrug to overcome the limitations of the current DTPA treatments (15,16). The structures of C2E5 as well as its potential degradation products and metabolites including DTPA tetra-ethyl ester (C2E4), DTPA tri-ethyl ester (C2E3), DTPA di-ethyl ester (C2E2), DTPA mono-ethyl ester (C2E1), and the fully de-esterified DTPA are shown in Fig. 1. C2E5 possesses physicochemical properties suitable for transdermal delivery. It has a log P value of 3.3, a log D value of 2.4 at pH 7.0, its aqueous solubility is 3.0 mg/mL at pH 7.0, and it is a Newtonian liquid with a viscosity of 175 cP at 25°C (16,17).Open in a separate windowFig. 1Structures of DTPA, the prodrug C2E5, and its metabolitesThe aim of these studies was to develop C2E5 transdermal formulations and evaluate them for sustained delivery of DTPA and other active metabolites in vivo. Cream and ointment formulations were initially screened as potential C2E5 delivery vehicles, but the results showed that either C2E5 proved to be unstable in the matrices due to degradation or the C2E5 formulations underwent phase separation. C2E5 degradation in buffered aqueous solution follows pseudo-first order kinetics and C2E5 is most stable at a pH of approximately 4.2 (17). Due to the high hydrolytic tendency of the C2E5 ester bonds in aqueous media, nonaqueous gel formulations were pursued to stabilize the moisture-labile C2E5 in the delivery vehicles. Many drugs for topical and transdermal drug delivery are moisture-sensitive and undergo degradation reactions with water (18). The major degradation pathway involved with moisture-sensitive drugs is hydrolysis followed by secondary degradation reactions such as polymerization and isomerization (19). In contrast to extensive research on traditional semisolid dosage forms such as creams, ointments, and hydrogels, there are far fewer reports on the development of nonaqueous gel matrices intended for topical and transdermal drug delivery (20–24). Ethyl cellulose is frequently used as a gelling agent for nonaqueous gel vehicles. A series of nonaqueous gels with 15 and 20% (% w/w) ethyl cellulose were prepared as topical formulations of naproxen (20). Lee and colleagues developed a nonaqueous gel with 3–10% (% w/w) ethyl cellulose dispersed in an ethanol/tricaprylin (40:60, w/w) mixture (21). Lizaso and coworkers heated ethyl cellulose and phthalate ester derivative mixtures to 180°C and formed a nonaqueous gel during the cooling process (22). The Heng group reported on nonaqueous gel matrices containing ethyl cellulose and Miglyol 840®, which is a mixture of propylene glycol dicaprylate and dicaprate, obtained by directly mixing the ethyl cellulose and Miglyol 840 at 60°C (23). The rheological, mechanical, wettability, and spreadability properties of the ethyl cellulose/Miglyol 840 nonaqueous gels indicate that these matrices possess favorable attributes for transdermal and topical delivery (23,25,26). Here, we report on the preparation and characterization of C2E5 nonaqueous gels including their physical and rheological properties, determination of the stability of C2E5 in the gel, in vitro release properties, and preliminary in vivo pharmacokinetics of the lead C2E5 nonaqueous gel formulation.MATERIALS AND METHODSMaterialsMiglyol 840 was purchased from Sasol (Hamburg, Germany). Ethyl cellulose polymers, including ETHOCEL Std 7 FP Premium (EC7), ETHOCEL Std 10 FP Premium (EC10), and ETHOCEL Std 100 FP Premium (EC100) with an ethoxyl content of 48.0–49.5%, were gifts from Dow Chemical (Midland, MI, USA). C2E5 was prepared based on the Fischer esterification method by reacting DTPA with ethanol under reflux in the presence of a hydrochloric acid catalyst (17). Acetonitrile, trifluoroacetic acid, anhydrous ethanol, methanol, isopropyl alcohol, formic acid, iron (III) chloride hexahydrate, ammonium formate, tributylamine, and acetic acid were purchased from VWR International (Radnor, PA, USA) or Fisher Scientific (Fairlawn, NJ, USA). Double-distilled water was obtained from a Milli-Q system (Millipore, Billerica, MA, USA).Preparation of the C2E5 Nonaqueous GelsThe C2E5 nonaqueous gels were prepared using the solvent evaporation method. The EC10 material was dried at 60°C for ∼24 h before use in gel preparations. Predried EC10 particles were initially dissolved in anhydrous ethanol (10% w/v of EC10 to ethanol) to form an EC10 stock solution. The C2E5 nonaqueous gel was prepared by mixing the EC10 stock solution, Miglyol 840 and C2E5 to form a homogenous solution, followed by removing ethanol under vacuum. When the gel was <102% of the theoretical weight, the C2E5 nonaqueous gels were transferred to a storage container under nitrogen and sealed with an airtight cap, covered with aluminum foil to protect from light, and stored at 4°C for later use.The C2E5 concentration in these gel formulations was determined using a Shimadzu Prominence high pressure liquid chromatography (HPLC) system equipped with an Alltech 3300 evaporative light scattering detector (ELSD). A reverse-phase gradient separation was performed using an Alltima C18 column (250 × 2.1 mm I.D., 5 μm) at 40°C and a flow rate of 0.25 mL/min. The solvents that comprised the mobile phase were water with 0.1% trifluoroacetic acid (A), acetonitrile (B), and isopropyl alcohol (C). The linear gradient for the mobile phase mixture (A/B/C) was from 94:4:2 to 25:50:25 over 35 min, followed by a change to 0:0:100 in 0.5 min and an equilibration phase of 0:0:100 for 9.5 min, and ending with a reversal to 94:4:2 in 0.5 min and an equilibration phase of 94:4:2 for 9.5 min. The ELSD was operated at 40°C with 1.9 L/min nitrogen gas flow. Triplicate injections for each sample of C2E5 nonaqueous gel dissolved in anhydrous ethanol were performed with a volume of 10 μL per injection, and the retention time of C2E5 was 26 min. Samples were held at ambient temperature during analysis and analyzed using a standard curve over a concentration range of 0.02–2.00 mg/mL, which had a power regression fit of R2 = 0.999. C2E5 nonaqueous gel samples stored at 4°C for 6 months were monitored for C2E5 degradation using this HPLC method.Physical characterization, in vitro release testing and pharmacokinetic studies were performed with a formulation comprised of 20% EC10, 40% C2E5, and 40% Miglyol 840 prepared using the solvent evaporation method.Differential Scanning CalorimetryThe EC10 polymer particles and the C2E5 nonaqueous gel samples were analyzed using a TA Instruments differential scanning calorimetry (DSC) Model Q200 under a nitrogen flow of 50 mL/min. Approximately 5–10 mg samples were heated in a sealed aluminum pan at a ramp rate of 10°C/min, cooled at a rate of 5°C/min, and subsequently heated at 10°C/min in heat/cool/heat mode from −10 to 160°C. The glass transition (Tg) and melting (Tm) temperatures in the third heating cycle were determined using TA Universal Software.Rheological MeasurementsA stress-controlled cone-and-plate rheometer (TA Instruments, Model AR-G2) with a cone of 40 mm in diameter and 1° cone angle at controlled temperatures of 25 ± 0.5°C and 32 ± 0.5°C was utilized to measure continuous shear rheometry of the nonaqueous gels with a formulation comprised of 20% EC10, 40% C2E5, and 40% Miglyol 840 prepared using the solvent evaporation method. The gel samples were carefully loaded to the lower plate to reduce shearing effects and equilibrated for 5 min at the designated temperatures prior to measurement. Fresh samples were used for each individual measurement, and triplicate measurements were performed for the formulation. Data are reported as mean ± SD.Continuous shear rheometry was obtained by changing the shear rate from 0.1 to 40 s−1 over a period of 300 s. The power law equation for simple steady shear (Eq. 1) was used to fit the data obtained from the upward flow curves (27):1where τ = shear stress, , m = consistency index, and n = flow behavior index.The estimated yield stress was derived by fitting the data using the Casson model described in Eq. 2 (27):2where τy = yield stress and η = creep viscosity. The square root of yield stress τy was obtained from the plot as the y-axis intercept when .In Vitro Release of C2E5 Nonaqueous GelAn in vitro release study was carried out using a vertical diffusion cell system equipped with an autosampler (Hanson Microette Autosampling System, Hanson Research Co., USA) to evaluate the nonaqueous gel formulations comprised of 20% EC10, 40% C2E5, and 40% Miglyol 840 prepared using the solvent evaporation method. The area for permeation was 1.767 cm2, and the receiver compartment volume was 7 mL. The receiver medium was 0.1 M phosphate buffer (pH 7.4) maintained at 32°C and continuously stirred at 400 rpm. A cellulose acetate membrane (25 mm in diameter, with a 0.45 μm pore diameter, Whatman®) was first treated by soaking in the receiving medium and then mounted and clamped between the receiver and donor compartments of the diffusion cells. Approximately 300 mg of C2E5 nonaqueous gel was loaded evenly on the surface of the cellulose acetate membrane (n = 5) and covered with a glass disk to exclude air. One-milliliter samples were removed from the receiver compartment at 0.5, 1, 2, 4, and 6 h, which were replaced with an equal volume of fresh media.The C2E5 content in the collected samples was determined by the HPLC method described above. The cumulative amount of C2E5 released per unit membrane area from the tested nonaqueous gel was plotted as a function of the square root of time and as a function of time. The Higuchi equation (Eq. 3) dictates the drug release from semisolid dosage forms including creams, gels, and ointments, and holds true when the released drug from the vehicle is below 30% (28,29):3where Q = amount of drug released per unit area (mg/cm2), Cveh = initial drug concentration (mg/cm3) in the vehicle, D = apparent diffusion coefficient (cm2/h), t = time (h), and π = constant. The release rate constant k of C2E5 from the nonaqueous gel formulation was determined using a simplified form of the Higuchi equation (Eq. 4):4where k is the release rate constant, which is determined from the slope of the cumulative amount of C2E5 released per unit membrane area from the nonaqueous gel versus the square root of time.Fick’s law (Eq. 5) has been used as a simple model to describe the steady-state diffusion of drug through synthetic membranes and skin:5where Jss = steady-state flux (mg/h), D = drug diffusivity (cm2/h), h = membrane thickness (cm), Kp = drug’s membrane-vehicle partition coefficient, Cveh = initial drug concentration (mg/cm3) in the vehicle, and A = surface area (cm2). Jss can be determined from the slope of the linear plot in the steady-state region of the cumulative amount of C2E5 permeated (mg) per unit diffusion surface (cm2) versus a function of time.Throughout the experiment the C2E5 concentration in the receptor compartment was kept below 30% of the solubility of C2E5 at pH 7.4, which is about 2.2 mg/mL at room temperature (17). Therefore, steady-state flux condition and sink condition were maintained for the duration of the experiment.Absorption of C2E5 Administered as a Neat Oil or as a Nonaqueous GelAll animal studies were conducted according to a protocol approved by the University of North Carolina at Chapel Hill Institutional Animal Care and Use Committee. Ten-week-old adult female Sprague–Dawley (SD) rats weighing 200–300 g were used in these studies (Charles River Labs, Raleigh, NC, USA). Food and water were provided ad libitum. The animal room was kept at a controlled temperature on a 12 h/12 h light/dark cycle (light exposure from 7 am to 7 pm). For the duration of the study, the rats were individually housed in metabolic cages until euthanasia at 24 h after neat C2E5 oil or C2E5 gel application.In all animals, the dorsal skin between the cervical vertebrae and anterior thoracic vertebrae of SD rats was carefully clipped prior to drug application to remove hair. C2E5 nonaqueous gel was applied at a C2E5 dose of 200 mg/kg to a 2 × 3 cm region using a cotton swab. For comparison, neat C2E5 oil (200 mg/kg) was applied using a 1-mL syringe to the same size area on a control group of rats. For each rat, the mass of the drug and applicator was recorded before and after application with the difference being the delivered dose. Finally, a jacket with a dermal insert (VWR International, Radnor, PA, USA) was placed on the rats to protect the applied treatments. Blood samples (0.4 mL) were collected from the tail vein using SurFlash® polyurethane i.v. catheters (Terumo, Somerset, NJ, USA) at either before or 0.5 h after treatment and then at 1, 2, 4, 8, 12, and 24 h after treatment. The collected samples were immediately transferred from the syringes into prechilled sampling tubes containing 5 mg sodium fluoride and 4 mg potassium oxalate (BD Vacutainer product number 367921). The tubes were inverted eight times per manufacturer’s recommendation and centrifuged (1,300×g for 10 min at 4°C). Plasma samples were then portioned into two 1.7-mL Eppendorf tubes, which contained an equal amount of a 20% formic acid aqueous solution. These tubes were immediately vortexed and placed on dry ice until transfer to storage at −80°C until analysis. The animals were transferred to individual housing in metabolic cages after C2E5 treatment. Animals were euthanized 24 h after C2E5 gel or neat C2E5 oil application. The animals were observed during the study period, and the body weight of each animal was recorded at predose and prior to necropsy.A liquid chromatography–tandem mass spectrometry (LC/MS/MS) method was developed for the analysis of C2E5 and metabolites except for the fully de-esterified metabolite, DTPA, in these samples. Acidified plasma samples (100 μL) were first treated with 25 μL of 13C-C2E5 stable-label internal standard (1,000 ng/mL), followed by precipitation with acetonitrile (400 μL). The supernatant (400 μL) was removed and evaporated to dryness, and the residue was reconstituted with 500 μL of 85/15/0.1% water/acetonitrile/formic acid. A 10-μL injection was used for LC/MS/MS analysis. Reverse-phase chromatography was performed at 0.3 mL/min on a YMC® ODS-AM C18 (100 × 2 mm, 3 μm) column with mobile phases A (0.1% formic acid in water) and B (0.1% formic acid in acetonitrile) using a 10-min gradient (isocratic at 13% mobile phase B for 1 min, linear gradient to 50% mobile phase B at 6 min, linear gradient to 60% mobile phase A at 6.5 min, linear gradient to 90% mobile phase B at 8 min, return to initial 13% mobile phase B at 8.1 min, and equilibrate at 13% mobile phase B until 10 min). After separation by liquid chromatography, the analytes and internal standard were detected on a triple quadrupole mass spectrometer using heated electrospray ionization (HESI-II) (Thermo Scientific) in the positive-ion mode. Suitable reference standard material was available to provide reliable results for C2E5, C2E4, and C2E2. Although reference standard material was not available for C2E3 and C2E1, these analytes were present as trace impurities in the reference standards for C2E5, C2E4, and C2E2. The assumption of response factors for C2E3 and C2E1 equal to those of the reference standards afforded an estimate of the concentrations of C2E3 and C2E1 in calibration standards; this allowed the generation of calibration curves for C2E3 and C2E1 that were used to estimate the levels of these analytes in samples. Due to lack of pure internal standards for C2E3 and C2E1, the plasma concentrations of C2E3 and C2E1 in the samples were considered as estimates. The lower limit of quantification (LLQ) for C2E5, C2E4, C2E3, C2E2, and C2E1 were determined to be 5.0, 10.0, 1.0, 10.0, and 5.0 ng/mL, respectively.For detection of DTPA, acidified plasma samples (100 μL) were first treated with 50 μL of 2 mM iron(III) chloride hexahydrate, followed by addition of 400 μL of 13C-DTPA stable-label internal standard (100 ng/mL in 0.1% acetic acid in acetonitrile). This solution was vortexed for 5 min and then centrifuged at 3,000 rpm for 10 min. The supernatant (350 μL) was removed, evaporated to dryness, and reconstituted with 100 μL of 0.1% aqueous acetic acid. A 10-μL aliquot of the reconstituted sample was used for LC/MS/MS analysis. The highly polar nature of DTPA required the incorporation of ion-pairing chromatography to produce acceptable LC peak shape and retention. Mobile phase A was 90:10 water/methanol with 1 mM ammonium formate and 1 mM tributylamine, and mobile phase B was 50:50 acetonitrile/(5:95 water/methanol) with 1 mM acetic acid and 1 mM tributylamine. A 10 min gradient was used to afford separation (isocratic at 5% mobile phase B for 1 min, linear gradient to 80% mobile phase B at 7 min, linear gradient to 90% mobile phase B at 7.1 min, maintaining at 90% mobile phase B through 8 min, return to initial 5% mobile phase B at 8.1 min, and equilibrate at 5% mobile phase B until 10 min). Reverse-phase chromatography was performed at 0.3 mL/min on an Advanced Materials Technology HALO® Phenyl-Hexyl column (50 × 2.1 mm, 2.7 μm). The analyte and internal standard were detected on a triple quadrupole mass spectrometer using HESI-II in the negative-ion mode. The LLQ for DTPA was determined to be 10.0 ng/mL.For C2E5 and its metabolites in the pharmacokinetic samples, plasma concentrations below the limit of quantification were labeled as not detected (ND) and assigned a value of zero for the area under the curve (AUC) analysis. The AUCs were calculated using the trapezoidal method.Statistical AnalysesThe concentrations of C2E2 and C2E3 in plasma samples collected at different times from the two C2E5 dosage forms (neat oil and nonaqueous gel) were compared by unbalanced two-way analysis of variance (ANOVA). Analysis of the calculated exposure to C2E3 and C2E2 was by two-tailed t test. All measurements are expressed as mean ± standard deviation (SD). The level of significance was set at p < 0.05.RESULTSPreparation of C2E5 Nonaqueous GelsThe solvent evaporation method was used to prepare the C2E5 nonaqueous gel formulations. To maximize C2E5 loading in the gel and achieve desirable rheological and mechanical properties, a formulation that contained 40% C2E5, 20% EC10, and 40% Miglyol 840 was prepared and yielded a slightly yellow translucent gel, which was determined to have a density of 1.02 g/cm3. Based on the HPLC analysis, the C2E5 content in nonaqueous gel samples stored at 4°C for 6 months contained 98.2% of the C2E5 content in a freshly prepared C2E5 nonaqueous gel, with C2E4 being as the main degradant.Thermal Analysis by DSCThe DSC thermogram of predried EC10 showed one minor endothermic peak appearing at 63°C and one major endothermic peak at 120°C. The endothermic peak at 120°C is the EC10 glass transition temperature (30). The endothermic peak at 63°C may be the result of the presence of glyoxal, an impurity in ethyl cellulose (19), or glyoxal reaction products. However, further investigation is necessary for confirmation of this peak. The DSC thermogram of the C2E5 nonaqueous gel containing 20% EC10, 40% C2E5, and 40% Miglyol 840 prepared using the solvent evaporation method showed no prominent endothermic peaks in the range from −10 to 160°C. Complete dissolution of the EC10 in ethanol prior to gel formation eliminated the EC10 glass transition endothermic peak at 120°C. The impurity in EC10, which showed the endothermic peak at 63°C on the DSC thermogram of predried EC10, could possibly have been dissolved in ethanol and later removed during the solvent evaporation process, either through direct evaporation (the boiling point of glyoxal is 51°C) or by formation of an azeotrope with ethanol. The residual water content in the gel components could also have been effectively removed during the solvent evaporation process by formation of an azeotrope with ethanol.Rheological Measurement ResultsRheograms derived from continuous shear rheometry (Fig. 2) demonstrated that the C2E5 nonaqueous gel is a typical shear-thinning system at both 25 and 32°C. The shear stress versus shear rate rheogram exhibits a convex shape and a hysteresis loop. The rheological properties of the 40% C2E5 nonaqueous gel at different temperatures are summarized in Table I. The flow behavior index values (n) were below 1 for both the 25 and 32°C measurements, indicating a shear-thinning gel structure under each of these temperature conditions (31). Yield stress and hysteresis area are parameters representing the rigidity and cohesion between the molecules forming a three-dimensional gel structure and the extensiveness of this three-dimensional gel structure (32,33).Open in a separate windowFig. 2Continuous shear rheogram showing shear rate versus shear stress at 25°C and 32°C of C2E5 nonaqueous gel comprised of 20% EC10, 40% C2E5, and 40% Miglyol 840 prepared using the solvent evaporation methodTable IRheological Properties of a 40% C2E5 Nonaqueous Gel at Different TemperaturesTemperature (°C)Flow behavior index, n
+Consistency index, m (Pa sn)Apparent viscositya (Pa s)Yield stress (Pa)Hysteresis area (kPa s−1)Mean ± SD250.407 ± 0.013691 ± 17177 ± 1663 ± 1816.7 ± 0.7320.462 ± 0.005446 ± 13129 ± 3381 ± 147.71 ± 0.28Open in a separate window
+aApparent viscosity at a shear rate of 10 s−1
+In Vitro Release of C2E5 Nonaqueous GelA plot of the cumulative amount of C2E5 released per unit membrane area versus the square root of time, for the lead nonaqueous gel (20% EC10, 40% C2E5, and 40% Miglyol 840), is presented in Fig. 3. The cumulative amount of C2E5 released per unit membrane area from the lead nonaqueous gel versus the square root of time yielded a linear plot with y = 1.57x – 0.78 and R2 = 0.996. The amounts of C2E5 released after 6 h from the five individual in vitro release runs ranged from 2.89 to 3.33 mg/cm2, with an average value of 3.11 ± 0.17 mg/cm2 (coefficient of variance = 5.5%). The average release rate constant k and average steady-state flux Jss per unit area of the 40% C2E5 nonaqueous gel were determined to be 1.57 ± 0.09 mg cm−2 h−0.5 and 0.556 ± 0.031 mg cm−2 h−1, respectively, with both having a coefficient of variance of 5.6%. For each individual run, an acceptable linear regression fit was achieved for the release rate constant k per unit area (R2 ≥ 0.994) and the steady-state flux Jss per unit area (R2 ≥ 0.969).Open in a separate windowFig. 3Relationship between square root of time and cumulative amount of C2E5 released through a cellulose membrane into 0.1 M phosphate buffer after application of C2E5 nonaqueous gel (n = 5). The C2E5 nonaqueous gel consisted of 20% EC10, 40% C2E5, and 40% Miglyol 840. The release rate constant k is determined from the slope of the cumulative amount of C2E5 released per unit membrane area from the tested nonaqueous gel versus square root of time defined in Eq. 4
+Absorption of C2E5 Administered as a Neat Oil or as a Nonaqueous GelFollowing topical application of either the neat C2E5 oil or the 40% C2E5 nonaqueous gel, the principal circulating metabolites detected in plasma were C2E3 and C2E2. The concentrations of C2E3 and C2E2 detected in the rat plasma samples plotted versus time for the neat C2E5 oil and the 40% C2E5 nonaqueous gel groups are presented in Figs. 4 and ​and5,5, respectively. Two-way ANOVA showed that the C2E5 dosage form had a significant effect on the plasma concentration of both C2E2 [FFormulation(1,36) = 13.3, p < 0.001] and C2E3 [FFormulation(1,36) = 6.91, p < 0.05]. The time the plasma was sampled was not a significant factor for either metabolite [C2E2, FTime(7,36) = 1.06, p = 0.41 and C2E3, FTime(7,36) = 0.84, p = 0.56], and no interaction between dosage form and time was observed [C2E2, FInteraction(7,36) = 0.84, p = 0.56 and C2E3, FInteraction(7,36) = 1.04, p = 0.42]. The pharmacokinetic parameters of C2E3 and C2E2 after application of neat C2E5 oil or 40% C2E5 nonaqueous gel at 200 mg/kg dose (n = 4) are shown in Table II. We observed a trend for increased exposure to the metabolites C2E3 and C2E2 following C2E5 application as a nonaqueous gel compared with application as the neat oil; however, this trend did not reach statistical significance for either metabolite alone (AUCC2E2, p = 0.073 and AUCC2E3, p = 0.087; both two-tailed t test). Enhancement ratios based on the AUCs for C2E3 and C2E2 were determined to compare the AUC obtained from the 40% C2E5 nonaqueous gel group to the neat C2E5 oil group.Open in a separate windowFig. 4Concentration of C2E3 detected in rat plasma versus time after topical administration of the neat C2E5 oil and the 40% C2E5 nonaqueous gel (mean ± SD) (n = 4)Open in a separate windowFig. 5Concentration of C2E2 detected in rat plasma versus time after topical administration of the neat C2E5 oil and the 40% C2E5 nonaqueous gel (mean ± SD) (n = 4)Table IIPharmacokinetic Parameters of C2E3 and C2E2 After Application of Neat C2E5 Oil or 40% C2E5 Nonaqueous gel at a C2E5 Dose of 200 mg/kg (n = 4) and the Enhancement Ratio of C2E3 and C2E2 Based on the Formula AUC0–24 h (C2E5 gel)/AUC0–24 h (neat C2E5)
+C2E3C2E2TreatmentCmax (mean ± SD, μg/mL)Tmax (mean ± SD, h)AUC0-24h (mean ± SD, h × μg/mL)Enhancement ratio (AUC0–24 h (C2E5 gel)/AUC0–24 h (neat C2E5))Cmax (mean ± SD, μg/mL)Tmax (mean ± SD, h)AUC0-24h (mean ± SD, h × μg/mL)Enhancement ratio [AUC0–24 h (C2E5 gel)/AUC0–24 h (neat C2E5)]Neat C2E5 oil at 200 mg/kg0.181 ± 0.0979.6 ± 10.91.21 ± 0.162.90.059 ± 0.04117.0 ± 8.20.660 ± 0.3514.240% C2E5 nonaqueous gel at 200 mg/kg0.281 ± 0.1594.5 ± 4.03.52 ± 2.260.203 ± 0.1614.5 ± 2.52.75 ± 1.89Open in a separate window
+C
+max maximum plasma concentration during 0–24 h period, T
+max time of maximum plasma concentration during 0–24 h period, AUC
+0–24 h area under the curve during 0–24 h periodThere was only two plasma samples in which C2E5 was detected with a concentration above the LLQ among the 56 samples, one from the neat C2E5 oil group (28.4 ng/mL at 2 h) and one from the C2E5 nonaqueous gel group (7.2 ng/mL at 24 h). There were five plasma samples in which C2E4 was detected with a concentration above the LLQ among 56 samples, three from the neat C2E5 oil group (13.5 ng/mL at 0.5 h, 52.7 ng/mL at 2 h and 45.1 ng/mL at 24 h), and two from the C2E5 nonaqueous gel group (59.9 ng/mL at 1 h and 83.8 ng/mL at 2 h).C2E3 and C2E2 species were consistently detected in the plasma samples from both groups throughout the experimental period with the Cmax values ranging from 85.3 to 485 ng/mL for C2E3 and from 17.4 to 413 ng/mL for C2E2, indicating that C2E3 and C2E2 are stable C2E5 metabolites in vivo. The concentrations of C2E3 and C2E2 reported in the rat plasma samples versus time figures showed a sustained release profile from transdermal neat C2E5 oil and C2E5 nonaqueous gel formulations. Average steady-state concentrations (Css) for both C2E3 and C2E2 were between 100 and 200 ng/mL for the C2E5 nonaqueous gel group and between 20 and 80 ng/mL for the neat C2E5 oil group. Overall systemic exposures to C2E3 and C2E2 were approximately 2.9- and 4.2-fold (based on AUC0−24 h) higher for the C2E5 nonaqueous gel group compared to the neat C2E5 oil group.There was no C2E1 detected above the quantification limit in any rat plasma samples for either the neat C2E5 oil group or the C2E5 nonaqueous gel group during the experimental period. DTPA was frequently detected in the plasma samples at time points after 4 h postdosing for both the neat C2E5 oil group and the C2E5 nonaqueous gel group. Most of the detected DTPA plasma concentrations were in the range of 10 ng/mL to 30 ng/mL, which is just above the LLQ of DTPA (10 ng/mL). The maximum DTPA concentration detected in plasma in the neat C2E5 oil group was 61.4 ng/mL, compared with 693 ng/mL in the C2E5 nonaqueous gel group.DISCUSSIONNonaqueous gel formulations have been a useful vehicle for moisture-sensitive drugs for topical and transdermal application (20–24). Critical components for the successful development of a semisolid product for topical and transdermal applications include the stability of the active pharmaceutical ingredient (API) in the delivery matrix, product uniformity, and the release profile of API from the delivery matrix. In this study, we report on the development and characterization of a nonaqueous gel formulation that stabilizes the hydrolysis-prone API, enhances its percutaneous permeation flux, and improves its pharmacokinetic profile following topical application to rats.Candidate nonaqueous gel formulations showed improved stability of C2E5 under various storage conditions when compared with the neat API and other tested delivery vehicles, such as creams and ointments (34,35), suggesting a clear benefit of the ethyl cellulose based nonaqueous gel for this moisture-sensitive compound. The enhanced stability profile of C2E5 in the nonaqueous gel matrix is probably due to decreased interactions with the hydroxyl groups on the ethyl cellulose polymer chains. These hydroxyl groups are not readily available to interact with other molecules compared to the hydroxyl groups in small molecule due to steric and rotational hindrance. The use of Miglyol 840 neutral oil as a dispersion medium also contributes to the enhanced stability of C2E5 in the gel matrix because Miglyol 840 is nonhygroscopic, possesses high stability against oxidation, and contains no free hydroxyl groups (23).Modification of the published direct mixing method for gel preparation (23), using anhydrous ethanol to dissolve the ethyl cellulose before forming the gel and then evaporating the ethanol from the gel mixture, resulted in a significant improvement in gel uniformity. Although the solvent evaporation method is a commonly used technique for making films, microspheres, and solid dispersions (36–38), to our knowledge, this method has not been reported previously for preparation of ethyl cellulose based nonaqueous gels. To minimize the amount of solvent used in the gel preparation, EC7 and EC10 were selected because much more ethanol is needed to dissolve EC100 than for equal amounts of EC7 or EC10. Our method of gel preparation requires simple evaporation of the solvent and is suitable for scale-up, with ethanol content in the gels readily reduced to below 2% of gel weight. The solvent evaporation method was successfully scaled up to prepare 400 g of C2E5 nonaqueous gels in one batch. Any residual ethanol present in the gel system would not interact with the C2E5 molecules and might possibly retard its hydrolysis. Ethanol is approved for human use in commercial topical and transdermal products at relatively high concentrations as a basic component and can act as a permeation enhancer by changing the characteristics of the skin (23,39). A C2E5 formulation screening study was carried out and phase separation was observed in gels with low EC content (<10%) and particularly in gels with lower molecular weight EC chains. This phase separation may be due to a decrease in the interactions between the gel matrix and the C2E5 dissolved in it (data not shown). A C2E5 nonaqueous gel formulation comprised of 20% EC10, 40% C2E5, and 40% Miglyol 840 was chosen as a candidate formulation for further physical characterization and in vivo pharmacokinetic evaluation.The stability study with the 40% C2E5 nonaqueous gel showed that <2% of C2E5 had degraded after being stored at 4°C for 6 months, suggesting an acceptable stability profile of this formulation. As demonstrated by the DSC thermograms, the slightly yellow translucent C2E5 nonaqueous gel possessed acceptable uniformity. This was a result of EC10 being completely solubilized in ethanol before incorporation into the gel matrix and thus eliminating the problems related to residual EC particulates encountered when using the direct mixing method.The rheological and mechanical properties of the nonaqueous gel matrices containing ethyl cellulose and Miglyol 840 were investigated in detail by the Heng group (23). The rheological properties of the C2E5 nonaqueous gel comprised of 20% EC10, 40% C2E5, and 40% Miglyol 840 (Table I) exhibited characteristics and flow patterns similar to nonaqueous gels comprised of ethyl cellulose and Miglyol 840, suggesting that an adequate adhesion force to the skin surface for prolonged periods could be maintained, a critical property for the sustained delivery of drug substance from the gel (40). Other characteristics, such as a 36.6% decrease in viscosity from 177 (Pa s) to 129 (Pa s) and a 117% decrease in hysteresis area with a temperature increase from 25 to 32°C, are good indicators that the gel is suitable for application on human skin with a surface temperature of 32–34°C. The in vivo pharmacokinetic studies using this gel formulation confirmed the predictions based on these physical measurements; the gel spread easily during application and remained at the application site for the entire study. In contrast, neat C2E5 oil presented a challenge for application to the skin and retention at the application site due to its lower viscosity.In vitro release testing is widely used to assess content uniformity and drug release from semisolid products and can also be used to compare performance across different batches and after storage or changes in the manufacturing process (41,42). Although transdermal delivery of C2E5 to the systemic circulation is a multistep process, in vitro release results suggest that C2E5 is readily released from the nonaqueous gel matrix and the steady state flux (0.556 ± 0.031 mg cm−2 h−1) associated with this release is expected provide the required sustained concentration of drug in plasma. The narrow distribution of the release rate constant (1.57 ± 0.09, coefficient of variance = 5.6%) confirmed the optimal content uniformity of the 40% C2E5 nonaqueous gel prepared by solvent evaporation method.Pharmacokinetic data obtained from in vivo studies confirmed our observations from the in vitro release testing, with metabolites of C2E5 detected in plasma throughout the collection period. Additionally, an improved plasma pharmacokinetic profile for drug released from the C2E5 nonaqueous gel compared with the neat C2E5 oil suggests that Miglyol 840, a major component of the gel, perhaps along with residual ethanol in the gel, are working as permeation enhancers (23,39,43). The enhanced ratios of systemic exposure to major C2E5 metabolites (C2E3 and C2E2) with C2E5 nonaqueous gel were greater than those observed with neat C2E5 oil. The pharmacokinetic data also support our hypothesis that the mismatch between the biokinetics of transuranic contaminants and the pharmacokinetics of DTPA used to treat contamination could be overcome using a transdermal prodrug strategy.C2E5 and C2E4 were only detected in concentrations above their respective LLQs in <10% of all samples; detection of C2E4 suggests that it is a direct metabolite of C2E5 in vivo, generated by a stepwise de-esterification process involving esterases in the rat skin and plasma (44,45). C2E2 and C2E3 were observed as the principal metabolites detected in circulation throughout the 24 h study period, matching the findings of the C2E5 in vitro metabolism study (44,45). C2E1 was not detected above the LLQ in any plasma samples throughout the study, but is likely present transiently resulting from the stepwise de-esterification of C2E5 to DTPA. Detection of DTPA at low concentrations, close to the 10 ng/mL LLQ, was not unexpected as DTPA has a short half-life ranging from 18.5 to 31.8 min (8,9).In addition to DTPA, other metabolites, such as C2E3, C2E2, and C2E1, may effectively sequester transuranic radionuclides and form stable complexes. For example, 241Am, an abundant transuranic radionuclide, forms complexes with various chelators, including DTPA and other molecules structurally similar to C2E3, C2E2, and C2E1, with stability constants ranging from 10.7 to 24.0 M−1 (46). Although stability constants for americium binding to C2E5 metabolites are not known, the binding of Gd3+ with DTPA mono-propyl ester and DTPA di-propyl ester (compounds analogous to C2E1 and C2E2) are reported to be 18.91 and 16.30 M−1 (47). Because gadolinium is viewed as a biochemical analogue of americium and Gd3+ ion is structurally very similar to 241Am3+ (48,49), comparable binding constants and thermodynamic stability can be expected for the binding of 241Am3+ with C2E1 and C2E2 in vivo. Furthermore, studies in americium-contaminated rats demonstrated that C2E5 administered orally enhanced 241Am decorporation (17,50).CONCLUSIONSThe penta-ethyl ester of DTPA (C2E5) was incorporated into a nonaqueous gel comprised of ethyl cellulose and Miglyol 840 using the solvent evaporation method, and was characterized by thermal and rheological analysis and in vitro release. A superior pharmacokinetic profile of C2E5 metabolites, including DTPA, was achieved when C2E5 was administered as a nonaqueous gel as opposed to a neat oil, perhaps as a result of permeation enhancement by Miglyol 840 and ethanol. These findings demonstrate that transdermal delivery of a chelator prodrug is a viable approach for delivering DTPA and other chelating agents to the circulation as a potential treatment of transuranic radionuclide contamination and provide additional understanding of the properties of nonaqueous gel formulations as well as their utility in applications requiring transdermal and topical delivery of moisture-sensitive drugs.ACKNOWLEDGMENTSThe authors thank Dr. Richard Superfine and UNC Center for Computer Integrated Systems for Microscopy and Manipulation at UNC-Chapel Hill for access to the rheometer, which was funded by NIBIB/NIH award number P41-EB002025, and Dr. Joseph DeSimone for access to the differential scanning calorimeter. The authors also thank Mrs. Shraddha Shapariya for her help with pharmacokinetic studies, Dr. Jeremy Cribb for his help with the rheometer measurements, and Ms. Sara White for help with the differential scanning calorimeter. This work was funded in part by the National Institute of Health, US Department of Health and Human Services under contract HHSN266200500045C.REFERENCES1. Howard WL, Wilson D. Chelating agents. Kirk–Othmer Encyclopedia of Chemical Technology. New York:Wiley; 2000.2. Taylor DM, Stradling GN, Hengé-Napoli M-H. The scientific background to decorporation. Radiat Prot Dosim. 2000;87(1):11–18. doi: 10.1093/oxfordjournals.rpd.a032975. [CrossRef] [Google Scholar]3. Taylor DM, Volf V. Oral chelation treatment of injected 241Am or 239Pu in rats. Heal Phys. 1980;38(2):147–158. doi: 10.1097/00004032-198002000-00003. [PubMed] [CrossRef] [Google Scholar]4. Volf V. Effect of drinking Zn-DTPA on 238-Pu and 241-Am in rat bones. Radiat Environ Biophys. 1984;23(2):141–143. doi: 10.1007/BF01213743. [PubMed] [CrossRef] [Google Scholar]5. Stradling GN, Gray SA, Ellender M, Pearce M, Wilson I, Moody JC, et al. Removal of inhaled plutonium and americium from the rat by administration of ZnDTPA in drinking water. Hum Exp Toxicol. 1993;12(3):233–239. doi: 10.1177/096032719301200306. [PubMed] [CrossRef] [Google Scholar]6. FDA approves drugs to treat internal contamination from radioactive elements (2004) http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2004/ucm108339.htm. Accessed 30 May 2012.7. National Council on Radiation Protection and Measurements; National Council on Radiation Protection and Measurements. Scientific Committee 57–17 on Radionuclide Dosimetry Model for Wounds. Development of a biokinetic model for radionuclide-contaminated wounds and procedures for their assessment, dosimetry, and treatment: recommendations of the National Council on Radiation Protection and Measurements, December 14, 2006. Bethesda: National Council on Radiation Protection and Measurements; 2007. pp. 35–117.8. Crawley FE, Haines JW. The dosimetry of carbon-14 labelled compounds: the metabolism of diethylenetriamine pentaacetic acid (DTPA) in the rat. Int J Nucl Med Biol. 1979;6(1):9–15. doi: 10.1016/0047-0740(79)90061-5. [PubMed] [CrossRef] [Google Scholar]9. Phan G, Herbet A, Cholet S, Benech H, Deverre JR, Fattal E. Pharmacokinetics of DTPA entrapped in conventional and long-circulating liposomes of different size for plutonium decorporation. J Control Release. 2005;110(1):177–188. doi: 10.1016/j.jconrel.2005.09.029. [PubMed] [CrossRef] [Google Scholar]10. Brown L, Langer R. Transdermal delivery of drugs. Annu Rev Med. 1988;39(1):221–229. doi: 10.1146/annurev.me.39.020188.001253. [PubMed] [CrossRef] [Google Scholar]11. Sloan KB.  Prodrugs: topical and ocular drug delivery. New York: Marcel Dekker; 1992.  [Google Scholar]12. Chien YW.  Novel drug delivery systems. 2. New York: Marcel Dekker; 1992.  [Google Scholar]13. Walters KA. Dermatological and transdermal formulations: London: Informa HealthCare; 2002.14. Diethylenetriaminepentaacetic acid (DTPA) Material safety data sheet. www.sigmaaldrich.com, Version 4.8. Accessed 30 May 2012.15. Cassatt DR, Kaminski JM, Hatchett RJ, DiCarlo AL, Benjamin JM, Maidment BW. Medical countermeasures against nuclear threats: radionuclide decorporation agents. Radiat Res. 2008;170(4):540–548. doi: 10.1667/RR1485.1. [PMC free article] [PubMed] [CrossRef] [Google Scholar]16. Jay M, Mumper RJ. Methods and pharmaceutical compositions for decorporation of radioactive compounds. United States Patent 8,030,358; 2011.17. Sueda K, Sadgrove MP, Fitzsimmons JM, Jay M. Physicochemical characterization of a prodrug of a radionuclide decorporation agent for oral delivery. J Pharm Sci. 2012;101(8):2844–2853. doi: 10.1002/jps.23218. [PubMed] [CrossRef] [Google Scholar]18. Langner M, Maibach H. Many common drugs in dermatology are light, temperature, or moisture-sensitive. Skin Therapy Lett. 2009;14(1):3–5. [PubMed] [Google Scholar]19. Crowley P, Martini LG. Drug–excipient interactions. Pharm Technol Eur. 2001;13(3):26–34. [Google Scholar]20. Claramonte M, Parera Vialard A, Vilchez FG. In vitro percutaneous absorption of naproxen from gels using a double-layer artificial membrane. Int J Pharm. 1993;98(1–3):37–43. doi: 10.1016/0378-5173(93)90038-H. [CrossRef] [Google Scholar]21. Lee C, Kitagawa K, Uchida T, Kim N, Goto S. Transdermal delivery of theophylline using an ethanol/panasate 800-ethylcellulose gel preparation. Biol Pharm Bull. 1995;18(1):176. doi: 10.1248/bpb.18.176. [PubMed] [CrossRef] [Google Scholar]22. Lizaso E, Muñoz ME, Santamaría A. Formation of gels in ethylcellulose solutions. an interpretation from dynamic viscoelastic results. Macromolecules. 1999;32(6):1883–1889. doi: 10.1021/ma9812231. [CrossRef] [Google Scholar]23. Heng PWS, Chan LW, Chow KT. Development of novel nonaqueous ethylcellulose gel matrices: rheological and mechanical characterization. Pharm Res. 2005;22(4):676–684. doi: 10.1007/s11095-005-2484-z. [PubMed] [CrossRef] [Google Scholar]24. Chow K, Chan L, Heng P. Formulation of hydrophilic non-aqueous gel: drug stability in different solvents and rheological behavior of gel matrices. Pharm Res. 2008;25(1):207–217. doi: 10.1007/s11095-007-9457-3. [PubMed] [CrossRef] [Google Scholar]25. Chan L, Chow K, Heng PWS. Investigation of wetting behavior of nonaqueous ethylcellulose gel matrices using dynamic contact angle. Pharm Res. 2006;23(2):408–421. doi: 10.1007/s11095-005-9259-4. [PubMed] [CrossRef] [Google Scholar]26. Chow KT, Chan LW, Heng PWS. Characterization of spreadability of nonaqueous ethylcellulose gel matrices using dynamic contact angle. J Pharm Sci. 2008;97(8):3467–3482. doi: 10.1002/jps.21227. [PubMed] [CrossRef] [Google Scholar]27. Macosko CW.  Rheology: principles, measurements, and applications. New York: VCH; 1994. pp. 65–108. [Google Scholar]28. Higuchi T. Physical chemical analysis of percutaneous absorption process from creams and ointments. J Soc Cosmet Chem. 1960;11(2):85–97. [Google Scholar]29. Higuchi W. Analysis of data on the medicament release from ointments. J Pharm Sci. 1962;51(8):802–804. doi: 10.1002/jps.2600510825. [PubMed] [CrossRef] [Google Scholar]30. Rekhi GS, Jambhekar SS. Ethylcellulose—a polymer review. Drug Dev Ind Pharm. 1995;21(1):61–77. doi: 10.3109/03639049509048096. [CrossRef] [Google Scholar]31. Chang JY, Oh YK, Choi HG, Kim YB, Kim CK. Rheological evaluation of thermosensitive and mucoadhesive vaginal gels in physiological conditions. Int J Pharm. 2002;241(1):155–163. doi: 10.1016/S0378-5173(02)00232-6. [PubMed] [CrossRef] [Google Scholar]32. Pena LE, Lee BL, Stearns JF. Structural rheology of a model ointment. Pharm Res. 1994;11(6):875–881. doi: 10.1023/A:1018990010686. [PubMed] [CrossRef] [Google Scholar]33. Contreras MD, Sanchez R. Application of a factorial design to the study of the flow behavior, spreadability and transparency of a Carbopol ETD 2020 gel. Part II. Int J Pharm. 2002;234(1–2):149–157. doi: 10.1016/S0378-5173(01)00954-1. [PubMed] [CrossRef] [Google Scholar]34. Zhang Y, Sadgrove M, Jay M. Transdermal delivery of DTPA prodrug for continuous decorporation of transuranic elements. Abstract T2248. AAPS Annual Meeting and Exposition, Washington, October, 2011. http://www.aapsj.org/abstracts/AM_2011/T2248.pdf.35. Yang Y-T, Di Pasqua AJ, He W, Tsai T, Sueda K, Zhang Y, et al. Preparation of alginate beads containing a prodrug of diethylenetriaminepentaacetic acid. Carbohydrate Polymers. 2012;92:1915–1920. doi:10.1016/j.carbpol.2012.11.071. [PMC free article] [PubMed]36. Banker GS. Film coating theory and practice. J Pharm Sci. 1966;55(1):81–89. doi: 10.1002/jps.2600550118. [PubMed] [CrossRef] [Google Scholar]37. Bodmeier R, McGinity JW. The preparation and evaluation of drug-containing poly (dl-lactide) microspheres formed by the solvent evaporation method. Pharm Res. 1987;4(6):465–471. doi: 10.1023/A:1016419303727. [PubMed] [CrossRef] [Google Scholar]38. Leuner C, Dressman J. Improving drug solubility for oral delivery using solid dispersions. Eur J Pharm Biopharm. 2000;50(1):47–60. doi: 10.1016/S0939-6411(00)00076-X. [PubMed] [CrossRef] [Google Scholar]39. Lachenmeier DW. Safety evaluation of topical applications of ethanol on the skin and the oral cavity. J Occup Med Toxicol. 2008;3:26. doi: 10.1186/1745-6673-3-26. [PMC free article] [PubMed] [CrossRef] [Google Scholar]40. Barry BW. Dermatological formulations: percutaneous absorption. New York: Marcel Dekker; 1983. pp. 296–440.41. Shah VP, Elkins J, Hanus J, Noorizadeh C, Skelly JP. In vitro release of hydrocortisone from topical preparations and automated procedure. Pharm Res. 1991;8(1):55–59. doi: 10.1023/A:1015826205930. [PubMed] [CrossRef] [Google Scholar]42. Shah VP. In vitro release from semisolid dosage forms? What is its value? Percutaneous absorption. London: Informa Healthcare; 2005. pp. 481–8.43. Pharmacopoeia E.  2002 European Pharmacopoeia. 4. Strasbourg: Council of Europe; 2002.  [Google Scholar]44. Zhang Y, Yang Y-T, Jay M. Species-dependent metabolism of a DTPA prodrug by skin esterases. Abstract T2424. AAPS Annual Meeting and Exposition, Washington, October, 2011. http://www.aapsj.org/abstracts/AM_2011/T2424.pdf.45. Pacyniak E, M. Leed, M. Sadgrove, Jay M. Interspecies differences in metabolism of a multi-ester prodrug by carboxylesterases. Abstract W4419. AAPS Annual Meeting and Exposition. Washington, October, 2011. http://www.aapsj.org/abstracts/AM_2011/W4419.pdf.46. Morss LR, Edelstein NM, Fuger J, Katz JJ.  The chemistry of the actinide and transactinide elements. 3. Dordrecht: Springer; 2006. pp. 1265–1395. [Google Scholar]47. Sherry AD, Cacheris WP, Kuan KT. Stability constants for Gd3+ binding to model DTPA-conjugates and DTPA-proteins: implications for their use as magnetic resonance contrast agents. Magn Reson Med. 1988;8(2):180–190. doi: 10.1002/mrm.1910080208. [PubMed] [CrossRef] [Google Scholar]48. Shutt A, Youngman M, Raine C, Stradling G, Etherington G, Kreyling W. A study of the human biokinetics of inhaled gadolinium oxide. Ann Occup Hyg. 2002;46(suppl 1):320–322. doi: 10.1093/annhyg/46.suppl_1.320. [CrossRef] [Google Scholar]49. Schulz WW.  Chemistry of Americium. Richland: Atlantic Richfield Hanford; 1976.  [Google Scholar]50. Sadgrove MP, Leed MGD, Shapariya S, Madhura DB, Jay M. Evaluation of a DTPA prodrug, C2E5 as an orally bioavailable radionuclide decorporation agent. Drug Dev Res. 2012;73(5):243–251. doi: 10.1002/ddr.21019. [CrossRef] [Google Scholar]Articles from The AAPS Journal are provided here courtesy of American Association of Pharmaceutical Scientists
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (261K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

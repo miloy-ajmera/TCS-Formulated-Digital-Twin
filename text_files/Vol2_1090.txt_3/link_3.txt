@@ -1,0 +1,8419 @@
+Document Name: role of Belsil PDM 20 in Foundation Cream3
+Document link: https://patents.google.com/patent/WO2019213656A1/en
+
+
+
+WO2019213656A1 - Pristine graphene and compositions with natural pressure sensitive adhesive (psa) method for over skin applications 
+        - Google Patents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WO2019213656A1 - Pristine graphene and compositions with natural pressure sensitive adhesive (psa) method for over skin applications 
+        - Google Patents
+Pristine graphene and compositions with natural pressure sensitive adhesive (psa) method for over skin applications 
+       
+
+Download PDF
+Info
+
+Publication number
+WO2019213656A1
+
+
+
+WO2019213656A1
+PCT/US2019/030898
+US2019030898W
+WO2019213656A1
+WO 2019213656 A1
+WO2019213656 A1
+WO 2019213656A1
+ 
+ 
+ 
+US 2019030898 W
+US2019030898 W
+US 2019030898W
+WO 2019213656 A1
+WO2019213656 A1
+WO 2019213656A1
+Authority
+WO
+WIPO (PCT)
+Prior art keywords
+dimethicone
+kit
+base component
+graphene
+dow corning
+Prior art date
+2018-05-04
+
+Application number
+PCT/US2019/030898
+Other languages
+
+
+French (fr)
+    
+
+Inventor
+Michael KRUEL
+Lily KRUEL
+Original Assignee
+Bio-Nature Laboratories Llc
+Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)
+2018-05-04
+Filing date
+2019-05-06
+Publication date
+2019-11-07
+
+
+Priority claimed from US201862667121P
+external-priority
+
+
+2019-05-06
+Application filed by Bio-Nature Laboratories Llc
+filed
+Critical
+Bio-Nature Laboratories Llc
+
+
+2019-05-06
+Priority to US17/052,897
+priority
+Critical
+patent/US20210145709A1/en
+
+
+2019-05-06
+Priority to JP2021512364A
+priority
+patent/JP2021523229A/en
+
+
+2019-05-06
+Priority to EP19796618.7A
+priority
+patent/EP3787589A4/en
+
+
+2019-05-06
+Priority to CN201980044645.6A
+priority
+patent/CN112384189A/en
+
+
+2019-05-06
+Priority to KR1020207034921A
+priority
+patent/KR20210015838A/en
+
+
+2019-11-07
+Publication of WO2019213656A1
+publication
+Critical
+patent/WO2019213656A1/en
+
+Links
+
+
+
+Espacenet
+
+
+
+Global Dossier
+
+
+
+PatentScope
+
+
+
+Discuss
+
+
+
+
+210000003491
+Skin
+Anatomy
+
+
+
+
+0.000
+title
+claims
+abstract
+description
+44
+
+
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+carbon
+Chemical compound
+
+
+[C]
+OKTJSMMVPCPJKN-UHFFFAOYSA-N
+0.000
+title
+claims
+description
+50
+
+
+229910021389
+graphene
+Inorganic materials
+
+
+
+
+0.000
+title
+claims
+description
+50
+
+
+239000004820
+Pressure-sensitive adhesive
+Substances
+
+
+
+
+0.000
+title
+claims
+description
+10
+
+
+239000000203
+mixture
+Substances
+
+
+
+
+0.000
+title
+abstract
+description
+31
+
+
+239000002537
+cosmetic
+Substances
+
+
+
+
+0.000
+claims
+abstract
+description
+53
+
+
+230000003213
+activating
+Effects
+
+
+
+
+0.000
+claims
+abstract
+description
+30
+
+
+229920000435
+poly(dimethylsiloxane)
+Polymers
+
+
+
+
+0.000
+claims
+description
+209
+
+
+235000013870
+dimethyl polysiloxane
+Nutrition
+
+
+
+
+0.000
+claims
+description
+205
+
+
+239000004205
+dimethyl polysiloxane
+Substances
+
+
+
+
+0.000
+claims
+description
+204
+
+
+229940008099
+dimethicone
+Drugs
+
+
+
+
+0.000
+claims
+description
+200
+
+
+UQEAIHBTYFGYIE-UHFFFAOYSA-N
+Hexamethyldisiloxane
+Chemical compound
+
+
+C[Si](C)(C)O[Si](C)(C)C
+UQEAIHBTYFGYIE-UHFFFAOYSA-N
+0.000
+claims
+description
+178
+
+
+VYPSYNLAJGMNEJ-UHFFFAOYSA-N
+silicium dioxide
+Chemical compound
+
+
+O=[Si]=O
+VYPSYNLAJGMNEJ-UHFFFAOYSA-N
+0.000
+claims
+description
+97
+
+
+GWEVSGVZZGPLCZ-UHFFFAOYSA-N
+titan oxide
+Chemical compound
+
+
+O=[Ti]=O
+GWEVSGVZZGPLCZ-UHFFFAOYSA-N
+0.000
+claims
+description
+66
+
+
+-1
+polysiloxane
+Polymers
+
+
+
+
+0.000
+claims
+description
+44
+
+
+BASFCYQUMIYNBI-UHFFFAOYSA-N
+platinum
+Chemical compound
+
+
+[Pt]
+BASFCYQUMIYNBI-UHFFFAOYSA-N
+0.000
+claims
+description
+40
+
+
+229920001971
+elastomer
+Polymers
+
+
+
+
+0.000
+claims
+description
+33
+
+
+239000000806
+elastomer
+Substances
+
+
+
+
+0.000
+claims
+description
+33
+
+
+239000004408
+titanium dioxide
+Substances
+
+
+
+
+0.000
+claims
+description
+33
+
+
+229920001296
+polysiloxane
+Polymers
+
+
+
+
+0.000
+claims
+description
+24
+
+
+239000010408
+film
+Substances
+
+
+
+
+0.000
+claims
+description
+22
+
+
+229910052697
+platinum
+Inorganic materials
+
+
+
+
+0.000
+claims
+description
+19
+
+
+239000003054
+catalyst
+Substances
+
+
+
+
+0.000
+claims
+description
+18
+
+
+229920001577
+copolymer
+Polymers
+
+
+
+
+0.000
+claims
+description
+17
+
+
+125000000391
+vinyl group
+Chemical group
+
+
+[H]C([*])=C([H])[H]
+
+0.000
+claims
+description
+17
+
+
+239000003795
+chemical substances by application
+Substances
+
+
+
+
+0.000
+claims
+description
+15
+
+
+229910021485
+fumed silica
+Inorganic materials
+
+
+
+
+0.000
+claims
+description
+13
+
+
+ZQTYRTSKQFQYPQ-UHFFFAOYSA-N
+trisiloxane
+Chemical compound
+
+
+[SiH3]O[SiH2]O[SiH3]
+ZQTYRTSKQFQYPQ-UHFFFAOYSA-N
+0.000
+claims
+description
+13
+
+
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+water
+Substances
+
+
+O
+XLYOFNOQVPJJNP-UHFFFAOYSA-N
+0.000
+claims
+description
+13
+
+
+239000003607
+modifier
+Substances
+
+
+
+
+0.000
+claims
+description
+12
+
+
+KPUWHANPEXNPJT-UHFFFAOYSA-N
+Disiloxane
+Chemical compound
+
+
+[SiH3]O[SiH3]
+KPUWHANPEXNPJT-UHFFFAOYSA-N
+0.000
+claims
+description
+9
+
+
+125000005373
+siloxane group
+Chemical group
+
+
+[SiH2](O*)*
+
+0.000
+claims
+description
+8
+
+
+238000004132
+cross linking
+Methods
+
+
+
+
+0.000
+claims
+description
+7
+
+
+XLOMVQKBTHCTTD-UHFFFAOYSA-N
+zinc monoxide
+Chemical compound
+
+
+[Zn]=O
+XLOMVQKBTHCTTD-UHFFFAOYSA-N
+0.000
+claims
+description
+6
+
+
+PNEYBMLMFCGWSK-UHFFFAOYSA-N
+al2o3
+Chemical compound
+
+
+[O-2].[O-2].[O-2].[Al+3].[Al+3]
+PNEYBMLMFCGWSK-UHFFFAOYSA-N
+0.000
+claims
+description
+5
+
+
+229920000591
+gum
+Polymers
+
+
+
+
+0.000
+claims
+description
+5
+
+
+KLGZELKXQMTEMM-UHFFFAOYSA-N
+hydride
+Chemical compound
+
+
+[H-]
+KLGZELKXQMTEMM-UHFFFAOYSA-N
+0.000
+claims
+description
+5
+
+
+230000001737
+promoting
+Effects
+
+
+
+
+0.000
+claims
+description
+5
+
+
+239000010445
+mica
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+229910052618
+mica group
+Inorganic materials
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000002562
+thickening agent
+Substances
+
+
+
+
+0.000
+claims
+description
+4
+
+
+239000004927
+clay
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+229910052570
+clay
+Inorganic materials
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000003085
+diluting agent
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000003814
+drug
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000003974
+emollient agent
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000003995
+emulsifying agent
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000003623
+enhancer
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+230000002708
+enhancing
+Effects
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000003906
+humectant
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000002365
+multiple layer
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000002245
+particle
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000000049
+pigment
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+230000002335
+preservative
+Effects
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000003755
+preservative agent
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+230000003014
+reinforcing
+Effects
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000002356
+single layer
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000002904
+solvent
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000004094
+surface-active agent
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+239000011787
+zinc oxide
+Substances
+
+
+
+
+0.000
+claims
+description
+3
+
+
+125000000524
+functional group
+Chemical group
+
+
+
+
+0.000
+claims
+description
+2
+
+
+238000004519
+manufacturing process
+Methods
+
+
+
+
+0.000
+claims
+description
+2
+
+
+239000011347
+resin
+Substances
+
+
+
+
+0.000
+claims
+description
+2
+
+
+229920005989
+resin
+Polymers
+
+
+
+
+0.000
+claims
+description
+2
+
+
+229910052500
+inorganic mineral
+Inorganic materials
+
+
+
+
+0.000
+claims
+1
+
+
+239000011707
+mineral
+Substances
+
+
+
+
+0.000
+claims
+1
+
+
+125000001820
+oxy group
+Chemical group
+
+
+[*:1]O[*:2]
+
+0.000
+claims
+1
+
+
+230000037303
+wrinkles
+Effects
+
+
+
+
+0.000
+abstract
+description
+8
+
+
+239000004615
+ingredient
+Substances
+
+
+
+
+0.000
+abstract
+description
+5
+
+
+239000011148
+porous material
+Substances
+
+
+
+
+0.000
+abstract
+description
+5
+
+
+230000001225
+therapeutic
+Effects
+
+
+
+
+0.000
+abstract
+description
+4
+
+
+230000003467
+diminishing
+Effects
+
+
+
+
+0.000
+abstract
+description
+2
+
+
+238000005516
+engineering process
+Methods
+
+
+
+
+0.000
+abstract
+description
+2
+
+
+XMSXQFUHVRWGNA-UHFFFAOYSA-N
+Decamethylcyclopentasiloxane
+Chemical compound
+
+
+C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1
+XMSXQFUHVRWGNA-UHFFFAOYSA-N
+0.000
+description
+77
+
+
+239000012530
+fluid
+Substances
+
+
+
+
+0.000
+description
+49
+
+
+MCMNRKCIXSYSNV-UHFFFAOYSA-N
+ZrO2
+Chemical compound
+
+
+O=[Zr]=O
+MCMNRKCIXSYSNV-UHFFFAOYSA-N
+0.000
+description
+48
+
+
+239000000377
+silicon dioxide
+Substances
+
+
+
+
+0.000
+description
+43
+
+
+YENWHDHPCQNHJJ-UHFFFAOYSA-N
+aluminum;oxygen(2-)
+Chemical compound
+
+
+[O-2].[O-2].[Al+3]
+YENWHDHPCQNHJJ-UHFFFAOYSA-N
+0.000
+description
+23
+
+
+239000000047
+product
+Substances
+
+
+
+
+0.000
+description
+22
+
+
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+propylene glycol
+Chemical compound
+
+
+CC(O)CO
+DNIAPMSPPWPWGF-UHFFFAOYSA-N
+0.000
+description
+20
+
+
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+glycerine
+Chemical compound
+
+
+OCC(O)CO
+PEDCQBHIVMGVHV-UHFFFAOYSA-N
+0.000
+description
+17
+
+
+235000011187
+glycerol
+Nutrition
+
+
+
+
+0.000
+description
+17
+
+
+PUPZLCDOIYMWBV-UHFFFAOYSA-N
+butylene glycol
+Chemical compound
+
+
+CC(O)CCO
+PUPZLCDOIYMWBV-UHFFFAOYSA-N
+0.000
+description
+16
+
+
+DDJSWKLBKSLAAZ-UHFFFAOYSA-N
+cyclotetrasiloxane
+Chemical compound
+
+
+O1[SiH2]O[SiH2]O[SiH2]O[SiH2]1
+DDJSWKLBKSLAAZ-UHFFFAOYSA-N
+0.000
+description
+14
+
+
+235000014063
+licorice root
+Nutrition
+
+
+
+
+0.000
+description
+12
+
+
+229920001223
+polyethylene glycol
+Polymers
+
+
+
+
+0.000
+description
+12
+
+
+239000000843
+powder
+Substances
+
+
+
+
+0.000
+description
+12
+
+
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+acrylic acid
+Chemical compound
+
+
+OC(=O)C=C
+NIXOWILDQLNWCW-UHFFFAOYSA-N
+0.000
+description
+11
+
+
+QCDWFXQBSFUVSP-UHFFFAOYSA-N
+Phenoxyethanol
+Chemical compound
+
+
+OCCOC1=CC=CC=C1
+QCDWFXQBSFUVSP-UHFFFAOYSA-N
+0.000
+description
+10
+
+
+229960005323
+Phenoxyethanol
+Drugs
+
+
+
+
+0.000
+description
+10
+
+
+ORGHESHFQPYLAO-UHFFFAOYSA-N
+Vinyl radical
+Chemical class
+
+
+C=[CH]
+ORGHESHFQPYLAO-UHFFFAOYSA-N
+0.000
+description
+10
+
+
+229910002012
+AerosilÂ®
+Inorganic materials
+
+
+
+
+0.000
+description
+9
+
+
+XVBRCOKDZVQYAY-UHFFFAOYSA-N
+Bronidox
+Chemical compound
+
+
+[O-][N+](=O)C1(Br)COCOC1
+XVBRCOKDZVQYAY-UHFFFAOYSA-N
+0.000
+description
+9
+
+
+229920001888
+polyacrylic acid
+Polymers
+
+
+
+
+0.000
+description
+9
+
+
+IMAYJYGCQCZYID-UHFFFAOYSA-N
+1,3,5,7,9,11-hexaoxa-2,4,6,8,10,12-hexasilacyclododecane
+Chemical compound
+
+
+O1[SiH2]O[SiH2]O[SiH2]O[SiH2]O[SiH2]O[SiH2]1
+IMAYJYGCQCZYID-UHFFFAOYSA-N
+0.000
+description
+8
+
+
+229940058015
+1,3-butylene glycol
+Drugs
+
+
+
+
+0.000
+description
+7
+
+
+241000202807
+Glycyrrhiza
+Species
+
+
+
+
+0.000
+description
+7
+
+
+235000001453
+Glycyrrhiza echinata
+Nutrition
+
+
+
+
+0.000
+description
+7
+
+
+235000006200
+Glycyrrhiza glabra
+Nutrition
+
+
+
+
+0.000
+description
+7
+
+
+235000017382
+Glycyrrhiza lepidota
+Nutrition
+
+
+
+
+0.000
+description
+7
+
+
+229940069445
+LICORICE EXTRACT
+Drugs
+
+
+
+
+0.000
+description
+7
+
+
+229940010454
+Licorice
+Drugs
+
+
+
+
+0.000
+description
+7
+
+
+244000126002
+Ziziphus vulgaris
+Species
+
+
+
+
+0.000
+description
+7
+
+
+235000019437
+butane-1,3-diol
+Nutrition
+
+
+
+
+0.000
+description
+7
+
+
+239000000839
+emulsion
+Substances
+
+
+
+
+0.000
+description
+7
+
+
+229960001631
+Carbomer
+Drugs
+
+
+
+
+0.000
+description
+6
+
+
+239000004677
+Nylon
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+239000006071
+cream
+Substances
+
+
+
+
+0.000
+description
+6
+
+
+229920001778
+nylon
+Polymers
+
+
+
+
+0.000
+description
+6
+
+
+229920000642
+polymer
+Polymers
+
+
+
+
+0.000
+description
+6
+
+
+GTJOHISYCKPIMT-UHFFFAOYSA-N
+2-Methylundecane
+Chemical compound
+
+
+CCCCCCCCCC(C)C
+GTJOHISYCKPIMT-UHFFFAOYSA-N
+0.000
+description
+5
+
+
+240000008917
+Glycyrrhiza uralensis
+Species
+
+
+
+
+0.000
+description
+5
+
+
+235000000554
+Glycyrrhiza uralensis
+Nutrition
+
+
+
+
+0.000
+description
+5
+
+
+210000001624
+Hip
+Anatomy
+
+
+
+
+0.000
+description
+5
+
+
+235000008529
+Ziziphus vulgaris
+Nutrition
+
+
+
+
+0.000
+description
+5
+
+
+150000001252
+acrylic acid derivatives
+Chemical class
+
+
+
+
+0.000
+description
+5
+
+
+235000013399
+edible fruits
+Nutrition
+
+
+
+
+0.000
+description
+5
+
+
+HVYWMOMLDIMFJA-DPAQBDIFSA-N
+(3Î²)-Cholest-5-en-3-ol
+Chemical compound
+
+
+C1C=C2C[C@@H](O)CC[C@]2(C)[C@@H]2[C@@H]1[C@@H]1CC[C@H]([C@H](C)CCCC(C)C)[C@@]1(C)CC2
+HVYWMOMLDIMFJA-DPAQBDIFSA-N
+0.000
+description
+4
+
+
+235000007516
+Chrysanthemum
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+240000005250
+Chrysanthemum indicum
+Species
+
+
+
+
+0.000
+description
+4
+
+
+235000005986
+Chrysanthemum x morifolium
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+229920002884
+Laureth 4
+Polymers
+
+
+
+
+0.000
+description
+4
+
+
+VODZWWMEJITOND-OWWNRXNESA-N
+N-Stearoylsphingosine
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)NC(CO)C(O)\C=C\CCCCCCCCCCCCC
+VODZWWMEJITOND-OWWNRXNESA-N
+0.000
+description
+4
+
+
+QIQXTHQIDYTFRH-UHFFFAOYSA-N
+Stearic acid
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(O)=O
+QIQXTHQIDYTFRH-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+230000032683
+aging
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+WMGSQTMJHBYJMQ-UHFFFAOYSA-N
+aluminum;magnesium;silicate
+Chemical compound
+
+
+[Mg+2].[Al+3].[O-][Si]([O-])([O-])[O-]
+WMGSQTMJHBYJMQ-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+230000003712
+anti-aging
+Effects
+
+
+
+
+0.000
+description
+4
+
+
+239000002223
+garnet
+Substances
+
+
+
+
+0.000
+description
+4
+
+
+229910000460
+iron oxide
+Inorganic materials
+
+
+
+
+0.000
+description
+4
+
+
+235000013980
+iron oxide
+Nutrition
+
+
+
+
+0.000
+description
+4
+
+
+VBMVTYDPPZVILR-UHFFFAOYSA-N
+iron(2+);oxygen(2-)
+Chemical class
+
+
+[O-2].[Fe+2]
+VBMVTYDPPZVILR-UHFFFAOYSA-N
+0.000
+description
+4
+
+
+229940061515
+laureth-4
+Drugs
+
+
+
+
+0.000
+description
+4
+
+
+102000004196
+processed proteins & peptides
+Human genes
+
+
+
+
+0.000
+description
+4
+
+
+108090000765
+processed proteins & peptides
+Proteins
+
+
+
+
+0.000
+description
+4
+
+
+229910052718
+tin
+Inorganic materials
+
+
+
+
+0.000
+description
+4
+
+
+DUFKCOQISQKSAV-UHFFFAOYSA-N
+2-(2-hydroxypropoxy)propan-1-ol
+Chemical compound
+
+
+CC(O)COC(C)CO
+DUFKCOQISQKSAV-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+229920001661
+Chitosan
+Polymers
+
+
+
+
+0.000
+description
+3
+
+
+JHWNWJKBPDFINM-UHFFFAOYSA-N
+Laurolactam
+Chemical compound
+
+
+O=C1CCCCCCCCCCCN1
+JHWNWJKBPDFINM-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+229920000299
+Nylon 12
+Polymers
+
+
+
+
+0.000
+description
+3
+
+
+229940057874
+PHENYL TRIMETHICONE
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+240000004371
+Panax ginseng
+Species
+
+
+
+
+0.000
+description
+3
+
+
+229920001213
+Polysorbate 20
+Polymers
+
+
+
+
+0.000
+description
+3
+
+
+229940068977
+Polysorbate 20
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+229940068968
+Polysorbate 80
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+CIWBSHSKHKDKBQ-JLAZNSOCSA-N
+Vitamin C
+Chemical compound
+
+
+OC[C@H](O)[C@H]1OC(=O)C(O)=C1O
+CIWBSHSKHKDKBQ-JLAZNSOCSA-N
+0.000
+description
+3
+
+
+229960000306
+Zinc Gluconate
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+WHMDKBIGKVEYHS-IYEMJOQQSA-L
+Zinc gluconate
+Chemical compound
+
+
+[Zn+2].OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C([O-])=O.OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)C([O-])=O
+WHMDKBIGKVEYHS-IYEMJOQQSA-L
+0.000
+description
+3
+
+
+229940048053
+acrylate
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+150000001413
+amino acids
+Chemical class
+
+
+
+
+0.000
+description
+3
+
+
+229960005070
+ascorbic acid
+Drugs
+
+
+
+
+0.000
+description
+3
+
+
+235000010290
+biphenyl
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+239000004305
+biphenyl
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+DTPCFIHYWYONMD-UHFFFAOYSA-N
+decaethylene glycol
+Chemical compound
+
+
+OCCOCCOCCOCCOCCOCCOCCOCCOCCOCCO
+DTPCFIHYWYONMD-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+229910003460
+diamond
+Inorganic materials
+
+
+
+
+0.000
+description
+3
+
+
+239000010432
+diamond
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+235000008434
+ginseng
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+150000002431
+hydrogen
+Chemical class
+
+
+
+
+0.000
+description
+3
+
+
+239000001257
+hydrogen
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+229910052739
+hydrogen
+Inorganic materials
+
+
+
+
+0.000
+description
+3
+
+
+125000002801
+octanoyl group
+Chemical group
+
+
+C(CCCCCCC)(=O)*
+
+0.000
+description
+3
+
+
+239000000256
+polyoxyethylene sorbitan monolaurate
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+235000010486
+polyoxyethylene sorbitan monolaurate
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+239000000244
+polyoxyethylene sorbitan monooleate
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+235000010482
+polyoxyethylene sorbitan monooleate
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+229920000053
+polysorbate 80
+Polymers
+
+
+
+
+0.000
+description
+3
+
+
+239000006254
+rheological additive
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+BQCADISMDOOEFD-UHFFFAOYSA-N
+silver
+Chemical compound
+
+
+[Ag]
+BQCADISMDOOEFD-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+229910052709
+silver
+Inorganic materials
+
+
+
+
+0.000
+description
+3
+
+
+239000004332
+silver
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+HEMHJVSKTPXQMS-UHFFFAOYSA-M
+sodium hydroxide
+Chemical compound
+
+
+[OH-].[Na+]
+HEMHJVSKTPXQMS-UHFFFAOYSA-M
+0.000
+description
+3
+
+
+VRFCOIJWJMSSBP-UHFFFAOYSA-N
+trimethyl-[octyl-bis(trimethylsilyloxy)silyl]oxysilane
+Chemical compound
+
+
+CCCCCCCC[Si](O[Si](C)(C)C)(O[Si](C)(C)C)O[Si](C)(C)C
+VRFCOIJWJMSSBP-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+LINXHFKHZLOLEI-UHFFFAOYSA-N
+trimethyl-[phenyl-bis(trimethylsilyloxy)silyl]oxysilane
+Chemical compound
+
+
+C[Si](C)(C)O[Si](O[Si](C)(C)C)(O[Si](C)(C)C)C1=CC=CC=C1
+LINXHFKHZLOLEI-UHFFFAOYSA-N
+0.000
+description
+3
+
+
+239000011670
+zinc gluconate
+Substances
+
+
+
+
+0.000
+description
+3
+
+
+235000011478
+zinc gluconate
+Nutrition
+
+
+
+
+0.000
+description
+3
+
+
+CIWBSHSKHKDKBQ-DUZGATOHSA-N
+(+)-Ascorbic acid
+Natural products
+
+
+OC[C@@H](O)[C@H]1OC(=O)C(O)=C1O
+CIWBSHSKHKDKBQ-DUZGATOHSA-N
+0.000
+description
+2
+
+
+IEKHISJGRIEHRE-UHFFFAOYSA-N
+16-methylheptadecanoic acid;propan-2-ol;titanium
+Chemical compound
+
+
+[Ti].CC(C)O.CC(C)CCCCCCCCCCCCCCC(O)=O.CC(C)CCCCCCCCCCCCCCC(O)=O.CC(C)CCCCCCCCCCCCCCC(O)=O
+IEKHISJGRIEHRE-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+241000182185
+Alfalfa virus S
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241001288870
+Angelica polymorpha
+Species
+
+
+
+
+0.000
+description
+2
+
+
+VLPFTAMPNXLGLX-UHFFFAOYSA-N
+Axona
+Chemical compound
+
+
+CCCCCCCC(=O)OCC(OC(=O)CCCCCCC)COC(=O)CCCCCCC
+VLPFTAMPNXLGLX-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+229940095137
+CERAMIDE 6 II
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940080421
+COCO GLUCOSIDE
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+229940107161
+Cholesterol
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+241000209205
+Coix
+Species
+
+
+
+
+0.000
+description
+2
+
+
+241000195493
+Cryptophyta
+Species
+
+
+
+
+0.000
+description
+2
+
+
+ZAKOWWREFLAJOT-CEFNRUSXSA-N
+D-Î±-tocopherylacetate
+Chemical compound
+
+
+CC(=O)OC1=C(C)C(C)=C2O[C@@](CCC[C@H](C)CCC[C@H](C)CCCC(C)C)(C)CCC2=C1C
+ZAKOWWREFLAJOT-CEFNRUSXSA-N
+0.000
+description
+2
+
+
+206010020751
+Hypersensitivity
+Diseases
+
+
+
+
+0.000
+description
+2
+
+
+239000002211
+L-ascorbic acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000000069
+L-ascorbic acid
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229940100556
+Laureth-23
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+LXCFILQKKLGQFO-UHFFFAOYSA-N
+Methylparaben
+Chemical compound
+
+
+COC(=O)C1=CC=C(O)C=C1
+LXCFILQKKLGQFO-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+240000000249
+Morus alba
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000008708
+Morus alba
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+BBAFBDLICMHBNU-MFZOPHKMSA-N
+N-(2-hydroxyoctadecanoyl)-4-hydroxysphinganine
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCC(O)C(=O)N[C@@H](CO)[C@H](O)[C@H](O)CCCCCCCCCCCCCC
+BBAFBDLICMHBNU-MFZOPHKMSA-N
+0.000
+description
+2
+
+
+229940049964
+Oleate
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+235000002789
+Panax ginseng
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+241001619461
+Poria <basidiomycete fungus>
+Species
+
+
+
+
+0.000
+description
+2
+
+
+DBMJMQXJHONAFJ-UHFFFAOYSA-M
+Sodium laurylsulphate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCCOS([O-])(=O)=O
+DBMJMQXJHONAFJ-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+235000021355
+Stearic acid
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+244000269722
+Thea sinensis
+Species
+
+
+
+
+0.000
+description
+2
+
+
+235000006468
+Thea sinensis
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+229940088594
+Vitamin
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+NIXOWILDQLNWCW-UHFFFAOYSA-M
+acrylate
+Chemical compound
+
+
+[O-]C(=O)C=C
+NIXOWILDQLNWCW-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+QGZKDVFQNNGYKY-UHFFFAOYSA-O
+ammonium
+Chemical compound
+
+
+[NH4+]
+QGZKDVFQNNGYKY-UHFFFAOYSA-O
+0.000
+description
+2
+
+
+239000001913
+cellulose
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229920002678
+cellulose
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+229940044176
+ceramide 3
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+239000007795
+chemical reaction product
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+ASCHNMXUWBEZDM-UHFFFAOYSA-N
+chloridodioxygen(.)
+Chemical compound
+
+
+[O]OCl
+ASCHNMXUWBEZDM-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+235000012000
+cholesterol
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+230000003750
+conditioning
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+230000000694
+effects
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000009472
+formulation
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+229940107131
+ginseng root
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+glycol
+Chemical compound
+
+
+OCCO
+LYCAIKOWRPUZTN-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+AEMRFAOFKBGASW-UHFFFAOYSA-N
+glycolic acid
+Chemical compound
+
+
+OCC(O)=O
+AEMRFAOFKBGASW-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+241000411851
+herbal medicine
+Species
+
+
+
+
+0.000
+description
+2
+
+
+230000036571
+hydration
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+238000006703
+hydration reaction
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+229910052751
+metal
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+239000002184
+metal
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+CERQOIWHTDAKMF-UHFFFAOYSA-M
+methacrylate
+Chemical compound
+
+
+CC(=C)C([O-])=O
+CERQOIWHTDAKMF-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+238000000034
+method
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+229940073663
+methyl trimethicone
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+230000003278
+mimic
+Effects
+
+
+
+
+0.000
+description
+2
+
+
+ZQPPMHVWECSIRJ-KTKRTIGZSA-M
+oleate
+Chemical compound
+
+
+CCCCCCCC\C=C/CCCCCCCC([O-])=O
+ZQPPMHVWECSIRJ-KTKRTIGZSA-M
+0.000
+description
+2
+
+
+AERBNCYCJBRYDG-KSZLIROESA-N
+phytosphingosine
+Chemical compound
+
+
+CCCCCCCCCCCCCC[C@@H](O)[C@@H](O)[C@@H](N)CO
+AERBNCYCJBRYDG-KSZLIROESA-N
+0.000
+description
+2
+
+
+229940033329
+phytosphingosine
+Drugs
+
+
+
+
+0.000
+description
+2
+
+
+238000007665
+sagging
+Methods
+
+
+
+
+0.000
+description
+2
+
+
+239000011734
+sodium
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+229910052708
+sodium
+Inorganic materials
+
+
+
+
+0.000
+description
+2
+
+
+NTYZDAJPNNBYED-UHFFFAOYSA-M
+sodium;2-(2-dodecanoyloxypropanoyloxy)propanoate
+Chemical compound
+
+
+[Na+].CCCCCCCCCCCC(=O)OC(C)C(=O)OC(C)C([O-])=O
+NTYZDAJPNNBYED-UHFFFAOYSA-M
+0.000
+description
+2
+
+
+239000008117
+stearic acid
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+ATJFFYVFTNAWJD-UHFFFAOYSA-N
+tin hydride
+Chemical compound
+
+
+[Sn]
+ATJFFYVFTNAWJD-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+LADGBHLMCUINGV-UHFFFAOYSA-N
+tricaprin
+Chemical compound
+
+
+CCCCCCCCCC(=O)OCC(OC(=O)CCCCCCCCC)COC(=O)CCCCCCCCC
+LADGBHLMCUINGV-UHFFFAOYSA-N
+0.000
+description
+2
+
+
+239000011782
+vitamin
+Substances
+
+
+
+
+0.000
+description
+2
+
+
+235000013343
+vitamin
+Nutrition
+
+
+
+
+0.000
+description
+2
+
+
+150000003722
+vitamin derivatives
+Chemical class
+
+
+
+
+0.000
+description
+2
+
+
+229930003231
+vitamins
+Natural products
+
+
+
+
+0.000
+description
+2
+
+
+229920001285
+xanthan gum
+Polymers
+
+
+
+
+0.000
+description
+2
+
+
+JDRSMPFHFNXQRB-CMTNHCDUSA-N
+(2R,4S,6R)-2-decoxy-6-(hydroxymethyl)oxane-3,4,5-triol
+Chemical compound
+
+
+CCCCCCCCCCO[C@@H]1O[C@H](CO)C(O)[C@H](O)C1O
+JDRSMPFHFNXQRB-CMTNHCDUSA-N
+0.000
+description
+1
+
+
+IHRKJQSLKLYWBQ-QKDODKLFSA-N
+(2S)-2-[[(2S)-1-[(2S)-5-amino-2-[[2-(hexadecanoylamino)acetyl]amino]-5-oxopentanoyl]pyrrolidine-2-carbonyl]amino]-5-(diaminomethylideneamino)pentanoic acid
+Chemical compound
+
+
+CCCCCCCCCCCCCCCC(=O)NCC(=O)N[C@@H](CCC(N)=O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCN=C(N)N)C(O)=O
+IHRKJQSLKLYWBQ-QKDODKLFSA-N
+0.000
+description
+1
+
+
+QZLXCFQVOCEKSX-NOCHOARKSA-N
+(2S,4R)-1-hexadecanoyl-4-hexadecanoyloxypyrrolidine-2-carboxylic acid
+Chemical compound
+
+
+CCCCCCCCCCCCCCCC(=O)O[C@@H]1C[C@@H](C(O)=O)N(C(=O)CCCCCCCCCCCCCCC)C1
+QZLXCFQVOCEKSX-NOCHOARKSA-N
+0.000
+description
+1
+
+
+LNVRXFUZNCFBBU-IJRZPAASSA-L
+(Z)-2,3-bis(6-methylheptyl)but-2-enedioate;dibutyltin(2+)
+Chemical compound
+
+
+CCCC[Sn+2]CCCC.CC(C)CCCCC\C(C([O-])=O)=C(C([O-])=O)/CCCCCC(C)C
+LNVRXFUZNCFBBU-IJRZPAASSA-L
+0.000
+description
+1
+
+
+ZZMSHBOVYPIYOB-UHFFFAOYSA-N
+1,4-diphenylpyrazolidine-3,5-dione
+Chemical compound
+
+
+O=C1NN(C=2C=CC=CC=2)C(=O)C1C1=CC=CC=C1
+ZZMSHBOVYPIYOB-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+ALQSHHUCVQOPAS-UHFFFAOYSA-N
+1,5-Pentanediol
+Chemical compound
+
+
+OCCCCCO
+ALQSHHUCVQOPAS-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940043375
+1,5-pentanediol
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+LCJRHAPPMIUHLH-UHFFFAOYSA-N
+1-$l^{1}-azanylhexan-1-one
+Chemical compound
+
+
+[CH]CCCCC([N])=O
+LCJRHAPPMIUHLH-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+PUEPVAKVGRXGNH-UHFFFAOYSA-K
+1-butylsulfanylbutane;rhodium(3+);trichloride
+Chemical compound
+
+
+[Cl-].[Cl-].[Cl-].[Rh+3].CCCCSCCCC.CCCCSCCCC.CCCCSCCCC
+PUEPVAKVGRXGNH-UHFFFAOYSA-K
+0.000
+description
+1
+
+
+229940043268
+2,2,4,4,6,8,8-heptamethylnonane
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+URZHQOCYXDNFGN-UHFFFAOYSA-N
+2,4,6-trimethyl-2,4,6-tris(3,3,3-trifluoropropyl)-1,3,5,2,4,6-trioxatrisilinane
+Chemical compound
+
+
+FC(F)(F)CC[Si]1(C)O[Si](C)(CCC(F)(F)F)O[Si](C)(CCC(F)(F)F)O1
+URZHQOCYXDNFGN-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+AAOFEMJZTYQZRH-UHFFFAOYSA-N
+2-(1-butoxypropan-2-yloxy)ethanol
+Chemical compound
+
+
+CCCCOCC(C)OCCO
+AAOFEMJZTYQZRH-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+SVTBMSDMJJWYQN-UHFFFAOYSA-N
+2-Methyl-2,4-pentanediol
+Chemical compound
+
+
+CC(O)CC(C)(C)O
+SVTBMSDMJJWYQN-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+DWHIUNMOTRUVPG-UHFFFAOYSA-N
+2-[2-[2-[2-[2-[2-(2-dodecoxyethoxy)ethoxy]ethoxy]ethoxy]ethoxy]ethoxy]ethanol
+Chemical compound
+
+
+CCCCCCCCCCCCOCCOCCOCCOCCOCCOCCOCCO
+DWHIUNMOTRUVPG-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+JYCQQPHGFMYQCF-UHFFFAOYSA-N
+2-[4-(2,4,4-trimethylpentan-2-yl)phenoxy]ethanol
+Chemical compound
+
+
+CC(C)(C)CC(C)(C)C1=CC=C(OCCO)C=C1
+JYCQQPHGFMYQCF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+BANXPJUEBPWEOT-UHFFFAOYSA-N
+2-methylpentadecane
+Chemical compound
+
+
+CCCCCCCCCCCCCC(C)C
+BANXPJUEBPWEOT-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+RUMACXVDVNRZJZ-UHFFFAOYSA-N
+2-methylpropyl 2-methylprop-2-enoate
+Chemical compound
+
+
+CC(C)COC(=O)C(C)=C
+RUMACXVDVNRZJZ-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+KOZZOZYINRDZOU-UHFFFAOYSA-N
+2-octadecoxyethyl 2-methylprop-2-enoate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCCOCCOC(=O)C(C)=C
+KOZZOZYINRDZOU-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+KUDUQBURMYMBIJ-UHFFFAOYSA-N
+2-prop-2-enoyloxyethyl prop-2-enoate
+Chemical compound
+
+
+C=CC(=O)OCCOC(=O)C=C
+KUDUQBURMYMBIJ-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+OJDDJQYSKDIXOE-UHFFFAOYSA-N
+2-tridecoxyethanol
+Chemical compound
+
+
+CCCCCCCCCCCCCOCCO
+OJDDJQYSKDIXOE-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+QHOREGFPJWHMCU-UHFFFAOYSA-N
+3,3-dimethyl-2,4-bis(oxidanyl)-N-(3-oxidanylpropyl)butanamide
+Chemical compound
+
+
+OCC(C)(C)C(O)C(=O)NCCCO.OCC(C)(C)C(O)C(=O)NCCCO
+QHOREGFPJWHMCU-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+ANZUDYZHSVGBRF-UHFFFAOYSA-N
+3-ethylnonane-1,2,3-triol
+Chemical compound
+
+
+CCCCCCC(O)(CC)C(O)CO
+ANZUDYZHSVGBRF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+CWSZBVAUYPTXTG-UHFFFAOYSA-N
+5-[6-[[3,4-dihydroxy-6-(hydroxymethyl)-5-methoxyoxan-2-yl]oxymethyl]-3,4-dihydroxy-5-[4-hydroxy-3-(2-hydroxyethoxy)-6-(hydroxymethyl)-5-methoxyoxan-2-yl]oxyoxan-2-yl]oxy-6-(hydroxymethyl)-2-methyloxane-3,4-diol
+Chemical compound
+
+
+O1C(CO)C(OC)C(O)C(O)C1OCC1C(OC2C(C(O)C(OC)C(CO)O2)OCCO)C(O)C(O)C(OC2C(OC(C)C(O)C2O)CO)O1
+CWSZBVAUYPTXTG-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+YPIFGDQKSSMYHQ-UHFFFAOYSA-M
+7,7-dimethyloctanoate
+Chemical compound
+
+
+CC(C)(C)CCCCCC([O-])=O
+YPIFGDQKSSMYHQ-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+239000005995
+Aluminium silicate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+PZZYQPZGQPZBDN-UHFFFAOYSA-N
+Aluminium silicate
+Chemical compound
+
+
+O=[Al]O[Si](=O)O[Al]=O
+PZZYQPZGQPZBDN-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+241001061264
+Astragalus
+Species
+
+
+
+
+0.000
+description
+1
+
+
+229940094978
+BIS-PEG-18 METHYL ETHER DIMETHYL SILANE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+206010004950
+Birth mark
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+229940089093
+Botox
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940078580
+C30-45 ALKYL METHICONE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+OJTDGPLHRSZIAV-UHFFFAOYSA-N
+CC(O)CO.CC(O)CO
+Chemical compound
+
+
+CC(O)CO.CC(O)CO
+OJTDGPLHRSZIAV-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+UWQPBOYPTIIARE-UHFFFAOYSA-N
+CC[SiH2]O[SiH2]O[SiH3]
+Chemical compound
+
+
+CC[SiH2]O[SiH2]O[SiH3]
+UWQPBOYPTIIARE-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940048864
+CERAMIDE 1
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940085262
+Cetyl dimethicone
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000004970
+Chain extender
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+241001439061
+Cocksfoot streak virus
+Species
+
+
+
+
+0.000
+description
+1
+
+
+102000008186
+Collagen
+Human genes
+
+
+
+
+0.000
+description
+1
+
+
+108010035532
+Collagen
+Proteins
+
+
+
+
+0.000
+description
+1
+
+
+229920000858
+Cyclodextrin
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+229940102552
+DISTEARDIMONIUM HECTORITE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+SNPLKNRPJHDVJA-UHFFFAOYSA-N
+DL-Panthenol
+Chemical compound
+
+
+OCC(C)(C)C(O)C(=O)NCCCO
+SNPLKNRPJHDVJA-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+235000001809
+DL-alpha-tocopherylacetate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000011626
+DL-alpha-tocopherylacetate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+ZAKOWWREFLAJOT-UHFFFAOYSA-N
+DL-Î±-tocopherylacetate
+Chemical compound
+
+
+CC(=O)OC1=C(C)C(C)=C2OC(CCCC(C)CCCC(C)CCCC(C)C)(C)CCC2=C1C
+ZAKOWWREFLAJOT-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+210000000887
+Face
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+210000003054
+Facial Bones
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+210000001097
+Facial Muscles
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+102220376573
+GLYAT V15P
+Human genes
+
+
+
+
+0.000
+description
+1
+
+
+102200082872
+HBB N20D
+Human genes
+
+
+
+
+0.000
+description
+1
+
+
+CBCIHIVRDWLAME-UHFFFAOYSA-N
+Hexanitrodiphenylamine
+Chemical class
+
+
+[O-][N+](=O)C1=CC([N+](=O)[O-])=CC([N+]([O-])=O)=C1NC1=C([N+]([O-])=O)C=C([N+]([O-])=O)C=C1[N+]([O-])=O
+CBCIHIVRDWLAME-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000004354
+Hydroxyethyl cellulose
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229920000663
+Hydroxyethyl cellulose
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+240000007049
+Juglans regia
+Species
+
+
+
+
+0.000
+description
+1
+
+
+235000009496
+Juglans regia
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940031674
+LAURETH-7
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+241001598113
+Laminaria digitata
+Species
+
+
+
+
+0.000
+description
+1
+
+
+229940078752
+MAGNESIUM ASCORBYL PHOSPHATE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+101710026415
+MAT1A
+Proteins
+
+
+
+
+0.000
+description
+1
+
+
+229920002521
+Macromolecule
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+210000004080
+Milk
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+102000014171
+Milk Proteins
+Human genes
+
+
+
+
+0.000
+description
+1
+
+
+108010011756
+Milk Proteins
+Proteins
+
+
+
+
+0.000
+description
+1
+
+
+206010028315
+Muscle injury
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+229940073555
+NONOXYNOL-10
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+JFNLZVQOOSMTJK-UHFFFAOYSA-N
+Norbornene
+Chemical compound
+
+
+C1C2CCC1C=C2
+JFNLZVQOOSMTJK-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229920002292
+Nylon 6
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+229940094946
+PALMITOYL TETRAPEPTIDE-7
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940089951
+PERFLUOROOCTYL TRIETHOXYSILANE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940047663
+PPG-26-BUTETH-26
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940093441
+Palmitoyl Oligopeptide
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+235000003140
+Panax quinquefolius
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940068065
+Phytosterols
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+QELSKZZBTMNZEB-UHFFFAOYSA-N
+Propylparaben
+Chemical compound
+
+
+CCCOC(=O)C1=CC=C(O)C=C1
+QELSKZZBTMNZEB-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000005092
+Ruthenium
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229940047670
+SODIUM ACRYLATE
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+206010039580
+Scar
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+210000002966
+Serum
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+FZHAPNGMFPVSLP-UHFFFAOYSA-N
+Silanamine
+Chemical compound
+
+
+[SiH3]N
+FZHAPNGMFPVSLP-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+206010040925
+Skin striae
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+NNMHYFLPFNGQFZ-UHFFFAOYSA-M
+Sodium polyacrylate
+Chemical compound
+
+
+[Na+].[O-]C(=O)C=C
+NNMHYFLPFNGQFZ-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+210000001138
+Tears
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+GSEJCLTVZPLZKY-UHFFFAOYSA-N
+Tris
+Chemical compound
+
+
+OCCN(CCO)CCO
+GSEJCLTVZPLZKY-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000007983
+Tris buffer
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+GJCOSYZMQJWQCA-UHFFFAOYSA-N
+Xanthene
+Chemical compound
+
+
+C1=CC=C2CC3=CC=CC=C3OC2=C1
+GJCOSYZMQJWQCA-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+MIUIRGGKIICMBP-NFOZDHADSA-N
+[27-oxo-27-[[(2S,3S,4R)-1,3,4-trihydroxyoctadecan-2-yl]amino]heptacosyl] octadecanoate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)OCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)N[C@@H](CO)[C@H](O)[C@H](O)CCCCCCCCCCCCCC
+MIUIRGGKIICMBP-NFOZDHADSA-N
+0.000
+description
+1
+
+
+FGPCETMNRYMFJR-UHFFFAOYSA-L
+[7,7-dimethyloctanoyloxy(dimethyl)stannyl] 7,7-dimethyloctanoate
+Chemical compound
+
+
+CC(C)(C)CCCCCC(=O)O[Sn](C)(C)OC(=O)CCCCCC(C)(C)C
+FGPCETMNRYMFJR-UHFFFAOYSA-L
+0.000
+description
+1
+
+
+UKLDJPRMSDWDSL-UHFFFAOYSA-L
+[dibutyl(dodecanoyloxy)stannyl] dodecanoate
+Chemical compound
+
+
+CCCCCCCCCCCC(=O)O[Sn](CCCC)(CCCC)OC(=O)CCCCCCCCCCC
+UKLDJPRMSDWDSL-UHFFFAOYSA-L
+0.000
+description
+1
+
+
+239000002253
+acid
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+HRPVXLWXLXDGHG-UHFFFAOYSA-N
+acrylamide
+Chemical compound
+
+
+NC(=O)C=C
+HRPVXLWXLXDGHG-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+239000004480
+active ingredient
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000000654
+additive
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+230000000996
+additive
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000004964
+aerogel
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+150000001336
+alkenes
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+125000003545
+alkoxy group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+125000005250
+alkyl acrylate group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+201000005794
+allergic hypersensitivity disease
+Diseases
+
+
+
+
+0.000
+description
+1
+
+
+235000012211
+aluminium silicate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+235000010323
+ascorbic acid
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000011668
+ascorbic acid
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000006533
+astragalus
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+230000003796
+beauty
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+125000006267
+biphenyl group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+NZQQFMVULBBDSP-FPLPWBNLSA-N
+bis(4-methylpentan-2-yl) (Z)-but-2-enedioate
+Chemical compound
+
+
+CC(C)CC(C)OC(=O)\C=C/C(=O)OC(C)CC(C)C
+NZQQFMVULBBDSP-FPLPWBNLSA-N
+0.000
+description
+1
+
+
+DSVRVHYFPPQFTI-UHFFFAOYSA-N
+bis(ethenyl)-methyl-trimethylsilyloxysilane;platinum
+Chemical class
+
+
+[Pt].C[Si](C)(C)O[Si](C)(C=C)C=C
+DSVRVHYFPPQFTI-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+WUAIVKFIBCXSJI-UHFFFAOYSA-N
+butane-1,3-diol;butane-1,4-diol
+Chemical compound
+
+
+CC(O)CCO.OCCCCO
+WUAIVKFIBCXSJI-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+HMNBEAWAEJQTRZ-UHFFFAOYSA-M
+butoxy-dibutyl-chlorostannane
+Chemical compound
+
+
+CCCCO[Sn](Cl)(CCCC)CCCC
+HMNBEAWAEJQTRZ-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+125000004432
+carbon atoms
+Chemical group
+
+
+C*
+
+0.000
+description
+1
+
+
+235000012730
+carminic acid
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000004359
+castor oil
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000019438
+castor oil
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940081733
+cetearyl alcohol
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229960005188
+collagen
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229920001436
+collagen
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+150000001875
+compounds
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+229940086555
+cyclomethicone
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+229940073499
+decyl glucoside
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+NBIIXXVUZAFLBC-UHFFFAOYSA-M
+dihydrogenphosphate
+Chemical compound
+
+
+OP(O)([O-])=O
+NBIIXXVUZAFLBC-UHFFFAOYSA-M
+0.000
+description
+1
+
+
+239000006185
+dispersion
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229940117373
+dl-alpha tocopheryl acetate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+SRVSYCCHRDXMMS-UHFFFAOYSA-N
+dodecan-5-yl 2-hydroxybenzoate
+Chemical compound
+
+
+CCCCCCCC(CCCC)OC(=O)C1=CC=CC=C1O
+SRVSYCCHRDXMMS-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+238000001035
+drying
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+NUCWDCRUEIUKPN-UHFFFAOYSA-J
+ethane-1,2-diamine;palladium(2+);phosphonato phosphate
+Chemical compound
+
+
+[Pd+2].[Pd+2].NCCN.NCCN.[O-]P([O-])(=O)OP([O-])([O-])=O
+NUCWDCRUEIUKPN-UHFFFAOYSA-J
+0.000
+description
+1
+
+
+TVFJAZCVMOXQRK-UHFFFAOYSA-N
+ethenyl 7,7-dimethyloctanoate
+Chemical compound
+
+
+CC(C)(C)CCCCCC(=O)OC=C
+TVFJAZCVMOXQRK-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940100524
+ethylhexylglycerin
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+230000001815
+facial
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+239000000945
+filler
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000010419
+fine particle
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000005035
+ginseng
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+150000008131
+glucosides
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+238000009499
+grossing
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+UBHWBODXJBSFLH-UHFFFAOYSA-N
+hexadecan-1-ol;octadecan-1-ol
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCO.CCCCCCCCCCCCCCCCCCO
+UBHWBODXJBSFLH-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+XJNUECKWDBNFJV-UHFFFAOYSA-N
+hexadecyl 2-ethylhexanoate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCOC(=O)C(CC)CCCC
+XJNUECKWDBNFJV-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940051250
+hexylene glycol
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+125000001145
+hydrido group
+Chemical group
+
+
+*[H]
+
+0.000
+description
+1
+
+
+238000006460
+hydrolysis reaction
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+125000002887
+hydroxy group
+Chemical group
+
+
+[H]O*
+
+0.000
+description
+1
+
+
+235000019447
+hydroxyethyl cellulose
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+ATQYNBNTEXNNIK-UHFFFAOYSA-N
+imidazol-2-ylidene
+Chemical group
+
+
+[C]1NC=CN1
+ATQYNBNTEXNNIK-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+150000002605
+large molecules
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+229940091554
+lauryl peg-9 polydimethylsiloxyethyl dimethicone
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000010410
+layer
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+239000007788
+liquid
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+125000000956
+methoxy group
+Chemical group
+
+
+[H]C([H])([H])O*
+
+0.000
+description
+1
+
+
+235000010270
+methyl p-hydroxybenzoate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000004292
+methyl p-hydroxybenzoate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229960002216
+methylparaben
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000004530
+micro-emulsion
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000013336
+milk
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000008267
+milk
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000021239
+milk protein
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000002480
+mineral oil
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000010446
+mineral oil
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+230000004048
+modification
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+238000006011
+modification reaction
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+229940094512
+nonoxynol-12
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+IFYYERYAOQBKQI-UHFFFAOYSA-N
+octanal;platinum
+Chemical class
+
+
+[Pt].CCCCCCCC=O
+IFYYERYAOQBKQI-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+125000005474
+octanoate group
+Chemical group
+
+
+
+
+0.000
+description
+1
+
+
+229920004907
+octoxynol-12
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+229920001495
+poly(sodium acrylate) polymer
+Polymers
+
+
+
+
+0.000
+description
+1
+
+
+ZTHYODDOHIVTJV-UHFFFAOYSA-N
+propyl 3,4,5-trihydroxybenzoate
+Chemical compound
+
+
+CCCOC(=O)C1=CC(O)=C(O)C(O)=C1
+ZTHYODDOHIVTJV-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+235000010232
+propyl p-hydroxybenzoate
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000004405
+propyl p-hydroxybenzoate
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+229960003415
+propylparaben
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000002994
+raw material
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+238000000518
+rheometry
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+IWZRPOHFZKNBPX-UHFFFAOYSA-N
+rhodium;tetrafluoroborate
+Chemical compound
+
+
+[Rh].F[B-](F)(F)F
+IWZRPOHFZKNBPX-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229910052707
+ruthenium
+Inorganic materials
+
+
+
+
+0.000
+description
+1
+
+
+KJTLSVCANCCWHF-UHFFFAOYSA-N
+ruthenium
+Chemical compound
+
+
+[Ru]
+KJTLSVCANCCWHF-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+231100000197
+serious side effect
+Toxicity
+
+
+
+
+0.000
+description
+1
+
+
+150000003385
+sodium
+Chemical class
+
+
+
+
+0.000
+description
+1
+
+
+KEAYESYHFKHZAL-UHFFFAOYSA-N
+sodium
+Chemical compound
+
+
+[Na]
+KEAYESYHFKHZAL-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+229940073743
+steareth-20 methacrylate
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+239000000126
+substance
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+238000001356
+surgical procedure
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+239000000725
+suspension
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+210000000456
+talus bone
+Anatomy
+
+
+
+
+0.000
+description
+1
+
+
+PZJJKWKADRNWSW-UHFFFAOYSA-N
+trimethoxysilicon
+Chemical group
+
+
+CO[Si](OC)OC
+PZJJKWKADRNWSW-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+DDLPZVTUKLKVQB-UHFFFAOYSA-N
+trimethylsilyl octadecanoate
+Chemical compound
+
+
+CCCCCCCCCCCCCCCCCC(=O)O[Si](C)(C)C
+DDLPZVTUKLKVQB-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+SJHCUXCOGGKFAI-UHFFFAOYSA-N
+tripropan-2-yl phosphite
+Chemical compound
+
+
+CC(C)OP(OC(C)C)OC(C)C
+SJHCUXCOGGKFAI-UHFFFAOYSA-N
+0.000
+description
+1
+
+
+238000002525
+ultrasonication
+Methods
+
+
+
+
+0.000
+description
+1
+
+
+230000035899
+viability
+Effects
+
+
+
+
+0.000
+description
+1
+
+
+235000020234
+walnut
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+239000000230
+xanthan gum
+Substances
+
+
+
+
+0.000
+description
+1
+
+
+235000010493
+xanthan gum
+Nutrition
+
+
+
+
+0.000
+description
+1
+
+
+229940082509
+xanthan gum
+Drugs
+
+
+
+
+0.000
+description
+1
+
+
+
+Classifications
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/02—Cosmetics or similar toiletry preparations characterised by special physical form
+
+
+A61K8/0204—Specific forms not provided for by any of groups A61K8/0208Â -Â A61K8/14
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/19—Cosmetics or similar toiletry preparations characterised by the composition containing inorganic ingredients
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/02—Cosmetics or similar toiletry preparations characterised by special physical form
+
+
+A61K8/0241—Containing particulates characterized by their shape and/or structure
+
+
+A61K8/0254—Platelets; Flakes
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/02—Cosmetics or similar toiletry preparations characterised by special physical form
+
+
+A61K8/0241—Containing particulates characterized by their shape and/or structure
+
+
+A61K8/0254—Platelets; Flakes
+
+
+A61K8/0258—Layered structure
+
+
+A61K8/0266—Characterized by the sequence of layers
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/31—Hydrocarbons
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/30—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds
+
+
+A61K8/40—Cosmetics or similar toiletry preparations characterised by the composition containing organic compounds containing nitrogen
+
+
+A61K8/41—Amines
+
+
+A61K8/413—Indoanilines; Indophenol; Indoamines
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/72—Cosmetics or similar toiletry preparations characterised by the composition containing organic macromolecular compounds
+
+
+A61K8/84—Cosmetics or similar toiletry preparations characterised by the composition containing organic macromolecular compounds obtained by reactions otherwise than those involving only carbon-carbon unsaturated bonds
+
+
+A61K8/89—Polysiloxanes
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K8/00—Cosmetics or similar toiletry preparations
+
+
+A61K8/18—Cosmetics or similar toiletry preparations characterised by the composition
+
+
+A61K8/72—Cosmetics or similar toiletry preparations characterised by the composition containing organic macromolecular compounds
+
+
+A61K8/84—Cosmetics or similar toiletry preparations characterised by the composition containing organic macromolecular compounds obtained by reactions otherwise than those involving only carbon-carbon unsaturated bonds
+
+
+A61K8/89—Polysiloxanes
+
+
+A61K8/895—Polysiloxanes containing silicon bound to unsaturated aliphatic groups, e.g. vinyl dimethicone
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61Q—SPECIFIC USE OF COSMETICS OR SIMILAR TOILETRY PREPARATIONS
+
+
+A61Q19/00—Preparations for care of the skin
+
+
+A61Q19/08—Anti-ageing preparations
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/20—Chemical, physico-chemical or functional or structural properties of the composition as a whole
+
+
+A61K2800/26—Optical properties
+
+
+A61K2800/262—Transparent; Translucent
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/20—Chemical, physico-chemical or functional or structural properties of the composition as a whole
+
+
+A61K2800/30—Characterized by the absence of a particular group of ingredients
+
+
+A61K2800/31—Anhydrous
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/40—Chemical, physico-chemical or functional or structural properties of particular ingredients
+
+
+A61K2800/42—Colour properties
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/80—Process related aspects concerning the preparation of the cosmetic composition or the storage or application thereof
+
+
+A61K2800/81—Preparation or application process involves irradiation
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/80—Process related aspects concerning the preparation of the cosmetic composition or the storage or application thereof
+
+
+A61K2800/82—Preparation or application process involves sonication or ultrasonication
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/80—Process related aspects concerning the preparation of the cosmetic composition or the storage or application thereof
+
+
+A61K2800/88—Two- or multipart kits
+
+
+A61K2800/884—Sequential application
+
+
+
+
+
+
+
+
+A—HUMAN NECESSITIES
+
+
+A61—MEDICAL OR VETERINARY SCIENCE; HYGIENE
+
+
+A61K—PREPARATIONS FOR MEDICAL, DENTAL OR TOILETRY PURPOSES
+
+
+A61K2800/00—Properties of cosmetic compositions or active ingredients thereof or formulation aids used therein and process related aspects
+
+
+A61K2800/80—Process related aspects concerning the preparation of the cosmetic composition or the storage or application thereof
+
+
+A61K2800/95—Involves in-situ formation or cross-linking of polymers
+
+
+
+
+
+
+
+
+Abstract
+
+This patent document discloses a kit containing a base component and an activating component for cosmetics, therapeutic and aesthetic application purposes. The kit, comprised innovative technology, ingredients, and formulations that overcome the drawbacks of unviable, unpractical, unwearable and unmarketable products, enables a film-formed "young-looking skin" to cling onto the real skin for much longer period of time, and is truly wearable and viable to the consumers for achieving the benefits of dramatically reducing or diminishing eye bags, dark circles, enlarged pores, wrinkles, age spots, and so on with desired and rapid results. The film is comfortable, invisible, safe, non- invasive and easy to wear.
+
+
+
+
+Description
+
+ PRISTINE GRAPHENE AND COMPOSITIONS WITH NATURAL PRESSURE SENSITIVE ADHESIVE (PSA) METHOD FOR OVER SKIN APPLICATIONS 
+FIELD OF THE INVENTION 
+ This current invention discloses a novel kit and film for cosmetics, make-up, therapeutic and aesthetic application purpose. 
+BACKGROUND 
+ Under eye bags, puffiness, dark circles, wrinkles, enlarged pores and age spots are the problems that earned while we are in the aging process. It happens to almost everyone on this planet, some more and some less, due to hereditary, facial bone structure or living habits. Those people who have heavily fat-deposited sagging bags feel and look tired, and some have distorted faces due to the eye bags hanging down. Because of these symptoms, many people lost confidence and desire to appear in the public events. They are not happy with the way how they look and feel! 
+ Some people rely on skin care and cosmetics products such as BB/CC cream, concealer or foundation to hide their appearance, but the results are minimal and insufficient. Some cosmetic products may make the appearance even worse, due to powders/creams siting in between the cracks and creases of the skin, making the wearer look older and skin blemishes and eye bags stand out more prominently. 
+ Some people turn to surgical measures, such as facial surgeries to tighten the sagging skin or remove eye bags, laser treatment for age spots, and products such as BotoxÂ® as the filler for the wrinkles, etc. These are dramatic measures, and they are short-term fixes, sometimes with serious side effects. These procedures are more costly with long-term health concerns, e.g. permanent facial muscle damage, and surgeries cannot be undone without more surgery. Therefore, so many people just gave up! 
+ There are some companies/organizations that attempted to use large molecule ingredients or silicone elastomer compounds to make skin film-forming products in an effort to temporarily correct the appearance of signs of aging. But due to the siliconesâ mechanical limitations and the nature forces of human skin movement, the products were not viable to the general consumers to wear, especially in water based formulations. Prior products claiming to provide a film- forming layer of skin have been unsuccessful, some being pulled off the market entirely. One shortcoming with these alternative products is that the edges of the film start to peel off within a few hours. Additionally, there are many restrictions for such products, e.g. no water/moisture contact, no 
+
+ tearing, etc. A need exists for a viable, wearable technology, ingredients and formulations that overcome the above drawbacks. 
+SUMMARY 
+ With this invention, the anhydrous proprietary compositions, used graphene for strength and a natural pressure- sensitive adhesive (PSA), which enhanced and maximized the mechanical functionality and performance, resulting in a superior, wearable, and viable natural-looking cosmeticâyoung-looking skinâ film that is easy to wear without the difficulties, drawbacks, and restrictions of prior film-forming compositions. These novel compositions and natural PSA provide a stronger, more durable, more flexible, more breathable, and adhesively bonded final beauty product. This composition enables the film-formedâyoung-looking skinâ to cling onto the real skin and is truly wearable and viable to the consumers for achieving the benefits of dramatically reducing or diminishing eye bags, dark circles, enlarged pores, wrinkles, age spots, and so on with designed results. Now with this invention, these products can be easily worn for 24 or more hours and can perform and maintain daily normal living activities during the wearing period. They are comfortable, invisible, safe, and non-invasive. 
+ An aspect of the invention provides a kit for improving skin aesthetic, comprising (a) a base component comprising graphene and a cross-linkable elastomer; and (b) an activating component comprising an agent promoting the cross-linking of the elastomer. 
+ The graphene ranges from about 0.01 % to about 30% by weight in the base component. In some embodiments, the graphene ranges from about 0.04% to about 10% by weight in the base component. The graphene is preferably processed with microwave, vacuum, ultrasonication, or centrifuge before use. In some embodiments, the base component is substantially free from water. In some embodiments, the base component and / or the activating component are substantially free from water. In some embodiments, the base component is substantially free from water and contains one or more agents of hydride siloxane and vinyl siloxane. In some embodiments, the base also includes one or more of trisiloxane, disiloxane, dimethicone, and dimethiconol. In some embodiments, the base component and / or the activating component does not include a hydride functionalized polysilo xane. 
+ One or both of the base component and the activating component may include one or more agents selected from the group consisting of reinforcing agent, feel modifiers, spreadability enhancers, adhesion modifiers, diluents, tack modifiers, optics modifiers, particles, volatile siloxanes, emulsifiers, emollients, surfactants, thickeners, solvents, film 
+
+ formers, humectants, preservatives and pigments. A cosmetic agent and / or a therapeutic agent can also be included in the base or the activating component. 
+ Another aspect of the invention provides a method of improving skin aesthetics, including applying the base component followed by the activating component. A related aspect provides a film formed via this method. 
+BRIEF DESCRIPTIONS OF THE DRAWINGS 
+ Figure 1 illustrates the pristine graphene physical chemical structure (an atomic-scale hexagonal lattice made of carbon atoms). 
+ Figure 2 illustrates the comparison of a sample product (formula # F100-245-37-7) of the present invention with a conventional product in terms of film edge peeling and breaking points. 
+ Figure 3 illustrates the comparison of a sample product (formula # F100-245-37-7) of the present invention with a conventional product in terms of film tear and tensile strength at breaking points. 
+ Figure 4 illustrates the response from 30 test participants on eye bag reduction (formula
+# F100-245-37-7). 
+ Figure 5 illustrates the response from 30 test participants on eye dark circle reduction (formula # F100-245-37-7). 
+ Figure 6 illustrates the response from 30 test participants on reduction (formula # F100- 245-37-7). 
+ Figure 7 illustrates the response from 30 test participants on product mechanic issue (formula # F100-245-37-7). 
+ Figure 8 illustrates the response from 30 test participants on water bearing issue (formula # F100-245-37-7). 
+ Figure 9 illustrates the response from 30 test participants on makeup application (formula # F100-245-37-7). 
+ Figure 10 illustrates the response from 30 test participants on reduction of wrinkles & fine lines around eyes (formula # F100-245-37-7). 
+ Figure 11 illustrates the response from 30 test participants on hydration issue (formula
+# F100-245-37-7). 
+
+ DETAILED DESCRIPTION 
+ This current invention discloses the compositions that can form an instant film after the application of 2-step cream and serum onto the skin. This film can mimicâyoung-looking skinâ for cosmetics, make-up, or even for therapeutic and aesthetic application purpose. The main usage is for cosmetic applications for those who have aging-related appearance, e.g. skin blemishes, eye bags, wrinkles, enlarged pores, and age spot/brown spots, acne scars, birth and stretch marks. This current invention further discloses the medical grade of graphene and the natural Pressure Sensitive Adhesive (PSA) method to ensure thisâyoung-looking skinâ film has the strong properties to wear and cling onto the real skin for a much longer period of time than previous products, e.g. for 24 hours or longer. In the meantime, the wearer can perform and maintain normal daily activities without the same restrictions as prior products, without the risk of the physical film edges peeling or breaking, which will fail the whole functional performance. Therefore, the disclosed compositions of the invention have shown dramatic improvement of the viability and wearability of this film that mimicsâyoung-looking skinâ to truly benefit our aging and skin imperfection needs. It is a perfect problem-solving product, non-invasive, and safe to use. 
+ While the following text may reference or exemplify specific embodiments of a modified polymer or a method of modifying the polymer, it is not intended to limit the scope of the invention to such particular reference or examples. Various modifications may be made by those skilled in the art, in view of practical and economic considerations, such as the amount of the hydrophilic group in the polymeric units and its ratio relative to the overall units of the polymer. 
+ The articles "a" and "an" as used herein refers to "one or more" or "at least one," unless otherwise indicated. That is, reference to any element or component of the present invention by the indefinite article "a" or "an" does not exclude the possibility that more than one element or component is present. 
+ The term "about" as used herein refers to the referenced numeric indication plus or minus 10% of that referenced numeric indication. 
+ An aspect of the document provides a kit for improving skin aesthetics. The kit generally includes (a) a base component, which contains graphene and a cross-linkable elastomer; and (b) an activating component containing an agent promoting the cross-linking of the elastomer. 
+ The graphene is preferably in a form suitable for being mixed in a cosmetic formulation. In some embodiments, the graphene is processed via microwaving, vacuuming, ultrasonicating, 
+
+ or centrifuging before being introduced to component (a). The amount of the graphene may range from about 0.01 % to about 30% by weight in the base component. In some embodiments, the graphene ranges from about 0.02% to about 25%, from about 0.02% to about 20%, from about 0.04% to about 20%, from about 0.02% to about 15%, from about 0.04% to about 15%, or from about 0.04% to about 10% by weight in the base component. In some embodiments, the amount of the graphene in the base component is about 100 ppm, about 200 ppm, about 500 ppm, about 800 ppm, about 1000 ppm or about 1500 ppm. In some embodiments, the graphene is a single layer. In some embodiments, the graphene is of multiple layers. 
+ In some embodiments, component (a) is substantially free from water. In some embodiments, the water content in component (a) is less than about 5%, less than about 2%, less than about 1%, less than about 0.5%, less than about 0.2%, less than about 0.1% by weight. 
+ The cross-linkable elastomer in the base component generally ranges from about 0.1 % to about 25% by weight. In some embodiments, the cross-linkable elastomer in the base component ranges from about 0.1 % to about 20%, from about 0.5 % to about 20%, from about 0.5 % to about 15%, or from about 1 % to about 10% by weight. 
+ In some embodiments, the cross-linkable elastomer is siloxane having a functional group for cross-linking. Non-limiting examples of such siloxane includes vinyl vinyl terminated polydimethylsiloxane; vinyl terminated diphenyl siloxane-dimethylsiloxane copolymers; vinyl terminated polyphenylmethylsiloxane, vinylphenylmethyl terminated vinyl- phenylsiloxane-phenylmethylsiloxane copolymer; vinyl terminated trifluoropropylmethyl- siloxane-dimethylsiloxane copolymer; vinyl terminated diethyl siloxane-dimethylsiloxane copolymer; vinylmethylsiloxane-dimethylsiloxane copolymers, vinyl terminated; monovinyl terminated polydimethylsiloxanes; and combinations thereof. 
+ Additional exemplary elastomers include Cyclomethicone and Dimethicone Crosspolymer; Dimethicone and Dimethicone Crosspolymer; Cyclopentasiloxane and PEG- 12 Dimethicone Crosspolymer; Cyclopentasiloxane and Dimethicone; Crosspolymer (and) Dimethicone/ Vinyl Dimethicone; Crosspolymer (and) Dimethiconol. Any of these elastomers can be combined with one or more of the others. 
+ The base component may further include a polysiloxane terminated with a hydroxyl group. In some embodiments, the hydroxyl-terminated polysiloxane is a poly-dimethyl siloxane. 
+ The base component and / or the activating component can further include a pressure sensitive adhesive. The base component can be of translucent color or multiple tinted color. 
+
+ The base cream has a normal cosmetics cream viscosity. The rheology of the cream is easy to spread, and apply onto the skin. In some embodiments, the viscosity for the base component is from about 35,000 cps to about 280,000 cps at room temperature. In some embodiments, the viscosity for the activating component is from about 50 to about 50,000 cps at room temperature. In some embodiments, the room temperature is about 70 Â°F. 
+ In some embodiments, the activating component the agent for promoting cross-linking is a metal catalyst. Non-limiting examples of the metal catalyst includes platinum carbonyl cyclovinylmethylsiloxane complexes, platinum divinyltetramethyldisiloxane complexes, platinum cyclovinylmethylsiloxane complexes, platinum octanaldehyde/octanol complexes, Tris (dibutylsulfide) Rhodium trichloride, tin II octoate, Tin II neodecanoate, dibutyltin diisooctylmaleate, Di-n-butylbis(2,4 pentanedionate)tin, di-n-butylbutoxychlorotin, dibutyltin dilaurate, dimethyltin dineodecanoate, dimethylhydroxy(oleate)tin and tin II oleate, or a combination thereof. 
+ The amount of the catalyst in the activating component generally ranges from about 0.05% to about 20% by weight. In some embodiments, the amount of the catalyst ranges from about 0.1% to about 20%, from about 0.5% to about 20%, from about 0.5% to about 15%, or from about 0.5% to about 15%. 
+ The activating component can further include one or more siloxanes. None limiting examples include trisiloxane, disiloxane, dimethicone, and dimethiconol. 
+ One or both of the base component and the activating component can further include one or more agents selected from feel modifiers, spreadability enhancers, adhesion modifiers, diluents, tack modifiers, optics modifiers, particles, volatile siloxanes, emulsifiers, emollients, surfactants, thickeners, solvents, film formers, humectants, preservatives and pigments. 
+ In some embodiments, one or both of the base component and the activating component can further include a reinforcing agent selected from mica, zinc oxide, titanium dioxide, magnesium aluminum silicate, aluminum oxide, clay, silica and fumed silica. In some embodiments, one or both of the base component and the activating component can include at least one of a cosmetic agent and a therapeutic agent. For example, active anti-aging ingredients and traditional herbal medicines for long term anti-aging treatment benefits can be introduced into the base and/or activating component. These anti-aging active ingredients and traditional herbal medicines are designed to work underneath the film formed components for more effective and long term anti- aging benefits. 
+ Another aspect of the invention provides method of improving skin aesthetics. The method generally includes applying to the skin the base component followed by applying to 
+
+ the skin the activating component. The base component and the activating component are as described above. The film thus formed serves for purposes such as cosmetics, make-up, or even for therapeutic and aesthetic application purpose. 
+ Another related aspect of the invention provides a film for skin aesthetics, which includes graphene and cross-linked elastomer. The graphene ranges from about 0.01 % to about 30% by weight in the film. The graphene in the film is a single layer or multiple layers. 
+ Another aspect provides a method of manufacturing the base component described above. The method generally includes mixing graphene with a cross-linkable elastomer, wherein the graphene ranges from about 0.01% to about 30% by weight in the base component. The graphene can be processed before mixing via microwaving, vacuuming, ultrasonicating, and centrifuging. The graphene becomes completely dispersible, easier and more evenly to attach to the other raw materials after the above processing and can consistently form hexagonal lattice for more stronger and viable finished product. Specifically, the above processing improves one or more aspects of the graphene including purity, solubility, thickness, structure, surface morphology, pore volume, density, flake size. In some embodiemtns, the flake size ranges from about 0.5-20 microns. In some embodiemnts, the thickness ranges from about 0.5 to 10 nm. In some embodiments, the purity ranges from about 95%~l00%. 
+ In non-limiting examples, one of more of the following agents can be introduced to one or both of the base component and the activating component: 
+ Dow CorningÂ® 8500 Conditioning Agent Bis (Cl 3- 15 Alkoxy) PG Amodimethicone 
+Astragulas Membranaceus Root Extract Astragulas Membranaceus Root Extract 
+ Dow CorningÂ® 9011 Silicone Elastomer Blend Cyclopentasiloxane (and) PEG-12 Dimethicone 
+ Crosspolymer 
+ Glycyrrhiza Uralensis (Licorice) Extract Glycyrrhiza Uralensis (Licorice) Extract 
+ Dow CorningÂ® 9040 Silicone Elastomer Blend Cyclopentasiloxane (and) Dimethicone 
+Crosspolymer 
+ Angelica Polymorpha Sinensis Root Extract Angelica Polymorpha Sinensis Root Extract Dow CorningÂ® 9041 Silicone Elastomer Blend Dimethicone (and) Dimethicone Crosspolymer Zizyphus Jujuba Fruit Extract Zizyphus Jujuba Fruit Extract 
+ Dow CorningÂ® 9045 Silicone Elastomer Blend Cyclopentasiloxane (and) Dimethicone 
+Crosspolymer 
+ White Poria Extract White Poria Extract 
+ Dow CorningÂ® 9046 Silicone Elastomer Blend Dimethicone (and) Dimethicone Crosspolymer Camellia Sinensis (Green Tea) Leaf Extract Camellia Sinensis (Green Tea) Leaf Extract 
+
+ Dow CorningÂ® 9509 Silicone Elastomer Suspension Vinyl Dimethicone Crosspolymer (and) 02-14 Pareth-12 
+ Morns Alba (Mulberry) Leaf Extract Morus Alba (Mulberry) Leaf Extract 
+ Dow CorningÂ® 9546 Silicone Elastomer Blend Cyclopentasiloxane (and) Dimethicone 
+ Crosspolymer (and) Dimethicone / Vinyl 
+ Dimethicone Crosspolymer (and) Dimethiconol
+Coix Lacryma-Jobima-Yuen Seed Extract Coix Lacryma-Jobima-Yuen Seed Extract
+Panax Ginseng Root Extract Panax Ginseng Root Extract 
+ Dow CorningÂ® 9701 Cosmetic Powder Dimethicone / Vinyl Dimethicone Crosspolymer 
+ (and) Silica 
+ Silk Peptides Silk Peptides 
+ Dow CorningÂ® AMS-C30 Cosmetic Wax C30-45 Alkyl Methicone (and) C30-45 Olefin
+Chiralyst P407 Bis(l,5-cyclooctadiene)rhodium(I) tetrafluoroborate
+Silk Amino Acids Silk Amino Acids 
+ Dow CorningÂ® Toray FZ-2222 Bis-Isobutyl PEG-24/PPG-7/ Dimethicone
+1,3 Butylene Glycol Butylene Glycol 
+ "Dow CorningÂ® AP-8087 Fluid " "Bis-Hydroxy/Methoxy Amodimethicone"
+Glycerine 99.7% Natural Kosher Glycerine 99.7% Natural Kosher 
+Dow CorningÂ® BY 11-030 Cyclopentasiloxane (and) PEG/PPG-19/19 Dimethicone 
+Kaolin Clay Kaolin 
+ Dow CorningÂ® BY 25-337 PEG/PPG-19/19 Dimethicone (and) 03-16 
+ Isoparaffin (and) Cl 0-13 Isoparaffin 
+ Catalyst: 0.5-3.5%, 20% Platinum Catalyst 
+ Dow Corning TI-3011 Dimethicone & Dimethiconol 
+Mica S-25 Mica 
+ Dow CorningÂ® 2501 Cosmetics Wax Bis-PEG-18 Methyl Ether Dimethyl Silane Glycolic Acid Glycolic Acid 
+ Dow CorningÂ® 2502 Cosmetics Fluid Cetyl Dimethicone 
+Platinum C 1142AF Platinum Catalyst 
+Dow CorningÂ® 593 fluid Dimethicone and Trimethylsiloxysilicate 
+PlantacareÂ® 818 UP COCO-GLUCOSIDE 
+Dow CorningÂ® 670 fluid Cyclopentasiloxane (and) Polypropylsilsesquioxane Solubilisant LRI PPG-26-Buteth-26 (and) PEG-40 Hydrogenated 
+ Castor Oil (and) Water 
+ Dow CorningÂ® 680 ID fluid Polypropylsilsesquioxane (and) Isododecane
+Propylene Glycol Propylene Glycol 
+
+ Dow CorningÂ® 7-3099 Dimethicone HIP Emulsion Dimethicone (and) Ceteth-10 (and) Laureth-
+4 
+Dow CorningÂ® 7-3100 Gum Blend Hip Emulsion Cyclopentasiloxane (and) Dimethiconol (and) 
+ Laureth-4 (and) Laureth-23 
+ VQM 199-200 Silica Dimethylsilyloxy 
+ Dow CorningÂ® 7-3101 Elastomer Blend Hip Emulsion Cyclopentasiloxane (and) Dimethicone 
+ Crosspolymer (and) Dimethicone 
+ Umicore CXI 1 Bis(l,4-naphthoquinone)bis[l,3-bis(2,6 
+ diisoprop ylphenyl)imidazol-2- ylidene]dipalladium(0) 
+ PT-5017F Platinum Catalyst 
+ Dow CorningÂ® 7-3110 Volatile Fluid Hip Emulsion Dimethicone (and) Trisiloxane (and) Ceteth-
+10 (and) Laureth-4 
+ Euxyl PE 9010 Phenoxyethanol (and) Ethylhexylglycerin 
+ Dow CorningÂ® 7-3120 VFAP Hip Emulsion Dimethicone (and) Trisiloxane (and) Ceteth-10 (and) 
+ Laureth-4 (and) Aqua 
+Matrixyl 3000 Glycerin (and) Aqua (and) Butylene Glycol (and) 
+ Carbomer (and) Polysorbate 20 (and) Palmitoyl Tripeptide- 1 (and) Palmitoyl Tetrapeptide-7
+Dow CorningÂ® BY 25-339 Cosmetic Fluid PEG/PPG-30/10 Dimethicone (and) Dipropylene
+Glycol 
+ Chitosan Chitosan 
+ Dow CorningÂ® CE 8401 Emulsion Bis-Isobutyl PEG/PPG-20/35/Amodimethicone 
+ Copolymer (and) Cetyl Ethylhexanoate (and) Polysorbate 80 (and) Butylene Glycol. 
+ Dow CorningÂ® CE-1689 Smoothing Emulsion Dimethicone (and) Amodimethicone (and) 
+ Laureth-23 (and) Polyquaternium-10 (and) Laureth-4 Dow CorningÂ® Ce-1874 Microemulsion PEG-7 Dimethicone (and) Laureth-7 (and) 
+ Polysorbate 20 
+ Dow CorningÂ® EL-7040 Hydro Elastomer Blend Caprylyl Methicone (and) PEG- 12 
+ Dimethicone/PPG-20 Crosspolymer 
+CELL-U-LASHâ¢ 90 Cellulose 
+ Dow CorningÂ® EL-8040 Id Silicone Organic Blend Isododecane (and) Dimethicone 
+Crosspolymer 
+ Jade Powder Nephrite Extract 
+
+ Dow CorningÂ® EL-8050 Id Silicone Org.Elast.blend Isododecane (and) Dimethicone/Bis-
+Isobutyl PPG-20 Crosspolymer 
+ GemtoneÂ® Garnet Mica (and) Titanium Dioxide (and) Carmine (and) 
+ Iron Oxides 
+ Dow CorningÂ® EL-9140 Dm Silicone Elastomer Blend Dimethicone (and) Dimethicone 
+Crosspolymer 
+ Seamollient ALGAE EXTRACT 
+ Dow CorningÂ® EL-9240 Silicone Elastomer Blend Dimethicone (and) Dimethicone 
+ Crosspolymer 
+ BronidoxÂ® 1160 Phenoxyethanol 
+Umicore M22 cis-[l,3-Bis(2,4,6-trimethylphenyl)-2- imidazolidinylidene] di chi oro(3 -phenyl- lH-inden- 1 - ylidene)(triisopropylphosphite)ruthenium(II)
+Dow CorningÂ® EP-9215 Cosmetic Powder Dimethicone / Vinyl Dimethicone Crosspolymer PlantacareÂ® 810 UP CAPRYLYL/CAPRYL GLUCOSIDE 
+ Dow CorningÂ® Rm 2051 Thickening Agent Sodium Polyacrylate (and) Dimethicone (and) 
+ Cyclopentasiloxane (and) Trideceth-6 (and) PEG/PPG- 18/ 18 Dimethicone 
+ Dow CorningÂ® Vm-2270 Aerogel Fine Particles Silica Silylate 
+Dow CorningÂ® 1515 Gum DIMETHICONOL 
+SMS-1 SERICITE S +++ Mica (And) Glycolipids 
+ Dow CorningÂ® 3901 Liquid Satin Blend Dimethicone (and)Dimethicone/Vinyl Dimethicone
+Crosspolymer 
+ KoboGelâ¢ D5 Medium Cyclopentasiloxane (And) Titanium Dioxide (And) 
+ Cyclohexasiloxane (And) Iron Oxides (Cl 77492) (And) Iron Oxides (Cl 77491) (And) PEG/PPG-18/18 Dimethicone (And) Iron Oxides (Cl 77499) (And) Dimethicone/Vinyl Dimethicone Crosspolymer (And) Disteardimonium Hectorite (And) Tocopheryl Acetate (And) Isopropyl Titanium Triisostearate (And) Triethoxysilylethyl 
+ Dow Corning MG7-9900A Dimethicone and Dimethiconol Crosspolymer Dow Corning MG7-9900B Dimethicone and Dimethiconol Crosspolymer SILIGHT DS-PDL3 Silica (And) Dimethicone (And) Cetearyl Alcohol 
+ (And) Stearic Acid (And) Ceramide NP (And) Phytosterols 
+
+ Dow CorningÂ® 9506 Powder Dimethicone / Vinyl Dimethicone Crosspolymer
+SP-10-FS Nylon- 12 (And) Perfluorooctyl Triethoxysilane
+Dow CorningÂ® 9591 Cosmetic Powder Dispersion CYCLOPENTASILOXANE POLYSILICONE-
+11 
+ NYLON 10-12 Nylon-12 (And) Isopropyl Titanium Triisostearate
+Dow CorningÂ® El-9241 Dm Silicone Elastomer Blend DIMETHICONE CROSSPOLYMER CELLULOBEADS D-50 Cellulose 
+ Dow CorningÂ® Fz-2233 Bis-Isobutyl PEG/PPG- 10/7/Dimethicone 
+ Copolymer 
+ MSS-500 Silica 
+ Dow CorningÂ® Pf-9510 Elastomer Dimethicone/Vinyl Dimethicone. Crosspolymer and 
+ 02-14 Pareth-12 
+ KTZÂ® DIAMOND BRIGHT Mica (And) Titanium Dioxide 
+ Dow CorningÂ® El-9048 Silicone Elastomer Blend Cyclopentasiloxane (and) Dimethicone 
+ Crosspolymer 
+ KTZÂ® SUPERB SILVER Mica (And) Titanium Dioxide 
+MTM3K50XZ4 Zinc Oxide (And) Methyl Trimethicone (And) PEG- 10 
+ Dimethicone (And) Methicone 
+ XiameterÂ® Pmx-0244 Cyclotetrasiloxane 
+BPD-500W HDI/Trimethylol Hexyllactone Crosspolymer (And) 
+ Silica 
+ Pro- Structure Hydrolyzed Walnut Extract 
+HBP45M160 Butyloctyl Salicylate (And) Titanium Dioxide (And) 
+ Alumina 
+ (And) Stearic Acid (And) Polyhydroxystearic Acid
+XiameterÂ® Pmx-0245 Cyclopentasiloxane 
+CMF655T4* Titanium Dioxide (And) Cyclopentasiloxane (And) 
+ Polyglyceryl-3 Polydimethylsiloxyethyl 
+ Dimethicone (And) Alumina (And) Hydrogen Dimethicone 
+ DL-PANTHENOL DL-PANTHENOL 
+XiameterÂ® Pmx-0246 Cyclohexasiloxane (and) Cyclopentasiloxane CM3K40T4* Cyclopentasiloxane (And) Titanium Dioxide (And) 
+ PEG- 10 Dimethicone (And) Alumina (And) Hydrogen Dimethicone 
+ XiameterÂ® Pmx-0344 Cyclotetrasiloxane (and) Cyclopentasiloxane 
+
+ EcoSenseâ¢ 919 Coco-Glucoside 
+Gcc 300kc Caprylic/Capric Triglyceride 
+ESCULANEâ¢ Caprylic/Capric Triglyceride - Algae Extract - Laminaria Digitata Extract 
+ Givobio GZN Zinc Gluconate 
+XiameterÂ® Pmx-0345 Cyclopentasiloxane (and) Cyclohexasiloxane GELAIDÂ® SILK Cyclohexasiloxane (and) Vinyl 
+ Dimethicone/Methicone Silsesquioxane (and) Acrylamide/Sodium Acryloyldimethyltaurate Copolymer (and) Isohexadecane (and) Polysorbate 80 (and) PEG -10 Dimethicone 
+ Hydrolite 5 Pentylene Glycol 
+ XiameterÂ® Pmx-1403 Fluid Dimethicone (and) Dimethiconol 
+TR-1 Nylon-6 
+ SEPILIFTâ¢ DPHP Dipalmitoyl hydroxyproline 
+L-ASCORBIC ACID USP ASCORBIC ACID 
+SunSpheresâ¢ Powder Acrylates Copolymer 
+XiameterÂ® Pmx-1411 Fluid Cyclopentasiloxane (and) Dimethicone 
+CELLOSIZEâ¢ PCG-10 Hydroxyethylcellulose 
+Croteinâ¢ A Hydrolyzed Collagen 
+ XiameterÂ® Pmx-1501 Fluid Cyclopentasiloxane (and) Dimethiconol 
+EcoSmoothâ¢ Satin Conditioning Polymer Ethylene/Sodium Acrylate Copolymer 
+XiameterÂ® Pmx-1503 Fluid Dimethicone (and) Dimethiconol. 
+ACULYNâ¢ 88 Rheology Modifier Acrylates/Steareth-20 Methacrylate Crosspolymer XiameterÂ® Pmx-1556 Fluid Phenyl Trimethicone (and) Dimethiconol ACULYNâ¢ 38 Rheology Modifier Acrylates/Vinyl Neodecanoate Crosspolymer SP-10 Nylon- 12 
+ Magnesium Aluminum Silicate Magnesium Aluminum Silicate 
+XiameterÂ® 1184 Dimethicone (and) Trisiloxane 
+ DIMETHISILÂ® DM-5~1,000,000 Dimethicone 
+XiameterÂ® Pmx-200 Silicone Fluid Dimethicone 
+VOLASILâ¢ 8515 Cyclotetrasiloxane (and) Cyclopentasiloxane AndisilÂ® SF 0.65, 1, 1.5, 2-5,000 Disiloxane, Trisiloxane, Dimethicone 
+ELIGHT SDS Dimethicone/Vinyl Dimethicone Crosspolymer 
+ (And) Silica (And) Dimethicone 
+ CHEMS IL K-51 Cyclopentasiloxane (and) Dimethicone/Vinyl 
+ Dimethicone Crosspolymer 
+
+ AndisilÂ® VS 200, 500, 1,000, 5000 Vinyl Dimethicone 
+KSP-300 Diphenyl Dimethicone/Vinyl Diphenyl Dimethicone/ 
+ Silsesquioxane Crosspolymer 
+ AEROSILÂ® R 106 Cryclotetrasiloxane, octametryl-, reaction products with silica 
+ VITAMIN E USP DL- ALPHA TOCOPHERYL ACETATE 
+ AndisilÂ® XL- IB, 10, 11, 12, 13, 17 Si-H functional 
+ AEROSILÂ® R 8200 Silanamine, 1,1, 1 ,-trimethyl-N-(trimetrysilyl)-, hydrolysis products with silica 
+ BOTANAGEN 3 - AMINOPROP YL DIHYDROGEN PHOSPHATE
+AndisilÂ® CE-4, 13, 500 Chain Extender terminal Si-H functional 
+KSG-15 Cyclopentasiloxane (and) Dimethicone/Vinyl 
+ Dimethicone Crosspolymer 
+ Silbione RTV 4420A Dimethcone and Dimethiconol 
+SilCare Silicone 15M50 PHENYL TRIMETHICONE 
+SILICA SHELLS Silica 
+JEESILC PS-DMBF DIMETHICONE, BIS VINYL 
+ DIMETHICONE/DIMETHICONE COPOLYMER
+Silbione RTV 4420B Caprylyl Methicone 
+MAP SL MAGNESIUM ASCORBYL PHOSPHATE
+JEESILC PDS-1/1.5/5/20/200/350/500/1000 Dimethicone 
+Aristoflex AVC Ammonium Acryloyldimethyltaurate/VP Copolymer Cabosil TS-720 Fumed Silica 
+Milk Tein NPNFÂ® Hydrolyzed Milk Protein 
+ JEECOL CS-12 CETEARETH- 12 
+SK-INFLUXÂ® V CARBOMER, CERAMIDE 1, CERAMIDE 3, 
+ CERAMIDE 6 II CHOLESTEROL, 
+ PHYTOSPHINGOSINE, SODIUM LAUROYL LACTYLATE, XANTHAN GUM 
+ Cabosil TS-610 Fumed Silica 
+JEECHEM OP- 12 OCTOXYNOL- 12 
+KF-995 CYCLOPENTASILOXANE 
+ Cabosil TS-530 Fumed Silica 
+ CarbopolÂ® Ultrez 10, 20, 21, 30 polymer Carbomer/Acrylates/C10-30 Alkyl Acrylate 
+ Crosspolymer 
+ Cabosil TS-500 Fumed Silica 
+CERAMIDE III, IIIB Ceramide NP 
+
+
+
+ CYCLOPENTASILOXANE, BIS VINYL 
+ DIMETHICONE/DIMETHICONE COPOLYMER
+Reolosil QS-10LS Fumed Silica 
+SilCare Silicone 1M71 Stearoxytrimethylsilane 
+Reolosil QS-20L Fumed Silica 
+JEESILC PS-DMLV DIMETHICONE, BIS VINYL 
+ DIMETHICONE/DIMETHICONE COPOLYMER
+Aristoflex AVS Sodium Acryloyldimethyltaurate/VP Crosspolymer Orisil Ml 30 Fumed Silica 
+Aristoflex HMB Ammonium Acryloyldimethyltaurate/B eheneth-25 
+ Methacrylate Crosspolymer 
+ Orisil M 200 Fumed Silica 
+ CarbopolÂ® 934 polymer. 940, 941, 980, CARBOMER 
+Orisil M300 Fumed Silica 
+ Andisil VQM 0.6, 1, 6, 60, 100, 1040, 2050 199-200 Vinyl Resin Additive 
+SilCare Silicone 31M50 Caprylyl Trimethicone 
+Zeosil 115GR Silica 
+SK-INFLUXÂ® Ceramide 3; Ceramide 6 II; Ceramide 
+ 1 ;Phytosphingosine; Cholesterol; Sodium Lauroyl Lactylate; Carbomer; Xanthan GumConservanti: Methylparaben (max. 0,3%), Propylparaben (max. 0,2%). 
+ Zeosil 125GR Silica 
+JEECHEM FS 102 HEXYLENE GLYCOL, PEG-25 
+ HYDROGENATED CASTOR OIL, PEG-40 HYDROGENATED CASTOR OIL
+AEROSILÂ® R 812 S SILICA SILYLATE 
+Zeosil 175GR Silica 
+AEROSILÂ® R 7200 2-Propenoic acid, 2-methyl-, 3- (trimethoxysilyl)propylester, reaction products with silica 
+ Zeosil 185GR Silica 
+KP-561P ACRYLATES/STEARYL 
+ ACRYLATE/DIMETHICONE METHACRYLATE
+COPOLYMER
+ 
+ POLYSORBATE 80 
+ Zeosil 215GR Silica 
+
+ KP-545L ACRYLATES/DIMETHICONE COPOLYMER 
+ DIMETHICONE 
+ Zeosil Premium 200MP Silica 
+JEECHEM NP-12 NONOX YNOL- 12 
+KF-9028 CYCLOPENTASILOXANE DIMETHICONE
+JEESORB L-20 NF POLYSORBATE 20 
+Zeosil 1115MP Silica 
+KF-7312J CYCLOPENTASILOXANE 
+ TRIMETHYLS ILOXYSILICATE 
+ Zeosil 1165MP Silica 
+KF-9021 CYCLOPENTASILOXANE 
+ TRIMETHYLS ILOXYSILICATE 
+Zeosil 142 Silica 
+ KF-96L, 96 A, 96, 96H DIMETHICONE 
+Zeosil 132 Silica 
+Unisil NK3HS Fumed Silica 
+ Andiform ClOO, C106, C300, C1000, Cl, 300 Bis-Vinyldimethicone 
+ SilCare Silicone 41M15 Fumed Silica 
+ AEROSILÂ® R 812 SILICA SILYLATE 
+ JEECHEM NP-10 NONOX YNOL- 10 
+ KF-9008 CYCLOPENTASILOXANE DIMETHICONE
+Granpowder PSQ-Pt Polymethylsilsesquioxane (and) Platinum
+KF-9011 CYCLOPENTASILOXANE DIMETHICONE
+Gransurf 61 PEG- 12 Dimethicone 
+ KF-9014 CYCLOPENTASILOXANE DIMETHICONE
+X-21-5495 CYCLOPENTASILOXANE DIMETHICONE
+X-21-5666 CYCLOPENTASILOXANE DIMETHICONOL
+KSG-15 CYCLOPENTASILOXANE 
+ DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER
+USG-103 CYCLOPENTASILOXANE 
+ DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER 
+ X-21-5250 CYCLOPENTASILOXANE 
+ TRIMETHYLS ILOXYSILICATE
+TSPL-30-D5 Cyclopentasiloxane (and) Norbornene/Tris 
+ (Trimethylsiloxy)Silylnorbornene Copolymer 
+
+ Gransil GTS Ethyl Trisiloxane (and) Polysilicone- 11 
+KSG-210 Dimethicone (and) Dimethicone/PEG-10/15 
+ Crosspolymer 
+ KSG-240 Cyclopentasiloxane (and) Dimethicone/PEG-10/15 
+ Crosspolymer 
+ GI CD-965 Dimethicone (and) Stearoxymethicone/Dimethicone 
+ Copolymer (and) Dimethicono 
+ KSG-310 Mineral Oil (and) PEG-15/Lauryl Dimethicone 
+ Crosspolymer 
+ GI CD-965 Dimethicone (and) Stearoxymethicone/Dimethicone 
+ Copolymer (and) Dimethicono 
+ KSG-320 Isododecane (and) PEG-15/Lauryl Dimethicone 
+ Crosspolymer 
+ Gransil DM- 10/20/6 Dimethicone (and) Polysilicone- 11 
+KSG-330 Triethylhexanoin (and) PEG-15/Lauryl Dimethicone 
+ Crosspolymer 
+ Gransil DMAM Dimethicone (and) Caprylyl Methicone (and) 
+ Polysilicone- 11 
+ KSP-101 VINYL DIMETHICONE/METHICONE 
+ SILSESQUIOXANE CROSSPOLYMER 
+ Granpowder Silica Silica 
+KSP-102 VINYL DIMETHICONE/METHICONE 
+ SILSESQUIOXANE CROSSPOLYMER 
+ Granactive Oligopeptide- 10 Cyclopentasiloxane (and) Dimethicone (and) Water 
+ (and) Polysilicone- 11 (and) Butylene Glycol (and) Decyl Glucoside (and) Oligopeptide- 10 
+ KSP-105 VINYL DIMETHICONE/METHICONE 
+ SILSESQUIOXANE CROSSPOLYMER 
+ Gransurf 67 PEG- 10 Dimethicone 
+KSP-411 POLYSILICONE- 1 CROSSPOLYMER 
+ CARESILâ¢- XG CXG - 1101 CYCLOPENTASILOXANE 
+ DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER
+KSP-441 POLYSILICONE-22 
+ Granacrysil BMAS Isododecane (and) Isobutylmethacrylate/Bis- Hydroxypropyl Dimethicone Acrylate Copolymer
+KF-9901 Hydrogen Dimethicone 
+
+ BELSILÂ® PDM 1000 Trimethylsiloxyphenyl Dimethicone 
+KF-9908 TRIETHOXYSILYLETHYL 
+ POLYDIMETHYLSILOXYETHYL DIMETHICONE
+BELSILÂ® DM 1 PLUS, DM 5/10/20/50/100/500/1000 DIMETHICONE 
+KF-9909 TRIETHOXYSILYLETHYL 
+ POLYDIMETHYLSILOXYETHYL HEXYL DIMETHICONE
+CARESILâ¢- XG CXG - 1103 CYCLOHEXASILOXANE 
+ CYCLOPENTASILOXANE DIMETHICONE/
+VINYL DIMETHICONE CROSSPOLYMER
+CARESILâ¢- CSG - 1001 Aqua (and) Dimethicone (and) Dimethicone/Vinyl 
+ Dimethicone Crosspolymer (and) Dimethiconol (and) Butylene Glycol (and) Carbomer(and) Phenoxyethanol (and) Sodium Hydroxide
+BELSILÂ® REG 1102 Dimethicone (and) 
+ Dimethicone/Vinyltrimethylsiloxysilicate
+Crosspolymer 
+ CARESILâ¢- F CSF - 3504 Dimethicone (and) Dimethiconol 
+CARESILâ¢- PF CPF - 3300 Phenyl Trimethicone 
+Mirasil Micropearl 40 Polymethylsilsesquioxane 
+CARESILâ¢- FF CFF - 3401 Trifluoropropyl Dimethicone 
+BELSILÂ® TMS 803 Trimethylsiloxysilicate 
+CARESILâ¢- V CSV - 3002 Cyclohexasiloxane 
+BELSILÂ® CM 1000 CYCLOPENTASILOXANE DIMETHICONOL BELSILÂ® CM 3092 CYCLOPENTASILOXANE DIMETHICONOL BELSILÂ® CM 740 CYCLOPENTASILOXANE DIMETHICONOL HDKÂ® H2000 Silica Dimethyl Silylate HYDROXYPROPYL 
+ CYCLODEXTRIN
+BELSILÂ® DM 3096 DIMETHICONE DIMETHICONOL 
+BELSILÂ® EG 5 Cyclopentasiloxane (and) Dimethicone/Vinyl 
+ Dimethicone Crosspolymer 
+ HDKÂ® H15 Silica 
+BELSILÂ® RG 100 CYCLOPENTASILOXANE DIMETHICONE/ 
+ VINYLTRIMETHYL SILOXYSILICATE CROSSPOLYMER
+HDKÂ® H15P Silica 
+
+ Mirasil CM5 CYCLOPENTASILOXANE HDKÂ® V15 Silica 
+ COSMETIC FLUID 8100-OH Trisiloxane (and) Dimethicone (and) Dimethiconol HDKÂ® V15P Silica 
+EMULSILÂ® WO-5115 Cyclopentasiloxane (and) PEG/PPG- 18/ 18 
+ Dimethicone 
+ HDKÂ® N20 Silica 
+Mirasil CM5 HP CYCLOPENTASILOXANE 
+HDKÂ® N20P Silica 
+Mirasil D-DML LV Dimethicone (and) Dimethiconol 
+HDKÂ® T30 Silica 
+ COSMETIC FLUID EU Cyclohexasiloxane (and) Dimethiconol 
+HDKÂ® T40 Silica 
+Mirasil DM 60 000 Dimethicone 
+HDKÂ® H20 Silica 
+ COSMETIC FLUID 1585-OH Cyclopentasiloxane (and) Dimethiconol 
+HDKÂ® H30 Silica 
+Mirasil C-DMX 12 Cyclopentasiloxane (and) Dimethicone 
+ Crosspolymer 
+ HDKÂ® HI 8 Silica 
+ COSMETIC FLUID 9109-OH Cyclotetrasiloxane (and) Cyclopentasiloxane (and) 
+ Dimethiconol 
+ HDKÂ® N20D Silica 
+ COSMETIC FLUID 8503-HALS Cyclopentasiloxane (and) Dimethiconol (and) 
+ Propoxytetramethyl Piperidinyl Dimethicone
+Mirasil C-DML MV CYCLOPENTASILOXANE (and) 
+ DIMETHICONOL
+EMULSILÂ® WO-3115 Cyclopentasiloxane(and) Cyclotetrasiloxane (and) 
+ PEG/PPG- 18/ 18 Dimethicone 
+ COSMETIC FLUID 6570-DM Disiloxane (and) Cyclopentasiloxane (and) 
+ Dimethicone 
+ Mirasil CM5 HP CYCLOPENTASILOXANE 
+CHEMSIL K-27 Cyclopentasiloxane (and) Dimethiconol (and) 
+ Dimethicone /Vinyl Dimethicone Crosspolymer
+Mirasil PEG 12 DM PEG- 12 DIMETHICONE 
+VOLASILâ¢ DM- 1.5 Dimethicone 
+
+ Mirasil C-DMP CYCLOPENTASILOXANE (and) PEG/PPG- 18/18 
+ DIMETHICONE
+COSMETIC FLUID 4120-DM Cyclopentasiloxane (and) Polysilicone-22 
+CHEMSIL K-72 Trimethylsiloxysilicate 
+COSMETIC FLUID 0515-OH Dimethicone Dimethiconol 
+SHINEBLENDÂ® 9710 Cyclopentasiloxane (and) Cyclotetrasiloxane (and) 
+ Dimethicone 
+ COSMETIC FLUID 1406-DM/OH Dimethicone 
+GELAIDÂ® 8205 Cyclopentasiloxane (and) Dimethicone 
+COSMETIC FLUID 1486-DM Cyclopentasiloxane (and) Dimethicone 
+GELAIDÂ® 8317 Cyclopentasiloxane (and) Cyclotetrasiloxane (and) 
+ Dimethicone 
+ COSMETIC FLUID 1486-OH Cyclopentasiloxane (and) Cyclotetrasiloxane (and) 
+ Dimethiconol 
+ EMULSILÂ® S-393 PEG- 12 Dimethicone 
+COSMETIC FLUID 1684-DM Cyclopentasiloxane (and) Cyclotetrasiloxane (and) 
+ Dimethicone 
+ EMULSILÂ® S-399 Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone COSMETIC FLUID 3569-DM Cyclopentasiloxane (and) Dimethicone 
+CHEMSIL K-12 Dimethicone (and) Dimethicone PEG-10/15 
+ Crosspolymer 
+ COSMETIC FLUID 6520-DM Disiloxane (and) Dimethicone 
+VOLASILâ¢ 990-996 Cyclotetrasiloxane 
+COSMETIC FLUID 6590-DM Disiloxane (and) Dimethicone 
+VOLASILâ¢ 7525 Cyclopentasiloxane (and) Cyclohexasiloxane COSMETIC FLUID 7007-DM Dimethicone (and) Dimethicone/Vinyl Dimethicone 
+ Crosspolymer 
+ VOLASILâ¢ DM-0.65 Disiloxane 
+COSMETIC FLUID 8108-OH Dimethicone (and) Dimethiconol (and) Trisiloxane VOLASILâ¢ 1585 Cyclopentasiloxane(and) Cyclotetrasiloxane COSMETIC FLUID 8110-DMC Dimethicone (and) Methyl Trimethicone (and) 
+ Dimethiconol (and) Dimethicone/Vinyl Dimthicone Crosspolymer (and) Trisiloxane 
+ COSMETIC FLUID 8302-DM Cyclotetrasiloxane (and) Dimethicone 
+VOLASILâ¢ DM-1 Trisiloxane 
+COSMETIC FLUID 9005-DM Cyclopentasiloxane(and) Cyclotetrasiloxane (and) 
+ Dimethicone 
+
+ CHEMSIL K-13 Cyclopentasiloxane (and) Dimethicone/Vinyl 
+ Dimethicone Crosspolymer 
+ COSMETIC FLUID 9109-DM Cyclotetrasiloxane (and) Cyclopentasiloxane (and) 
+ Dimethicone 
+ CHEMSIL K-17 Dimethicone (and) Dimethicone/Vinyl Dimethicone 
+ Crosspolymer 
+ COSMETIC FLUID 9502-DM Cyclopentasiloxane (and) Dimethicone/Vinyl 
+ Dimethicone Crosspolymer 
+ CHEMSIL K-45 Acrylate/Dimethicone Copolymer (and) 
+ Cyclopentasiloxane 
+ VOLASILâ¢ 8100 Dimethicone (and) Trisiloxane 
+CHEMSIL K-61 Dimethicone (and) Dimethicone/Vinyl Dimethicone Crosspolymer 
+CHEMSIL K-73 Cyclopentasiloxane (and) Trimethylsiloxysilicate CHEMSIL SPD Dimethicone/Dimethicone Vinyl Crosspolymer 
+Examples 
+ The following examples illustrate ingredients for base component and activating component. It should be understood that these examples are not to be considered a disclaimer of alternative embodiments of the kit of the present invention. 
+Formulation: 
+F100-208-28-1 
+ Dow Corning MG7-9900A 
+0.5-25% 
+ XiameterÂ® 345 
+0.25-12% 
+ Unisil NK3HS 
+0.8-15.5 
+Xiameter 1184 
+2-10% 
+ Andsil XL- 17 
+0.25-5.5% 
+
+ AndisilÂ® CE500 
+0.75-12% 
+ Dow Corning 9509 1-8% 
+ Graphene complex 0.05-8% 
+ Nephrite Extract 
+0.5-5% 
+ Titanium Dioxide 
+0.25-3% 
+ Zirconium Dioxide 0.15-1.2% 
+ GemtoneÂ® Garnet 0.01-2.5% 
+ Aluminum Dioxide 0.15-5% 
+ Phenoxyethanol 
+ 0.5-1% 
+Dow Corning MG7-9900B 0.5-25% 
+ Xiameter 0244 
+1-10% 
+ XiameterÂ® Pmx-l50l Fluid 1-12% 
+ Dow CorningÂ® 9041 8-18% 
+ Plantacare 818UP 
+1-7% 
+ Phenoxyethanol 
+0.5-1.5% 
+ Glycerine 99.7% 
+ 1-12% 
+ Platinum Cl 142AF 
+
+ 0.25-15.5% 
+ 1 ,3 Butylene Glycol 
+0.5-17% 
+ Propylene Glycol 
+0.5-18% 
+F100-212-85-2 
+ Silbione RTV 4420A 
+0.5-22% 
+ Zeosil Premium 200MP 
+0.5-15.5% 
+ Andiform C300 
+0.25-15.5% 
+ Dow CorningÂ® Pf-95l0 Elastomer 1-8% 
+ Andisil XL- 13 
+0.25-11% 
+ Andisil SF 500 
+1-11.5% 
+ Graphene complex 
+0.05-18% 
+ AndisilÂ® CE 13 
+VOLASILâ¢ DM- 1.5 
+1-12.5% 
+ COSMETIC FLUID 6570-DM 0.5-8% 
+ 0.25-7.5% 
+ Titanium Dioxide 
+0.25-3% 
+ Zirconium Dioxide 
+0.15-1.2% 
+ Mica S-25 
+0.01-7% 
+ KTZÂ® SUPERB SILVER 
+
+0.05-2% 
+ Aluminum Dioxide 0.15-5% 
+Phenoxyethanol 0.5-1% 
+Silbione RTV 4420B 0.5-22% 
+ Dow CorningÂ® 9509 0.5-12% 
+ Dow Corning TI-3011 0.25-6% 
+ Dow CorningÂ® 9045 0.25-15% 
+ Xiameter 245 1-13% 
+ Nephrite Extract 0.5-5% 
+ Mirasil C-DMX 12 0.5-8% 
+ Dow CorningÂ® 9011 1-15% 
+ CHEMSIL K-51 1-8% 
+ Astragulas Extract 0.5-15% 
+ Licorice Extract 0.5-12% 
+ Matrixyl 3000 0.5-8% 
+ Glycerine 99.7% 1-15% 
+ 1 ,3 Butylene Glycol 0.5-18% 
+
+ PT5017F 
+ 0.25-12% 
+ Propylene Glycol 
+2-15% 
+F100-217-55-3 
+ Dow CorningÂ® EL-9140 1-20% 
+ Andiform Cl 000 
+0.5-15% 
+ Andiform Cl 06 
+0.5-12% 
+ Cabosil TS-500 
+1-18% 
+ Xiameter 0245 
+1-20% 
+ GI CD- 10/11 
+1-25% 
+ Andisil XL- 12 
+0.15-25% 
+ COSMETIC FLUID 8110-DMC 0.5-8% 
+ Kaolin Clay 
+0.5-17% 
+ Xiameter 200 5eSt 
+1 -15% 
+ Graphene complex 
+0.05-21.5% 
+ Mica S 25 
+0 15-10% 
+ Titanium Dioxide 
+ 0.25-3% 
+ Zirconium Dioxide 
+0.15-1.2% 
+
+ KTZÂ® SUPERB SILVER 0.01-7.5% 
+ Aluminum Dioxide 
+0.15-5% 
+ Phenoxyethanol 
+ 0.5-1% 
+Granacrysil BMAS 
+0.5-15% 
+ CHEMSIL K-12 
+1-25% 
+ Mirasil DM 60 000 
+1-12% 
+ Dow CorningÂ® 9046 1-20% 
+ KTZÂ® DIAMOND BRIGHT 0.25-5% 
+ Aristoflex AVS 
+0.25-8% 
+ CM3K40T4* 
+ 0.3-3.5% 
+ KSP-105 
+ 0.5-7.5% 
+ HDKÂ® H30 
+0.25-12% 
+ VOLASILâ¢ DM- 1.5 1-10% 
+ COSMETIC FLUID 9109-OH 1-12% 
+ Licorice Extract 
+0.25-15% 
+ Jujube Extract 
+0.25-10% 
+ PT5017F 
+
+ 0.25-12%
+Astragulas Extract 0.25-8% 
+ 1 ,3 Butylene Glycol 0.25-18% 
+ Glycerine 99.7% 
+ 1-15% 
+ Propylene Glycol 
+1-18% 
+ Phenoxyethanol 
+ 0.25-2.5% 
+ Titanium Dioxide 
+0.25-3% 
+ Zirconium Dioxide 0.15-1.2% 
+F100-218-28-4 
+ Dow CorningÂ® EL-9240 0.25-22% 
+ KSG-210 
+ 1-28% 
+ Andiform C300 
+1-35% 
+ Andisil CE500 
+1-25% 
+ XiameterÂ® Pmx-l50l Fluid 1-18% 
+ Andisil XL- 11 
+0.05-15% 
+ Xiameter 0345 
+1-25% 
+ Andisil SF1.00 
+0.5-10% 
+ Graphene complex 
+
+0.05-8% 
+ DCTI-3011 
+ 0.25-12% 
+ Cabosil TS-720 
+0.15-15% 
+ Euxyl PE 9010 
+0.25-5% 
+ KoboGelâ¢ D5 Medium 
+0.15-5.5% 
+ MSS-500 
+ 0.15-3% 
+ Titanium Dioxide 
+0.25-3% 
+ Zirconium Dioxide 
+0.15-1.2% 
+ Aluminum Dioxide 
+0.15-5% 
+COSMETIC FLUID 7007-DM 1-12% 
+ Dow CorningÂ® 9041 
+1-10% 
+ CHEMSIL K-61 
+1-8% 
+ KF-9908 
+ 1-12% 
+ Dow CorningÂ® 2502 Cosmetics Fluid 1-15% 
+ CELL-U-LASHâ¢ 90 
+0.25-5.5% 
+ TSPL-30-D5 
+ 0.15-3.5% 
+ SilCare Silicone 31M50 
+0.25-5% 
+
+ Granpowder PSQ-Pt 0.25-1% 
+ Glycolic Acid 
+0.05-5.5% 
+ Aristoflex HMB 
+0.15-3.5% 
+ Granactive Oligopeptide- 10 1-12% 
+ Chrysanthemum Extract 1-10% 
+ Licorice Extract 
+1-8% 
+ Platinum Catalyst 
+0.25-12% 
+ Seamollient 
+ 1-8% 
+ GELAIDÂ® SILK 
+1-12% 
+ Glycerine 99.7% 
+ 1-15% 
+ 1 ,3 Butylene Glycol 1-18% 
+ Propylene Glycol 
+1-17% 
+ Phenoxyethanol 
+ 0.25-3.5% 
+F100-237-95-5 
+ HDKÂ® H18 
+0.5-8% 
+ Andiform C300 
+0.5-7% 
+ Andiform Cl 06 
+0.25-3% 
+
+ AndisilÂ® SF 0.65
+1-15% 
+ XiameterÂ® Pmx-0245 
+ 2-10% 
+Zeosil 215GR 
+0.5-10% 
+ Graphene complex 
+0.05-8.5% 
+ Dow CorningÂ® 9506 Powder 0.25-7% 
+ COSMETIC FLUID 9109-OH 1-15% 
+ Andisil XL- 12 
+0.25-12% 
+KSG-320 
+ 1-5% 
+ ACULYNâ¢ 88 Rheology Modifier 0.5-12% 
+
+
+Andisil CE-13 1-15% 
+ Phenoxyethanol 0.5-1.5% 
+CHEMSIL K-17 0.15-20% 
+ Dow CorningÂ® 9041 1-15% 
+ Dow CorningÂ® 2051 0.5-3% 
+ Dow Corning 9701 1-5% 
+ Licorice Extract 1-12% 
+ Astragulas Extract 1-15% 
+ BELSILÂ® CM 3092 1-10% 
+ Xiameter 200 lOOcSt 5-20% 
+ VOLASILâ¢ DM-l 1-15% 
+ SP-10-FS 
+ 0.15-12% 
+ Platinum Catalyst 0.05-4.5% 
+ Matrixyl 3000 1-8% 
+ Glycerine 99.7% 1-18% 
+ 1 ,3 Butylene Glycol 1-17% 
+ Bronidox 1160 
+
+ 0.5-2.5% 
+ Kaolin Clay 
+0.15-12% 
+ Titanium Dioxide 
+0.05-7% 
+ Aluminum Dioxide 
+0.5-7% 
+ Zirconium Dioxide 
+0.05-9% 
+F100-239-27-6 
+ KSP-300 
+ 1-18% 
+ GELAIDÂ® 8205 
+0.5-15% 
+ COSMETIC FLUID 8110-DMC 0.5-8% 
+ Andisil CE13 
+0.25-12% 
+ Andisil XL- 17 
+0.15-13% 
+ CARESILâ¢- XG CXG - 1103 0.25-8% 
+ Nylon 10-12 
+1-7% 
+ Gransurf 61 
+0.25-15% 
+ Graphene complex 
+0.05-9% 
+ Zeosil 142 
+0.15-12% 
+ KF-9901 
+ 1-10% 
+ XiameterÂ® Pmx-0345 
+
+1-20% 
+ VQM 199-200 
+0.05-12% 
+ KTZÂ® DIAMOND BRIGHT 0.15-5% 
+ Bronidox 1160 
+0.5-1.5% 
+ Titanium Dioxide 
+0.05-7% 
+ Aluminum Dioxide 0.5-7% 
+ Zirconium Dioxide 
+0.05-9% 
+KoboGelâ¢ D5 Medium 1-18% 
+ Mirasil C-DMX 12 
+0.5-12% 
+ BELSILÂ® CM 740 
+0.5-8% 
+ Dow CorningÂ® 9509 0.5-17% 
+ CHEMSIL K-61 
+1-15% 
+ AEROSILÂ® R 812 S 0.5-13% 
+ Ciiitosan 
+ 0.05-8% 
+ X-21-5666 
+ 1-10% 
+ GI CD-965 
+0.5-20% 
+ Chrys anthem u m Extract 1-15% 
+
+ Licorice Extract 
+ 1 -18% 
+ Platinum Catalyst 
+0.15-18% 
+ CHEMSIL SPD 
+0.5-8% 
+ Carbopol 21 
+0.3-5% 
+ ACULYNâ¢ 38 
+-0.15-7% 
+ Xiameter 245 
+1-15% 
+ COSMETIC FLUID 7007-DM
+Euxyl PE 9010 
+ 0.5-2% 
+F100-245-37-7 
+ Dow Corning MG7-9900A 0.15-8% 
+ CHEMSIL K- 17 
+0.5-12% 
+ Andiform C300 
+1-75% 
+ Granactive Oligopeptide- 10 0.15-18% 
+ Andiform Cl 06 
+1-29% 
+ Cabosil TS-500 
+0.5-12% 
+ USG-103 
+ 0.25-10% 
+ Andisil CE 500 
+0.05-18% 
+ Xiameter 1184 
+
+1-15% 
+ Andsil XL- 11 
+0.15-12% 
+ DC TI-3011 
+0.05-12% 
+ Dow Corning 9509 
+1-15% 
+ Andisil SF 1.00 
+0.5-17% 
+ CARESILâ¢- XG CXG - 1103 0.25-8% 
+ Andisil SF 0.65 
+0.1-20% 
+ Bronidox 1160 
+0.5-1.5% 
+ Gemtone Garnet G009 0.05-5% 
+ Graphene complex 
+0.05-8% 
+ Titanium Dioxide 
+0.05-2.8% 
+ Zirconium Dioxide 
+0.25-3% 
+ Aluminum Dioxide 
+0.25-2% 
+Dow Corning 9011 
+1-18% 
+ Xiameter 0245 
+1-15% 
+ Dow Corning 9546 
+1-18% 
+ Dow Corning MG7-9900B 0.5-5% 
+
+ Dow Corning 9041 
+ 1-17% 
+ Andisil SF 1.00 
+1-12% 
+ Andisil SF 0.65 
+0.5-18% 
+ Nylon 0-12 
+0.5-20% 
+ Magnesium Aluminum Silicate 0.01-8% 
+ Dow Corning 9509 
+5-15% 
+ Astragalus 
+ 0.5-10% 
+ Licorice 
+ 3-12% 
+ Platinum Catalyst 
+0.05-14% 
+ Solubilisant LRI 
+5-8% 
+ Chrysanthemum 
+ 1-10% 
+ Ginseng 
+ 1-12% 
+ Kaolin 
+ 2-6% 
+ Nephrite Extract 
+0.05-7% 
+ Plantacare 81 SUP 
+1-8% 
+ Glycerine 99.7% 
+ 1 -12% 
+ 1 ,3 Butylene Glycol 
+1-17% 
+
+ Chitosan
+0 01-5% 
+ GELAIDÂ® 8205
+1-10% 
+ VQM 199-200 
+0.01 -7% 
+ Propylene Glycol I- 13% 
+ Matrixy] 3000 
+1 -5% 
+ Euxyl PE 9010 
+ 0.5-2.5% 
+F100-248-65-8 
+ KSG-15 
+ 0.5-12% 
+ KF-9008 
+ 1-7% 
+ AEROSILÂ® R 812 S 1-10% 
+ CHEMSIL K-27 0.5-8% 
+ Mirasil CM5 HP
+1-15% 
+ Dow CorningÂ® 1515 Gum 1-8% 
+ VOLASILâ¢ 8515
+2-10% 
+ Andisil XL- 10 
+0.01-8.5% 
+ Graphene complex 0.01-7% 
+ Andiform Cl 00 
+1-35% 
+
+ Mica S-25 0.01-2.5% 
+ CARESILâ¢- XG CXG - 1103 1-8% 
+ Xiameter 200 
+1-15% 
+ Titanium Dioxide 
+0.05-7% 
+ Aluminum Dioxide 
+0.5-7% 
+ Zirconium Dioxide 
+0.05-9% 
+COSMETIC FLUID 7007-DM 1-20% 
+ KoboGelâ¢ D5 Medium 1-15% 
+ HDKÂ® H30 
+0.5-3% 
+ Glycerine 99.7% 
+ 1-12% 
+ Mica S-25 
+0.15-5% 
+ Licorice 
+ 1-12% 
+ Astragulas 
+Platinum Catalyst 
+0.01-7.5% 
+ Nylon 10-12 
+1-8% 
+ Bronidox 1160 
+0.5-1.5% 
+ VOLASILâ¢ DM- 1.5 
+1-15% 
+
+ Dow CorningÂ® EP-9215 Cosmetic Powder 1-10% 
+ Xiameter 200 
+1-18% 
+ X-21-5666 
+ 1-15% 
+ Titanium Dioxide 
+0.05-7% 
+ Aluminum Dioxide 
+0.5-7% 
+ Zirconium Dioxide 
+0.05-9% 
+F100-251-48-9 
+ BELSILÂ® RG 100 
+0.5-20% 
+ Dow CorningÂ® 9546 
+1-18% 
+ AndisilÂ® VS 1000 
+1-10% 
+ Granpowder Silica 
+3-7% 
+ Kaoline 
+ 0.5-7% 
+ Aristoflex HMB 
+0.25-5% 
+ Graphene complex 
+0.05-12% 
+ Dow CorningÂ® AP-8087 Fluid 
+1-15% 
+ Andisil XL- 11 
+0.05-17% 
+ AEROSILÂ® R 106 
+1-10% 
+
+ SilCare Silicone 41M15 1-10% 
+ Gemtone Garnet G009 0.05-7% 
+ Euxyl PE 9010 
+0.5-2.5% 
+ Titanium Dioxide 
+0.05-7% 
+ Aluminum Dioxide 0.5-7% 
+ Zirconium Dioxide 0.05-9% 
+CMF655T4* 
+ 0.5-15% 
+ BELSILÂ® REG 1102 1-10% 
+ XiameterÂ® Pmx-1501 Fluid 2-8% 
+ GI CD- 10/11 
+1-15% 
+ EMULSILÂ® WO-5115 1-8% 
+ Nylon 10-12 
+0.5-12% 
+ Platinum Catalyst 
+0.05-7.5% 
+ Dow CorningÂ® 1515 Gum 1-9% 
+ Propylene Glycol 
+1-17% 
+ Glycerine 99.7% 
+ 3-10% 
+ 1 ,3 Butylene Glycol 
+
+ 1-20% 
+ Chrysanthemum Extract 1-8% 
+ Astragulas Extract 
+2-12% 
+ Xiameter 200 10 cSt 1-15% 
+ Kaoline Clay 
+0.25-5% 
+ Dow CorningÂ® Rm 2051 0.25-5% 
+ Titanium Dioxide 
+0.05-7% 
+ Aluminum Dioxide 
+0.5-7% 
+ Zirconium Dioxide 
+0.05-9% 
+F100-255-32-10 
+ Dow Corning MG7-9900A 0.5-25% 
+ AEROSILÂ® R 106 
+0.5-8% 
+ Dow CorningÂ® 3901 1-18% 
+ COSMETIC FLUID 9109-OH 1-20% 
+ Graphene complex 
+0.05-12% 
+ USG-103 
+ 1-15% 
+ Andisil XL- 17 
+0.05-10.5% 
+ Andisil CE-4 
+
+0.05-8%
+Xiameter 200 lOcSt 1-25% 
+ Titanium Dioxide 0.05-7% 
+ Aluminum Dioxide 0.5-7% 
+ Zirconium Dioxide 0.05-9% 
+Dow Corning MG7-9900B 1-25% 
+ Dow CorningÂ® 9045 5-22% 
+ SK-INFLUXÂ® V 
+1-15% 
+ Dow CorningÂ® Rm 2051 0.5-5% 
+ Dow CorningÂ® 670 fluid 1-15% 
+ Platinum Catalyst 0.05-12% 
+ Glycerine 99.7% 
+ 1-20% 
+ 1 ,3 Butytlene Glycol 1-18% 
+ Licorice Extract 
+1-12% 
+ Jujube Extract 
+1-17% 
+ Granpowder Silica 1-10% 
+ Propylene Glycol 1-17% 
+
+ Bronidox 1160 
+0.5-2.5% 
+ Titanium Dioxide 0.05-7% 
+ Aluminum Dioxide 0.5-7% 
+ Zirconium Dioxide 0.05-9% 
+F100-248-31-11 
+ Dow Corning MG7-9900A 1-15% 
+ Graphene complex 3-5-12% 
+ Andiform Cl 06 
+2.5-10% 
+ Dow CorningÂ® 9040 3-15% 
+ Andisil XL- 17 
+0.5-17% 
+ DC 9509 
+3-12% 
+ Xiameter 0244 
+1-15% 
+ Nephrite Powder Extract 0.05-8% 
+ Xiameter 345 
+1-18% 
+ Titanium Dioxide 0.2-9% 
+ Aluminum Dioxide
+0.5-12% 
+ Zirconium Dioxide 0.2-8% 
+
+ Dow Corning MG7-9900B 1-12% 
+ Dow CorningÂ® 9046 5-28% 
+ Dow CorningÂ® 9509 0.5-12% 
+ Platinum Cl 142AF 1-8% 
+ Glycerine 
+ 5-10% 
+ Butylene Glycol 
+3-12% 
+ Nylon 10-12 
+0.5-10% 
+ Xiameter 200 5cSt 1-18% 
+ Andisil lcSt 
+1-10% 
+ Astragulas Extract 5-12% 
+ VQM 199-200 
+0.05-5% 
+ Titanium Dioxide 0.05-7% 
+ Aluminum Dioxide 0.5-7% 
+ Zirconium Dioxide 0.05-9% 
+F100-279-23-12 
+ Dow CorningÂ® 9045 1-10% 
+ Cabosil TS-720 
+
+0.5-12% 
+ BOTANAGEN 
+ 1-8% 
+ CELL-U-LASHâ¢ 90 1-5% 
+ Andisil C300 1-15% 
+ Graphene complex 1-12% 
+ Dow CorningÂ® 3901 3-12% 
+ Xiameter 200 lOOcst 1-25% 
+ Xiameter 345
+1-7% 
+ Umicore CX11 0.5-10% 
+ Mica S-25 
+0.05-3.5% 
+ Silk Peptides 1-10% 
+ CHEMSIL K-27 5-15% 
+ Titanium Dioxide 0.05-9% 
+ Aluminum Dioxide 0.5-5% 
+ Zirconium Dioxide 0.05-7% 
+Dow CorningÂ® 9011 1-8% 
+ Dow CorningÂ® 9701
+2-5% 
+
+ Glycerine
+5-12% 
+ ELIGHT SDS 
+0.5-8% 
+ DL-PANTHENOL
+1-8% 
+ Dow CorningÂ® 9041
+1-17% 
+ Zeosil 215GR 
+ 2-5% 
+ Propylene Glycol 1-15% 
+ Butylene Glycol 
+5-10% 
+ SP-10-FS 
+ 1-15% 
+ SunSpheresâ¢ Powder 0.5-7% 
+ Umicore M22 
+ 2-6% 
+ XiameterÂ® Pmx- 1411 1-12% 
+ L- ASCORBIC ACID USP 1-5% 
+ VITAMIN E 
+1-10% 
+ LICORICE EXTRACT 
+1-12% 
+ Titanium Dioxide 0.05-5% 
+ Aluminum Dioxide
+0.5-8% 
+ Zirconium Dioxide 0.05-7% 
+
+ F100-321-75-13 
+ Dow CorningÂ® 9509 3-15% 
+ Dow CorningÂ® 3901 1-12% 
+ KoboGelâ¢ D5 Medium 1-18% 
+ Dow CorningÂ® 593 2-8% 
+ CHEMSIL K-51 3-16% 
+ Andsil XL- 17 
+1-12% 
+ Graphene complex 0.05-15.28% 
+ JEESILC PS-DMBF 1-10% 
+ Andisil CE13 
+1-8% 
+ Titanium Dioxide 0.05-3% 
+ Aluminum Dioxide 0.5-10% 
+ Zirconium Dioxide 0.05-5% 
+Dow CorningÂ® 9546 1-20% 
+ Dow CorningÂ® 3901 0.5-15% 
+ Dow CorningÂ® Pf-95l0 1-7% 
+
+ Butylene Glycol 
+ 1-15% 
+ Dow CorningÂ® 9040 
+3-12% 
+ Granpowder PSQ-Pt 
+ 1-7% 
+ Zinc Gluconate 
+1-8% 
+ Matrixyl 3000 
+ 2-7% 
+ Glycerine 
+ 1-15% 
+ Glycyrrhiza Uralensis (Licorice) Extract
+2-8% 
+ Zizyphus Jujuba Fruit Extract 
+ 3-9% 
+ Propylene Glycol 
+ 2-18% 
+ Titanium Dioxide 
+0.05-12% 
+ Aluminum Dioxide 
+0.5-8% 
+ Zirconium Dioxide 
+0.05-7% 
+F100-222-43-14 
+ Dow CorningÂ® Pf-95l0 
+ 3-12% 
+ AndisilÂ® CE-4 
+0.5-8% 
+ Dow CorningÂ® BY 11-030 
+1-9% 
+ JEESILC PS-CMBF 
+1-12% 
+
+ KSG-15 
+ 1-18% 
+ AndisilÂ® XL-1B 
+Cabosil TS-610 
+1-12% 
+ Graphene complex 
+0.5-8% 
+ EMULSILÂ® WO-3115 
+1-7.5% 
+ Nephrite Powder Extract 
+0.05-3% 
+ SMS-l SERICITE S 
+0.05-4.5% 
+ Euxyl PE 9010 
+1-5% 
+ Titanium Dioxide 
+0.05-11% 
+ Aluminum Dioxide 
+0.5-6% 
+ Zirconium Dioxide 
+0.05-5% 
+Dow CorningÂ® EL-9240 
+1-18% 
+ Dow Corning 9011 
+1-10% 
+ Dow CorningÂ® CE 8401 
+1-15% 
+ Xiameter 245 
+1-17% 
+ Astragulas Membranaceus Root Extract 1-18% 
+ Zizyphus Jujuba Fruit Extract 
+
+ 2-15% 
+ Glycerine 
+ 5-18% 
+ Cabosil TS-510 
+1-8% 
+ Glycyrrhiza Uralensis (Licorice) Extract
+1-13% 
+ Silk Amino Acid 
+ 2-5% 
+ Butylene Glycol 
+1-18% 
+ Silk Peptides 
+1-19% 
+ Platinum Catalyst 
+1-15% 
+ Tocopheryl Acetate 
+ 1-5% 
+ Zinc Gluconate 
+ 2-8% 
+ Bronidox 1160 
+1-5% 
+ Propylene Glycol 
+1-17% 
+ Titanium Dioxide 
+0.05-5.2% 
+ Aluminum Dioxide 
+0.5-10.8% 
+ Zirconium Dioxide 
+0.05-5.5% 
+F100-287-18-15 
+ USG-103 
+ 1-20% 
+ AndisilÂ® CE-500 
+
+1-5% 
+ JEESILC PS-DMLV 
+1-17% 
+ Xiameter 0.44 
+1-15% 
+ CHEMSIL K-61 
+1-12% 
+ SILICA SHELLS 
+1-11.5% 
+ Graphene complex 
+0.5-17% 
+ MSS-500 
+ 0.05-3.8% 
+ HDKÂ® VI 5 
+1-8% 
+ Dow CorningÂ® Toray FZ-2222 1-8% 
+ AndisilÂ® XL- 17 
+1-7% 
+ Bronidox 1160 
+1-5% 
+ GemtoneÂ® Garnet 
+0.05-5% 
+ EMULSILÂ® WO-3115 1-3.7% 
+ Titanium Dioxide 
+0.05-8.5% 
+ Aluminum Dioxide 
+0.5-12.5% 
+ Zirconium Dioxide 
+0.05-6.8% 
+Dow CorningÂ® 9040 
+1-20% 
+
+ Dow CorningÂ® 1515 Gum 
+1-15% 
+ Dow Corning 9509 
+1-12% 
+ Zizyphus Jujuba Fruit Extract 
+1-18% 
+ Chrysanthemum Extract 
+1-10% 
+ Glycyrrhiza Uralensis (Licorice) Extract 1-20% 
+ Butylene Glycol 
+1-18% 
+ Glycerine 
+ 1-13% 
+ Platinum Catalyst 
+1-12% 
+ Dow Corning TI-3011 
+3-15% 
+ XiameterÂ® Pmx-0344 
+1-18% 
+ EcoSenseâ¢ 919 
+1-20% 
+ Xiameter 345 
+1-12% 
+ Bronidox 1160 
+1-8% 
+ Titanium Dioxide 
+0.05-11% 
+ Aluminum Dioxide 
+0.5-7.5% 
+ Zirconium Dioxide 
+0.05-8% 
+
+ Clinical Vitro Studies: 
+ In clinical study, based upon 30 women tested, they use the transparent 2-step formulations only. The following 8 charts are the feedbacks from these 30-group of women after testing a sample product (17198 - Beyond Flawlessâ¢ Second Skin; formula # F100-245- 37-7).
+ I After using this Beyond Flawlessâ¢ Second Skin, my eye dark circles disappeared almost instantaneously, within minutes 
+Table 1: Response from 30 test participants on eye bag reduction 
+
+
+
+ s>2 After using this Beyond Flawlessâ¢ Second Skin, my eye dark 
+ circles disappeared immediately 
+Table 2: Response from 30 test participants on eye dark circle reduction 
+ 
+ 3 I feel comfortable wearing this Beyond Flawlessâ¢ 
+ Second Skin under my eyes, no allergic reaction 
+Table 3: Response from 30 test participants on allergy 
+ 
+ Q4 I wear this Beyond Flawlessâ¢ Second Skin under my eyes for at least 24-48 hours, it is invisible and there are no edges peeling off 
+Table 4: Response from 30 test participants on product mechanic issue 
+
+
+
+Q5 I wear this Beyond Flawlessâ¢ Second Skin under my eyes during the day, and there are no issues after I encountered water. Table 5 : Response from 30 test participants on water bearing issue 
+
+
+
+Q6 It is easy to apply this Beyond Flawlessâ¢ Second Skin under my eyes. 
+ After drying, it is easy to apply make-up powder 
+Table 6: Response from 30 test participants on makeup application 
+
+
+
+ After I apply this Beyond Flawlessâ¢ Second Skin under my eyes, I saw a reduction of my wrinkles and fine lines around my eyes 
+
+ Table 7 : Response from 30 test participants on reduction of 
+ wrinkles & fine lines around eyes 
+
+
+
+Q8 After I take off this Beyond Flawlessâ¢ Second Skin under my eyes, 
+ I feel the skin under my eyes is much hydrated 
+Table 8: Response from 30 test participants on hydration issue 
+
+
+
+It will be appreciated by persons skilled in the art that the present invention is not limited to what has been particularly shown and described. Rather, the scope of the present invention is defined by the claims which follow. It should further be understood that the above description is only representative of illustrative examples of embodiments. The description has not attempted to exhaustively enumerate all possible variations. The alternate embodiments may not have been presented for a specific portion of the invention, and may result from a different combination of described portions, or that other un-described alternate embodiments may be available for a portion, is not to be considered a disclaimer of those alternate embodiments. It will be appreciated that many of those un-described embodiments are within the literal scope of the following claims, and others are equivalent. 
+
+
+
+
+
+Claims
+
+
+ 1. A kit for improving skin aesthetic, comprising 
+ (a) a base component comprising graphene and a cross-linkable elastomer; 
+ (b) an activating component comprising an agent promoting or catalyzing the cross- linking of the elastomer. 
+
+
+ 2. The kit of claim 1, wherein the graphene is characterized by a flake size ranging from about 0.5 to about 20 nm and a thickness ranging from about 0.5 to about 10 nm. 
+
+
+ 3. The kit of claim 1, wherein the graphene ranges from about 0.01% to about 30% by weight in the base component. 
+
+
+ 4. The kit of claim 1, wherein the graphene ranges from about 0.05% to about 20% by weight in the base component. 
+
+
+ 5. The kit of claim 1, wherein the base component further comprises a hydride functionalized polysiloxane selected from the group consisting of hydride terminated polydimethylsiloxane; hydride terminated polyphenyl-(dimethylhydrosiloxy)siloxane; hydride terminated methylhydrosiloxane-phenylmethylsiloxane copolymer, and bis vinyl terminated polysiloxane. 
+
+
+ 6. The kit of claim 1, wherein the base component is substantially free of water. 
+
+
+ 7. The kit of claim 1 , wherein the cross-linkable elastomer is siloxane having a functional group for cross-linking. 
+
+
+ 8. The kit of claim 1, wherein the cross-linkable elastomer is vinyldimethicone. 
+
+
+ 9. The kit of claim 1, wherein the base component further comprises one or more agents selected from the group consisting of trisilo xane, disilo xane, dimethicone, and dimethiconol.
+
+
+10. The kit of claim 1, wherein the base component and / or the activating component further comprises a pressure sensitive adhesive selected from the group consisting of ethenyldimethylsilyl oxy and trimethylsilyl oxy modified silica, polydimethylsiloxane gum and resin. 
+
+
+ 11. The kit of claim 1 , wherein the agent for promoting cross-linking is a platinum catalyst.
+
+
+12. The kit of claim 1 , wherein the activating component further comprises one or more of trisiloxane, disiloxane, dimethicone, and dimethiconol. 
+
+
+ 13. The kit of claim 1, wherein the activating component further comprises a cross-linked vinyl dimethicone. 
+
+
+ 14. The kit of claim 1, further comprising in one or both of the base component and the activating component, one or more agents selected from the group consisting of feel modifiers, spreadability enhancers, adhesion modifiers, diluents, tack modifiers, optics modifiers, 
+
+ particles, volatile siloxanes, emulsifiers, emollients, surfactants, thickeners, solvents, film formers, humectants, preservatives and pigments. 
+
+
+ 15. The kit of claim 1, further comprising in one or both of the base component and the activating component, a reinforcing agent selected from the group consisting of mica, zinc oxide, titanium dioxide, aluminum oxide, clay, silica, fumed silica and multiple functional minerals. 
+
+
+ 16. The kit of claim 1, further comprising in one or both of the base component and the activating component, at least one of a cosmetic agent and a therapeutic agent. 
+
+
+ 17. The kit of claim 1, wherein the base component and the activating component are of translucent color or multiple tinted color. 
+
+
+ 18. A film for improving skin aesthetic, comprising graphene and cross-linked elastomer, wherein the graphene ranges from about 0.01% to about 30% by weight in the base component.
+
+
+19. The film of claim 18, wherein the graphene is a single layer or multiple layers. 
+
+
+ 20. A method of improving skin aesthetic, comprising 
+ (a) applying to skin the base component of claim 1; and 
+ (b) applying to the skin the activating component of claim 1. 
+
+
+ 21. A film formed by the method of claim 20. 
+
+
+ 22. A method of manufacturing the base component of claim 1 , comprising 
+mixing graphene with a cross-linkable elastomer, wherein the graphene ranges from about 0.01 % to about 30% by weight in the base component. 
+
+
+ 23. The method of claim 22, further comprising microwaving, vacuuming, ultrasonicating, and centrifuging the graphene before the mixing. 
+
+
+
+
+
+
+
+PCT/US2019/030898
+2018-05-04
+2019-05-06
+Pristine graphene and compositions with natural pressure sensitive adhesive (psa) method for over skin applications 
+       
+
+WO2019213656A1
+            (en)
+        
+
+Priority Applications (5)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+US17/052,897
+
+US20210145709A1
+                          (en)
+                      
+2018-05-04
+2019-05-06
+Pristine graphene and compositions with natural pressure sensitive adhesive (psa) method for over skin applications 
+     
+
+
+JP2021512364A
+
+JP2021523229A
+                          (en)
+                      
+2018-05-04
+2019-05-06
+
+  Compositions using natural graphene for skin application and the Natural Pressure Sensitive Adhesive (PSA) method
+ 
+     
+
+
+EP19796618.7A
+
+EP3787589A4
+                          (en)
+                      
+2018-05-04
+2019-05-06
+Pristine graphene and compositions with natural pressure sensitive adhesive (psa) method for over skin applications 
+       
+
+
+CN201980044645.6A
+
+CN112384189A
+                          (en)
+                      
+2018-05-04
+2019-05-06
+Pristine graphene for skin care and composition with natural pressure sensitive adhesive 
+       
+
+
+KR1020207034921A
+
+KR20210015838A
+                          (en)
+                      
+2018-05-04
+2019-05-06
+
+  Composition containing pure graphene, natural pressure sensitive adhesive (PSA), and method for application to the skin
+ 
+     
+
+
+
+Applications Claiming Priority (2)
+
+
+
+Application Number
+Priority Date
+Filing Date
+Title
+
+
+
+
+
+US201862667121P
+2018-05-04
+2018-05-04
+
+
+
+US62/667,121
+
+2018-05-04
+
+
+
+
+Publications (1)
+
+
+
+Publication Number
+Publication Date
+
+
+
+
+
+WO2019213656A1
+true
+WO2019213656A1
+                       (en)
+                   
+
+2019-11-07
+
+
+
+
+
+Family
+ID=68386960
+Family Applications (1)
+
+
+
+Application Number
+Title
+Priority Date
+Filing Date
+
+
+
+
+
+PCT/US2019/030898
+
+WO2019213656A1
+                          (en)
+                      
+
+2018-05-04
+2019-05-06
+Pristine graphene and compositions with natural pressure sensitive adhesive (psa) method for over skin applications 
+       
+
+
+
+Country Status (6)
+
+
+
+Country
+Link
+
+
+
+
+
+US
+                (1)
+              
+            
+
+
+US20210145709A1
+                  (en)
+              
+
+
+
+EP
+                (1)
+              
+            
+
+
+EP3787589A4
+                  (en)
+              
+
+
+
+JP
+                (1)
+              
+            
+
+
+JP2021523229A
+                  (en)
+              
+
+
+
+KR
+                (1)
+              
+            
+
+
+KR20210015838A
+                  (en)
+              
+
+
+
+CN
+                (1)
+              
+            
+
+
+CN112384189A
+                  (en)
+              
+
+
+
+WO
+                (1)
+              
+
+
+
+WO2019213656A1
+                  (en)
+              
+
+
+
+
+Cited By (3)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+CN112675097A
+              (en)
+            
+*
+
+2021-02-01
+2021-04-20
+å¦é¨ååè¯çç©ç§ææéå¬å¸
+Graphene-containing peony essence stock solution mask and preparation method thereof 
+       
+
+
+
+CN112675110A
+              (en)
+            
+*
+
+2021-01-08
+2021-04-20
+å¦é¨ååè¯çç©ç§ææéå¬å¸
+Graphene ginseng mask and preparation method thereof 
+       
+
+
+
+CN112716863A
+              (en)
+            
+*
+
+2021-02-22
+2021-04-30
+å¦é¨ååè¯çç©ç§ææéå¬å¸
+Graphene rose essence facial mask and preparation method thereof 
+       
+
+
+
+Citations (5)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US20110112234A1
+              (en)
+            
+*
+
+2008-06-24
+2011-05-12
+Basf Se
+Pigment mixtures 
+       
+
+
+
+US20120021293A1
+              (en)
+            
+*
+
+2007-05-08
+2012-01-26
+Aruna Zhamu
+Method of producing nano-scaled inorganic platelets 
+       
+
+
+
+US20140255329A1
+              (en)
+            
+*
+
+2011-11-03
+2014-09-11
+L'oreal
+Solid cosmetic composition in compact powder form 
+       
+
+
+
+WO2017083398A1
+              (en)
+            
+*
+
+2015-11-09
+2017-05-18
+Olivo Laboratories, Llc
+Compositions and methods for application over skin 
+       
+
+
+
+WO2017125819A1
+              (en)
+            
+*
+
+2016-01-18
+2017-07-27
+King Abdullah University Of Science And Technology
+Expansion and exfoliation of graphite to form graphene 
+       
+
+
+
+Family Cites Families (1)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US9441076B2
+              (en)
+            
+*
+
+2009-11-12
+2016-09-13
+The Trustees Of Princeton University
+Multifunctional graphene-silicone elastomer nanocomposite, method of making the same, and uses thereof 
+       
+
+
+
+
+
+2019
+
+
+2019-05-06
+EP
+EP19796618.7A
+patent/EP3787589A4/en
+not_active
+Withdrawn
+
+
+2019-05-06
+KR
+KR1020207034921A
+patent/KR20210015838A/en
+unknown
+
+
+
+2019-05-06
+WO
+PCT/US2019/030898
+patent/WO2019213656A1/en
+active
+Application Filing
+
+
+
+2019-05-06
+US
+US17/052,897
+patent/US20210145709A1/en
+not_active
+Abandoned
+
+
+2019-05-06
+JP
+JP2021512364A
+patent/JP2021523229A/en
+active
+Pending
+
+
+2019-05-06
+CN
+CN201980044645.6A
+patent/CN112384189A/en
+active
+Pending
+
+
+
+
+
+
+Patent Citations (5)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+US20120021293A1
+              (en)
+            
+*
+
+2007-05-08
+2012-01-26
+Aruna Zhamu
+Method of producing nano-scaled inorganic platelets 
+       
+
+
+
+US20110112234A1
+              (en)
+            
+*
+
+2008-06-24
+2011-05-12
+Basf Se
+Pigment mixtures 
+       
+
+
+
+US20140255329A1
+              (en)
+            
+*
+
+2011-11-03
+2014-09-11
+L'oreal
+Solid cosmetic composition in compact powder form 
+       
+
+
+
+WO2017083398A1
+              (en)
+            
+*
+
+2015-11-09
+2017-05-18
+Olivo Laboratories, Llc
+Compositions and methods for application over skin 
+       
+
+
+
+WO2017125819A1
+              (en)
+            
+*
+
+2016-01-18
+2017-07-27
+King Abdullah University Of Science And Technology
+Expansion and exfoliation of graphite to form graphene 
+       
+
+
+
+
+
+Non-Patent Citations (1)
+
+* Cited by examiner, â  Cited by third party
+
+
+Title
+
+
+
+
+
+See also references of EP3787589A4
+*
+
+
+
+
+
+Cited By (3)
+
+* Cited by examiner, â  Cited by third party
+
+
+Publication number
+Priority date
+Publication date
+Assignee
+Title
+
+
+
+
+
+
+CN112675110A
+            (en)
+          
+*
+
+2021-01-08
+2021-04-20
+å¦é¨ååè¯çç©ç§ææéå¬å¸
+Graphene ginseng mask and preparation method thereof 
+       
+
+
+
+CN112675097A
+            (en)
+          
+*
+
+2021-02-01
+2021-04-20
+å¦é¨ååè¯çç©ç§ææéå¬å¸
+Graphene-containing peony essence stock solution mask and preparation method thereof 
+       
+
+
+
+CN112716863A
+            (en)
+          
+*
+
+2021-02-22
+2021-04-30
+å¦é¨ååè¯çç©ç§ææéå¬å¸
+Graphene rose essence facial mask and preparation method thereof 
+       
+
+
+
+
+Also Published As
+
+
+
+Publication number
+Publication date
+
+
+
+
+
+
+JP2021523229A
+              (en)
+            
+
+2021-09-02
+
+
+
+KR20210015838A
+              (en)
+            
+
+2021-02-10
+
+
+
+EP3787589A4
+              (en)
+            
+
+2022-03-09
+
+
+
+EP3787589A1
+              (en)
+            
+
+2021-03-10
+
+
+
+CN112384189A
+              (en)
+            
+
+2021-02-19
+
+
+
+US20210145709A1
+              (en)
+            
+
+2021-05-20
+
+
+
+
+
+Similar Documents
+
+
+
+Publication
+Publication Date
+Title
+
+
+
+
+
+
+
+US20210145709A1
+                (en)
+              
+
+
+2021-05-20
+
+Pristine graphene and compositions with natural pressure sensitive adhesive (psa) method for over skin applications 
+     
+
+
+
+
+KR101699551B1
+                (en)
+              
+
+
+2017-01-24
+
+Cosmetic 
+       
+
+
+
+
+KR101699552B1
+                (en)
+              
+
+
+2017-01-24
+
+Cosmetic 
+       
+
+
+
+
+JP5878760B2
+                (en)
+              
+
+
+2016-03-08
+
+
+  Oily material thickener or gelling agent
+ 
+       
+
+
+
+
+US7407666B2
+                (en)
+              
+
+
+2008-08-05
+
+Linear silicone resins in personal care applications 
+       
+
+
+
+
+CN104546512B
+                (en)
+              
+
+
+2019-04-23
+
+The aqueous dispersions, silicone rubber particles, and cosmetics of silicone rubber particles 
+       
+
+
+
+
+JP5756344B2
+                (en)
+              
+
+
+2015-07-29
+
+
+  Novel liquid organopolysiloxane and use thereof
+ 
+     
+
+
+
+
+JP5708221B2
+                (en)
+              
+
+
+2015-04-30
+
+
+  Cosmetics containing a film-forming polymer
+ 
+     
+
+
+
+
+CA2879560C
+                (en)
+              
+
+
+2017-06-06
+
+Method and compositions for reducing pore size, and moisturizing and/or blurring appearance of defects on keratin surfaces 
+     
+
+
+
+
+JP6522638B2
+                (en)
+              
+
+
+2019-05-29
+
+
+  Cosmetic composition comprising a carboxy functional elastomer
+ 
+     
+
+
+
+
+JP2013151660A
+                (en)
+              
+
+
+2013-08-08
+
+Novel liquid organopolysiloxane and use thereof 
+       
+
+
+
+
+EP2194955A2
+                (en)
+              
+
+
+2010-06-16
+
+Silicone organic elastomer gels from organopolysiloxane resins 
+       
+
+
+
+
+JP2012046507A
+                (en)
+              
+
+
+2012-03-08
+
+Cosmetic for hair containing co-modified organopolysiloxane 
+       
+
+
+
+
+KR101902167B1
+                (en)
+              
+
+
+2018-10-01
+
+Cross-linked composition and cosmetic composition comprising the same 
+       
+
+
+
+
+CN105338956A
+                (en)
+              
+
+
+2016-02-17
+
+Cosmetic composition containing an oily phase comprising a silicone elastomer in dispersed aqueous droplets and a particular surfactant 
+       
+
+
+
+
+EP3242651A1
+                (en)
+              
+
+
+2017-11-15
+
+Composition, in particular a cosmetic makeup and/or care composition, comprising a lipophilic clay, from 1% to 10% by weight of mica and at least one non-cyclic silicone oil 
+       
+
+
+
+
+WO2017117438A1
+                (en)
+              
+
+
+2017-07-06
+
+Compositions and methods for improving the appearance of the skin 
+       
+
+
+
+
+GB2482774A
+                (en)
+              
+
+
+2012-02-15
+
+Silicon-based particle comprising encapsulated colorant 
+       
+
+
+
+
+JP2015113303A
+                (en)
+              
+
+
+2015-06-22
+
+Surface-treated powder, slurry composition containing the same, raw material for cosmetic and cosmetic 
+       
+
+
+
+
+EP3359122B1
+                (en)
+              
+
+
+2019-06-26
+
+Use of alkyl glycoside modified polysiloxanes in pure oil-based personal care products 
+       
+
+
+
+
+CN113194922A
+                (en)
+              
+
+
+2021-07-30
+
+Microemulsion composition, cured product thereof, and cosmetic containing same 
+       
+
+
+
+
+JP6614643B2
+                (en)
+              
+
+
+2019-12-04
+
+
+  Composition for emulsified cosmetics
+ 
+     
+
+
+
+
+JPWO2020075785A1
+                (en)
+              
+
+
+2021-09-02
+
+
+  Topical skin agent that gives a feeling of firmness
+ 
+     
+
+
+
+
+JP6614642B2
+                (en)
+              
+
+
+2019-12-04
+
+
+  Composition for makeup cosmetics
+ 
+     
+
+
+
+
+TW202203887A
+                (en)
+              
+
+
+2022-02-01
+
+Makeup application method 
+       
+
+
+
+
+
+Legal Events
+
+
+
+Date
+Code
+Title
+Description
+
+
+
+
+2019-12-18
+121
+Ep: the epo has been informed by wipo that ep was designated in this application
+
+
+Ref document number:
+              19796618
+
+
+Country of ref document:
+              EP
+
+
+Kind code of ref document:
+              A1
+
+
+
+
+2020-11-04
+ENP
+Entry into the national phase
+
+
+Ref document number:
+              2021512364
+
+
+Country of ref document:
+              JP
+
+
+Kind code of ref document:
+              A
+
+
+
+
+2020-11-05
+NENP
+Non-entry into the national phase
+
+
+Ref country code:
+              DE
+
+
+
+
+2020-12-04
+WWE
+Wipo information: entry into national phase
+
+
+Ref document number:
+              2019796618
+
+
+Country of ref document:
+              EP
+
+
+
+
+
+
+
+
+
+
+
+
+
+

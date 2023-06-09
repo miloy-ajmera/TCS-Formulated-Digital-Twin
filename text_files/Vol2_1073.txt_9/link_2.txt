@@ -1,0 +1,890 @@
+Document Name: role of OCtyl Methoxycinnamate in Protective Cream2
+Document link: https://biomeddermatol.biomedcentral.com/articles/10.1186/s41702-019-0048-9
+
+
+
+
+
+
+
+Antioxidants as stabilizers of UV filters: an example for the UV-B filter octylmethoxycinnamate | Biomedical Dermatology | Full Text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+                                        Explore journals
+                                    
+
+
+
+                                        Get published
+                                    
+
+
+
+                                        About BMC
+                                    
+
+
+
+                                My account
+                            
+
+
+
+
+
+
+
+
+
+
+
+Search all BMC articles
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biomedical Dermatology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Antioxidants as stabilizers of UV filters: an example for the UV-B filter octylmethoxycinnamate
+                        
+
+
+
+Download PDF
+
+
+
+
+
+Download ePub
+
+
+
+
+
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+Download ePub
+
+
+
+
+
+
+
+
+
+
+Review
+
+Open Access
+
+Published: 24 December 2019
+
+Antioxidants as stabilizers of UV filters: an example for the UV-B filter octylmethoxycinnamate
+Margarida Lorigo1 & Elisa Cairrao 
+            ORCID: orcid.org/0000-0002-4823-57011 
+
+Biomedical Dermatology
+volume 3, Article number: 11 (2019)
+            Cite this article
+
+
+
+
+7768 Accesses
+
+
+18 Citations
+
+
+1 Altmetric
+
+
+Metrics details
+
+
+
+
+AbstractBackgroundSunlight is one of the main harmful exogenous factors that induce the reactive oxygen species formation. The human skin is the first line of photoprotection against harmful exogenous factors, such as UV radiations. The topical application of sunscreens, containing UV-B filters, is widely used to protect against UV-induced damage. Octylmethoxycinnamate is the world’s most widely used UV-B filter in sunscreens. However, recent studies have demonstrated that this substance is an endocrine disruptor compound and with potential to damage DNA. Thus, the safety of this organic filter is a current concern for human health, and it was urgent to develop new photoprotective strategies. In this sense, due to the potential to neutralize the UV-induced free radicals, the use of antioxidants as UV filter stabilizers presented as a novel promising strategy.ResearchThe purpose of this review was to assess the use of antioxidants as stabilizers for UV-B filter octylmethoxycinnamate. For this, we discuss the chemical and physical characteristics of UV-B filter octylmethoxycinnamate, emphasizing the stability, photostability, and reactivity of this UV filter. The use of antioxidants in sunscreens will also be addressed, from a perspective of the main characteristics that allowed their use in sunscreen formulations. Then, the concomitant use of both was described from a historical and physical chemical perspective, always emphasizing the advantages and disadvantages of this association.ConclusionsThe combination of antioxidants with UV-B filter octylmethoxycinnamate in appropriated formulations represents a viable strategy to protect the human skin against UV-induced damage.
+BackgroundSunlight is one of the main harmful exogenous factors that induce the reactive oxygen species (ROS) formation. Infrared energy (above 760 nm), visible light (400–760 nm), and ultraviolet (UV) light (below 400 nm) are included in the sunlight spectrum (Petruk et al. 2018). UV radiations can be further divided in UV-C (200–290 nm), UV-B (290–320 nm), and UV-A (320–400 nm), from lowest to highest energy level. Photobiological effects in humans occur mainly due to UV-B and UV-A radiation exposures, since UV-C radiations cannot cross the Earth’s atmosphere (Maipas and Nicolopoulou-Stamati 2015; Mancebo et al. 2014). Contrarily, UV-B radiation represents 5–10% of all UV radiation reaching the Earth’s surface (Skotarczak et al. 2015), and the other 90–95% are UV-A radiation. Both radiations cause photobiological effects such as sunburn, pigmentation problems, synthesis of vitamin D3, immunosuppression, and carcinogenesis (Maipas and Nicolopoulou-Stamati 2015; Skotarczak et al. 2015; Touitou and Godin 2008) and damage to DNA and other cellular structures (Burnett et al. 2012; Mancebo et al. 2014; Touitou and Godin 2008). However, these photobiologic effects in humans are mainly due to UV-B radiation (Lopes and McMahon 2016; Nunes et al. 2018). For this reason, the use of UV filters in sunscreens has increased in the last decade as a photoprotection strategy (Krause et al. 2012; Lorigo et al. 2018).Octylmethoxycinnamate (OMC, also known by ethylhexylmethoxycinnamate or octinoxate) is the world’s most widely used UV-B filter in sunscreens. Due to its potential risks to damage DNA (Duale et al. 2010; Necasova et al. 2017; Sharma et al. 2017) associated to the demonstrated endocrine disruptor effects (Lorigo et al. 2019; Schlumpf et al. 2001; Schlumpf et al. 2004) in humans, the safety of this organic filter is a current concern for human health. Antioxidants have a potential to neutralize the UV-induced free radicals (Addor 2017; Dunaway et al. 2018), so their use as UV filter stabilizers is a novel photoprotective strategy (Galanakis et al. 2018; Wang et al. 2011).The purpose of this review was to assess the use of antioxidants as stabilizers for UV-B filter OMC. For this, a literature review was performed for the UV-B filter octylmethoxycinnamate photo-instability and for the protective role of antioxidants. Specifically, we discuss the chemical and physical characteristics of UV-B filter octylmethoxycinnamate, emphasizing the stability, photostability, and reactivity of this UV filter. The use of antioxidants in sunscreens will also be addressed, from a perspective of the main characteristics that allowed their use in sunscreen formulations. Then, in a final topic, the association of antioxidants with UV-B filter OMC was discussed. The concomitant use of both was described from a historical and physical chemical perspective, always emphasizing the advantages and disadvantages of this association.UV-B filter octylmethoxycinnamate photo-instabilityOctylmethoxycinnamate (OMC) is the world’s most widely used UV-B filter. OMC is present in more than 90% of personal care products (PCPs), including sunscreens (Zucchi et al. 2011), and is listed as an endocrine disruptor compound (EDC) by the European Union’s database (Lorigo et al. 2018; Sharma et al. 2017). This UV-B filter is an organic filter once its protective effects occur by absorbing high-energy photons of UV-B radiation (Burnett et al. 2012; Mancebo et al. 2014). OMC is a cinnamate which is part of the group of p-methoxycinnamic acid derivatives. This UV filter is characterized as being an aromatic compound with an unsaturated bond between the aromatic ring and the carboxyl group (Wang et al. 2016). Its maximum absorption peak occurs at a wavelength of λ = 311 nm, and its molar absorption coefficient (ε) is approximately 22.000–24.000 M−1 cm−1 (quite high) (Pangnakorn et al. 2007).In sunscreens, the OMC can be found only in E-OMC isomer (trans-isomer), while in other PCPs, it may be present in both isomers (E-OMC or Z-OMC) (Pegoraro et al. 2015). This UV-B filter is photo-unstable because, when exposed to sunlight, OMC undergoes a photo-isomerization of trans-isomer to cis-isomer as shown in Fig. 1, and loses efficiency as photoprotective agent (Miranda et al. 2014; Pattanaargson et al. 2004). Despite the known photo-isomerization of OMC, the topical application of this UV filter (alone, or in a UV-filter mixture) is well tolerated, with little or negligible skin irritation, adverse reactions (erythema, edema, papules, or vesicles), and phototoxic or photoallergenic effects (Benevenuto et al. 2015; Darvay et al. 2001; Duale et al. 2010; Tampucci et al. 2017). However, some authors reported an increased toxicity as a result of breakdown of OMC following UV irradiation (Butt and Christensen 2000; Duale et al. 2010; Hanson et al. 2015). This breakdown of OMC may result in cellular process interferences or in induction of oxidative damage on the human skin (Duale et al. 2010). When exposed to sunlight, both OMC isomers form photoproducts (4-methoxybenzaldehyde (4-MBA) and 2-ethylhexanol (2-EH)) that can further may dimerize in various cyclodimers (MacManus-Spencer et al. 2011). These photoproducts, including cyclodimers, have different levels of cellular toxicity and may even be more toxic than OMC itself (Duale et al. 2010; Stein et al. 2017). They can sensitize singlet oxygen (1O2) and lead to ROS formation, but this mechanism needs to be explored (Hanson et al. 2006; Hanson et al. 2015). Some toxicological and genotoxic studies reported that OMC-induced genotoxic effects for both isomers seems to be different (Necasova et al. 2017; Sharma et al. 2017). For example, studies on adult human liver stem cells and human lymphoblastoid cells demonstrated that cis-isomer causes a significantly higher DNA damage effects than trans-isomer (Sharma et al. 2017). Moreover, another study also showed that upon UV exposure, OMC significantly alters the gene expression of several genes and the expression of p53 protein (Duale et al. 2010).
+Fig 1.Photo-isomerization of E-OMC (trans-isomer) to Z-OMC (cis-isomer) when exposed to sunlightFull size imageIn summary, the photo-instability of UV-B filters is an urgent problem, and therefore, they have received special attention today. In the case of OMC, the potential risks of this organic filter for DNA damage associated with endocrine disrupting effects are a current concern for human health. In this sense, it was necessary to develop new formulations of sunscreens in order to stabilize these filters (such as OMC) and increase their protective effect, increasing their efficiency and safety. Thus, the use of formulations with antioxidant seems to achieve these characteristics, and their use is already a reality for the stabilization of this UV filter.Protective role of antioxidantsAntioxidants were defined by Sindhi et al. (2013) as any substance that in low concentrations can delay the oxidation of proteins, carbohydrates, lipids, and DNA (Sindhi et al. 2013). They can be natural or synthetic and are divided into three groups: the first line defence antioxidants which include superoxide dismutase, catalase, glutathione reductase, and some minerals (e.g. Se, Cu, Zn); the second line defence antioxidants which include glutathione, vitamins C and E, albumin, carotenoids, and flavonoids among others; and the third line defence antioxidants which include a complex group of repair enzymes for DNA and proteins, oxidized lipids, and peroxides (e.g. Protease, DNA repair enzymes, etc.). Thus, the antioxidants neutralize the effects of reactive oxygen species (Sindhi et al. 2013) that in a physiological process are produced in cellular metabolism, through a balance between free radicals and antioxidants. When there is an imbalance between these two components, the formation of ROS is favoured, and they may also participate in a pathological process known as oxidative stress (Petruk et al. 2018). This process is a set of multiple mechanisms that include protein and lipid alterations, induction of inflammation, immunosuppression, DNA damage, and activation of signalling pathways including gene transcription, cell cycle, proliferation, and apoptosis (Dunaway et al. 2018). Therefore, the ROS level regulation is crucial to maintain the normal skin homeostasis and oxidants, through a ROS-formation neutralizing, which can protect humans from certain diseases.As mentioned above, the exposure to ultraviolet light triggers rapid generate and increased ROS in skin cells, which consequent increase oxidative stress (Addor FASa 2017; Dunaway et al. 2018; Petruk et al. 2018). When this process occurs, the cell induces the transcription and translation of new enzymes involved in repair process. If the cell can neutralize the negative effects of stress injury, it will readapt, and the physiological antioxidants levels will be restored. Otherwise, in cases where stress is excessive or prolonged, the cell will not be able to recover and will undergo a programmed cell death (Petruk et al. 2018). This process is schematically illustrated in Fig. 2. Due to its potential to neutralize the UV-induced free radicals (Addor FASa 2017; Dunaway et al. 2018), the use of antioxidants to stabilize UV filters in sunscreens is a novel photoprotective strategy (Galanakis et al. 2018; Wang et al. 2011). This idea is attractive because there are two layers of protection in a single sunscreen. Firstly, UV filters offer their protection by absorbing and reflecting harmful UV rays from the skin (passive protection). Then, antioxidants increase the natural antioxidant reserves of the human body, which are then able to eliminate any ROS generated from UV that has passed through UV filters (active protection).
+Fig 2.Antioxidant response of the skin cells following oxidative stress injury. UV radiations increase the ROS levels, and oxidative stress occurs. When this process occurs, firstly, the endogenous antioxidants try to suppress the formation of ROS formation. Then, endogenous antioxidants cooperate with exogenous antioxidants and together suppress the propagation reactions. This cooperation induces the synthesis of new enzymes that will repair cell damage. Finally, if the cooperation is effective, the cell will survive after a period of re-adaptation, and the physiological antioxidants levels will be restored. Otherwise, in cases where stress is excessive or prolonged, the cell will not be able to recover and will undergo a programmed cell deathFull size imagePlants synthesize different kinds of natural antioxidant metabolites. In these sense, plants can be good allies, as these compounds can be used to protect the human skin (Galanakis et al. 2018). Some examples of these antioxidants are phenolic compounds, ascorbic acid, and carotenoids, derived from different plant species. These active compounds protect the skin by prevention of UV radiation penetration and reduction of inflammation and oxidative stress by inhibition of free radical reactions UV-induced in cells, and influence various pathways of survival signalling by modulation of endogenous antioxidant and inflammatory systems (Addor FASa 2017; Galanakis et al. 2018; Petruk et al. 2018). The topical application of antioxidants reduced UV-induced edema, epidermal hyperplasia, and overexpression of matrix metalloproteinases (MMP) (Katiyar et al. 1995; Vayalil et al. 2004). Moreover, the combinations of vitamins C and E and polyphenolic extracts also demonstrated photoprotective effects, including in humans (Camouse et al. 2009; Elmets et al. 2001; Li et al. 2009; Lin et al. 2005). Another study also reported that sunscreen-containing UV filters and antioxidants (spirulina and dimethylmethoxy chromanol) had a clear protective effect in the UV region, preventing UV-induced ROS generation in the skin (Souza et al. 2017).Please note that for this strategy to be effective against the ROS formation in the skin, antioxidants must penetrate the skin and remain active for several hours (at least the permeation time on the sun). Moreover, they must be photostable and active against different species of free radicals (Dunaway et al. 2018; Jung et al. 2012; Wang et al. 2011). The use of antioxidants in sunscreens can be a protection against photoinduced radical reactions, which occur naturally in any sunscreen due to activity of organic or inorganic UV filters. However, the antioxidant activity always depends on several factors: hydrophilic or lipophilic solubility, reactivity towards determined radical species, and radical inhibitory mechanisms. Therefore, the formulation is a crucial parameter for the generation and propagation of radicals. In this sense, it is important that the efficacy of each antioxidant be evaluated for each specific sunscreen (Jung et al. 2012).Association between antioxidants and UV-B filter octylmethoxycinnamateIn the constant development of photostable cosmetic products with a broad spectrum of sun protection and, at the same time, effective against UV-induced DNA damage, manufacturers have started to find several alternative strategies. One of them is the addition of antioxidants to the cosmetic formulations (Wang et al. 2011). Due to this strategy, to prevent or reduce the free radical-induced damage by solar irradiation, it is a strategy currently explored (Damiani et al. 2006a, 2006b). In this sense, several studies have tried to find and analyse the effect of the combination of some antioxidants with the UV-B filter OMC. A summary of these investigations can be seen in Table 1.
+Table 1 Types and effects of antioxidant stabilizers with UV-B filter octylmethoxycinnamateFull size tableMost of the research developed to date has focused on the addition of antioxidant supplements, such as vitamins C and E. The role of these compounds will be to stimulate the body’s natural reserves (the endogenous antioxidants) and, on the other hand, neutralize the ROS formation from intrinsic and extrinsic factors, such as cell metabolism or UV radiations, respectively (Wang et al. 2011). The first study, in 2003, was performed by Hanson and Clegg and demonstrated improvements in a sunscreen photoprotection (with OMC and avobenzone filters) through the bioconversion of these antioxidant supplements. Through the addition of bioconvertible antioxidants vitamin E acetate and sodium ascorbyl phosphate, there was a conversion of vitamins E and C, respectively. This bioconversion formed an antioxidant reservoir that deactivated the UV-induced ROS formation that has still passed through UV filters (Hanson and Clegg 2003).Other strategies that have been proposed to improve the sunscreen’s effectiveness against ROS formation was the synthesis of a compound, which in the same molecule would exhibit absorption capacity, such as a UV filter, and have the antioxidant capacities. For this, Damiani et al. (2006a, 2006b) proposed the combination of OMC with the piperidine nitroxide TEMPOL, which has antioxidant properties. The proposed combination reduced the UV-induced damage in the skin. Therefore, the authors suggest that novel sunscreen antioxidant or other nitroxide-based sunscreens in formulations may be good strategies to explore in the future (Damiani et al. 2006a, 2006b).In the same year, 2006, Wakefield and Stott showed that a cosmetic formulation with micronized titanium oxide (TiO (2)) and manganese-doped titanium oxide (TiO (2):Mn) particles, butyl methoxydibenzoylmethane (BMDM), OMC, and vitamins C and E has increased the UV filter retention and reduced ROS formation (Wakefield and Stott 2006). Another concern of the cosmetic industry is the development of formulations offering protection for both UV-A and UV-B radiations and, at the same time, having a reduced concentration of UV filters. Also, in these cases, the use of antioxidants seems to be an asset. A research study performed by Velasco et al. (2008) showed that a cosmetic formulation with OMC and rutin, an antioxidant flavonoid, induces a synergistic effect in relation to the sun protection factor UV-A and UV-B, once this antioxidant alone offers protection against UV-A radiation (Velasco et al. 2008). In the same year, the Damiani research group continues their work which was published in 2006 (Damiani et al. 2006a, 2006b) and synthesizes a novel ‘multi-active’ UV absorber, based on OMC in which the methoxy group has been replaced with a pyrrolidine nitroxide bearing antioxidant activity (Venditti et al. 2008). The results obtained were very interesting once this novel filter proved to be as photostable as OMC after UV-A exposure. Moreover, it not only acted as free radical scavenger, but also reduced the UV-A-induced lipid peroxidation in liposomes and cells and had comparable antioxidant activity to that of vitamin E and BHT (two antioxidants commonly used in skin care formulations). Also, a non-cytotoxic effect to the human skin fibroblasts was verified. This novel filter when combined with DHHB presented a concomitant reduction of UV-induced ROS damage. Thus, these results suggested that nitroxide/antioxidant-based UV absorbers can be a good challenge in reducing the number of ingredients in cosmetic formulations (Venditti et al. 2008).In 2008, Gaspar and Campos suggested that the presence of UV filters (like OMC) can be considered interesting for the reduction of skin irritation. The authors discovered that the most suitable formulation that meets these requirements is a formulation containing the combinations of vitamins A, C, and E with photostable UV filters (which contain OMC, benzophenone-3 (BP-3), and octocrylene (OC)) (Gaspar and Campos 2007). In 2010, the same author also reported that the photostabilizers (diethylhexyl 2,6-naphthalate (DEHN) and benzotriazolyl dodecyl p-cresol (BTDC)) influenced the stability of OMC associated with vitamins A and E. The photostabilizer BTDC was considered the best in formulations that contain OMC combined with both vitamins A and E (Gaspar and Patricia Maria Berardo 2010).In addition to research with antioxidant supplements (vitamins A, E, and C), other antioxidants were studied regarding the photostability of OMC (Gaspar and Campos 2007; Gaspar and Patricia Maria Berardo 2010; Wakefield and Stott 2006). For example, Scalia and Mezzena (2010) analysed the influence of quercetin (a flavonoid with the highest antioxidant activity) on the sunlight-induced degradation of the methoxydibenzoylmethane (BMDBM)-OMC sunscreen combination, under realistic conditions of use of sun-protective products. The authors demonstrated that low concentration of quercetin significantly reduced the photodegradation of the UV-A and UV-B filter combination (BMDBM/OMC), without altering the performance of the sunscreen preparation. Thus, it seems that this natural antioxidant promotes an increase of both UV filters’ photostability, reducing the UV-induced ROS formation. Comparative photodegradation studies demonstrated that low levels of quercetin were much more effective than the commonly used stabilizer, octocrylene, or other antioxidants such as vitamin E, for example. In summary, the authors suggest that due to its multiple effects as antioxidant, photostabilizer, and chelating agent, the incorporation of quercetin into BMDBM and OMC-containing cosmetic formulations is of utmost importance to improve efficacy and safety (Scalia and Mezzena 2010).Another worrying aspect is the lack of information about the effects of these formulations on the antioxidant defence, metalloproteinases, and inflammatory processes in the skin, as responses against UV radiations. This is important because UV radiation can decrease the endogenous levels of glutathione (GSH), one of the major endogenous defence mechanisms against ROS-induced UV radiation formation. In addition, this radiation increases the secretion of MMP, a family of proteolytic enzymes that contribute to skin photoaging and metastatic cell dissemination in skin carcinoma, degrading not only collagen but also elastin of the skin. An increase of the activity of myeloperoxidase (MPO), an inflammation biomarker, in the skin was also evidenced after exposure to UV radiation (Vilela et al. 2013). In this sense, a research performed by Vilela et al. (2013) showed that a cream gel formulation containing the UV filters BP-3, OMC, and octyl salicylate was not completely effective to protect the skin against GSH depletion, metalloproteinase-9 secretion, and the UV-induced inflammatory process. The results obtained by these authors highlight the importance of analysing the UV-altered biochemical parameters, to create new fully effective and protective formulations against UV-induced damage in the skin (Vilela et al. 2013). Moreover, cutaneous permeation is another aspect that cannot be overlooked when the topical application of sunscreens containing antioxidants is investigated (Freitas et al. 2015). In this sense, Freitas et al. (2015) demonstrated that formulations containing four UV filters (octocrylene, OMC, avobenzone, and bemotrizinole) and supplemented with trans-resveratrol (RES), beta-carotene (BTC), or both compounds in combination are advantageous for cutaneous penetration. The authors concluded this since BTC and BTC + RES presented improvements in the sunscreen safety by a reduction of delivery of UV filters in the study into the stratum corneum and viable epidermis (Freitas et al. 2015).In 2016, de Oliveira et al. (2016a, 2016b) de Oliveira et al. 2016a, 2016bof natural ingredients (such as rutin) for the improvements they can offer in sun protection effectiveness (de Oliveira et al. 2016a, 2016b; Peres et al. 2016). Firstly, the authors designed rutin-entrapped gelatin nanoparticles and associated them with UV filters, including OMC. The results were interesting because these nanoparticles were functionally characterized and presented themselves as a safe SPF enhancer in sunscreens, in association with UV filters such as the OMC. Specifically, the authors show that nanoparticles increased antioxidant activity by 74% relative to free-rutin solution. Moreover, an increase of 48% in SPF was achieved evidencing a synergistic effect between nanoparticles and filters. However, the results of photostability assays showed that this strategy cannot reduce OMC isomerization (de Oliveira et al. 2016a, 2016b). In another study of the same year, the authors also investigated the safety and efficacy of gelatin-based nanoparticles associated with UV filters, including OMC. The results showed that these nanoparticles are safe (in vivo and in vitro) and effective once they increase the antioxidant protection of the emulsions developed. However, the authors failed to improve SPF with rutin in the in the nanosized material (de Oliveira et al. 2016a, 2016b). Later, the same authors re-emphasized rutin as a promising bioactive compound candidate for improved photoprotection, demonstrating that rutin when applied to UV-B filters shows photoprotective gain (mainly UV-A) and has potential to eliminate ROS (Peres et al. 2016). Recently, in 2017, Azizoglu et al. (2017) proposed an emulsion formulated with melatonin-loaded elastic niosomes and OMC, in which the UV filter was accumulated on the upper skin while the antioxidant, melatonin, can penetrate deeper layers. The results showed that the proposed formulation had a high antioxidant activity and may be a promising dual therapy for UV-induced skin damage with co-delivery strategy (Azizoglu et al. 2017). In the same year, Bora et al. (2017) performed a pre-clinical study, with which the authors demonstrated that a sunscreen formulation comprising of four US FDA-approved UV filters (namely avobenzone, OMC, oxybenzone, titanium dioxide) along with melatonin and pumpkin seed oil is nontoxic and safe in animal models. The authors suggest that this formulation, with additional preclinical studies, may be a good candidate for further trials to establish its efficacy, tolerability, and applicability (Bora et al. 2017).ConclusionsUltraviolet radiations are one of the main factors to cause oxidative stress in our skin cells. Although the skin has endogenous antioxidant systems that allow it to protect itself, this protection is not 100% effective. The cosmetic industry has therefore tried to create new sunscreens containing UV filters to protect us. However, there are still some gaps that researchers are trying to overcome, namely that the UV-induced ROS formation is further stimulated when there is a previous absorption of sunscreens/solar filters. Another issue that concerns the scientific community is the photostability of these filters when exposed to UV radiations. When we focus on UV-B filter OMC—the world’s most widely used UV-B filter in sunscreens—we find it, worryingly, that none of these issues has a definite solution yet. Therefore, to answer these and many other issues, new strategies have been tested; one of them is the addition of antioxidants as stabilizers for UV filters. The goal is the same, to achieve more effective protection against the ROS formation (and consequent cellular damage) after exposure to UV radiation. At present, the combination of sunscreens or cosmetic formulations with UV filters and antioxidants is already at the consumer level. Several studies have attempted to make combinations between the OMC and numerous antioxidants; however, there are no formulations capable to protect 100% humans against the harmful effects of UV radiation. Thus, despite the advances in cosmetic formulations against all components of the solar spectrum, the need to dress clothing as protection, the sun exposure at times where rations are smaller, and the search of shade must be emphasized. In addition, the application of sunscreens is not always the most correct, so future formulations should take this into account, with more studies of penetration and bioavailability.In summary, the combination of antioxidants with UV-B filter octylmethoxycinnamate in appropriated formulations represents a viable strategy to protect the human skin against UV-induced damage; however, more studies are necessary to increase the knowledge concerning this problem and improve the quality of human life.
+Availability of data and materials
+Not applicable.
+Abbreviations2-EH:
+2-Ethylhexanol
+4-MBA:
+4-Methoxybenzaldehyde
+BMDBM:
+Butyl methoxydibenzoylmethane
+BMDBM:
+Methoxydibenzoylmethane
+BP-3:
+Benzophenone-3
+BTC:
+Beta-carotene
+EDC:
+Endocrine disruptor compound
+MMP:
+Matrix metalloproteinases
+OMC:
+Octylmethoxycinnamate
+RES:
+Trans-resveratrol
+ROS:
+Reactive oxygen species
+UV:
+Ultraviolet
+ReferencesAddor FASa. Antioxidants in dermatology. An Bras Derm. 2017;92:356–62.Article 
+    
+                    Google Scholar 
+                Azizoglu GA, Tanriverdi ST, Kose FA, Kirmizibayrak PB, Ozer O. Dual-prevention for UV-induced skin damage: incorporation of melatonin-loaded elastic niosomes into octyl methoxycinnamate pickering emulsions. AAPS PharmSciTech. 2017;18:2987–98.Article 
+    CAS 
+    
+                    Google Scholar 
+                Benevenuto CG, Guerra LO, Gaspar LR. Combination of retinyl palmitate and UV-filters: phototoxic risk assessment based on photostability and in vitro and in vivo phototoxicity assays. Eur J Pharm Sci. 2015;68:127–36.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Bora NS, Pathak MP, Mandal S, Mazumder B, Policegoudra R, Raju PS, Chattopadhyay P. Safety assessment and toxicological profiling of a novel combinational sunprotective dermal formulation containing melatonin and pumpkin seed oil. Regul Toxicol Pharmacol. 2017;89:1–12.Article 
+    PubMed 
+    CAS 
+    
+                    Google Scholar 
+                Burnett ME, Hu JDY, Wang SQ. Sunscreens: Obtaining adequate photoprotection. Dermatol Ther. 2012;25:244–51.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Butt ST, Christensen T. Toxicity and phototoxicity of chemical sun filters. Radiat Prot Dosimetry. 2000;91:283–6.Article 
+    CAS 
+    
+                    Google Scholar 
+                Camouse MM, Domingo DS, Swain FR, Conrad EP, Matsui MS, Maes D, Declercq L, Cooper KD, Stevens SR, Baron ED. Topical application of green and white tea extracts provides protection from solar-simulated ultraviolet light in human skin. Experimental dermatology. 2009;18:522–6.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Damiani E, Astolfi P, Cionna L, Ippoliti F, Greci L. Synthesis and application of a novel sunscreen-antioxidant. Free radical research. 2006a;40:485–94.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Damiani E, Rosati L, Castagna R, Carloni P, Greci L. Changes in ultraviolet absorbance and hence in protective efficacy against lipid peroxidation of organic sunscreens after UVA irradiation. J Photochem Photobiol B-Biol. 2006b;82:204–13.Article 
+    CAS 
+    
+                    Google Scholar 
+                Darvay A, White IR, Rycroft RJG, Jones AB, Hawk JL, McFadden JP. Photoallergic contact dermatitis is uncommon. Br J Dermatol. 2001;145:597–601.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                de Oliveira CA, Dario MF, Sarruf FD, Mariz IFA, Velasco MVR, Rosado C, Baby AR. Safety and efficacy evaluation of gelatin-based nanoparticles associated with UV filters. Colloid Surf B-Biointerfaces. 2016a;140:531–7.Article 
+    CAS 
+    
+                    Google Scholar 
+                de Oliveira CA, Peres DD, Graziola F, Chacra NAB, de Araujo GLB, Florido AC, Mota J, Rosado C, Velasco MVR, Rodrigues LM, et al. Cutaneous biocompatible rutin-loaded gelatin-based nanoparticles increase the SPF of the association of UVA and UVB filters. Eur J Pharm Sci. 2016b;81:1–9.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Duale N, Olsen AK, Christensen T, Butt ST, Brunborg G. Octyl methoxycinnamate modulates gene expression and prevents cyclobutane pyrimidine dimer formation but not oxidative DNA damage in UV-exposed human cell lines. Toxicol Sci. 2010;114:272–84.Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Dunaway S, Odin R, Zhou LL, Ji LY, Zhang YH, Kadekaro AL. Natural antioxidants: multiple mechanisms to protect skin from solar radiation. Front Pharmacol. 2018;9:14.Article 
+    CAS 
+    
+                    Google Scholar 
+                Elmets CA, Singh D, Tubesing K, Matsui M, Katiyar S, Mukhtar H. Cutaneous photoprotection from ultraviolet injury by green tea polyphenols. Journal of the American Academy of Dermatology. 2001;44:425–32.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Freitas JV, Praca FS, Bentley MV, Gaspar LR. Trans-resveratrol and beta-carotene from sunscreens penetrate viable skin layers and reduce cutaneous penetration of UV-filters. International journal of pharmaceutics. 2015;484:131–7.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Galanakis CM, Tsatalas P, Galanakis IM. Phenols from olive mill wastewater and other natural antioxidants as UV filters in sunscreens. Environ Technol Innov. 2018;9:160–8.Article 
+    
+                    Google Scholar 
+                Gaspar LR, Campos P. Photostability and efficacy studies of topical formulations containing UV-filters combination and vitamins A, C and E. International journal of pharmaceutics. 2007;343:181–9.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Gaspar LR, Patricia Maria Berardo G. A HPLC method to evaluate the influence of photostabilizers on cosmetic formulations containing UV-filters and vitamins A and E. Talanta. 2010;82:1490–4.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Hanson KM, Clegg RM. Bioconvertible vitamin antioxidants improve sunscreen photoprotection against UV-induced reactive oxygen species. J Cosmet Sci. 2003;54:589–98.CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Hanson KM, Gratton E, Bardeen CJ. Sunscreen enhancement of UV-induced reactive oxygen species in the skin. Free Radic Biol Med. 2006;41:1205–12.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Hanson KM, Narayanan S, Nichols VM, Bardeen CJ. Photochemical degradation of the UV filter octyl methoxycinnamate in solution and in aggregates. Photochem Photobiol Sci. 2015;14:1607–16.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Jung K, Seifert M, Herrling T. Antioxidants for the stabilization of sunscreen, vol. 138; 2012.
+                    Google Scholar 
+                Katiyar SK, Elmets CA, Agarwal R, Mukhtar H. Protection against ultraviolet-B radiation-induced local and systemic suppression of contact hypersensitivity and edema responses in c3h/hen mice by green tea polyphenols. Photochemistry and Photobiology. 1995;62:855–61.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Krause M, Klit A, Blomberg Jensen M, Soeborg T, Frederiksen H, Schlumpf M, Lichtensteiger W, Skakkebaek NE, Drzewiecki KT. Sunscreens: are they beneficial for health? An overview of endocrine disrupting properties of UV-filters. Int J Androl. 2012;35:424–36.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Li YH, Wu Y, Wei HC, Xu YY, Jia LL, Chen J, Yang XS, Dong GH, Gao XH, Chen HD. Protective effects of green tea extracts on photoaging and photommunosuppression. Skin Res Technol. 2009;15:338–45.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Lin FH, Lin JY, Gupta RD, Tournas JA, Burch JA, Selim MA, Monteiro-Riviere NA, Grichnik JM, Zielinski J, Pinnell SR. Ferulic acid stabilizes a solution of vitamins C and E and doubles its photoprotection of skin. J Investig Dermatol. 2005;125:826–32.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Lopes DM, McMahon SB. Ultraviolet radiation on the skin: a painful experience? CNS Neurosci Ther. 2016;22:118–26.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Lorigo M, Mariana M, Cairrao E. Photoprotection of ultraviolet-B filters: updated review of endocrine disrupting properties. Steroids. 2018;131:46–58.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Lorigo M, Quintaneiro C, Lemos MC, Martinez-de-Oliveira J, Breitenfeld L, Cairrao E. UV-B filter octylmethoxycinnamate induces vasorelaxation by Ca (2+) channel inhibition and guanylyl cyclase activation in human umbilical arteries. Int J Mol Sci. 2019;20.MacManus-Spencer LA, Tse ML, Klein JL, Kracunas AE. Aqueous photolysis of the organic ultraviolet filter chemical octyl methoxycinnamate. Environ Sci Technol. 2011;45:3931–7.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Maipas S, Nicolopoulou-Stamati P. Sun lotion chemicals as endocrine disruptors. Horm-Int J Endocrinol Metab. 2015;14:32–46.
+                    Google Scholar 
+                Mancebo SE, Hu JY, Wang SQ. Sunscreens a review of health benefits, regulations, and controversies. Dermatol Clin. 2014;32:427.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Miranda MS, da Silva LP, da Silva J. UV filter 2-ethylhexyl 4-methoxycinnamate: a structure, energetic and UV-vis spectral analysis based on density functional theory. J Phys Org Chem. 2014;27:47–56.Article 
+    CAS 
+    
+                    Google Scholar 
+                Necasova A, Banyiova K, Literak J, Cupr P. New probabilistic risk assessment of ethylhexyl methoxycinnamate: comparing the genotoxic effects of trans- and cis-EHMC. Environmental toxicology. 2017;32:569–80.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Nunes AR, Vieira IGP, Queiroz DB, Leal A, Morais SM, Muniz DF, Calixto JT, Coutinho HDM. Use of flavonoids and cinnamates, the main photoprotectors with natural origin. Adv Pharmacol Sci. 2018;9.Pangnakorn P, Nonthabenjawan R, Ekgasit S, Thammacharoen C, Wanichwecharungruang SP. Monitoring 2-ethylhexyl-4-methoxycinnamate photoisomerization on skin using attenuated total reflection Fourier transform infrared spectroscopy. Appl Spectrosc. 2007;61:193–8.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Pattanaargson S, Munhapol T, Hirunsupachot N, Luangthongaram P. Photoisomerization of octyl methoxycinnamate. J Photochem Photobiol A-Chem. 2004;161:269–74.Article 
+    CAS 
+    
+                    Google Scholar 
+                Pegoraro CN, Chiappero MS, Montejano HA. Measurements of octanol-air partition coefficients, vapor pressures and vaporization enthalpies of the (E) and (Z) isomers of the 2-ethylhexyl 4-methoxycinnamate as parameters of environmental impact assessment. Chemosphere. 2015;138:546–52.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Peres DA, de Oliveira CA, da Costa MS, Tokunaga VK, Mota JP, Rosado C, Consiglieri VO, Kaneko TM, Velasco MVR, Baby AR. Rutin increases critical wavelength of systems containing a single UV filter and with good skin compatibility. Skin Res Technol. 2016;22:325–33.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Petruk G, Del Giudice R, Rigano MM, Monti DM. Antioxidants from plants protect against skin photoaging. Oxid Med Cell Longev. 2018;11.Scalia S, Mezzena M. Photostabilization effect of quercetin on the UV filter combination, butyl methoxydibenzoylmethane-octyl methoxycinnamate. Photochemistry and Photobiology. 2010;86:273–8.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Schlumpf M, Cotton B, Conscience M, Haller V, Steinmann B, Lichtensteiger W. In vitro and in vivo estrogenicity of UV screens. Environ Health Perspect. 2001;109:239–44.Article 
+    CAS 
+    PubMed 
+    PubMed Central 
+    
+                    Google Scholar 
+                Schlumpf M, Schmid P, Durrer S, Conscience M, Maerkel K, Henseler M, Gruetter M, Herzog I, Reolon S, Ceccatelli R, et al. Endocrine activity and developmental toxicity of cosmetic UV filters - an update. Toxicology. 2004;205:113–22.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Sharma A, Banyiova K, Babica P, El Yamani N, Collins AR, Cupr P. Different DNA damage response of cis and trans isomers of commonly used UV filter after the exposure on adult human liver stem cells and human lymphoblastoid cells. Sci Total Environ. 2017;593:18–26.Article 
+    PubMed 
+    CAS 
+    
+                    Google Scholar 
+                Sindhi V, Gupta V, Sharma K, Bhatnagar S, Kumari R, Dhaka N. Potential applications of antioxidants – a review. J Pharm Res. 2013;7:828–35.CAS 
+    
+                    Google Scholar 
+                Skotarczak K, Osmola-Mankowska A, Lodyga M, Polanska A, Mazur M, Adamski Z. Photoprotection: facts and controversies. Eur Rev Med Pharmacol Sci. 2015;19:98–112.CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Souza C, Maia Campos P, Schanzer S, Albrecht S, Lohan SB, Lademann J, Darvin ME, Meinke MC. Radical-scavenging activity of a sunscreen enriched by antioxidants providing protection in the whole solar spectral range. Skin pharmacology and physiology. 2017;30:81–9.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Stein HV, Berg CJ, Maung JN, O'Connor LE, Pagano AE, MacManus-Spencer LA, Paulick MG. Photolysis and cellular toxicities of the organic ultraviolet filter chemical octyl methoxycinnamate and its photoproducts. Environ Sci Process Impacts. 2017;19:851–60.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Tampucci S, Burgalassi S, Chetoni P, Monti D. Cutaneous permeation and penetration of sunscreens: formulation strategies and in vitro methods. Cosmetics. 2017;5:1.Article 
+    CAS 
+    
+                    Google Scholar 
+                Touitou E, Godin B. Skin nonpenetrating sunscreens for cosmetic and pharmaceutical formulations. Clin Dermatol. 2008;26:375–9.Article 
+    PubMed 
+    
+                    Google Scholar 
+                Vayalil PK, Mittal A, Hara Y, Elmets CA, Katiyar SK. Green tea polyphenols prevent ultraviolet light-induced oxidative damage and matrix metalloproteinases expression in mouse skin. The Journal of investigative dermatology. 2004;122:1480–7.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Velasco MVR, Balogh TS, Pedriali CA, Sarruf FD, Pinto C, Kaneko TM, Baby AR. Rutin association with ethylhexyl methoxycinnamate and benzophenone-3: In vitro evaluation of the photoprotection effectiveness by reflectance spectrophotometry. Latin Am J Pharm. 2008;27:23–7.CAS 
+    
+                    Google Scholar 
+                Venditti E, Spadoni T, Tiano L, Astolfi P, Greci L, Littarru GP, Damiani E. In vitro photostability and photoprotection studies of a novel ‘multi-active’ UV-absorber. Free radical biology & medicine. 2008;45:345–54.Article 
+    CAS 
+    
+                    Google Scholar 
+                Vilela FMP, Fonseca YM, Vicentini F, Fonseca MJV. Sunscreen protection against ultraviolet-induced oxidative stress: Evaluation of reduced glutathione levels, metalloproteinase secretion, and myeloperoxidase activity. Pharmazie. 2013;68:872–6.CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Wakefield G, Stott J. Photostabilization of organic UV-absorbing and anti-oxidant cosmetic components in formulations containing micronized manganese-doped titanium oxide. J Cosmet Sci. 2006;57:385–95.CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Wang J, Pan L, Wu S, Lu L, Xu Y, Zhu Y, Guo M, Zhuang S. Recent advances on endocrine disrupting effects of UV filters. Int J Environ Res Public Health. 2016;13.Article 
+    CAS 
+    PubMed Central 
+    
+                    Google Scholar 
+                Wang SQ, Osterwalder U, Jung K. Ex vivo evaluation of radical sun protection factor in popular sunscreens with antioxidants. Journal of the American Academy of Dermatology. 2011;65:525–30.Article 
+    PubMed 
+    CAS 
+    
+                    Google Scholar 
+                Zucchi S, Oggier DM, Fent K. Global gene expression profile induced by the UV-filter 2-ethyl-hexyl-4-trimethoxycinnamate (EHMC) in zebrafish (Danio rerio). Environ Pollut. 2011;159:3086–96.Article 
+    CAS 
+    PubMed 
+    
+                    Google Scholar 
+                Download referencesAcknowledgementsNot applicable.FundingMargarida Lorigo acknowledges the doctoral incentive grant (BID) financed by the multiannual program contract of patronage UBI-Santander Totta (BID/FCS/2018). This work was also supported by FEDER funds through the POCI-COMPETE 2020—Operational Programme Competitiveness and Internationalisation in Axis I-Strengthening Research, Technological Development and Innovation (Project POCI-01-0145-FEDER007491) and National Funds by FCT—Foundation for Science and Technology (Project UID/Multi/00709/2019).Author informationAuthors and AffiliationsCICS-UBI, Health Sciences Research Centre, University of Beira Interior, Av. Infante D. Henrique, 6200-506, Covilhã, PortugalMargarida Lorigo & Elisa CairraoAuthorsMargarida LorigoView author publicationsYou can also search for this author in
+                        PubMed Google ScholarElisa CairraoView author publicationsYou can also search for this author in
+                        PubMed Google ScholarContributionsEC identified the need for this review. ML designed the manuscript. EC and ML analysed the data, reviewed the literature, and wrote the manuscript. EC critically reviewed the manuscript. Both authors read and approved the final manuscript.Corresponding authorCorrespondence to
+                Elisa Cairrao.Ethics declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Additional informationPublisher’s NoteSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Rights and permissions
+Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Reprints and PermissionsAbout this articleCite this articleLorigo, M., Cairrao, E. Antioxidants as stabilizers of UV filters: an example for the UV-B filter octylmethoxycinnamate.
+                    biomed dermatol 3, 11 (2019). https://doi.org/10.1186/s41702-019-0048-9Download citationReceived: 17 September 2019Accepted: 14 November 2019Published: 24 December 2019DOI: https://doi.org/10.1186/s41702-019-0048-9Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+                            Provided by the Springer Nature SharedIt content-sharing initiative
+                        KeywordsUV radiationDNA damageReactive oxygen species (ROS)Endocrine disruptor compoundSunscreensPhotoprotection
+
+
+
+
+
+
+
+Download PDF
+
+
+
+
+
+Download ePub
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biomedical Dermatology
+
+ISSN: 2398-8460
+
+
+Contact us
+
+Submission enquiries: Access here and click Contact Us
+General enquiries: info@biomedcentral.com
+
+
+
+
+
+
+
+
+
+
+
+
+Read more on our blogs
+
+
+Receive BMC newsletters
+
+
+Manage article alerts
+
+
+Language editing for authors
+
+
+Scientific editing for authors
+
+
+
+
+Policies
+
+
+Accessibility
+
+
+Press center
+
+
+
+
+Support and Contact
+
+
+Leave feedback
+
+
+Careers
+
+
+
+
+Follow BMC
+
+
+
+BMC Twitter page
+
+
+
+
+
+
+
+BMC Facebook page
+
+
+
+
+
+
+
+BMC Weibo page
+
+
+
+
+
+
+
+
+
+            By using this website, you agree to our
+            Terms and Conditions,
+            California Privacy Statement,
+            Privacy
+                statement and
+            Cookies policy.
+            
+                Manage cookies/Do not sell my data we use in the preference centre.
+            
+        
+
+
+
+
+
+ © 2023 BioMed Central Ltd unless otherwise stated. Part of
+            Springer Nature.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

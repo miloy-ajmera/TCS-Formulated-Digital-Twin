@@ -1,0 +1,910 @@
+Document Name: role of Hylucare 1% in Protective Cream1
+Document link: https://epdf.pub/download/rheology-modifiers-handbook-practical-use-and-applilcation-materials-and-process.html?reader=1
+
+
+
+
+
+
+Rheology Modifiers Handbook: Practical Use and Applilcation (Materials and Processing Technology) - PDF Free Download
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home
+ Add Document
+ Sign In
+ Register
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		    		Rheology Modifiers Handbook: Practical Use and Applilcation (Materials and Processing Technology)    	    
+
+Home 
+Rheology Modifiers Handbook: Practical Use and Applilcation (Materials and Processing Technology)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				    RHEOLOGY MODIFIERS HANDBOOK Practical Use and Application
+
+by David B. Braun
+
+Meyer R. Rosen
+
+Interactive Consulting In...				
+
+Author: 
+David D. Braun |  Meyer R. Haber 
+
+
+
+ 410 downloads
+ 4583 Views
+ 2MB Size
+ Report
+
+
+
+				This content was uploaded by our users and we assume good faith they have the permission to share this book. If you own the copyright to this book and it is wrongfully on our website, we offer a simple DMCA procedure to remove your content from our site. Start by pressing the button below!
+				 Report copyright / DMCA form
+
+
+
+
+
+
+ DOWNLOAD PDF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						    RHEOLOGY MODIFIERS HANDBOOK Practical Use and Application  by David B. Braun  Meyer R. Rosen  Interactive Consulting Inc. East Norwich, New York  William Andrew Publishing Norwich, New York, USA  Copyright by William Andrew Publishing Llbrary of Congress Catalog Card Number: 99-32076 ISBN: 0-8155-1441-7 Prlnted In the United States Published In the United States of America by Willlam Andrew Publishing 13 Eaton Avenue, Norwich, New York 13815 10987654321  Library of Congress Cataloging-in-Publication Data Rheology modifiers handbook: practical use & application / by David B. Braun and Meyer R. Rosen. p. cm. Includes bibliographical references and index. ISBN 0-8155-1441-7 1. Rheology. I. Rosen, Meyer R. II. Title. TP156.R45 B73 2000 99-32076 660’ .29--dc21 CIP CIP  About The Authors David B. Braun As a research and development scientist, David B. Braun has worked in a broad spectrum of industries and technologies for many years These industries include rubber, plastics, pulp and papermaking, mining, ceramics, cosmetics and pharmaceuticals. Mr. Braun’s R&D activities have spanned a wide variety of consumer and industrial products employing rheology modifiers. David has written numerous technical papers for presentation to various professional organizations associated with these industries. He is also the author of two books relating to the pharmaceutical industry; Over-the-Counter Pharmaceutical Formulations and Pharmaceutical Manufacturers–A Global Directory, both published by Noyes Publications. He is also the author of chapters in the Third Edition of the Kirk-Othmer Encyclopedia of Chemical Technology published by John Wiley & Sons and Handbook of Water-soluble Gums and Resins published by McGraw-Hill, Inc. In addition, Mr. Braun has been awarded 11 United States and numerous worldwide patents. He was a member of several professional societies and is currently an Associate in the consulting firm, Interactive Consulting, Inc.1 He can be contacted at (508) 430-0815 or E-mail [email protected]  ii  Meyer R. Rosen Meyer R. Rosen, DABFE, CChem, CPC, CChE, DABFET is President of Interactive Consulting, Inc., East Norwich, N.Y.1 He is a Fellow of the Royal Society of Chemistry (London); Vice President of the Association of Consulting Chemists and Chemical Engineers, a Director of The American Institute of Chemists and a Fellow of the American College of Forensic Examiners. Mr. Rosen consults for much Fortune 500 corporations involved in the development, optimization and quality control of new and existing products in the consumer, household, cosmetic, industrial, pharmaceutical and medical areas. He holds 21 US Patents and also writes regularly for the Focus Reports Section of Chemical Market Reporter and for Global Cosmetic Industry. Meyer’s interests include customized market research, analysis and development, technical writing and consultation to attorneys in technical product litigation. His broad fields of expertise include water-soluble polymers and their applications, organosilicones, and the creative application of fundamental surface, interfacial and rheological science for the solution of technical and business problems in the use and application of specialty chemicals. 1  P.O. Box 66, East Norwich, NY 11732, USA. Tel: (516) 922-2167, FAX: (516) 922-3830 E-mail: [email protected]  iii  Acknowledgements Meyer R. Rosen acknowledges Selma M. Rosen, his beloved wife and soul mate for her commitment to him in all things. The authors thank Mr. Milton Mendez for his careful attention to detail regarding the number of Greek letters, superscripts, subscripts and equations found in part 1 of the text.  iv  Contents  Page Part 1 Practical Rheology 1. Introduction 2. Special Characteristics of Dispersions and Emulsions 3. Three Schools of Rheological Thinking 4. Thinking Rheo-logically 5. Definitions 6. Types of Flow Behavior 7. Characterization of Non-Newtonian Flow: Mathematical Models and Experimental Methods 8. Viscometry; Instrumentation and Use 9. Summary 10. Symbols and Abbreviations 11. References  49 64 65 67  Part 2 Commercially Available Rheology Modifiers Introduction 1. Acrylic Polymers 2. Cross-linked Acrylic Polymers 3. Alginates 4. Associative Thickeners 5. Carrageenan 6. Microcrystalline Cellulose 7. Carboxymethylcellulose Sodium 8. Hydroxyethylcellulose 9. Hydroxypropylcellulose 10. Hydroxypropylmethylcellulose 11. Methylcellulose 12. Guar & Guar Derivatives 13. Locust Bean Gum 14. Organoclay  71 74 81 89 94 99 106 109 114 119 121 128 132 138 141  v  2 6 9 12 14 19 27  Part 2 Commercially Available Rheology Modifiers 15. Polyethylene 16. Polyethylene Oxide 17. Polyvinyl Pyrrolidone 18. Silica 19. Water-swellable Clay 20. Xanthan Gum  Page 151 157 161 167 174 184  Part 3 Selecting the Best Candidates Introduction 1. For Food Applications 2. For Pharmaceutical Applications 3. For Personal Care Applications 4. For Household/Institutional Applications  194 199 213 222 243  Part 4 Formulary Introduction 1. Food Formulations 2. Pharmaceutical Formulations 3. Personal Care Formulations 4. Household/Institutional Formulations  259 261 297 340 425  Appendix A Suppliers of Viscometers and Other Rheological Instruments  489  Appendix B Trade Name Directory  498  Appendix C Suppliers of Rheology Modifiers  502  vi  Preface Rhe•ol•o•gy \rē-!ä-lə-jē\ n : a science dealing with the deformation and flow of matter (fluids in this text) Merriam Webster’s Collegiate Dictionary, 10th Edition  Rheology Modifier : A material that alters the rheology of fluid compositions to which it is added Authors  Rheology modifiers seem to be almost as ubiquitous as plastics. Most of us regularly consume them in the food and pharmaceuticals we use. Cosmetic creams, lotions, nail polish and liquid make-up also usually contain rheology modifiers to achieve proper application characteristics. We clean our kitchens, baths, floors and automobiles with products that frequently contain these important ingredients. Even the paint we apply to walls and woodwork contains these useful additives. These are only a few of the applications of rheology modifiers. They may be multi-functional agents in these applications, providing such desirable effects as viscosity, the ability to suspend insoluble ingredients, emulsion stability, anti-sag and vertical surface cling, for example. During our lengthy careers in the Research and Development Departments of major chemical companies, we were frequently confronted with the need to select a rheology modifier for use in the application we were working on. This was invariably a long, arduous task requiring review of the technical literature of numerous suppliers of rheology modifiers to determine which types of products would be suitable for the application. This was followed by contact with those companies that supplied the desired products to obtain their latest technical literature and product recommendations. Finally, we would pare the list of potential candidates from hundreds to perhaps a few dozen. vii  But we often wondered why there existed no rheology modifier sourcebook, i.e., a single volume that would enable me to easily identify the best candidates for the application with a minimum investment of time. This handbook is our attempt to correct that deficiency. Our goal is to bring together, in one volume, the information that a researcher needs to select the best rheology modifier candidates for his/her project, whether it is a food, pharmaceutical, cosmetic or household/industrial application. It includes information on twenty different chemical types of rheology modifiers, from acrylic polymers to xanthan gum, manufactured by twenty-six chemical companies around the world. This handbook is divided into four major parts: Part I reviews of the basic concepts of rheology and its measurement from a practical standpoint. This is information the researcher needs to compare the performance of various rheology modifiers in the intended application. Part II presents details about the many commercial products of each chemical type that are available from the twenty-six companies represented in this book. The products are arranged alphabetically, first by chemical type, then by supplier’s name and finally by trade name. An attempt has also been made to differentiate products in a given product line. Over 1000 commercial products are included in this Part. Part III focuses on the important step of selecting the most suitable rheology modifier candidates. It summarizes the applications for which each type of rheology modifier is recommended so that the user of this handbook can immediately identify which types are recommended for the intended application. It also covers regulatory issues that the user should be familiar with when choosing a product for use in a food or pharmaceutical application. At this point, it is prudent for the user to contact the suppliers of the best candidates to get their recommendation for the products in their line which are the most suitable for the intended application. viii  Part IV is a formulary containing the contributions of the product suppliers. These 227 starting formulations are arranged by industry; food, pharmaceutical, cosmetic and household/industrial. They are designed to show which rheology modifiers are recommended for various applications and how they are normally incorporated into a formulation. Following these four major parts, are three appendixes that provide the names, addresses, telephone and FAX numbers, Internet Web Page locations and E-mail addresses for the suppliers of rheological instruments and suppliers of rheology modifiers represented in this book. Also appended is a trade name directory indicating the owners of trade names that appear in this handbook. The authors hope this book will enable researchers to reduce the time required to select the best rheology modifiers for an intended application from a matter of days to a matter of hours. David B. Braun Meyer R. Rosen  ix  Part 1 Practical Rheology Contents Page 1. Introduction  2  2. Special Characteristics of Dispersions And Emulsions  6  3. Three Schools of Rheological Thinking  9  4. Thinking Rheo-logically  12  5. Definitions  14  6. Types of Flow Behavior  19  7. Characterization of Non-Newtonian Flow: Mathematical Models and Experimental Methods  27  8. Viscometry; Instrumentation and Use  49  9.  64  Summary  10. Symbols and Abbreviations  65  11. References  67  1  2  Rheology Modifier Handbook  1. Introduction In the first section of Part 1 we introduce the basics of Practical Rheology. This includes examples of products and processes that employ rheological measurement as well as a concise summary of ASTM viscosity test procedures describing the characterization of a broad range of materials. The second section of Part 1 describes the more common types of flow behavior. This includes methods for measuring rheological properties and describing complex flow behavior with a minimum of useful parameters. The use of such tools and techniques allows rheological measurement to be used as an effective tool for the characterization of a broad range of industrial fluids. The discussion concludes with a description of several of the more common viscometers. Appendix A contains a partial listing of viscometer manufacturers and contact information as well as some of the viscometric instruments they manufacture. A wide variety of useful industrial products and processes require tailormade flow properties as an integral part of product performance requirements. Effective control of such properties relies heavily on a knowledge of the effect of formulation and process variables as well as an ability to measure and characterize meaningful flow property information. Rheology modifiers play a significant role in achieving desirable flow characteristics and this handbook describes the properties of all the major types as well as their practical use and application. Examples of some of the wide variety of products and processes which rely on rheological characterization include food products, pharmaceuticals, biological fluids and a host of miscellaneous materials. In the food category, rheological phenomena are important for tomato juice, dehydrated potato granules, soft serve ice milk and microcrystalline cellulose thickeners. Also included in this category are single cell protein concentrates, milk coagulation, chocolate, dressings and sauces. In the biological area, work has been done on blood, serum, exocrine secretions, sweat, duodenal fluid and synovial fluid.  Practical Rheology  3  Among the many miscellaneous applications for rheology we find asphalts, hevea latex, aerated poultry waste and livestock slurry characterization. The list continues with color cosmetics, lubricants, clay gellants, black liquor (paper processing) and ceramics. Also included are one-fire glazes, enamel slips, thick film ceramic pastes and dental impression materials. Other examples include solder paste, molten glass, high titanium oxide slags and blast furnace slags. Coconut oil liquid soaps are also characterized rheologically as well as vinyl plastisols, urethane foam prepolymers, inks, paper coatings, high solids coatings and solvent based coatings. The American Society of Testing Materials (ASTM) has provided standards of control and testing for many years. The use of Practical Rheology is clearly evident in the breadth and scope of the kinds of products and processes which benefit from rheological characterization. One of the authors is a member of several standards-making committees and is well apprised of the wide variety of industry specialists involved in setting up useful, working standards. While the individual reader of this work may be specifically focused upon a certain industry, or type of product, the authors feel that a succinct overview of the kinds of materials which have benefited will be of value in setting the stage for generating a powerful view of what Practical Rheology is and can be. In the Petroleum field the ASTM provides tests for testing of rubberized tar (D 2994-77), and coal tar (D 1665, D 1669-51 and D 5018-89). In the heavy petroleum end there are tests for unfilled asphalts (D 4402-87), asphalt emulsion resins (D 4957-95) and asphalt roof coatings (D 4479). Other rheological tests in the asphalt area include D 2170, D 3205, D 3791-90, D 244, D 2161 and D 4957. Bitumen rheology tests for nonNewtonian systems are described in D 4957. Testing of lubricating greases (D 3232-88), aircraft turbine lubricants (D 2532-93) and engine oils (D4684) are also covered as well as roofing bitumens in D 4989-90. ASTM has tests for hydrocarbon oils such as fuel oil pumpability (D 3245), lubricating oils (D 2270) and engine oils (D 5133 and D 5293). Testing of hydraulic fluids is described in D 6080 and automotive fluid lubricants are tested in D 2983-87. Oil standards are described in D 2162.  4  Rheology Modifier Handbook  Rubber testing in the carbon black industry is conducted using D 4483, rubber latexes in D 5605 and D 1417. SBR latexes are covered in D 3346 and prevulcanized rubber testing in D 1646. Ammonia-preserved (concentrated) creamed and centrifuged natural rubber latex testing is described in D 1076-88 while rheological testing of synthetic rubber latexes is described in D 1417-90. The field of polymers has numerous ASTM tests for characterization and control. Some of these include tests for Hydroxyethylcellulose (D 236485), Ethylcellulose (D 914-72), Sodium Carboxymethylcellulose (D 1439-83), and Hydroxypropylcellulose (D 5400-93). Hydroxypropylmethylcellulose testing is shown in both D 3346-90 and D 2363. Polymer-containing fluid testing is described in D 3945 while tests for polyols are shown in D 4989-91. Polyethylene terephthalate rheology testing is described in D 4603-96 and epoxy resin evaluation is described in D 2393-86. Polyamide rheology testing is covered in D 789. Common products such as chemical grouts are evaluated rheologically in D 4016-81 as are printing inks and their vehicles (D 4040-96), grout for pre-placed aggregate concrete (C 939-87) and glass, above its softening point (C 965-81). Paint testing is covered in D 1084-88 and D 562-81. Varnishes for electrical testing are described in D 115-85 and emulsion polymers for floor polishes are covered in D-3716-83. Liquid-applied neoprene and chlorosulfonated polyethylene in roofing water proofing is described in D 3468-93. Adhesives testing is available in D 1084-88 and D 4300-83. Testing of hot melt adhesives is described in D 3236-88 and hot melts made from petroleum waxes with additives are covered in D 2669-87. Mold powder testing above the melting point is shown in C 1276. Miscellaneous rheological testing is available from the ASTM for tall oil (D 803), clear liquids (D 1545), crude or modified isocyanates for polyurethanes (D 4889-93), volatile and reactive liquids (D 4486-91) and plastisols and organosols (D 1823 and D 1824). Still other ASTM rheology tests exist for solid propellants, starch and solder paste.  Practical Rheology  5  Having reviewed the host of rheological testing described by the ASTM. One can see the great value of rheology evaluation across a broad spectrum of industries. We turn our attention now to the use of rheology in the cosmetic and toiletry industry. Most of the products on the market today in this market are emulsions (either of the oil-in-water or water-inoil types), aqueous suspensions or a combination of the two. Many skin care creams and lotions are oil-in-water emulsions, while liquid makeup formulations are suspensions of pigments in an oil-in-water emulsion. Antidandruff shampoos are usually suspensions. Certain organosilicones are highly effective dispersants for pigments used in color cosmetics.  6  Rheology Modifier Handbook  2. Special Characteristics of Dispersions and Emulsions The following quote is reprinted by permission of Brookfield Engineering Laboratories from Section 4.7.4 of it’s technical manual(53), More Solutions to Sticky Problems- A Guide to Getting More from Your Brookfield Viscometer. This manual has had worldwide distribution for over 20 years and has become a standard in the industry. Meyer R. Rosen, the co-author of this handbook, was a contributing author to this Brookfield Manual. “Dispersions and emulsions, which are multiphase materials consisting of one or more solid phases dispersed in a liquid phase, can be affected rheologically by a number of factors. In addition to many of these discussed previously, characteristics peculiar to multiphase materials are also significant to the rheology of such materials. One of the major parameters to study is the state of aggregation of the sample material. Are the particles that make up the solid phase separate and distinct or are they clumped together; how large are the clumps and how tightly are they stuck together? If the clumps (i.e. flocs) occupy a large volume in the dispersion, the viscosity of the dispersion will tend to be higher than if the floc volume was smaller. This is due to the greater force required to dissipate the solid component of the dispersion. When flocs are aggregated in a dispersion, the reaction of the aggregates to shear can result in shear-thinning (pseudoplastic) flow. At low shear rates, the aggregates may be deformed but remain essentially intact. As the shear rate is increased, the aggregates may be broken down into individual flocs, decreasing friction and therefore, viscosity. If the bonds within the aggregates are extremely strong, the system may display a yield value. The magnitude of the yield value depends on the force required to break these bonds and is often critical in suspending materials within the formulation. If a material’s flocculated structure is destroyed with time as it is sheared, a time-dependent type of flow behavior will be observed. If the  Practical Rheology  7  shear rate is decreased after some or all of the flocculated structure is disrupted, the material’s viscosity may be lower than it previously was at the same shear rate. Since flocs begin to link together after destruction, the rate at which this occurs affects the time required for viscosity to attain previous levels. If the re-linking rate is high, viscosity will be about the same as before. If the re-linking rate is low, viscosity will be lower. This results in the rheological behavior called ‘Thixotropy’. The attraction between particles in a dispersed phase is largely dependent on the type of material present at the interface between the dispersed phase and the liquid phase. This in turn affects the rheological behavior of the system. Thus, the introduction of flocculating or deflocculating agents into a system is one method of controlling its rheology. The shape of the particles making up the dispersed phase is also of significance in determining a system’s rheology. Particles suspended in a flowing medium are constantly being rotated. If the particles are essentially spherical, rotation can occur freely. If, however, the particles are needle- or plate-shaped, the ease with which rotation can occur is less predictable, as is the effect of varying shear rates. The stability of a dispersed phase is particularly critical when measuring the viscosity of a multiphase system. If the dispersed phase has a tendency to settle, producing a non-homogeneous fluid, the rheological characteristics of the system will change. In most cases, this means that the measured viscosity will decrease. Data acquired during such conditions will usually be erroneous, necessitating special precautions to ensure that the dispersed phase remains in suspension.” (53) The cosmetic chemist is faced with the formidable task of combining a number of different cosmetic ingredients (frequently ten or more) to form a stable composition with the desired flow characteristics, application properties and aesthetics. Having accomplished the task in the laboratory, it must then be scaled up to production sized batches without losing any of the desired performance characteristics. Thereafter, the product quality must be controlled to ensure that each production batch is the same.(57)  8  Rheology Modifier Handbook  It is common practice to measure the viscosity of a cosmetic composition and use this property as a quality control parameter. A single viscosity measurement at a single shear rate (or spindle speed if using a Brookfield Viscometer) does not provide adequate definition of the rheology of the composition. This is because the cosmetic product is exposed to a broad spectrum of shear fields during preparation, packaging and eventual use by the consumer. For example, the use of a centrifugal pump to transport the product from the mixing tank to the packaging station involves exposure to high shear inside the pump. The act of pouring the composition from the container is a low shear process, but spreading the product on the skin involves high shear. Since many cosmetic suspensions and emulsions display pseudoplastic rheology, it is important to measure and control the viscosity over a range of shear rates. In order to address the issues described above, the flow properties of such materials may be described both qualitatively and quantitatively. Although the mathematics of rheology can be extremely complex, a qualitative appreciation for these phenomena may be gained by observing some common materials. For example, toothpaste acts like a liquid when the tube is squeezed, but acts like a solid when squeezing ceases. Some paints flow onto a wall easily but do not drip from a brush or flow down the wall. Initial stirring of a latex paint can be difficult, but will become easier as stirring continues. On cessation of stirring, the paint thickens with passing time. Qualitative observations such as those above can be quite useful for describing the great variety of flow properties typically encountered. However, to those concerned with producing and controlling such properties, a more quantitative approach is necessary. According to Section 1.3 of reference (53), “there are three schools of thought on viscosity measurement”. We present them here and invite you to decide which you belong to, remembering that there is no “right” one and that each school has its merits at certain times.  Practical Rheology  9  3. Three Schools of Rheological Thinking A. Pragmatic School “The first school of thought is the most pragmatic. The person who adheres to this school cares only that the Brookfield Viscometer generates numbers that tell something useful about a product or process. This person has little or no concern about rheological theory and measurement parameters expressed in absolute terms. Quality control and plant production applications are typical of this category. B. Theoretical School The second school of thought involves a more theoretical approach. Those adhering to this school know that some types of Brookfield Viscometers will not directly yield defined shear rates and absolute viscosities for non-Newtonian fluids. However, these people often find that they can develop correlations of ‘dial viscosity’ with important product or process parameters. Many people follow this school of thought. The applications rheology literature is replete with statements along the line of ‘I know the data isn’t academically defined, but I keep this fact in mind and treat the multi-point rheology information as if it were.’ In many cases, this produces eminently satisfying results and eliminates the necessity of buying a highly sophisticated and very expensive piece of rheological equipment. C. Academic School The third school of thought is quite academic in nature. People adhering to this school require that all measurement parameters, particularly shear rate and shear stress, be defined and known. They need equipment with defined geometries. Examples from the Brookfield line would be the Wells-Brookfield Cone/Plate Viscometer and the UL Adapter, Small Sample Adapter and the Thermosel accessories. With this equipment, the shear rate is defined and accurate absolute viscosity is obtained directly.  10 Rheology Modifier Handbook This then, is our view of the three schools of thought on viscosity measurement. You may need to think in terms of any or all of these depending on your background, approach, goals and type of equipment available. Brookfield users fall into all three categories.” (53) Before plunging into an understanding of a variety of mathematical models by which the rheological behavior of many practical systems may be characterized, we ask the reader to consider the question, “Why make rheological measurements?” We quote from Section 1.1 of Brookfield’s, More Solutions To Sticky Problems “Anyone beginning the process of learning to think rheologically must first ask the question, ‘Why should I make a viscosity measurement?’ The answer lies in the experiences of thousands of people who have made such measurements, showing that much useful behavioral and predictive information for various products can be obtained. This information is in addition to knowledge of the effects of processing, formulation changes, aging phenomena, etc. It is the knowledgeable analysis of appropriate rheological data that is the heart of what we have termed ‘Practical Rheology.’ A frequent reason for the measurement of rheological properties can be found in the area of quality control where raw materials must be consistent from batch to batch. For this purpose, flow behavior is an indirect measure of product consistency and quality. Another reason for making flow behavior studies is that a direct assessment of processibility can be obtained. For example, a high viscosity liquid requires more power to pump than a low viscosity one. Knowing its rheological behavior, therefore, is useful when designing pumping and piping systems. It has been suggested that rheology testing is the most sensitive method for material characterization because flow behavior is responsive to properties such as molecular weight and molecular weight distribution. This relationship is useful in polymer synthesis, for example, because it allows relative differences to be seen without making molecular weight measurements.  Practical Rheology 11 Rheological measurements are also useful in following the course of a chemical reaction. Such measurements can be employed as a quality check during production or to monitor and/or control a process. Rheological measurements allow the study of chemical, mechanical and thermal treatments, the effects of additives, or the course of a curing reaction. They are also a way to predict and control a host of product properties, end-use performance and material behavior.”(53) It should be clear at this juncture that “Practical Rheology” is a powerful part of the tools and methods used by the industrial scientist in a wide variety of fields.  12 Rheology Modifier Handbook  4. Thinking Rheo-Logically “To begin a more in-depth study of Practical Rheology consider the question, ‘Can some rheological parameter be employed to correlate with an aspect of the product or process?’ To determine this, an instinct must be developed for the kinds of chemical and physical phenomena that affect the rheological response. For the moment, assume this information is known and several possibilities have been identified. The next step is to gather preliminary rheological data to determine what type of flow behavior is characteristic of the system under consideration. At the most basic level, this involves making measurements with whichever Brookfield Viscometer is available and drawing some conclusions based on the descriptions of flow behavior types to follow later. Once the type of flow behavior has been identified, more can be understood about the way components of the system interact. The data thus obtained may then be fitted with one of the many mathematical models that have been successfully used. These mathematical models range from the very simple to the very complex. Some of them merely involve the plotting of data and just looking at it; others require calculating the ratio of two numbers. Some are quite sophisticated and require the use of computer-generated regression analysis. This kind of analysis is the best way for getting the most from your data. It often results in one or two “constants” which summarize the data and can be related to product or process performance. Once your system can be characterized by a few “constants” you can then change the formulation, arrange it, for example and determine how the “constants” change as a result of what you did. In this way, your rheological data indeed becomes a practical tool for assessing changes you make while developing or optimizing your system. With this approach comes the birth of “Practical Rheology.” Once a correlation has been developed between your rheological data and your product data, the procedure can be reversed and rheological data may be used to predict performance and behavior.”(53) With this ground to stand on, we offer an understanding of the more quantitative and extremely powerful methodology available for the practical  Practical Rheology 13 application of rheology to industrially useful and commercially significant products and systems.  14 Rheology Modifier Handbook  5. Definitions Consider the system shown in Figure 1.1. Fluid is contained between two parallel plates of area A cm2, separated by a distance X cm. A force F (dynes) is applied to the upper, movable plate and it attains a constant velocity V cm/sec. Since the bottom plate is stationary, the liquid may be considered to consist of several layers, each of which move at a different velocity between zero (at the stationary plate) and V cm/sec at the movable plate. If the liquid is under simple laminar shear, the following definitions can be made: Shear Stress τ = Force/Area = F/A dynes/cm2  (1)  Shear Rate γ = Velocity/Distance between the plates = V/X = cm/sec x 1/cm =  (2)  γ = 1/sec (or sec-1) Coefficient of Viscosity η = shear stress/shear rate η = τ/γγ η=  Force/Area Velocity/distance  (3) = dyne • sec cm2  Since one dyne is equivalent to one (gm • cm)/sec2, the coefficient of viscosity has the dimensions of mass/ (length x time).  Practical Rheology 15  Figure 1.1: Defining the Coefficient of Viscosity Redrawn from (56) by permission of John Wiley and Sons, Inc.  This coefficient is usually expressed in Poise and represents the resistance of the fluid to flow. The inverse of the coefficient of viscosity is sometimes used and is known as the fluidity (1). One Poise equals 100 centipoise (cP) and 1 centipoise equals 1 milliPascal•second (mPas). In the US, centipoise is the commonly used unit while milliPascal•seconds is commonly used in most other nations. When the shear stress is applied by the pressure of the liquid upon itself, the resistance to flow is expressed as the kinematic viscosity ν and has dimensions of stokes. Kinematic viscosity = ν = Coefficient of Viscosity (Poise) (4) Density of the Fluid (gm/cc) The coefficient of viscosity may be defined in two ways: as a “differential viscosity” or as an “apparent viscosity”. The difference between these can be seen in Figure 1.2.  16 Rheology Modifier Handbook  Figure 1.2 Definition of “Apparent” and “Differential” Viscosity A. “Differential” and “Apparent” Viscosity The “differential” viscosity is equal to the slope of the shear stress versus shear rate curve at some point A (or the tangent of the angle θ). The “apparent” viscosity is equal to the slope of a line that connects the origin with a given point A on the shear stress versus shear rate curve (or the tangent of the angle φ). Of the two methods for expressing the coefficient of viscosity, the “apparent viscosity” is usually chosen. This is because an “apparent” viscosity is easily measured at one fixed shear rate while a “differential” viscosity requires measurements at several shear rates followed by measurement of the slope at the shear rate of interest. B. Newtonian Fluids A Newtonian fluid has a constant coefficient of viscosity. A plot of shear stress versus shear rate results in a straight line which passes through the origin. In this case, the “differential viscosity” and the “apparent viscosity” are identical. In a Newtonian fluid, therefore, the coefficient of viscosity is known simply as the viscosity. Since the viscosity is a constant and independent of shear rate, one measurement serves to completely characterize the system.  Practical Rheology 17 C. Non-Newtonian Fluids Many of the fluids normally dealt with are non-Newtonian in behavior. A plot of shear stress versus shear rate results in a curve rather than a straight line. The coefficient of viscosity in such systems is different at each point on the shear stress versus shear rate curve. By treating this flow resistance data as if it were apparently Newtonian, at each point on the curve (i.e., using the tangent of the angle φ- see Figure 1.2), the “apparent viscosity” can be determined and will be seen to vary with the shear rate chosen. This variation of apparent viscosity can be particularly important when comparing the “thickening” behavior of two high molecular weight water-soluble polymers. One polymer may have a higher apparent viscosity than the other at a low shear rate, but a lower apparent viscosity at a high shear rate. It is obvious, therefore, that the measurement of a single apparent viscosity has little significance if the fluid is non-Newtonian. In such systems, it is not only necessary to measure viscosity at more than one shear rate, but the values must be in the range which is important for the particular application. (2) (Figure 1.3) A good example of this is the flow behavior of a paint since sagging occurs at a shear rate of about 0.01 sec –1 but brushing or rolling occurs at a shear rate of about 10,000 sec –1.  Figure 1.3 The Importance of Shear Rate for the Flow Behavior of a Paint Other examples(39) include the very low shear rate which occurs with the sedimentation of fine powders in a suspending liquid, for example, in color cosmetics, medicines and paints (10-6 to 10-4 sec –1), leveling due to surface tension effects, as in paints and printing inks (10-2 to 10-1 sec–1) and draining under gravity, as in paints and coatings as well as toilet bleaches (10-1-101 sec-1).  18 Rheology Modifier Handbook  Continuing up the spectrum of increasing shear rate, other examples of flow behavior include the extrusion of polymers (100-102 sec-1); chewing and swallowing of foods (101-102 sec–1), dip coating with paints and confectionery (101-102 sec–1) and mixing or stirring while manufacturing liquids (101-103 sec –1). At still higher shear rates, examples of flow behavior include pipe flow and blood flow (100-103 sec-1). Other examples of flow behavior at these higher shear rates include spray drying, painting, fuel atomization (103104 sec–1). In the personal care area, the shear rate associated with rubbing, as occurs in the application of creams and lotions to the skin is 104-105 sec-1. At the highest range of shear rate, an example of flow behavior is milling of pigments in fluid bases. This include paints and printing inks (103-105 sec –1 ), high speed paper coating (105-106 sec–1) and gasoline engine lubrication (103-107 sec –1).  Practical Rheology 19  6.Types of Flow Behavior Fluids exhibit several types of rheological behavior. These are presented in increasing order of the complexity of experimental technique required to measure them. The discussion below is restricted to simple shear flow and does not include normal stress phenomena or viscoelasticity. Excellent descriptions of these phenomena may be found elsewhere.(3) Flow behavior can be represented both graphically and numerically. Graphical depiction, or rheograms, are generally presented for any two of three parameters: apparent viscosity, shear rate and shear stress. The most common of these are plots employing shear rate and shear stress or those employing apparent viscosity and shear rate. Each type of plot is useful in certain situations. The former type of plot can be thought of more as a “raw data” plot, while the latter type directly presents the effect of shear rate on flow resistance. The various types of behavior can be broadly divided into two classifications: Time Independent and Time Dependent flow (see Figure 1.4 and Figure 1.11).  Figure 1.4 Types of Time Independent Flow Behavior  20 Rheology Modifier Handbook A. Time Independent Flow 1. Newtonian Flow The simplest type of time independent flow is Newtonian behavior. A Newtonian fluid is independent of both time and rate of shear. Some examples include water, solvents, dilute suspensions and silicone oil. Two graphical ways of describing this type of behavior are presented in Figure 1.5. It should be noted that the Newtonian model describes an idealized type of flow. In many systems, a material may exhibit Newtonian behavior over a wide range of shear rate, but may, surprisingly, demonstrate nonNewtonian behavior outside of that range. A good example of this is silicone oil, which is used as a standard viscosity fluid! According to Johnson, (41) silicone oil of a given molecular weight is Newtonian until high shear rate is attained. At this point, viscosity decreases with further increase of shear rate.  Figure 1.5 Newtonian Flow 2. Shear Thinning (Pseudoplastic) Flow A second type of time independent flow is the decrease of apparent viscosity with shear rate. This is known as Shear Thinning behavior, or Pseudoplasticity. Shear Thinning is a common behavior and is exhibited by concentrated polymer solutions, paints, and dispersed systems such as latex, inks and emulsions. Such behavior occurs when a system possesses structure that can be reversibly broken down as a stress is applied and then removed. Typical rheograms are shown in Figure 1.6.  Practical Rheology 21  Figure 1.6 Shear Thining Flow It will be noticed in Figure 1.6 that the slope of the shear stress-shear rate curve (or the apparent viscosity) increases rapidly as the shear rate approaches zero. In many cases, extrapolation of the curve to zero shear rate results in a positive intersection on the shear stress axis. This intercept is known as the yield stress. A fluid which has a positive intercept and a linear shear stress - shear rate function is said to exhibit ideal plastic flow and is known as a Bingham body. The rheogram for this type of flow is shown in Figure 1.7. The apparent viscosity is seen to  Fig 1.7 Bingham Body Flow approach infinity (i.e., a solid) as the shear rate approaches zero. The fluid acts like an elastic solid if the applied shear stress is below the critical shear stress, or yield stress.(8) If the stress exceeds the yield value, the material acts like a fluid. An apparent plastic viscosity can be defined using Equation (5).  22 Rheology Modifier Handbook Apparent Plastic Viscosity = (τ - τyield)/γγ  (5)  Experimentally, it is difficult to establish the yield values and even if they exist at all. This is because the shear stress - shear rate relationship must be determined down to very low values of shear rate and the increasing rate of curvature makes extrapolation to zero shear rate highly inaccurate. In some cases, materials are assigned yield values by extrapolation, when in fact they are actually shear thinning. To overcome these problems, several definitions have been proposed. Houwink (9,10) has defined a lower yield value, A and an upper yield value, C (Figure 1.8). The lower yield value is the extrapolated intersection with the shear stress axis and the upper yield value refers to the stress at which linear flow is established. Extrapolation of the linear portion of the line to zero shear rate determines B, the Bingham yield value. Some examples of systems which exhibit a yield stress include latex paint, cake frosting, certain types of ketchup and weakly crosslinked gels.  Figure 1.8 Shear Dependent Fluids with a Yield Stress Another definition of yield stress requires a linear dependence of shear stress on shear rate and the slope of the shear stress - shear rate function is one parameter of the Bingham model (Figure 1.9).  Practical Rheology 23  Figure 1.9 Definitions of Yield Value Non-linear, time independent variations of this are Shear Thinning and Shear Thickening fluids that have a yield stress. Examples of these can also be seen in Figure 1.9. 3. Shear Thickening (Dilatant) Flow A third type of time independent flow behavior is that exhibited by the Shear Thickening (or Dilatant) fluid. In this case, the apparent viscosity increases reversibly as the shear rate increases. Such behavior is not as common as Shear Thinning and it is incorrectly believed by some, that the fluid must dilate when it flows (hence, Dilatant).(5) Examples of Dilatant fluids are concentrated clay suspensions(6) and suspensions of glass rods.(7) The accepted mechanism of Dilatancy depends upon four factors that increase particle interaction. These are: concentration, In systems of high anisotropy of shape, size, and density.(7) concentration, application of shear produces a rearrangement of solids causing a mechanical “jam”. Non-spherical particles precess when subjected to shear. This effectively increases the occupied volume and the effective concentration. Large or denser particles possess greater inertia and when shear is applied, they are momentarily retarded, then accelerated. The energy expenditure required to accomplish this results in an additional resistance to flow, or a higher apparent viscosity. Typical curves are seen in Figure 1.10.  24 Rheology Modifier Handbook  Figure 1.10 Shear Thickening Flow B. Time Dependent Flow 1. Thixotropic Flow While the apparent viscosity of Newtonian, Shear Thinning (Pseudoplastic) and Shear Thickening (Dilatant) fluids is independent of time, other fluids exhibit these same properties and are time dependent as well (see Figure 1.11).  Figure 1.11 Time Dependent Flow If the apparent viscosity is measured under steady shear conditions and it decreases with time to an equilibrium value, the material is said to be  Practical Rheology 25 Thixotropic. On cessation of shearing, the apparent viscosity of a Thixotropic fluid increases with time. It has been postulated that Thixotropy is caused by the rupture of intermolecular bonds that are probably electrical in nature. A finite time is required for the rupture of these bonds because they vary in magnitude or distribution throughout the fluid. After shearing at a constant rate for a given time, an equilibrium is reached. In this state a balance exists between the applied shear stress and the strength of an appreciable number of bonds.(5) A decrease or increase of the applied stress results in a new equilibrium and the effect is reversible. In some cases, even after a long time, the apparent viscosity may only return to a fraction of its original value. This phenomenon is known as shear degradation. In making measurements on Thixotropic fluids, the shearing history of the sample and span of time required for the measurement is very important. If two samples are compared and they do not have identical shear history, the results will not be comparable. If the time effect is much shorter or much longer than that required for measurement, such effects can easily be overlooked. Thixotropy is usually associated with the presence of a yield stress. In some cases, the yield stress may be unaltered by shear and in others, it may be lowered.(9) Examples of these may be seen in Figure 1.12.  Figure 1.12 Thixotropic Fluid with Yield Value  26 Rheology Modifier Handbook Such Thixotropic curves are usually obtained by determining the shear stress first at one rate of shear and then at several others by rapidly changing from one shear rate to another. The procedure is carried out by first increasing shear rate and then decreasing it. The area within the loop is taken as a measure of the sample’s Thixotropy. Examples of materials that exhibit Thixotropy are latex paints, organosols and gelled alkyd oil paints.(2) Some vinyl plastisols have been observed to exhibit Thixotropic-Dilatant behavior. These unusual systems show viscosity increases with increasing shear rate but decreasing viscosity with time, at constant shear rate. 2. Rheopectic Flow The second type of time dependent-shear dependent flow is Rheopexy. While being subjected to steady state shear, a Rheopectic fluid exhibits more resistance to flow with passing time. This behavior is generally associated with aggregation or association as a consequence of shear. Rheopectic behavior is not commonly observed. Such flow behavior has been seen with dilute polymer solutions.(13) In these polymer solutions, Rheopexy is assumed to be caused by reversible cross-link formation (12). Examples of materials which have exhibited unusual PseudoplasticRheopectic behavior are polymeric microcrystalline gels.(14) These systems show viscosity decreases with increasing shear, but viscosity increases with time, at constant shear rate.  Practical Rheology 27  7. Characterization of Non Newtonian Flow Mathematical Models and Experimental Methods In dealing with the complexities of non-Newtonian flow, methods are required which allow the description, interpretation, and correlation of flow properties. To this end, a number of mathematical models and techniques have been developed which describe such behavior. In this section, attention is paid to several of these. Despite the trend to develop constitutive theories through the application of continuum mechanics (15), simple models for describing non-Newtonian behavior find many useful applications in industry.(16) Ideally, a simple model for non-Newtonian flow should have four characteristics.(17) It should: 1. Give an accurate fit of the experimental data 2. Have a minimum of independent constants 3. Have constants that are readily evaluated 4. Have constants with some physical basis The constants of such models have been successfully used in many industrial systems to characterize and correlate important responses. The present discussion separates these models and methods into two categories: time-independent and time-dependent flow.  A. Characterization of Time-Independent Flow In a shear thinning fluid, a simple plot of shear stress versus shear rate (see Figure 1.6, shown again below) results in a curve that bends as it approaches the origin. In this region, experimental data is difficult to obtain. In many cases, such curvature is eliminated by using the method of Casson.(18, 19)  28 Rheology Modifier Handbook  Figure 1.6 Shear Thinning Flow. This is accomplished with:  τ1/2 = K0 + K1 γ1/2  (6)  Where τ is the shear stress (dyn/cm2), γ is the shear rate (sec-1), and K0 and K1 are constants. In this method the square root of the shear stress is plotted versus the square root of the shear rate. A straight line results with an intercept K0 and a slope K1 (Figure 1.13). The intercept, K0, is usually obtained by extrapolation to zero shear rate and is similar to Houwink's lower yield value.(20) Casson's method has found use in correlating the flow properties of ink (18) and blood.(21) Casson's equation was originally derived for particles suspended in a Newtonian medium. An extension of his treatment(19) for particles suspended in a non-Newtonian fluid that follows the power law, results in equation (7) (Figure 1.14).  Practical Rheology 29  Figure 1.13 Casson Plot  Figure 1.14 Extended Casson Plot  τ1/2 = K'0 + K'1 γB/2  (7)  Where K'0, K'1, and B are constants. The constant B is equal to the exponent of the shear rate in the empirical flow equation known as the power law. This will be covered in greater detail later in the discussion. Equation (7) is plotted as the square root of shear stress versus shear rate to the B/2 power. The straight line which results has a slope K'1 and an intercept K'0 (Figure 1.14). The extended Casson equation has found use in correlating data for enamels, lacquers, and solvent solutions of filmforming polymers.(19)  30 Rheology Modifier Handbook A good empirical equation for correlating pseudoplastic fluids over a wide range of shear rates was developed by Williamson.(22) (η η0 - η∞) η = η∞ +  τ 1+   (8)  τm  In this model the fluid is assumed to have a viscosity both at zero shear rate (η0) and at infinite shear rate (η∞). The concept of a viscosity at infinite shear rate is really a mathematical artifact obtained by extrapolation. It has, however, found considerable use and may be interpreted as the condition where all rheological structure has been broken down.(23) Systems possessing different degrees of structural character can be compared on the same basis at infinite shear rate.(24) In Equation (8), τ is the absolute value of the shear stress and τm is the shear stress at which the apparent viscosity is the mean of the viscosity limits, η0 and η∞. At τ = τm:  (η η0 + η∞) η =  2  (9)  The Williamson equation was empirically extended by Cramer(25) in 1968 and took the form: (10)  Where | γ | is the absolute value of the shear rate and α1, and α2 are constants. Cross(17) has derived a model based on simple kinetic theory that assumed flow was associated with the formation and rupture of links. This equation applies to any non-Newtonian fluid without a yield stress. It is also capable of fitting data in the low shear rate range where the Casson plot may become nonlinear for some systems (Figure 1.13). Cross assumed, as did Williamson (22), that a shear thinning fluid has two  Practical Rheology 31 regions of constant apparent viscosity: a zero shear viscosity η0 and an infinite shear viscosity η∞. The apparent viscosity varies between these two limits at intermediate ranges of shear rate, and this variation is characterized by a constant α. The equation is: (11) Where α and N are constants. In the wide variety of systems tested, N was most usually 2/3. α is characterized in terms of a characteristic shear rate at which the apparent viscosity of the system is the mean of the two limiting values η0 and η∞:  γ mean = α-1/N  (12)  The system's apparent viscosity is:  (η η0 + η∞) η mean =  2  (13)  The apparent viscosity-shear rate relation (17) can be seen in Figure 1.15. The definition of a shear rate at which the viscosity is a mean is analogous to the definition of the mean shear stress τm in the Williamson model, Equation (8). While the Williamson expression is similar to that of Cross, the empirically extended Williamson Equation (10) is identical in form to the Cross Equation.(11)  32 Rheology Modifier Handbook  Figure 1.15 Cross Model for Shear Thinning Flow. Cross:  (η η0 − η∞) η = η∞ +  (1 + αγN)  (11)  Extended Williamson:  (10)  α  Where α = 1 /α1 2 and N = α2. Cross (26) found that if N was equal to 2/3, the model worked well in many systems, but he agreed with previous workers that N could be treated as a fourth adjustable parameter. The value of N has been shown to vary between 0.6 and 1.0 based on an analysis using the extended Williamson equation (16) (remembering that N = α2). The extended Williamson model was tested along with eight other models on 46 sets of non-Newtonian data and fit significantly better than the others, with a mean error of about 5%.(16) This method has been successfully used for solutions of Ammonium Polymethacrylate (18), Sodium Carboxymethylcellulose(25), Hydroxyethylcellulose, and Polyacrylic Acid.(18) It has also found use in correlating low shear rate data on kaolin clay suspensions.(27)  Practical Rheology 33  To obtain the constants in the extended Williamson equation (16), the data were fitted using a computer and a least squares procedure where the error term was defined as: fi  −  yi  εi =  fi  (14)  The experimental value of the dependent variable was fi and yi was the fitted value. In this equation εi was the error term. Since the Cross form of the extended Williamson equation (where N is 2/3) has been found effective for many systems, the graphical procedures recommended by Cross (17, 26) are summarized here. Three constants must be evaluated (α, η0, and η∞), and this requires two graphs. Two cases are considered: large α and small α. Case I: If α is large (see Figure 1.16) Graph 1: Plot η vs. 1/γ2/3. The straight line which results has an intercept η∞ and a slope of (η0 − η∞)/α. Graph 2: Plot 1/(η−η∞) vs. γ2/3. The straight line obtained has an intercept 1/(η0 − η∞) and a slope of α/(η0 − η∞). After obtaining η∞. from Graph 1, η0 is determined from the intercept of Graph 2. Knowing η0 and η∞, the value of α may be obtained from the slope of either Graph 1 or 2. Case II: If α is small (see Figure 1.17) Graph 1: plot 1/η vs. γ2/3. The straight line obtained has an intercept 1/η0 and a slope of α/η0. Graph 2: plot η vs. (η0 − η)/γ2/3. The straight line obtained has an intercept η∞ and a slope 1/α.  34 Rheology Modifier Handbook  Figure 1.16 Solution of Cross Model for Large α.  Figure 1.17 Solution of Cross Model for Small α.  Figure 1.18 Casson-Asbeck Method.  Practical Rheology 35 The usefulness of Casson's equation was extended to the high shear rate region by Asbeck (20) who modified Equation (6) and obtained Equation (15). η1/2 = η∞1/2 + τ01/2 γ-1/2  (15)  The equation is plotted as the square root of viscosity vs. 1/square root of shear rate (Figure 1.18). A straight line is obtained which has a slope τ01/2 and an extrapolated intercept of η∞1/2. Equation (15) is useful for studying the characteristics of fluids at high shear. The slope τ01/2 can be used as a measure of the non-Newtonian "structure" of the system. The higher the slope, the greater the "structure." A Newtonian fluid produces a straight line parallel to the x-axis, and the "structure" term is zero because the slope is zero. A shear thinning fluid produces a line with a positive slope. Asbeck showed (20) that Equation (15) held over a shear rate range from 2 to 20,000 sec-1. It can be seen in Figure 1.8 that the shear stress-shear rate curve of a pseudo plastic fluid with a yield value bends sharply near the origin. This bend is invariably squeezed into a tiny corner of the graph, and carefully drawn curves tend to aim at the origin and approach the shear rate axis asymptotically. If there is a yield stress, the value is difficult to determine using shear stress-shear rate curves alone, because extrapolation to zero can be highly inaccurate.  Figure 1.8 Shear Dependent Fluid with Yield Stress. To overcome some of these problems, several definitions have been proposed. Houwink (29, 31) has defined a lower yield value, A, and an upper yield value, C (see Figure 1.8). The lower yield value is the  36 Rheology Modifier Handbook extrapolated intersection with the shear stress axis and the upper yield value refers to the stress at which linear flow is established. Extrapolation of the linear portion to zero shear rate gives B, the Bingham yield value. To obtain accurate yield stress values experimentally, it is necessary to measure apparent viscosity at extremely low shear rates and employ a better graphical representation of the data. One method that meets the requirements described above is the spring relaxation technique of Patton.(28) The procedure is based upon the unwinding of the calibrated spring of a cone and plate viscometer. After winding to its maximum scale reading, the spring is released and readings are taken at convenient time intervals. The scale reading is plotted as a function of time on semi-log paper (Figure 1.19(A)). The apparent viscosity at any scale reading Si and time ti is expressed as a function of the slope of the curve at that point. S0 is the scale reading at time = 0, St is the scale reading at the chosen time t, and K is an instrument constant:  (16)  Practical Rheology 37  (A)  (B) Figure 1.19 Spring Relaxation Method Reprinted By Permission (28)  3M100Cα α K =  (100)(22)( π2)(r3)(2.3)  (17)  In Equation (17), M100 is the maximum torque value of the spring, C is the scale reading that would be obtained if the viscometer scale were extended around the scale periphery to meet itself at its zero starting  38 Rheology Modifier Handbook point, α is the cone angle in radians, and r is the cone radius in centimeters. Using Equation (16), a clear template overlay can be made with a series of lines of varying slope which radiate from a central point (Figure 1.19(B)). The slope of each line is related to a different viscosity by Equation (16). The template is placed over the semi-log plot and adjusted back and forth, keeping the coordinate axes parallel until a straight line (corresponding to a viscosity) on the template becomes tangent to the scale reading of interest. Knowing the apparent viscosity at the chosen time and the shear stress (which is the dial reading times the spring constant) divided by 100, the shear rate can be calculated from Equation (3) η γ = τ/η  (3)  Figure 1.20 Obtaining a Yield Stress If the procedure is repeated for a series of different time values, a plot of log τ vs. log γ can be made. The yield stress (equivalent to Houwink's lower yield value(29)) is easily determined as the value of shear stress when the curve becomes parallel to the shear rate axis. Patton also suggested using a "working yield stress" at some arbitrarily but thoughtfully selected low shear rate (i.e. 0.01 sec-1). Another method (30) that is simpler than Patton's and frequently used is also based on a spring relaxation technique but is not limited to a cone and plate viscometer. This method relies upon the unwinding of a calibrated spring that is attached to a spindle inserted in the fluid. Upon releasing the spring, torque measurements are recorded as a function of  Practical Rheology 39 time (see Figure 1.20). The spring continues to unwind provided the yield stress is less than the torque on the spindle. When the spring torque equals the equilibrium yield stress, the curve will level out parallel to the x-axis. The equilibrium torque is a function of the yield stress. Yield stress may also be determined by the graphical procedures shown in Figure 1.8 or by the Casson plot of Figure 1.13. The most widely used model(29) for non-Newtonian fluids is the empirical power law (31) of deWale.(32,33) This relation holds for many polymer solutions and can describe Newtonian, shear thinning, and shear thickening flow behavior. The relation is quite useful over select portions (16) of many viscosity curves but does not hold over as wide a range (15) as the extended Williamson equation, for example. The power law can be expressed as: (25)  τ = -K|| γ |(n-1) γ  (18)  Where the constant K is called the viscosity index and is defined as the projected value of τ at a shear rate of one reciprocal second:  Figure 1.21 Power Law K = τγ = 1  (19)  The constant n is known as the flow behavior index and:  40 Rheology Modifier Handbook  d ln τ n =  d ln γ  (20)  If the fluid is Newtonian, n is equal to 1.0 and K is known as the viscosity. If n is less than 1.0, the fluid is shear thinning (pseudoplastic), and if n is greater than 1.0, the fluid is shear thickening (dilatant). A ln-ln plot of shear stress vs. shear rate results in a straight line with slope 1/n (Figure 1.21). The parameter 1/n has been called the Shear Thinning (or Thickening) Index, STI, by Rosen(45) and the ASTM has adopted it a standard method for characterizing properties of non-Newtonian fluids.(54) The flow behavior index, n, can be used as a measure of the degree of shear thinning or shear thickening character.(34, 35) In cases where the ln-ln plot of shear stress vs. shear rate is not linear, the power law does not apply. However, it may be possible to separate the data into several regions, each of which approximates a straight line. In this situation the model can be fitted to each linear segment using different values of the slope (19), l/n. To obtain a plot of apparent viscosity vs. shear rate, apparent viscosity must be expressed in terms of the flow behavior index, n. By definition, apparent viscosity is: η= τ/γγ  (3)  Substituting Equation (3) into Equation. (18): ηγ = -Kγ(n-1)γ  (21)  η = -Kγ(n-1)  (22)  Taking the ln of Equation (22): ln η = ln (-K) + (n - 1) ln | γ |  (23)  Taking the derivative of Equation (23) with respect to ln | γ |: d ln η  = n-1 d ln γ  (24)  Practical Rheology 41  Figure 1.22 Power Law Rheogram A ln-ln plot of apparent viscosity vs. shear rate results in a straight line of slope (n - 1) (see Figure 1.22). If the flow behavior index n, one value of apparent viscosity and the corresponding shear rate are known, the flow properties of a power law fluid are completely determined. Another mathematical model that has found wide use is the empirical Ellis model:(33) γ = (A + Bττα-1) τ  (25)  Where A, B, and α are constants. When B = 0, Equation (25) reduces to the Newtonian flow model: γ = Aτ  (26)  where A is the coefficient of viscosity. When A = 0, the Ellis model reduces to the power law: γ = B τα-1τ  (27)  γ = B τα  (28)  42 Rheology Modifier Handbook B. Characterization of Time-Dependent Flow The second part of the discussion of mathematical models and methods is concerned with the characterization of time-dependent flow behavior. Experimental techniques for such fluids are far more difficult than for time-independent fluids. For example, the simple act of filling the viscometer will disturb a time-dependent structure and a long resting time may be necessary before valid measurements can be made. 1. Hysteresis Loop Method One method frequently used to characterize Thixotropic or Rheopectic behavior is the hysteresis loop. The technique consists of starting at the lowest shear rate available and obtaining an initial stress measurement. After a given time the shear rate is increased to the next higher shear rate setting and the stress measured again. The procedure is repeated until the highest shear rate is reached and the system is then sheared to its equilibrium stress. After reaching equilibrium the shear rate is reduced stepwise and the shear stress is remeasured at each point until the lowest shear rate is reached. The shear stress is then plotted versus the shear rate (36) . Examples of Thixotropic and Rheopectic curves can be seen in Figure 1.23. In the Thixotropic curve, the "down" curve falls above the "up" curve.(51) The area of the loop is a measure of the Thixotropic breakdown (28) or the Rheopectic buildup due to mechanical working. The Hysteresis Loop method may be quantified using a "three-point system." In this technique, fluids are classified according to three parameters; apparent viscosity, shear sensitivity, and extent of Thixotropic behavior. Three parameters: "A", "B" and "C" are determined from a plot of apparent viscosity vs. shear rate (see Figure 1.24). The "A" value is the Thixotropy-free viscosity at the lowest shear rate and is the last viscosity reading on the "down" curve. It provides an apparent viscosity value after a standard shearing procedure. The "B" value represents an index of Pseudoplasticity.  Practical Rheology 43  Figure 1.23 Thixotropy And Rheopexy  Figure 1.24 Three-Point System for Thixotropic Fluids "A" value viscosity "B" =  Viscosity at the highest shear rate  (29)  The value of "B" is 1.0 for a Newtonian fluid and increases with increasing Pseudoplasticity.  44 Rheology Modifier Handbook The "C" value represents an index of thixotropy under a set of standardized conditions. It represents the fraction of recoverable viscosity after an arbitrarily chosen recovery time: “C” =  (Viscosity after t min. recovery time) - ("A" viscosity)  "A" viscosity  (30)  The "C" value does not represent the ultimate state of thixotropy but only the extent present under the standardized conditions. The standard time may be chosen according to the patience of the investigator! 2. Recovery Time Method Another method useful in studying thixotropy is to shear the sample for a long time at a high shear rate. The shear rate is then immediately dropped to a very low value and the recovery of shear stress with time is observed (see Figure 1.25). The characteristic recovery time is a useful parameter (37) and depends upon the kinetics of structural buildup. A similar procedure may be followed for a Rheopectic fluid when the structural increase with time is observed.  Figure 1.25 Stress Recovery for a Thixotropic Fluid  Practical Rheology 45  Figure 1.26 Weltmann Method for Thixotropic Flow A Thixotropic Index, I, suggested by Patton (28) is defined as:  τ0.01 (before shearing) I =  τ0.01 (after shearing)  (31)  Where τ0.01 is the shear stress at a shear rate of 0.01 sec-1 . These values are obtained using the spring relaxation technique described previously. Weltmann (38) proposed a method which involves shearing the sample at a constant rate for a short time, t, then reducing the shear rate to zero, in steps, and plotting shear stress vs. shear rate (see Figure 1.26). A straight line is obtained and the slope is the plastic viscosity u. By repeating this procedure for various shearing times, a series of plastic viscosity values are obtained. A plot of u vs. ln t results in a straight line of slope B where: u1 – u2 B =  (32) ln τ2  τ1  46 Rheology Modifier Handbook  Figure 1.27 Correlating Time and Shear Dependence - I  3. Rosen Method(58) Another method which has been found useful in correlating Thixotropic data is an empirical equation of the form: η = A(γγ)B(t)C  (33)  Where A, B, and C are constants. The value of B is an index of Pseudoplasticity, while the value of C is an Index of Thixotropy. As B increases, the fluid becomes more shear sensitive, and as C increases, the fluid becomes more time dependent. To evaluate A, B, and C, the sample is sheared at a constant rate, γ1, and viscosity readings are plotted as a function of time. The process is repeated a number of times with a fresh sample and different values of shear rate (see Figure 1.27). A series of vertical lines is erected at various intervals on the time axis and the viscosity values at each shear rate are recorded. By letting: K = A(t)C  (34)  Equation (33) becomes: η = KγγB  (35)  Taking logarithms of Equation (35): ln η = ln K + B ln γ  (36)  Practical Rheology 47 A ln-ln plot of viscosity versus shear rate, at constant time t, results in a straight line of slope B and intercept K1. The data is plotted for each of the time values chosen (see Figure 1.28). A series of intercept points and the corresponding time values determined are from Figure 1.28.  Figure 1.28 Correlating Time and Shear Dependence - II. Taking logarithms of Equation (34): ln K = ln A + C ln t  (37)  A ln-ln plot of the intercepts K vs. time, t, results in a straight line of slope C and intercept ln A (Figure 1.29).  48 Rheology Modifier Handbook  Figure 1.29 Correlating Shear and Time Dependence  Practical Rheology 49  8. Viscometry: Instrumentation and Use Essentially, a viscometer is an instrument that is capable of measuring the flow rate behavior of a fluid. A great range of such instruments have been designed over the years. These range from equipment with well defined geometries capable of providing shear stress data at well defined shear rates, to equipment without such capability. While the former type is highly useful for measurement of Newtonian fluids as well as nonNewtonian types, the latter types are equally useful to the Practical Rheologist. As we have pointed out previously, there are many situations where it is possible to obtain a reproducible set of numerical data which correlates with some critical aspect of product formulation, behavior or control. The ASTM has compiled numerous standards for the characterization of flow behavior. Many of these tests, while not the ideal rheological measurement from an academic view, are useful, reproducible and practical methods for the industrial scientist. In the following paragraphs, we succinctly describe many of these ASTM tests categorized from a “viscometer” point of view. The net result is intended to provide the reader with a sense of the great range of instrumentation available and their use and application in Practical Rheology. A. Well Defined Geometries 1. Capillary (Pipette) Viscometers A variety of these exist including the Saybolt Viscometer described in ASTM D 2161 and D 88. The Saybolt-Furol has been used for bituminous liquids (E 102-93) and also in D 244 and D 2161. Capillary viscometers are used for the characterization of the moisture content of polyamides (D 789), poly(ethylene terephthalate) D 4603-90 and the intrinsic viscosity of cellulose (D 1795-90). The use of glass capillary viscometers is described in D 446-93. Such viscometers are also described in D 5481-96 and for high shear rate, high temperature measurements in D 4624-93. Vacuum capillary versions have been used for characterization of asphalt (D 2171-94) and asphalt emulsion residues (D 4957).  50 Rheology Modifier Handbook High shear rate extrusion viscometers fall into this category as for example those used to characterize plastisols and organosols (D 1823). 2. Cone and Plate Viscometers The ICI cone and plate viscometer is described for high shear rate characterization in D 4287 and in ASTM D 3205 for the characterization of asphalt. 3. Coaxial Cylinder/Rotational Viscometers This type of viscometer is extremely common and widely used. For example, hot melt adhesives are characterized by means of ASTM D 3236-88, liquid applied neoprene roofing (D 3468-90), emulsion polymers for floor polishes (D 3716-83) and chemical grouts (D-401681). Other applications for this viscometer geometry include measurement of isocyanates (D 4889-93), coal tar (D 5018-89), unfilled adhesives (D 4402-87 and D 4300-83), mold contaminated adhesives, as well as mold powders (C 1276). The use of rotational viscometers is by far the most extensive category of viscometer described by ASTM. The list of applications continues with characterization of automotive fluid lubricants (D 2983-87), Hydroxyethylcellulose (D 2364-85), epoxy resins (D 2393-86) and adhesives (D 2556-80). Other examples include hot melt petroleum waxes (D 2669-87), rubberized tar (D 2994-87), lubricating greases (D 3232-88) and plastisols/organosols (D 1824-90). Still other applications include characterization of Sodium Carboxymethylcellulose (D 143983a), glass, above its softening point (C 965-81), mold powders above their softening point (C 1276-94) and varnishes for electrical insulation (D 115-815). The extensive list completes with characterization of natural latex (D 1076), adhesives (D 1084), synthetic latexes (D 141790) and non-Newtonian materials (D 2196-86). Elevated temperature rotational viscometry is another version of this testing as described in D 4402 for unfilled asphalts. 4. Falling Balls, Needles and Rods While not like the more well defined geometries described above, the category of falling balls, needles and rods is quite useful in rheological characterization. Examples include D 4040 (falling rod) and D 5478-93 (falling needle).  Practical Rheology 51 5. Cup Viscometers Examples of the use of these include dip type viscosity cups (D 421293), Ford (stubby capillary), Shell (long capillary) and Zhan type (orifice) viscosity cups (D 1200-94 and D 1084-86) and ISO flow cups (D 5125-97). 6. Miscellaneous Viscometer Types There are a variety of types including parallel plate plastometers (D 4989-90), bubble time viscometer for adhesives (D 1084-88) and D 1545 for transparent liquids. Ball drop methods are described for cellulose derivatives (D 1343-93) and flow cones for grout/concrete (C 939-97). Differential viscometers for characterization of polymers (D 5225-92), Engler viscometers are used for tar (D 1665), and the well known Stormer viscometer for paints (D 562-81) and asphalt roof material (D 4479). Other examples include the Mooney viscometer for rubber and carbon black (D 4483), SBR latexes (D 5605) and D 3346-90. Less common, but useful other examples include the California Kneading Compaction test for tar (D 1665-91), the diesel injector nozzle for polymer-containing fluids (D 3945), the tapered bearing simulator (D 4683) and the tapered plug viscometer (D 4741-96). 7. High Shear-Rate Viscometers ASTM examples of high shear rate viscometers include D 4624 for capillary type, D 1823-95 extrusion viscometer for plastisols and organosols, and D 4683 the tapered bearing simulator. Other examples in this category include the tapered plug viscometer (D4741 and D255680) for adhesives and D 5481-96 capillary viscometer. 8. Low Shear-Rate Viscometers Plastisols and organosols are characterized at low shear in ASTM D 1824-90 and lubricating oils in D 5133-90. 9. High Temperature Viscometers Examples include ASTM D 4624-93, capillary Saybolt-Furol viscometer for emulsified asphalts bearing simulator (E 102-93), for bituminous Saybolt-Furol viscometer, lubricating greases D  viscometer, E 102 (D 4683), tapered systems using the 3232-88, apparent  52 Rheology Modifier Handbook viscosity in capillary viscometers (D 5481-96) and unfilled asphalts (D 4402-87). 10. Low Temperature Viscometers Examples from ASTM tests include engine oils (D 4684), automotive fluid lubricants (D 2983-87) and lubricating oils (D 5133-90). 11. Other Viscometer Types One final ASTM category must be covered and this is for the various types of viscosity measurements. These include kinematic viscosity (asphalt- D 2170), yield stress (engine oils-D 4684-97), relative viscosity (polyamides-D 789-91) differential viscosity, non-Newtonian viscosity (D 2196-86), apparent viscosity (D 5481-96) for petroleum waxes with additives (i.e., hot melts) and intrinsic viscosity (D 1745-90). B. Instrumentation and Mathematical Analysis When a fluid is Newtonian, the relationship between shear rate and shear stress is linear and the apparent viscosity can be measured in a wide variety of flow geometries. These include viscometer cup, bubble tubes, falling ball, capillary, cylindrical spindle in a cup of large radius, coaxial cylinder, and cone and plate viscometers. For the simple viscosity measurements usually required in production and quality control work, a suitable viscometer should be inexpensive, easy to use, and easy to clean. Examples of these are efflux viscometers, bubble tube viscometers and falling ball viscometers. 1. Efflux Viscometers Efflux viscometers, such as Ford and Zahn cups, are primarily used for Newtonian fluids (e.g., ASTM 1200-58). A given amount of fluid is allowed to drain from a container with a standardized opening (39) and the efflux time is converted to kinematic viscosity (36) by equation (38) C υ (Stokes) = K t -  t  (38)  Where K and C are constants for the particular viscosity cup.  Practical Rheology 53 2. Bubble Tube Viscometers Bubble tube viscometers, such as Gardner-Holt Alphabetical Bubble Tubes, are used to measure the kinematic viscosity of clear solutions. They consist of cylindrical glass tubes with graduations for filling and measuring (e.g., ASTM D 1725-62). The measurement is made by filling a standard tube and leaving an air space to form a bubble. The time required for the bubble to traverse the tube is compared to a set of standard tubes of known kinematic viscosity. The shear rate depends upon the rate of bubble rise and is in the 0.1 to 100 sec-1 range. Kinematic viscosity υ may be calculated empirically (36) from the time t and: 0.3 υ = 1.00 t -  (39) t2 Bubble viscometers are low in cost and widely used. Good correlation of viscosity results has been obtained for certain applications and manufacturing operations.(36) 3. Hoeppler Falling Ball Viscometer A third type of simple viscometer is the Hoeppler Falling Ball apparatus. The operation of this viscometer is based upon the rate at which a ball falls through the fluid and is related to viscosity by Stokes law: 2 η=  9  •  (ρ ρ1 – ρ2 ) gr2  V  (40)  Where η is the viscosity, ρ1, and ρ2 are the densities of the sphere and fluid, respectively, r is the sphere's radius, g is the gravitational constant, and V is its terminal velocity. The shear rate is a function of the velocity of the ball and decreases as the viscosity increases. Comparison of two non-Newtonian fluids using the same sphere may not be valid since the viscosities could be measured at two different shear rates. 4. Capillary Viscometers The most common and precise method for measuring the viscosity of a Newtonian fluid is the capillary viscometer. In this geometry, an applied pressure ∆P drives the fluid from a reservoir and through a fine bore  54 Rheology Modifier Handbook capillary of constant cross section. The fluid is assumed to be in steadystate, laminar, isothermal flow. Both the shear rate and shear stress are calculated at the capillary wall. To obtain τw, the shear stress at the wall, the viscous resisting force (τW2πrRL) is equated with the force pushing the fluid through the tube (∆PπrR2) (Figure 1.30):  τW = ∆PR/2L  (41)  The shear stress in a capillary viscometer varies linearly with the radius and is independent of the fluid properties. By substituting the definition of apparent viscosity from Newton's law, Equation 3, into Equation 41, the shear rate for a constant flow rate varies linearly with the capillary radius (Figure 1.30): γ = ∆Pr/2η ηL  (42)  If Equation (42) is integrated with respect to the radius, the well-known parabolic velocity profile is obtained.  Figure 1.30 Force Balance on a Column of Liquid Flowing Through a Capillary, Reprinted By Permission (40)  Practical Rheology 55  Figure 1.31 Shear Stress and Shear Rate for a Newtonian Fluid in a Capillary Viscometer, Reprinted By Permission (40) By integrating the velocity expression with respect to the radius over the cross-sectional area, the Hagen-Poiseuille expression for kinematic viscosity in terms of the flow rate Q is obtained: η = πR4 ∆P/8QL  (43)  From Equations (41) and (43) the shear rate at the wall is: γ = 4Q/π πR3  (44)  In a non-Newtonian fluid, the shear rate depends on the velocity distribution which is a function of the fluid properties. To determine the apparent viscosity of such a fluid, the actual shear rate is obtained by multiplying the shear rate based on Newtonian flow by a correction factor due to Rabinowitch (40):  (45)  Where b is the slope of a log-log plot of 4Q/πrR3 vs. ∆PR/2L. Equation (45) is general and not restricted to any particular flow model. If the fluid follows the power law, b is constant. If the log-log plot is curved, it may  56 Rheology Modifier Handbook be possible to treat the data as several linear segments with a different value of b for each. Some errors that can occur in capillary viscometers are incomplete drainage because liquid adheres to the walls and kinetic energy losses resulting in a drop of effective pressure as the fluid is accelerated into the capillary. Turbulence errors may occur if the fluid enters the turbulent flow region where the Reynolds number is greater than 2100 and end effect errors can produce an energy loss when the fluid is deformed as it leaves the reservoir. For a Newtonian fluid, the length necessary to achieve fully developed flow, or "entrance length" Le, can be expressed in terms of the tube diameter D and the Reynolds number [DVρ/η]: DVρ ρ Le  = 0.035  D η  (46)  Where V is the average velocity, ρ is the density, and η is the apparent viscosity of the fluid. The entrance length is added to the capillary length in calculating the shear stress. This method is not applicable, however, to non-Newtonian fluids where elastic phenomena are significant. One method of eliminating end effects is to determine the pressure drop, at constant shear rate, for several equal diameter capillaries of varying length. The pressure drop is plotted vs. the L/D ratio and extrapolated to L/D = 0. The value of the intercept is then subtracted from the pressure drop obtained in subsequent measurements (41) (Figure 1.32). Two examples of the highly accurate (42) capillary viscometers in wide use are the Cannon Fenske Viscometer and the Cannon Ubbelohde Viscometer. The former can measure a viscosity range from 0.3 to 20,000 cSt and requires a sample of about 7 ml. The latter can measure a viscosity range from 0.3 to 16,000 cSt, requires a sample of 11 ml., and is well suited for temperatures greater than 200o F and less than 0o F. In these instruments the hydrostatic head of the liquid produces the necessary pressure drop. The kinematic viscosity is determined by multiplying the efflux time by a suitable constant.  Practical Rheology 57  Figure 1.32 Method of Determining the End Effect in a Capillary Viscometer 5. Rotational Viscometers Besides viscometers based on capillary flow, there are a large number of commercial instruments which measure apparent viscosity using rotational principles. These include the Brookfield Synchro-Lectric Viscometer, the Haake Rotovisco Viscometer, the Ferranti Shirley Viscometer, and the Weisenberg Rheogoniometer. An excellent description of these and other viscometers may be found in Reference (40). A more recent listing of viscometers and viscometer companies is given in Appendix A. When choosing a viscometer, consideration must be given to factors such as versatility, simplicity, ease of cleaning, sample size, accuracy, and cost. For many industrial applications it is important to obtain accurate results with the least expensive, most versatile instrument. Of those mentioned, the Brookfield Synchro-Lectric Viscometer introduced in 1981 is probably the best available compromise between accuracy and price. As such, it has found extremely wide use in industrial applications. The variety of attachments available allows coverage of a broad range of shear rate and viscosity. In the older style Brookfield instruments, many of which are available in laboratories and plants today, a "dial viscosity" is determined at a given rpm by multiplying the dial deflection (0 to 100) by an appropriate "factor." These "factors" are obtained from a "Factor Finder" supplied with the instrument and should only be used for Newtonian fluids since the "dial viscosity" and the apparent viscosity are identical only in this case.  58 Rheology Modifier Handbook In 1981, the first digital Brookfield Viscometer was introduced. This was followed by the model DV-II digital in 1985, which automatically calculates viscosity. In 1988, Brookfield developed the DVGATHER Software for IBM PC compatible computers. In 1990, Brookfield commercialized the model DV-III Programmable Rheometer. Using the supplied Rheocalc Software, up to 200 data points can be taken and plotted. After the data has been captured, it can be numerically and graphically analyzed for flow behavior using some of the mathematical models that have been covered previously. These included the Bingham plastic model, the Casson model, the Power Law fluid model and the Shear Thinning (Thickening) Index (STI) model. A number of attachments available for the Brookfield Viscometer are amenable to mathematical analysis which allows the determination of apparent viscosities at well-defined shear rates. These include cylindrical spindle in a cup of large radius and coaxial cylinder (couette) attachments. Another Brookfield product features a cone and plate configuration. 5a. Cylindrical Spindle in an Infinite Sea of Fluid When a fluid is non-Newtonian, the shear rate depends upon the velocity distribution which varies with the fluid properties. To obtain the apparent viscosity, the functional relationship between shear rate and shear stress must be determined. To accomplish this, the velocity and stress distributions are obtained by mathematical analysis of the flow geometry. In this section, several geometries and commercial instruments are briefly considered. Emphasis is placed on the proper use of three widely used systems; the cylindrical cylinder in a cup of large radius, the coaxial cylinder (couette) geometry and the cone and plate geometry. The most widely used attachments for the Brookfield Synchro-Lectric Viscometer are the cylindrical and disk-type spindles. These have the advantage of ease of measurement and ease of cleaning. To make a measurement, the spindle is simply immersed in the fluid and a dial reading is read as the spindle rotates at a constant rpm. A spindle guard is used to protect the spindle, and the "dial viscosities" are calculated using the appropriate "factors."  Practical Rheology 59 The principal failing of this type of viscometer geometry is the difficulty in obtaining apparent viscosities at well-defined shear rates. As the fluid deviates from Newtonian behavior, the accuracy of the "dial viscosity" (sometimes known as an "apparent" apparent viscosity) decreases. In determining apparent viscosity, the shear stress and shear rate must be measured at the same point. The one most usually chosen is at the spindle surface. While the disk-type spindles are difficult to analyze mathematically, useful equations have been developed for cylindrical spindles. A number of such spindles are supplied with Brookfield Synchro-Lectric Viscometer and a set of cylindrical spindles (300 series s/s) is also available. Calculation of shear rate at the surface of a cylindrical spindle is based upon a mathematical model of an infinitely long cylinder in an infinite sea of fluid. In a practical instrument, a spindle of finite length and a cup of finite diameter are considered a necessity and, therefore, certain corrections are required. Determination of the shear rate γ is based upon an equation derived by Krieger and Maron (43): dΩ Ω γ = -2  d ln τB  (47)  Where Ω is the angular velocity in radians/sec and τB is the shear stress at the spindle wall in dyne/cm2. Calculation of shear rate by Equation (44) is difficult because it involves evaluation of the derivative of a nonlinear function (Ω vs. ln τB). A preferred modification (44) of Equation (47) is obtained by multiplying and dividing by Ω:  (48)  (49)  60 Rheology Modifier Handbook Equation (49) is not dependent on the flow properties of the fluid. To obtain the shear rate, a log-log plot of the angular velocity Ω vs. the shear stress τB is required. If this function is a straight line, then (d ln Ω)/(d ln τB) is a constant. The quantity (d ln Ω)/(d lnτB) has been called the Shear Thinning (or Shear Thickening) Index, or the STI.(45) The STI is equal to 1/n in the power law equation. For a power law fluid, the STI equals 1.0 if the fluid is Newtonian. The STI is greater than 1.0 if the fluid is shear thinning and if it is less than 1.0, the fluid is shear thickening. Rosen’s (54) STI method has become a standard ASTM test method for rheological properties of non-Newtonian fluids (D 2196). For the more complex case where the log Ω-log τB function is curved, Krieger (52) has shown that a point by point application of the power flow law will rigorously yield the true viscosity and shear rate. To determine the shear stress at the bob τB Torque  τB =  2  2π πRB L  (50)  Where RB is the radius of the bob in cm and L is the effective length of the spindle. The torque (dyne-cm) is obtained by multiplying the units of dial deflection by the spring constant (dyne-cm) divided by 100 as shown in Equation (51) The apparent viscosity η is obtained by substituting Equations (49) and (50) into Equation (3).  Torque = Units of Dial Deflection • Spring Constant 100  (51)  5b. Coaxial Cylinder (Couette) Viscometer A coaxial cylinder viscometer consists of a cylindrical spindle and a cup whose radius is only slightly larger than that of the spindle. In this geometry, the shear stress and shear rate are both calculated at the surface of the bob (Figure 1.33).  Practical Rheology 61  Figure 1.33 Coaxial Cylinder Viscometer To determine the shear rate at the bob surface, it is assumed that simple shear flow exists in the annulus between the bob and the cup, that the outer cylinder is stationary, and that no slippage occurs at the surface. It is further assumed that the inner cylinder is driven with an angular velocity Ω, radian/sec, by the application of a torque T. For a bob of radius RB cm, cup of radius RC, cm, and cylinder of effective length L an equation has been derived for the shear rate at the bob surface(44) (Equation (52). (52) In this series solution, Ω is the angular velocity of the bob in rad/sec, S is the ratio of the radius of the bob to the radius of the cup, m is (d ln Ω)/(d ln τB, or the Shear Thinning (or Shear Thickening) index (STI) and p varies from 0 to ∞. For instruments which employ an annular space which is small compared to the cylinder radii, an approximation to Equation (52) is: (53)  62 Rheology Modifier Handbook The approximation is valid as long as (-m ln S) is less than 0.5 (44). The calculation of the shear stress τB is obtained from Equation (50). Brookfield Engineering Laboratories manufactures a coaxial cylinder attachment (known as the UL Adapter) for their standard model LVT Viscometer. It consists of a bob and cup with a narrow annular space between them. For Newtonian fluids the apparent viscosity range of the UL adapter is 0 to 2000 cP at 0.3 rpm and 0 to 10 cP at 60 rpm. The approximate shear rate range is 0.37 to 73.5 sec-1. As indicated previously, the "factors" supplied with the UL adapter are valid only for Newtonian fluids. However, the geometry is well suited to the mathematical analysis presented above and the unit can be used for nonNewtonian fluids.(40, 48) 5c. Cone & Plate Viscometer Of all the various flow geometries available, the cone and plate type is probably the best. While it is easy to clean and uses a very small sample, its most important advantage is a constant shear rate across the gap (Figure 1.34).  Figure 1.34 Cone and Plate Viscometer The velocity of the cone is given by V = Ωr, where Ω is the angular velocity and r is the radius. The gap distance y is: y = r tan θ  (54)  Practical Rheology 63 The shear rate is: V Ωr Ω  =  =  y r tan θ tan θ  (55)  And for small angles: γ = Ω/θ θ  (56)  Since r drops out of Equation (55), the shear rate is independent of the radius and is a function of the cone angle only. The torque M is calculated from equation (57): (57)  M = τr  2π πr3  3  (58)  Solving for the shear stress at radius r,  τr = 3M/2ππr3  (59)  The apparent viscosity η is τr/γ or: 3M/2π πr3 η =  Ω/θ θ  (60)  η = 3Mθ θ/2π πr3Ω  (61)  A number of commercial cone and plate viscometers are available. These include the Haake Rotovisco Viscometer, the Ferranti Shirley Viscometer, the Weisenberg Rheogoniometer and the Wells-Brookfield Cone and Plate Viscometer. Large variations in price exist because of the degree of sophistication in solving such problems as temperature control and maintaining a constant gap setting between the cone and plate.  64 Rheology Modifier Handbook  9. Summary Part 1 has presented a broad range of empirical and theoretical mathematical models useful for characterizing non-Newtonian flow behavior of a wide variety of industrial and consumer products. These models have been organized in order of increasing complexity, and their use is facilitated by presentation in graphical form that provides the investigator with a means for easily obtaining the equation parameters. These parameters can be employed to characterize a product or system and assess changes introduced by formulation variations and processing conditions. Some of the more common viscometer types are also described. A thorough, but partial listing of viscometer companies and some of the instruments they manufacture is available in Appendix A. The practical application of rheology to a wide variety of products has been demonstrated by reference to the significant number of ASTM test methods that have been organized and referred to in the body of Part 1.  Practical Rheology 65  10. Symbols and Abbreviations A number of symbols have been used in this work to represent more than one parameter. However, each of these is clearly defined in the text within the appropriate context. The authors have retained these various symbols as they appear in the original references in order to facilitate the reader’s efforts to look further at the original works cited. cP D Dyn fi F I K0, K1 K0', K1 Le M M100 mPas N n Q r S So, St STI t u V X yi y  centipoise diameter Dynes experimental value of dependent variable force (dynes) Thixotropic Index Casson equation constants Extended Casson equation constants entrance length torque maximum torque value of a spring milliPascal•seconds constant flow behavior index flow rate radius in a cone and plate viscometer radius of bob/radius of cup scale readings at time zero and time t Shear thinning (or thickening) index time plastic viscosity velocity (cm/sec) distance (cm) fitted value (Equation 14) gap distance in cone and plate viscometer  66 Rheology Modifier Handbook Greek Letters shear rate (sec-1) (These two symbols are used interchangeably in the text) ε error term η viscosity (Poise) infinite shear viscosity η∞ zero shear viscosity η0 θ angle measurement υ kinematic viscosity (Stokes) ρ1, ρ2 density of sphere and fluid τ shear stress (dynes/cm2) (η0 + η∞)/2 (dynes/cm2) τm yield value (dyne/cm2) τyield τr,τw,τB shear stress at wall θ,Ω angular velocity (radians/sec) γ,  Author’s Note: Sections 7 thru 11 of this text have been adapted from Reference 55 by courtesy of Marcel Deckker, Inc., New York  Practical Rheology 67  11. References 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23.  L. M. Krieger, S.H. Maron, J. Appl. Phys., 25, No.1,72 (1954) P. E. Pierce, Journal of Paint Technology, 41, No.533, 383(1969) J. D. Ferry, Viscoelastic Properties of Polymers,Wiley, NY,1961 G. C. Johnson, J. Chem & Eng. Data, 6, No.2, 275 (1961) J. R. Van Wazer, et. al. Viscosity and Flow Measurement, A Laboratory Handbook of Rheology, Interscience, NY (1963), pp. 18, 20. H. Van Olphen, An Introduction to Clay Colloid Chemistry, Interscience, NY, 1963, pp. 145 B. Clark, Trans Instn. Chem. Engrs., 45, T251 (1967) S. Middleman, The Flow of High Polymers, Continuum and Molecular Rheology, Interscience, 1968, pp. 2. P. Sherman, Emulsion Science, Academic Press, 1968, Chapter 4 R. Houwink, Elasticity, Plastcity and Structure of Matter, Dover, NY, 1958. N. Z. Erdi, et. al. J. Coll. and Intf. Sci., 28, No.1 (1968) R. N. Weltmann, Rheology, Vol. 3 Academic Press, NY (1960) pp. 215 T. Masuo, et. al. J. Coll. and Intf. Sci., 24, 241 (1967). Personal Communication to Mr. David Howard, Applied Rheologist, Brookfield Engineering Laboratories, Inc., Stoughton, Mass. R. B. Bird, AIChE-Inst. Chem. Eng. Symp. Ser., 4, (1965). S. D. Cramer and J. M. Marchello, AIChE J., 14 (6), 980 (1968). M. M. Cross, J. Colloid. Sci., 20, 417 (1965). N. Casson, Rheology of Disperse Systems, Pergamon, New York, 1959. R. D. Vaughn and J. C. Hatcher, Offic. Dig., Fed. Soc. Paint Technol., 37, 1168 (1965). W. F. Asbeck, Ibid., 33, 65 (1961). J. F. Stoltz and A. Larcan, J. Colloid Interface Sci., 30 (4), (1969). R. V. Williamson, Ind. Eng. Chem., 21(11), (1929). A. Doroszkowski and R. J. Lambourne, J. Colloid Interface Sci., 26, 128 (1968).  68 Rheology Modifier Handbook 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35. 36. 37. 38. 39. 40. 41. 42. 43. 44. 45. 46.  W. F. Asbeck and M. Van Loo, Ind. Eng. Chem., 46, 1291 (1954). S. D. Cramer, Ph.D. Thesis, University of Maryland, 1968. M. M. Cross, Advances in Polymer Science and Technology (S.C.I. Monograph 26), Gordon and Breach, New York, 1967. R. J. Hunter and S. F. Nichol, J. Colloid Interface Sci., 28 (2), 250 (1968). T. C. Patton, J. Paint Technol., 38(502), 656 (1966). R. Houwink, Elasticity, Plasticity and Structure of Matter, Dover, New York, 1958. 42 R. Kreider, Offic. Dig., Fed. Soc. Paint Technol., 36, 1244 (1964). P. Sherman, Emulsion Science, Academic, New York, 1968, Chap. 4. A. DeWale, J. Oil Colour Chem. Assoc., 4, 33 (1923). R. B. Bird et al., Transport Phenomena, Wiley, New York, 1962. E. L. Warrick, Ind. Eng. Chem., 47, 1616 (1955). A. L. Back, Rubber Age, 85 (4), 639 (1959). P. E. Pierce, J. Paint Technol., 41 (533), 383 (1969). H. Green, Industrial Rheology and Rheological Structure, Wiley, New York, 1949, pp. 52. R. N. Weltmann, Ind. Eng. Chem., 35, 424 (1943). H. A. Gardner and G. G. Sward, Paint Testing Manual, 12 ed., Gardner, Bethesda, Maryland, 1962. J. R. Van Wazer et al., Viscosity and Flow Measurement, A Laboratory, Handbook of Rheology, Interscience, New York, 1963, pp. 18, 20. G. C. Johnson, J. Chem. Eng. Data, 6 (2), 275 (1961). Cannon Instrument Co., Viscometers (Bulletin 19). I. M. Krieger and S. H. Maron, J. Appl. Phys., 23 (l), 147 (1952). S. Middleman, The Flow offfigh Polymers, Continuum and Molecular Rheology, Wiley-Interscience, New York, 1968, pp. 2. M. R. Rosen, J. Colloid Interface Sci., 36, 350 (1971). Personal Communication to Mr. David Howard, Applied Rheologist, Brookfield Engineering Laboratories, Inc., Stoughton, Massachusetts.  Practical Rheology 69 47. 48. 49. 50. 51. 52. 53. 54. 55. 56. 57. 58.  Brookfield Engineering Laboratories, Inc., Brookfield SynchroLectric Viscometers, Shear Rate and Shear Stress Formulas (Data Sheet 66-0112). M. R. Rosen, J. Colloid Interface Sci., 39(2), 413 (1972). Brookfield Engineering Laboratories, Inc., The Brookfield UL Adapter (Laboratory Data Sheet 034-C). Brookfield Engineering Laboratories, Inc., “Solutions to Sticky Problems”. N. Z. Erdi et.al. J. Colloid Interface Sci, 28 (1), (1968) I. M. Krieger, Trans. Social Rheology, 12,5 (1968) Brookfield Engineering Laboratories, “More Solutions to Sticky Problems”, Rosen, M. R., contributing author. “Standard Test Method for Rheological Properties of NonNewtonian Materials by Rotational Viscometer”, ASTM D 2196. M.R. Rosen, “Characterization of Non-Newtonian Flow”, Polym.-Plast. Technol. Eng., 12(1), 1-42, Marcel Dekker, Inc., (1979) T.C. Patton, “Paint Flow and Pigment Dispersion-A Rheological Approach to Coating and Ink Technology”, Second Edition, John Wiley & Sons, New York, (1979) D. B. Braun, “Formulating and Characterizing Cosmetic Suspensions/Emulsions”, R.T. Vanderbilt Co., Inc. Report No. 910, (1995) M.R. Rosen, “Practical Rheology – A “Thinking Protocol” for the Cosmetic Chemist”, Presented at the HBA Global Expo Scientific Conference – 1999, June, 1999, New York  Part 2 Commercially Available Rheology Modifiers Contents Page Introduction 1. Acrylic Polymers 2. Cross-linked Acrylic Polymers 3. Alginates 4. Associative Thickeners 5. Carrageenan 6. Microcrystalline Cellulose 7. Carboxymethylcellulose Sodium 8. Hydroxyethylcellulose 9. Hydroxypropylcellulose 10. Hydroxypropylmethylcellulose 11. Methylcellulose 12. Guar & Guar Derivatives 13. Locust Bean Gum 14. Organoclays 15. Polyethylene 16. Polyethylene Oxide 17. Polyvinylpyrrolidone 18. Silica 19. Water-swellable Clay 20. Xanthan Gum  71  72 74 81 89 94 99 106 109 114 119 121 128 132 138 141 151 157 161 167 174 184  72 Rheology Modifier Handbook  Introduction This part of the handbook presents the commercially available product lines of the 26 rheology modifier suppliers who have provided technical information for this work. Over 1000 products are included herein. It is also probable that there are other suppliers that the authors are not aware of, especially in the “Pacific Rim” or South America. Handbook users in those areas should consult local manufacturer directories to determine if other suppliers exist in their area. The term “commercially available” is intended to indicate that the products listed are available to any customer in any quantity, from as little as 50 lbs. to 50 tons or more. Many suppliers also produce other grades of product that are classified as experimental or proprietary. These are grades that are specially manufactured for specific largevolume applications or customers. These grades are not included in this handbook. Twenty different chemical types of rheology modifiers are included in this part of the handbook. They differ in chemical structure and performance. Each Section begins with a brief description of the chemical type and some key features and recommended applications for the particular type of rheology modifier. This information is obtained from the supplier’s technical literature and is not intended to be an exhaustive treatise on the subject. In-depth technical information is usually available in the supplier’s technical literature. Reference to this technical literature is also included in the introduction to each Section. It does not contain information on the supplier’s recommended handling procedures for his products. This is because it may vary for different suppliers and may, in fact, vary for different products from the same supplier. The supplier’s technical literature is always the best source of information on the recommended handling procedure to use.  Commercially Available Rheology Modifiers 73 In each section the product lines are presented alphabetically by supplier’s name. Each product line is arranged according to the suppliers recommended application area for the products, i.e., food, pharmaceutical, personal care or household/institutional. The product line data are believed to be complete and accurate as of mid-1999. But suppliers are continually adding new and improved products to their lines. The handbook user is urged to contact suppliers (see Appendix C for contact information) to learn about new products that might also be candidates for the intended application. Note: These tables also contain the following less common abbreviations: cSt = centistoke mPas = milliPascal•second = centipoise INCI = International Nomenclature Cosmetic Ingredient µm = micrometer or micron (10-6 meter) nm = nanometer (10-9 meter)  n/a = not available or not applicable ppm = parts per million soln = solution  74 Rheology Modifier Handbook  1. Acrylic Polymers A. Chemical Nature Acrylic acid, H2C=CHCOOH, is an important building block of the chemical industry. The molecule contains both an unsaturated moiety that can be used for free-radical polymerization and a carboxylic acid group that can be reacted with a host of different chemical species. Although the overall chemical structure of the group of polymers in this Section varies, they all possess two common features; an acrylic polymer or copolymer backbone and pendant carboxylic acid groups, in some cases reacted with other organic species. When dispersed in aqueous media, and while the system is acidic, they produce minimal rheological effects. But when the pendant carboxylic groups are neutralized with an alkaline ingredient, the polymer is said to “swell” producing dramatic viscosity increase and rheology modification. Thus, these products are sometimes referred to as alkaliswellable acrylic polymers. They are highly efficient thickeners and rheology modifiers.  A. Recommended Application Areas 1. Personal Care 2. Household/Institutional B. Recommended Solvent Systems 1. Water 2. Mixtures of water and minor amounts of water-miscible organic solvents  C. Ionic Charge Anionic  D. Compatibility/Stability Characteristics 1. Not recommended for systems containing monomeric, cationic species 2. Some products suitable for high pH (>10) systems 3. Some products suitable for systems containing peroxides  Commercially Available Rheology Modifiers 75 F. Useful References: 1. “Acrysol Thickeners and Rheology Modifiers”, Rohm and Haas Company Bulletin RMT2A. 2.  “Aculyn33 personal care polymer”, Rohm and Haas Company Bulletin FC-258.  2. “Hypan Hydrogels – The link to versatile elegance”, LIPO Chemicals Bulletin. 3.  “STRUCTURE Rheology modifiers for hard-to-thicken systems”, National Starch & Chemical Bulletin1715-97-292.  Table 2.la LIPO Chemicals, Inc. Patterson, NJ, USA 1. Personal Care Grades  Trade Name Hypan ® SA- 1 00H Hypan SR- 150H Hypan SS-201  INCI Name Acrylic Acid/Acrylonitrogens Copolymer Acrylic Acid/Acrylonitrogens Copolymer Ammonium Acrylates/Acrylonitrogens Copolymer  Viscosity’, mPas 15,000-40,000 3,000-25,000 35,000-65,000  Appearance Off-white to Straw Powder Off-white to Straw Powder Off-white to Straw Powder  Comments Requires Neutralization Requires Neutralization Preneutralized with NH4OH  Note for LIPO Acrylic Polymer data: 1 0.5% Aqueous solution measured at 25°C using Brookfield Model LVT with Helipath spindle T-E @ 12 rpm.  76 Rheology Modifier Handbook  1. Acrylic Polymers  1. Acrylic Polymers  Table 2.lb National Starch and Chemical Bridgewater, NJ, USA Viscosity mPas4  STRUCTURE® 20011  15,000-30,000 @ 1%  pH (As Supplied) 2.2-3.5  2 STRUCTURE 300l 3 STRUCTURE PLUS  20,000-52,000 @ 2% n/a  2.2-3.5 8-9  Form Emulsion Emulsion Emulsion  Notes for National Starch and Chemical Data: 1 INCI Name: Acrylates/Steareth-20 Itaconate Copolymer 2 INCI Name: AcrylatesKeteth-20 Itaconate Copolymer 3 INCI Name: Acrylates/Aminoacrylates Copolymer (Proposed) 4 pH adjusted to 9 with NH OH using Brookfield Model RV @ 10 rpm.. 4  Solids, % 28-30 28-30 19-21  Features For high pH systems, low odor High salt stability, low odor Compatible with cationics, acid-swellable  /I  Commercially Available Rheology Modifiers 77  1. Personal Care Grades Trade Name  Table 2.1c. RHEOX, Inc. Hightstown, NJ, USA  78 Rheology Modifier Handbook  1. Acrylic Polymers  1. Acrylic Polymers Table 2.ld. Rohm and Haas Company Philadelphia, PA, USA 1. Personal Care Grades I  ACULYN 33 2 . Industrial Grades Trade Name ACRYSOL® ASE-60 ACRYSOL ASE-75 ACRYSOL ASE-95 ACRYSOL ASE-95N-P ACRYSOL ASE-108 ACRYSOL ASE- 108NP ACRYSOL ASE-1000 ACRYSOL G-l 10 ACRYSOL G- 111 ACRYSOL GS ACRYSOL HV- 1  INCI Name 1 Viscosity, mPas 1 pH 1 Appearance I Solids Content, % Acry1ates/Steareth-20 3.0 Milky Liquid 30 202 Methacrylate Copolymer 3.5 Milky Liquid 28 Acrylates Copolymer n/a 1Polymer Type1 1Viscosity mPas 1 ASAE ASAE ASAE ASAE ASAE ASAE ASAE AP NPS SP SP  20 max.3 20 max.3 503 200 max. 2003 70 max. 100 max. 90-1704 700 10,000-20,0004 15,000-20,0004  pH 3.5 3.0 3.0 2.9 3.0 3.0 3.0 9.2 9.3 9.1 9.6  I  Appearance Milky Liquid Milky Liquid Milky Liquid Milky Liquid Milky Liquid Milky Liquid Milky Liquid Colorless Solution Clear-Hazy Solution Clear, Amber Soln. Clear, Amber Soln.  1 Solids Content, % 28 40 18 18 20 18 29 22 11 12.5 10  Commercially Available Rheology Modifiers 79  Trade Name ACULYN® 22  Rohm and Haas Acrylic Polymers 2. Industrial Grades Trade Name ACRYSOL RM-5 ACRYSOL RM-6 ACRYSOL T-P-615 ACRYSOL T-T-935 ACRYSOL T-T-950 ACRYSOL WS-24 ACUSOL® 810 ACUSOL 820  Polymer Type1 HMAE HMAE HMAE HMAE HMAE ASAE ASEA HMAE  ACUSOL 823 ACUSOL 830 ACUSOL 842  HMAE ASAE ASAE  Viscosity mPas 30 max. 30 max. 20 max.2 25 max. 40 n/a 2003 1003 30 10 3 50  pH 2.7 2.7 3.0 3.2 3 7.0 2.8-3.8 3.0 3.2 2.5-3.5 3.0  Appearance Milky Liquid Milky Liquid Milky Liquid Milky Liquid Milky Liquid Milky Liquid Milky Liquid Milky Liquid Milky Liquid Milky Liquid Milky Liquid  Solids Content, % 30 30 30 30 30 36 18 30 30 28 18  Notes for Rohm and Haas Acrylic/Acrylate data: 1ASAE = Alkali-swellable Acrylic Emulsion, NPS = Neutralized Polyacrylate Solution, HMAE = Hydrophobicallymodified, Alkali-swellable Acrylic Emulsion. 2 Brookfield Model LV @ 60 rpm with Spindle #1 3 Brookfield Model LV @ 12 rpm with Spindle #1 4 Brookfield Model LV @ 12 rpm with Spindle #3 #3  80 Rheology Modifier Handbook  Table 2.1d, continued  Commercially Available Rheology Modifiers 81  2. Cross-linked Acrylic Polymers Like the products included in the previous section, this group of rheology modifiers is also derived from acrylic acid. But, unlike those polymers, these products are high molecular weight homopolymers of acrylic acid cross-linked with an allyl ether of pentaerythritol, an allyl ether of sucrose or an allyl ether of propylene. Figure 2.1 below schematically depicts these cross-linked acrylic polymers.  Figure 2.1 (Reprinted from B.F. Goodrich Specialty Chemicals Technical Bulletin)  In the dry state, these polymers are in a tightly coiled configuration. When dispersed in water, slight uncoiling of the molecule occurs accompanied by minimal thickening of the system. Neutralization of the pendant carboxylic acid groups causes the molecule to uncoil and provide dramatic and instantaneous thickening as well as other desirable rheological effects such as yield stress (yield value). Since a concentration of 0.5% or less is normally used, they can be classified as very high efficiency rheology modifiers.  82 Rheology Modifier Handbook  A. Recommended Application Areas 1. Pharmaceutical 2. Personal Care 3. Household/Institutional  C. Ionic Charge Anionic  B. Recommended Solvent D. Compatibility/Stability Characteristics Systems 1. Not recommended for systems 1. Water 2. Mixtures of water with water- containing monomeric, cationic species miscible organic solvents 2. Products are most effective in the pH range from 5-10 but a few are also useful outside that range 3. Most products are sensitive to the presence of dissolved electrolytes 4. Certain products are suitable for systems containing NaOCL Nomenclature note: These products are listed under the name “Carbomer” in The United States Pharmacopoeia/National Formulary. Personal care grades have the INCI name Carbomer for CARBOPOL and ACRITAMER products and “Acrylates/C10-30 Alkyl Acrylate Crosspolymer” for the PEMULENproducts. E. Useful References 1. “CARBOPOL The Proven Polymers in Pharmaceuticals”, B.F. Goodrich Specialty Chemicals Pharmaceutical Bulletins #1 thru #17. 2. “Thickening and Suspending with CARBOPOL Thickeners”, B.F. Goodrich Specialty Chemicals Bulletin IT.  2. Cross-linked Acrylic Polymers Table 2.2a B.F. Goodrich Specialty Chemicals Cleveland, OH, USA 1. Pharmaceutical Grades Appearance White Powder  Moisture, % 2.0 max.  2.7-3.5 2.7-3.5 2.7-3.5  White Powder White Powder White Powder  2.0 max. 2.0 max. 2.0 max.  4,000-11,000 4,000-11,000 29,400-39,400 40,000-60,000  2.7-3.5 2.7-3.5 2.7-3.5 2.7-3.5  White Powder White Powder White Powder White Powder  2.0 max. 2.0 max. 2.0 max. 2.0 max.  4,000-10,000 3 9,500-26,500  2.7-3.5 2.7-3.5  White Powder White Powder  2.0 max. 2.0 max.  3,000-7,000 30,500-39,400 29,400-39,400 40,000-60,000  Carbopol 941 NF Carbopol 971P NF Carbopol 974P NF Carbopol 980 NF Carbopol 981 NF Carbopol 1342 NF  3  Features Low Viscosity High Viscosity, Short Flow High Viscosity, Short Flow Very High Viscosity, Very Short Flow Low Viscosity, Long Flow Low Viscosity, Long Flow High Viscosity Very High Viscosity, Very Short Flow Low Viscosity, Long Flow Medium Viscosity, Long Flow  Commercially Available Rheology Modifiers 83  pH, (0.5% Soln.) 2.7-3.5  Viscosity, mPas2  Trade Name1 Carbopol 910 NF Carbopol 934 NF Carbopol 934P NF Carbopol 940 NF  B.F. Goodrich Cross-linked Acrylic Polymers  1. Pharmaceutical Grades (continued) Trade Name1  Viscosity, mPas2  Carbopol 1382 NF  25,000-45,000    pH, (0.5% Soln.) 2.7-3.5  White Powder  Moisture, % 2.0 max.  6  2.7-3.5  Medium Viscosity  White Powder  2.0 max.  6  High Viscosity  Pass  2.7-3.5  White Powder  2.0 max.  Low Viscosity  45,000-80,000 25,000-45,000 45,000-65,000  2.7-3.5 2.7-3.5 2.7-3.5  White Powder White Powder White Powder  2.0 max. 2.0 max. 2.0 max.  3  2.7-3.5  White Powder  2.0 max.  High Viscosity High Viscosity Easy to Disperse, High Viscosity Easy to Disperse, High Viscosity Easy to Disperse, Low Viscosity Easy to Disperse, High Viscosity  3  Pass  Pemulen TR-1 NF Pemulen TR-2 NF  Appearance  Features  2. Personal Care Grades Carbopol 2984 Carbopol 5984 Carbopol ETD 2001 Carbopol ETD 2020  32,000-77,000  Carbopol ETD 2050  3,000-15,000  2.7-3.5  White Powder  2.0 max.  Carbopol Ultrez 10  45,000-65,000  2.7-3.5  White Powder  2.0 max.  84 Rheology Modifier Handbook  Table 2.2a, continued  Table 2.2a, continued B.F. Goodrich Cross-linked Acrylic Polymers 3. Industrial Grades Trade Name1 Viscosity mPas2 Carbopol 643 7,000±2,500  pH, (0.5% Soln.) 8.0±0.3  7,000±2,500  8.0±0.3  Carbopol 647  7,000±2,500  8.0±0.3  Carbopol 653  7,000±2,500  6.5±0.3  Carbopol 655  7,000±2,500  6.5±0.3  Carbopol 681-XI Trade Name1 Carbopol 672 Carbopol 674 Carbopol 675 Carbopol 676  12,000±2,500 Viscosity, mPas2 25,000-37,500 5,000-13,000 45,000-65,000 45,000-80,000  2.0-3.0 pH, (0.5% Soln.) 2.7-3.5 2.7-3.5 2.7-3.5 2.7-3.5  Carbopol 678  2,000-9,000  3  2.7-3.5  Solids, % 50  Mineral Spirits  50  Mineral Spirits  50  Mineral Spirits  50  Mineral Spirits  50  Mineral Spirits Mineral Spirits Features  White Powder White Powder White Powder White Powder  50 Moisture, % < 3.0 < 3.0 < 3.0 < 3.0  White Powder  < 3.0  Tan, Opaque Dispersion Tan, Opaque Dispersion Tan, Opaque Dispersion Tan, Opaque Dispersion Tan, Opaque Dispersion White Dispersion Appearance  Solvent  High Viscosity, Short Flow Low Viscosity, Long Flow High Viscosity, Short Flow Very High Viscosity, Very Short Flow Ion Tolerance, Long Flow  Commercially Available Rheology Modifiers 85  Carbopol 645  Appearance  B.F. Goodrich Cross-linked Acrylic Polymers 3. Industrial Grades Trade Name1  Viscosity, mPas2  Carbopol 679 Carbopol 690 Carbopol 691 Carbopol 694 Carbopol 1610 Carbopol 1623 Carbopol ETD 2623 Carbopol ETD 2690 Carbopol ETD 2691  350-2500 45,000-65,000 2,000-11,000 40,000-80,000 3 8,000-27,000 3 25,000-45,000 3 30,000-60,000  pH (0.5% Soln.) 2.7-3.5 2.7-3.5 2.7-3.5 2.7-3.5 2.7-3.5 2.7-3.5 2.7-3.5  White Powder White Powder White Powder White Powder White Powder White Powder White Powder  Moisture, % < 3.0 < 3.0 < 3.0 < 3.0 < 3.0 < 3.0 < 3.0  45,000-60,000  2.7-3.5  White Powder  < 3.0  8,000-17,000  2.7-3.5  White Powder  
+
+
+
+
+
+
+
+
+
+
+
+
+Rheology and Processing of Polymeric Materials: Volume 1: Polymer Rheology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Rheology and Processing of Polymeric Materials: Polymer Rheology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+RHEOLOGY AND PROCESSING OF POLYMERIC MATERIALS Polymer Processing
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Ceramic Technology and Processing: A Practical Working Guide (Materials and Processing Technology)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Thermoplastics Melt Rheology and Processing
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Semiconductor Materials and Process Technology Handbook
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Rheology for Polymer Melt Processing (Rheology Series)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+A Practical Approach to Rheology and Rheometry
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Nanotechnology and Materials Technology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Spintronic Materials and Technology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Spintronic materials and technology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Handbook of plasma processing technology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Materials and Acoustics Handbook
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Handbook of Vegetable Preservation and Processing (Food Science and Technology)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Rheology for Polymer Melt Processing
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Handbook of Compound Semiconductors: Growth, Processing, Characterization, and Devices (Materials Science and Process Technology Series)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Borates: Handbook of Deposits, Processing, Properties, and Use
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Advances in Laser Materials Processing Technology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Potato production, processing, and technology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Handbook of Elementary Rheology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Borates: Handbook of Deposits, Processing, Properties, and Use
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Fluid Bed Technology in Materials Processing
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Fluid Bed Technology in Materials Processing
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Tomato production, processing and technology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Processing fruits: science and technology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Handbook of elementary rheology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Handbook of Sputter Deposition Technology: Principles, Technology and Applications (Materials Science and Process Technology Series)
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Ceramic Technology and Processing: A Practical Working Guide
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Polymer and Composite Rheology
+
+
+
+Read more
+
+
+
+
+
+
+
+
+Cheese Rheology and Texture
+
+
+
+Read more
+
+
+
+
+
+
+
+
+
+
+
+Recommend Documents
+
+
+
+
+
+
+
+
+
+
+
+		Rheology and Processing of Polymeric Materials: Volume 1: Polymer Rheology	    
+
+
+Rheology and Processing of Polymeric Materials Volume 1
+
+ This page intentionally left blank
+
+ RHEOLOGY AND PROCESSING ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Rheology and Processing of Polymeric Materials: Polymer Rheology	    
+
+
+Rheology and Processing of Polymeric Materials Volume 1
+
+ This page intentionally left blank
+
+ RHEOLOGY AND PROCESSING ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		RHEOLOGY AND PROCESSING OF POLYMERIC MATERIALS Polymer Processing	    
+
+
+Rheology and Processing of Polymeric Materials Volume 2
+
+ This page intentionally left blank
+
+ RHEOLOGY AND PROCESSING ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Ceramic Technology and Processing: A Practical Working Guide (Materials and Processing Technology)	    
+
+
+CERAMIC TECHNOLOGY AND PROCESSING
+
+by
+
+Alan G. King Twinsburg, Ohio
+
+NOYES PUBLICATIONS WILLIAM ANDREW PUBLISHING Norwic...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Thermoplastics Melt Rheology and Processing	    
+
+
+THERMOPLASTIC MELT RHEOLOGY AND PROCESSING A.V. SHENOY Advisory Consultant Pune, India
+
+SAINI National Chemical Laborat...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Semiconductor Materials and Process Technology Handbook	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Rheology for Polymer Melt Processing (Rheology Series)	    
+
+
+RHEOLOGY FOR POLYMER MELT PROCESSING
+
+ RHEOLOGY SERIES Advisory Editor: K. Waiters FRS, Professor of Applied Mathematic...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		A Practical Approach to Rheology and Rheometry	    
+
+
+Rheology
+
+A Practical Approach to Rheology and Rheometry by Gebhard Schramm
+
+2nd Edition
+
+Gebrueder HAAKE GmbH, Karlsru...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Nanotechnology and Materials Technology	    
+
+
+Conte nts
+
+Int roduction
+
+·····························································································...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Spintronic Materials and Technology	    
+
+
+Spintronic Materials and Technology
+
+ Series in Materials Science and Engineering Series Editors: B Cantor, University ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+Report "Rheology Modifiers Handbook: Practical Use and Applilcation (Materials and Processing Technology)"
+
+
+
+Your name
+
+
+
+Email
+
+
+
+Reason
+
+-Select Reason-
+Pornographic
+Defamatory
+Illegal/Unlawful
+Spam
+Other Terms Of Service Violation
+File a copyright complaint
+
+
+
+Description
+
+
+
+
+
+
+
+
+
+
+Close
+Send
+
+
+
+
+
+
+
+		Copyright © 2023 EPDF.PUB. All rights reserved.
+		
+About Us | 
+		    Privacy Policy |  
+		    Terms of Service |  
+		    Copyright | 
+		    DMCA | 
+		    Contact Us | 
+		    Cookie Policy
+
+
+
+
+
+
+
+
+×
+Sign In
+
+
+
+
+Email
+
+
+
+Password
+
+
+
+
+
+
+ Remember me
+				    
+Forgot password?
+
+
+Sign In
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    Our partners will collect data and use cookies for ad personalization and measurement. Learn how we and our ad partner Google, collect and use data. Agree & close
+
+
+
+
+

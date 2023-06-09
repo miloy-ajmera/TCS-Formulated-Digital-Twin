@@ -1,0 +1,710 @@
+Document Name: role of Lactoperoxidase AMI in Protective Cream1
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5768111/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hydrogen Peroxide: A Potential Wound Therapeutic Target? - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Med Princ Pract
+
+
+v.26(4); 2017 Aug
+
+
+                    PMC5768111
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (162K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Med Princ Pract
+
+
+v.26(4); 2017 Aug
+
+
+                    PMC5768111
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Med Princ Pract. 2017 Aug; 26(4): 301–308. Published online 2017 Apr 5.  doi: 10.1159/000475501PMCID: PMC5768111PMID: 28384636Hydrogen Peroxide: A Potential Wound Therapeutic Target?Guanya Zhu, Qi Wang, Shuliang Lu, and  Yiwen Niu*Author information Article notes Copyright and License information DisclaimerDepartment of Burns and Plastic Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China*Yiwen Niu, Department of Burns and Plastic Surgery, Ruijin Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai (China), E-Mail moc.361@63098463631Received 2016 Oct 24; Accepted 2017 Apr 5.Copyright  © 2017 by S. Karger AG, BaselAbstractHydrogen peroxide (H2O2) is a topical antiseptic used in wound cleaning which kills pathogens through oxidation burst and local oxygen production. H2O2 has been reported to be a reactive biochemical molecule synthesized by various cells that influences biological behavior through multiple mechanisms: alterations of membrane potential, generation of new molecules, and changing intracellular redox balance, which results in activation or inactivation of different signaling transduction pathways. Contrary to the traditional viewpoint that H2O2 probably impairs tissue through its high oxidative property, a proper level of H2O2 is considered an important requirement for normal wound healing. Although the present clinical use of H2O2 is still limited to the elimination of microbial contamination and sometimes hemostasis, better understanding towards the sterilization ability and cell behavior regulatory function of H2O2 within wounds will enhance the potential to exogenously augment and manipulate healing.Keywords: Hydrogen peroxide, Wound healing, Therapeutic targetSignificiance of the Study• Currently, effective and practical treatments of chronic wounds are still clinical challenges. The main clinical use of hydrogen peroxide (H2O2) is to clean wounds for disinfection in a concentration of 3%. With advances in research, H2O2 at µM levels has been reported to act as a signaling molecule which drives redox-sensitive signaling mechanisms to improve dermal wound healing. This review discussed the roles of H2O2 in cutaneous wound healing and its future use in treating chronic wounds.IntroductionAmong various reactive oxygen species (ROS), hydrogen peroxide (H2O2) is relatively poorly reactive, which allows it to migrate further from its site of generation to serve as a signaling molecule or second messenger [1]. When a cutaneous injury happens, the concentration of H2O2 in surrounding tissue rises immediately and then peaks and fades away [2]. This dynamic change of H2O2 level accompanies the wound healing course and the concentration of H2O2 in wound tissue influences the outcome to a certain extent.Wound healing is a tightly controlled process in which H2O2 plays multiple functions. Apart from killing microorganisms, H2O2 also serves as a signaling molecule or second messenger which delivers a damage message and stimulates effector cells to respond [3]. H2O2 regulates gene expression through several ways: synthesis of more transcription factors; inhibiting the ubiquitin E3 ligase complex or decreasing transcription factors associated with it to promote stability of the transcription factor; exposing/masking nuclear localization signals; and modulating transcription factor affinity towards deoxyribonucleic acid, coactivators, or repressors [4]. The transcription factors that receive the modulation of H2O2 are diverse, including Escherichia coli OxyR, NF-κB, activator protein-1, hypoxia-inducible factor-1, etc. These diverse actions could explain the broad impact brought by H2O2[4].The biological effect of H2O2 is dose dependent during the wound-healing process. For example, in relatively high concentrations, H2O2 displays its strong ability of oxidization and proinflammation to disinfect wound tissue; however, in comparatively low concentrations, H2O2 assists in removing cell and pathogen debris and promotes secretion of cytokines which help tissue regeneration [5, 6, 7]. Hence, in this review, the role of H2O2 in cutaneous wound healing and its potential as a chronic wound healing agent are discussed.The Production of Endogenous Hydrogen Peroxide after Cutaneous InjuryH2O2 is produced in aerobic cells as a byproduct of aerobic respiration or an output of enzymatic reactions in mitochondria, peroxisomes, or other cell compartments [8, 9]. The production of H2O2 is maintained at a low level under basic conditions because of its reactivity with intracellular antioxidant systems that include ascorbic acid, glutathione, catalase, and other antioxidants [10].Once a skin wound occurs, based on an experiment performed on zebrafish by mechanically injuring its tail fin, a sustained rise in H2O2 concentration was detected at the wound margin immediately after the injury occurred [2]. The H2O2 gradient recruited leukocytes to the wound site which peaked about 20 min after occurrence of the injury and then gradually decreased [2]. Hence, the H2O2 produced after injury is a chemotactic signal as well as an inflammatory initiator.The production of H2O2 after damage is mainly mediated by nicotinamide adenine dinucleotide phosphate (NADPH) oxidase, an enzyme which has at least 7 isomers (NOX1, NOX2, NOX3, NOX4, NOX5, DUOX1, and DUOX2) [3, 11]. It is expressed mainly on the plasma membrane and subcellular membranes such as the mitochondrial and endoplasmic reticulum membrane [12, 13]. Multiple factors can induce the activation of NADPH oxidase such as mechanical injury, pathogen attack, and inflammatory cytokines [11, 14]. After activation, NADPH oxidase will convert one oxygen molecule into a superoxide anion (O2−) which quickly transforms into H2O2 under the effect of superoxide dismutase [9].Regulatory Role of Hydrogen Peroxide in Wound HealingHemostasis StageVascular destruction often appears in cutaneous wounds, resulting in blood loss and evasion of pathogens. Hence, hemostasis is the first step to restore blood volume and reduce infection. H2O2 facilitates hemostasis with several plausible mechanisms that include activating latent cell surface tissue factor, platelet aggregation, stimulating platelet-derived growth factor activation and regulating the contractility and barrier function of endothelial cells [15].Inflammatory Reaction StageInflammation disinfects wound tissue to prepare a suitable environment for cell proliferation. H2O2 in wound tissue increases significantly during the inflammatory reaction stage to act as a potent inflammatory initiator and promoter [16].The earliest immune cells arriving at the wound site are neutrophils and macrophages. They possess powerful abilities of engulfing evading microorganisms and killing them with proteases and elastase in granules [17]. Both ROS and protease are important for a phagocyte's killing efficacy [18]. The generation of ROS causes an influx of potassium ions (K+) into the phagocytic vacuole with an attendant rise in pH to the optimal level for the activity of the granule proteases [19]. H2O2 also induces mRNA expression of macrophage inflammatory protein-1α, macrophage inflammatory protein-2, and macrophage chemokine protein-1, which works as chemoattractant to recruit phagocytes [20, 21, 22]. Cellular adhesion molecules, such as intercellular adhesion molecule-1 and leukocyte function-associated antigen-1, can promote leukocyte endothelial adhesion and assist in leukocytoplania. Their expressions are also elevated in the presence of H2O2 [23, 24]. The recruitment of phagocytes is an essential step to initiate inflammation while insufficient phagocyte assembling often results in infection that hinders the wound-healing course [25].H2O2 helps with the production of some molecules with higher oxidative potential and stronger bactericidal ability. For example, H2O2 oxidizes pseudohalide thiocyanate (SCN−) to generate hypothiocyanite (HOSCN) under the catalysis of lactoperoxidase [26]. It also reacts with chloride ions to produce hypochloric acid (HOCl) in the presence of myeloperoxidase [27]. Both HOSCN and HOCl are quite cytotoxic. The H2O2 oxidizes a ferrous ion (Fe2+) to generate a ferric ion (Fe3+), a hydroxyl radical, and a hydroxyl anion in the Fenton reaction [28]. Hydroxyl radicals are highly aggressive and able to cause oxidation of cellular macromolecules [29, 30].Neutrophil extracellular trap (NET) is an effective bactericidal mechanism whose first step depends on the ROS that are derived from NADPH oxidase activation [31, 32]. Neutrophil cytosolic factor 1 (an essential component of the NOX2 complex)-mutated mice lacked formation of NETs when they developed arthritis [33]. The priming step of NACHT, LRR, and PYD domains containing protein 3 (NLRP3) inflammasome expression requires ROS as well [34]. NETs and NLRP3 inflammasome are 2 effective mechanisms of neutrophil host defense. As a most abundant ROS, H2O2 may be a participator.H2O2 is able to enhance the expression of inflammation-related genes and the synthesis of proinflammatory cytokines. TNF-α mRNA expression in human middle ear epithelial cells was significantly increased by treating with H2O2 at concentrations over 100 μM[35]. The intragastric administration of 5% H2O2 significantly increased the expression of TNF-α, IL-1β, and IL-5 mRNA [36]. It also induces secretion of proinflammatory molecules TNF-α, macrophage chemokine protein-1, IL-8, and IFN-α in epithelial cells in a dose-dependent manner [37].Patients with chronic granulomatous disease are hypersensitive to various bacterial and fungal infections due to defective NADPH oxidase activity. The inability of phagocytes to kill ingested pathogens or undergo apoptosis for the absence of H2O2 results in accumulation of bacteria-containing phagocytes and development of granulomas [38, 39]. Defective H2O2 generation contributes to lasting inflammation and suggests that H2O2 plays an essential role in inflammation regulation.Cell Proliferation StageOnce infectious sources and cell fragments are removed, restoring the absent tissue becomes the subsequent task comprised mainly in 2 forms: reepithelialization and formation of granulating tissue. For reepithelialization to begin, keratinocytes need to change their ability of adhesion and mobility to migrate from surrounding tissue to the wound site and then proliferate. A scratch-wound model made up of keratinocyte culture showed that H2O2 promoted keratinocytes' mobility at a low concentration of about 500 μM without any loss of the cells' viability [40]. The keratinocytes treated with H2O2 at a low concentration have enhanced epidermal growth factor receptor activation and ERK1/2 phosphorylation, which explains its higher potential of migration [6, 40].Angiogenesis is a key step in formation of granulation tissue. By topical application of 10 mM H2O2 to rat excisional wounds, the wound closure rate was significantly increased by a strong promotion of angiogenesis and connective tissue regeneration [5]. Cyclooxygenase-derived products, particularly prostaglandin E2, play an important role in endothelial cell migration [41, 42], while H2O2 augmented cyclooxygenase-2 protein synthesis in human endothelial cells [43]. In vitro, H2O2 can stimulate macrophages [44], retinal keratinocytes [45], and vascular smooth muscle cells [46] to release vascular endothelial growth factor which possesses a strong ability of promoting angiogenesis.In zebrafish, H2O2 derived from wounded skin cells strengthened injury-induced peripheral sensory axon regeneration that helps to innervate healing skin [47]. Similarly, H2O2 in concentrations less than 500 μM enhanced the release of heat shock protein (HSP70, HSP90) and fibroblast growth factor from cultured rat astrocytes, which contributes to neuron survival, neurite outgrowth, and angiogenesis [7]. Hence, H2O2 is probably favorable in both the structural and functional recovery of cutaneous wound.Tissue Remodeling PhaseEarly gestational fetal skin can undergo scarless repair for a lack of inflammation phase [48]. Therefore, the influence exerted by H2O2 on the inflammation phase may have a carryover effect to influence tissue remodeling.H2O2 disturbs the balance between matrix metalloproteinases and tissue inhibitors of matrix metalloproteinases [49]. A study using a murine fetal wound repair model showed that H2O2 elevated the expression of transforming growth factor (TGF)-1 and enhanced proliferation of fibroblasts [50]. NOX2 is revealed to involve in the differentiation of human dermal fibroblast into myofibroblasts in response to TGF-1 [51]. NOX4 is also reported to be involved in collagen deposition for its stimulatory effect of TGF-β1[52] (Fig. ​(Fig.11).Open in a separate windowFig. 1The roles of hydrogen peroxide (H2O2) in wound healing course. TF, tissue factor; VEGF, vascular endothelial growth factor; Cox-2, cyclooxygenase-2; EFGR, epidermal growth factor receptor; TGF-β1, transforming growth factor-β1.Current Clinical Use of Hydrogen PeroxideFor clinical irrigation, H2O2 is usually 3% (975 μM), which oxidizes protein, nucleic acid, lipids of normal healthy cells, and microorganisms at the same time [53]. The use of H2O2 to disinfect wounds continues today, but no beneficial effect of 3% H2O2 in promoting wound healing has been seen in the literature [16, 54]. In addition, the killing ability of H2O2 on pathogenic bacteria like Pseudomonas aeruginosa is doubtful because catalases are reported to exist in their bodies [55]. H2O2 is also used regularly to prepare the bony bed in cemented arthroplasties as well as to achieve hemostasis in neurosurgery [56, 57]. It is also an adjunct hemostatic to topical epinephrine in patients with known platelet dysfunction after burn excision [58]. Equally important, it has an inherent risk of fatal oxygen embolism formation [59, 60].Some drugs that contain H2O2 to treat cutaneous infection have been developed. In a cream formula, LHP®, 1% H2O2 is included in a stabilized form that allows a slow degradation and a prolonged effect [61]. H2O2 cream (Crystacide; Mipharm, Milan, Italy) is another formulation of H2O2 1% in stabilized cream that has shown good antimicrobial effect and skin tolerability [62]. A prospective clinical trial demonstrated that wound cleansing with 2% H2O2 on chronic-colonized burn wounds for 5 min followed by normal saline irrigation and grafting elevated the success rate of graft take when compared with the conventional method of debridement and skin grafting [63].Hydrogen Peroxide: Implications for Chronic Wound TreatmentChronic wounds are characterized by chronic inflammation which also appears in many chronic inflammatory diseases, such as diabetes mellitus, rheumatoid arthritis, periodontal disease, cardiovascular disease, and inflammatory bowel disease. A correct balance between H2O2 generation and detoxification mechanism must be properly maintained to avoid oxidative damages [64]. Defective leukocyte apoptosis and subsequent removal of apoptotic cells by phagocytes is thought to be important for the initiation and propagation of chronic inflammation. The role of NADPH oxidase-derived H2O2 to induce apoptosis of phagocytes and resolution of inflammation has been reported in a model of antigen-induced arthritis [65]. It is possible to take advantage of this function of H2O2 to regulate pathogenic inflammation in chronic wounds.The H2O2 concentrations change in wound tissue influences the healing rate. In a murine model of wound healing, topical application of 50 mM H2O2 promoted wound closure while 3% H2O2 (980 mM) delayed healing [16]. In a mouse model of excisional wounds, 10 mM H2O2 promoted wound closure but 166 mM retarded it when compared with control mice [5]. H2O2 can pass through the plasma membrane through specific aquaporin expressed on cells' membranes [8]. Pentafluorobenzenesulfonyl-fluorescein (HPF), a H2O2-selective chemical sensor showed an elevated intracellular redox level after exogenous H2O2 treatment [66]. By treating wild-type zebrafish larvae in the absence of injury with 3 mM H2O2 and then comparing their mRNA with an untreated group, 414 transcripts were found to be significantly upregulated while 256 were significantly downregulated [66]. Therefore, the application of exogenous H2O2 can lead to cellular behavior change. Apparently, H2O2 wound healing might be mainly based on acute injury models. There are few articles [37, 67] about the behavior of H2O2 in chronic wounds. The abnormal inflammation underlying a chronic wound may disturb the dynamic generation and clearance of H2O2 at the wound site.Hypoxia is a key feature of many chronic wounds. The partial pressure of oxygen (PO2) in nonspecified chronic wounds has been reported to be in the range of 5–20 mm Hg while typical values in healthy tissue are 30–50 mm Hg [68]. The production of ROS mediated by NADPH-linked oxygenase is a highly oxygen-dependent process: the half maximal velocity (km) for NADPH-linked oxygenase with oxygen as a substrate is a PO2 value of 40–80 mm Hg [67]. The level of ROS is highly relevant with neutrophil antibacterial activity because it is responsible for neutrophil respiratory burst. Neutrophils were shown in vitro to lose their bacterial killing capacity at a PO2 level below 40 mm Hg [67]. This loss could be attributed to the reduction of ROS. The decrease in neutrophil antibacterial activity contributes to infection and this may partly explain the significant bacterial colonization in hypoxic chronic wounds. Therefore, long-time hypoxia could lead to ROS reduction. As a most abundant ROS, the reduction of H2O2 will impact negatively on wound healing, such as aggravated infection, decreased cytokines secretion, and abnormal inflammation.Some treatments which generate low concentration H2O2 accelerate wound healing to a certain extent. Nonthermal atmospheric plasma (NAP) has been used in the clinical setting to accelerate wound healing [69]. Some changes exerted by NAP were abolished by catalase and the cells' responses to NAP treatment are similar to incubating in H2O2 in a similar concentration [69, 70], as exemplified by the plasma-induced profound extracellular trap formation (NET), which can be inhibited by the presence of catalase. However, adding an equivalent concentration of H2O2 cannot induce NET [71]. The NET formation may involve other constituents induced by plasma, but H2O2 is indispensable. In clinical practice, the application of NAP can achieve a significant reduction in bacterial load on chronic wounds and successfully remove the biofilm [72, 73]. Its sterilization effect does not depend on the pathogen species and can even resist multidrug-resistant bacteria [74]. Some reports indicate that NAP can enhance the proliferation rate of basal keratinocytes and endothelial cells [75, 76]. The 350 downregulated and 400 upregulated transcripts of keratinocytes after NAP treatment highlighted its powerful ability to influence gene expression [77].Modern licensed dressings containing medical-grade honey like Surgihoney® and Revamil® have earned renewed interest in its clinical potential for conventional wound care [78, 79]. Laboratory investigations have shown that low concentrations of H2O2 are normally generated in these honeys when they are diluted. Glucose oxidase (an enzyme secreted into honey by worker bees) oxidizes glucose to gluconic acid with the release of H2O2[78]. The antimicrobial ability of honey is partly contributed to H2O2. In a study testing the antimicrobial activity and the maximum output of H2O2 among 3 honey prototypes, there was a linear relationship between them. The more H2O2 the honey produces, the stronger antimicrobial ability it has [79]. Some biologically modified honey has also been reported to stimulate monocytes to secrete cytokines like TNF-α, IL-1β, and IL-6 and it may be attributed to H2O2[80].Hydrogen Peroxide Could Be a Target for Wound TreatmentOne of the priorities of chronic wound treatment is to form a favorable microenvironment that is receptive to therapies. Therapies that correct H2O2 to an appropriate level may help wound healing through ameliorating wound redox environment.However, more basic experiments and clinical trials are needed to testify this hypothesis. First, it should be explored whether there are abnormalities in the distribution and concentration of H2O2 in chronic wounds. Second, new methods to regulate H2O2 more stably and precisely should be further researched to make treatment more standardized.Potential Future UseUncontrolled production or decomposition of H2O2 is likely to result in tissue injury and has been associated with increased susceptibility to diseases due to the unbalanced redox homeostasis. Further study about the critical role of H2O2 in inflammation initiation, development, and resolution could help precise regulation of inflammation progression. The therapeutic effect of H2O2 might not be limited to only chronic wound, but also applied to other diseases characterized by abnormal inflammation.ConclusionNormal wound healing is a carefully controlled balance of destructive processes necessary to remove damaged tissue and repair processes which lead to new tissue formation. The dynamic change of H2O2 in wound tissue helps to keep the balance during the wound-healing course. H2O2 promotes oxidative stress as well as resolves inflammation, which makes it a bidirectional inflammation regulator. Uncontrolled H2O2 generation will result in chronic inflammation which contributes to delayed wound healing. Through further research upon its immune regulatory function, some therapies taking H2O2 as a target can be invented to promote chronic wound healing.Disclosure StatementThe authors report no conflicting interests.AcknowledgmentWe would like to thank the Natural Science Foundation of China (81272111, 81671917) for their financial support.NotesGuanya Zhu and Qi Wang contributed equally to this work.References1. Appenzeller-Herzog C, Bánhegyi G, Bogeski I, et al. Transit of H2O2 across the endoplasmic reticulum membrane is not sluggish. Free Radic Biol Med. 2016;94:157–160. [PubMed] [Google Scholar]2. Niethammer P, Grabher C, Look AT, et al. A tissue-scale gradient of hydrogen peroxide mediates rapid wound detection in zebrafish. Nature. 2009;459:996–999. [PMC free article] [PubMed] [Google Scholar]3. van der Vliet A, Janssen-Heininger YM. Hydrogen peroxide as a damage signal in tissue injury and inflammation: murderer, mediator, or messenger? J Cell Biochem. 2014;115:427–435. [PMC free article] [PubMed] [Google Scholar]4. Marinho HS, Real C, Cyrne L, et al. Hydrogen peroxide sensing, signaling and regulation of transcription factors. Redox Biol. 2014;2:535–562. [PMC free article] [PubMed] [Google Scholar]5. Loo AE, Wong YT, Ho R, et al. Effects of hydrogen peroxide on wound healing in mice in relation to oxidative damage. PLoS One. 2012;7:e49215. [PMC free article] [PubMed] [Google Scholar]6. Loo AE, Halliwell B. Effects of hydrogen peroxide in a keratinocyte-fibroblast co-culture model of wound healing. Biochem Biophys Res Commun. 2012;423:253–258. [PubMed] [Google Scholar]7. Ito J, Nagayasu Y, Hoshikawa M, et al. Enhancement of FGF-1 release along with cytosolic proteins from rat astrocytes by hydrogen peroxide. Brain Res. 2013;1522:12–21. [PubMed] [Google Scholar]8. Bienert GP, Schjoerring JK, Jahn TP, et al. Membrane transport of hydrogen peroxide. Biochim Biophys Acta. 2006;1758:994–1003. [PubMed] [Google Scholar]9. Marschall R, Tudzynski P. Reactive oxygen species in development and infection processes. Semin Cell Dev Biol. 2016;57:138–146. [PubMed] [Google Scholar]10. Espinosa-Diez C, Migue lV, Mennerich D, et al. Antioxidant responses and cellular adjustments to oxidative stress. Redox Biol. 2015;6:183–197. [PMC free article] [PubMed] [Google Scholar]11. Panday A, Sahoo MK, Osorio D, et al. NADPH oxidases: an overview from structure to innate immunity-associated pathologies. Cell Mol Immunol. 2015;12:5–23. [PMC free article] [PubMed] [Google Scholar]12. Graham KA, Kulawiec M, Owens KM, et al. NADPH oxidase 4 is an oncoprotein localized to mitochondria. Cancer Biol Ther. 2010;10:223–231. [PMC free article] [PubMed] [Google Scholar]13. Laurindo FR, Araujo TL, Abrahao TB, et al. Nox NADPH oxidases and the endoplasmic reticulum. Antioxid Redox Signal. 2014;20:2755–2775. [PMC free article] [PubMed] [Google Scholar]14. El-Benna J, Dang PM, Gougerot-Pocidalo MA. Priming of the neutrophil NADPH oxidase activation: role of p47phox phosphorylation and NOX2 mobilization to the plasma membrane. Semin Immunopathol. 2008;30:279–289. [PubMed] [Google Scholar]15. Sen CK, Roy S. Redox signals in wound healing. Biochim Biophys Acta. 2008;1780:1348–1361. [PMC free article] [PubMed] [Google Scholar]16. Roy S, Khanna S, Nallu K, et al. Dermal wound healing is subject to redox control. Mol Ther. 2006;13:211–220. [PMC free article] [PubMed] [Google Scholar]17. Kim MH, Kim MH, Liu W, et al. Dynamics of neutrophil infiltration during cutaneous wound healing and infection using fluorescence imaging. J Invest Dermatol. 2008;128:1812–1820. [PMC free article] [PubMed] [Google Scholar]18. Segal AW, Geisow M, Garcia R, et al. The respiratory burst of phagocytic cells is associated with a rise in vacuolar pH. Nature. 1981;290:406–409. [PubMed] [Google Scholar]19. Reeves EP, Lu H, Jacob HL, et al. Killing activity of neutrophils is mediated through activation of proteases by K+ flux. Nature. 2002;416:291–297. [PubMed] [Google Scholar]20. Shi MM, Chong I, Godleski JJ, et al. Regulation of macrophage inflammatory protein-2 gene expression by oxidative stress in rat alveolar macrophages. Immunology. 1999;97:309–315. [PMC free article] [PubMed] [Google Scholar]21. Shi MM, Godleski JJ, Paulauskis JD, et al. Regulation of macrophage inflammatory protein-1alpha mRNA by oxidative stress. J Biol Chem. 1996;271:5878–5883. [PubMed] [Google Scholar]22. Jaramillo M, Olivier M. Hydrogen peroxide induces murine macrophage chemokine gene transcription via extracellular signal-regulated kinase- and cyclic adenosine 5′-monophosphate (cAMP)-dependent pathways: involvement of NF-kappa B, activator protein 1, and cAMP response element binding protein. J Immunol. 2002;169:7026–7038. [PubMed] [Google Scholar]23. Fraticelli A, Serrano CV, Jr, Bochner BS, et al. Hydrogen peroxide and superoxide modulate leukocyte adhesion molecule expression and leukocyte endothelial adhesion. Biochim Biophys Acta. 1996;1310:251–259. [PubMed] [Google Scholar]24. Lu H, Youker K, Ballantyne C, et al. Hydrogen peroxide induces LFA-1-dependent neutrophil adherence to cardiac myocytes. Am J Physiol Heart Circ Physiol. 2000;278:H835–H842. [PubMed] [Google Scholar]25. Mohd Nasir N, Lee BK, Yap SS, et al. Cold plasma inactivation of chronic wound bacteria. Arch Biochem Biophys. 2016;605:76–85. [PubMed] [Google Scholar]26. Wijkstrom-Frei C, El-Chemaly S, Ali-Rachedi R, et al. Lactoperoxidase and human airway host defense. Am J Respir Cell Mol Biol. 2003;29:206–212. [PubMed] [Google Scholar]27. Schreml S, Landthaler M, Schäferling M, et al. A new star on the H2O2rizon of wound healing? Exp Dermatol. 2011;20:229–231. [PubMed] [Google Scholar]28. Tovmasyan A, Sheng H, Weitner T, et al. Design, mechanism of action, bioavailability and therapeutic effects of Mn porphyrin-based redox modulators. Med Princ Pract. 2013;22:103–130. [PMC free article] [PubMed] [Google Scholar]29. Kanta J. The role of hydrogen peroxide and other reactive oxygen species in wound healing. Acta Medica (Hradec Kralove) 2011;54:97–101. [PubMed] [Google Scholar]30. Schafer M, Werner S. Oxidative stress in normal and impaired wound repair. Pharmacol Res. 2008;58:165–171. [PubMed] [Google Scholar]31. Cooper PR, Palmer LJ, Chapple IL. Neutrophil extracellular traps as a new paradigm in innate immunity: friend or foe? Periodontol 2000. 2013;63:165–197. [PubMed] [Google Scholar]32. Muñoz-Caro T, Lendner M, Daugschies A, et al. NADPH oxidase, MPO, NE, ERK1/2, p38 MAPK and Ca2+ influx are essential for Cryptosporidium parvum-induced NET formation. Dev Comp Immunol. 2015;52:245–254. [PubMed] [Google Scholar]33. Holmdahl R, Sareila O, Olsson LM, et al. Ncf1 polymorphism reveals oxidative regulation of autoimmune chronic inflammation. Immunol Rev. 2016;269:228–247. [PubMed] [Google Scholar]34. Bauernfeind F, Bartok E, Rieger A, et al. Cutting edge: reactive oxygen species inhibitors block priming, but not activation, of the NLRP3 inflammasome. J Immunol. 2011;187:613–617. [PMC free article] [PubMed] [Google Scholar]35. Song JJ, Lim HW, Kim K, et al. Effect of caffeic acid phenethyl ester (CAPE) on H2O2 induced oxidative and inflammatory responses in human middle ear epithelial cells. Int J Pediatr Otorhinolaryngol. 2012;76:675–679. [PubMed] [Google Scholar]36. Cui Z, Yin J, Wang L, et al. Effects of pro-inflammatory cytokines and antioxidants expression in the jejunum of mice induced by hydrogen peroxide. Int Immunopharmacol. 2016;31:9–14. [PubMed] [Google Scholar]37. Bryan N, Ahswin H, Smart N, et al. Reactive oxygen species (ROS) – a family of fate deciding molecules pivotal in constructive inflammation and wound healing. Eur Cell Mater. 2012;24:249–265. [PubMed] [Google Scholar]38. Roos D. Chronic granulomatous disease. Br Med Bull. 2016;118:50–63. [PMC free article] [PubMed] [Google Scholar]39. Fridovich I. Oxygen: how do we stand it? Med Princ Pract. 2013;22:131–137. [PMC free article] [PubMed] [Google Scholar]40. Loo AE, Ho R, Halliwell B. Mechanism of hydrogen peroxide-induced keratinocyte migration in a scratch-wound model. Free Radic Biol Med. 2011;51:884–892. [PubMed] [Google Scholar]41. Kuwano T, Nakao S, Yamamoto H, et al. Cyclooxygenase 2 is a key enzyme for inflammatory cytokine-induced angiogenesis. FASEB J. 2004;18:300–310. [PubMed] [Google Scholar]42. Rao R, Redha R, Macias-Perez I, et al. Prostaglandin E2-EP4 receptor promotes endothelial cell migration via ERK activation and angiogenesis in vivo. J Biol Chem. 2007;282:16959–16968. [PubMed] [Google Scholar]43. Eligini S, Arenaz I, Barbieri SS, et al. Cyclooxygenase-2 mediates hydrogen peroxide-induced wound repair in human endothelial cells. Free Radic Biol Med. 2009;46:1428–1436. [PubMed] [Google Scholar]44. Cho M, Hunt TK, Hussain MZ, et al. Hydrogen peroxide stimulates macrophage vascular endothelial growth factor release. Am J Physiol Heart Circ Physiol. 2001;280:H2357–H2363. [PubMed] [Google Scholar]45. Brauchle M, Funk JO, Kind P, et al. Ultraviolet B and H2O2 are potent inducers of vascular endothelial growth factor expression in cultured keratinocytes. J Biol Chem. 1996;271:21793–21797. [PubMed] [Google Scholar]46. Ruef J, Hu ZY, Yin LY, et al. Induction of vascular endothelial growth factor in balloon-injured baboon arteries. A novel role for reactive oxygen species in atherosclerosis. Circ Res. 1997;81:24–33. [PubMed] [Google Scholar]47. Rieger S, Sagasti A. Hydrogen peroxide promotes injury-induced peripheral sensory axon regeneration in the zebrafish skin. PLoS Biol. 2011;9:e1000621. [PMC free article] [PubMed] [Google Scholar]48. Longaker MT, Whitby DJ, Adzick NS, et al. Studies in fetal wound healing, VI. Second and early third trimester fetal wounds demonstrate rapid collagen deposition without scar formation. J Pediatr Surg. 1990;25:63–68. discussion 68–69. [PubMed] [Google Scholar]49. Hemmerlein B, Johanns U, Halbfass J, et al. The balance between MMP-2/-9 and TIMP-1/-2 is shifted towards MMP in renal cell carcinomas and can be further disturbed by hydrogen peroxide. Int J Oncol. 2004;24:1069–1076. [PubMed] [Google Scholar]50. Wilgus TA, Bergdall VK, Dipietro LA, et al. Hydrogen peroxide disrupts scarless fetal wound repair. Wound Repair Regen. 2005;13:513–519. [PubMed] [Google Scholar]51. Zhang GY, Wu LC, Dai T, et al. NADPH oxidase-2 is a key regulator of human dermal fibroblasts: a potential therapeutic strategy for the treatment of skin fibrosis. Exp Dermatol. 2014;23:639–644. [PubMed] [Google Scholar]52. Chan EC, Peshavariya HM, Liu GS, et al. Nox4 modulates collagen production stimulated by transforming growth factor β1 in vivo and in vitro. Biochem Biophys Res Commun. 2013;430:918–925. [PubMed] [Google Scholar]53. Yamada Y, Mokudai T, Nakamura K, et al. Topical treatment of oral cavity and wounded skin with a new disinfection system utilizing photolysis of hydrogen peroxide in rats. J Toxicol Sci. 2012;37:329–335. [PubMed] [Google Scholar]54. Spear M. Wound cleansing: solutions and techniques. Plast Surg Nurs. 2011;31:29–31. [PubMed] [Google Scholar]55. Thomas GW, Rael LT, Bar-Or R, et al. Mechanisms of delayed wound healing by commonly used antiseptics. J Trauma. 2009;66:82–90. discussion 90–81. [PubMed] [Google Scholar]56. Kolt JD, Robin DA, Carr AM, et al. Safety of autologous drainage blood reinfusion following total knee arthroplasty prepared with hydrogen peroxide. Knee. 2007;14:12–18. [PubMed] [Google Scholar]57. Ackland DC, Yap V, Ackland ML, et al. Pulse-lavage brushing followed by hydrogen peroxide-gauze packing for bone-bed preparation in cemented total hip arthroplasty: a bovine model. J Orthop Surg (Hong Kong) 2009;17:296–300. [PubMed] [Google Scholar]58. Potyondy L, Lottenberg L, Anderson J, et al. The use of hydrogen peroxide for achieving dermal hemostasis after burn excision in a patient with platelet dysfunction. J Burn Care Res. 2006;27:99–101. [PubMed] [Google Scholar]59. Beattie C, Harry LE, Hamilton SA, et al. Cardiac arrest following hydrogen peroxide irrigation of a breast wound. J Plast Reconstr Aesthet Surg. 2010;63:e253–e254. [PubMed] [Google Scholar]60. Mut M, Yemisci M, Gursoy-Ozdemir Y, et al. Hydrogen peroxide-induced stroke: elucidation of the mechanism in vivo. J Neurosurg. 2009;110:94–100. [PubMed] [Google Scholar]61. Toth T, Broström H, Båverud V, et al. Evaluation of LHP(R) (1% hydrogen peroxide) cream versus petrolatum and untreated controls in open wounds in healthy horses: a randomized, blinded control study. Acta Vet Scand. 2011;53:45. [PMC free article] [PubMed] [Google Scholar]62. Capizzi R, Landi F, Milani M, et al. Skin tolerability and efficacy of combination therapy with hydrogen peroxide stabilized cream and adapalene gel in comparison with benzoyl peroxide cream and adapalene gel in common acne. A randomized, investigator-masked, controlled trial. Br J Dermatol. 2004;151:481–484. [PubMed] [Google Scholar]63. Mohammadi AA, Seyed Jafari SM, Kiasat M, et al. Efficacy of debridement and wound cleansing with 2% hydrogen peroxide on graft take in the chronic-colonized burn wounds; a randomized controlled clinical trial. Burns. 2013;39:1131–1136. [PubMed] [Google Scholar]64. De Deken X, Corvilain B, Dumont JE, et al. Roles of DUOX-mediated hydrogen peroxide in metabolism, host defense, and signaling. Antioxid Redox Signal. 2014;20:2776–2793. [PubMed] [Google Scholar]65. Lopes F, Coelho FM, Costa VV, et al. Resolution of neutrophilic inflammation by H2O2 in antigen-induced arthritis. Arthritis Rheum. 2011;63:2651–2660. [PubMed] [Google Scholar]66. Lisse TS, King BL, Rieger S. Comparative transcriptomic profiling of hydrogen peroxide signaling networks in zebrafish and human keratinocytes: implications toward conservation, migration and wound healing. Sci Rep. 2016;6:20328. [PMC free article] [PubMed] [Google Scholar]67. Schreml S, Szeimies RM, Prantl L, et al. Oxygen in acute and chronic wound healing. Br J Dermatol. 2010;163:257–268. [PubMed] [Google Scholar]68. Kendall AC, Whatmore JL, Winyard PG, et al. Hyperbaric oxygen treatment reduces neutrophil-endothelial adhesion in chronic wound conditions through S-nitrosation. Wound Repair Regen. 2013;21:860–868. [PubMed] [Google Scholar]69. Bekeschus S, Schmidt A, Weltmann K-D, et al. The plasma jet kINPen – a powerful tool for wound healing. Clin Plasma Med. 2016;4:19–28. [Google Scholar]70. Bekeschus S, Kolata J, Winterbourn C, et al. Hydrogen peroxide: a central player in physical plasma-induced oxidative stress in human blood cells. Free Radic Res. 2014;48:542–549. [PubMed] [Google Scholar]71. Bekeschus S, Winterbourn CC, Kolata J, et al. Neutrophil extracellular trap formation is elicited in response to cold physical plasma. J Leukoc Biol. 2016;100:791–799. [PubMed] [Google Scholar]72. Isbary G, Heinlin J, Shimizu T, et al. Successful and safe use of 2 min cold atmospheric argon plasma in chronic wounds: results of a randomized controlled trial. Br J Dermatol. 2012;167:404–410. [PMC free article] [PubMed] [Google Scholar]73. Fricke K, Koban I, Tresp H, et al. Atmospheric pressure plasma: a high-performance tool for the efficient removal of biofilms. PLoS One. 2012;7:e42539. [PMC free article] [PubMed] [Google Scholar]74. Daeschlein G, Scholz S, Ahmed R, et al. Skin decontamination by low-temperature atmospheric pressure plasma jet and dielectric barrier discharge plasma. J Hosp Infect. 2012;81:177–183. [PubMed] [Google Scholar]75. Hasse S, Duong Tran T, Hahn O, et al. Induction of proliferation of basal epidermal keratinocytes by cold atmospheric-pressure plasma. Clin Exp Dermatol. 2016;41:202–209. [PubMed] [Google Scholar]76. Kalghatgi S, Friedman G, Fridman A, et al. Endothelial cell proliferation is enhanced by low dose non-thermal plasma through fibroblast growth factor-2 release. Ann Biomed Eng. 2010;38:748–757. [PubMed] [Google Scholar]77. Schmidt A, Dietrich S, Steuer A, et al. Non-thermal plasma activates human keratinocytes by stimulation of antioxidant and phase II pathways. J Biol Chem. 2015;290:6731–6750. [PMC free article] [PubMed] [Google Scholar]78. Cooper R. Honey as an effective antimicrobial treatment for chronic wounds: is there a place for it in modern medicine? Chronic Wound Care Management Res. 2014;1:15. [Google Scholar]79. Cooke J, Dryden M, Patton T, et al. The antimicrobial activity of prototype modified honeys that generate reactive oxygen species (ROS) hydrogen peroxide. BMC Res Notes. 2014;8:20. [PMC free article] [PubMed] [Google Scholar]80. Tonks AJ, Cooper RA, Jones KP, et al. Honey stimulates inflammatory cytokine production from monocytes. Cytokine. 2003;21:242–247. [PubMed] [Google Scholar]Articles from Medical Principles and Practice are provided here courtesy of Karger Publishers
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (162K)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

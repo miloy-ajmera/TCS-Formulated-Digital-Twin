@@ -1,0 +1,712 @@
+Document Name: role of Lipopeg 39-S in Protective Cream2
+Document link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3918523/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recent Developments in Delivery, Bioavailability, Absorption and Metabolism of Curcumin: the Golden Pigment from Golden Spice - PMC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Back to Top
+        
+Skip to main content
+
+
+
+
+
+
+An official website of the United States government
+
+Here's how you know
+
+
+
+
+
+
+
+
+The .gov means it’s official.
+
+            Federal government websites often end in .gov or .mil. Before
+            sharing sensitive information, make sure you’re on a federal
+            government site.
+          
+
+
+
+
+
+
+The site is secure.
+
+            The https:// ensures that you are connecting to the
+            official website and that any information you provide is encrypted
+            and transmitted securely.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+
+Show account info
+
+
+
+
+
+Close
+Account
+
+
+						Logged in as:
+username
+
+
+
+Dashboard
+Publications
+Account settings
+Log out
+
+
+
+
+
+
+
+
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search PMC Full-Text Archive
+
+
+
+
+
+Search in PMC
+
+
+
+
+
+
+
+                            Advanced Search
+                        
+
+
+
+                            User Guide
+                        
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Cancer Res Treat
+
+
+v.46(1); 2014 Jan
+
+
+                    PMC3918523
+                
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.5M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Journal List
+
+
+Cancer Res Treat
+
+
+v.46(1); 2014 Jan
+
+
+                    PMC3918523
+                
+
+
+
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    
+        Learn more about our disclaimer.
+    
+
+
+
+
+
+Cancer Res Treat. 2014 Jan; 46(1): 2–18. Published online 2014 Jan 15.  doi: 10.4143/crt.2014.46.1.2PMCID: PMC3918523PMID: 24520218Recent Developments in Delivery, Bioavailability, Absorption and Metabolism of Curcumin: the Golden Pigment from Golden SpiceSahdeo Prasad, PhD, Amit K. Tyagi, PhD, and  Bharat B. Aggarwal, PhDSahdeo PrasadCytokine Research Laboratory, Department of Experimental Therapeutics, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.Find articles by Sahdeo PrasadAmit K. TyagiCytokine Research Laboratory, Department of Experimental Therapeutics, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.Find articles by Amit K. TyagiBharat B. AggarwalCytokine Research Laboratory, Department of Experimental Therapeutics, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.Find articles by Bharat B. AggarwalAuthor information Article notes Copyright and License information DisclaimerCytokine Research Laboratory, Department of Experimental Therapeutics, The University of Texas MD Anderson Cancer Center, Houston, TX, USA.Corresponding author.
+Correspondence: Bharat B. Aggarwal, PhD. Division of Cancer Medicine (Biochemistry), The University of Texas MD Anderson Cancer Center, Houston, TX 77054, USA. Tel: 1-713-794-1817, Fax: 1-713-745-1710, gro.nosrednadm@lawraggaReceived 2013 Dec 25; Accepted 2013 Dec 31.Copyright  © 2014 by the Korean Cancer AssociationThis is an Open-Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.AbstractCurcumin (diferuloylmethane) is a yellow pigment present in the spice turmeric (Curcuma longa) that has been associated with antioxidant, anti-inflammatory, anticancer, antiviral, and antibacterial activities as indicated by over 6,000 citations. In addition, over one hundred clinical studies have been carried out with curcumin. One of the major problems with curcumin is perceived to be the bioavailability. How curcumin should be delivered in vivo, how bioavailable is it, how well curcumin is absorbed and how it is metabolized, is the focus of this review. Various formulations of curcumin that are currently available are also discussed.Keywords: Curcumin, Nano-formulation, Biological availability, Metabolism, AnticancerIntroductionCurcumin is the major active component of turmeric, a yellow compound originally isolated from the plant Curcuma longa. It is a member of the curcuminoid family and has been used for centuries in traditional medicines. As a spice, it provides curry with its distinctive color and flavor. Furthermore, traditional Indian medicine has considered curcumin a drug effective for various respiratory conditions (asthma, bronchial hyperactivity, and allergy) as well as for other disorders including anorexia, coryza, cough, hepatic diseases, and sinusitis [1,2]. Extensive research over the past 30 years has shown that it plays an important role in the prevention and treatment of various pro-inflammatory chronic diseases including neurodegenerative, cardiovascular, pulmonary, metabolic, autoimmune and malignant diseases.How curcumin could exhibit these diverse effects has been a clandestine over the years. However, numerous line of evidence indicates that this agent is highly pleiotropic with anti-inflammatory [3], hypoglycemic [4,5], antioxidant [6], wound healing [7], and antimicrobial activities [8]. It has been shown to possess chemosensitization, chemotherapeutic and radiosensitization activities as well [9]. Curcumin has been studied for its chemopreventive potential in a wide variety of cancers, in both preclinical studies and in clinical trials [10]. Many clinical trials using curcumin as a therapeutic agent are underway [11]. Because of its marvelous properties, curcumin is being marketed in several countries including the United States, India, Japan, Korea, Thailand, China, Turkey, South Africa, Nepal, and Pakistan in different form such as capsules, tablets, ointments, energy drinks, soaps, and cosmetics (Fig. 1).Open in a separate windowFig. 1Various curcumin-based products include capsules, tablets, ointments, energy drinks, soaps, and cosmetics.The molecular basis of these pleiotropic effects of curcumin is due to the modulation of various signaling molecules. Various experimental studies have reported that curcumin has ability to inhibit proinflammatory transcription factors nuclear factor-kappaB (NF-κB) in several types of cancer [12]. Beside NF-κB, curcumin also inhibits activation of signal transducer and activator of transcription-3, and Wnt/beta-catenin, and activates peroxisome proliferator-activated receptor-gamma and Nrf2 cell-signaling pathways, thus leading to the down regulation of adipokines, including tumor necrosis factor (TNF), interleukin (IL)-6, resistin, leptin, and monocyte chemotactic protein-1, and the upregulation of adiponectin and other gene products [13]. Curcumin also modulate several inflammatory molecules along with cell survival proteins, histone acetylase, histone deacetylase, protein kinases, protein reductases, glyoxalase I, proteasome, human immunodeficiency virus type 1 (HIV1) integrase, HIV1 protease, FtsZ protofilaments, carrier proteins, DNA, RNA, and metal ions [14].In this context, curcumin seems to offer an ideal agent because significant evidence has indicated its potential against several chronic diseases. Also, curcumin targets several of molecular pathways without any associated toxicity or resistance. In spite of its efficacy and safety, curcumin has not yet been approved as a therapeutic agent in part perhaps because of lack of intellectual rights to it. The poor aqueous solubility, relatively low bioavailability, and intense staining color of curcumin have been highlighted as major problems [15]. However, numerous reports suggest that bioavailability could not be a concern. Various type of formulations that have been designed with curcumin are outlined in Fig. 2. In this article, we analyze the delivery, bioavailability and metabolism of curcumin and its formulation.Open in a separate windowFig. 2Redesign of curcumin through various strategies to enhance bioavailability. GMO, glyceryl monoleate; PLGA, polylactic-co-glycolic acid; PHEMA, poly(2-hydroxyethyl methacrylate); PEG-PEI, polyethylene glycol-poly(ethylene imine).Delivery of Curcumin1. Oral deliveryIn most of studies curcumin has been delivered orally whether subject is human or animals. This orally delivered curcumin showed several biological effects such as antioxidant, anti-inflammatory, anticancer, antidiabetic, etc. Recently, it has been shown that curcumin (3 mg) administered orally in mice attenuate oxidative stress following downhill running-induced muscle damage [16]. Curcumin has also reported to affects exercise-induced oxidative stress in humans. In a study, oral administration of 90 mg of curcumin or the placebo 2 hours before exercise and immediately after exercise. Curcumin supplementation attenuated exercise-induced oxidative stress by increasing blood antioxidant capacity [17]. Orally administered curcumin inhibited inflammatory cytokines such as TNF, cyclooxygenase (COX)-2, inducible nitric oxide synthase in mice indicating its anti-inflammatory activity and further suppressing dextran sodium sulfate-induced colon carcinogenesis [18]. Clinical trials have also shown that orally delivered curcumin inhibited inflammatory molecules [12].Curcumin showed beneficial effects in several types of cancer in patients. Recently it has been reported that oral curcumin, 6.0 g daily during radiotherapy, reduced the severity of radiation dermatitis in breast cancer patients [19]. In animal model oral administration of curcumin inhibited cancer of lung [20], skin [21], head and neck [22], oral [23], hepatocellular carcinoma [24], mammary tumors, lymphomas, leukemias [25], and familial adenomatous polyposis [26]. Oral treatment of curcumin found to effective in diabetic condtion. It attenuated high fat diet-induced glucose intolerance and elevations of oxidative stress in the skeletal muscle [27]. Curcumin also enhanced wound repair in diabetic impaired healing in mice [28]. Curcumin improves the peripheral neuropathy of R98C mice by alleviating endoplasmic reticulum stress, reducing the activation of unfolded protein response and promoting Schwann cell differentiation [29]. It also protects against the pulmonary and cardiovascular effects in mice [30].2. Subcutaneous deliverySubcutaneous treatment of curcumin in animals has been used to provide effective and sustained tissue concentrations. Since sustained release of subcutaneously injected unformulated curcumin in animals is likely not possible, curcumin is formulated. A single subcutaneous dose of microparticles sustained curcumin in liver for nearly a month in mice [31]. It has been also shown that the microparticle formulation of curcumin showed marked anticancer efficacy in nude mice bearing MDA-MB-231 xenografts in mice compared with controls [32].3. Intraperitoneal (IP) deliveryIP injection is the injection of a substance into the peritoneum (body cavity). IP injection is more often applied to animals than to humans. In case of IP the bioavailability of compound is higher than gavage. Curcumin, delivered intraperitoneally, has shown inhibitory effect against lipopolysaccharide induced cardiac hypertrophy in rodents [33]. It also reduced volume of glioma tumor implanted in nude mice, and prolonged the survival of animals [34]. Another study showed that IP injection of curcumin inhibited tumorigenicity and tumor growth, decreased the percentages of myeloid-derived suppressor cells in the spleen, blood, and tumor tissues, reduced IL-6 levels in the serum and tumor tissues in a human gastric cancer xenograft model and a mouse colon cancer allograft model [35]. It has been also shown that curcumin ameliorates intracerebral hemorrhage damage by preventing matrix metalloproteinase-mediated blood-brain barrier damage and brain edema, which might provide therapeutic potential for intracerebral hemorrhage [36]. Beside these, curcumin acts against asthma. In a study it has been shown that curcumin attenuates the development of allergic airway inflammation and hyper-responsiveness, possibly through inhibition of NF-κB activation in the asthmatic lung tissue. Thus, it attenuates development of asthma by inhibition of NF-κB activation [37]. Curcumin administered IP inhibited human oral squamous cell carcinoma xenograft tumor in mice, indicating its therapeutic efficacy in vivo [23]. Interestingly, it has been shown that oral curcumin treatment showed no effect on important measures of bleomycin-induced injury in mice, whereas IP curcumin administration effectively inhibited inflammation and collagen deposition along with a trend toward improved survival of animals. IP curcumin also reduced fibrotic progression even when administered after the acute bleomycin-induced inflammation had subsided [38].Intravenous DeliveryNumerous reports have been shown that intravenous injection of curcumin exhibits anticancer property in animal model. Kim et al. [39] has shown that in curcumin has in antitumor effects in xenograft mouse model of colorectal cancer. They have also shown that curcumin loaded human serum albumin (HSA) nanoparticles has greater therapeutic effect than curcumin without inducing toxicity [39]. Several other studies reported that liposomal curcumin inhibited different type of tumor growth in mouse models. It inhibited the growth of head and neck squamous cell carcinoma in xenograft mouse by the inhibition of NF-κB without affecting the expression of pAKT [40]. Liposomal formulation of curcumin also enhanced the effect of radio and chemotherapy. Shi et al. [41] showed that liposomal curcumin when combined with radiation enhanced the inhibition of tumor growth in a murine lung carcinoma (LL/2) model. It has been also reported that intravenous treatment of liposomal curcumin in combination of cisplatin significantly enhances growth inhibition of xenograft head and neck tumors in mice. The suppressive effect of curcumin was mediated through inhibition of cytoplasmic and nuclear IKKβ, resulting in inhibition of NF-κB activity [42].Another derivative of curcumin conjugated with luteinizing hormone releasing hormone, [DLys(6)]-LHRH-curcumin, when given intravenously caused a reduction in tumor weights and volumes, and free curcumin given by gavage at an equal dose failed to cause a significant reduction in tumor weights and volumes in the nude mouse pancreatic cancer model. This bioconjugate enhanced apoptosis in tumor tissue [43]. The encapsulated curcumin with monomethoxy poly (ethylene glycol)-poly(ε-caprolactone) (MPEG-PCL) micelles also showed stronger anticancer effect than that of free curcumin. When curcumin/MPEG-PCL micelle applied intravenously inhibited the growth of subcutaneous C-26 colon carcinoma in vivo [44]. The intravenous administration of another curcumin derivative, curcumin-loaded HSA nanoparticles also showed greater therapeutic effect than curcumin in tumor xenograft HCT116 models without inducing toxicity [39].1. Topical deliveryA topical treatment is a medication that is applied to body surfaces such as the skin or mucous membranes to treat ailments. Curcumin has been used topically to study its effect mostly on inflammation on target organ, wound healing, skin cancer and other. In a study it has been reported that topical use of a curcumin gel formulation strongly inhibited imiquimod-induced psoriasis-like inflammation in BALB/c mouse ear. It inhibited mRNA levels of IL-17A, IL-17F, IL-22, IL-1β, IL-6, and TNF-α cytokines in ear skin [45]. Topical curcumin is also found to be effective in CO2 laser-induced skin wound healing. It improved re-epithelialization of wound after 7 days [46]. It has been revealed that topical treatment of curcumin and the photoinactivation of Candida albicans in a murine model of oral candidiasis caused a significant reduction in C. albicans viability. Thus, it acts photosensitizer without harming the host tissue of mice [47].Topical treatment of curcumin also inhibited ultraviolet B (UVB)-induced tumor formation in mice. Average number of tumors formed per mouse was lesser in curcumin and UVB treated mice compared to UVB exposed animals and it also delayed the onset of tumorigenesis [21]. Beside these when curcumin applied as a noninvasive topical paste to the head and neck squamous cell carcinoma (HNSCC) xenografts tumors in mice, resulted in inhibition of its growth. Thus, it can be used as an adjuvant or chemopreventive agent in several cancer [48].2. Nasal deliveryTo increase the bioavailability and also direct nose-to-brain drug transport, nasal delivery of curcumin has been used. In a study, the pharmacokinetics results showed that the absolute bioavailability of curcumin in the microemulsion-based in situ ion-sensitive gelling system was 55.82% by intranasal administration. And the distribution of curcumin in brain versus blood following intranasal administration was higher than that following intravenous administration [49]. Another study also showed that the drug-targeting efficiencies of the curcumin in the cerebrum, cerebellum, hippocampus and olfactory bulb after intranasal administration of the curcumin hydrogel were 1.82, 2.05, 2.07, and 1.51 times higher than intravenous administration of the curcumin solution injection, respectively, indicating that the hydrogel and intranasal administration significantly increased the distribution of curcumin into the rat brain tissue [50].In another study intranasal curcumin has been detected in plasma of mice after 15 minutes to 3 hours at pharmacological dose (5 mg/kg), which has shown antiasthmatic potential by inhibiting bronchoconstriction and inflammatory cell recruitment to the lungs. Thus, this study indicates that intranasal treatment of curcumin prevents airway inflammations and bronchoconstrictions in asthma without any side effect [51].Bioavailability of CurcuminEvidence from numerous literatures revealed that curcumin has poor absorption, biodistribution, metabolism, and bioavailability. Thus, continuous research on curcumin found some possible ways to overcome these problems. To increase the bioavailability, longer circulation, better permeability, and resistance to metabolic processes of curcumin several formulations have been prepared which include nanoparticles, liposomes, micelles, and phospholipid complexes (Table 1) [52-93].Table 1Reformulation of curcumin for enhanced bioavailabilityOpen in a separate windowTMC, N-trimethyl chitosan chloride; PEG-PEI, polyethylene glycol-poly(ethylene imine); DMPC, dimyristoyl phosphatidyl choline; PGL, propylene glycol liposomes; TRC-NPs, thermoresponsive chitosan-g-poly(N-isopropylacrylamide) co-polymeric nanoparticles; MPEG-PCL, methoxy poly(ethylene glycol)-poly(ε-caprolactone); PLGA-b-PEG-TPP, poly(d, l-lactic-co-glycolic acid)-block (PLGA-b)-poly(ethylene glycol) (PEG)-triphenylphosphonium (TPP) polymer; PCL-PEG-PCL, poly(ε-caprolactone)-poly(ethylene glycol)-poly(ε-caprolactone); CSO-SA, curcumin encapsulated in stearic acid-g-chitosan oligosaccharide; PHEMA-NPs, poly(2-hydroxyethyl methacrylate) nanoparticles; EMC, ethyl and methyl cellulose.1. Unformulated curcuminThe pharmacological studies revealed that curcumin is safe and effective which makes it a potential compound for treatment and prevention of a wide variety of human diseases. In spite of these, accumulating data revealed that curcumin has relatively low bioavailability and poor solubility in aqueous solution. First time Wahlstrom and Blennow in 1978 [94] reported that after oral administration of 1 g/kg of curcumin in Sprague-Dawley rats, negligible amounts of curcumin in blood plasma of rats was observed which could be its poor absorption from the gut. Later several studies conducted on bioavailability of curcumin and found that certain amount of curcumin are bioavailable in serum of animals. In a study, when curcumin was given orally at a dose of 2 g/kg to rats, a maximum serum concentration of 1.35±0.23 µg/mL was observed at time 0.83 hours, whereas in humans the same dose of curcumin resulted in either undetectable or extremely low (0.006±0.005 µg/mL at 1 hour) serum levels [95].Another study conducted in freely moving rats showed that administration of curcumin (500 mg/kg, p.o.) resulted in 1% bioavailability of curcumin in rat plasma [96]. It has been also observed that oral administration of curcumin (1,000 mg/kg) in rats showed 15 ng/mL in blood plasma at 50 minutes [97]. In contrast to rodents, oral dosing of 4-8 g of curcumin in humans showed peak plasma levels of 0.41-1.75 µM after 1 hour of dosing [98]. Similarly, in a human clinical trial, 3.6 g of curcumin via oral route was found to produce a plasma curcumin level of 11.1 nmol/L after an hour of dosing [99].However, it has been found that 10 mg/kg of curcumin given intravenous in rats gave a maximum serum curcumin level of 0.36 µg/mL, whereas a 50-fold higher curcumin dose administered orally gave only 0.06±0.01 µg/mL maximum serum level in rat [96]. A very recent study by Sun et al. [69] showed that intravenous administration of unformulated curcumin to rats showed better availability of curcumin in blood plasma. The concentration was 6.6 µg/mL of blood plasma when administered 2 mg/kg through tail vain [69]. These studies suggest the role of route of administration on achievable serum levels of curcumin and also the comparison of serum level in rodents and humans.2. NanocurcuminTo increase the bioavailability of curcumin different formulations have been made. Among them, nanoglobules based nanoemulsion formulation has been prepared to evaluate the potential for the solubility enhancement of curcumin (Fig. 2). During ex vivo study, the release of curcumin from nanoemulsion was found much higher than curcumin suspension. This indicated the enhancement of solubility of curcumin in aqueous solution [70]. Another study showed an encapsulating the curcumin into the hydrogel nanoparticles yielded a homogenous curcumin dispersion in aqueous solution compared to the free form of curcumin. Also, the in vitro release profile showed up to 95% release of curcumin from the developed nano-microparticulate systems [100].The pharmacokinetics of curcumin and another formulation nanoemulsion curcumin (NEC) containing up to 20% curcumin (w/w) showed a 10 fold increase in the area under the blood concentration-time curve (AUC) 24 hours and more than 40-fold increase in the C(max) in NEC compared to curcumin in mice [54]. Another curcumin-loaded apotransferrin nanoparticles (nano-curcumin), prepared by sol-oil chemistry, releases significant quantities of drug gradually over a fairly long period, ~50% of curcumin still remaining at 6 hours of time. In contrast, intracellular soluble curcumin (sol-curcumin) reaches a maximum at 2 hours followed by its complete elimination by 4 hours [101]. The colloidal nanoparticles, named as 'theracurmin' showed AUC after the oral administration more than 40-fold higher than that of curcumin powder in rats. In healthy human volunteers, theracurmin (30 mg) when administered orally resulted 27-fold higher AUC than that of curcumin powder [102]. The nanoparticle of curcumin prepared by Cheng et al. [103] produced significantly higher curcumin concentration in plasma and six times higher AUC and mean residence time in mice brain than regular curcumin. Thus, nanocurcumin enhances bioavailability of curcumin in animals as well as in humans.3. Polylactic-co-glycolic acid (PLGA)To improve the pharmacokinetics of curcumin with enhancing its bioavailability other effective formulation PLGA encapsulated curcumin was prepared. In vitro study showed that PLGA-curcumin has very rapid and more efficient cellular uptake than curcumin. Intravenous administration of either curcumin or PLGA-curcumin (2.5 mg/kg), exhibited almost twice as high serum concentration of PLGA-curcumin than curcumin [104]. Another formulation PLGA and PLGA-polyethylene glycol (PEG) (PLGA-PEG) blend nanoparticles containing curcumin were prepared. The PLGA and PLGA-PEG nanoparticles increased the curcumin mean half-life in approximately 4 and 6 hours, respectively, and the C(max) of curcumin increased 2.9- and 7.4-fold, respectively. Compared to the curcumin aqueous suspension, the PLGA and PLGA-PEG nanoparticles increased the curcumin bioavailability by 15.6- and 55.4-fold, respectively. Thus these formulations are potential carriers for the oral delivery of curcumin [105]. Other study showed that curcumin encapsulated in low and high molecular weight PLGA have relatively different oral bioavailability of curcumin. It has been found that the relative bioavailability of high molecular weight PLGA conjugated curcumin has 1.67- and 40-fold higher than that of low molecular weight PLGA conjugated curcumin and conventional curcumin, respectively [106].In support of previous study, it has been found that after oral administration of curcumin-PLGA-nanoparticles, the relative bioavailability was increased 5.6-fold and has a longer half-life compared with that of native curcumin. This improved oral bioavailability of curcumin found to be associated with improved water solubility, higher release rate in the intestinal juice, enhanced absorption by improved permeability, inhibition of P-glycoprotein-mediated efflux, and increased residence time in the intestinal cavity [107]. It has been also observed that PLGA-curcumin enhances two and six fold increases in the cellular uptake performed in cisplatin resistant A2780CP ovarian and metastatic MDA-MB-231 breast cancer cells, respectively, compared to free curcumin [108].4. Liposomal encapsulationAnother formulation designed for improvement of bioavailability of curcumin is liposomal curcumin. Liposomes are considered as effective drug carriers because of their ability to solubilize hydrophobic compounds and to alter their pharmacokinetic properties. In rat oral administration of liposome-encapsulated curcumin (LEC) showed high bioavailability of curcumin. In addition, a faster rate and better absorption of curcumin were observed as compared to the other forms. Oral LEC gave higher C(max) and shorter T(max) values, as well as a higher value for the AUC, at all time points [109].The formulation silica-coated flexible liposomes loaded with curcumin (CUR-SLs) and curcumin-loaded flexible liposomes (CUR-FLs) without silica-coatings have been designed and found that the bioavailability of CUR-SLs and CUR-FLs was 7.76- and 2.35-fold higher, respectively, than that of curcumin suspensions. Silica coating markedly improved the stability of flexible liposomes, and CUR-SLs exhibited a 3.31-fold increase in bioavailability compared with CUR-FLs [59]. Another study showed that curcumin incorporated into N-trimethyl chitosan chloride (TMC)-coated liposomes exhibited different pharmacokinetic parameters and enhanced bioavailability, compared with curcumin encapsulated by uncoated liposomes and curcumin suspension. Uncoated curcumin liposomes and TMC-coated curcumin liposomes showed a similar in vitro release profile [62]. In order to facilitate the intracellular delivery of curcumin, a new type of liposomes-propylene glycol liposomes (PGL) were prepared. It has been observed from cell experiment in vitro, PGL exhibited the highest uptake of curcumin compared with that of conventional liposomes and free curcumin solution [63]. These studies indicate that liposome conjugated curcumin increases the bioavailabllity of curcumin.5. Cyclodextrin (CD)CD, cyclic oligosaccharides, has been also used in order to improve curcumin's delivery and bioavailability via its encapsulation with CD. It has been found that CD encapsulated curcumin (CDC) had a greater cellular uptake and longer half-life in the cancer cells compared with free curcumin indicating CDC has superior attributes compared with free curcumin for cellular uptake [86]. In addition, the improvement of CUR permeability acrossed animal skin tissue was observed in CD encapsulated curcumin and was about 1.8-fold when compared with the free curcumin [110]. Thus, these studies suggest that CDC has improved in vitro and in vivo bioavailability and chemotherapeutic efficacy compared to curcumin alone.6. PiperineBesides these natural compounds have been also used to increase the bioavailability of curcumin. One of them is piperine, a major component of black pepper, known as inhibitor of hepatic and intestinal glucuronidation and is also shown to increase the bioavailability of curcumin. This effect of piperine on the pharmacokinetics of curcumin has been shown to be much greater in humans than in rats. In humans, curcumin bioavailability was increased by 2,000% at 45 minutes after co-administering curcumin orally with piperine, whereas in rats, it has been found that concomitant administration of piperine 20 mg/kg with curcumin 2 g/kg increased the serum concentration of curcumin by 154% for a short period of 1-2 hours post drug. The study shows that in the dosages used, piperine enhances the serum concentration, extent of absorption and bioavailability of curcumin in both rats and humans with no adverse effects [95].Another study also showed that piperine (20 mg/kg orally) when administered with curcumin (2 g/kg orally) enhances the bioavailability of the latter up to 20-fold more in epileptic rats [111]. Enhanced bioavailability of curcumin was also evidenced by other researcher when curcumin was administered orally concomitant with piperine. Intestinal absorption of curcumin was also found relatively higher when administered concomitantly with piperine, and it stayed significantly longer in the body tissues [112]. In view of these findings, curcumin-piperine (Cu-Pi) nanoparticles has been prepared by various methods [113]. The bioavailability, cellular uptake and biological effects of this nanoparticles are being tested.Biological Activities of Formulated
+CurcuminAccumulating data evident that most, if not all, formulated curcumin have better bioavailability and biological activities than unformulated curcumin. Nanosuspension of curcumin also induces more cytotoxicity in Hela and MCF-7 cells than curcumin [44]. Curcumin-decorated nanoliposomes has shown high affinity for amyloid-β1-42 peptide and exhibit protective effects against Alzhiemer's disease [66]. LEC also suppresses HNSCC growth in vitro and xenograft tumor in mice [40]. Curcumin liposomes of dimyristoyl phosphatidyl choline and cholesterol inhibit proliferation of prostate cancer cell 10 times more than curcumin [67].Beside these, PLGA encapsulated curcumin has shown more potent than curcumin in inducing apoptosis of leukemic cells and in suppressing proliferation of various tumor cell lines. It was also more active than curcumin in inhibiting TNF-induced NF-κB activation and in suppression of NF-κB-regulated proteins involved in cell proliferation, invasion, and angiogenesis [104]. PLGA nanocapsulated curcumin found to eliminate diethylnitrosamine-induced hepatocellular carcinoma in rat [72]. Doxorubicin and curcumin in a single PLGA nanoparticle formulation, curcumin facilitates the retention of doxorubicin in nucleus for a longer period of time. It also inhibits the development of drug resistance for the enhancement of antiproliferative activity of doxorubicin in K562 cells [114].CDC is another formulation of curcumin having anti-inflammatory and antiproliferative effects. CDC was found more active than free curcumin in inhibiting TNF-induced activation of the NF-κB and in suppressing gene products regulated by NF-κB, including those involved in cell proliferation, invasion, and angiogenesis. CDC was also more active than free curcumin in inducing the death receptors DR4 and DR5 and apoptosis [86]. CD entrapped curcuminoid also induces autophagic cell death in lung cancer cells and inhibits tumor growth in nude rats [115]. Besides these, other formulations such as dipeptide nanoparticles, phosphatidylcholine encapsulated curcumin, etc. have better efficacy in their biological activities compared to free curcumin. Dipeptide nanoparticle of curcumin inhibits tumor growth in mice [87]. Phosphatidylcholine encapsulated curcumin exhibits antimalarial activity [88], inhibits vaginal inflammation [116] and induce cytotoxicity of cancer cells [81]. There are several other cucrumin formulation are synthesized having more biological activities than curcumin.Absorption of Curcumin in Blood, Liver, Brain, Kidney, and Other OrgansUptake and distribution of curcumin in body tissues is obviously important for its biological activity. Most of curcumin get metabolized in liver and intestine however, a small quantity is still remains detectable in the organs (Fig. 3A). Ryu et al. [117] has also shown bioavailability of curcumin in different organ of mice. Intravenous injection of [18F]-curcumin in mice found to persistently accumulated in the liver and spleen while lung uptake was found to decrease with time. Brain uptake of [18F]-curcumin was at 2 minutes postinjection, and its radioactivity was rapidly washed out from the brain at 30 minutes [117]. Study by using radioactive [18F]-curcumin and [18F]-piperine in mice, it has been observed that initial brain uptake of [18F]-curcumin was increased by 48% relative to that without piperine, although other organ uptakes were almost similar to those without piperine (Fig. 3B) [117]. These studies indicate that curcumin is bioavailable in several organs and its availability decreases with time depend on the organs.Open in a separate windowFig. 3Biodistribution of [18F]-curcumin (A) and of [18F]-curcumin co-injected with piperine (B) in mice. Adopted from Ryu et al. [117], J Med Chem. 2006;49:6111-9.Ravindranath and Chandrasekhara [118] showed oral administration of 400 mg curcumin to rats, about 60% of the dose was absorbed. However, very small quantities in liver and kidney (<20 µg/tissue) were observed from 15 minutes up to 24 hours after administration of curcumin [118]. Another study showed distribution of curcumin in the intestines, spleen, liver, and kidneys, which was 177.04, 26.06, 26.90, and 7.51 µg/g, respectively after one hour i.p. administration of curcumin (0.1 g/kg) to mice. Only traces (0.41 µg/g) were observed in the brain at 1 hour [119]. Dietary curcumin (2%) has shown to yield low curcumin levels in the plasma, between 0 and 12 nM when given to the animals, whereas tissue concentrations of curcumin in liver and colon mucosa were 0.1-0.9 nmol/g and 0.2-1.8 µmol/g, respectively. In comparison with dietary administration, when curcumin given intragastric resulted more curcumin in the plasma but much less in the colon mucosa, indicating mode of administration play a role in distribution of curcumin [120]. In contrast, curcumin was poorly detected in patients of colorectal cancer. In a study of 12 patients with hepatic metastases from colorectal cancer, treatment of 450-3,600 mg of curcumin daily, for 1 week prior to surgery, poor availability of curcumin was observed in the peripheral or portal circulation following oral administration. While curcumin was not found in liver tissue, trace levels of products of its metabolic reduction were detected [121].Using ultra performance liquid chromatography by Marczylo et al. [122] showed higher quantity of curcumin distribution in animals. In their experiment, rats were given oral curcumin (340 mg/kg) and after 2 hours tissue distribution was measured. Curcumin was found in plasma (16.1 ng/mL), urine (2.0 ng/mL), intestinal mucosa (1.4 mg/g), liver (3,671.8 ng/g), kidney (206.8 ng/g), and heart (807.6 ng/g) [122]. Another study evaluated the tissue distribution of curcumin using tritium-labeled drug. They found that radioactivity was detectable in blood, liver, and kidney following doses of 400, 80, or 10 mg of [3H] curcumin. With 400 mg, considerable amount of radio labeled products were present in tissues 12 days after dosing. The percentage of curcumin absorbed (60-66% of the given dose) remained constant regardless of the dose indicating that administration of more curcumin does not result in higher absorption [123].Metabolism of CurcuminNumerous studies evaluated that curcumin undergoes metabolism in different components after oral administration in animals. Because of its metabolism, curcumin has demonstrated poorly bioavailable after p.o. dosing in animals [124], which may be related to its inadequate absorption. Curcumin bioavailability may also be poor in humans, as indicated by a pilot study of a standardized curcuma extract in colorectal cancer patients [120]. After p.o. dosing, curcumin undergoes metabolic O-conjugation to curcumin glucuronide and curcumin sulfate and bioreduction to tetrahydrocurcumin, hexahydrocurcumin, octahydrocurcumin, and hexahydrocurcuminol (Fig. 4) in rats and mice in vivo [119,124,125] and in suspensions of human and rat hepatocytes [124]. Reduced curcumin also subjected to glucuronidation into curcumin glucuronide, dihydro-curcumin-glucuronide, tetrahydrocurcumin-glucuronide, and curcumin sulfate [119]. Holder et al. [126] reported that the major billiary metabolites of curcumin are glucuronides of tetrahydrocurcumin and hexahydrocurcumin in rats. A minor biliary metabolite was dihydroferulic acid together with traces of ferulic acid.Open in a separate windowFig. 4Metabolism of curcumin.Numerous studies have revealed that curcumin metabolites have antioxidative, anti-inflammatory and anticancer activities. Tetrahydrocurcumin (THC) inhibits radiation-induced lipid peroxidation [127] and induced antioxidant enzymes in vitro [128]. In rats, dietary administration of THC reduces aberrant crypt foci and polyps formation in azoxymethane-induced colon carcinogenesis [129]. Hexahydrocurcumin, another metabolite, has reduced ability to inhibit COX-2 expression compared to curcumin [124]. Hexahydrocurcumin also induce cell cycle arrest in human colorectal cancer SW480 cells [130]. Pan et al. [131] has shown that another metabolite, octahydrocurcumin, has very less NF-κB suppressive activity compared to curcumin. However, the free radical scavenging activity of octahydrocurcumin is higher than curcumin [132]. Beside these, we have recently showed that none of curcumin mono- or di-glucurnoid showed biological activity such as anti-inflammatory or antiproliferative activity compared to curcumin [133]. The curcumin metabolite, curcumin sulfate has shown to have less biological activities compared to curcumin. Curcumin sulfate inhibits prostaglandin E2 activity very poor than curcumin [124]. Thus these studies indicate that after metabolism of curcumin in different components, shows biological activities differ from parent curcumin.ConclusionSince ancient times, curcumin has been used in Asian countries against human ailments. Modern science has delineated the molecular basis for the pharmaceutical uses of curcumin. Multiple studies over the past decade have indicated the safety and efficacy of this polyphenol and have provided a solid basis for evaluating its efficacy in human clinical trials. Despite its efficacy and safety, limited curcumin bioavailability continues to be highlighted as a major concern. However in attempts to improve the bioavailability of curcumin, several strategies have been explored such as modulation of route and medium of curcumin administration, blocking of metabolic pathways by concomitant administration with other agents, and conjugation and structural modifications of curcumin. Evidence from literatures indicated its increased bioavailability and efficacy in different experimental models with these strategies. In spite of these, improvements in curcumin bioavailability enhancement and efficacy have not gained significant attention in human. Therefore, further exploration in attempts to enhance the bioavailability, medicinal value, and application of this interesting molecule from Mother Nature are needed for human use.AcknowledgmentsDr. Aggarwal is the Ransom Horne, Jr., Professor of Cancer Research. This work was supported by a grant from Center for Targeted Therapy of MD Anderson Cancer Center.Footnotes Conflict of interest relevant to this article was not reported.References1. Rahman I, Biswas SK, Kirkham PA. Regulation of inflammation and redox signaling by dietary polyphenols. Biochem Pharmacol. 2006;72:1439–1452. [PubMed] [Google Scholar]2. Tirkey N, Kaur G, Vij G, Chopra K. Curcumin, a diferuloylmethane, attenuates cyclosporine-induced renal dysfunction and oxidative stress in rat kidneys. BMC Pharmacol. 2005;5:15. [PMC free article] [PubMed] [Google Scholar]3. Gupta SC, Kim JH, Prasad S, Aggarwal BB. Regulation of survival, proliferation, invasion, angiogenesis, and metastasis of tumor cells through modulation of inflammatory pathways by nutraceuticals. Cancer Metastasis Rev. 2010;29:405–434. [PMC free article] [PubMed] [Google Scholar]4. Sharma S, Kulkarni SK, Chopra K. Curcumin, the active principle of turmeric (Curcuma longa), ameliorates diabetic nephropathy in rats. Clin Exp Pharmacol Physiol. 2006;33:940–945. [PubMed] [Google Scholar]5. Nishiyama T, Mae T, Kishida H, Tsukagawa M, Mimaki Y, Kuroda M, et al. Curcuminoids and sesquiterpenoids in turmeric (Curcuma longa L.) suppress an increase in blood glucose level in type 2 diabetic KK-Ay mice. J Agric Food Chem. 2005;53:959–963. [PubMed] [Google Scholar]6. Sharma OP. Antioxidant activity of curcumin and related compounds. Biochem Pharmacol. 1976;25:1811–1812. [PubMed] [Google Scholar]7. Sidhu GS, Singh AK, Thaloor D, Banaudha KK, Patnaik GK, Srimal RC, et al. Enhancement of wound healing by curcumin in animals. Wound Repair Regen. 1998;6:167–177. [PubMed] [Google Scholar]8. Negi PS, Jayaprakasha GK, Jagan Mohan Rao L, Sakariah KK. Antibacterial activity of turmeric oil: a byproduct from curcumin manufacture. J Agric Food Chem. 1999;47:4297–4300. [PubMed] [Google Scholar]9. Goel A, Aggarwal BB. Curcumin, the golden spice from Indian saffron, is a chemosensitizer and radiosensitizer for tumors and chemoprotector and radioprotector for normal organs. Nutr Cancer. 2010;62:919–930. [PubMed] [Google Scholar]10. Gupta SC, Kismali G, Aggarwal BB. Curcumin, a component of turmeric: from farm to pharmacy. Biofactors. 2013;39:2–13. [PubMed] [Google Scholar]11. Reuter S, Gupta SC, Park B, Goel A, Aggarwal BB. Epigenetic changes induced by curcumin and other natural compounds. Genes Nutr. 2011;6:93–108. [PMC free article] [PubMed] [Google Scholar]12. Gupta SC, Patchva S, Aggarwal BB. Therapeutic roles of curcumin: lessons learned from clinical trials. AAPS J. 2013;15:195–218. [PMC free article] [PubMed] [Google Scholar]13. Aggarwal BB. Targeting inflammation-induced obesity and metabolic diseases by curcumin and other nutraceuticals. Annu Rev Nutr. 2010;30:173–199. [PMC free article] [PubMed] [Google Scholar]14. Gupta SC, Prasad S, Kim JH, Patchva S, Webb LJ, Priyadarsini IK, et al. Multitargeting by curcumin as revealed by molecular interaction studies. Nat Prod Rep. 2011;28:1937–1955. [PMC free article] [PubMed] [Google Scholar]15. Anand P, Kunnumakkara AB, Newman RA, Aggarwal BB. Bioavailability of curcumin: problems and promises. Mol Pharm. 2007;4:807–818. [PubMed] [Google Scholar]16. Kawanishi N, Kato K, Takahashi M, Mizokami T, Otsuka Y, Imaizumi A, et al. Curcumin attenuates oxidative stress following downhill running-induced muscle damage. Biochem Biophys Res Commun. 2013;441:573–578. [PubMed] [Google Scholar]17. Takahashi M, Suzuki K, Kim HK, Otsuka Y, Imaizumi A, Miyashita M, et al. Effects of curcumin supplementation on exercise-induced oxidative stress in humans. Int J Sports Med. 2013 Oct 28; [Epub].  http://dx.doi.org/10.1055/s-0033-1357185. [PubMed] [Google Scholar]18. Murakami A, Furukawa I, Miyamoto S, Tanaka T, Ohigashi H. Curcumin combined with turmerones, essential oil components of turmeric, abolishes inflammation-associated mouse colon carcinogenesis. Biofactors. 2013;39:221–232. [PubMed] [Google Scholar]19. Ryan JL, Heckler CE, Ling M, Katz A, Williams JP, Pentland AP, et al. Curcumin for radiation dermatitis: a randomized, double-blind, placebo-controlled clinical trial of thirty breast cancer patients. Radiat Res. 2013;180:34–43. [PMC free article] [PubMed] [Google Scholar]20. Cheng KW, Wong CC, Mattheolabakis G, Xie G, Huang L, Rigas B. Curcumin enhances the lung cancer chemopreventive efficacy of phospho-sulindac by improving its pharmacokinetics. Int J Oncol. 2013;43:895–902. [PMC free article] [PubMed] [Google Scholar]21. Phillips J, Moore-Medlin T, Sonavane K, Ekshyyan O, McLarty J, Nathan CA. Curcumin inhibits UV radiation-induced skin cancer in SKH-1 mice. Otolaryngol Head Neck Surg. 2013;148:797–803. [PubMed] [Google Scholar]22. Clark CA, McEachern MD, Shah SH, Rong Y, Rong X, Smelley CL, et al. Curcumin inhibits carcinogen and nicotine-induced mammalian target of rapamycin pathway activation in head and neck squamous cell carcinoma. Cancer Prev Res (Phila) 2010;3:1586–1595. [PubMed] [Google Scholar]23. Lin YC, Chen HW, Kuo YC, Chang YF, Lee YJ, Hwang JJ. Therapeutic efficacy evaluation of curcumin on human oral squamous cell carcinoma xenograft using multimodalities of molecular imaging. Am J Chin Med. 2010;38:343–358. [PubMed] [Google Scholar]24. Yoysungnoen P, Wirachwong P, Bhattarakosol P, Niimi H, Patumraj S. Effects of curcumin on tumor angiogenesis and biomarkers, COX-2 and VEGF, in hepatocellular carcinoma cell-implanted nude mice. Clin Hemorheol Microcirc. 2006;34:109–115. [PubMed] [Google Scholar]25. Huang MT, Lou YR, Xie JG, Ma W, Lu YP, Yen P, et al. Effect of dietary curcumin and dibenzoylmethane on formation of 7,12-dimethylbenz[a]anthracene-induced mammary tumors and lymphomas/leukemias in Sencar mice. Carcinogenesis. 1998;19:1697–1700. [PubMed] [Google Scholar]26. Perkins S, Verschoyle RD, Hill K, Parveen I, Threadgill MD, Sharma RA, et al. Chemopreventive efficacy and pharmacokinetics of curcumin in the min/+ mouse, a model of familial adenomatous polyposis. Cancer Epidemiol Biomarkers Prev. 2002;11:535–540. [PubMed] [Google Scholar]27. He HJ, Wang GY, Gao Y, Ling WH, Yu ZW, Jin TR. Curcumin attenuates Nrf2 signaling defect, oxidative stress in muscle and glucose intolerance in high fat diet-fed mice. World J Diabetes. 2012;3:94–104. [PMC free article] [PubMed] [Google Scholar]28. Sidhu GS, Mani H, Gaddipati JP, Singh AK, Seth P, Banaudha KK, et al. Curcumin enhances wound healing in streptozotocin induced diabetic rats and genetically diabetic mice. Wound Repair Regen. 1999;7:362–374. [PubMed] [Google Scholar]29. Patzko A, Bai Y, Saporta MA, Katona I, Wu X, Vizzuso D, et al. Curcumin derivatives promote Schwann cell differentiation and improve neuropathy in R98C CMT1B mice. Brain. 2012;135(Pt 12):3551–3566. [PMC free article] [PubMed] [Google Scholar]30. Nemmar A, Subramaniyan D, Ali BH. Protective effect of curcumin on pulmonary and cardiovascular effects induced by repeated exposure to diesel exhaust particles in mice. PLoS One. 2012;7:e39554. [PMC free article] [PubMed] [Google Scholar]31. Shahani K, Swaminathan SK, Freeman D, Blum A, Ma L, Panyam J. Injectable sustained release microparticles of curcumin: a new concept for cancer chemoprevention. Cancer Res. 2010;70:4443–4452. [PMC free article] [PubMed] [Google Scholar]32. Shahani K, Panyam J. Highly loaded, sustained-release microparticles of curcumin for chemoprevention. J Pharm Sci. 2011;100:2599–2609. [PMC free article] [PubMed] [Google Scholar]33. Chowdhury R, Nimmanapalli R, Graham T, Reddy G. Curcumin attenuation of lipopolysaccharide induced cardiac hypertrophy in rodents. ISRN Inflamm. 2013;2013:539305. [PMC free article] [PubMed] [Google Scholar]34. Du WZ, Feng Y, Wang XF, Piao XY, Cui YQ, Chen LC, et al. Curcumin suppresses malignant glioma cells growth and induces apoptosis by inhibition of SHH/GLI1 signaling pathway in vitro and vivo. CNS Neurosci Ther. 2013;19:926–936. [PMC free article] [PubMed] [Google Scholar]35. Tu SP, Jin H, Shi JD, Zhu LM, Suo Y, Lu G, et al. Curcumin induces the differentiation of myeloid-derived suppressor cells and inhibits their interaction with cancer cells and related tumor growth. Cancer Prev Res (Phila) 2012;5:205–215. [PMC free article] [PubMed] [Google Scholar]36. Sun Y, Dai M, Wang Y, Wang W, Sun Q, Yang GY, et al. Neuroprotection and sensorimotor functional improvement by curcumin after intracerebral hemorrhage in mice. J Neurotrauma. 2011;28:2513–2521. [PMC free article] [PubMed] [Google Scholar]37. Oh SW, Cha JY, Jung JE, Chang BC, Kwon HJ, Lee BR, et al. Curcumin attenuates allergic airway inflammation and hyperresponsiveness in mice through NF-kappaB inhibition. J Ethnopharmacol. 2011;136:414–421. [PubMed] [Google Scholar]38. Smith MR, Gangireddy SR, Narala VR, Hogaboam CM, Standiford TJ, Christensen PJ, et al. Curcumin inhibits fibrosis-related effects in IPF fibroblasts and in mice following bleomycin-induced lung injury. Am J Physiol Lung Cell Mol Physiol. 2010;298:L616–L625. [PMC free article] [PubMed] [Google Scholar]39. Kim TH, Jiang HH, Youn YS, Park CW, Tak KK, Lee S, et al. Preparation and characterization of water-soluble albumin-bound curcumin nanoparticles with improved antitumor activity. Int J Pharm. 2011;403:285–291. [PubMed] [Google Scholar]40. Wang D, Veena MS, Stevenson K, Tang C, Ho B, Suh JD, et al. Liposome-encapsulated curcumin suppresses growth of head and neck squamous cell carcinoma in vitro and in xenografts through the inhibition of nuclear factor kappaB by an AKT-independent pathway. Clin Cancer Res. 2008;14:6228–6236. [PubMed] [Google Scholar]41. Shi HS, Gao X, Li D, Zhang QW, Wang YS, Zheng Y, et al. A systemic administration of liposomal curcumin inhibits radiation pneumonitis and sensitizes lung carcinoma to radiation. Int J Nanomedicine. 2012;7:2601–2611. [PMC free article] [PubMed] [Google Scholar]42. Duarte VM, Han E, Veena MS, Salvado A, Suh JD, Liang LJ, et al. Curcumin enhances the effect of cisplatin in suppression of head and neck squamous cell carcinoma via inhibition of IKKbeta protein of the NFkappaB pathway. Mol Cancer Ther. 2010;9:2665–2675. [PMC free article] [PubMed] [Google Scholar]43. Aggarwal S, Ndinguri MW, Solipuram R, Wakamatsu N, Hammer RP, Ingram D, et al. [DLys(6)]-luteinizing hormone releasing hormone-curcumin conjugate inhibits pancreatic cancer cell growth in vitro and in vivo. Int J Cancer. 2011;129:1611–1623. [PMC free article] [PubMed] [Google Scholar]44. Gou M, Men K, Shi H, Xiang M, Zhang J, Song J, et al. Curcumin-loaded biodegradable polymeric micelles for colon cancer therapy in vitro and in vivo. Nanoscale. 2011;3:1558–1567. [PubMed] [Google Scholar]45. Sun J, Zhao Y, Hu J. Curcumin inhibits imiquimod-induced psoriasis-like inflammation by inhibiting IL-1beta and IL-6 production in mice. PLoS One. 2013;8:e67078. [PMC free article] [PubMed] [Google Scholar]46. Lopez-Jornet P, Camacho-Alonso F, Jimenez-Torres MJ, Orduna-Domingo A, Gomez-Garcia F. Topical curcumin for the healing of carbon dioxide laser skin wounds in mice. Photomed Laser Surg. 2011;29:809–814. [PubMed] [Google Scholar]47. Dovigo LN, Carmello JC, de Souza Costa CA, Vergani CE, Brunetti IL, Bagnato VS, et al. Curcumin-mediated photodynamic inactivation of Candida albicans in a murine model of oral candidiasis. Med Mycol. 2013;51:243–251. [PubMed] [Google Scholar]48. LoTempio MM, Veena MS, Steele HL, Ramamurthy B, Ramalingam TS, Cohen AN, et al. Curcumin suppresses growth of head and neck squamous cell carcinoma. Clin Cancer Res. 2005;11(19 Pt 1):6994–7002. [PubMed] [Google Scholar]49. Wang S, Chen P, Zhang L, Yang C, Zhai G. Formulation and evaluation of microemulsion-based in situ ion-sensitive gelling systems for intranasal administration of curcumin. J Drug Target. 2012;20:831–840. [PubMed] [Google Scholar]50. Chen X, Zhi F, Jia X, Zhang X, Ambardekar R, Meng Z, et al. Enhanced brain targeting of curcumin by intranasal administration of a thermosensitive poloxamer hydrogel. J Pharm Pharmacol. 2013;65:807–816. [PubMed] [Google Scholar]51. Subhashini, Chauhan PS, Kumari S, Kumar JP, Chawla R, Dash D, et al. Intranasal curcumin and its evaluation in murine model of asthma. Int Immunopharmacol. 2013;17:733–743. [PubMed] [Google Scholar]52. Gao Y, Li Z, Sun M, Guo C, Yu A, Xi Y, et al. Preparation and characterization of intravenously injectable curcumin nanosuspension. Drug Deliv. 2011;18:131–142. [PubMed] [Google Scholar]53. Gao Y, Li Z, Sun M, Li H, Guo C, Cui J, et al. Preparation, characterization, pharmacokinetics, and tissue distribution of curcumin nanosuspension with TPGS as stabilizer. Drug Dev Ind Pharm. 2010;36:1225–1234. [PubMed] [Google Scholar]54. Zhongfa L, Chiu M, Wang J, Chen W, Yen W, Fan-Havard P, et al. Enhancement of curcumin oral absorption and pharmacokinetics of curcuminoids and curcumin metabolites in mice. Cancer Chemother Pharmacol. 2012;69:679–689. [PMC free article] [PubMed] [Google Scholar]55. Dandekar P, Dhumal R, Jain R, Tiwari D, Vanage G, Patravale V. Toxicological evaluation of pH-sensitive nanoparticles of curcumin: acute, sub-acute and genotoxicity studies. Food Chem Toxicol. 2010;48:2073–2089. [PubMed] [Google Scholar]56. Peng SF, Lee CY, Hour MJ, Tsai SC, Kuo DH, Chen FA, et al. Curcumin-loaded nanoparticles enhance apoptotic cell death of U2OS human osteosarcoma cells through the Akt-Bad signaling pathway. Int J Oncol. 2014;44:238–246. [PubMed] [Google Scholar]57. Li H, Zhang N, Hao Y, Wang Y, Jia S, Zhang H, et al. Formulation of curcumin delivery with functionalized single-walled carbon nanotubes: characteristics and anticancer effects in vitro. Drug Deliv. 2013 Oct 25; [Epub].  http://dx.doi.org/10.3109/10717544.2013.848246. [PubMed] [Google Scholar]58. John MK, Xie H, Bell EC, Liang D. Development and pharmacokinetic evaluation of a curcumin co-solvent formulation. Anticancer Res. 2013;33:4285–4291. [PubMed] [Google Scholar]59. Li C, Zhang Y, Su T, Feng L, Long Y, Chen Z. Silica-coated flexible liposomes as a nanohybrid delivery system for enhanced oral bioavailability of curcumin. Int J Nanomedicine. 2012;7:5995–6002. [PMC free article] [PubMed] [Google Scholar]60. Isacchi B, Bergonzi MC, Grazioso M, Righeschi C, Pietretti A, Severini C, et al. Artemisinin and artemisinin plus curcumin liposomal formulations: enhanced antimalarial efficacy against Plasmodium berghei-infected mice. Eur J Pharm Biopharm. 2012;80:528–534. [PubMed] [Google Scholar]61. Agarwal NB, Jain S, Nagpal D, Agarwal NK, Mediratta PK, Sharma KK. Liposomal formulation of curcumin attenuates seizures in different experimental models of epilepsy in mice. Fundam Clin Pharmacol. 2013;27:169–172. [PubMed] [Google Scholar]62. Chen H, Wu J, Sun M, Guo C, Yu A, Cao F, et al. N-trimethyl chitosan chloride-coated liposomes for the oral delivery of curcumin. J Liposome Res. 2012;22:100–109. [PubMed] [Google Scholar]63. Zhang L, Lu CT, Li WF, Cheng JG, Tian XQ, Zhao YZ, et al. Physical characterization and cellular uptake of propylene glycol liposomes in vitro. Drug Dev Ind Pharm. 2012;38:365–371. [PubMed] [Google Scholar]64. Dhule SS, Penfornis P, Frazier T, Walker R, Feldman J, Tan G, et al. Curcumin-loaded gamma-cyclodextrin liposomal nanoparticles as delivery vehicles for osteosarcoma. Nanomedicine. 2012;8:440–451. [PMC free article] [PubMed] [Google Scholar]65. Lin YL, Liu YK, Tsai NM, Hsieh JH, Chen CH, Lin CM, et al. A Lipo-PEG-PEI complex for encapsulating curcumin that enhances its antitumor effects on curcumin-sensitive and curcumin-resistance cells. Nanomedicine. 2012;8:318–327. [PubMed] [Google Scholar]66. Mourtas S, Canovi M, Zona C, Aurilia D, Niarakis A, La Ferla B, et al. Curcumin-decorated nanoliposomes with very high affinity for amyloid-beta1-42 peptide. Biomaterials. 2011;32:1635–1645. [PubMed] [Google Scholar]67. Thangapazham RL, Puri A, Tele S, Blumenthal R, Maheshwari RK. Evaluation of a nanotechnology-based carrier for delivery of curcumin in prostate cancer cells. Int J Oncol. 2008;32:1119–1123. [PMC free article] [PubMed] [Google Scholar]68. Pawar YB, Purohit H, Valicherla GR, Munjal B, Lale SV, Patel SB, et al. Novel lipid based oral formulation of curcumin: development and optimization by design of experiments approach. Int J Pharm. 2012;436:617–623. [PubMed] [Google Scholar]69. Sun J, Bi C, Chan HM, Sun S, Zhang Q, Zheng Y. Curcumin-loaded solid lipid nanoparticles have prolonged in vitro antitumour activity, cellular uptake and improved in vivo bioavailability. Colloids Surf B Biointerfaces. 2013;111C:367–375. [PubMed] [Google Scholar]70. Kumar A, Ahuja A, Ali J, Baboota S. Curcumin loaded nano globules for solubility enhancement: preparation, characterization and ex vivo release study. J Nanosci Nanotechnol. 2012;12:8293–8302. [PubMed] [Google Scholar]71. Saengkrit N, Saesoo S, Srinuanchai W, Phunpee S, Ruktanonchai UR. Influence of curcumin-loaded cationic liposome on anticancer activity for cervical cancer therapy. Colloids Surf B Biointerfaces. 2014;114:349–356. [PubMed] [Google Scholar]72. Ghosh D, Choudhury ST, Ghosh S, Mandal AK, Sarkar S, Ghosh A, et al. Nanocapsulated curcumin: oral chemopreventive formulation against diethylnitrosamine induced hepatocellular carcinoma in rat. Chem Biol Interact. 2012;195:206–214. [PubMed] [Google Scholar]73. Rejinold NS, Sreerekha PR, Chennazhi KP, Nair SV, Jayakumar R. Biocompatible, biodegradable and thermo-sensitive chitosan-g-poly (N-isopropylacrylamide) nanocarrier for curcumin drug delivery. Int J Biol Macromol. 2011;49:161–172. [PubMed] [Google Scholar]74. Pandey MK, Kumar S, Thimmulappa RK, Parmar VS, Biswal S, Watterson AC. Design, synthesis and evaluation of novel PEGylated curcumin analogs as potent Nrf2 activators in human bronchial epithelial cells. Eur J Pharm Sci. 2011;43:16–24. [PubMed] [Google Scholar]75. Nair KL, Thulasidasan AK, Deepa G, Anto RJ, Kumar GS. Purely aqueous PLGA nanoparticulate formulations of curcumin exhibit enhanced anticancer activity with dependence on the combination of the carrier. Int J Pharm. 2012;425:44–52. [PubMed] [Google Scholar]76. Yallapu MM, Dobberpuhl MR, Maher DM, Jaggi M, Chauhan SC. Design of curcumin loaded cellulose nanoparticles for prostate cancer. Curr Drug Metab. 2012;13:120–128. [PMC free article] [PubMed] [Google Scholar]77. Mukerjee A, Vishwanatha JK. Formulation, characterization and evaluation of curcumin-loaded PLGA nanospheres for cancer therapy. Anticancer Res. 2009;29:3867–3875. [PubMed] [Google Scholar]78. Gong C, Deng S, Wu Q, Xiang M, Wei X, Li L, et al. Improving antiangiogenesis and anti-tumor activity of curcumin by biodegradable polymeric micelles. Biomaterials. 2013;34:1413–1432. [PubMed] [Google Scholar]79. Marrache S, Dhar S. Engineering of blended nanoparticle platform for delivery of mitochondria-acting therapeutics. Proc Natl Acad Sci U S A. 2012;109:16288–16293. [PMC free article] [PubMed] [Google Scholar]80. Feng R, Song Z, Zhai G. Preparation and in vivo pharmacokinetics of curcumin-loaded PCL-PEG-PCL triblock copolymeric nanoparticles. Int J Nanomedicine. 2012;7:4089–4098. [PMC free article] [PubMed] [Google Scholar]81. Pandelidou M, Dimas K, Georgopoulos A, Hatziantoniou S, Demetzos C. Preparation and characterization of lyophilised egg PC liposomes incorporating curcumin and evaluation of its activity against colorectal cancer cell lines. J Nanosci Nanotechnol. 2011;11:1259–1266. [PubMed] [Google Scholar]82. Hegge AB, Andersen T, Melvik JE, Bruzell E, Kristensen S, Tonnesen HH. Formulation and bacterial phototoxicity of curcumin loaded alginate foams for wound treatment applications: studies on curcumin and curcuminoides XLII. J Pharm Sci. 2011;100:174–185. [PubMed] [Google Scholar]83. Liu L, Sun L, Wu Q, Guo W, Li L, Chen Y, et al. Curcumin loaded polymeric micelles inhibit breast tumor growth and spontaneous pulmonary metastasis. Int J Pharm. 2013;443:175–182. [PubMed] [Google Scholar]84. Wang C, Nie H, Li K, Zhang YX, Yang F, Li CB, et al. Curcumin inhibits HMGB1 releasing and attenuates concanavalin A-induced hepatitis in mice. Eur J Pharmacol. 2012;697:152–157. [PubMed] [Google Scholar]85. Park JH, Kim HA, Lee M. Amphiphilic peptide carrier for the combined delivery of curcumin and plasmid DNA into the lungs. Biomaterials. 2012;33:6542–6550. [PubMed] [Google Scholar]86. Yadav VR, Prasad S, Kannappan R, Ravindran J, Chaturvedi MM, Vaahtera L, et al. Cyclodextrin-complexed curcumin exhibits anti-inflammatory and antiproliferative activities superior to those of curcumin through higher cellular uptake. Biochem Pharmacol. 2010;80:1021–1032. [PMC free article] [PubMed] [Google Scholar] Retracted87. Alam S, Panda JJ, Chauhan VS. Novel dipeptide nanoparticles for effective curcumin delivery. Int J Nanomedicine. 2012;7:4207–4222. [PMC free article] [PubMed] [Google Scholar]88. Aditya NP, Chimote G, Gunalan K, Banerjee R, Patankar S, Madhusudhan B. Curcuminoids-loaded liposomes in combination with arteether protects against Plasmodium berghei infection in mice. Exp Parasitol. 2012;131:292–299. [PubMed] [Google Scholar]89. Liu CW, Xiong F, Jia HZ, Wang XL, Cheng H, Sun YH, et al. Graphene-based anticancer nanosystem and its biosafety evaluation using a zebrafish model. Biomacromolecules. 2013;14:358–366. [PubMed] [Google Scholar]90. Kumar SS, Surianarayanan M, Vijayaraghavan R, Mandal AB, MacFarlane DR. Curcumin loaded poly(2-hydroxyethyl methacrylate) nanoparticles from gelled ionic liquid: in vitro cytotoxicity and anti-cancer activity in SKOV-3 cells. Eur J Pharm Sci. 2014;51:34–44. [PubMed] [Google Scholar]91. Gangwar RK, Tomar GB, Dhumale VA, Zinjarde S, Sharma RB, Datar S. Curcumin conjugated silica nanoparticles for improving bioavailability and its anticancer applications. J Agric Food Chem. 2013;61:9632–9637. [PubMed] [Google Scholar]92. Singh R, Tonnesen HH, Kristensen S, Berg K. The influence of Pluronics(R) on dark cytotoxicity, photocytotoxicity, localization and uptake of curcumin in cancer cells: studies of curcumin and curcuminoids XLIX. Photochem Photobiol Sci. 2013;12:559–575. [PubMed] [Google Scholar]93. Suwannateep N, Wanichwecharungruang S, Fluhr J, Patzelt A, Lademann J, Meinke MC. Comparison of two encapsulated curcumin particular systems contained in different formulations with regard to in vitro skin penetration. Skin Res Technol. 2013;19:1–9. [PubMed] [Google Scholar]94. Wahlström B, Blennow G. A study on the fate of curcumin in the rat. Acta Pharmacol Toxicol (Copenh) 1978;43:86–92. [PubMed] [Google Scholar]95. Shoba G, Joy D, Joseph T, Majeed M, Rajendran R, Srinivas PS. Influence of piperine on the pharmacokinetics of curcumin in animals and human volunteers. Planta Med. 1998;64:353–356. [PubMed] [Google Scholar]96. Yang KY, Lin LC, Tseng TY, Wang SC, Tsai TH. Oral bioavailability of curcumin in rat and the herbal analysis from Curcuma longa by LC-MS/MS. J Chromatogr B Analyt Technol Biomed Life Sci. 2007;853:183–189. [PubMed] [Google Scholar]97. Chang MT, Tsai TR, Lee CY, Wei YS, Chen YJ, Chen CR, et al. Elevating bioavailability of curcumin via encapsulation with a novel formulation of artificial oil bodies. J Agric Food Chem. 2013;61:9666–9671. [PubMed] [Google Scholar]98. Cheng AL, Hsu CH, Lin JK, Hsu MM, Ho YF, Shen TS, et al. Phase I clinical trial of curcumin, a chemopreventive agent, in patients with high-risk or pre-malignant lesions. Anticancer Res. 2001;21:2895–2900. [PubMed] [Google Scholar]99. Sharma RA, Euden SA, Platton SL, Cooke DN, Shafayat A, Hewitt HR, et al. Phase I clinical trial of oral curcumin: biomarkers of systemic activity and compliance. Clin Cancer Res. 2004;10:6847–6854. [PubMed] [Google Scholar]100. Guzman-Villanueva D, El-Sherbiny IM, Herrera-Ruiz D, Smyth HD. Design and in vitro evaluation of a new nano-microparticulate system for enhanced aqueous-phase solubility of curcumin. Biomed Res Int. 2013;2013:724763. [PMC free article] [PubMed] [Google Scholar]101. Gandapu U, Chaitanya RK, Kishore G, Reddy RC, Kondapi AK. Curcumin-loaded apotransferrin nanoparticles provide efficient cellular uptake and effectively inhibit HIV-1 replication in vitro. PLoS One. 2011;6:e23388. [PMC free article] [PubMed] [Google Scholar]102. Sasaki H, Sunagawa Y, Takahashi K, Imaizumi A, Fukuda H, Hashimoto T, et al. Innovative preparation of curcumin for improved oral bioavailability. Biol Pharm Bull. 2011;34:660–665. [PubMed] [Google Scholar]103. Cheng KK, Yeung CF, Ho SW, Chow SF, Chow AH, Baum L. Highly stabilized curcumin nanoparticles tested in an in vitro blood-brain barrier model and in Alzheimer's disease Tg2576 mice. AAPS J. 2013;15:324–336. [PMC free article] [PubMed] [Google Scholar]104. Anand P, Nair HB, Sung B, Kunnumakkara AB, Yadav VR, Tekmal RR, et al. Design of curcumin-loaded PLGA nanoparticles formulation with enhanced cellular uptake, and increased bioactivity in vitro and superior bioavailability in vivo. Biochem Pharmacol. 2010;79:330–338. [PMC free article] [PubMed] [Google Scholar] Retracted105. Khalil NM, do Nascimento TC, Casa DM, Dalmolin LF, de Mattos AC, Hoss I, et al. Pharmacokinetics of curcumin-loaded PLGA and PLGA-PEG blend nanoparticles after oral administration in rats. Colloids Surf B Biointerfaces. 2013;101:353–360. [PubMed] [Google Scholar]106. Tsai YM, Chang-Liao WL, Chien CF, Lin LC, Tsai TH. Effects of polymer molecular weight on relative oral bioavailability of curcumin. Int J Nanomedicine. 2012;7:2957–2966. [PMC free article] [PubMed] [Google Scholar]107. Xie X, Tao Q, Zou Y, Zhang F, Guo M, Wang Y, et al. PLGA nanoparticles improve the oral bioavailability of curcumin in rats: characterizations and mechanisms. J Agric Food Chem. 2011;59:9280–9289. [PubMed] [Google Scholar]108. Yallapu MM, Gupta BK, Jaggi M, Chauhan SC. Fabrication of curcumin encapsulated PLGA nanoparticles for improved therapeutic effects in metastatic cancer cells. J Colloid Interface Sci. 2010;351:19–29. [PubMed] [Google Scholar]109. Takahashi M, Uechi S, Takara K, Asikin Y, Wada K. Evaluation of an oral carrier system in rats: bioavailability and antioxidant properties of liposome-encapsulated curcumin. J Agric Food Chem. 2009;57:9141–9146. [PubMed] [Google Scholar]110. Rachmawati H, Edityaningrum CA, Mauludin R. Molecular inclusion complex of curcumin-beta-cyclodextrin nanoparticle to enhance curcumin skin permeability from hydrophilic matrix gel. AAPS PharmSciTech. 2013;14:1303–1312. [PMC free article] [PubMed] [Google Scholar]111. Sharma V, Nehru B, Munshi A, Jyothy A. Antioxidant potential of curcumin against oxidative insult induced by pentylenetetrazol in epileptic rats. Methods Find Exp Clin Pharmacol. 2010;32:227–232. [PubMed] [Google Scholar]112. Suresh D, Srinivasan K. Tissue distribution & elimination of capsaicin, piperine & curcumin following oral intake in rats. Indian J Med Res. 2010;131:682–691. [PubMed] [Google Scholar]113. Moorthi C, Krishnan K, Manavalan R, Kathiresan K. Preparation and characterization of curcumin-piperine dual drug loaded nanoparticles. Asian Pac J Trop Biomed. 2012;2:841–848. [PMC free article] [PubMed] [Google Scholar]114. Misra R, Sahoo SK. Coformulation of doxorubicin and curcumin in poly(D,L-lactide-co-glycolide) nanoparticles suppresses the development of multidrug resistance in K562 cells. Mol Pharm. 2011;8:852–866. [PubMed] [Google Scholar]115. Agashe H, Sahoo K, Lagisetty P, Awasthi V. Cyclodextrin-mediated entrapment of curcuminoid 4-[3,5-bis (2-chlorobenzylidene-4-oxo-piperidine-1-yl)-4-oxo-2-butenoic acid] or CLEFMA in liposomes for treatment of xenograft lung tumor in rats. Colloids Surf B Biointerfaces. 2011;84:329–337. [PMC free article] [PubMed] [Google Scholar]116. Basnet P, Hussain H, Tho I, Skalko-Basnet N. Liposomal delivery system enhances anti-inflammatory properties of curcumin. J Pharm Sci. 2012;101:598–609. [PubMed] [Google Scholar]117. Ryu EK, Choe YS, Lee KH, Choi Y, Kim BT. Curcumin and dehydrozingerone derivatives: synthesis, radiolabeling, and evaluation for β-amyloid plaque imaging. J Med Chem. 2006;49:6111–6119. [PubMed] [Google Scholar]118. Ravindranath V, Chandrasekhara N. Absorption and tissue distribution of curcumin in rats. Toxicology. 1980;16:259–265. [PubMed] [Google Scholar]119. Pan MH, Huang TM, Lin JK. Biotransformation of curcumin through reduction and glucuronidation in mice. Drug Metab Dispos. 1999;27:486–494. [PubMed] [Google Scholar]120. Sharma RA, McLelland HR, Hill KA, Ireson CR, Euden SA, Manson MM, et al. Pharmacodynamic and pharmacokinetic study of oral Curcuma extract in patients with colorectal cancer. Clin Cancer Res. 2001;7:1894–1900. [PubMed] [Google Scholar]121. Garcea G, Jones DJ, Singh R, Dennison AR, Farmer PB, Sharma RA, et al. Detection of curcumin and its metabolites in hepatic tissue and portal blood of patients following oral administration. Br J Cancer. 2004;90:1011–1015. [PMC free article] [PubMed] [Google Scholar]122. Marczylo TH, Steward WP, Gescher AJ. Rapid analysis of curcumin and curcumin metabolites in rat biomatrices using a novel ultraperformance liquid chromatography (UPLC) method. J Agric Food Chem. 2009;57:797–803. [PubMed] [Google Scholar]123. Ravindranath V, Chandrasekhara N. Metabolism of curcumin--studies with [3H]curcumin. Toxicology. 1981;22:337–344. [PubMed] [Google Scholar]124. Ireson C, Orr S, Jones DJ, Verschoyle R, Lim CK, Luo JL, et al. Characterization of metabolites of the chemopreventive agent curcumin in human and rat hepatocytes and in the rat in vivo, and evaluation of their ability to inhibit phorbol ester-induced prostaglandin E2 production. Cancer Res. 2001;61:1058–1064. [PubMed] [Google Scholar]125. Asai A, Miyazawa T. Occurrence of orally administered curcuminoid as glucuronide and glucuronide/sulfate conjugates in rat plasma. Life Sci. 2000;67:2785–2793. [PubMed] [Google Scholar]126. Holder GM, Plummer JL, Ryan AJ. The metabolism and excretion of curcumin (1,7-bis-(4-hydroxy-3-methoxyphenyl)-1,6-heptadiene-3,5-dione) in the rat. Xenobiotica. 1978;8:761–768. [PubMed] [Google Scholar]127. Khopde SM, Priyadarsini KI, Guha SN, Satav JG, Venkatesan P, Rao MN. Inhibition of radiation-induced lipid peroxidation by tetrahydrocurcumin: possible mechanisms by pulse radiolysis. Biosci Biotechnol Biochem. 2000;64:503–509. [PubMed] [Google Scholar]128. Okada K, Wangpoengtrakul C, Tanaka T, Toyokuni S, Uchida K, Osawa T. Curcumin and especially tetrahydrocurcumin ameliorate oxidative stress-induced renal injury in mice. J Nutr. 2001;131:2090–2095. [PubMed] [Google Scholar]129. Lai CS, Wu JC, Yu SF, Badmaev V, Nagabhushanam K, Ho CT, et al. Tetrahydrocurcumin is more effective than curcumin in preventing azoxymethane-induced colon carcinogenesis. Mol Nutr Food Res. 2011;55:1819–1828. [PubMed] [Google Scholar]130. Chen CY, Yang WL, Kuo SY. Cytotoxic activity and cell cycle analysis of hexahydrocurcumin on SW 480 human colorectal cancer cells. Nat Prod Commun. 2011;6:1671–1672. [PubMed] [Google Scholar]131. Pan MH, Lin-Shiau SY, Lin JK. Comparative studies on the suppression of nitric oxide synthase by curcumin and its hydrogenated metabolites through down-regulation of IkappaB kinase and NFkappaB activation in macrophages. Biochem Pharmacol. 2000;60:1665–1676. [PubMed] [Google Scholar]132. Somparn P, Phisalaphong C, Nakornchai S, Unchern S, Morales NP. Comparative antioxidant activities of curcumin and its demethoxy and hydrogenated derivatives. Biol Pharm Bull. 2007;30:74–78. [PubMed] [Google Scholar]133. Pal A, Sung B, Bhanu Prasad BA, Schuber PT, Jr, Prasad S, Aggarwal BB, et al. Curcumin glucuronides: assessing the proliferative activity against human cell lines. Bioorg Med Chem. 2014;22:435–439. [PMC free article] [PubMed] [Google Scholar]Articles from Cancer Research and Treatment : Official Journal of Korean Cancer Association are provided here courtesy of Korean Cancer Association
+
+
+
+
+
+Other Formats
+
+PubReader
+PDF (1.5M)
+
+
+
+Actions
+
+
+
+Cite
+
+
+
+
+
+Collections
+
+
+
+Add to Collections
+
+
+
+
+
+
+
+Create a new collection
+
+
+
+Add to an existing collection
+
+
+
+
+
+
+        Name your collection:
+      
+
+
+        Name must be less than  characters
+      
+
+
+
+        Choose a collection:
+      
+
+
+
+        Unable to load your collection due to an error
+Please try again
+
+
+
+
+
+      Add
+    
+
+      Cancel
+    
+
+
+
+
+
+
+
+
+
+
+Share
+
+ 
+ 
+
+
+
+
+ 
+
+
+
+
+                                Permalink
+                              
+
+
+Copy
+
+
+
+
+
+
+
+
+RESOURCES
+
+
+
+
+                        Similar articles
+                    
+
+
+
+
+
+
+
+                        Cited by other articles
+                    
+
+
+
+
+
+
+
+                        Links to NCBI Databases
+                    
+
+
+
+
+
+
+
+
+
+
+[x]
+Cite
+
+
+
+
+      Copy
+    
+
+Download .nbib
+.nbib
+
+
+Format:
+
+
+        AMA
+      
+
+        APA
+      
+
+        MLA
+      
+
+        NLM
+      
+
+
+
+
+
+
+
+
+
+Follow NCBI
+
+
+
+
+
+
+Twitter
+
+
+
+
+Facebook
+
+
+
+
+LinkedIn
+
+
+
+
+
+
+
+GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Connect with NLM
+
+
+
+SM-Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+SM-Facebook
+
+
+
+
+
+
+
+
+
+SM-Youtube
+
+
+
+
+
+
+
+
+
+National Library of Medicine
+8600 Rockville Pike
+                  Bethesda, MD 20894
+
+
+Web Policies
+FOIA
+HHS Vulnerability Disclosure
+
+
+Help
+Accessibility
+Careers
+
+
+
+
+
+
+
+NLM
+
+
+NIH
+
+
+HHS
+
+
+USA.gov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
